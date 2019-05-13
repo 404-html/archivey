@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "70efe2b5-78d1-48ef-a839-11bc83d96da3",
+        "type": "message",
+        "text": "Do you guys use razor pages at work?",
+        "user": "U15HRTAHL",
+        "ts": "1539802819.000100"
+    },
+    {
+        "client_msg_id": "3322e94d-d240-4ad2-b9d9-cb040f6da2bd",
+        "type": "message",
+        "text": "Nope. We are getting rid of razorpages",
+        "user": "U15J5H60P",
+        "ts": "1539802830.000100"
+    },
+    {
+        "client_msg_id": "fc084f72-5b91-4b2a-a716-67654981ac6d",
+        "type": "message",
+        "text": "what are you switching to?",
+        "user": "U15HRTAHL",
+        "ts": "1539802839.000100"
+    },
+    {
+        "client_msg_id": "45a70209-3d9a-49cc-ab90-bff506acc5a4",
+        "type": "message",
+        "text": "Javascript",
+        "user": "U15J5H60P",
+        "ts": "1539802846.000100"
+    },
+    {
+        "client_msg_id": "5e84b859-70c3-46f5-8f97-3fe67752d6df",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1539802865.000100"
+    },
+    {
+        "client_msg_id": "d830f1c2-4263-46bb-b5f5-8d020ee0bc62",
+        "type": "message",
+        "text": "Getting off of .NET",
+        "user": "U15J5H60P",
+        "ts": "1539802868.000100"
+    },
+    {
+        "client_msg_id": "06D6C5DA-92B1-4F9F-8DA2-B369D1C017F0",
+        "type": "message",
+        "text": "We do",
+        "user": "U15HY5TG8",
+        "ts": "1539806646.000100"
+    },
+    {
+        "client_msg_id": "5FC93CE5-523D-4E82-9E96-FDAD1116F37E",
+        "type": "message",
+        "text": "However, on our new apps, we are decoupling as well",
+        "user": "U15HY5TG8",
+        "ts": "1539806677.000100"
+    },
+    {
+        "client_msg_id": "2A9373F9-A905-4157-B146-4D4B5B447166",
+        "type": "message",
+        "text": "People used too much session variables and it makes my coworker have an aneurysm everytime he sees it",
+        "user": "U15HY5TG8",
+        "ts": "1539806711.000100"
+    }
+]

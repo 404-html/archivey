@@ -1,0 +1,71 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FF0945M9B",
+                "created": 1545413082,
+                "timestamp": 1545413082,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 43780,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF0945M9B\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF0945M9B\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF0945M9B-2c048a7061\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF0945M9B-2c048a7061\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF0945M9B-2c048a7061\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF0945M9B-2c048a7061\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF0945M9B-2c048a7061\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 699,
+                "original_h": 699,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FF0945M9B\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FF0945M9B-e07945c6c9",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "3457957F-7EAA-4644-A5B6-55F22A37F82D",
+        "ts": "1545413085.000100"
+    },
+    {
+        "client_msg_id": "a10010a6-6f0b-4bf1-84f3-08c6905c4280",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1545413101.000500"
+    },
+    {
+        "client_msg_id": "42de34b1-2e02-4994-bfa5-c1c9b8f73732",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1545413114.000700"
+    },
+    {
+        "client_msg_id": "c8be9e4a-58b4-4434-8136-16646589b459",
+        "type": "message",
+        "text": "So that’s why we had to take MIPS",
+        "user": "U15J5H60P",
+        "ts": "1545414065.000900"
+    }
+]

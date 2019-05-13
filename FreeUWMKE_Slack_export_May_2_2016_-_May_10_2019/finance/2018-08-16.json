@@ -1,0 +1,272 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus MU",
+        "user": "U15J5H60P",
+        "ts": "1534448075.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               47.17               -0.32               -0.674 \n       Avg.                 ---                 ---              -0.674% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1534448075.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 35238,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cac12625-c65e-4562-9a7a-44fdf3ffd220",
+        "type": "message",
+        "text": "lol...",
+        "user": "U15J5H60P",
+        "ts": "1534448076.000100"
+    },
+    {
+        "client_msg_id": "9b1a935c-4142-446b-a87d-c3072b1ce179",
+        "type": "message",
+        "text": "It's ova",
+        "user": "U15J5H60P",
+        "ts": "1534448081.000100"
+    },
+    {
+        "client_msg_id": "d8a182eb-24bb-42cf-b90a-575255d7c99d",
+        "type": "message",
+        "text": "However",
+        "user": "U15J5H60P",
+        "ts": "1534448086.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1534448089.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              213.78                3.54                1.684 \n       Avg.                 ---                 ---               1.684% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1534448089.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 34181,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff099927-7795-4485-acf3-9242a93d672f",
+        "type": "message",
+        "text": ":party_parrot:",
+        "user": "U15J5H60P",
+        "ts": "1534448095.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus CRSP",
+        "user": "U15HRTAHL",
+        "ts": "1534448098.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       CRSP                49.7                2.64                5.610 \n       Avg.                 ---                 ---               5.610% \n```\n<http:\/\/finviz.com\/chart.ashx?t=CRSP&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1534448098.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=CRSP&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29045,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=CRSP&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=CRSP&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4bec7199-13cb-4677-bdc1-b5146b6c857e",
+        "type": "message",
+        "text": "damn",
+        "user": "U15HRTAHL",
+        "ts": "1534448101.000100"
+    },
+    {
+        "client_msg_id": "de3b0420-8e50-4988-8352-09fb824f5810",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1534448103.000200"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus DDD",
+        "user": "U15HRTAHL",
+        "ts": "1534448114.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n        DDD               19.25                0.38                2.014 \n       Avg.                 ---                 ---               2.014% \n```\n<http:\/\/finviz.com\/chart.ashx?t=DDD&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1534448114.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=DDD&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29879,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=DDD&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=DDD&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3d97bdd9-56ea-4ab3-b8b1-051fc97ab467",
+        "type": "message",
+        "text": "The hype is dead",
+        "user": "U15J5H60P",
+        "ts": "1534448116.000200"
+    },
+    {
+        "client_msg_id": "4682902a-88c4-48d7-9f13-fc77cd9910e2",
+        "type": "message",
+        "text": "DAAAMMNNN",
+        "user": "U15J5H60P",
+        "ts": "1534448120.000100"
+    },
+    {
+        "client_msg_id": "496cfa90-3a10-4ca4-9ddc-adcb2e884086",
+        "type": "message",
+        "text": "THE HYPE IS ALYVE",
+        "user": "U15J5H60P",
+        "ts": "1534448124.000100"
+    },
+    {
+        "client_msg_id": "219c6749-b4de-48ea-9235-80e65006a663",
+        "type": "message",
+        "text": "2THAMOON",
+        "user": "U15J5H60P",
+        "ts": "1534448137.000100"
+    },
+    {
+        "client_msg_id": "0b8d2372-541f-4356-8649-ea017bc6dc47",
+        "type": "message",
+        "text": "Analysts are screaming hold\/sell tho",
+        "user": "U15J5H60P",
+        "ts": "1534448167.000100"
+    },
+    {
+        "client_msg_id": "5302bba0-ee5b-44cc-b530-940409893aff",
+        "type": "message",
+        "text": "psh",
+        "user": "U15HRTAHL",
+        "ts": "1534448172.000200"
+    },
+    {
+        "client_msg_id": "1edec418-071c-47db-a3b4-737d22b93058",
+        "type": "message",
+        "text": "<https:\/\/www.marketbeat.com\/stocks\/NYSE\/DDD\/price-target\/>",
+        "user": "U15J5H60P",
+        "ts": "1534448173.000300",
+        "attachments": [
+            {
+                "title": "NYSE:DDD - 3D Systems Price Target &amp; Analyst Ratings$ DDD",
+                "title_link": "https:\/\/www.marketbeat.com\/stocks\/NYSE\/DDD\/price-target\/",
+                "text": "What are top-rated research analysts are saying about 3D Systems (NYSE:DDD)? View DDD's most recent analyst ratings, recommendations and price targets at MarketBeat.",
+                "fallback": "NYSE:DDD - 3D Systems Price Target &amp; Analyst Ratings$ DDD",
+                "thumb_url": "https:\/\/www.marketbeat.com\/logos\/3d-systems-logo.jpg",
+                "from_url": "https:\/\/www.marketbeat.com\/stocks\/NYSE\/DDD\/price-target\/",
+                "thumb_width": 450,
+                "thumb_height": 431,
+                "service_icon": "https:\/\/www.marketbeat.com\/images\/apple-touch-icon-precomposed.png",
+                "service_name": "marketbeat.com",
+                "id": 1,
+                "original_url": "https:\/\/www.marketbeat.com\/stocks\/NYSE\/DDD\/price-target\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "71886b92-ee59-4640-94ff-9d2295f8dc94",
+        "type": "message",
+        "text": "heck em",
+        "user": "U15HRTAHL",
+        "ts": "1534448175.000100"
+    },
+    {
+        "client_msg_id": "0f206b9f-1070-45c6-b45d-6a2409224881",
+        "type": "message",
+        "text": "I’m in it for the long",
+        "user": "U15HRTAHL",
+        "ts": "1534448180.000200"
+    },
+    {
+        "client_msg_id": "3af6c9f2-7f36-475a-a506-89c58735ecb4",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1534448181.000100"
+    },
+    {
+        "client_msg_id": "f3289d86-61bb-4606-9bcf-792a70b03198",
+        "type": "message",
+        "text": "God, MU is suck a piece of junk",
+        "user": "U15J5H60P",
+        "ts": "1534448196.000100"
+    },
+    {
+        "client_msg_id": "cfc078cc-395b-425c-b505-030653fc4e63",
+        "type": "message",
+        "text": "I should probably just sell it",
+        "user": "U15J5H60P",
+        "ts": "1534448205.000100"
+    },
+    {
+        "client_msg_id": "6c64d514-ac90-4d02-9792-6530ea4c0f36",
+        "type": "message",
+        "text": "go buy some crsp and retire once it becomes common place",
+        "user": "U15HRTAHL",
+        "ts": "1534448207.000100"
+    },
+    {
+        "client_msg_id": "83ddf3bf-314b-40e3-8bca-5356512a557e",
+        "type": "message",
+        "text": "Wells Fargo just put a Outperform rating on MU",
+        "user": "U15J5H60P",
+        "ts": "1534448232.000100"
+    },
+    {
+        "client_msg_id": "f87f8bd5-450a-497d-9abd-a08dbb60beed",
+        "type": "message",
+        "text": "With a price target of $63",
+        "user": "U15J5H60P",
+        "ts": "1534448242.000200"
+    },
+    {
+        "client_msg_id": "8ca27f66-d534-4d32-a6d2-61287c7479cf",
+        "type": "message",
+        "text": "I’ve been thinking of buying puts on netflix",
+        "user": "U15HRTAHL",
+        "ts": "1534448275.000100"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "client_msg_id": "83c21c64-f574-4dd3-9fb9-90dbb2827a51",
+        "type": "message",
+        "text": "you guys hear about qualcomm?",
+        "user": "U15HRTAHL",
+        "ts": "1555515292.000200"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15HRTAHL> fetched a quote with: `\/quote`",
+        "ts": "1555515296.000300",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "QCOM - QUALCOMM Inc.",
+                "title": "QCOM - QUALCOMM Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=qcom&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=qcom|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=qcom|Finviz> | <http:\/\/stocktwits.com\/symbol\/qcom|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1555515294,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "76.64",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+6.19 (+8.79%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "95,148,093",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "15,530,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.9\/5 (14 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "76.05 (-0.77%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "19919",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "19919",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "19919",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "19919",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=qcom&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 25930,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=qcom",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05B2DD6B-66B8-482E-BE12-D578526F8DF0",
+        "type": "message",
+        "text": "Holy shit lol",
+        "user": "U15J5H60P",
+        "ts": "1555518719.000500"
+    }
+]

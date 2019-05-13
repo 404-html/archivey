@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/www.nytimes.com\/2016\/06\/17\/business\/dealbook\/microsoft-following-the-clouds-to-offer-marijuana-tracking-software.html?_r=1>",
+        "user": "U15HRTAHL",
+        "ts": "1466114155.000002",
+        "attachments": [
+            {
+                "service_name": "The New York Times",
+                "service_url": "https:\/\/www.nytimes.com",
+                "title": "The First Big Company to Say It’s Serving the Legal Marijuana Trade? Microsoft.",
+                "title_link": "http:\/\/www.nytimes.com\/2016\/06\/17\/business\/dealbook\/microsoft-following-the-clouds-to-offer-marijuana-tracking-software.html?_r=1",
+                "author_name": "By NATHANIEL POPPER",
+                "thumb_url": "https:\/\/static01.nyt.com\/images\/2016\/06\/17\/business\/17DB-POT2\/17DB-POT2-mediumThreeByTwo440.jpg",
+                "thumb_width": 440,
+                "thumb_height": 293,
+                "text": "As the marijuana industry grows inexorably more mainstream, an established company moves to enter the government compliance side of the business.",
+                "fallback": "The New York Times Link: The First Big Company to Say It’s Serving the Legal Marijuana Trade? Microsoft.",
+                "from_url": "http:\/\/www.nytimes.com\/2016\/06\/17\/business\/dealbook\/microsoft-following-the-clouds-to-offer-marijuana-tracking-software.html?_r=1",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/nytimes.png",
+                "id": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "type": "message",
+        "text": "String concatenation in php is a fucking period",
+        "user": "U15HY5TG8",
+        "ts": "1518372598.000084"
+    },
+    {
+        "type": "message",
+        "text": "Nooooo php has pointers lol",
+        "user": "U15HY5TG8",
+        "ts": "1518372730.000131"
+    },
+    {
+        "type": "message",
+        "text": "niceeeeee",
+        "user": "U15HRTAHL",
+        "ts": "1518372736.000021"
+    },
+    {
+        "type": "message",
+        "text": "Php seems even more wild wild west than js",
+        "user": "U15HY5TG8",
+        "ts": "1518372842.000103"
+    },
+    {
+        "type": "message",
+        "text": "its the original programming language",
+        "user": "U15HRTAHL",
+        "ts": "1518372857.000132"
+    },
+    {
+        "type": "message",
+        "text": "hos does JS work within php? I've never understood that with server side scripting languages",
+        "user": "U15HRTAHL",
+        "ts": "1518372874.000129"
+    },
+    {
+        "type": "message",
+        "text": "Nooo idea. Im watching a super beginners tutorial",
+        "user": "U15HY5TG8",
+        "ts": "1518372898.000031"
+    },
+    {
+        "type": "message",
+        "text": "or does the server side language completely null out the need for js?",
+        "user": "U15HRTAHL",
+        "ts": "1518372909.000094"
+    },
+    {
+        "type": "message",
+        "text": "Php is server side right?",
+        "user": "U15HY5TG8",
+        "ts": "1518372956.000084"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1518372967.000109"
+    },
+    {
+        "type": "message",
+        "text": "Ok gotcha. Its weird because its written in an html file but i figured it was server side because he said the user cant inspect source and see it",
+        "user": "U15HY5TG8",
+        "ts": "1518373010.000095"
+    },
+    {
+        "type": "message",
+        "text": "I think the answer to your question is yes though. ",
+        "user": "U15HY5TG8",
+        "ts": "1518373029.000041"
+    },
+    {
+        "type": "message",
+        "text": "Like this guy writes it exactly like how you would write js, except in php",
+        "user": "U15HY5TG8",
+        "ts": "1518373067.000105"
+    },
+    {
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HRTAHL",
+        "ts": "1518373072.000121"
+    },
+    {
+        "type": "message",
+        "text": "However, js can definitely be used for like ui tricks though. For example, he displayed a form with attributes action=\"blahblah.php\" method=\"post\" and then everything the form tag wraps will be used in the php script. ",
+        "user": "U15HY5TG8",
+        "ts": "1518373216.000107"
+    },
+    {
+        "type": "message",
+        "text": "However im sure you could wrap the form tag in a div that references a js controller",
+        "user": "U15HY5TG8",
+        "ts": "1518373241.000067"
+    },
+    {
+        "type": "message",
+        "text": "Lol he just called curly brackets \"jibbleys\"",
+        "user": "U15HY5TG8",
+        "ts": "1518373292.000044"
+    },
+    {
+        "type": "message",
+        "text": "It’s an API for that simulator I was talking about",
+        "user": "U15J5H60P",
+        "ts": "1518394326.000010"
+    },
+    {
+        "type": "message",
+        "text": "It uses a Node backend and a Mongo DB.",
+        "user": "U15J5H60P",
+        "ts": "1518394337.000036"
+    },
+    {
+        "client_msg_id": "2d1ae6bd-4475-490b-ba3c-3ae4835309cb",
+        "type": "message",
+        "text": "Are you yql for quotes?",
+        "user": "U15HRTAHL",
+        "ts": "1518394360.000003"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1518394364.000006"
+    },
+    {
+        "client_msg_id": "94be3b67-a20d-4129-9432-2f54c9ee59d4",
+        "type": "message",
+        "text": "Using yql*",
+        "user": "U15HRTAHL",
+        "ts": "1518394367.000120"
+    },
+    {
+        "type": "message",
+        "text": "No idea what that is.",
+        "user": "U15J5H60P",
+        "ts": "1518394374.000097"
+    },
+    {
+        "client_msg_id": "48f30d5b-2f90-455d-a231-b732a4b6a592",
+        "type": "message",
+        "text": "<https:\/\/developer.yahoo.com\/yql\/>",
+        "user": "U15HRTAHL",
+        "ts": "1518394402.000071"
+    },
+    {
+        "client_msg_id": "e488aeec-842e-4cb2-b1cf-3f769279f813",
+        "type": "message",
+        "text": "Yahoo has the best finance apis available",
+        "user": "U15HRTAHL",
+        "ts": "1518394414.000044"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1518394416.000076"
+    },
+    {
+        "type": "message",
+        "text": "That endpoint doesn’t even work anymore",
+        "user": "U15J5H60P",
+        "ts": "1518394421.000051"
+    },
+    {
+        "client_msg_id": "96869d11-0c2b-4aa3-ba17-f6a0653a3e7e",
+        "type": "message",
+        "text": "Whattt",
+        "user": "U15HRTAHL",
+        "ts": "1518394425.000126"
+    },
+    {
+        "client_msg_id": "c35fd093-a368-446a-a84d-63761b33e89a",
+        "type": "message",
+        "text": "Are you serious",
+        "user": "U15HRTAHL",
+        "ts": "1518394430.000041"
+    },
+    {
+        "type": "message",
+        "text": "In their tester at least",
+        "user": "U15J5H60P",
+        "ts": "1518394444.000039"
+    },
+    {
+        "client_msg_id": "f165cd9b-5443-4da1-98e1-d4819a4c8059",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1518394451.000056"
+    },
+    {
+        "client_msg_id": "618ca299-c376-4afe-a14b-975903469d1e",
+        "type": "message",
+        "text": "That's funny ",
+        "user": "U15HRTAHL",
+        "ts": "1518394454.000055"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh nice!",
+        "user": "U15HY5TG8",
+        "ts": "1518394477.000102"
+    },
+    {
+        "type": "message",
+        "text": "Might use this - <https:\/\/www.alphavantage.co\/>",
+        "user": "U15J5H60P",
+        "ts": "1518394542.000138",
+        "attachments": [
+            {
+                "title": "Alpha Vantage - Free APIs for Realtime and Historical Financial Data, Technical Analysis, Charting, and More! ",
+                "title_link": "https:\/\/www.alphavantage.co\/",
+                "text": "Alpha Vantage offers free APIs in JSON and CSV formats for realtime and historical stock and forex data, digital\/crypto currency data and over 50 technical indicators. Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series. 100% free with unlimited API calls.",
+                "fallback": "Alpha Vantage - Free APIs for Realtime and Historical Financial Data, Technical Analysis, Charting, and More! ",
+                "from_url": "https:\/\/www.alphavantage.co\/",
+                "service_icon": "https:\/\/www.alphavantage.co\/static\/img\/favicon.ico",
+                "service_name": "alphavantage.co",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I’m not writing tests for my API so I’m not very confident in my code",
+        "user": "U15J5H60P",
+        "ts": "1518394552.000056"
+    },
+    {
+        "type": "message",
+        "text": "I’d also like to use Swagger to document my API but I haven’t gotten around to it yet.",
+        "user": "U15J5H60P",
+        "ts": "1518394564.000025"
+    },
+    {
+        "type": "message",
+        "text": "You should use jasmine",
+        "user": "U15HY5TG8",
+        "ts": "1518394701.000148"
+    },
+    {
+        "type": "message",
+        "text": "I was thinking Mocha",
+        "user": "U15J5H60P",
+        "ts": "1518394710.000077"
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1518394729.000134"
+    },
+    {
+        "type": "message",
+        "text": "Hows your project going?",
+        "user": "U15J5H60P",
+        "ts": "1518394740.000031"
+    },
+    {
+        "type": "message",
+        "text": "Jasmine actually seems like a good option as well",
+        "user": "U15J5H60P",
+        "ts": "1518394788.000022"
+    },
+    {
+        "type": "message",
+        "text": "Havent started yet. My manager has to move it from his private mini datacenter to the cloud",
+        "user": "U15HY5TG8",
+        "ts": "1518394789.000143"
+    },
+    {
+        "type": "message",
+        "text": "Good call",
+        "user": "U15J5H60P",
+        "ts": "1518394790.000075"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1518394794.000032"
+    },
+    {
+        "type": "message",
+        "text": "Do you use Jasmine?",
+        "user": "U15J5H60P",
+        "ts": "1518394800.000118"
+    },
+    {
+        "type": "message",
+        "text": "Yea i used that myself",
+        "user": "U15HY5TG8",
+        "ts": "1518394804.000166"
+    },
+    {
+        "type": "message",
+        "text": "At work?",
+        "user": "U15J5H60P",
+        "ts": "1518394810.000109"
+    },
+    {
+        "type": "message",
+        "text": "Just on a little project at work",
+        "user": "U15HY5TG8",
+        "ts": "1518394816.000096"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1518394822.000018"
+    },
+    {
+        "type": "message",
+        "text": "It was pretty easy to set up. Just create the same js file but then its called someclass.spec.js and then you have an html file that references it and you just paste the path into your browser and it runs anything in the spec.js file",
+        "user": "U15HY5TG8",
+        "ts": "1518394893.000021"
+    },
+    {
+        "type": "message",
+        "text": "Setting it up isn’t the hard part. Writing good tests is though lol",
+        "user": "U15J5H60P",
+        "ts": "1518394931.000119"
+    },
+    {
+        "type": "message",
+        "text": "Those are pretty easy too lol although i was failing miserably at tests that needed http requests",
+        "user": "U15HY5TG8",
+        "ts": "1518394979.000062"
+    },
+    {
+        "type": "message",
+        "text": "for production, we're supposed to start using chutzpah",
+        "user": "U15HY5TG8",
+        "ts": "1518395106.000088"
+    },
+    {
+        "type": "message",
+        "text": "What’s that?",
+        "user": "U15J5H60P",
+        "ts": "1518395114.000157"
+    },
+    {
+        "type": "message",
+        "text": "another test runner",
+        "user": "U15HY5TG8",
+        "ts": "1518395122.000132"
+    },
+    {
+        "type": "message",
+        "text": "i think its favorable in visual studio",
+        "user": "U15HY5TG8",
+        "ts": "1518395194.000004"
+    },
+    {
+        "type": "message",
+        "text": "what do you use for an ide now?",
+        "user": "U15HY5TG8",
+        "ts": "1518395206.000082"
+    },
+    {
+        "type": "message",
+        "text": "VS Code",
+        "user": "U15J5H60P",
+        "ts": "1518395455.000129"
+    },
+    {
+        "type": "message",
+        "text": "Nice nice",
+        "user": "U15HY5TG8",
+        "ts": "1518395485.000084"
+    },
+    {
+        "type": "message",
+        "text": "Its so easy to use",
+        "user": "U15HY5TG8",
+        "ts": "1518395492.000033"
+    }
+]

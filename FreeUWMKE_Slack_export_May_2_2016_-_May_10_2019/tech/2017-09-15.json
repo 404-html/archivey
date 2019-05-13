@@ -1,0 +1,1702 @@
+[
+    {
+        "type": "message",
+        "text": "these bose headphones charge in like 30 minutes and last a few days",
+        "user": "U15HRTAHL",
+        "ts": "1505485276.000406"
+    },
+    {
+        "type": "message",
+        "text": "its awesome",
+        "user": "U15HRTAHL",
+        "ts": "1505485280.000705"
+    },
+    {
+        "type": "message",
+        "text": "What are they?",
+        "user": "U15HY5TG8",
+        "ts": "1505485303.000352"
+    },
+    {
+        "type": "message",
+        "text": "@bose ++",
+        "user": "U15J5H60P",
+        "ts": "1505485394.000411"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> ",
+        "user": "U15J5H60P",
+        "ts": "1505485406.000785"
+    },
+    {
+        "user": "U72Q808MN",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505485411.000303",
+        "text": "<@U72Q808MN> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "@bose ++",
+        "user": "U15J5H60P",
+        "ts": "1505485418.000069"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1505485422.000715"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15J5H60P",
+        "ts": "1505485429.000428"
+    },
+    {
+        "type": "message",
+        "text": "Ass",
+        "user": "U15J5H60P",
+        "ts": "1505485433.000449"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505485479.000162",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@andrew>  [1 point] :high_heel:\n2.  <@james>  [-1 points] \n2.  <@joeythomaschaske>  [-1 points] \n2.  <@tommy>  [-1 points] \n3.  <@ev>  [-2 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Took it a minute",
+        "user": "U15J5H60P",
+        "ts": "1505485497.000444"
+    },
+    {
+        "type": "message",
+        "text": "Damnnn why am i -2",
+        "user": "U15HY5TG8",
+        "ts": "1505485819.000827"
+    },
+    {
+        "type": "message",
+        "text": "does this carry over channels?",
+        "user": "U15HSHSS2",
+        "ts": "1505486312.000563"
+    },
+    {
+        "type": "message",
+        "text": "or is there a separate plusplus for each channel?",
+        "user": "U15HSHSS2",
+        "ts": "1505486334.000044"
+    },
+    {
+        "type": "message",
+        "text": "I think it carrys",
+        "user": "U15HRTAHL",
+        "ts": "1505486411.000173"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HSHSS2",
+        "ts": "1505486492.000124"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "No. Just no. [<@U15HSHSS2>, still at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505486492.000268",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "199x100px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/146SJ7jy4BFXHy\/100.gif?1505486489.5408285",
+                "image_width": 199,
+                "image_height": 100,
+                "image_bytes": 348369,
+                "is_animated": true,
+                "id": 1,
+                "color": "b46ab1"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505486561.000585"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Condolences. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-2 points>]",
+        "ts": "1505486561.000635",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> ++",
+        "user": "U15HRTAHL",
+        "ts": "1505486584.000266"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Bravo. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505486584.000342",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505486864.000027"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505486864.000093",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@andrew>  [0 points] :high_heel:\n2.  <@james>  [-1 points] \n2.  <@joeythomaschaske>  [-1 points] \n2.  <@tommy>  [-1 points] \n3.  <@ev>  [-2 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505486925.000443"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505486925.000508",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@james>  [-1 points] :high_heel:\n1.  <@tommy>  [-1 points] \n2.  <@andrew>  [-2 points] \n2.  <@joeythomaschaske>  [-2 points] \n3.  <@ev>  [-3 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Why do you keep asking for the leaderboard? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1505486958.000179"
+    },
+    {
+        "type": "message",
+        "text": "And why am i at -3 now?",
+        "user": "U15HY5TG8",
+        "ts": "1505486975.000292"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505486989.000252"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505486989.000317",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@tommy>  [-1 points] :high_heel:\n2.  <@joeythomaschaske>  [-2 points] \n3.  <@andrew>  [-3 points] \n3.  <@james>  [-3 points] \n4.  <@ev>  [-5 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15HY5TG8",
+        "ts": "1505486998.000346"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505487020.000821"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487021.000088",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@tommy>  [-1 points] :high_heel:\n2.  <@andrew>  [-3 points] \n2.  <@joeythomaschaske>  [-3 points] \n3.  <@james>  [-4 points] \n4.  <@ev>  [-7 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "There's two plus plus users",
+        "user": "U15HRTAHL",
+        "ts": "1505487022.000315"
+    },
+    {
+        "type": "message",
+        "text": "<@U5VC3HJBY> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505487045.000166"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487045.000235",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@tommy>  [-1 points] :high_heel:\n2.  <@andrew>  [-3 points] \n2.  <@joeythomaschaske>  [-3 points] \n3.  <@james>  [-4 points] \n4.  <@ev>  [-7 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Why does it auto minus minus us?",
+        "user": "U15HY5TG8",
+        "ts": "1505487069.000146"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505487086.000750"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487087.000278",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@tommy>  [-1 points] :high_heel:\n2.  <@joeythomaschaske>  [-4 points] \n3.  <@andrew>  [-5 points] \n3.  <@james>  [-5 points] \n4.  <@ev>  [-9 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Fucking plus plus",
+        "user": "U15HY5TG8",
+        "ts": "1505487096.000339"
+    },
+    {
+        "type": "message",
+        "text": "Maybe you guys should clean up your act",
+        "user": "U15HSHSS2",
+        "ts": "1505487112.000120"
+    },
+    {
+        "type": "message",
+        "text": "I think someone's doing it in a secret channel",
+        "user": "U15HZ01QX",
+        "ts": "1505487118.000605"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1505487132.000419"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505487146.000068"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487146.000139",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@tommy>  [-1 points] :high_heel:\n2.  <@joeythomaschaske>  [-4 points] \n3.  <@andrew>  [-5 points] \n4.  <@ev>  [-9 points] \n5.  <@james>  [-10 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:\n2.  @james  [-1 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Well...tommys the only one not losing points...",
+        "user": "U15HY5TG8",
+        "ts": "1505487150.000705"
+    },
+    {
+        "type": "message",
+        "text": "Damn James i dont think it liked that comment",
+        "user": "U15HSHSS2",
+        "ts": "1505487155.000410"
+    },
+    {
+        "type": "message",
+        "text": "better knock off that kinda talk",
+        "user": "U15HSHSS2",
+        "ts": "1505487168.000400"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487175.000423"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, really? [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-2 points>] :high_heel:",
+        "ts": "1505487175.000505",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487178.000051"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, really? [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-3 points>] :high_heel:",
+        "ts": "1505487178.000110",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487180.000598"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh dear. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-4 points>]",
+        "ts": "1505487180.000658",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487182.000776"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well, then. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-5 points>]",
+        "ts": "1505487183.000042",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487185.000345"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-6 points>]",
+        "ts": "1505487185.000375",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487188.000364"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Not so fast. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-7 points>]",
+        "ts": "1505487188.000414",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487190.000733"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487194.000857"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487197.000160"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505487208.000502"
+    },
+    {
+        "type": "message",
+        "text": "noooooo",
+        "user": "U15HSHSS2",
+        "ts": "1505487219.000130"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh dear. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-8 points>]",
+        "ts": "1505487232.000723",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Condolences. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-9 points>]",
+        "ts": "1505487233.000246",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [<@U15HSHSS2>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-10 points>]",
+        "ts": "1505487234.000514",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487235.000159",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@ev>  [2 points] :high_heel:\n2.  <@joeythomaschaske>  [-4 points] \n3.  <@andrew>  [-5 points] \n4.  <@james>  [-10 points] \n4.  <@tommy>  [-10 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bose  [1 point] :cocktail:\n2.  @james  [-1 points] \n3.  @ev  [-5 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thats better",
+        "user": "U15HY5TG8",
+        "ts": "1505487244.000539"
+    },
+    {
+        "type": "message",
+        "text": "Not sure howci became a thing and also +2",
+        "user": "U15HY5TG8",
+        "ts": "1505487266.000821"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> --",
+        "user": "U15HSHSS2",
+        "ts": "1505487349.000735"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487351.000212",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "179x100px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/3o85xGocUH8RYoDKKs\/100.gif?1505487348.3575454",
+                "image_width": 179,
+                "image_height": 100,
+                "image_bytes": 488629,
+                "is_animated": true,
+                "id": 1,
+                "color": "b46ab1"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [<@U72Q808MN>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505487351.000324",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "reset the leaderboard",
+        "user": "U15HZ01QX",
+        "ts": "1505487389.000348"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> reset leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505487547.000005"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Leaderboard was reseted, 77 point records were deleted.",
+        "ts": "1505487547.000684",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "O now i can. What the hell",
+        "user": "U15HY5TG8",
+        "ts": "1505487557.000618"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> --",
+        "user": "U15HY5TG8",
+        "ts": "1505487564.000313"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487565.000571",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "142x100px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/qShLaUsRVQBFK\/100.gif?1505487563.13268",
+                "image_width": 142,
+                "image_height": 100,
+                "image_bytes": 545800,
+                "is_animated": true,
+                "id": 1,
+                "color": "b46ab1"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Right. [<@U72Q808MN>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>] :high_heel:",
+        "ts": "1505487565.000662",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HZ01QX",
+        "ts": "1505487596.000068"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487596.000314",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@plusplus>  [-1 points] :high_heel:\n2.  <@andrew>  [-12 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1505487606.000700"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505487634.000435"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487634.000668",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@plusplus>  [-1 points] :high_heel:\n2.  <@andrew>  [-12 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "haha okay that one wasn't me this time",
+        "user": "U15HSHSS2",
+        "ts": "1505487670.000822"
+    },
+    {
+        "type": "message",
+        "text": "It wasnt me either",
+        "user": "U15HY5TG8",
+        "ts": "1505487682.000785"
+    },
+    {
+        "type": "message",
+        "text": "Idk who it was because that isnt even his handle",
+        "user": "U15HY5TG8",
+        "ts": "1505487697.000473"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> ++",
+        "user": "U15HSHSS2",
+        "ts": "1505487728.000158"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well played.  [<@U15J5H60P>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-11 points>]",
+        "ts": "1505487728.000241",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15J5H60P",
+        "ts": "1505487796.000701"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505487842.000094"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505487842.000349",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@plusplus>  [-1 points] :high_heel:\n2.  <@andrew>  [-15 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lol who is it?",
+        "user": "U15HY5TG8",
+        "ts": "1505487873.000404"
+    },
+    {
+        "type": "message",
+        "text": "gotta be james",
+        "user": "U15HSHSS2",
+        "ts": "1505487890.000389"
+    },
+    {
+        "type": "message",
+        "text": "I think its joe. Hes giggling like a schoolgirl behind his screen",
+        "user": "U15HY5TG8",
+        "ts": "1505488116.000162"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15J5H60P",
+        "ts": "1505488176.000402"
+    },
+    {
+        "type": "message",
+        "text": "I don't have time to fuck with plus plus lol",
+        "user": "U15HRTAHL",
+        "ts": "1505488217.000100"
+    },
+    {
+        "type": "message",
+        "text": "Slack",
+        "user": "U15HZ01QX",
+        "ts": "1505488249.000083"
+    },
+    {
+        "type": "message",
+        "text": "er",
+        "user": "U15HZ01QX",
+        "ts": "1505488250.000291"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1505488372.000320"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> --",
+        "user": "U15HZ01QX",
+        "ts": "1505488381.000078"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, I see. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-16 points>]",
+        "ts": "1505488381.000139",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HZ01QX",
+        "ts": "1505488387.000309"
+    },
+    {
+        "type": "message",
+        "text": "How'd I get that far down?",
+        "user": "U15HRTAHL",
+        "ts": "1505488394.000007"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HRTAHL",
+        "ts": "1505488404.000582"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505488404.000646",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@andrew>  [1 point] :high_heel:\n2.  <@joeythomaschaske>  [-16 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @tommydidit  [7 points] :cocktail:\n2.  @joeythomaschaske  [-1 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "tommy did it",
+        "user": "U15HRTAHL",
+        "ts": "1505488411.000062"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15HRTAHL",
+        "ts": "1505488414.000612"
+    },
+    {
+        "type": "message",
+        "text": "troll",
+        "user": "U15HRTAHL",
+        "ts": "1505488416.000288"
+    },
+    {
+        "type": "message",
+        "text": "someone is dming plus plus",
+        "user": "U15HRTAHL",
+        "ts": "1505488428.000098"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HRTAHL",
+        "ts": "1505488448.000470"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505488448.000537",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@andrew>  [1 point] :high_heel:\n2.  <@joeythomaschaske>  [-16 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @tommydidit  [7 points] :cocktail:\n2.  @joeythomaschaske  [-1 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I did the original one lol",
+        "user": "U15HSHSS2",
+        "ts": "1505488461.000281"
+    },
+    {
+        "type": "message",
+        "text": "then somebody bombarded andrew lol",
+        "user": "U15HSHSS2",
+        "ts": "1505488471.000021"
+    },
+    {
+        "type": "message",
+        "text": "oh shit now joe",
+        "user": "U15HSHSS2",
+        "ts": "1505488481.000367"
+    },
+    {
+        "type": "message",
+        "text": "It's James",
+        "user": "U15J5H60P",
+        "ts": "1505488489.000348"
+    },
+    {
+        "type": "message",
+        "text": "Yu caught me",
+        "user": "U15HZ01QX",
+        "ts": "1505488500.000440"
+    },
+    {
+        "type": "message",
+        "text": "i did it and then framed tommy",
+        "user": "U15HZ01QX",
+        "ts": "1505488511.000353"
+    },
+    {
+        "type": "message",
+        "text": "man remember when this was FREEuwmke?",
+        "user": "U15HRTAHL",
+        "ts": "1505488548.000659"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1505488567.000325"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1505488567.000328"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, I see. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505488568.000635",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "free of the oppression and now we're the oppressed",
+        "user": "U15HRTAHL",
+        "ts": "1505488574.000307"
+    },
+    {
+        "type": "message",
+        "text": "The devlopers for plusplus are really bad",
+        "user": "U15HZ01QX",
+        "ts": "1505488597.000056"
+    },
+    {
+        "type": "message",
+        "text": "So i cant reset the leaderboard",
+        "user": "U15HZ01QX",
+        "ts": "1505488615.000142"
+    },
+    {
+        "type": "message",
+        "text": "Because im not an admin",
+        "user": "U15HZ01QX",
+        "ts": "1505488623.000428"
+    },
+    {
+        "type": "message",
+        "text": "But im the owner",
+        "user": "U15HZ01QX",
+        "ts": "1505488627.000414"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I tried too",
+        "user": "U15HSHSS2",
+        "ts": "1505488658.000407",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1505488670.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "You should be able to",
+        "user": "U15HZ01QX",
+        "ts": "1505488698.000228"
+    },
+    {
+        "type": "message",
+        "text": "Youre an admin",
+        "user": "U15HZ01QX",
+        "ts": "1505488704.000372"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> reset leaderboard",
+        "user": "U15HZ01QX",
+        "ts": "1505488716.000074"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "You don't have access to do this. You aren't an admin of team.",
+        "ts": "1505488716.000118",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> reset leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505488792.000248",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1505488802.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> reset leaderboard",
+        "user": "U15HSHSS2",
+        "ts": "1505488807.000287"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "You don't have access to do this. You aren't an admin of team.",
+        "ts": "1505488807.000345",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> -- 1000",
+        "user": "U15HSHSS2",
+        "ts": "1505488820.000124"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1505488821.000402",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "93x100px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/Q53httUwMgVcQ\/100.gif?1505488818.737129",
+                "image_width": 93,
+                "image_height": 100,
+                "image_bytes": 80796,
+                "is_animated": true,
+                "id": 1,
+                "color": "b46ab1"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Right. [<@U72Q808MN>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505488821.000497",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "Lol that was my problem yesterday. Now i can today",
+        "user": "U15HY5TG8",
+        "ts": "1505488846.000361"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> reset leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505488857.000219"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Leaderboard was reseted, 29 point records were deleted.",
+        "ts": "1505488859.000724",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HZ01QX",
+        "ts": "1505488862.000235"
+    },
+    {
+        "type": "message",
+        "text": "aye",
+        "user": "U15HZ01QX",
+        "ts": "1505488867.000015"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1505488961.000035"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Come on people, plus away. Stop being so boring",
+        "ts": "1505488962.000162",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/circuitbreaker\/2017\/9\/14\/16308160\/bose-qc-35-ii-headphones-google-assistant-leak>",
+        "user": "U15J5H60P",
+        "ts": "1505495647.000098",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Bose’s QuietComfort 35 II headphones will have a Google Assistant button",
+                "title_link": "https:\/\/www.theverge.com\/circuitbreaker\/2017\/9\/14\/16308160\/bose-qc-35-ii-headphones-google-assistant-leak",
+                "text": "Leaked image reveals the big new feature of these noise-canceling headphones.",
+                "fallback": "The Verge: Bose’s QuietComfort 35 II headphones will have a Google Assistant button",
+                "image_url": "https:\/\/cdn0.vox-cdn.com\/thumbor\/ydatfzydaTLzepOpKnkZ-_uwk6Q=\/0x119:1466x887\/fit-in\/1200x630\/cdn1.vox-cdn.com\/uploads\/chorus_asset\/file\/9248131\/Screen_Shot_2017_09_14_at_2.09.24_PM.png",
+                "image_width": 477,
+                "image_height": 250,
+                "ts": 1505413163,
+                "from_url": "https:\/\/www.theverge.com\/circuitbreaker\/2017\/9\/14\/16308160\/bose-qc-35-ii-headphones-google-assistant-leak",
+                "image_bytes": 73605,
+                "service_icon": "https:\/\/cdn2.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Damn...",
+        "user": "U15J5H60P",
+        "ts": "1505495649.000220"
+    },
+    {
+        "type": "message",
+        "text": "Shouldn't have bought them yet, <@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1505495662.000154"
+    },
+    {
+        "type": "message",
+        "text": "Oh well ",
+        "user": "U15HRTAHL",
+        "ts": "1505496228.000099"
+    },
+    {
+        "type": "message",
+        "text": "That being said",
+        "user": "U15J5H60P",
+        "ts": "1505496539.000022"
+    },
+    {
+        "type": "message",
+        "text": "@bose ++",
+        "user": "U15J5H60P",
+        "ts": "1505496541.000632"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well, well. [@bose, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|1 point>]",
+        "ts": "1505496542.000091",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "so that means they also come with a microphone",
+        "user": "U15HRTAHL",
+        "ts": "1505496650.000014"
+    },
+    {
+        "type": "message",
+        "text": "The current ones don't?",
+        "user": "U15J5H60P",
+        "ts": "1505496697.000322"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1505496854.000639"
+    },
+    {
+        "type": "message",
+        "text": "@bose --",
+        "user": "U15J5H60P",
+        "ts": "1505496936.000381"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh dear. [@bose, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|0 points>]",
+        "ts": "1505496936.000436",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1505497828.000099"
+    },
+    {
+        "type": "message",
+        "text": "Just saw this",
+        "user": "U15HRTAHL",
+        "ts": "1505497995.000689"
+    },
+    {
+        "type": "message",
+        "text": "lol yeah I saw that",
+        "user": "U15HSHSS2",
+        "ts": "1505498021.000571"
+    },
+    {
+        "type": "message",
+        "text": "Can't say I've ever felt behind when it comes to my iPhone",
+        "user": "U15J5H60P",
+        "ts": "1505498596.000224"
+    },
+    {
+        "type": "message",
+        "text": "I had a 1+ for a couple weeks and thought it was a piece of junk",
+        "user": "U15J5H60P",
+        "ts": "1505498607.000442"
+    },
+    {
+        "type": "message",
+        "text": "Even though it claimed to have a faster processor and a better camera",
+        "user": "U15J5H60P",
+        "ts": "1505498619.000400"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15HRTAHL",
+        "ts": "1505498710.000154"
+    },
+    {
+        "type": "message",
+        "text": "Fake news",
+        "user": "U15HY5TG8",
+        "ts": "1505498726.000481"
+    },
+    {
+        "type": "message",
+        "text": "@propaganda --",
+        "user": "U15HZ01QX",
+        "ts": "1505498734.000182"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [@propaganda, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505498734.000308",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "@propaganda --",
+        "user": "U15HY5TG8",
+        "ts": "1505498749.000402"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [@propaganda, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-2 points>]",
+        "ts": "1505498750.000017",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "@fanboys --",
+        "user": "U15HRTAHL",
+        "ts": "1505498765.000019"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh là là. [@fanboys, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505498765.000078",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "@android--",
+        "user": "U15HY5TG8",
+        "ts": "1505498767.000376"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well, then. [@android, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505498768.000007",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "hey",
+        "user": "U15HRTAHL",
+        "ts": "1505498771.000054"
+    },
+    {
+        "type": "message",
+        "text": "not cool",
+        "user": "U15HRTAHL",
+        "ts": "1505498774.000469"
+    },
+    {
+        "type": "message",
+        "text": "@android ++",
+        "user": "U15HRTAHL",
+        "ts": "1505498778.000404"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Charming. [@android, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|0 points>]",
+        "ts": "1505498778.000453",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> --",
+        "user": "U15HY5TG8",
+        "ts": "1505498779.000444"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh là là. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1505498780.000650",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> --",
+        "user": "U15HRTAHL",
+        "ts": "1505498784.000269"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Condolences. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|0 points>] :high_heel:",
+        "ts": "1505498784.000308",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> ++",
+        "user": "U15HY5TG8",
+        "ts": "1505498793.000113"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Delicious. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|0 points>]",
+        "ts": "1505498793.000374",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> ++",
+        "user": "U15HRTAHL",
+        "ts": "1505498799.000617"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Bravo. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|1 point>] :high_heel:",
+        "ts": "1505498799.000656",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "@delicious++",
+        "user": "U15HY5TG8",
+        "ts": "1505498808.000110"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Sincerest Congratulations. [@delicious, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|1 point>] :cocktail:",
+        "ts": "1505498808.000164",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "I know it's not out yet, but Marques Brownlee and EverythingApplePro made videos on why to hold off on the iPhone X",
+        "user": "U15J5H60P",
+        "ts": "1505510494.000401"
+    },
+    {
+        "type": "message",
+        "text": "can you give us the cliff notes",
+        "user": "U15HRTAHL",
+        "ts": "1505510511.000310"
+    },
+    {
+        "type": "message",
+        "text": "Don't buy it because it's not that great ",
+        "user": "U15J5H60P",
+        "ts": "1505510532.000103"
+    },
+    {
+        "type": "message",
+        "text": "Keen",
+        "user": "U15HZ01QX",
+        "ts": "1505510543.000164"
+    },
+    {
+        "type": "message",
+        "text": "Then Marques put it next to an essential phone and I immediately got it",
+        "user": "U15J5H60P",
+        "ts": "1505510558.000244"
+    },
+    {
+        "type": "message",
+        "text": "Marques and EverythingApplePro are usually pretty \"Yeah! Definitely get it if you like iPhones!\"",
+        "user": "U15J5H60P",
+        "ts": "1505510591.000234"
+    },
+    {
+        "type": "message",
+        "text": "But now they're all, eh... ",
+        "user": "U15J5H60P",
+        "ts": "1505510604.000179"
+    },
+    {
+        "type": "message",
+        "text": "the essential phone looks pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1505510648.000154"
+    },
+    {
+        "type": "message",
+        "text": "You wanna buy my phone?",
+        "user": "U15HZ01QX",
+        "ts": "1505510670.000302"
+    },
+    {
+        "type": "message",
+        "text": "No. I don't buy used phones. ",
+        "user": "U15J5H60P",
+        "ts": "1505510705.000023"
+    },
+    {
+        "type": "message",
+        "text": "If I wanted the 7, I'd have it already lol",
+        "user": "U15J5H60P",
+        "ts": "1505510739.000049"
+    },
+    {
+        "type": "message",
+        "text": "I think I might hold off until next year pending reviews...",
+        "user": "U15J5H60P",
+        "ts": "1505510759.000092"
+    },
+    {
+        "type": "message",
+        "text": "Barely used",
+        "user": "U15HZ01QX",
+        "ts": "1505510805.000321"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1505510811.000354"
+    },
+    {
+        "type": "message",
+        "text": "\"used\"",
+        "user": "U15J5H60P",
+        "ts": "1505510817.000260"
+    },
+    {
+        "type": "message",
+        "text": "Key word",
+        "user": "U15J5H60P",
+        "ts": "1505510820.000231"
+    },
+    {
+        "type": "message",
+        "text": "Best I can do is $50",
+        "user": "U15J5H60P",
+        "ts": "1505510843.000120"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1505512846.000236"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> -- for pushing junk onto our hands",
+        "user": "U15HY5TG8",
+        "ts": "1505512883.000188"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|29 points>]",
+        "ts": "1505512884.000212",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    }
+]

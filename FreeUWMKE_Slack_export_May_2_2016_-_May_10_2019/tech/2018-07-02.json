@@ -1,0 +1,24 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1530553838.000445",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "client_msg_id": "67b1b403-ab29-4e3f-9e30-567393bed401",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1530553868.000012"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530553869.000356",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15J5H60P"
+    }
+]

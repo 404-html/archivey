@@ -1,0 +1,438 @@
+[
+    {
+        "client_msg_id": "f4c5dd77-3566-4fad-906c-ecdff11b91d3",
+        "type": "message",
+        "text": "wtf causes a double request to happen",
+        "user": "U15HY5TG8",
+        "ts": "1553692186.021300"
+    },
+    {
+        "client_msg_id": "c8227412-8a1c-4254-8a76-ecced6a3dc98",
+        "type": "message",
+        "text": "Bad programming",
+        "user": "U15HRTAHL",
+        "ts": "1553692223.021500"
+    },
+    {
+        "client_msg_id": "b8a212bc-ba65-4f63-a68d-3b3dce7070ca",
+        "type": "message",
+        "text": "you stfu",
+        "user": "U15HY5TG8",
+        "ts": "1553692243.021700"
+    },
+    {
+        "client_msg_id": "73f68c3b-9e2c-4d94-8b63-f550ffdb32af",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1553692246.021900"
+    },
+    {
+        "client_msg_id": "f5aa9013-db1f-42f3-b58d-2360c54760c5",
+        "type": "message",
+        "text": "this method looks the same fucking way as every other method too",
+        "user": "U15HY5TG8",
+        "ts": "1553692272.022300"
+    },
+    {
+        "client_msg_id": "af27913e-f6ed-4595-9b79-3871dea15e40",
+        "type": "message",
+        "text": "What triggers the initial call?",
+        "user": "U15HRTAHL",
+        "ts": "1553692378.023000"
+    },
+    {
+        "client_msg_id": "16428854-9a3d-4f4a-9e4f-c41a7abe68fa",
+        "type": "message",
+        "text": "it's a jquery post",
+        "user": "U15HY5TG8",
+        "ts": "1553692393.023200"
+    },
+    {
+        "client_msg_id": "c075b4f5-dbe6-40c8-a95d-ba199f709e91",
+        "type": "message",
+        "text": "But what triggers it",
+        "user": "U15HRTAHL",
+        "ts": "1553692401.023400"
+    },
+    {
+        "client_msg_id": "d48ef8d1-1f6b-42af-bb17-075e2b48197e",
+        "type": "message",
+        "text": "sorry, a button click",
+        "user": "U15HY5TG8",
+        "ts": "1553692410.023700"
+    },
+    {
+        "client_msg_id": "6754bdbc-536b-4be0-aa10-51ba4dc2bc93",
+        "type": "message",
+        "text": "What event on the button are you using?",
+        "user": "U15HRTAHL",
+        "ts": "1553692425.024100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1553692442.000000"
+        }
+    },
+    {
+        "client_msg_id": "269bb697-b12d-42e4-88e8-d3601c2be5e2",
+        "type": "message",
+        "text": "```$body.on('click', '.remove-catalog-button', function (e) {```",
+        "user": "U15HY5TG8",
+        "ts": "1553692467.024600"
+    },
+    {
+        "client_msg_id": "b70734f2-5025-413e-8149-8d0c5ee6d5fe",
+        "type": "message",
+        "text": "Why are you putting it on the body?",
+        "user": "U15HRTAHL",
+        "ts": "1553692614.025100"
+    },
+    {
+        "client_msg_id": "d7ebf95e-4cdc-4461-bb96-b4b278b396f2",
+        "type": "message",
+        "text": "that's just how it's done",
+        "user": "U15HY5TG8",
+        "ts": "1553692632.025300"
+    },
+    {
+        "client_msg_id": "5f22c82f-6c1d-4a13-8258-984b80ced9ea",
+        "type": "message",
+        "text": "I could put it on a different div, but it doesn't really matter",
+        "user": "U15HY5TG8",
+        "ts": "1553692668.025700"
+    },
+    {
+        "client_msg_id": "b5152c78-0c37-47b4-931a-e30012a8f1b2",
+        "type": "message",
+        "text": "Apparently it's common ",
+        "user": "U15HRTAHL",
+        "ts": "1553692741.026000"
+    },
+    {
+        "client_msg_id": "8b9e27d9-7865-486e-ab28-7484e83f87c5",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/6572147\/jquery-event-fires-twice>",
+        "user": "U15HRTAHL",
+        "ts": "1553692743.026100",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "jquery event fires twice",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/6572147\/jquery-event-fires-twice",
+                "text": "I have a select element from which the users can select a value and copy it to a textarea element. Everything works as expected with the exception that the value from the select element is copied t...",
+                "fallback": "Stack Overflow: jquery event fires twice",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/6572147\/jquery-event-fires-twice",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/6572147\/jquery-event-fires-twice"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "36817872-238a-4aa2-88ef-fcf9c4a10ce3",
+        "type": "message",
+        "text": "e.stopPropagation() ",
+        "user": "U15HRTAHL",
+        "ts": "1553692758.026700"
+    },
+    {
+        "client_msg_id": "aa9bc612-ad9b-4690-ab73-28b6a57ea622",
+        "type": "message",
+        "text": "I found the issue. I never removed the call from the old javascript file it was in when I split it up",
+        "user": "U15HY5TG8",
+        "ts": "1553693786.027900"
+    },
+    {
+        "client_msg_id": "a77ef83a-e541-4c03-81ab-1ff3f657187d",
+        "type": "message",
+        "text": "but to your point, yeah I'm surprised at how common double calls are",
+        "user": "U15HY5TG8",
+        "ts": "1553693804.028400"
+    },
+    {
+        "client_msg_id": "5b457d1a-2e4e-4135-b4e5-e830c2104739",
+        "type": "message",
+        "text": "~How can I put a break point in a JS function that I have in the &lt;script&gt; tag for my .aspx file?~",
+        "user": "U15HSHSS2",
+        "ts": "1553697354.029400",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1553697492.000000"
+        }
+    },
+    {
+        "client_msg_id": "27a7f615-38de-45f5-b3ab-2ded47e08751",
+        "type": "message",
+        "text": "~From browser dev tools~",
+        "user": "U15HSHSS2",
+        "ts": "1553697364.029700",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1553697484.000000"
+        }
+    },
+    {
+        "client_msg_id": "786a3a08-768e-47a5-ad6b-b2d221f1f519",
+        "type": "message",
+        "text": "~I can't find the damn function in dev tools~",
+        "user": "U15HSHSS2",
+        "ts": "1553697395.030000",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1553697477.000000"
+        }
+    },
+    {
+        "client_msg_id": "1158de31-363d-4657-8348-338422ca182c",
+        "type": "message",
+        "text": "Found it :sunglasses:",
+        "user": "U15HSHSS2",
+        "ts": "1553697432.030200"
+    },
+    {
+        "client_msg_id": "76251b71-39d3-4512-a78d-65b0d35c8f48",
+        "type": "message",
+        "text": "There's like 1000 files with the same name that all have gibberish, but one actually has what I was looking for lol",
+        "user": "U15HSHSS2",
+        "ts": "1553697464.030800"
+    },
+    {
+        "client_msg_id": "62dabc3b-9088-49b7-a6d5-4885fda21515",
+        "type": "message",
+        "text": "Next question, how do I access a server side variable in the JS? I'm seeing this online\n\n`var mJSVariable = &lt;%:myServerSideVariable%&gt;;`",
+        "user": "U15HSHSS2",
+        "ts": "1553697567.031900"
+    },
+    {
+        "client_msg_id": "b4be14b6-9a8a-4bb5-9033-e243fd7c8f63",
+        "type": "message",
+        "text": "PHP",
+        "user": "U15J5H60P",
+        "ts": "1553697685.032100"
+    },
+    {
+        "client_msg_id": "a6c31cfe-d985-4890-8e1e-a713ab059822",
+        "type": "message",
+        "text": "Gross",
+        "user": "U15J5H60P",
+        "ts": "1553697686.032300"
+    },
+    {
+        "client_msg_id": "776acad0-77f1-4aee-96e6-665aee176299",
+        "type": "message",
+        "text": "<http:\/\/ASP.Net|ASP.Net>",
+        "user": "U15HSHSS2",
+        "ts": "1553697693.032600"
+    },
+    {
+        "client_msg_id": "ba1f8385-3144-432c-9b26-a7f2d87476dc",
+        "type": "message",
+        "text": "are you using pure js?",
+        "user": "U15J5H60P",
+        "ts": "1553697693.032700"
+    },
+    {
+        "client_msg_id": "692139b2-7ff1-425e-a502-aecfbfd38dda",
+        "type": "message",
+        "text": "Even grosser",
+        "user": "U15J5H60P",
+        "ts": "1553697698.032900"
+    },
+    {
+        "client_msg_id": "4faf1b8e-3480-496e-a45f-0f051bb6212d",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15J5H60P",
+        "ts": "1553697706.033100"
+    },
+    {
+        "client_msg_id": "4bd02b8e-31f2-4557-8d22-169d176b6d9a",
+        "type": "message",
+        "text": "Not sure",
+        "user": "U15J5H60P",
+        "ts": "1553697707.033300"
+    },
+    {
+        "client_msg_id": "e37d642c-8381-4a14-a4cc-5ec8d0fd58bc",
+        "type": "message",
+        "text": "Do you have any access to env?",
+        "user": "U15J5H60P",
+        "ts": "1553697715.033600"
+    },
+    {
+        "client_msg_id": "fcce65e9-a645-4d6f-885e-8babb9841ae0",
+        "type": "message",
+        "text": "And what makes this all 100000 times worse is it takes 5-10 mins to load a page after I make a change and build",
+        "user": "U15HSHSS2",
+        "ts": "1553697749.034200"
+    },
+    {
+        "client_msg_id": "160230ec-9099-4749-8686-b3bd5350de62",
+        "type": "message",
+        "text": "and my debugger is completely fucked",
+        "user": "U15HSHSS2",
+        "ts": "1553697758.034500"
+    },
+    {
+        "client_msg_id": "6402ab49-9992-463a-9784-1f9c50df3e72",
+        "type": "message",
+        "text": "doesn't even start",
+        "user": "U15HSHSS2",
+        "ts": "1553697761.034700"
+    },
+    {
+        "client_msg_id": "a8309e5b-0f12-4f68-a67d-9fad488d5b16",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1553697766.034900"
+    },
+    {
+        "client_msg_id": "2337dd32-7104-4c28-9de3-deb621fb0560",
+        "type": "message",
+        "text": "Making 1 little change takes fucking years to see if it worked",
+        "user": "U15HSHSS2",
+        "ts": "1553697778.035200"
+    },
+    {
+        "client_msg_id": "7d10db12-01ef-4baa-bd86-644942ba3915",
+        "type": "message",
+        "text": "just started happening out of the blue like 2 days ago",
+        "user": "U15HSHSS2",
+        "ts": "1553697802.035500"
+    },
+    {
+        "client_msg_id": "86df4cf5-6c02-40ce-8461-69a1a0bb7222",
+        "type": "message",
+        "text": "I wanna reinstall VS or IIS but that will take a while to reconfigure everything, and I gotta get this shit done today",
+        "user": "U15HSHSS2",
+        "ts": "1553697835.036200"
+    },
+    {
+        "client_msg_id": "6b836f8b-d567-45c9-b7e7-f05f9913a06a",
+        "type": "message",
+        "text": "just hack some shit together",
+        "user": "U15HRTAHL",
+        "ts": "1553697884.036600"
+    },
+    {
+        "client_msg_id": "6c07e4c3-f413-4c3a-b964-75ad3706546e",
+        "type": "message",
+        "text": "Do you have access to Environment?",
+        "user": "U15J5H60P",
+        "ts": "1553697890.037000"
+    },
+    {
+        "client_msg_id": "446e410e-e21a-476f-ad2e-aeff2528dc6c",
+        "type": "message",
+        "text": "if it doesn’t work they’ll be bugs for the next sprint",
+        "user": "U15HRTAHL",
+        "ts": "1553697899.037400"
+    },
+    {
+        "client_msg_id": "fde6499f-44f2-48a1-a109-03f1968b291e",
+        "type": "message",
+        "text": "Environment.GetEnvironmentVariable(\"myServerSideVariable\")",
+        "user": "U15J5H60P",
+        "ts": "1553697904.037600"
+    },
+    {
+        "client_msg_id": "01f4425f-f71f-42db-99cb-5c0b44f4cf47",
+        "type": "message",
+        "text": "I'm gunna attempt to see if what I have now works",
+        "user": "U15HSHSS2",
+        "ts": "1553697942.038000"
+    },
+    {
+        "client_msg_id": "6d04e933-ca75-4823-b728-84003062dfcf",
+        "type": "message",
+        "text": "just gotta wait a few more mins for this to decide to load",
+        "user": "U15HSHSS2",
+        "ts": "1553697953.038400",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1553697958.000000"
+        }
+    },
+    {
+        "client_msg_id": "4d9326a0-3f6d-49ee-a09f-39fffb9c5eea",
+        "type": "message",
+        "text": "Dude wtf",
+        "user": "U15HSHSS2",
+        "ts": "1553698567.038700"
+    },
+    {
+        "client_msg_id": "b76f15e1-a1e7-44b1-9de0-7cbe3847d838",
+        "type": "message",
+        "text": "running into the dumbest bug",
+        "user": "U15HSHSS2",
+        "ts": "1553698576.039000"
+    },
+    {
+        "client_msg_id": "f5021581-7b5a-4dde-a811-4b5e9d4feea2",
+        "type": "message",
+        "text": "i don't even know what it's doing",
+        "user": "U15HSHSS2",
+        "ts": "1553698586.039300"
+    },
+    {
+        "client_msg_id": "9fc594d9-dff9-4823-b4c9-8648afb861da",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1553697567031900>",
+        "user": "U15HY5TG8",
+        "ts": "1553698990.039500",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1553697567031900",
+                "fallback": "[March 27th, 2019 7:39 AM] tommy: Next question, how do I access a server side variable in the JS? I'm seeing this online\n\n`var mJSVariable = &lt;%:myServerSideVariable%&gt;;`",
+                "ts": "1553697567.031900",
+                "author_id": "U15HSHSS2",
+                "author_subname": "Thomas Domenico",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "Next question, how do I access a server side variable in the JS? I'm seeing this online\n\n`var mJSVariable = &lt;%:myServerSideVariable%&gt;;`",
+                "author_name": "Thomas Domenico",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HSHSS2",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-14\/141557591652_fa319b0a85eaed6cdf72_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1553697567031900",
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02d83e76-df91-4b9f-87b7-054e53ee6145",
+        "type": "message",
+        "text": "yeah that should work",
+        "user": "U15HY5TG8",
+        "ts": "1553698994.039800"
+    },
+    {
+        "client_msg_id": "56104b7a-4811-4e90-8c22-fed84dfb99e6",
+        "type": "message",
+        "text": "or sometimes, you can do",
+        "user": "U15HY5TG8",
+        "ts": "1553699012.040100"
+    },
+    {
+        "client_msg_id": "9aa544bb-9a9f-461a-a13b-c99ad13d2ac7",
+        "type": "message",
+        "text": "```var mjsVariable = document.getElementById(\"someLabel\")``` and get the value from that",
+        "user": "U15HY5TG8",
+        "ts": "1553699042.040700"
+    },
+    {
+        "client_msg_id": "d37d541e-9d5f-4f13-89cd-23116c8f7b46",
+        "type": "message",
+        "text": "but in general, using the &lt;% myServervariable %&gt; is best used in the code behind as opposed to in JS",
+        "user": "U15HY5TG8",
+        "ts": "1553699245.041600"
+    }
+]

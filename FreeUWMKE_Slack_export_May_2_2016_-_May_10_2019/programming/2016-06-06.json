@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: code fight",
+        "user": "U15J5H60P",
+        "ts": "1465220948.000002"
+    },
+    {
+        "type": "message",
+        "text": "Hokay",
+        "user": "U15HY5TG8",
+        "ts": "1465221091.000003"
+    },
+    {
+        "type": "message",
+        "text": "i would not have figured out that last one haha",
+        "user": "U15HY5TG8",
+        "ts": "1465227658.000004"
+    },
+    {
+        "type": "message",
+        "text": "Ik i saw your solution ha ya learn something new everyday",
+        "user": "U15HY5TG8",
+        "ts": "1465230001.000006"
+    },
+    {
+        "type": "message",
+        "text": "AH! I could've done it in one line I think",
+        "user": "U15J5H60P",
+        "ts": "1465233312.000007"
+    },
+    {
+        "type": "message",
+        "text": "return value + (10-(value % 10));",
+        "user": "U15J5H60P",
+        "ts": "1465233337.000008",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1465233385.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Except that wouldn't work if it was already a round number",
+        "user": "U15J5H60P",
+        "ts": "1465233399.000010"
+    },
+    {
+        "type": "message",
+        "text": "But you could use a ternary instead",
+        "user": "U15J5H60P",
+        "ts": "1465233415.000011"
+    },
+    {
+        "type": "message",
+        "text": "How should i go about gaining knowledge on using .Net\/C#. ill obviously use a website to learn C# but what should i use to practice the use of the .Net framework",
+        "user": "U15HY5TG8",
+        "ts": "1465247825.000012"
+    },
+    {
+        "type": "message",
+        "text": ".asp application would be a good starter",
+        "user": "U15HRTAHL",
+        "ts": "1465247894.000013"
+    },
+    {
+        "type": "message",
+        "text": "alright ill look into it thanks",
+        "user": "U15HY5TG8",
+        "ts": "1465247988.000014"
+    },
+    {
+        "type": "message",
+        "text": "theres a lot to download to get an <http:\/\/asp.net|asp.net> app to function",
+        "user": "U15HY5TG8",
+        "ts": "1465249293.000015"
+    }
+]

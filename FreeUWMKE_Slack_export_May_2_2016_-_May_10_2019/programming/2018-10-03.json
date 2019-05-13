@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "ff6e8fe2-af57-4173-8792-957fa4cd4824",
+        "type": "message",
+        "text": "MySql is fucking trash",
+        "user": "U15HY5TG8",
+        "ts": "1538617181.000100"
+    },
+    {
+        "client_msg_id": "2B2D86DA-CFC3-4A73-9EAB-678E1D984E9C",
+        "type": "message",
+        "text": "You are what you use",
+        "user": "U15J5H60P",
+        "ts": "1538617193.000200"
+    },
+    {
+        "client_msg_id": "559017f0-e487-4c52-879d-f54c5899e3f7",
+        "type": "message",
+        "text": "You can't do an \"update where in select\" when it's the same table",
+        "user": "U15HY5TG8",
+        "ts": "1538617241.000100"
+    },
+    {
+        "client_msg_id": "bcfd6ee9-4830-4ac3-b6cf-c73f1777f481",
+        "type": "message",
+        "text": "so you can't do this",
+        "user": "U15HY5TG8",
+        "ts": "1538617336.000100"
+    },
+    {
+        "client_msg_id": "aeaf03c4-ac52-4d70-9240-e9735dc27288",
+        "type": "message",
+        "text": "```Update events \nSet uniform_details = null \nwhere id in \n\t(select id \n\tfrom events f \n\twhere f.`event_type_id` = 2 \n\t\tand f.`uniform_details` is not null \n\t\tand f.`id` &gt; 30000\n\t)\n```",
+        "user": "U15HY5TG8",
+        "ts": "1538617340.000100"
+    },
+    {
+        "client_msg_id": "BD486B7B-572C-4EE2-8E21-CED19989E5E6",
+        "type": "message",
+        "text": "Dang. That's crazy.",
+        "user": "U15J5H60P",
+        "ts": "1538617357.000100"
+    },
+    {
+        "client_msg_id": "fdd42112-29b9-4292-9906-985868c6d85c",
+        "type": "message",
+        "text": "but you can do this",
+        "user": "U15HY5TG8",
+        "ts": "1538617422.000100"
+    },
+    {
+        "client_msg_id": "439bfd33-ba30-4826-b070-ef858e691edb",
+        "type": "message",
+        "text": "```Update events \nSet uniform_details = null \nwhere id in \n(select id FROM\n\t(select id \n\tfrom events f \n\twhere f.`event_type_id` = 2 \n\t\tand f.`uniform_details` is not null \n\t\tand f.`id` &gt; 30000\n\t) as uniformEvents\n)```",
+        "user": "U15HY5TG8",
+        "ts": "1538617434.000100"
+    },
+    {
+        "client_msg_id": "505b70c8-2e44-469b-98da-d4aa538f8545",
+        "type": "message",
+        "text": "laravel and eloquent is also trash",
+        "user": "U15HY5TG8",
+        "ts": "1538617972.000100"
+    },
+    {
+        "client_msg_id": "6fde7510-21a9-4f3b-b97d-2171c44e123b",
+        "type": "message",
+        "text": "mmmmm LAMP",
+        "user": "U15HRTAHL",
+        "ts": "1538618074.000100"
+    },
+    {
+        "client_msg_id": "f476052e-5f4a-49cd-9423-00f16bf5dc4b",
+        "type": "message",
+        "text": "LAMP?",
+        "user": "U15HY5TG8",
+        "ts": "1538618210.000100"
+    },
+    {
+        "client_msg_id": "d7757337-954c-4f7a-af93-915e4e3bfb5b",
+        "type": "message",
+        "text": "php mysql stack",
+        "user": "U15HRTAHL",
+        "ts": "1538618239.000100"
+    },
+    {
+        "client_msg_id": "e22290a7-dbd3-485d-af82-603530ecd2b2",
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1538618272.000100"
+    }
+]

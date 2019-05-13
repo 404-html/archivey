@@ -1,0 +1,263 @@
+[
+    {
+        "type": "message",
+        "text": "how do  you guys prevent XSS?",
+        "user": "U15HY5TG8",
+        "ts": "1520524623.000522"
+    },
+    {
+        "type": "message",
+        "text": "By creating apps that no one wants to use anyways",
+        "user": "U15J5H60P",
+        "ts": "1520524651.000617"
+    },
+    {
+        "type": "message",
+        "text": "^",
+        "user": "U15HRTAHL",
+        "ts": "1520524654.000790"
+    },
+    {
+        "type": "message",
+        "text": "crashing unexpectantly",
+        "user": "U15HRTAHL",
+        "ts": "1520524664.000610"
+    },
+    {
+        "client_msg_id": "ED287B9E-7043-4080-ADB0-BAB80C3AA31E",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1520525369.000104"
+    },
+    {
+        "type": "message",
+        "text": "Every string that get's input by the user goes through something that checks for XSS for us im pretty sure",
+        "user": "U15HSHSS2",
+        "ts": "1520538511.000515"
+    },
+    {
+        "client_msg_id": "45258187-3860-475F-8EBF-94774844B9F4",
+        "type": "message",
+        "text": "Ahh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1520540010.000118"
+    },
+    {
+        "client_msg_id": "D99A4C0F-91A1-46CA-B934-A7B0ABCD2C24",
+        "type": "message",
+        "text": "I was hoping you guys had like a one-liner in the main layout div that took care of it",
+        "user": "U15HY5TG8",
+        "ts": "1520540034.000602"
+    },
+    {
+        "type": "message",
+        "text": "lololol",
+        "user": "U15J5H60P",
+        "ts": "1520540054.000414"
+    },
+    {
+        "client_msg_id": "EEE330FB-5EDB-44ED-A61E-125E5D7CF5A2",
+        "type": "message",
+        "text": "Its possible. Theres a plugin for it",
+        "user": "U15HY5TG8",
+        "ts": "1520540075.000537"
+    },
+    {
+        "type": "message",
+        "text": "Is it? What is it?",
+        "user": "U15J5H60P",
+        "ts": "1520540081.000099"
+    },
+    {
+        "client_msg_id": "374FDD83-8757-40F5-90F2-DC0F011C0FE8",
+        "type": "message",
+        "text": "I dont remember but the main dev here plugged it in and it worked for the whole page. Im trying to find a way to do it without using a plugin",
+        "user": "U15HY5TG8",
+        "ts": "1520540140.000454"
+    },
+    {
+        "type": "message",
+        "text": "Neat.",
+        "user": "U15J5H60P",
+        "ts": "1520540147.000499"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1520540148.000381"
+    },
+    {
+        "client_msg_id": "47C76479-7324-45A5-846E-FE845CFF184D",
+        "type": "message",
+        "text": "Yup yup",
+        "user": "U15HY5TG8",
+        "ts": "1520540172.000246"
+    },
+    {
+        "type": "message",
+        "text": "the biggest thing we worry about is sql injection",
+        "user": "U15HRTAHL",
+        "ts": "1520540231.000423"
+    },
+    {
+        "type": "message",
+        "text": "so we have a method that escapes quotes",
+        "user": "U15HRTAHL",
+        "ts": "1520540254.000588"
+    },
+    {
+        "client_msg_id": "121B1BAD-BC79-40F7-98FA-E2197FBE1A74",
+        "type": "message",
+        "text": "Ahh gotcha got ha",
+        "user": "U15HY5TG8",
+        "ts": "1520540288.000278"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/msdn.microsoft.com\/en-us\/library\/ms998274.aspx?f=255&amp;MSPPError=-2147217396>",
+        "user": "U15HRTAHL",
+        "ts": "1520540438.000621"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1520540440.000263"
+    },
+    {
+        "client_msg_id": "2820E544-1F01-4961-A6F7-98E72764DB80",
+        "type": "message",
+        "text": "That looks like its webforms stuff though",
+        "user": "U15HY5TG8",
+        "ts": "1520540622.000115"
+    },
+    {
+        "type": "message",
+        "text": "Yeah we recently did a security check in our site cuz we weren't accounting for XSS at all before, and fixed it. But I just went through and found a handful of places where it still exists. It's not a super high priority though cuz all the places were it's still possibly will only effect that user and nobody else",
+        "user": "U15HSHSS2",
+        "ts": "1520543372.000395"
+    },
+    {
+        "client_msg_id": "9ECBD189-11E1-4885-8515-57E91C872562",
+        "type": "message",
+        "text": "Ahh gotcha ",
+        "user": "U15HY5TG8",
+        "ts": "1520543408.000382"
+    },
+    {
+        "client_msg_id": "10314E12-C729-4EBB-94F9-423D049310FF",
+        "type": "message",
+        "text": "We had like 1000 areas that we addressed in the past 4 weeks",
+        "user": "U15HY5TG8",
+        "ts": "1520543430.000632"
+    },
+    {
+        "type": "message",
+        "text": "Before we went through and fixed the majority of places though an employee could change their name in our software to a script that redirected the page anywhere, and if you went to the employee directory or anywhere else where that employee's name was shown you would get redirected lol",
+        "user": "U15HSHSS2",
+        "ts": "1520543462.000127"
+    },
+    {
+        "client_msg_id": "1BA3CC38-2858-4C88-9A3D-907FC71E4D3B",
+        "type": "message",
+        "text": "Lol thats awesome",
+        "user": "U15HY5TG8",
+        "ts": "1520543490.000006"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1520550289.000138"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> I'm on zywave's website and they use salesforce",
+        "user": "U15HRTAHL",
+        "ts": "1520550302.000295"
+    },
+    {
+        "client_msg_id": "5769BBA6-F7C4-4C5C-906E-A7B0A5F61024",
+        "type": "message",
+        "text": "Fgts",
+        "user": "U15J5H60P",
+        "ts": "1520550352.000416"
+    },
+    {
+        "type": "message",
+        "text": ":100:",
+        "user": "U15HRTAHL",
+        "ts": "1520550552.000518"
+    },
+    {
+        "client_msg_id": "4F291687-1C4C-46AD-B063-05F2084D9D96",
+        "type": "message",
+        "text": "Still don’t know what salessforce is lol",
+        "user": "U15HSHSS2",
+        "ts": "1520554432.000125"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> do you deal with exporting data in the form of csv or excel quite a bit?",
+        "user": "U15HY5TG8",
+        "ts": "1520555540.000204"
+    },
+    {
+        "client_msg_id": "61f31836-6a03-4237-bab8-199b57b6960a",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1520558994.000191"
+    },
+    {
+        "client_msg_id": "c61495af-5946-417c-8805-53244de975c4",
+        "type": "message",
+        "text": "What's up",
+        "user": "U15HRTAHL",
+        "ts": "1520558997.000158"
+    },
+    {
+        "client_msg_id": "255e6689-20bb-4fad-8ed7-18df638bd89b",
+        "type": "message",
+        "text": "<@U15HSHSS2> it powers your customer support live chat",
+        "user": "U15HRTAHL",
+        "ts": "1520559016.000183"
+    },
+    {
+        "client_msg_id": "57837AC4-52B5-4AED-89F3-3CD09C46A16E",
+        "type": "message",
+        "text": "So i guess this is the workflow that the owner of this company has to go through. 1. Export 2. Open a blank excel document 3. Export again, then it opens into excel directly",
+        "user": "U15HY5TG8",
+        "ts": "1520559300.000236"
+    },
+    {
+        "client_msg_id": "25EAB5AE-EA3E-40D4-8D02-6C2650D32C29",
+        "type": "message",
+        "text": "Have you ever made a csv or excel doc open automatically in excel?",
+        "user": "U15HY5TG8",
+        "ts": "1520559321.000220"
+    },
+    {
+        "client_msg_id": "386E32A8-751A-46B2-A92B-C1950EF7ED28",
+        "type": "message",
+        "text": "There's a CSV -&gt; XLXS setting in Excel. You don't need to reexport it",
+        "user": "U15J5H60P",
+        "ts": "1520559437.000222"
+    },
+    {
+        "client_msg_id": "E49A4536-5611-4270-9512-D94254BE23B1",
+        "type": "message",
+        "text": "Otherwise I'm sure there are a ton of packages on GitHub that could solve your problem",
+        "user": "U15J5H60P",
+        "ts": "1520559492.000021"
+    },
+    {
+        "client_msg_id": "D6A5C4E2-70FF-4532-A9AA-46EF44A11E76",
+        "type": "message",
+        "text": "Yeah im wondering if its a problem that can be fixed to search for an excel opener or something",
+        "user": "U15HY5TG8",
+        "ts": "1520559709.000283"
+    }
+]

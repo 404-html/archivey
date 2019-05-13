@@ -1,0 +1,142 @@
+[
+    {
+        "type": "message",
+        "text": "1,100 shots were fired during the vegas massacre",
+        "user": "U15J5H60P",
+        "ts": "1519745336.000487"
+    },
+    {
+        "type": "message",
+        "text": "I betcha a lot more shots were consumed in that time",
+        "user": "U15HRTAHL",
+        "ts": "1519745376.000102"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1519745395.000696",
+        "text": "<@U15HRTAHL> has left the channel",
+        "reactions": [
+            {
+                "name": "name_badge",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1519745413.000922"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1519745415.000715"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1519745418.000153",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "Alcoholic shots <@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1519745454.000580",
+        "thread_ts": "1519745454.000580",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1519745955.000350",
+        "reply_users": [
+            "U15HZ01QX",
+            "U15HRTAHL"
+        ],
+        "replies": [
+            {
+                "user": "U15HZ01QX",
+                "ts": "1519745507.000111"
+            },
+            {
+                "user": "U15HRTAHL",
+                "ts": "1519745520.000855"
+            },
+            {
+                "user": "U15HRTAHL",
+                "ts": "1519745524.000413"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1519745955.000350"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "it's vegas",
+        "user": "U15HRTAHL",
+        "ts": "1519745459.000879"
+    },
+    {
+        "type": "message",
+        "text": "And lead shots",
+        "user": "U15J5H60P",
+        "ts": "1519745460.000817"
+    },
+    {
+        "type": "message",
+        "text": "Cause ya know",
+        "user": "U15J5H60P",
+        "ts": "1519745462.000818"
+    },
+    {
+        "type": "message",
+        "text": "Vegas",
+        "user": "U15J5H60P",
+        "ts": "1519745464.000639"
+    },
+    {
+        "type": "message",
+        "text": "Really???????????????????",
+        "user": "U15HZ01QX",
+        "ts": "1519745507.000111",
+        "thread_ts": "1519745454.000580",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "yes 100%",
+        "user": "U15HRTAHL",
+        "ts": "1519745520.000855",
+        "thread_ts": "1519745454.000580",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "that's what I meant",
+        "user": "U15HRTAHL",
+        "ts": "1519745524.000413",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1519745526.000000"
+        },
+        "thread_ts": "1519745454.000580",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "i was being sarcastic",
+        "user": "U15HZ01QX",
+        "ts": "1519745955.000350",
+        "thread_ts": "1519745454.000580",
+        "parent_user_id": "U15HRTAHL"
+    }
+]

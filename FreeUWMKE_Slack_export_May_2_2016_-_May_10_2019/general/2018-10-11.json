@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "e1473e15-aa28-49e9-a804-99daa8cb09b8",
+        "type": "message",
+        "text": "Kanye dressed up like Kim Jong Un when he met trump",
+        "user": "U15HRTAHL",
+        "ts": "1539279644.000100"
+    },
+    {
+        "client_msg_id": "7c5b51f1-d3fe-48aa-8ba0-dc314019dbc7",
+        "type": "message",
+        "text": "Same",
+        "user": "U15J5H60P",
+        "ts": "1539279717.000100"
+    },
+    {
+        "client_msg_id": "f4f474cf-bbee-44b7-80f4-2a5a67dcab0b",
+        "type": "message",
+        "text": "\"Yo Kanye, that'd be funny if you came looking like Kim\"",
+        "user": "U15J5H60P",
+        "ts": "1539279739.000100"
+    },
+    {
+        "client_msg_id": "5eef9507-9853-413d-9aa6-5c704bc73257",
+        "type": "message",
+        "text": "Could've been his wife or the dictator, he chose the dictator.",
+        "user": "U15J5H60P",
+        "ts": "1539279755.000200"
+    },
+    {
+        "client_msg_id": "bb9d015d-0042-4055-bbe8-3c0f18585257",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=6m5P_n5njCQ>",
+        "user": "U15HSHSS2",
+        "ts": "1539319828.000100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How Much MONEY Do Twitch Streamers REALLY Make? (Inside Look from a Top Streamer)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=6m5P_n5njCQ",
+                "author_name": "Disguised Toast",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCUT8RoNBTJvwW1iErP6-b-A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/6m5P_n5njCQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How Much MONEY Do Twitch Streamers REALLY Make? (Inside Look from a Top Streamer)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/6m5P_n5njCQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=6m5P_n5njCQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=6m5P_n5njCQ"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27d6c514-9719-4bcc-a5aa-777a43b2ca78",
+        "type": "message",
+        "text": "pretty interesting",
+        "user": "U15HSHSS2",
+        "ts": "1539319834.000100"
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "client_msg_id": "ed80b409-dab4-43c4-94e2-b4309269fcc0",
+        "type": "message",
+        "text": "Any ETF sugggestions?",
+        "user": "U15J5H60P",
+        "ts": "1553523077.000300"
+    },
+    {
+        "client_msg_id": "9e4f2b75-328e-4d9c-b576-1940426c6f52",
+        "type": "message",
+        "text": "i’m in IWF, DGRO, and IUSG",
+        "user": "U15HRTAHL",
+        "ts": "1553523124.000600"
+    },
+    {
+        "client_msg_id": "38e8812b-4b8a-4067-b305-fe5344f24c01",
+        "type": "message",
+        "text": "and ITOT",
+        "user": "U15HRTAHL",
+        "ts": "1553523133.000800"
+    },
+    {
+        "client_msg_id": "0888dd44-d0d1-4ba1-bc3d-455fc21573d5",
+        "type": "message",
+        "text": "How does ITOT not pay a dividend",
+        "user": "U15J5H60P",
+        "ts": "1553523308.001100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1553523313.000000"
+        }
+    },
+    {
+        "client_msg_id": "e900754d-b1f6-43b6-91e7-92054f11d46c",
+        "type": "message",
+        "text": "they do",
+        "user": "U15HRTAHL",
+        "ts": "1553523412.001400"
+    },
+    {
+        "client_msg_id": "e01cd624-e1f4-4ceb-9fb2-ccc06cef16e2",
+        "type": "message",
+        "text": ".48\/share tomorrow",
+        "user": "U15HRTAHL",
+        "ts": "1553523423.001700"
+    },
+    {
+        "client_msg_id": "fed7719b-43f3-40c9-ae9e-669774aeb8bf",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1553523460.001900"
+    },
+    {
+        "client_msg_id": "2f73dcbf-a049-442b-9d71-fc39db92085a",
+        "type": "message",
+        "text": "It wasn't showing up on marketbeat",
+        "user": "U15J5H60P",
+        "ts": "1553523465.002100"
+    },
+    {
+        "client_msg_id": "c780435d-39ea-4fd1-9bb3-e875d396b35f",
+        "type": "message",
+        "text": "weird",
+        "user": "U15J5H60P",
+        "ts": "1553523466.002300"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1553540029.002400",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=aapl&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=aapl|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=aapl|Finviz> | <http:\/\/stocktwits.com\/symbol\/aapl|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1553540027,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "187.51",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-3.54 (-1.85%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "33,572,762",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "32,950,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.9\/5 (48 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "203.09 (+8.31%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=aapl&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29534,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=aapl",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5f3ae49-c99f-402a-9a09-b9b6db6a6164",
+        "type": "message",
+        "text": "HA!",
+        "user": "U15J5H60P",
+        "ts": "1553540034.002600"
+    },
+    {
+        "client_msg_id": "ae4d3b66-7f42-4a70-be2b-4f429cc04dc0",
+        "type": "message",
+        "text": "Go to hell Apple!",
+        "user": "U15J5H60P",
+        "ts": "1553540038.002800"
+    },
+    {
+        "client_msg_id": "f9034e70-47e3-43c2-aca4-c8e6cb1ee7c9",
+        "type": "message",
+        "text": "I'm surprised that the price target is only $203",
+        "user": "U15J5H60P",
+        "ts": "1553540049.003100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1553540060.003200",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "WH - Wyndham Hotels &amp; Resorts, Inc.",
+                "title": "WH - Wyndham Hotels &amp; Resorts, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=WH&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=WH|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=WH|Finviz> | <http:\/\/stocktwits.com\/symbol\/WH|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1553539967,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "50.15",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.31 (-0.61%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "219,261",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "1,100,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.0\/5 (1 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "62.00 (+23.63%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "22273",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "22273",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "22273",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "22273",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=WH&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32225,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=WH",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "873c1144-b162-4bbe-b183-4c7e01394569",
+        "type": "message",
+        "text": "Maybe one day",
+        "user": "U15J5H60P",
+        "ts": "1553540065.003400"
+    }
+]

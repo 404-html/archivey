@@ -1,0 +1,271 @@
+[
+    {
+        "client_msg_id": "7cbd12e5-d41c-4d6b-a2b7-50bd0afa6645",
+        "type": "message",
+        "text": "Did y’all know postman has tests?",
+        "user": "U15J5H60P",
+        "ts": "1547922626.023500"
+    },
+    {
+        "client_msg_id": "ae1edad6-9bcd-4c1c-94b4-234eb7983913",
+        "type": "message",
+        "text": "I didn’t until today",
+        "user": "U15J5H60P",
+        "ts": "1547922629.023700"
+    },
+    {
+        "client_msg_id": "fd9ab7c0-5e67-4a46-8ce6-80de1c088fa6",
+        "type": "message",
+        "text": "I am writing an api using API Gateway + lambdas",
+        "user": "U15J5H60P",
+        "ts": "1547922640.024100"
+    },
+    {
+        "client_msg_id": "04dda939-9c8d-428f-88a4-2f487e16d5c3",
+        "type": "message",
+        "text": "I didn’t know how to test everything",
+        "user": "U15J5H60P",
+        "ts": "1547922648.024400"
+    },
+    {
+        "client_msg_id": "b25a6ef9-1fca-4bae-ab74-aa43200ae06f",
+        "type": "message",
+        "text": "besides going lambda by lambda hitting the test button",
+        "user": "U15J5H60P",
+        "ts": "1547922666.024800"
+    },
+    {
+        "client_msg_id": "18cb6bc7-ee32-454c-b049-12b73a2a8137",
+        "type": "message",
+        "text": "Postman is doing a great job",
+        "user": "U15J5H60P",
+        "ts": "1547922668.025000"
+    },
+    {
+        "client_msg_id": "f367c1a9-a431-49a0-a492-21371fe769e4",
+        "type": "message",
+        "text": "So far just simple tests tho",
+        "user": "U15J5H60P",
+        "ts": "1547922676.025200"
+    },
+    {
+        "client_msg_id": "5cc9b5f2-5ca4-4ac1-bceb-5248e0e98af6",
+        "type": "message",
+        "text": "Like make sure it returns a 200",
+        "user": "U15J5H60P",
+        "ts": "1547922683.025400"
+    },
+    {
+        "client_msg_id": "d1405998-b426-4095-b2e4-1d441fb480bb",
+        "type": "message",
+        "text": "Pretty neat",
+        "user": "U15J5H60P",
+        "ts": "1547922697.025600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFJ9BSNSZ",
+                "created": 1547922696,
+                "timestamp": 1547922696,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-19, 12:31 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 155839,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFJ9BSNSZ\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFJ9BSNSZ\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 106,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 141,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 212,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 235,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 282,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFJ9BSNSZ-8a4b6651bb\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 301,
+                "image_exif_rotation": 1,
+                "original_w": 2550,
+                "original_h": 750,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FFJ9BSNSZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFJ9BSNSZ-54038b4100",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1547922701.025700"
+    },
+    {
+        "client_msg_id": "6bfa50e3-a17f-41f6-88f2-c13661f861a7",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1547922761.026100"
+    },
+    {
+        "client_msg_id": "3478fd68-0a93-42a6-affa-86ea30a0892f",
+        "type": "message",
+        "text": "check out newman",
+        "user": "U15HRTAHL",
+        "ts": "1547922763.026300"
+    },
+    {
+        "client_msg_id": "8f0a75c9-c9e2-4882-b729-6a678ba45e15",
+        "type": "message",
+        "text": "Neat! It’s like a testing framework for node",
+        "user": "U15J5H60P",
+        "ts": "1547922794.026600"
+    },
+    {
+        "client_msg_id": "09d67aaf-b548-44ec-9477-9b33d1f26a19",
+        "type": "message",
+        "text": "Postman**",
+        "user": "U15J5H60P",
+        "ts": "1547922802.026800"
+    },
+    {
+        "client_msg_id": "542af863-1b6a-40ee-ab09-671fc87d5e53",
+        "type": "message",
+        "text": "I could integrate that into my pipeline",
+        "user": "U15J5H60P",
+        "ts": "1547922814.027200"
+    },
+    {
+        "client_msg_id": "bd600c1a-4e9a-4a02-9adf-36137096d9cd",
+        "type": "message",
+        "text": "That’s a better idea.",
+        "user": "U15J5H60P",
+        "ts": "1547922816.027400"
+    },
+    {
+        "client_msg_id": "9499a13a-bf73-4880-9bd0-e48ead3a2b7b",
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U15J5H60P",
+        "ts": "1547922818.027600"
+    },
+    {
+        "client_msg_id": "47D91FF3-BCAE-4BE5-A0CE-8D4E68344771",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1547922932.027800"
+    },
+    {
+        "client_msg_id": "d02e1060-a43c-4fea-a05a-b29e1b55fcc8",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1547923241.028000"
+    },
+    {
+        "client_msg_id": "358b4979-d20d-4b3b-8a4f-9cc561caccdc",
+        "type": "message",
+        "text": "are you using cognito?",
+        "user": "U15HRTAHL",
+        "ts": "1547923244.028200"
+    },
+    {
+        "client_msg_id": "778F6F36-6767-4FC1-82C3-52A0C3E48BCD",
+        "type": "message",
+        "text": "Not yet. I’ve gotta get on that though. It’s on my backlog ",
+        "user": "U15J5H60P",
+        "ts": "1547923268.028800"
+    },
+    {
+        "client_msg_id": "4c7a36ee-6ca5-4853-ac20-fc47687b1935",
+        "type": "message",
+        "text": "I have no idea how to get the current user from cognito",
+        "user": "U15HRTAHL",
+        "ts": "1547923282.029100"
+    },
+    {
+        "client_msg_id": "4e5573e1-80d8-4086-8f00-66782ea40eb2",
+        "type": "message",
+        "text": "there's an object called userPool and all the examples just show userPool.getCurrentUser()",
+        "user": "U15HRTAHL",
+        "ts": "1547923313.029700"
+    },
+    {
+        "client_msg_id": "e33a2167-9342-45d6-9bc5-90c352b7fd81",
+        "type": "message",
+        "text": "I think they're showing this being implemented on the client side",
+        "user": "U15HRTAHL",
+        "ts": "1547923328.030100"
+    },
+    {
+        "client_msg_id": "433aa328-cb82-4614-9d43-d82a7e1e72c1",
+        "type": "message",
+        "text": "when Im using it server side",
+        "user": "U15HRTAHL",
+        "ts": "1547923334.030500"
+    },
+    {
+        "client_msg_id": "53992f64-e1b2-4300-9c4f-042bdd4ee817",
+        "type": "message",
+        "text": "there has to be a way to pass it a session token",
+        "user": "U15HRTAHL",
+        "ts": "1547923340.030700"
+    },
+    {
+        "client_msg_id": "eab6849e-ae9d-4671-a428-5d062549e76f",
+        "type": "message",
+        "text": "but Im not seeing it",
+        "user": "U15HRTAHL",
+        "ts": "1547923343.030900"
+    },
+    {
+        "client_msg_id": "2eab4b7b-3b4c-479f-9a21-efbfd64807af",
+        "type": "message",
+        "text": "I think I get it",
+        "user": "U15HRTAHL",
+        "ts": "1547923413.031300"
+    },
+    {
+        "client_msg_id": "54e7362b-f06d-4c1d-a3ac-a3d88a808f3a",
+        "type": "message",
+        "text": "maybe not",
+        "user": "U15HRTAHL",
+        "ts": "1547923431.031800"
+    },
+    {
+        "client_msg_id": "20bc541a-79ba-4e93-bef0-9280c0e79b9a",
+        "type": "message",
+        "text": "let me know when you get that far",
+        "user": "U15HRTAHL",
+        "ts": "1547923442.032100"
+    },
+    {
+        "client_msg_id": "079ed3d6-6c96-46ec-8c9e-444dbaea23ea",
+        "type": "message",
+        "text": "Will do!",
+        "user": "U15J5H60P",
+        "ts": "1547923870.032300"
+    }
+]

@@ -1,0 +1,437 @@
+[
+    {
+        "type": "message",
+        "text": "I forgot do you guys use Git?",
+        "user": "U15HSHSS2",
+        "ts": "1510847008.000117"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1510847015.000433"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1510847140.000953"
+    },
+    {
+        "type": "message",
+        "text": "how do you guys go about it? We moved to it last month. Our process is we have our main repository for the product. Each developer has a fork of that repository that we keep up to date with the main one. Our local repository is a clone of the forked one. We make our changes locally, commit to our local repository, push that to our forked repository, and create a merge request to merge our branch from the forked repo to the main repo.",
+        "user": "U15HSHSS2",
+        "ts": "1510847198.000476"
+    },
+    {
+        "type": "message",
+        "text": "basically the same way we do it but we dont \"fork\" we \"branch\"",
+        "user": "U15HRTAHL",
+        "ts": "1510847224.000534"
+    },
+    {
+        "type": "message",
+        "text": "there's a master branch we use for everything in production",
+        "user": "U15HRTAHL",
+        "ts": "1510847236.000721"
+    },
+    {
+        "type": "message",
+        "text": "then dev branch off of master contains all the stuff for the next release",
+        "user": "U15HRTAHL",
+        "ts": "1510847255.000482"
+    },
+    {
+        "type": "message",
+        "text": "then off of dev we have our \"feature branches\" which are tickets in the product backlog people are working on and we merge that into dev when they're testing and approved",
+        "user": "U15HRTAHL",
+        "ts": "1510847288.000001"
+    },
+    {
+        "type": "message",
+        "text": "then when we release we merge dev into master and do it all over again",
+        "user": "U15HRTAHL",
+        "ts": "1510847298.000197"
+    },
+    {
+        "type": "message",
+        "text": "Gotchya, so do all the developers have permission to create branches?",
+        "user": "U15HSHSS2",
+        "ts": "1510847351.000313"
+    },
+    {
+        "type": "message",
+        "text": "Create yeah, but we have protected branches with rules that have to be met",
+        "user": "U15HRTAHL",
+        "ts": "1510847373.000158"
+    },
+    {
+        "type": "message",
+        "text": "like you can't merge into dev or master without the CI tests passing and 2 approved code reviews",
+        "user": "U15HRTAHL",
+        "ts": "1510847398.000028"
+    },
+    {
+        "type": "message",
+        "text": "We only protect the master right now",
+        "user": "U15J5H60P",
+        "ts": "1510847462.000208"
+    },
+    {
+        "type": "message",
+        "text": "Also, we don't have testing",
+        "user": "U15J5H60P",
+        "ts": "1510847472.000548"
+    },
+    {
+        "type": "message",
+        "text": "We live on the edge",
+        "user": "U15J5H60P",
+        "ts": "1510847475.000254"
+    },
+    {
+        "type": "message",
+        "text": "Also",
+        "user": "U15J5H60P",
+        "ts": "1510847478.000367"
+    },
+    {
+        "type": "message",
+        "text": "Fuck CI",
+        "user": "U15J5H60P",
+        "ts": "1510847480.000197"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1510847482.000809"
+    },
+    {
+        "type": "message",
+        "text": "yeah, i wish we did it more like that. basically we do it the same way, but we just have one extra step with having our own fork, and it get's annoying having to keep it up to date and create merger requests for the fork and shit",
+        "user": "U15HSHSS2",
+        "ts": "1510847501.000318"
+    },
+    {
+        "type": "message",
+        "text": "Do you use CI, Tom?",
+        "user": "U15J5H60P",
+        "ts": "1510847519.000484"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> whatd you use before?",
+        "user": "U15HY5TG8",
+        "ts": "1510847533.000437"
+    },
+    {
+        "type": "message",
+        "text": "well we make pull requests too to merge stuff into different branches. I'm pretty sure we're doing the same exact thing",
+        "user": "U15HRTAHL",
+        "ts": "1510847541.000231"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> SVN",
+        "user": "U15HSHSS2",
+        "ts": "1510847542.000609"
+    },
+    {
+        "type": "message",
+        "text": "idk if we use CI or not... I know at JDA we did",
+        "user": "U15HSHSS2",
+        "ts": "1510847590.000593"
+    },
+    {
+        "type": "message",
+        "text": "We have build servers and deployment servers, but I don't think we have CI servers",
+        "user": "U15HSHSS2",
+        "ts": "1510847612.000729"
+    },
+    {
+        "type": "message",
+        "text": "My coworker who worked at JDA before you said JDA had their shit down",
+        "user": "U15HRTAHL",
+        "ts": "1510847639.000295",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1510847661.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1510847641.000778"
+    },
+    {
+        "type": "message",
+        "text": "We use tfs",
+        "user": "U15HY5TG8",
+        "ts": "1510847645.000480"
+    },
+    {
+        "type": "message",
+        "text": "the processes were perfect",
+        "user": "U15HRTAHL",
+        "ts": "1510847646.000565"
+    },
+    {
+        "type": "message",
+        "text": "lol yeah JDA was pretty crazy with CI stuff",
+        "user": "U15HSHSS2",
+        "ts": "1510847657.000136"
+    },
+    {
+        "type": "message",
+        "text": "took a long time to run though",
+        "user": "U15HSHSS2",
+        "ts": "1510847663.000567"
+    },
+    {
+        "type": "message",
+        "text": "like 24 hours sometimes",
+        "user": "U15HSHSS2",
+        "ts": "1510847676.000329"
+    },
+    {
+        "type": "message",
+        "text": "damnnnn",
+        "user": "U15HRTAHL",
+        "ts": "1510847681.000079"
+    },
+    {
+        "type": "message",
+        "text": "We're supposed to get to CI in the next two years prob",
+        "user": "U15HY5TG8",
+        "ts": "1510847688.000228"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1510847707.000189"
+    },
+    {
+        "type": "message",
+        "text": "I need to start making separate branches in my fork for each ticket. That's what's fucking me",
+        "user": "U15HSHSS2",
+        "ts": "1510847775.000083"
+    },
+    {
+        "type": "message",
+        "text": "why are you guys forking?",
+        "user": "U15HRTAHL",
+        "ts": "1510847865.000631"
+    },
+    {
+        "type": "message",
+        "text": "you guys should just branch",
+        "user": "U15HRTAHL",
+        "ts": "1510847874.000015"
+    },
+    {
+        "type": "message",
+        "text": "Yeah idk, that's just the way we do it.",
+        "user": "U15HSHSS2",
+        "ts": "1510847900.000148"
+    },
+    {
+        "type": "message",
+        "text": "```In git, branch is a light weight thing that is often temporary and may be deleted. A fork (on github) is a new project that is based on a previous project.```",
+        "user": "U15HRTAHL",
+        "ts": "1510847903.000717"
+    },
+    {
+        "type": "message",
+        "text": "We don't get rid of our fork",
+        "user": "U15HSHSS2",
+        "ts": "1510847935.000226"
+    },
+    {
+        "type": "message",
+        "text": "It's supposed to be our own repo basically",
+        "user": "U15HSHSS2",
+        "ts": "1510847953.000723"
+    },
+    {
+        "type": "message",
+        "text": "Our main repo has a develop branch, and a master branch",
+        "user": "U15HSHSS2",
+        "ts": "1510847967.000737"
+    },
+    {
+        "type": "message",
+        "text": "merging must be a pain in the ass",
+        "user": "U15HRTAHL",
+        "ts": "1510847979.000647"
+    },
+    {
+        "type": "message",
+        "text": "and our fork has that exact copy too",
+        "user": "U15HSHSS2",
+        "ts": "1510847982.000101"
+    },
+    {
+        "type": "message",
+        "text": "it is",
+        "user": "U15HSHSS2",
+        "ts": "1510847986.000080"
+    },
+    {
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15HRTAHL",
+        "ts": "1510847992.000040"
+    },
+    {
+        "type": "message",
+        "text": "yeah I think there's better ways to do that",
+        "user": "U15HRTAHL",
+        "ts": "1510848000.000649"
+    },
+    {
+        "type": "message",
+        "text": "It will be tolerable once I start doing separate branches",
+        "user": "U15HSHSS2",
+        "ts": "1510848049.000245"
+    },
+    {
+        "type": "message",
+        "text": "cuz then I just make a ticket branch in my fork, do the work, create a merge request for ticketBranch -&gt; mainrepo\/develop",
+        "user": "U15HSHSS2",
+        "ts": "1510848096.000486"
+    },
+    {
+        "type": "message",
+        "text": "So are forks like \"modules\" of the application and your branches are features of the module?",
+        "user": "U15HRTAHL",
+        "ts": "1510848106.000154"
+    },
+    {
+        "type": "message",
+        "text": "Hard to explain. Basically we have our entire code base for the product in a repository. That repository has a 'master', 'develop' and 'feature' branch. We do work in the feature branch until that feature is done. merge that feature branch into develop, then start a new feature branch for the next feature, and merge that into develop when done. Then merge develop into master when we release.",
+        "user": "U15HSHSS2",
+        "ts": "1510848267.000161"
+    },
+    {
+        "type": "message",
+        "text": "our own forks are just an exact copy of our main repo",
+        "user": "U15HSHSS2",
+        "ts": "1510848299.000142"
+    },
+    {
+        "type": "message",
+        "text": "each developer has their own personal fork and we merge our fork branches into main repo branches",
+        "user": "U15HSHSS2",
+        "ts": "1510848331.000135"
+    },
+    {
+        "type": "message",
+        "text": "So if we wanted to fuck around in master we could do that in our fork, where we wouldn't have permission to do it in in the main repo",
+        "user": "U15HSHSS2",
+        "ts": "1510848410.000106"
+    },
+    {
+        "type": "message",
+        "text": "How often do people overwrite other peoples shit? You're not going to get merge conflicts when you merge separate repos",
+        "user": "U15HRTAHL",
+        "ts": "1510848448.000323"
+    },
+    {
+        "type": "message",
+        "text": "I don't think we've ran into that issue. We're technically just merging a branch into a branch like you guys do. Just our branch is from another repo with the same code",
+        "user": "U15HSHSS2",
+        "ts": "1510848621.000347"
+    },
+    {
+        "type": "message",
+        "text": "_fascinating_",
+        "user": "U15HRTAHL",
+        "ts": "1510848669.000651"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.atlassian.com\/blog\/git\/git-branching-and-forking-in-the-enterprise-why-fork>",
+        "user": "U15HRTAHL",
+        "ts": "1510848681.000460",
+        "attachments": [
+            {
+                "service_name": "Atlassian Blog",
+                "title": "Git branching and forking in the enterprise: why fork? - Atlassian Blog",
+                "title_link": "https:\/\/www.atlassian.com\/blog\/git\/git-branching-and-forking-in-the-enterprise-why-fork",
+                "text": "Enterprise DVCS Workflows are settling and patterns are consolidating. The flexibility git gives teams is so broad that even within a single company different teams might use different approaches to code sharing and collaboration. I speak from hard evidence as this is exactly what happens at Atlassian. The Stash team works differently than the Confluence … Read More",
+                "fallback": "Atlassian Blog: Git branching and forking in the enterprise: why fork? - Atlassian Blog",
+                "image_url": "https:\/\/atlassianblog.wpengine.com\/wp-content\/uploads\/git-default.png",
+                "ts": 1367845772,
+                "from_url": "https:\/\/www.atlassian.com\/blog\/git\/git-branching-and-forking-in-the-enterprise-why-fork",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 27740,
+                "service_icon": "https:\/\/www.atlassian.com\/blog\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I can see why",
+        "user": "U15HRTAHL",
+        "ts": "1510848691.000316"
+    },
+    {
+        "type": "message",
+        "text": "How long do your guys merge requests take to get merged in?",
+        "user": "U15HSHSS2",
+        "ts": "1510848814.000061"
+    },
+    {
+        "type": "message",
+        "text": "on average",
+        "user": "U15HSHSS2",
+        "ts": "1510848824.000072"
+    },
+    {
+        "type": "message",
+        "text": "It depends. We work with clients which really fucking sucks and they rush a lot of shit which means you can't review as well as you'd like. Anywhere from 30 mins to half a day I'd say",
+        "user": "U15HRTAHL",
+        "ts": "1510848971.000215"
+    },
+    {
+        "type": "message",
+        "text": "We have a guy here who's working with another software company in seattle and his merge requests can take up to 3 days",
+        "user": "U15HRTAHL",
+        "ts": "1510848998.000144"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, ours can get approved within an hour or take like 2 days",
+        "user": "U15HSHSS2",
+        "ts": "1510849035.000298"
+    },
+    {
+        "type": "message",
+        "text": "I really wanna see your guy's c# to database connection",
+        "user": "U15HRTAHL",
+        "ts": "1510849298.000637"
+    },
+    {
+        "type": "message",
+        "text": "do you guys use linq?",
+        "user": "U15HRTAHL",
+        "ts": "1510849321.000057"
+    },
+    {
+        "type": "message",
+        "text": "We use linq for working with collections in C# nothing related to database stuff",
+        "user": "U15HSHSS2",
+        "ts": "1510849429.000067"
+    },
+    {
+        "type": "message",
+        "text": "We will soon be using linq too in an attempt to rely less on microsoft sql server",
+        "user": "U15HY5TG8",
+        "ts": "1510852131.000031"
+    }
+]

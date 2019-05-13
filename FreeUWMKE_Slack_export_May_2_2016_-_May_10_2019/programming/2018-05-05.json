@@ -1,0 +1,311 @@
+[
+    {
+        "type": "message",
+        "text": "That’s exactly what tdd is supposed to help you with",
+        "user": "U15J5H60P",
+        "ts": "1525536026.000137"
+    },
+    {
+        "client_msg_id": "3609E6C1-6072-4460-82DA-C1E8B54B4DB6",
+        "type": "message",
+        "text": "Yeahhh welll",
+        "user": "U15HY5TG8",
+        "ts": "1525536050.000038"
+    },
+    {
+        "type": "message",
+        "text": "So for example, I wanted a feature where a PIN will be authenticated. I didn’t have that feature yet. So I wrote a test. My test was named `it should authenticate pin successfully`.",
+        "user": "U15J5H60P",
+        "ts": "1525536075.000124"
+    },
+    {
+        "type": "message",
+        "text": "```it('it should authenticate pin successfully', (done) =&gt; {\n            let account = new Account({\n                pin: 8763,\n                username: \"Testing\",\n            })\n            account.save((err, account) =&gt; {\n                chai.request(server)\n                    .post('\/account\/verify')\n                    .send({\n                        pin: 8763,\n                        username: \"Testing\"\n                    })\n                    .end((err, res) =&gt; {\n                        res.should.have.status(200);\n                        res.body.should.have.property('verified');\n                        res.body.verified.should.be.eql(true);\n                        done();\n                    });\n            });\n        });```",
+        "user": "U15J5H60P",
+        "ts": "1525536087.000145",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1525536093.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "So before I wrote ANY code, I made that test",
+        "user": "U15J5H60P",
+        "ts": "1525536103.000069"
+    },
+    {
+        "type": "message",
+        "text": "And it failed",
+        "user": "U15J5H60P",
+        "ts": "1525536109.000108"
+    },
+    {
+        "type": "message",
+        "text": "Obviously",
+        "user": "U15J5H60P",
+        "ts": "1525536112.000152"
+    },
+    {
+        "type": "message",
+        "text": "Then I wrote the code to make it pass",
+        "user": "U15J5H60P",
+        "ts": "1525536119.000030"
+    },
+    {
+        "type": "message",
+        "text": "The minimum amount of code to make it pass",
+        "user": "U15J5H60P",
+        "ts": "1525536124.000132"
+    },
+    {
+        "type": "message",
+        "text": "The problem was, that it was super easy to write that code",
+        "user": "U15J5H60P",
+        "ts": "1525536139.000050"
+    },
+    {
+        "type": "message",
+        "text": "It authenticated ANY pin successfully",
+        "user": "U15J5H60P",
+        "ts": "1525536144.000095"
+    },
+    {
+        "client_msg_id": "61E80C14-5D7B-4CFB-9B03-E2B4760B59F6",
+        "type": "message",
+        "text": "Yeah i get lost doing that",
+        "user": "U15HY5TG8",
+        "ts": "1525536165.000114"
+    },
+    {
+        "type": "message",
+        "text": "So I had to write another test that described `it should fail to authenticate pin if pin does not match`",
+        "user": "U15J5H60P",
+        "ts": "1525536166.000037"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, it’s tough to do",
+        "user": "U15J5H60P",
+        "ts": "1525536171.000002"
+    },
+    {
+        "type": "message",
+        "text": "I hate it",
+        "user": "U15J5H60P",
+        "ts": "1525536171.000151"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1525536172.000102"
+    },
+    {
+        "client_msg_id": "7d320473-3fee-4ac6-905f-a65151c0e5fe",
+        "type": "message",
+        "text": "I still don't understand tdd.",
+        "user": "U15HRTAHL",
+        "ts": "1525536282.000090"
+    },
+    {
+        "client_msg_id": "79d35829-7365-47d3-ba81-06c54a72d481",
+        "type": "message",
+        "text": "Like I get the concept",
+        "user": "U15HRTAHL",
+        "ts": "1525536291.000092"
+    },
+    {
+        "type": "message",
+        "text": "I’m slowly starting to get a grasp",
+        "user": "U15J5H60P",
+        "ts": "1525536291.000100"
+    },
+    {
+        "type": "message",
+        "text": "How was your flight?!",
+        "user": "U15J5H60P",
+        "ts": "1525536295.000038"
+    },
+    {
+        "client_msg_id": "76be6509-8a4a-4506-8222-6b14d094036f",
+        "type": "message",
+        "text": "But if the stuff doesn't exist, what are you calling in your test methods?",
+        "user": "U15HRTAHL",
+        "ts": "1525536309.000050"
+    },
+    {
+        "client_msg_id": "9f570d16-1656-4385-93c2-984be84d11d6",
+        "type": "message",
+        "text": "Good but long",
+        "user": "U15HRTAHL",
+        "ts": "1525536314.000078"
+    },
+    {
+        "type": "message",
+        "text": "You’re calling theoretical methods",
+        "user": "U15J5H60P",
+        "ts": "1525536325.000086"
+    },
+    {
+        "type": "message",
+        "text": "Good!",
+        "user": "U15J5H60P",
+        "ts": "1525536328.000106"
+    },
+    {
+        "type": "message",
+        "text": "What’re you going to do today?",
+        "user": "U15J5H60P",
+        "ts": "1525536334.000043"
+    },
+    {
+        "client_msg_id": "a1353f9e-998f-4060-bef4-6f81826d6182",
+        "type": "message",
+        "text": "If you're writing tests for Java or c# the file won't save if they methods don't exist",
+        "user": "U15HRTAHL",
+        "ts": "1525536358.000024"
+    },
+    {
+        "client_msg_id": "e8d690b6-a892-4723-a43f-0513fe922b53",
+        "type": "message",
+        "text": "Checking into the hotel and going to the public market lol",
+        "user": "U15HRTAHL",
+        "ts": "1525536371.000106"
+    },
+    {
+        "client_msg_id": "78becbe7-d05c-4605-8584-e06cdbae93a6",
+        "type": "message",
+        "text": "Then going to the ocean",
+        "user": "U15HRTAHL",
+        "ts": "1525536377.000043"
+    },
+    {
+        "type": "message",
+        "text": "Nice nice! You should try one of the scooters if they’re in Seattle yet",
+        "user": "U15J5H60P",
+        "ts": "1525536390.000078"
+    },
+    {
+        "type": "message",
+        "text": "Bird, Lime, etc",
+        "user": "U15J5H60P",
+        "ts": "1525536395.000101"
+    },
+    {
+        "type": "message",
+        "text": "It’s the new  controversial thing",
+        "user": "U15J5H60P",
+        "ts": "1525536411.000048"
+    },
+    {
+        "type": "message",
+        "text": "Ooooh",
+        "user": "U15J5H60P",
+        "ts": "1525536418.000044"
+    },
+    {
+        "type": "message",
+        "text": "Can you go to the Amazon Go store?",
+        "user": "U15J5H60P",
+        "ts": "1525536424.000054"
+    },
+    {
+        "client_msg_id": "4DC5A9ED-09E1-4448-A8F4-F1AA5F43CD58",
+        "type": "message",
+        "text": "For javascript tests, you can save the file. For c# i think you just write the methods and return true or whatever the default is that you want",
+        "user": "U15HY5TG8",
+        "ts": "1525536486.000058"
+    },
+    {
+        "type": "message",
+        "text": "If you’re not writing JS you’re wrong",
+        "user": "U15J5H60P",
+        "ts": "1525536535.000098"
+    },
+    {
+        "client_msg_id": "F5399D23-3EF6-4C03-AABF-6F990BC5B036",
+        "type": "message",
+        "text": "I really really dont get the js tests",
+        "user": "U15HY5TG8",
+        "ts": "1525536569.000013"
+    },
+    {
+        "client_msg_id": "2A77C060-6904-42F2-8105-8F611CE57653",
+        "type": "message",
+        "text": "Ive been writing some now but theyre just like expect(vm.getid).toBeDefined() lol",
+        "user": "U15HY5TG8",
+        "ts": "1525536603.000032"
+    },
+    {
+        "type": "message",
+        "text": "Can you see this - <https:\/\/bitbucket.org\/SonBrooks\/stock-sim-api\/src\/master\/>",
+        "user": "U15J5H60P",
+        "ts": "1525536689.000075"
+    },
+    {
+        "client_msg_id": "3113202F-02F6-4322-8F56-880A8B6C2A8F",
+        "type": "message",
+        "text": "I think so",
+        "user": "U15HY5TG8",
+        "ts": "1525536924.000009"
+    },
+    {
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "U15J5H60P",
+        "ts": "1525536937.000145"
+    },
+    {
+        "type": "message",
+        "text": "I only have 12 tests, but if you’re interested you can see them in the `test` directory",
+        "user": "U15J5H60P",
+        "ts": "1525536954.000083",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1525536968.000000"
+        }
+    },
+    {
+        "client_msg_id": "0EAB876A-56F0-46B4-BCD8-7F2E7EA3D676",
+        "type": "message",
+        "text": "I will definitely check them out. Do you write in jasmine?",
+        "user": "U15HY5TG8",
+        "ts": "1525537411.000098"
+    },
+    {
+        "client_msg_id": "7460DFFC-21F8-4A88-ADE6-B652844D5210",
+        "type": "message",
+        "text": "Mocha ",
+        "user": "U15J5H60P",
+        "ts": "1525537434.000023"
+    },
+    {
+        "client_msg_id": "AF33B80F-F00B-4D4F-BF37-3FEB74F29986",
+        "type": "message",
+        "text": "Ahh ok",
+        "user": "U15HY5TG8",
+        "ts": "1525537450.000100"
+    },
+    {
+        "client_msg_id": "21EAD8CE-FD1A-470A-ABFE-4016EF8BC9AB",
+        "type": "message",
+        "text": "They're all pretty similar frameworks though",
+        "user": "U15J5H60P",
+        "ts": "1525537463.000066"
+    },
+    {
+        "client_msg_id": "7793BDDD-3569-41E2-995B-161B8FD547B8",
+        "type": "message",
+        "text": "Yeah thats what i kinda figured",
+        "user": "U15HY5TG8",
+        "ts": "1525537495.000113"
+    },
+    {
+        "client_msg_id": "d353beec-039a-4163-a2de-23f3ef193e8d",
+        "type": "message",
+        "text": "Lolz can confirm",
+        "user": "U15HRTAHL",
+        "ts": "1525554449.000099"
+    }
+]

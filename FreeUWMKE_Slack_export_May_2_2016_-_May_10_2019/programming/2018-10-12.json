@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "1c68ea94-1dd0-482f-9b45-93c7f8901693",
+        "type": "message",
+        "text": "I’m building a Core ML fruit classifier right now using Kaggle’s Fruit 360 dataset.",
+        "user": "U15J5H60P",
+        "ts": "1539370505.000100"
+    },
+    {
+        "type": "message",
+        "text": "This is what it looks like processing",
+        "files": [
+            {
+                "id": "FDCL60A1F",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": null,
+        "ts": "1539370528.000100"
+    },
+    {
+        "client_msg_id": "eae83748-6ccc-49b0-843e-d7e1fd26c998",
+        "type": "message",
+        "text": "The columns in the bottom are `Images Processed | Elapsed Time | Percent Complete`",
+        "user": "U15J5H60P",
+        "ts": "1539370561.000100"
+    },
+    {
+        "client_msg_id": "bb6e101d-8bf4-4c7e-b49d-83e18388a511",
+        "type": "message",
+        "text": "This is in a playground",
+        "user": "U15J5H60P",
+        "ts": "1539370569.000100"
+    },
+    {
+        "client_msg_id": "229db681-3af8-482f-ae26-e414bc9a05b7",
+        "type": "message",
+        "text": "I had to write three lines of code",
+        "user": "U15J5H60P",
+        "ts": "1539370576.000100"
+    },
+    {
+        "client_msg_id": "3f3dcffb-0e66-44b3-85e8-203dc29f33d7",
+        "type": "message",
+        "text": "That’s amazing",
+        "user": "U15J5H60P",
+        "ts": "1539370579.000100"
+    },
+    {
+        "client_msg_id": "2a48551f-6c20-4f92-8194-669dfa32ccd2",
+        "type": "message",
+        "text": "Kaggle is pretty cool",
+        "user": "U15J5H60P",
+        "ts": "1539370698.000100"
+    },
+    {
+        "client_msg_id": "407e6f0f-3779-4dc2-adce-87a1b41be815",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1539370869.000100"
+    },
+    {
+        "client_msg_id": "893b8450-b4cc-4616-bd7e-7796716d5ced",
+        "type": "message",
+        "text": "not sure if apple, or plum",
+        "user": "U15HRTAHL",
+        "ts": "1539370897.000100"
+    },
+    {
+        "client_msg_id": "49820ad6-025e-4daf-bd73-e5b48225db6f",
+        "type": "message",
+        "text": "So after the images are done processing, it’ll spit out a .mlmodel file, then you can hook that up to your app and use the camera to classify objects",
+        "user": "U15J5H60P",
+        "ts": "1539370923.000100"
+    },
+    {
+        "client_msg_id": "f3b83d8b-ec52-48da-a7f4-5ba7cb69f634",
+        "type": "message",
+        "text": "The classifier says plum",
+        "user": "U15J5H60P",
+        "ts": "1539370930.000100"
+    },
+    {
+        "client_msg_id": "8062ec67-fbef-4026-939a-5fdb5e59737d",
+        "type": "message",
+        "text": "that’s pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1539370976.000100"
+    },
+    {
+        "type": "message",
+        "text": "Finally done processing 500mb of images",
+        "files": [
+            {
+                "id": "FDDFTHVU5",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": null,
+        "ts": "1539375003.000100"
+    },
+    {
+        "client_msg_id": "326B51E0-75B2-41D2-B0E3-BBEE9B0580A4",
+        "type": "message",
+        "text": "Lol and niiiice",
+        "user": "U15HY5TG8",
+        "ts": "1539375435.000100"
+    }
+]

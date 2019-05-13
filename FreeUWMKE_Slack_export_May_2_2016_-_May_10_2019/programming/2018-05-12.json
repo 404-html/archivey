@@ -1,0 +1,285 @@
+[
+    {
+        "type": "message",
+        "text": "I'm trying to learn Kotlin and holy shit it doesn't make sense",
+        "user": "U15HRTAHL",
+        "ts": "1526143037.000006"
+    },
+    {
+        "type": "message",
+        "text": "```\nfun &lt;T, R&gt; Collection&lt;T&gt;.fold(\n    initial: R, \n    combine: (acc: R, nextElement: T) -&gt; R\n): R {\n    var accumulator: R = initial\n    for (element: T in this) {\n        accumulator = combine(accumulator, element)\n    }\n    return accumulator\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1526143049.000158"
+    },
+    {
+        "client_msg_id": "1428F108-60AF-40F0-8143-7BEDF3599C97",
+        "type": "message",
+        "text": "Whats that method doing exactly?",
+        "user": "U15HY5TG8",
+        "ts": "1526144833.000003"
+    },
+    {
+        "type": "message",
+        "text": "they're trying to demonstrate how in kotlin you can pass functions as parameters, similar to how you can in javascript",
+        "user": "U15HRTAHL",
+        "ts": "1526145415.000023"
+    },
+    {
+        "type": "message",
+        "text": "but I just don't get the syntax",
+        "user": "U15HRTAHL",
+        "ts": "1526145433.000044"
+    },
+    {
+        "type": "message",
+        "text": "fold takes an initial value `R`, and a function and returns a value of type `R`",
+        "user": "U15HRTAHL",
+        "ts": "1526145478.000120"
+    },
+    {
+        "client_msg_id": "8791FC58-8D41-45ED-A8A2-2C80CA2B955A",
+        "type": "message",
+        "text": "It was supposed to be easier than Java",
+        "user": "U15J5H60P",
+        "ts": "1526147381.000029"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1526147394.000053"
+    },
+    {
+        "client_msg_id": "EA2BF3D6-176E-4963-895F-182EE9D03BC4",
+        "type": "message",
+        "text": "Why are you learning Kotlin",
+        "user": "U15J5H60P",
+        "ts": "1526147395.000147"
+    },
+    {
+        "type": "message",
+        "text": "for fun",
+        "user": "U15HRTAHL",
+        "ts": "1526147404.000021"
+    },
+    {
+        "type": "message",
+        "text": "Yeah this shit sucks",
+        "user": "U15HRTAHL",
+        "ts": "1526147410.000040"
+    },
+    {
+        "client_msg_id": "EC009E7C-FFF7-4793-ACC1-2D14D0667584",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1526147413.000089"
+    },
+    {
+        "type": "message",
+        "text": "It'd be cool if you know it, but learning it fucking sucks",
+        "user": "U15HRTAHL",
+        "ts": "1526147425.000055"
+    },
+    {
+        "client_msg_id": "03A3003F-3694-4DC7-90F6-4E7A71860ECF",
+        "type": "message",
+        "text": "Go learn Kafka with Python",
+        "user": "U15J5H60P",
+        "ts": "1526147428.000159"
+    },
+    {
+        "type": "message",
+        "text": "hard pass",
+        "user": "U15HRTAHL",
+        "ts": "1526147440.000032"
+    },
+    {
+        "client_msg_id": "22AC714E-BCAF-4058-8216-40871659B0B4",
+        "type": "message",
+        "text": "Tensorflow?",
+        "user": "U15J5H60P",
+        "ts": "1526147473.000024"
+    },
+    {
+        "client_msg_id": "664D4651-9F8A-4BB8-A4F3-A33276A7E93C",
+        "type": "message",
+        "text": "Try writing something that understands the sentiment of a sentence",
+        "user": "U15J5H60P",
+        "ts": "1526147513.000059"
+    },
+    {
+        "client_msg_id": "FD6941F3-F155-4ED5-9222-512243F4CFB4",
+        "type": "message",
+        "text": "Or learn Docker",
+        "user": "U15J5H60P",
+        "ts": "1526147520.000068"
+    },
+    {
+        "client_msg_id": "B8599565-DB7D-4D5C-8DB9-AC756B8A1E8D",
+        "type": "message",
+        "text": "Docker is an up and coming thing",
+        "user": "U15J5H60P",
+        "ts": "1526147538.000075"
+    },
+    {
+        "type": "message",
+        "text": "docker is just a package your app runs in",
+        "user": "U15HRTAHL",
+        "ts": "1526147618.000038"
+    },
+    {
+        "type": "message",
+        "text": "its not a language, I wanna learn a language",
+        "user": "U15HRTAHL",
+        "ts": "1526147629.000039"
+    },
+    {
+        "type": "message",
+        "text": "mainly I'm doing this because I want to see `Kotlin` on my github lol",
+        "user": "U15HRTAHL",
+        "ts": "1526147642.000034"
+    },
+    {
+        "client_msg_id": "C9E9D7D9-7BB9-4F93-8D44-DD58D840ABA7",
+        "type": "message",
+        "text": "Ah lol",
+        "user": "U15J5H60P",
+        "ts": "1526147663.000105"
+    },
+    {
+        "client_msg_id": "53B0744F-C86A-4F64-90A8-86B2913AE898",
+        "type": "message",
+        "text": "How about R?",
+        "user": "U15J5H60P",
+        "ts": "1526147699.000066"
+    },
+    {
+        "client_msg_id": "B0F69276-7DD2-4B66-B52D-443D32A16A08",
+        "type": "message",
+        "text": "Some language that is data driven",
+        "user": "U15J5H60P",
+        "ts": "1526147741.000076"
+    },
+    {
+        "client_msg_id": "4E075218-A69D-4DC4-B526-FCE47549FC2B",
+        "type": "message",
+        "text": "I get it",
+        "user": "U15HY5TG8",
+        "ts": "1526148163.000008"
+    },
+    {
+        "client_msg_id": "6952F48F-6C40-4430-AE0D-723B81979F44",
+        "type": "message",
+        "text": "So you fold against R and combine the elements with T to still return R, right?",
+        "user": "U15HY5TG8",
+        "ts": "1526148240.000060"
+    },
+    {
+        "type": "message",
+        "text": "you guys should download intellij idea community edition and install the kotlin koans add on",
+        "user": "U15HRTAHL",
+        "ts": "1526148508.000026"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/kotlinlang.org\/docs\/tutorials\/edu-tools-learner.html>",
+        "user": "U15HRTAHL",
+        "ts": "1526148539.000026",
+        "attachments": [
+            {
+                "service_name": "Kotlin",
+                "title": "Learning Kotlin with EduTools plugin - Kotlin Programming Language",
+                "title_link": "https:\/\/kotlinlang.org\/docs\/tutorials\/edu-tools-learner.html",
+                "text": "This tutorial walks you through the interactive learning with a set of Kotlin programming tasks.",
+                "fallback": "Kotlin: Learning Kotlin with EduTools plugin - Kotlin Programming Language",
+                "image_url": "https:\/\/kotlinlang.org\/assets\/images\/twitter-card\/kotlin_800x320.png",
+                "from_url": "https:\/\/kotlinlang.org\/docs\/tutorials\/edu-tools-learner.html",
+                "image_width": 625,
+                "image_height": 250,
+                "image_bytes": 14563,
+                "service_icon": "https:\/\/kotlinlang.org\/assets\/images\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/kotlinlang.org\/docs\/tutorials\/edu-tools-learner.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "62175780-A060-4FFB-B451-899D329BC2A7",
+        "type": "message",
+        "text": "I already tried Kotlin",
+        "user": "U15J5H60P",
+        "ts": "1526148656.000015"
+    },
+    {
+        "type": "message",
+        "text": "what'd you think?",
+        "user": "U15HRTAHL",
+        "ts": "1526148679.000096"
+    },
+    {
+        "client_msg_id": "3578C55E-B35E-4A75-8DB5-E29AE5207BCB",
+        "type": "message",
+        "text": "It just didn't seem that special ",
+        "user": "U15J5H60P",
+        "ts": "1526148742.000038"
+    },
+    {
+        "type": "message",
+        "text": "hows it compare to swift?",
+        "user": "U15HRTAHL",
+        "ts": "1526148789.000042"
+    },
+    {
+        "client_msg_id": "62F4702E-E44D-48D6-B134-EE56BE297EAD",
+        "type": "message",
+        "text": "A lot more complicated",
+        "user": "U15J5H60P",
+        "ts": "1526148882.000129"
+    },
+    {
+        "type": "message",
+        "text": "thats what i figured",
+        "user": "U15HRTAHL",
+        "ts": "1526148893.000127"
+    },
+    {
+        "client_msg_id": "2A9C610F-AF52-43A7-BCF5-A6A52FD89682",
+        "type": "message",
+        "text": "Swift is amazing. I hope it becomes a server language. ",
+        "user": "U15J5H60P",
+        "ts": "1526148915.000065"
+    },
+    {
+        "type": "message",
+        "text": "I'm gonna putz with that after I learn kotlin",
+        "user": "U15HRTAHL",
+        "ts": "1526148938.000021"
+    },
+    {
+        "type": "message",
+        "text": "I'm gonna make an android app with kotlin and then the same app with swift",
+        "user": "U15HRTAHL",
+        "ts": "1526148957.000062"
+    },
+    {
+        "client_msg_id": "B7C6B064-00D0-4F18-A339-04F82A468466",
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1526149194.000130"
+    },
+    {
+        "type": "message",
+        "text": "yeah fuck kotlin, this syntax sucks ass",
+        "user": "U15HRTAHL",
+        "ts": "1526152656.000037"
+    },
+    {
+        "client_msg_id": "0149CC02-B053-4860-A1E2-F283E6ED2979",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1526161178.000049"
+    }
+]

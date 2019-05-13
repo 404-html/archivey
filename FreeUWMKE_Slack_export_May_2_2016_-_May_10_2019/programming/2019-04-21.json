@@ -1,0 +1,321 @@
+[
+    {
+        "client_msg_id": "8ef54af0-66af-45a9-8a9d-b50e94176963",
+        "type": "message",
+        "text": "<@U15J5H60P> help me",
+        "user": "U15HRTAHL",
+        "ts": "1555872989.000200"
+    },
+    {
+        "client_msg_id": "4DA71F77-13CA-4A27-AF22-CAF601BAD7FC",
+        "type": "message",
+        "text": "What's up",
+        "user": "U15J5H60P",
+        "ts": "1555873002.000400"
+    },
+    {
+        "client_msg_id": "cfdb8519-25de-43c1-8165-a103fdfe03d0",
+        "type": "message",
+        "text": "sequelize assocations",
+        "user": "U15HRTAHL",
+        "ts": "1555873009.000700"
+    },
+    {
+        "client_msg_id": "106A3982-7040-407A-B6F0-5799DC5D942C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1555873010.000800"
+    },
+    {
+        "client_msg_id": "600c359d-9566-429e-8d9a-238449d811d7",
+        "type": "message",
+        "text": "i dun get it",
+        "user": "U15HRTAHL",
+        "ts": "1555873016.001100"
+    },
+    {
+        "client_msg_id": "D6B58C9C-766C-448B-AA3C-DC805F4BDF70",
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15J5H60P",
+        "ts": "1555873016.001200"
+    },
+    {
+        "client_msg_id": "F1A981BA-D597-420F-A9BC-626C82FB4E98",
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1555873018.001300"
+    },
+    {
+        "client_msg_id": "b4ea71d7-3936-464a-a63d-b49458b44127",
+        "type": "message",
+        "text": "I have 2 tables",
+        "user": "U15HRTAHL",
+        "ts": "1555873039.001700"
+    },
+    {
+        "client_msg_id": "B8810292-2B64-4BF1-BA95-47FA9FA7CA9C",
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1555873043.002000"
+    },
+    {
+        "client_msg_id": "2b9b1d1d-f064-40bb-871a-9fe7de7dd6d8",
+        "type": "message",
+        "text": "that are joined through a middle table",
+        "user": "U15HRTAHL",
+        "ts": "1555873044.002100"
+    },
+    {
+        "client_msg_id": "E9D733BC-9297-4855-9983-9416E70D9E3C",
+        "type": "message",
+        "text": "Ah very nice",
+        "user": "U15J5H60P",
+        "ts": "1555873051.002400"
+    },
+    {
+        "client_msg_id": "7701c6ed-5147-4ad3-a4cf-17c35ca5128a",
+        "type": "message",
+        "text": "Person, Ingredient, PersonIngredient",
+        "user": "U15HRTAHL",
+        "ts": "1555873057.002700"
+    },
+    {
+        "client_msg_id": "D179E46F-ADD1-4452-B78E-725EBFB8ABDA",
+        "type": "message",
+        "text": "Relation tables",
+        "user": "U15J5H60P",
+        "ts": "1555873066.003000"
+    },
+    {
+        "client_msg_id": "5dc2a44c-da21-4c73-8f7b-fa4e9ba5b65b",
+        "type": "message",
+        "text": "yesh",
+        "user": "U15HRTAHL",
+        "ts": "1555873068.003200"
+    },
+    {
+        "client_msg_id": "2b7ce967-0140-452f-9295-bf8ceec98879",
+        "type": "message",
+        "text": "```\nperson.associate = function(models) {\n    \/\/ associations can be defined here\n    person.belongsToMany(models.ingredient, {through: {model: models.person_ingredient, unique: false}});\n  };\n```",
+        "user": "U15HRTAHL",
+        "ts": "1555873083.003700"
+    },
+    {
+        "client_msg_id": "A79AD8E6-32F1-4F1F-B831-4ABA8B78899B",
+        "type": "message",
+        "text": "What dont you get",
+        "user": "U15HY5TG8",
+        "ts": "1555873085.004000"
+    },
+    {
+        "client_msg_id": "1ae925bd-c472-47dd-9162-0a4db5a72cae",
+        "type": "message",
+        "text": "```\n ingredient.associate = function(models) {\n    ingredient.belongsToMany(models.person, {through: {model: models.person_ingredient, unique: false}});\n  };\n```",
+        "user": "U15HRTAHL",
+        "ts": "1555873094.004200"
+    },
+    {
+        "client_msg_id": "6acdc186-e938-49a1-a1f5-3e0808973268",
+        "type": "message",
+        "text": "but",
+        "user": "U15HRTAHL",
+        "ts": "1555873100.004400"
+    },
+    {
+        "client_msg_id": "6d88bcec-bbd3-4c83-b71b-a40ac052f397",
+        "type": "message",
+        "text": "when I do this query",
+        "user": "U15HRTAHL",
+        "ts": "1555873104.004600"
+    },
+    {
+        "client_msg_id": "89a81cb8-3409-426d-9800-11b138aeabdd",
+        "type": "message",
+        "text": "```\nlet person = await db.Person.findOne({where:{email : email}});\nlet personIngredients = await db.PersonIngredient.findAll({\n    include: [\n        db.Ingredient\n    ],\n    where:{person_id: person.id}\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1555873121.004800"
+    },
+    {
+        "client_msg_id": "3373db56-9a31-4330-86e2-40668ed3e165",
+        "type": "message",
+        "text": "I get",
+        "user": "U15HRTAHL",
+        "ts": "1555873123.005000"
+    },
+    {
+        "client_msg_id": "2b329bbb-d6ad-4642-b54f-bfbc89800904",
+        "type": "message",
+        "text": "`ingredient is not associated to person_ingredient!`",
+        "user": "U15HRTAHL",
+        "ts": "1555873132.005200"
+    },
+    {
+        "client_msg_id": "C1A5CF7B-070B-41F1-A723-0B4933D32CE2",
+        "type": "message",
+        "text": "Sequelize is like eloquent right?",
+        "user": "U15HY5TG8",
+        "ts": "1555873232.006400"
+    },
+    {
+        "client_msg_id": "c968b2d5-44a0-4bb4-93cf-e7d435f0769d",
+        "type": "message",
+        "text": "i've never used eloquent",
+        "user": "U15HRTAHL",
+        "ts": "1555873273.006700"
+    },
+    {
+        "client_msg_id": "06a5dacf-f954-4e03-8bcf-1525713eb9b0",
+        "type": "message",
+        "text": "but if eolquent is an ORM then yes",
+        "user": "U15HRTAHL",
+        "ts": "1555873281.007000",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1555873284.000000"
+        }
+    },
+    {
+        "client_msg_id": "88ED9CC3-B38C-4080-9390-9C4E7BC6E82C",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HY5TG8",
+        "ts": "1555873296.007300"
+    },
+    {
+        "client_msg_id": "456A0C60-9B29-4CB1-940E-CD7E739875FF",
+        "type": "message",
+        "text": "I feel like theyre touchy",
+        "user": "U15HY5TG8",
+        "ts": "1555873305.007600"
+    },
+    {
+        "client_msg_id": "06a4b97f-31a5-49af-bb03-0c951f909156",
+        "type": "message",
+        "text": "bueller",
+        "user": "U15HRTAHL",
+        "ts": "1555874756.007800"
+    },
+    {
+        "client_msg_id": "a140a401-469c-49bc-a608-401a7ccca7df",
+        "type": "message",
+        "text": "got it",
+        "user": "U15HRTAHL",
+        "ts": "1555875035.008000"
+    },
+    {
+        "client_msg_id": "3b2de6ce-eead-4bcd-9b84-619ef9a6bd43",
+        "type": "message",
+        "text": "apparently you have to define the relationship on both sides",
+        "user": "U15HRTAHL",
+        "ts": "1555875046.008300"
+    },
+    {
+        "client_msg_id": "d70f3f30-c635-4355-ab39-3f3fb8018d29",
+        "type": "message",
+        "text": "```\n ingredient.associate = function(models) {\n    ingredient.belongsToMany(models.person, {through: {model: models.person_ingredient, unique: false}});\n  };\n\nperson.associate = function(models) {\n    \/\/ associations can be defined here\n    person.belongsToMany(models.ingredient, {through: {model: models.person_ingredient, unique: false}});\n  };\n\nperson_ingredient.associate = function(models) {\n    \/\/ associations can be defined here\n    person_ingredient.belongsTo(models.ingredient);\n    person_ingredient.belongsTo(models.person);\n  };\n```",
+        "user": "U15HRTAHL",
+        "ts": "1555875068.008700"
+    },
+    {
+        "client_msg_id": "65E97EDD-5658-4D37-A802-330F14568FE6",
+        "type": "message",
+        "text": "That cant be true",
+        "user": "U15HY5TG8",
+        "ts": "1555875422.009000"
+    },
+    {
+        "client_msg_id": "b2a734af-77de-4603-8467-7e82b6ff3615",
+        "type": "message",
+        "text": "yep it is",
+        "user": "U15HRTAHL",
+        "ts": "1555875630.009200"
+    },
+    {
+        "client_msg_id": "b16b43fa-9103-4e14-af86-642ce76525b8",
+        "type": "message",
+        "text": "want to know something else that's dumb?",
+        "user": "U15HRTAHL",
+        "ts": "1555875637.009500"
+    },
+    {
+        "client_msg_id": "bac5f4d9-03b4-4f22-8cca-029af47924e2",
+        "type": "message",
+        "text": "sequelize has this thing called migrations. Migrations are pretty much just database schema changes in a git like format",
+        "user": "U15HRTAHL",
+        "ts": "1555875663.010100"
+    },
+    {
+        "client_msg_id": "36f7e971-75fb-4196-b567-45856dd61778",
+        "type": "message",
+        "text": "well",
+        "user": "U15HRTAHL",
+        "ts": "1555875664.010300"
+    },
+    {
+        "client_msg_id": "b7053ff1-01fe-404c-82f6-e1841a435975",
+        "type": "message",
+        "text": "when you make a migration and execute it, it doesn't update the local model",
+        "user": "U15HRTAHL",
+        "ts": "1555875678.010700"
+    },
+    {
+        "client_msg_id": "ec6f84a4-534a-4ad0-a47f-8fbeb1c09ab5",
+        "type": "message",
+        "text": "so you have to define the change in the migration, and add the change to the model",
+        "user": "U15HRTAHL",
+        "ts": "1555875694.011200"
+    },
+    {
+        "client_msg_id": "a75bb3cb-88e8-48c3-bbb8-9463ac2f81fd",
+        "type": "message",
+        "text": "so for example I can make a migration to create a new column on a table",
+        "user": "U15HRTAHL",
+        "ts": "1555875706.011600"
+    },
+    {
+        "client_msg_id": "af4a8498-da38-428d-a568-926aa018ace9",
+        "type": "message",
+        "text": "But I have to manually update the local model with the new column",
+        "user": "U15HRTAHL",
+        "ts": "1555875721.012100"
+    },
+    {
+        "client_msg_id": "3327338C-5834-4DEB-84EB-2892C4E17389",
+        "type": "message",
+        "text": "Yeah im used to that part",
+        "user": "U15HY5TG8",
+        "ts": "1555875753.012400"
+    },
+    {
+        "client_msg_id": "756c257b-3982-4a0e-80cc-11b558988e19",
+        "type": "message",
+        "text": "just kind of dumb imo",
+        "user": "U15HRTAHL",
+        "ts": "1555875762.012700"
+    },
+    {
+        "client_msg_id": "16aaa93d-5fc6-4e61-973a-51e66ea71b9a",
+        "type": "message",
+        "text": "I can live with defining the relationship on both objects",
+        "user": "U15HRTAHL",
+        "ts": "1555875772.013000"
+    },
+    {
+        "client_msg_id": "A21292AC-B5AA-4F36-B809-9CD2C1F01114",
+        "type": "message",
+        "text": "Yeahhh",
+        "user": "U15HY5TG8",
+        "ts": "1555875774.013200"
+    },
+    {
+        "client_msg_id": "920EA2BA-6F6B-422E-9C63-E7A66956AF2E",
+        "type": "message",
+        "text": "Its no different than a source control way of updating",
+        "user": "U15HY5TG8",
+        "ts": "1555875826.014200"
+    }
+]

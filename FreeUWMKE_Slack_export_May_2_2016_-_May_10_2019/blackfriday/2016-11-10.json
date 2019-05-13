@@ -1,0 +1,83 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478835092.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478835092.000003",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478835092.000004",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1478835092.000005",
+        "text": "<@U15J5H60P> set the channel purpose: The Hottest Deals in Town",
+        "purpose": "The Hottest Deals in Town"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1478835092.000006",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.theverge.com\/2016\/11\/10\/13583106\/best-buy-black-friday-deals-2016-ipad-pro-air-4k-tv-hdr>",
+        "user": "U15J5H60P",
+        "ts": "1478835097.000007",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Best Buy’s Black Friday 2016 deals include iPad discounts and tons of 4K TVs",
+                "title_link": "http:\/\/www.theverge.com\/2016\/11\/10\/13583106\/best-buy-black-friday-deals-2016-ipad-pro-air-4k-tv-hdr",
+                "text": "Deals! Deals! Deals!",
+                "fallback": "The Verge: Best Buy’s Black Friday 2016 deals include iPad discounts and tons of 4K TVs",
+                "image_url": "https:\/\/cdn0.vox-cdn.com\/thumbor\/GcWu5janSoDqsW2PwXeD9-Jm9iM=\/0x106:2040x1254\/1600x900\/cdn0.vox-cdn.com\/uploads\/chorus_image\/image\/51768601\/verge_14.0.0__1_.0.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "ts": 1478793846,
+                "from_url": "http:\/\/www.theverge.com\/2016\/11\/10\/13583106\/best-buy-black-friday-deals-2016-ipad-pro-air-4k-tv-hdr",
+                "image_bytes": 165418,
+                "service_icon": "https:\/\/cdn2.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I want a new TV doe",
+        "user": "U15J5H60P",
+        "ts": "1478835105.000009"
+    },
+    {
+        "type": "message",
+        "text": "this channel is ass",
+        "user": "U15HY5TG8",
+        "ts": "1478835166.000010"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1478835176.000011",
+        "text": "<@U15HY5TG8> archived the channel"
+    }
+]

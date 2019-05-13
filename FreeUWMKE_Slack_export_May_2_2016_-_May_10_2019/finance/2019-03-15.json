@@ -1,0 +1,617 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1552660725.000100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1552660720,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "366.84",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-6.46 (-1.73%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "4,175,783",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "6,020,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (12 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "430.00 (+17.22%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31629,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a974ab63-69e8-48a8-88cf-37962afc65e0",
+        "type": "message",
+        "text": "My buy was approved",
+        "user": "U15J5H60P",
+        "ts": "1552660729.000300"
+    },
+    {
+        "client_msg_id": "8f7cd35b-4020-4460-a5e6-70ef4372c731",
+        "type": "message",
+        "text": "Now waiting to strike",
+        "user": "U15J5H60P",
+        "ts": "1552660732.000500",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1552660737.000000"
+        }
+    },
+    {
+        "client_msg_id": "671b7586-5fbe-43b7-8582-fce94d80e9f7",
+        "type": "message",
+        "text": "I wonder how low it'll go...",
+        "user": "U15J5H60P",
+        "ts": "1552660747.000800"
+    },
+    {
+        "client_msg_id": "d332d03e-70cc-48f7-8369-3788b424bd68",
+        "type": "message",
+        "text": "It's not looking particularly great in terms of stoppage",
+        "user": "U15J5H60P",
+        "ts": "1552660765.001200"
+    },
+    {
+        "client_msg_id": "1e23e480-96c6-4861-9fd0-7c631e922040",
+        "type": "message",
+        "text": "I read the groundings can take 5-6 weeks minimum",
+        "user": "U15HRTAHL",
+        "ts": "1552661654.001600"
+    },
+    {
+        "client_msg_id": "d8d9dd6a-2326-4e86-a45c-1dd5d6feb810",
+        "type": "message",
+        "text": "so there’s 5-6 weeks of potential bad news",
+        "user": "U15HRTAHL",
+        "ts": "1552661663.001900"
+    },
+    {
+        "client_msg_id": "8a116b21-7869-4212-8a4f-69495dd67717",
+        "type": "message",
+        "text": "True",
+        "user": "U15J5H60P",
+        "ts": "1552661667.002200"
+    },
+    {
+        "client_msg_id": "c04e2970-1cd0-404a-b437-92e2c44e740d",
+        "type": "message",
+        "text": "I feel like the price will easily go back up to $420 though",
+        "user": "U15J5H60P",
+        "ts": "1552661683.002600"
+    },
+    {
+        "client_msg_id": "4196cac0-fc3e-4ef4-b042-c5fc40dacc7f",
+        "type": "message",
+        "text": "it will",
+        "user": "U15HRTAHL",
+        "ts": "1552661689.002900"
+    },
+    {
+        "client_msg_id": "c9998158-d8a4-406f-a302-ff7190c2a9e6",
+        "type": "message",
+        "text": "Potentially good news as well",
+        "user": "U15J5H60P",
+        "ts": "1552661692.003100"
+    },
+    {
+        "client_msg_id": "e6547b3f-d6d2-4ccb-9f07-3d90017f3d4d",
+        "type": "message",
+        "text": "The software update is coming in April",
+        "user": "U15J5H60P",
+        "ts": "1552661699.003400"
+    },
+    {
+        "client_msg_id": "b42e99c6-e9ca-4681-afe6-4f72a19bf653",
+        "type": "message",
+        "text": "but wait until they announce if they found issues with the plane",
+        "user": "U15HRTAHL",
+        "ts": "1552661701.003500"
+    },
+    {
+        "client_msg_id": "2a7b0132-d6af-4a32-95f7-a0756acc1f45",
+        "type": "message",
+        "text": "They already found the issue, it was with the MCAS sensors",
+        "user": "U15J5H60P",
+        "ts": "1552661716.003900"
+    },
+    {
+        "client_msg_id": "aed75844-7b85-4d8a-9120-1a7be570b9bd",
+        "type": "message",
+        "text": "i think you should of did options",
+        "user": "U15HZ01QX",
+        "ts": "1552661720.004100"
+    },
+    {
+        "client_msg_id": "6a4f9258-6b21-4a44-a4a2-fabfada7f78d",
+        "type": "message",
+        "text": "I can't",
+        "user": "U15J5H60P",
+        "ts": "1552661725.004400"
+    },
+    {
+        "client_msg_id": "da7b408e-750a-4863-b77d-d2dc028b06b2",
+        "type": "message",
+        "text": "this seems like tying up a bunch of liquid capital to make like 100 bucks",
+        "user": "U15HZ01QX",
+        "ts": "1552661748.005400"
+    },
+    {
+        "client_msg_id": "b69208cf-222b-40bc-81bd-ebfda92db9b7",
+        "type": "message",
+        "text": "Sorry, I probably can, just more difficult that I'm willing to work with",
+        "user": "U15J5H60P",
+        "ts": "1552661757.005600"
+    },
+    {
+        "client_msg_id": "f5aea5c0-c233-484d-9ef4-c3af3c1bd227",
+        "type": "message",
+        "text": "Worth it",
+        "user": "U15J5H60P",
+        "ts": "1552661768.005800"
+    },
+    {
+        "client_msg_id": "1eb2ca14-1e25-4000-bed1-3490fbab62cc",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1552663213.006000"
+    },
+    {
+        "client_msg_id": "7dd28ac7-8d46-40b0-b542-41e4dc89592a",
+        "type": "message",
+        "text": "Boeing just shot up",
+        "user": "U15J5H60P",
+        "ts": "1552663217.006200"
+    },
+    {
+        "client_msg_id": "03d25ed0-ab8e-4fac-b693-a23ddfa33ef5",
+        "type": "message",
+        "text": "Should've bought",
+        "user": "U15J5H60P",
+        "ts": "1552663224.006400"
+    },
+    {
+        "client_msg_id": "61327523-fc4c-487e-b759-94801768ff05",
+        "type": "message",
+        "text": "everyone got approval at the same time",
+        "user": "U15HRTAHL",
+        "ts": "1552663300.006700"
+    },
+    {
+        "client_msg_id": "2bd9608f-fffa-4869-9ae2-ef439a70c52d",
+        "type": "message",
+        "text": "Just bought 5",
+        "user": "U15J5H60P",
+        "ts": "1552663343.006900"
+    },
+    {
+        "client_msg_id": "6f8cb650-77ea-426b-b050-30b398016817",
+        "type": "message",
+        "text": "@375.48",
+        "user": "U15J5H60P",
+        "ts": "1552663396.007200"
+    },
+    {
+        "client_msg_id": "32772350-a848-421c-ac56-6a906736e9f0",
+        "type": "message",
+        "text": "wish me luck",
+        "user": "U15J5H60P",
+        "ts": "1552663398.007400"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1552665045.008000",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1552665043,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "378.42",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+5.12 (+1.37%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "12,143,300",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "6,020,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (12 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "430.00 (+13.63%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33141,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f7c08bac-b0b4-4435-8999-140f9f7207a4",
+        "type": "message",
+        "text": "I don't know what news came out",
+        "user": "U15J5H60P",
+        "ts": "1552665049.008200"
+    },
+    {
+        "client_msg_id": "267dff36-852b-4dae-870b-113d86db7061",
+        "type": "message",
+        "text": "But It just went up like 7% in the last 20 minutes",
+        "user": "U15J5H60P",
+        "ts": "1552665059.008500"
+    },
+    {
+        "client_msg_id": "8a812ac5-2a3a-4893-84a3-3c5375fc663d",
+        "type": "message",
+        "text": "nice",
+        "user": "U15HRTAHL",
+        "ts": "1552665235.008700"
+    },
+    {
+        "client_msg_id": "33be0e03-ddfd-4d7b-828d-aaa11a995eaf",
+        "type": "message",
+        "text": "time to sell",
+        "user": "U15HRTAHL",
+        "ts": "1552665236.008900"
+    },
+    {
+        "client_msg_id": "6DC9374A-C36F-4DF7-A18A-12B1992C6EE5",
+        "type": "message",
+        "text": "“Wealth management employee engages in day trading  on the backs of dead Ethiopians” ",
+        "user": "U15HZ01QX",
+        "ts": "1552665303.010100"
+    },
+    {
+        "client_msg_id": "381258a2-a7e1-40d2-8f60-50fcf646a6f2",
+        "type": "message",
+        "text": "“Man who we have no idea what he does peddles snuff films on the backs of dead New Zealanders”",
+        "user": "U15HRTAHL",
+        "ts": "1552665403.010600"
+    },
+    {
+        "client_msg_id": "f43c1186-7b71-418e-af46-7118abd479dc",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1552665473.010800"
+    },
+    {
+        "client_msg_id": "a05dd6ef-b0de-40f2-a887-3900c969aa00",
+        "type": "message",
+        "text": "I can't day trade",
+        "user": "U15J5H60P",
+        "ts": "1552665484.011100"
+    },
+    {
+        "client_msg_id": "98580986-8955-476e-bf67-28f8d0c157ab",
+        "type": "message",
+        "text": "I have to hold for 30 days",
+        "user": "U15J5H60P",
+        "ts": "1552665502.011300"
+    },
+    {
+        "client_msg_id": "9c476334-b88e-4d44-bced-34a239c3986d",
+        "type": "message",
+        "text": "hodl",
+        "user": "U15HRTAHL",
+        "ts": "1552665524.011600"
+    },
+    {
+        "client_msg_id": "f28a0e42-c1d8-4235-beb0-0954a04c478d",
+        "type": "message",
+        "text": "that sucks",
+        "user": "U15HRTAHL",
+        "ts": "1552665528.011800"
+    },
+    {
+        "client_msg_id": "4089fe1a-ce94-4c3e-ade9-8b7a165175b8",
+        "type": "message",
+        "text": "Yeah, otherwise I'd be making like $2 on Robinhood every day!",
+        "user": "U15J5H60P",
+        "ts": "1552665542.012200"
+    },
+    {
+        "client_msg_id": "90c67a64-87ec-4e53-be80-ec514b678c76",
+        "type": "message",
+        "text": "Maybe I should've gone to AZ",
+        "user": "U15J5H60P",
+        "ts": "1552665547.012400"
+    },
+    {
+        "client_msg_id": "1B87666B-3A56-4736-B3E3-50BD8136C418",
+        "type": "message",
+        "text": "Who’s the speaker here lol <https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1552665403010600>",
+        "user": "U15HZ01QX",
+        "ts": "1552665576.012900",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1552665403010600",
+                "fallback": "[March 15th, 2019 8:56 AM] joeythomaschaske: “Man who we have no idea what he does peddles snuff films on the backs of dead New Zealanders”",
+                "ts": "1552665403.010600",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C6R3H2A7L",
+                "channel_name": "finance",
+                "is_msg_unfurl": true,
+                "text": "“Man who we have no idea what he does peddles snuff films on the backs of dead New Zealanders”",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1552665403010600",
+                "footer": "Posted in #finance"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "97EE856C-6CB1-4287-8F21-512DCE1C63BC",
+        "type": "message",
+        "text": "The news lol",
+        "user": "U15HZ01QX",
+        "ts": "1552665581.013300"
+    },
+    {
+        "client_msg_id": "8F3C73A9-B39F-43CD-97A9-F9777B29BB14",
+        "type": "message",
+        "text": "Or you guys lol",
+        "user": "U15HZ01QX",
+        "ts": "1552665584.013500"
+    },
+    {
+        "client_msg_id": "c4f3877a-5835-4da6-973c-a144b6ec29cd",
+        "type": "message",
+        "text": "both",
+        "user": "U15J5H60P",
+        "ts": "1552665591.013700"
+    },
+    {
+        "client_msg_id": "945638b3-d5c2-4289-8164-8cb21f074e89",
+        "type": "message",
+        "text": "BA is going to the moon",
+        "user": "U15J5H60P",
+        "ts": "1552666340.013900"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1552666345.014000",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1552666342,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "384.36",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+11.06 (+2.96%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "15,258,226",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "6,020,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (12 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "430.00 (+11.87%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33113,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    }
+]

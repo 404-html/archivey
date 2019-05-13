@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "A1E1B878-85B8-4692-9965-4EC250F33944",
+        "type": "message",
+        "text": "AAPL Killin it",
+        "user": "U15J5H60P",
+        "ts": "1525454992.000314"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1525455004.000583"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              183.15                6.16                3.482 \n       Avg.                 ---                 ---               3.482% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1525455004.000594",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 37899,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    }
+]

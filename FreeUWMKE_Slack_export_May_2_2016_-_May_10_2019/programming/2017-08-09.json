@@ -1,0 +1,277 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/blog.hackerrank.com\/the-united-states-of-developer-skills\/>",
+        "user": "U15HRTAHL",
+        "ts": "1502290920.935070",
+        "attachments": [
+            {
+                "title": "Which States Have the Best Developers in America?",
+                "title_link": "https:\/\/blog.hackerrank.com\/the-united-states-of-developer-skills\/",
+                "text": "Update: This piece was picked up by Forbes, Axios, CNET,  Venture Beat &amp; SiliconAngle. TLDR; Which state takes the cake for the best developers? Washington outperforms California as best state Hawaii, Colorado, Virginia and Maryland have the fastest",
+                "fallback": "Which States Have the Best Developers in America?",
+                "image_url": "https:\/\/blog.hackerrank.com\/wp-content\/uploads\/2017\/07\/imageedit_5_4059827461-1.png",
+                "image_width": 560,
+                "image_height": 250,
+                "ts": 1501070233,
+                "from_url": "https:\/\/blog.hackerrank.com\/the-united-states-of-developer-skills\/",
+                "image_bytes": 54397,
+                "service_icon": "https:\/\/blog.hackerrank.com\/wp-content\/uploads\/2017\/04\/logo_icon_150.png",
+                "service_name": "blog.hackerrank.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ahyy we out here",
+        "user": "U15HSHSS2",
+        "ts": "1502290991.984312"
+    },
+    {
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1502291057.030578"
+    },
+    {
+        "type": "message",
+        "text": "Is there a way to turn a string into live code? ",
+        "user": "U15HY5TG8",
+        "ts": "1502293453.636557"
+    },
+    {
+        "type": "message",
+        "text": "huh?",
+        "user": "U15HRTAHL",
+        "ts": "1502293496.665431"
+    },
+    {
+        "type": "message",
+        "text": "like render it as html?",
+        "user": "U15HRTAHL",
+        "ts": "1502293513.677237"
+    },
+    {
+        "type": "message",
+        "text": "No so like say i have a few initializations like loc1, loc2, loc3 and then i want to perform a forloop on them without putting an if statement for each variable in the for loop. So then i could just append a number to the base of loc and turn \"loc\"+i into the actual variable name i want to use",
+        "user": "U15HY5TG8",
+        "ts": "1502293781.858406"
+    },
+    {
+        "type": "message",
+        "text": "That's called reflection I think. ",
+        "user": "U15J5H60P",
+        "ts": "1502293817.882610"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/37628\/what-is-reflection-and-why-is-it-useful>",
+        "user": "U15J5H60P",
+        "ts": "1502293847.903341",
+        "attachments": [
+            {
+                "title": "What is reflection and why is it useful?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/37628\/what-is-reflection-and-why-is-it-useful",
+                "text": "What is reflection, and why is it useful? I'm particularly interested in Java, but I assume the principles are the same in any language.",
+                "fallback": "What is reflection and why is it useful?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/37628\/what-is-reflection-and-why-is-it-useful",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I'm not sure that it's limited to Java. I'm pretty sure we use it in our c# code",
+        "user": "U15J5H60P",
+        "ts": "1502293906.943724"
+    },
+    {
+        "type": "message",
+        "text": "Ahh interesting! Thanks",
+        "user": "U15HY5TG8",
+        "ts": "1502293930.960551"
+    },
+    {
+        "type": "message",
+        "text": "Idk if its good coding practice or not lol but im gonna look at how to do it",
+        "user": "U15HY5TG8",
+        "ts": "1502293954.976538"
+    },
+    {
+        "type": "message",
+        "text": "You could also maybe use an array? instead of having separate \"loc\" variables just have a list of \"locs\" or something. idk exactly what you're doing though so that may not work for your situation",
+        "user": "U15HSHSS2",
+        "ts": "1502294005.010458"
+    },
+    {
+        "type": "message",
+        "text": "Yea it definitely could work in this situation. Theres just been other times where reflection wouldve been really useful and i just thought of it again",
+        "user": "U15HY5TG8",
+        "ts": "1502294111.082926"
+    },
+    {
+        "type": "message",
+        "text": "I was wondering why my linkedin wasn't getting much traction",
+        "user": "U15HRTAHL",
+        "ts": "1502305676.118616"
+    },
+    {
+        "type": "message",
+        "text": "so I asked our recruiter how to fix that and he gave me some good advice",
+        "user": "U15HRTAHL",
+        "ts": "1502305689.125785"
+    },
+    {
+        "type": "message",
+        "text": "Change your title often and bio often",
+        "user": "U15HRTAHL",
+        "ts": "1502305699.131589"
+    },
+    {
+        "type": "message",
+        "text": "I've gotten a lot more recruiters contacting me",
+        "user": "U15HRTAHL",
+        "ts": "1502305708.136874"
+    },
+    {
+        "type": "message",
+        "text": "Is that good? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1502306813.746780"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1502306891.789399"
+    },
+    {
+        "type": "message",
+        "text": "Arent we always complaining about recruiters contacting us?",
+        "user": "U15HY5TG8",
+        "ts": "1502306926.808922"
+    },
+    {
+        "type": "message",
+        "text": "depends on the recruiter",
+        "user": "U15HRTAHL",
+        "ts": "1502307033.868305"
+    },
+    {
+        "type": "message",
+        "text": "if its a recruiting agency then fuck them",
+        "user": "U15HRTAHL",
+        "ts": "1502307040.872414"
+    },
+    {
+        "type": "message",
+        "text": "but if its a recruiter specific to a company its good",
+        "user": "U15HRTAHL",
+        "ts": "1502307051.878513"
+    },
+    {
+        "type": "message",
+        "text": "Oooooo ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1502307052.879127"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> you might like this",
+        "user": "U15HRTAHL",
+        "ts": "1502309123.041235"
+    },
+    {
+        "type": "message",
+        "text": "some guy asked a question about health regen in a game he's making for orcs",
+        "user": "U15HRTAHL",
+        "ts": "1502309139.050358"
+    },
+    {
+        "type": "message",
+        "text": "some guy replies with indepth history\/science shit",
+        "user": "U15HRTAHL",
+        "ts": "1502309148.055163"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/worldbuilding.stackexchange.com\/questions\/88325\/how-do-i-begin-to-explain-that-my-orcs-may-survive-by-eating-soil>",
+        "user": "U15HRTAHL",
+        "ts": "1502309148.055788",
+        "attachments": [
+            {
+                "title": "How do I begin to explain that my orcs may survive by eating soil?",
+                "title_link": "https:\/\/worldbuilding.stackexchange.com\/questions\/88325\/how-do-i-begin-to-explain-that-my-orcs-may-survive-by-eating-soil",
+                "text": "In my RPG campaign setting the orcs are tougher than most other races. In hard times they can eat wood (small bushes and fresh pieces of trees). In really hard times they can eat healthy soil and",
+                "fallback": "How do I begin to explain that my orcs may survive by eating soil?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/worldbuilding\/img\/apple-touch-icon@2.png?v=763f4decb9a7",
+                "from_url": "https:\/\/worldbuilding.stackexchange.com\/questions\/88325\/how-do-i-begin-to-explain-that-my-orcs-may-survive-by-eating-soil",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/worldbuilding\/img\/favicon.ico?v=8ce2027d3849",
+                "service_name": "worldbuilding.stackexchange.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "its nuts",
+        "user": "U15HRTAHL",
+        "ts": "1502309152.057541"
+    },
+    {
+        "type": "message",
+        "text": "Well i finally got off my ass to try making an angularjs based webpage. So many files that i dont remember how they exactly connect",
+        "user": "U15HY5TG8",
+        "ts": "1502330796.423241"
+    },
+    {
+        "type": "message",
+        "text": "Whatcha mean ",
+        "user": "U15HRTAHL",
+        "ts": "1502331204.499448"
+    },
+    {
+        "type": "message",
+        "text": "And how to throw bootstrap into it",
+        "user": "U15HY5TG8",
+        "ts": "1502331817.615842"
+    },
+    {
+        "type": "message",
+        "text": "Huh well none of that is angular ",
+        "user": "U15HRTAHL",
+        "ts": "1502332351.718449"
+    },
+    {
+        "type": "message",
+        "text": "1 at least ",
+        "user": "U15HRTAHL",
+        "ts": "1502332356.719314"
+    },
+    {
+        "type": "message",
+        "text": "It's probably angular 2",
+        "user": "U15HRTAHL",
+        "ts": "1502332363.720784"
+    },
+    {
+        "type": "message",
+        "text": "Yea im starting off with angular2",
+        "user": "U15HY5TG8",
+        "ts": "1502332372.722352"
+    },
+    {
+        "type": "message",
+        "text": "1 hr later....got it to read the correct index.html file but it just ended up saying fuck you to the css",
+        "user": "U15HY5TG8",
+        "ts": "1502335957.369632"
+    }
+]

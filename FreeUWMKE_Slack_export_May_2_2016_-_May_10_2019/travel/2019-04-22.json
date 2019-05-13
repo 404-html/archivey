@@ -1,0 +1,108 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1555958041.000200",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1555958041.000400",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1555958041.000500",
+        "text": "<@U15J5H60P> set the channel purpose: Discuss Travel",
+        "purpose": "Discuss Travel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1555958041.000700",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1555958041.000900",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "client_msg_id": "479655d3-d4e0-48b7-90cd-ec72ceb18239",
+        "type": "message",
+        "text": "Hi",
+        "user": "U15J5H60P",
+        "ts": "1555958053.001100"
+    },
+    {
+        "client_msg_id": "0649f4f6-56f9-4299-bded-164446967d55",
+        "type": "message",
+        "text": "Do you guys still want to go to NYC?",
+        "user": "U15J5H60P",
+        "ts": "1555958059.001300"
+    },
+    {
+        "client_msg_id": "0275b5d2-7459-4b18-9d3c-4005269b296c",
+        "type": "message",
+        "text": "Otherwise, I'm interested in going to Seattle, Vancouver, San Diego, or the Redwood Forests in Northern California as well",
+        "user": "U15J5H60P",
+        "ts": "1555958094.002000",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1555958101.000000"
+        }
+    },
+    {
+        "client_msg_id": "efbb7479-d4ae-4b1f-907d-02cbd4cc10c5",
+        "type": "message",
+        "text": "I'm starting to look at flights and such now",
+        "user": "U15J5H60P",
+        "ts": "1555958115.002300"
+    },
+    {
+        "client_msg_id": "C104FF88-01AA-4636-9D11-9BAA41BA2731",
+        "type": "message",
+        "text": "Only one i prob wouldnt be as interested in is Seattle",
+        "user": "U15HY5TG8",
+        "ts": "1555958386.002900"
+    },
+    {
+        "client_msg_id": "91990e19-5350-4e04-94db-6b7c9f1c61f4",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1555958393.003100"
+    },
+    {
+        "client_msg_id": "1b6048cc-5c9b-46cd-933c-9a35f363b6a6",
+        "type": "message",
+        "text": "Have you been?",
+        "user": "U15J5H60P",
+        "ts": "1555958395.003300"
+    },
+    {
+        "client_msg_id": "6C94BE1C-FB3C-4DBA-92CA-42FC853097FC",
+        "type": "message",
+        "text": "No but just havent heard great reviews about it",
+        "user": "U15HY5TG8",
+        "ts": "1555958422.003900"
+    },
+    {
+        "client_msg_id": "21543808-d03e-4f1b-b5dd-18e3a69e7e43",
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15J5H60P",
+        "ts": "1555958431.004100"
+    }
+]

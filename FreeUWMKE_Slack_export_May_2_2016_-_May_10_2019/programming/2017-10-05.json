@@ -1,0 +1,26 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> do you ever debug production?",
+        "user": "U15HY5TG8",
+        "ts": "1507229161.000458"
+    },
+    {
+        "type": "message",
+        "text": "non javascript",
+        "user": "U15HY5TG8",
+        "ts": "1507229173.000577"
+    },
+    {
+        "type": "message",
+        "text": "no I demand them to give me data in the test environment",
+        "user": "U15HRTAHL",
+        "ts": "1507229187.000455"
+    },
+    {
+        "type": "message",
+        "text": "gotcha. So i have this project that im working on which is like the wild wild west of programming and deployment. I've got an environment for testing and a production environment obviously. Everything works as planned in my testing, but fails with the production environment. I have access to both servers too if it's a problem with the server itself, but i have no idea",
+        "user": "U15HY5TG8",
+        "ts": "1507229292.000418"
+    }
+]

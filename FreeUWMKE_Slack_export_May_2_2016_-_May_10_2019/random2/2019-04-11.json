@@ -1,0 +1,21 @@
+[
+    {
+        "client_msg_id": "8675897D-296F-446C-B4DF-16FA9514985B",
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/funnyordie\/videos\/1005996136268072?sfns=mo>",
+        "user": "U15HY5TG8",
+        "ts": "1554987008.000200",
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com",
+                "author_name": "Funny Or Die",
+                "author_link": "https:\/\/www.facebook.com\/funnyordie\/",
+                "fallback": "Facebook Video: ",
+                "from_url": "https:\/\/www.facebook.com\/funnyordie\/videos\/1005996136268072?sfns=mo",
+                "id": 1,
+                "original_url": "https:\/\/www.facebook.com\/funnyordie\/videos\/1005996136268072?sfns=mo"
+            }
+        ]
+    }
+]

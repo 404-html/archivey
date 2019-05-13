@@ -1,0 +1,146 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548174253.000200",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "client_msg_id": "d3a22fff-1d7a-43b6-ba14-07b5f4173ba1",
+        "type": "message",
+        "text": "<@U15HZ01QX> <@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1548174258.000400"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548174345.000600",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548174345.000800",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "52989aa6-2901-4ae8-9f03-650c50be9dff",
+        "type": "message",
+        "text": "hi",
+        "user": "U15HY5TG8",
+        "ts": "1548174380.001000"
+    },
+    {
+        "client_msg_id": "bfb2fad4-72ce-4b33-a75d-e0ce6dc42a37",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15HRTAHL",
+        "ts": "1548174396.001200"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548174399.001400",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "1c79c17f-e993-43e5-971d-dfe2c9526860",
+        "type": "message",
+        "text": "thanks joe",
+        "user": "U15HZ01QX",
+        "ts": "1548174488.001600"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548174493.001900",
+        "text": "<@U15HZ01QX> has left the channel"
+    },
+    {
+        "client_msg_id": "a0efd1d5-1dc6-4af7-baf5-b151ceb4b167",
+        "type": "message",
+        "text": "dick",
+        "user": "U15HRTAHL",
+        "ts": "1548174498.002100"
+    },
+    {
+        "client_msg_id": "94b5564c-5dca-4852-b515-08b46130efb8",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1548174507.002300"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548174510.002600",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "5488e1c2-b8b5-4083-b1a5-b4eb978626d8",
+        "type": "message",
+        "text": "how dare you Jame",
+        "user": "U15HRTAHL",
+        "ts": "1548174514.002800"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548174519.003000",
+        "text": "<@U15HZ01QX> has left the channel"
+    },
+    {
+        "client_msg_id": "2d9fe57d-2f2d-4642-be6c-5ad56b1c5de1",
+        "type": "message",
+        "text": "archiving this. I thought James wanted a dedicated channel to discuss",
+        "user": "U15HRTAHL",
+        "ts": "1548174573.003600"
+    },
+    {
+        "client_msg_id": "7340d9e8-48a8-48b4-b1a3-7bb0313fdcd6",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1548174629.003800"
+    },
+    {
+        "client_msg_id": "ae83befd-0802-4930-969a-b52c290e9606",
+        "type": "message",
+        "text": "you have been fooled",
+        "user": "U15HY5TG8",
+        "ts": "1548174635.004000"
+    },
+    {
+        "client_msg_id": "292f4104-1c83-4164-90ec-ee33c6f82f33",
+        "type": "message",
+        "text": "I have",
+        "user": "U15HRTAHL",
+        "ts": "1548174637.004200"
+    },
+    {
+        "client_msg_id": "24d66493-c269-4314-8c8d-f201a280d2b1",
+        "type": "message",
+        "text": "I dun believe it",
+        "user": "U15HY5TG8",
+        "ts": "1548174654.004400"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1548184440.004500",
+        "text": "<@U15HRTAHL> archived the channel"
+    }
+]

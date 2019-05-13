@@ -1,0 +1,374 @@
+[
+    {
+        "client_msg_id": "a361896a-d0a0-4c79-85e9-e27986fa06e4",
+        "type": "message",
+        "text": "Instead of doing the average for the day, I will go through the data once I get it and organize the averages right away. That way I don't have to keep computing averages for days that have already been defined.",
+        "user": "U15J5H60P",
+        "ts": "1550844961.000900"
+    },
+    {
+        "client_msg_id": "ba4e415d-6ae9-4c9e-af6c-252c9f9a60dc",
+        "type": "message",
+        "text": "Thus preventing from going through the array many many more times",
+        "user": "U15J5H60P",
+        "ts": "1550844976.001300"
+    },
+    {
+        "client_msg_id": "d0da1ef9-f9fb-4449-a6b3-c49622cc93d7",
+        "type": "message",
+        "text": "This calendar works great",
+        "user": "U15J5H60P",
+        "ts": "1550844983.001600"
+    },
+    {
+        "client_msg_id": "a45b81fc-1110-47ab-b576-b1b76340bfdc",
+        "type": "message",
+        "text": "I just need to write efficient code",
+        "user": "U15J5H60P",
+        "ts": "1550844995.001900"
+    },
+    {
+        "client_msg_id": "15b3dd78-7814-4679-80cb-5e739334c262",
+        "type": "message",
+        "text": "That's really cool that I'm running into this.",
+        "user": "U15J5H60P",
+        "ts": "1550845003.002200"
+    },
+    {
+        "client_msg_id": "ada43b13-06c7-483a-9f26-eb834a20a2bb",
+        "type": "message",
+        "text": "Never really had to think about efficiency before",
+        "user": "U15J5H60P",
+        "ts": "1550845012.002600"
+    },
+    {
+        "client_msg_id": "6B3E8B0D-78B0-4394-BC68-F64819A76B8F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550845028.002800"
+    },
+    {
+        "client_msg_id": "552B8AA0-BADF-4AC0-A6B9-71ACEF76617E",
+        "type": "message",
+        "text": "Bubble sort mannnn",
+        "user": "U15HY5TG8",
+        "ts": "1550845037.003100"
+    },
+    {
+        "client_msg_id": "7E517BA0-A4CA-43B7-B963-39E4695642D4",
+        "type": "message",
+        "text": "I was also thinking about doing it in my lambda, but that would cost compute time. It's cheaper and probably more time efficient to do that processing on device. ",
+        "user": "U15J5H60P",
+        "ts": "1550850908.004200"
+    },
+    {
+        "client_msg_id": "2BB4F528-C40A-4C44-AF3B-745978FEFFD1",
+        "type": "message",
+        "text": "Man the new front end dev really is like just a wordpress\/css dev",
+        "user": "U15HY5TG8",
+        "ts": "1550858697.005000"
+    },
+    {
+        "client_msg_id": "F29BE474-9BDD-42CE-B09D-D986740868E3",
+        "type": "message",
+        "text": "She just asked me where the &lt;head&gt; is",
+        "user": "U15HY5TG8",
+        "ts": "1550858714.005500"
+    },
+    {
+        "client_msg_id": "92a7d10a-22ec-4ab0-a7f5-4818c88b97bf",
+        "type": "message",
+        "text": ":yikes:",
+        "user": "U15HRTAHL",
+        "ts": "1550858848.005700"
+    },
+    {
+        "client_msg_id": "afe2410d-caf6-4f28-b90d-133e81f9214c",
+        "type": "message",
+        "text": ":pikachu:",
+        "user": "U15HRTAHL",
+        "ts": "1550858852.005900"
+    },
+    {
+        "client_msg_id": "1568B62E-DC9B-4C30-BF04-3D3DB9D7DD85",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1550859159.006100"
+    },
+    {
+        "client_msg_id": "FE25A494-EB46-4CDD-AB7F-6440439AF461",
+        "type": "message",
+        "text": "There was something else i had to show her the other day and was just like wow",
+        "user": "U15HY5TG8",
+        "ts": "1550859187.006900"
+    },
+    {
+        "client_msg_id": "f47e8ff6-1245-45a4-ae76-697716b7448c",
+        "type": "message",
+        "text": "is this your old coworker who came over also?",
+        "user": "U15HRTAHL",
+        "ts": "1550867013.007200",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1550867016.000000"
+        }
+    },
+    {
+        "client_msg_id": "7B6054FD-958A-4952-B8AE-351E4749A6B1",
+        "type": "message",
+        "text": "Nooo lol not sure where shes coming from actually",
+        "user": "U15HY5TG8",
+        "ts": "1550867605.007800"
+    },
+    {
+        "client_msg_id": "BCCC6100-3DED-4BC1-A7BA-35FA80AE844A",
+        "type": "message",
+        "text": "What do you guys even use Amazon Web Shit for?",
+        "user": "U15HSHSS2",
+        "ts": "1550873667.008300",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1550873680.000000"
+        }
+    },
+    {
+        "client_msg_id": "A813650E-26E0-41FF-B90A-EC1849DF7B48",
+        "type": "message",
+        "text": "Infrastructure",
+        "user": "U15J5H60P",
+        "ts": "1550873702.008600"
+    },
+    {
+        "client_msg_id": "FE0B904B-6894-496B-B22B-5C502D57960A",
+        "type": "message",
+        "text": "Idk why I even asked lol I knew I wouldn’t understand the answer",
+        "user": "U15HSHSS2",
+        "ts": "1550873729.009100"
+    },
+    {
+        "client_msg_id": "1A55D1D2-9031-457B-9A80-0F89AFAB6A75",
+        "type": "message",
+        "text": "Let's take a web app",
+        "user": "U15J5H60P",
+        "ts": "1550873749.009500"
+    },
+    {
+        "client_msg_id": "EEC87A70-92B3-44DC-97FF-41626E197BD3",
+        "type": "message",
+        "text": "You need somewhere to run it",
+        "user": "U15J5H60P",
+        "ts": "1550873757.009800"
+    },
+    {
+        "client_msg_id": "0BABC7D4-AD24-4F1F-B37E-810AE3560C59",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550873765.010200"
+    },
+    {
+        "client_msg_id": "FA46BC7C-F116-43B5-B996-3B14923B6A5C",
+        "type": "message",
+        "text": "So you essentially start mini server up on Amazon web services to run it on",
+        "user": "U15J5H60P",
+        "ts": "1550873791.011100"
+    },
+    {
+        "client_msg_id": "ad52cdff-eef7-4fde-8099-b0fe0b25ccf2",
+        "type": "message",
+        "text": "it’s like heroku or google app engine",
+        "user": "U15HRTAHL",
+        "ts": "1550873811.011600"
+    },
+    {
+        "client_msg_id": "e4dceefd-ce97-4d67-997a-86ff8722f33d",
+        "type": "message",
+        "text": "just hosting",
+        "user": "U15HRTAHL",
+        "ts": "1550873813.011800"
+    },
+    {
+        "client_msg_id": "59D7855A-43DB-4D29-B1CE-F2BA299DF1EC",
+        "type": "message",
+        "text": "Dope",
+        "user": "U15HSHSS2",
+        "ts": "1550873818.012100"
+    },
+    {
+        "client_msg_id": "dac6b8b0-40d0-4657-9af0-93a1a6d39415",
+        "type": "message",
+        "text": "but aws has a lot more shit than just hosting",
+        "user": "U15HRTAHL",
+        "ts": "1550873820.012300"
+    },
+    {
+        "client_msg_id": "7D206E34-88B5-476B-ACBC-84102E52D3A9",
+        "type": "message",
+        "text": "Does that make more sense?",
+        "user": "U15J5H60P",
+        "ts": "1550873828.012600"
+    },
+    {
+        "client_msg_id": "7EADF2ED-0888-40B2-A185-E9BFD91E7A6C",
+        "type": "message",
+        "text": "It does",
+        "user": "U15HSHSS2",
+        "ts": "1550873833.012800"
+    },
+    {
+        "client_msg_id": "7C7C9E97-4E42-418D-9418-11D0787BD36B",
+        "type": "message",
+        "text": ":+1::skin-tone-2:",
+        "user": "U15J5H60P",
+        "ts": "1550873850.013000"
+    },
+    {
+        "client_msg_id": "ca0e2367-cd04-44cb-8880-4d9ed04d507f",
+        "type": "message",
+        "text": "<@U15HSHSS2> there’s a 95% chance zywave uses some cloud provider like azure or aws",
+        "user": "U15HRTAHL",
+        "ts": "1550873874.013500"
+    },
+    {
+        "client_msg_id": "211805b8-856a-46b0-98f6-f15557271280",
+        "type": "message",
+        "text": "unless you guys have a server farm somewhere",
+        "user": "U15HRTAHL",
+        "ts": "1550873885.013800"
+    },
+    {
+        "client_msg_id": "55A7E82A-1256-4FF3-A4C1-94B402EE8ABC",
+        "type": "message",
+        "text": "They honestly might",
+        "user": "U15J5H60P",
+        "ts": "1550873905.014100"
+    },
+    {
+        "client_msg_id": "F5682340-D423-486B-BD6F-2E52148D99B7",
+        "type": "message",
+        "text": "A lot of people are still using on prem",
+        "user": "U15J5H60P",
+        "ts": "1550873921.014600"
+    },
+    {
+        "client_msg_id": "ff328e9b-b4c1-4038-8269-4ebc15db71f0",
+        "type": "message",
+        "text": "that just seems crazy to me",
+        "user": "U15HRTAHL",
+        "ts": "1550873935.014800"
+    },
+    {
+        "client_msg_id": "012cc32f-ac1c-48c4-96e5-15574787223c",
+        "type": "message",
+        "text": "hardware needs to be updated",
+        "user": "U15HRTAHL",
+        "ts": "1550873941.015000"
+    },
+    {
+        "client_msg_id": "775e41d7-0430-4763-a719-60ef544faffa",
+        "type": "message",
+        "text": "you have to pay those people to manage it",
+        "user": "U15HRTAHL",
+        "ts": "1550873946.015300"
+    },
+    {
+        "client_msg_id": "ff9edb69-9ecd-46bc-995d-8db8711c7aaa",
+        "type": "message",
+        "text": "it’s just cheaper to make an investment in aws and sell your hardware",
+        "user": "U15HRTAHL",
+        "ts": "1550873967.015700"
+    },
+    {
+        "client_msg_id": "C1A3D981-2701-40A7-B5FF-A91CC243D833",
+        "type": "message",
+        "text": "It depends",
+        "user": "U15J5H60P",
+        "ts": "1550873982.015900"
+    },
+    {
+        "client_msg_id": "E41B8BA4-90B0-4551-8C27-D1C805F2EC0A",
+        "type": "message",
+        "text": "Ms SQL is super expensive in aws",
+        "user": "U15J5H60P",
+        "ts": "1550874012.016700"
+    },
+    {
+        "client_msg_id": "95F39A65-7983-4FD1-86EF-48A4E119A491",
+        "type": "message",
+        "text": "But generally yes",
+        "user": "U15J5H60P",
+        "ts": "1550874047.017100"
+    },
+    {
+        "client_msg_id": "1ce5066a-efe2-4385-9628-ba9fc5e5b15d",
+        "type": "message",
+        "text": "you don’t need to host everything on aws",
+        "user": "U15HRTAHL",
+        "ts": "1550874054.017300"
+    },
+    {
+        "client_msg_id": "06F3A7F1-9228-4386-8744-76AF4C76F958",
+        "type": "message",
+        "text": "I know we host a bunch of severs",
+        "user": "U15HSHSS2",
+        "ts": "1550874255.017700"
+    },
+    {
+        "client_msg_id": "E31440C8-E97C-43FF-ABAF-1DC2EEB7AB90",
+        "type": "message",
+        "text": "I have to go on them occasionally and do shit",
+        "user": "U15HSHSS2",
+        "ts": "1550874264.018100"
+    },
+    {
+        "client_msg_id": "6E2176A1-A3FE-433D-8498-D0FC16EEFC37",
+        "type": "message",
+        "text": "Always scary lol",
+        "user": "U15HSHSS2",
+        "ts": "1550874271.018400"
+    },
+    {
+        "client_msg_id": "d5d370bf-db7d-4392-8039-e40ac96a0c94",
+        "type": "message",
+        "text": "you’re sure they’re local?",
+        "user": "U15HRTAHL",
+        "ts": "1550874285.018800"
+    },
+    {
+        "client_msg_id": "dbc57137-5f99-4621-86df-edacf5e58611",
+        "type": "message",
+        "text": "or are they VMs on azure or something",
+        "user": "U15HRTAHL",
+        "ts": "1550874292.019100"
+    },
+    {
+        "client_msg_id": "DA183A79-E01B-4EA9-923D-3646D3B10CE1",
+        "type": "message",
+        "text": "I guess idk for sure",
+        "user": "U15HSHSS2",
+        "ts": "1550874480.019400"
+    },
+    {
+        "client_msg_id": "537F1CDA-4855-4FF6-9746-20CBD3AE826F",
+        "type": "message",
+        "text": "I try to know as little about that side of things as possible lol",
+        "user": "U15HSHSS2",
+        "ts": "1550874505.020100"
+    },
+    {
+        "client_msg_id": "12552E1E-32CD-458E-9C32-CFADAD6AB23F",
+        "type": "message",
+        "text": "zywave is insurance so they probably host their own. Thats how wonderbox was too for most of their clients",
+        "user": "U15HY5TG8",
+        "ts": "1550876930.001100"
+    },
+    {
+        "client_msg_id": "FD293CDC-1E3E-45B8-ABB4-41CF24E99DAC",
+        "type": "message",
+        "text": "Their datacenter was nuts",
+        "user": "U15HY5TG8",
+        "ts": "1550876941.001500"
+    }
+]

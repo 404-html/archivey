@@ -1,0 +1,206 @@
+[
+    {
+        "type": "message",
+        "text": "I had to write this scraper for work to import web pages into salesforce",
+        "user": "U15HRTAHL",
+        "ts": "1522937929.000653"
+    },
+    {
+        "type": "message",
+        "text": "any time an article had an image I had to get the image src, download it, upload it to salesforce and re reference the img to the new one",
+        "user": "U15HRTAHL",
+        "ts": "1522937968.000632"
+    },
+    {
+        "type": "message",
+        "text": "pretty interesting",
+        "user": "U15HRTAHL",
+        "ts": "1522937982.000850"
+    },
+    {
+        "client_msg_id": "E7EC34E0-A9D7-4885-94C1-987D056D67DB",
+        "type": "message",
+        "text": "That sucks",
+        "user": "U15HY5TG8",
+        "ts": "1522937986.000246"
+    },
+    {
+        "type": "message",
+        "text": "It's done now",
+        "user": "U15HRTAHL",
+        "ts": "1522937996.000405"
+    },
+    {
+        "type": "message",
+        "text": "but it was nice using c# for a bit",
+        "user": "U15HRTAHL",
+        "ts": "1522938005.000239"
+    },
+    {
+        "type": "message",
+        "text": "Said no one ever!",
+        "user": "U15J5H60P",
+        "ts": "1522938100.000332",
+        "attachments": [
+            {
+                "fallback": "[April 5th, 2018 9:20 AM] joeythomaschaske: but it was nice using c# for a bit",
+                "ts": "1522938005.000239",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "but it was nice using c# for a bit",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1522938005000239",
+                "is_share": true,
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "everyone compares Java to c# and c# blows it out of the water",
+        "user": "U15HRTAHL",
+        "ts": "1522938125.000495"
+    },
+    {
+        "type": "message",
+        "text": "bet",
+        "user": "U15HSHSS2",
+        "ts": "1522938147.000645"
+    },
+    {
+        "client_msg_id": "FCE5AC2D-1956-4631-BD9F-EAE5B7A82C26",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1522938247.000543"
+    },
+    {
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1522938253.000612"
+    },
+    {
+        "type": "message",
+        "text": "How would I create an instance of this class\n\npublic class MyClass&lt;T,L,K&gt;",
+        "user": "U15HSHSS2",
+        "ts": "1522957494.000197"
+    },
+    {
+        "type": "message",
+        "text": "Where T, L, and K are all types",
+        "user": "U15HSHSS2",
+        "ts": "1522957504.000373"
+    },
+    {
+        "type": "message",
+        "text": "and I have a variable for each already defined",
+        "user": "U15HSHSS2",
+        "ts": "1522957517.000003"
+    },
+    {
+        "type": "message",
+        "text": "I don't think you can",
+        "user": "U15J5H60P",
+        "ts": "1522957548.000191"
+    },
+    {
+        "client_msg_id": "4B14E82B-CE85-45F2-B4AE-CD8A0A824409",
+        "type": "message",
+        "text": "In c#?",
+        "user": "U15HY5TG8",
+        "ts": "1522957548.000308"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1522957551.000447"
+    },
+    {
+        "type": "message",
+        "text": "Don't you have to have a function that gives you a new instance",
+        "user": "U15J5H60P",
+        "ts": "1522957562.000548"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1522957563.000328"
+    },
+    {
+        "client_msg_id": "2558BCC9-F7AB-46C9-9ACF-773E3F4E928B",
+        "type": "message",
+        "text": "Dude tuples in c# are fucking ass",
+        "user": "U15HY5TG8",
+        "ts": "1522957565.000360"
+    },
+    {
+        "client_msg_id": "21DF21AC-635B-45E9-9BF3-CAC7928ABA7E",
+        "type": "message",
+        "text": "You have to do something like (string name, string age, string last) = myfunction&lt;t,l,k&gt;()",
+        "user": "U15HY5TG8",
+        "ts": "1522957638.000331"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1522957646.000579"
+    },
+    {
+        "type": "message",
+        "text": "Generics, man",
+        "user": "U15J5H60P",
+        "ts": "1522957665.000639"
+    },
+    {
+        "type": "message",
+        "text": "Oh... well shit. I didn't even know this thing was a tuple",
+        "user": "U15HSHSS2",
+        "ts": "1522957898.000224"
+    },
+    {
+        "type": "message",
+        "text": "I thought it was just some weird generic class with a bunch of types or something",
+        "user": "U15HSHSS2",
+        "ts": "1522957912.000135"
+    },
+    {
+        "type": "message",
+        "text": "Sweeet it's working now",
+        "user": "U15HSHSS2",
+        "ts": "1522957921.000529"
+    },
+    {
+        "client_msg_id": "DA5D8C37-4AA0-4E45-8585-25DC663D4779",
+        "type": "message",
+        "text": "Yeah, by definition I think its a tuple if it has more than one return type",
+        "user": "U15HY5TG8",
+        "ts": "1522957946.000421"
+    },
+    {
+        "client_msg_id": "3F9B9212-2D39-4E77-A56D-004B84F66E40",
+        "type": "message",
+        "text": "But sweet!",
+        "user": "U15HY5TG8",
+        "ts": "1522957962.000485"
+    },
+    {
+        "client_msg_id": "895E88CD-D5A4-4682-AEE3-8A8E785E296B",
+        "type": "message",
+        "text": "I'm happy when im able to contribute lol",
+        "user": "U15HY5TG8",
+        "ts": "1522957978.000547"
+    }
+]

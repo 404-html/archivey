@@ -1,0 +1,532 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: how do i calculate what grades i need to stay above a 3.0 for the semester? I have A's for three classes with grade points 16.0, 12.0, 12.0, and remaining 12.0, 12.0",
+        "user": "U15HY5TG8",
+        "ts": "1482672413.000056"
+    },
+    {
+        "type": "message",
+        "text": "Send me a picture of the paws page that shows your grades for this semester",
+        "user": "U15HZ01QX",
+        "ts": "1482672464.000057"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F3JPBKPRT",
+                "created": 1482672499,
+                "timestamp": 1482672499,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 203253,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F3JPBKPRT\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F3JPBKPRT\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3JPBKPRT-78da6f98ac\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F3JPBKPRT\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F3JPBKPRT-9fd8516b71",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1482672502.000058"
+    },
+    {
+        "type": "message",
+        "text": "You would need 25.96 points",
+        "user": "U15HZ01QX",
+        "ts": "1482672650.000059"
+    },
+    {
+        "type": "message",
+        "text": "Oh for the semester only?",
+        "user": "U15HZ01QX",
+        "ts": "1482672665.000060"
+    },
+    {
+        "type": "message",
+        "text": "Yea",
+        "user": "U15HY5TG8",
+        "ts": "1482672670.000061"
+    },
+    {
+        "type": "message",
+        "text": "You need 8 points",
+        "user": "U15HZ01QX",
+        "ts": "1482672728.000062"
+    },
+    {
+        "type": "message",
+        "text": "Which is essentially anything above getting 2 D+",
+        "user": "U15HZ01QX",
+        "ts": "1482672741.000063"
+    },
+    {
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15HY5TG8",
+        "ts": "1482672765.000064"
+    },
+    {
+        "type": "message",
+        "text": "Did he post networks yet?",
+        "user": "U15HZ01QX",
+        "ts": "1482672768.000065"
+    },
+    {
+        "type": "message",
+        "text": "Basically 1 B would give you it regardless of passing the other one",
+        "user": "U15HZ01QX",
+        "ts": "1482672787.000066"
+    },
+    {
+        "type": "message",
+        "text": "Nah not yet",
+        "user": "U15HY5TG8",
+        "ts": "1482672799.000067"
+    },
+    {
+        "type": "message",
+        "text": "But thats awesome ha",
+        "user": "U15HY5TG8",
+        "ts": "1482672807.000068"
+    },
+    {
+        "type": "message",
+        "text": "You were close to pulling your cumulative up to a 3.0",
+        "user": "U15HZ01QX",
+        "ts": "1482672808.000069"
+    },
+    {
+        "type": "message",
+        "text": "You need 25.96 points and 2 more A's would of given you 24",
+        "user": "U15HZ01QX",
+        "ts": "1482672829.000070"
+    },
+    {
+        "type": "message",
+        "text": "Damn that sucks",
+        "user": "U15HY5TG8",
+        "ts": "1482672842.000071"
+    },
+    {
+        "type": "message",
+        "text": "Better luck next life",
+        "user": "U15HY5TG8",
+        "ts": "1482672848.000072"
+    },
+    {
+        "type": "message",
+        "text": "Take a winter class lol",
+        "user": "U15HZ01QX",
+        "ts": "1482672988.000073"
+    },
+    {
+        "type": "message",
+        "text": "Nah im good lol",
+        "user": "U15HY5TG8",
+        "ts": "1482673101.000074"
+    },
+    {
+        "type": "message",
+        "text": "I only need a 3.0 for insurance ",
+        "user": "U15HY5TG8",
+        "ts": "1482673127.000075"
+    },
+    {
+        "type": "message",
+        "text": "For the semester",
+        "user": "U15HY5TG8",
+        "ts": "1482673134.000076"
+    },
+    {
+        "type": "message",
+        "text": "Merry Christmas, Fam! ",
+        "user": "U15J5H60P",
+        "ts": "1482684913.000077"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F3J0EEM5E",
+                "created": 1482684912,
+                "timestamp": 1482684912,
+                "name": "Image uploaded from iOS.(null)",
+                "title": "Image uploaded from iOS",
+                "mimetype": "application\/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 15542,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F3J0EEM5E\/image_uploaded_from_ios._null_?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F3J0EEM5E\/download\/image_uploaded_from_ios._null_?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3J0EEM5E-e63d79cb6e\/image_uploaded_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3J0EEM5E-e63d79cb6e\/image_uploaded_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3J0EEM5E-e63d79cb6e\/image_uploaded_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 164,
+                "original_h": 121,
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3J0EEM5E-e63d79cb6e\/image_uploaded_from_ios_deanimate_gif.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F3J0EEM5E\/image_uploaded_from_ios._null_",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F3J0EEM5E-55e9ead83f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1482684913.000078"
+    },
+    {
+        "type": "message",
+        "text": "Merry christmas!",
+        "user": "U15HY5TG8",
+        "ts": "1482685022.000079"
+    },
+    {
+        "type": "message",
+        "text": "I can't see it",
+        "user": "U15HZ01QX",
+        "ts": "1482685073.000080"
+    },
+    {
+        "type": "message",
+        "text": "Cant download ",
+        "user": "U15HY5TG8",
+        "ts": "1482685076.000081"
+    },
+    {
+        "type": "message",
+        "text": "But merry Christmas ",
+        "user": "U15HZ01QX",
+        "ts": "1482685085.000082"
+    },
+    {
+        "type": "message",
+        "text": "It's okay it's dumb anyway",
+        "user": "U15J5H60P",
+        "ts": "1482685576.000083"
+    },
+    {
+        "type": "message",
+        "text": "Looks like a dinosaur putting a star on top of a tree",
+        "user": "U15HY5TG8",
+        "ts": "1482685608.000084"
+    },
+    {
+        "type": "message",
+        "text": "That's what it is",
+        "user": "U15J5H60P",
+        "ts": "1482685985.000085"
+    },
+    {
+        "type": "message",
+        "text": "Pretty silly",
+        "user": "U15J5H60P",
+        "ts": "1482685987.000086"
+    },
+    {
+        "type": "message",
+        "text": "I think you think I'm a lot closer to my family than I actually am lol",
+        "user": "U15J5H60P",
+        "ts": "1482686006.000087"
+    },
+    {
+        "type": "message",
+        "text": "Yea probably",
+        "user": "U15HY5TG8",
+        "ts": "1482686560.000088"
+    },
+    {
+        "type": "message",
+        "text": "I'm tired as balls",
+        "user": "U15HZ01QX",
+        "ts": "1482706885.000089"
+    },
+    {
+        "type": "message",
+        "text": "Same",
+        "user": "U15HY5TG8",
+        "ts": "1482707702.000090"
+    },
+    {
+        "type": "message",
+        "text": "I'm Andrew",
+        "user": "U15J5H60P",
+        "ts": "1482709517.000091"
+    },
+    {
+        "type": "message",
+        "text": "Let's go to the bar ",
+        "user": "U15J5H60P",
+        "ts": "1482709522.000092"
+    },
+    {
+        "type": "message",
+        "text": "By the time I get back to the city ima be comatose",
+        "user": "U15HZ01QX",
+        "ts": "1482709662.000093"
+    },
+    {
+        "type": "message",
+        "text": "My vehicle is impaired",
+        "user": "U15HY5TG8",
+        "ts": "1482709686.000094"
+    },
+    {
+        "type": "message",
+        "text": "Lmfao",
+        "user": "U15HZ01QX",
+        "ts": "1482709702.000095"
+    },
+    {
+        "type": "message",
+        "text": "Ok",
+        "user": "U15J5H60P",
+        "ts": "1482709711.000096"
+    },
+    {
+        "type": "message",
+        "text": "Did you get an Xbox for Christmas?",
+        "user": "U15HZ01QX",
+        "ts": "1482709713.000097"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: ",
+        "user": "U15HZ01QX",
+        "ts": "1482709718.000098"
+    },
+    {
+        "type": "message",
+        "text": "No lol ",
+        "user": "U15HY5TG8",
+        "ts": "1482709740.000099"
+    },
+    {
+        "type": "message",
+        "text": "Your family must not love you",
+        "user": "U15HZ01QX",
+        "ts": "1482709775.000100"
+    },
+    {
+        "type": "message",
+        "text": "Nahhh they picked up another bill haha",
+        "user": "U15HY5TG8",
+        "ts": "1482709815.000101"
+    },
+    {
+        "type": "message",
+        "text": "Ha",
+        "user": "U15HZ01QX",
+        "ts": "1482709828.000102"
+    },
+    {
+        "type": "message",
+        "text": "That works",
+        "user": "U15HZ01QX",
+        "ts": "1482709833.000103"
+    },
+    {
+        "type": "message",
+        "text": "Yea ha so im heavily thinking about picking up an xbox after i get back from vacation",
+        "user": "U15HY5TG8",
+        "ts": "1482709864.000104"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1482710841.000105"
+    },
+    {
+        "type": "message",
+        "text": "Whatchu laughing at lol",
+        "user": "U15HY5TG8",
+        "ts": "1482711124.000106"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1482711141.000107"
+    },
+    {
+        "type": "message",
+        "text": "Smh",
+        "user": "U15HY5TG8",
+        "ts": "1482711398.000108"
+    },
+    {
+        "type": "message",
+        "text": "Smb",
+        "user": "U15J5H60P",
+        "ts": "1482711900.000109"
+    },
+    {
+        "type": "message",
+        "text": "Strip club is open",
+        "user": "U15J5H60P",
+        "ts": "1482716310.000110"
+    },
+    {
+        "type": "message",
+        "text": "The bar is surprisingly closed",
+        "user": "U15J5H60P",
+        "ts": "1482716607.000111"
+    },
+    {
+        "type": "message",
+        "text": "That is not surprising lol",
+        "user": "U15HY5TG8",
+        "ts": "1482716766.000112"
+    },
+    {
+        "type": "message",
+        "text": "James, wasn't the bar open last Christmas? Our was that just Thanksgiving?",
+        "user": "U15J5H60P",
+        "ts": "1482716813.000113"
+    },
+    {
+        "type": "message",
+        "text": "Potos open :smirk:",
+        "user": "U15HSHSS2",
+        "ts": "1482717031.000114"
+    },
+    {
+        "type": "message",
+        "text": "WOOOOO!",
+        "user": "U15J5H60P",
+        "ts": "1482717042.000115"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1482717423.000116"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: gotta say I think it was thanksgiving ",
+        "user": "U15HZ01QX",
+        "ts": "1482719859.000117"
+    },
+    {
+        "type": "message",
+        "text": "Ah. I could’ve swore it was Christmas but makes sense.",
+        "user": "U15J5H60P",
+        "ts": "1482719876.000118"
+    },
+    {
+        "type": "message",
+        "text": "Alright who wants to play uncharted or black ops? <!channel> ",
+        "user": "U15HZ01QX",
+        "ts": "1482721804.000119"
+    },
+    {
+        "type": "message",
+        "text": "I'm on",
+        "user": "U15J5H60P",
+        "ts": "1482722023.000120"
+    },
+    {
+        "type": "message",
+        "text": "Aight",
+        "user": "U15HZ01QX",
+        "ts": "1482722197.000121"
+    },
+    {
+        "type": "message",
+        "text": "Are you having trouble?",
+        "user": "U15J5H60P",
+        "ts": "1482722561.000122"
+    },
+    {
+        "type": "message",
+        "text": "Can you hear me",
+        "user": "U15HZ01QX",
+        "ts": "1482722563.000123"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I am",
+        "user": "U15HZ01QX",
+        "ts": "1482722567.000124"
+    },
+    {
+        "type": "message",
+        "text": "No I can't",
+        "user": "U15J5H60P",
+        "ts": "1482722580.000125"
+    },
+    {
+        "type": "message",
+        "text": "I can hear you're trying to plug in",
+        "user": "U15J5H60P",
+        "ts": "1482722703.000126"
+    },
+    {
+        "type": "message",
+        "text": "However nothing after that",
+        "user": "U15J5H60P",
+        "ts": "1482722707.000127"
+    },
+    {
+        "type": "message",
+        "text": "I'm talking ",
+        "user": "U15J5H60P",
+        "ts": "1482722753.000128"
+    },
+    {
+        "type": "message",
+        "text": "I can hear you",
+        "user": "U15J5H60P",
+        "ts": "1482722758.000129"
+    }
+]

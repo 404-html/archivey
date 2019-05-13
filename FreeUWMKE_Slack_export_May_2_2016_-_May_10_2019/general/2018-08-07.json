@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "c8db6e60-e0a0-4f78-b15c-055e959702d4",
+        "type": "message",
+        "text": "<https:\/\/slickdeals.net\/f\/11910583-ebay-site-wide-15-off-min-purchase-25-max-discount-100-starts-08-08>",
+        "user": "U15HSHSS2",
+        "ts": "1533670193.000385"
+    },
+    {
+        "client_msg_id": "6b4e0b74-bd98-45f7-828c-b7fdce9e835d",
+        "type": "message",
+        "text": "If that promo code actually works, that makes this 130 lol <https:\/\/www.ebay.com\/itm\/323363685330>",
+        "user": "U15HSHSS2",
+        "ts": "1533670984.000406",
+        "attachments": [
+            {
+                "service_name": "eBay",
+                "title": "WD - easystore® 8TB External USB 3.0 Hard Drive - Black",
+                "title_link": "https:\/\/www.ebay.com\/itm\/323363685330",
+                "text": "Only at Best Buy Keep data safe on this Western Digital hard drive. 8TB storage capacity. WD Backup software works quietly in the background to help preserve your data using minimal PC resources. Select automatic, continuous or scheduled backup option to instantly back up your files. | eBay!",
+                "fallback": "eBay: WD - easystore® 8TB External USB 3.0 Hard Drive - Black",
+                "thumb_url": "https:\/\/i.ebayimg.com\/images\/i\/323363685330-0-1\/s-l1000.jpg",
+                "from_url": "https:\/\/www.ebay.com\/itm\/323363685330",
+                "thumb_width": 282,
+                "thumb_height": 1000,
+                "service_icon": "https:\/\/www.ebay.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.ebay.com\/itm\/323363685330"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b46916bb-6059-42f0-9c37-5382682c2372",
+        "type": "message",
+        "text": "Can't view at work what is it",
+        "user": "U15J5H60P",
+        "ts": "1533671002.000053"
+    },
+    {
+        "client_msg_id": "98dbc869-91a7-4924-ad34-4a580d47484d",
+        "type": "message",
+        "text": "Oh lol",
+        "user": "U15J5H60P",
+        "ts": "1533671007.000332"
+    },
+    {
+        "client_msg_id": "07a70f14-0442-413c-8804-1dd1df942a5c",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15J5H60P",
+        "ts": "1533674532.000224"
+    },
+    {
+        "client_msg_id": "28bfc74d-56fa-4144-a24f-a9690de55d9b",
+        "type": "message",
+        "text": "Are you and Ciera interested in Happy hour at Izzy Hops tomorrow at 5:30PM?",
+        "user": "U15J5H60P",
+        "ts": "1533674547.000052"
+    },
+    {
+        "client_msg_id": "068dec11-8202-4399-8a01-c919fb21416e",
+        "type": "message",
+        "text": "<@U15HSHSS2> You and Big L are also invited",
+        "user": "U15J5H60P",
+        "ts": "1533674556.000443"
+    },
+    {
+        "client_msg_id": "7b0a0b09-e06a-46af-b7e8-af91c9657394",
+        "type": "message",
+        "text": "<!channel> Any RSVP’s?",
+        "user": "U15J5H60P",
+        "ts": "1533686077.000135"
+    },
+    {
+        "client_msg_id": "FAAB06D0-176C-412F-93FE-C3729307E294",
+        "type": "message",
+        "text": "I’ll know tomorrow. I kinda wanted to spend some time with ciera since she just got back",
+        "user": "U15HZ01QX",
+        "ts": "1533686400.000240"
+    },
+    {
+        "client_msg_id": "59b41ff7-e62e-4fb6-967a-2fc8249d35e3",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1533686478.000081"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1533686478.000148",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media3.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2D191BE2-F715-4911-93A5-88C8795716CE",
+        "type": "message",
+        "text": "Im down i think",
+        "user": "U15HY5TG8",
+        "ts": "1533691730.000029"
+    }
+]

@@ -1,0 +1,448 @@
+[
+    {
+        "type": "message",
+        "text": "oh man",
+        "user": "U15HRTAHL",
+        "ts": "1528295140.000431"
+    },
+    {
+        "type": "message",
+        "text": "I have no idea what I’m doing lol",
+        "user": "U15HRTAHL",
+        "ts": "1528295147.000762"
+    },
+    {
+        "type": "message",
+        "text": "What do you mean?",
+        "user": "U15J5H60P",
+        "ts": "1528295163.000116"
+    },
+    {
+        "type": "message",
+        "text": "There’s just stuff I’ve never even heard of that I’m using",
+        "user": "U15HRTAHL",
+        "ts": "1528295309.000019"
+    },
+    {
+        "type": "message",
+        "text": "Active Directory",
+        "user": "U15HRTAHL",
+        "ts": "1528295319.000573"
+    },
+    {
+        "client_msg_id": "1E077665-09C7-41E1-886E-6BA301ED0C23",
+        "type": "message",
+        "text": "You’ve definitely heard of active directory you baby",
+        "user": "U15HZ01QX",
+        "ts": "1528295347.000366",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U15HSHSS2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol gotta love startin a new job",
+        "user": "U15HSHSS2",
+        "ts": "1528295355.000924"
+    },
+    {
+        "type": "message",
+        "text": "I used active directory at my I.T. job on campus but outside of that idk...",
+        "user": "U15HSHSS2",
+        "ts": "1528295392.000790"
+    },
+    {
+        "type": "message",
+        "text": "Never heard of it",
+        "user": "U15HRTAHL",
+        "ts": "1528295403.000995"
+    },
+    {
+        "type": "message",
+        "text": "and now I have to integrate with it",
+        "user": "U15HRTAHL",
+        "ts": "1528295409.000502"
+    },
+    {
+        "type": "message",
+        "text": "with some shit called LDAP",
+        "user": "U15HRTAHL",
+        "ts": "1528295414.000053"
+    },
+    {
+        "type": "message",
+        "text": "Yay AD + LDAP",
+        "user": "U15J5H60P",
+        "ts": "1528295437.000745"
+    },
+    {
+        "type": "message",
+        "text": "Have you used it?",
+        "user": "U15HRTAHL",
+        "ts": "1528295443.000554"
+    },
+    {
+        "type": "message",
+        "text": "From what i remember AD is just a big directory of everything on the network so you can manage all of the devices",
+        "user": "U15HSHSS2",
+        "ts": "1528295519.000238"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1528295524.000427"
+    },
+    {
+        "type": "message",
+        "text": "that I get",
+        "user": "U15HRTAHL",
+        "ts": "1528295527.000773"
+    },
+    {
+        "type": "message",
+        "text": "but I don’t really understand how the naming conventions work",
+        "user": "U15HRTAHL",
+        "ts": "1528295542.000661"
+    },
+    {
+        "type": "message",
+        "text": "OC=someshit,UC=SomeMoreShit",
+        "user": "U15HRTAHL",
+        "ts": "1528295561.000471"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1528295570.000579"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15HSHSS2",
+        "ts": "1528295571.000808"
+    },
+    {
+        "type": "message",
+        "text": "gmomewatimsayin?",
+        "user": "U15HRTAHL",
+        "ts": "1528295579.000695"
+    },
+    {
+        "type": "message",
+        "text": "I went to google \"Active Directory\" and i typed in \"Active\" and the first 10 suggestions were shit about active shooters and being in an active shooting lol",
+        "user": "U15HSHSS2",
+        "ts": "1528295631.000060"
+    },
+    {
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HRTAHL",
+        "ts": "1528295657.000802"
+    },
+    {
+        "client_msg_id": "E11CB4EB-B094-46A0-B3D7-F3FEF6E0E170",
+        "type": "message",
+        "text": "Easiest way to learn is just get some access. And then play around in ADUC for awhile",
+        "user": "U15HZ01QX",
+        "ts": "1528295801.000039"
+    },
+    {
+        "client_msg_id": "93BCA18C-25AE-4ED1-A172-5B3923DDA269",
+        "type": "message",
+        "text": "You’ll learn the structure pretty quick ",
+        "user": "U15HZ01QX",
+        "ts": "1528295811.000538"
+    },
+    {
+        "type": "message",
+        "text": "yep throw some more acronyms at me I have no idea about lol",
+        "user": "U15HRTAHL",
+        "ts": "1528295817.000856"
+    },
+    {
+        "client_msg_id": "5A27EB44-EF7A-4CAC-A8D0-D7ED654CA6F1",
+        "type": "message",
+        "text": "Active Directory Users and Computers",
+        "user": "U15HZ01QX",
+        "ts": "1528295834.000122"
+    },
+    {
+        "client_msg_id": "006506B3-A97F-40B3-AA4E-7B2F8DEBAD5E",
+        "type": "message",
+        "text": "It’s essentially a giant tree of everything in AD",
+        "user": "U15HZ01QX",
+        "ts": "1528295847.001038"
+    },
+    {
+        "client_msg_id": "1655306A-E754-46E4-8751-FB949BD7CF02",
+        "type": "message",
+        "text": "So you’ll see all your coworkers and the computers and in some cases the security controls",
+        "user": "U15HZ01QX",
+        "ts": "1528295871.000105"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HSHSS2",
+        "ts": "1528295900.000215",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/hackers-mainframe-waywaw-TOWeGr70V2R1K",
+                "image_url": "https:\/\/media3.giphy.com\/media\/TOWeGr70V2R1K\/giphy-downsized.gif",
+                "image_width": 400,
+                "image_height": 225,
+                "image_bytes": 1005262,
+                "is_animated": true,
+                "title": "hacker",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/hackers-mainframe-waywaw-TOWeGr70V2R1K"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "apparently I dropped a table production",
+        "user": "U15HRTAHL",
+        "ts": "1528295969.000564"
+    },
+    {
+        "type": "message",
+        "text": "well this isn’t good",
+        "user": "U15HRTAHL",
+        "ts": "1528295991.000236"
+    },
+    {
+        "client_msg_id": "53B1F828-239D-4E30-93CA-FCB411D7F591",
+        "type": "message",
+        "text": "<@U15HSHSS2> what does zywave use if not Active Directory?",
+        "user": "U15HZ01QX",
+        "ts": "1528296242.000626"
+    },
+    {
+        "type": "message",
+        "text": "I'm sure zywave I.T. uses it for everything. like managing all of our laptops and pushing out updates and shit",
+        "user": "U15HSHSS2",
+        "ts": "1528296293.000283"
+    },
+    {
+        "type": "message",
+        "text": "My job doesn't require me to ever use the active directory",
+        "user": "U15HSHSS2",
+        "ts": "1528296332.000400"
+    },
+    {
+        "client_msg_id": "C713125F-027B-4565-95EA-13C0EC14B9AB",
+        "type": "message",
+        "text": "I see",
+        "user": "U15HZ01QX",
+        "ts": "1528296337.000604"
+    },
+    {
+        "type": "message",
+        "text": "occasionally I need to remote into or do some shit on our deployment servers, but we use ASG for managing them and remoting in",
+        "user": "U15HSHSS2",
+        "ts": "1528296415.000346"
+    },
+    {
+        "client_msg_id": "08ED594E-CC84-4877-8043-8685F8AAB57F",
+        "type": "message",
+        "text": "<@U15HRTAHL> you dropped a prod table? Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1528297775.000789"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1528297785.000773"
+    },
+    {
+        "type": "message",
+        "text": "that was a joke",
+        "user": "U15HRTAHL",
+        "ts": "1528297788.000264"
+    },
+    {
+        "client_msg_id": "4D102CC3-5939-44FC-8B67-975793E85C43",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HY5TG8",
+        "ts": "1528297884.000427"
+    },
+    {
+        "client_msg_id": "0180DDD5-B2DE-455B-B957-17C8CF4DD820",
+        "type": "message",
+        "text": "Woulda been funny",
+        "user": "U15HY5TG8",
+        "ts": "1528297888.000898"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1528298066.000975"
+    },
+    {
+        "type": "message",
+        "text": "I don’t even know what I’d do",
+        "user": "U15HRTAHL",
+        "ts": "1528298072.000860"
+    },
+    {
+        "type": "message",
+        "text": "pack up and go home",
+        "user": "U15HSHSS2",
+        "ts": "1528298106.000429"
+    },
+    {
+        "type": "message",
+        "text": "walk into penrod tomorrow morning like nothing happened",
+        "user": "U15HSHSS2",
+        "ts": "1528298120.000113"
+    },
+    {
+        "type": "message",
+        "text": "don't respond to any emails or calls from pkware",
+        "user": "U15HSHSS2",
+        "ts": "1528298139.000053"
+    },
+    {
+        "client_msg_id": "D3CB22A9-02E2-4485-A677-A26B1C180D65",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1528299556.000715"
+    },
+    {
+        "client_msg_id": "924FCFC0-3229-494E-BE59-A81C2FF8DB4A",
+        "type": "message",
+        "text": "There was a story out about how an intern was told to set up his localdb but the company gave him the setup checklist with prod details so he ended up overwriting the prod database on the first day lol",
+        "user": "U15HY5TG8",
+        "ts": "1528299622.000476"
+    },
+    {
+        "type": "message",
+        "text": "Yeah tommy posted the link awhile back",
+        "user": "U15HZ01QX",
+        "ts": "1528299656.000853"
+    },
+    {
+        "client_msg_id": "531DDDCD-39ED-48EF-B9FF-DF17615B2D7E",
+        "type": "message",
+        "text": "Yeah i figured it might be in here but wasnt sure",
+        "user": "U15HY5TG8",
+        "ts": "1528299678.000252"
+    },
+    {
+        "type": "message",
+        "text": "guy found a job i think",
+        "user": "U15HZ01QX",
+        "ts": "1528299685.000496"
+    },
+    {
+        "client_msg_id": "7AAEDBA8-D10D-4883-AC3B-D371B2CA0BA7",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1528299691.000176"
+    },
+    {
+        "client_msg_id": "FB0536DB-6749-408B-A04B-BD5BE5128CA5",
+        "type": "message",
+        "text": "They followed up with him?",
+        "user": "U15HY5TG8",
+        "ts": "1528299697.000432"
+    },
+    {
+        "type": "message",
+        "text": "it was reddit",
+        "user": "U15HZ01QX",
+        "ts": "1528299761.000046"
+    },
+    {
+        "type": "message",
+        "text": "he just came back",
+        "user": "U15HZ01QX",
+        "ts": "1528299765.000329"
+    },
+    {
+        "client_msg_id": "B09F0B7E-B7B6-49D7-97BD-87801FDEFBBF",
+        "type": "message",
+        "text": "Ahh ok",
+        "user": "U15HY5TG8",
+        "ts": "1528299781.000469"
+    },
+    {
+        "client_msg_id": "CB67B59C-F075-4572-BD92-81F4A818344D",
+        "type": "message",
+        "text": "Theres no one at work. Its \"work from home day\" and all the managers are gone",
+        "user": "U15HY5TG8",
+        "ts": "1528304197.000253"
+    },
+    {
+        "client_msg_id": "20DC1BC5-5541-41D9-BEBF-DD7F2A2E2F22",
+        "type": "message",
+        "text": "WFH day in the middle of the week nice",
+        "user": "U15HZ01QX",
+        "ts": "1528304229.000363"
+    },
+    {
+        "client_msg_id": "DF15B15B-91F8-4965-ADD3-49A03525495A",
+        "type": "message",
+        "text": "Yeah so its frowned upon to wfh on monday and friday because they think youre not actually working and then its frowned upon on tuesday and thursday because thats when all the meetings are, so literally everyone works from home on wednesday",
+        "user": "U15HY5TG8",
+        "ts": "1528304310.000675"
+    },
+    {
+        "client_msg_id": "69290E46-4F1B-4B90-9449-6C0925A75458",
+        "type": "message",
+        "text": "Lol weird",
+        "user": "U15HZ01QX",
+        "ts": "1528304390.000386"
+    },
+    {
+        "client_msg_id": "243B0207-A071-498C-900B-C811195A39A4",
+        "type": "message",
+        "text": "When i say everyone, i mean QA because theyre a bunch of slackers",
+        "user": "U15HY5TG8",
+        "ts": "1528304426.000422"
+    },
+    {
+        "type": "message",
+        "text": "update: I kind of know what I’m doing",
+        "user": "U15HRTAHL",
+        "ts": "1528313661.000714"
+    },
+    {
+        "client_msg_id": "5B87EA91-DFE1-4164-8804-0A13560300D7",
+        "type": "message",
+        "text": "Lies",
+        "user": "U15HY5TG8",
+        "ts": "1528313680.000401"
+    },
+    {
+        "type": "message",
+        "text": "I don’t remember many people’s names from here but if I just call them Joe I have a 12% chance of being right",
+        "user": "U15HRTAHL",
+        "ts": "1528318376.000450",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

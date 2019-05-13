@@ -1,0 +1,6859 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>: ok guys we need to decide what we're going to do moving forward, do we stay in slack do we go back to iMessage? whats the case for each?",
+        "user": "U15HZ01QX",
+        "ts": "1462381944.000002"
+    },
+    {
+        "type": "message",
+        "text": "Cuz this isn't sustainable",
+        "user": "U15HZ01QX",
+        "ts": "1462381954.000003"
+    },
+    {
+        "type": "message",
+        "text": "idc either way",
+        "user": "U15HY5TG8",
+        "ts": "1462381967.000004"
+    },
+    {
+        "type": "message",
+        "text": "i will not add to moderation I will only vote when simple votes are cast",
+        "user": "U15HRTAHL",
+        "ts": "1462381969.000005"
+    },
+    {
+        "type": "message",
+        "text": "im laughing regardless",
+        "user": "U15HY5TG8",
+        "ts": "1462381973.000006"
+    },
+    {
+        "type": "message",
+        "text": "All I will say is that I want slack, and I want delegation of topics in channels that are frequently brought up, or for people that have strong passions for said topic",
+        "user": "U15HRTAHL",
+        "ts": "1462382001.000007"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*Pick*\n\n:one: iMessage\n:two: Slack\n",
+        "ts": "1462382010.000008",
+        "username": "Simple Poll",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-02\/39614780368_48.png"
+        },
+        "bot_id": "B15J9P5H7",
+        "reactions": [
+            {
+                "name": "two",
+                "users": [
+                    "U15HRTAHL",
+                    "U15HY5TG8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "one",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol wait",
+        "user": "U15HZ01QX",
+        "ts": "1462382028.000009"
+    },
+    {
+        "type": "message",
+        "text": "2",
+        "user": "U15HY5TG8",
+        "ts": "1462382034.000010"
+    },
+    {
+        "type": "message",
+        "text": "thats a flawed vote",
+        "user": "U15HY5TG8",
+        "ts": "1462382044.000011"
+    },
+    {
+        "type": "message",
+        "text": "there",
+        "user": "U15HZ01QX",
+        "ts": "1462382052.000012"
+    },
+    {
+        "type": "message",
+        "text": "joe you cant vote for both smh",
+        "user": "U15HY5TG8",
+        "ts": "1462382076.000013"
+    },
+    {
+        "type": "message",
+        "text": "I did not",
+        "user": "U15HRTAHL",
+        "ts": "1462382080.000014"
+    },
+    {
+        "type": "message",
+        "text": "it said I did",
+        "user": "U15HRTAHL",
+        "ts": "1462382083.000015"
+    },
+    {
+        "type": "message",
+        "text": "but I didn not",
+        "user": "U15HRTAHL",
+        "ts": "1462382085.000017"
+    },
+    {
+        "type": "message",
+        "text": "there",
+        "user": "U15HRTAHL",
+        "ts": "1462382103.000019"
+    },
+    {
+        "type": "message",
+        "text": "there",
+        "user": "U15HY5TG8",
+        "ts": "1462382105.000020"
+    },
+    {
+        "type": "message",
+        "text": "its fixed",
+        "user": "U15HRTAHL",
+        "ts": "1462382105.000021"
+    },
+    {
+        "type": "message",
+        "text": "im not saying that slack wasn't a good initial plan",
+        "user": "U15HZ01QX",
+        "ts": "1462382116.000022"
+    },
+    {
+        "type": "message",
+        "text": "but its been bad",
+        "user": "U15HZ01QX",
+        "ts": "1462382121.000023"
+    },
+    {
+        "type": "message",
+        "text": "its been funny",
+        "user": "U15HY5TG8",
+        "ts": "1462382127.000024"
+    },
+    {
+        "type": "message",
+        "text": "I have a few opinions on why its been bad",
+        "user": "U15HRTAHL",
+        "ts": "1462382134.000025"
+    },
+    {
+        "type": "message",
+        "text": "Im sticking with slack regardless",
+        "user": "U15HRTAHL",
+        "ts": "1462382151.000026"
+    },
+    {
+        "type": "message",
+        "text": "the only thing that sucks about slack is that its using up my data",
+        "user": "U15HY5TG8",
+        "ts": "1462382186.000027"
+    },
+    {
+        "type": "message",
+        "text": "How?",
+        "user": "U15HRTAHL",
+        "ts": "1462382212.000028"
+    },
+    {
+        "type": "message",
+        "text": "you don’t leave your house",
+        "user": "U15HRTAHL",
+        "ts": "1462382217.000029"
+    },
+    {
+        "type": "message",
+        "text": "wifi",
+        "user": "U15HRTAHL",
+        "ts": "1462382219.000030"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HZ01QX",
+        "ts": "1462382221.000031"
+    },
+    {
+        "type": "message",
+        "text": "when im walking to class",
+        "user": "U15HY5TG8",
+        "ts": "1462382232.000032"
+    },
+    {
+        "type": "message",
+        "text": "and soon to be att data cap",
+        "user": "U15HY5TG8",
+        "ts": "1462382244.000033"
+    },
+    {
+        "type": "message",
+        "text": "put the phone in your pocket for 15mins while walking then",
+        "user": "U15HRTAHL",
+        "ts": "1462382247.000034"
+    },
+    {
+        "type": "message",
+        "text": "then i miss 300 messages",
+        "user": "U15HY5TG8",
+        "ts": "1462382257.000035"
+    },
+    {
+        "type": "message",
+        "text": "which is why we have channels",
+        "user": "U15HRTAHL",
+        "ts": "1462382263.000036",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1462382265.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "how are you almost at the cap",
+        "user": "U15HZ01QX",
+        "ts": "1462382266.000038"
+    },
+    {
+        "type": "message",
+        "text": "filter out the ones you don’t want",
+        "user": "U15HRTAHL",
+        "ts": "1462382271.000039"
+    },
+    {
+        "type": "message",
+        "text": "its the third day'",
+        "user": "U15HZ01QX",
+        "ts": "1462382271.000040"
+    },
+    {
+        "type": "message",
+        "text": "4th",
+        "user": "U15HZ01QX",
+        "ts": "1462382274.000041"
+    },
+    {
+        "type": "message",
+        "text": "you’re in every channel",
+        "user": "U15HRTAHL",
+        "ts": "1462382278.000042"
+    },
+    {
+        "type": "message",
+        "text": "leave some",
+        "user": "U15HRTAHL",
+        "ts": "1462382281.000043"
+    },
+    {
+        "type": "message",
+        "text": "lol noone ever posts in the other channels besides general",
+        "user": "U15HY5TG8",
+        "ts": "1462382293.000044"
+    },
+    {
+        "type": "message",
+        "text": "and my billing cycle is the 15th",
+        "user": "U15HY5TG8",
+        "ts": "1462382304.000045"
+    },
+    {
+        "type": "message",
+        "text": "then only get notifications that contain your name",
+        "user": "U15HRTAHL",
+        "ts": "1462382311.000046"
+    },
+    {
+        "type": "message",
+        "text": "the number of times someone has mentioned my name is &lt;5",
+        "user": "U15HY5TG8",
+        "ts": "1462382336.000047"
+    },
+    {
+        "type": "message",
+        "text": "(besides plusplus)",
+        "user": "U15HY5TG8",
+        "ts": "1462382345.000048"
+    },
+    {
+        "type": "message",
+        "text": "which is a good case for texting",
+        "user": "U15HZ01QX",
+        "ts": "1462382427.000049"
+    },
+    {
+        "type": "message",
+        "text": "You can’t mention people though",
+        "user": "U15HRTAHL",
+        "ts": "1462382443.000050"
+    },
+    {
+        "type": "message",
+        "text": "but if i need him ill just text him",
+        "user": "U15HZ01QX",
+        "ts": "1462382454.000051"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HRTAHL",
+        "ts": "1462382463.000052"
+    },
+    {
+        "type": "message",
+        "text": "but....slack is funny",
+        "user": "U15HY5TG8",
+        "ts": "1462382472.000053"
+    },
+    {
+        "type": "message",
+        "text": "iMessages pop up on my computer though when I don’t want them to",
+        "user": "U15HRTAHL",
+        "ts": "1462382483.000054"
+    },
+    {
+        "type": "message",
+        "text": "at work",
+        "user": "U15HRTAHL",
+        "ts": "1462382484.000055"
+    },
+    {
+        "type": "message",
+        "text": "and I don’t want to disable the account",
+        "user": "U15HRTAHL",
+        "ts": "1462382493.000056"
+    },
+    {
+        "type": "message",
+        "text": "its funny in the wrong ways",
+        "user": "U15HZ01QX",
+        "ts": "1462382497.000057"
+    },
+    {
+        "type": "message",
+        "text": "and reenable it for those times",
+        "user": "U15HRTAHL",
+        "ts": "1462382502.000058"
+    },
+    {
+        "type": "message",
+        "text": "thats a good point",
+        "user": "U15HZ01QX",
+        "ts": "1462382511.000059"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462382522.000060"
+    },
+    {
+        "type": "message",
+        "text": "and tommy can use slack on his computer",
+        "user": "U15HZ01QX",
+        "ts": "1462382523.000061"
+    },
+    {
+        "type": "message",
+        "text": "and theres interactive features of slack that are nice as well",
+        "user": "U15HRTAHL",
+        "ts": "1462382564.000062"
+    },
+    {
+        "type": "message",
+        "text": "like the poll",
+        "user": "U15HRTAHL",
+        "ts": "1462382567.000063"
+    },
+    {
+        "type": "message",
+        "text": "lol man that poll is bad",
+        "user": "U15HZ01QX",
+        "ts": "1462382577.000064"
+    },
+    {
+        "type": "message",
+        "text": "theres other ones",
+        "user": "U15HRTAHL",
+        "ts": "1462382582.000065"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HZ01QX",
+        "ts": "1462382586.000066"
+    },
+    {
+        "type": "message",
+        "text": "we need to stop using poll",
+        "user": "U15HY5TG8",
+        "ts": "1462382591.000067"
+    },
+    {
+        "type": "message",
+        "text": "theres only 5 of us",
+        "user": "U15HY5TG8",
+        "ts": "1462382599.000068",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/poll publish",
+        "user": "U15HZ01QX",
+        "ts": "1462382913.000071"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1462382914.000072",
+        "bot_id": "B165LLKFF",
+        "attachments": [
+            {
+                "fallback": "Poll \"test.\": [1] yes \/ [2] other yes",
+                "pretext": "Poll: *test.*\nCreated by <@U15HZ01QX|james> on 2016-05-04 (less than a minute ago)\n",
+                "id": 1,
+                "fields": [
+                    {
+                        "title": "Choice 1",
+                        "value": "yes",
+                        "short": true
+                    },
+                    {
+                        "title": "Choice 2",
+                        "value": "other yes",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "pretext"
+                ]
+            },
+            {
+                "pretext": "Type `\/poll vote &lt;n1&gt; ..., &lt;n2&gt; &lt;n3&gt; ...` to record or update a vote.\nType `\/poll show` for a private display of the poll, with icons you can click to vote easily",
+                "id": 2,
+                "mrkdwn_in": [
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "trying out a new poll bot",
+        "user": "U15HZ01QX",
+        "ts": "1462382931.000073"
+    },
+    {
+        "type": "message",
+        "text": "What do I need to contribute to?",
+        "user": "U15J5H60P",
+        "ts": "1462382942.000074"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: ",
+        "user": "U15J5H60P",
+        "ts": "1462382998.000075"
+    },
+    {
+        "type": "message",
+        "text": "What do you want me to contribute to",
+        "user": "U15J5H60P",
+        "ts": "1462383006.000076"
+    },
+    {
+        "type": "message",
+        "text": "whether or not we are staying in slack or going back to imessage",
+        "user": "U15HZ01QX",
+        "ts": "1462383018.000077"
+    },
+    {
+        "type": "message",
+        "text": "Lol i don't give a fuck what you guys do.",
+        "user": "U15J5H60P",
+        "ts": "1462383077.000079"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462383086.000080",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462383089.000081"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1462383094.000082"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy deal with it",
+        "user": "U15HZ01QX",
+        "ts": "1462383098.000083",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/photobucket-deal-clinton-CBXxvEBgRZ9xS>",
+                "image_url": "http:\/\/media.giphy.com\/media\/CBXxvEBgRZ9xS\/giphy-tumblr.gif",
+                "image_width": 181,
+                "image_height": 250,
+                "image_bytes": 1515399,
+                "is_animated": true,
+                "title": "deal with it",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/photobucket-deal-clinton-CBXxvEBgRZ9xS"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "well then lol",
+        "user": "U15HZ01QX",
+        "ts": "1462383125.000084"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462383145.000085",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: well do you have any other thoughts?",
+        "user": "U15HZ01QX",
+        "ts": "1462383228.000086"
+    },
+    {
+        "type": "message",
+        "text": "No. I don't want to participate in any of it.",
+        "user": "U15J5H60P",
+        "ts": "1462383278.000087"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462383322.000088",
+        "text": "<@U15GJQVMZ> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: --",
+        "user": "U15HY5TG8",
+        "ts": "1462383328.000089"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch! [<@U15J5H60P>--, now at <https:\/\/plusplus.chat\/t\/freeuwmke\/action\/311899|-65 points>] ",
+        "ts": "1462383329.000090",
+        "username": "PlusPlus",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-02\/39612639333_48.png"
+        },
+        "bot_id": "B15GJQVM1"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462383334.000091",
+        "text": "<@U15GJQVMZ> has left the channel"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462383347.000092",
+        "text": "<@U15GJQVMZ> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: in a week or month or whatever you will",
+        "user": "U15HZ01QX",
+        "ts": "1462383348.000093"
+    },
+    {
+        "type": "message",
+        "text": "Nah. After today I'm fine with not talking in a group chat.",
+        "user": "U15J5H60P",
+        "ts": "1462383369.000094"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: --",
+        "user": "U15HY5TG8",
+        "ts": "1462383377.000095"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch! [<@U15J5H60P>--, now at <https:\/\/plusplus.chat\/t\/freeuwmke\/action\/311903|-66 points>] ",
+        "ts": "1462383377.000096",
+        "username": "PlusPlus",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-02\/39612639333_48.png"
+        },
+        "bot_id": "B15GJQVM1"
+    },
+    {
+        "type": "message",
+        "text": "I really want to know what tom is writing and erasing",
+        "user": "U15HRTAHL",
+        "ts": "1462383390.000097"
+    },
+    {
+        "type": "message",
+        "text": "my point being that even if you want to take a hiatus you should have a say in what you come back to",
+        "user": "U15HZ01QX",
+        "ts": "1462383395.000098"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1462383397.000099"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462383418.000100",
+        "text": "<@U15GJQVMZ> has left the channel"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462383425.000101",
+        "text": "<@U15GJQVMZ> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "can we take a plus plus break for like 10 minutes evan",
+        "user": "U15HZ01QX",
+        "ts": "1462383451.000102"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462383462.000103",
+        "text": "<@U15GJQVMZ> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Does no one see the problem with everyone having admin rights?",
+        "user": "U15J5H60P",
+        "ts": "1462383497.000104"
+    },
+    {
+        "type": "message",
+        "text": "I say we try and make slack work. Everyone is admin, nobody abuse their power. If something is going to be added like a bot or a feature or a person, or if something is going to be removed or changed we vote on it",
+        "user": "U15HSHSS2",
+        "ts": "1462383508.000105"
+    },
+    {
+        "type": "message",
+        "text": "i can deal with that",
+        "user": "U15HZ01QX",
+        "ts": "1462383521.000106"
+    },
+    {
+        "type": "message",
+        "text": "I think we should elect a president",
+        "user": "U15HRTAHL",
+        "ts": "1462383531.000107"
+    },
+    {
+        "type": "message",
+        "text": "and that should be tom",
+        "user": "U15HRTAHL",
+        "ts": "1462383535.000108"
+    },
+    {
+        "type": "message",
+        "text": "I agree ",
+        "user": "U15J5H60P",
+        "ts": "1462383546.000109"
+    },
+    {
+        "type": "message",
+        "text": "i got a question",
+        "user": "U15HZ01QX",
+        "ts": "1462383553.000110"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HRTAHL",
+        "ts": "1462383554.000111"
+    },
+    {
+        "type": "message",
+        "text": "whats the president supposed to do",
+        "user": "U15HZ01QX",
+        "ts": "1462383561.000112"
+    },
+    {
+        "type": "message",
+        "text": "whatree thoooose",
+        "user": "U15HY5TG8",
+        "ts": "1462383561.000113"
+    },
+    {
+        "type": "message",
+        "text": "Be the admin",
+        "user": "U15J5H60P",
+        "ts": "1462383565.000114"
+    },
+    {
+        "type": "message",
+        "text": "evan",
+        "user": "U15HZ01QX",
+        "ts": "1462383566.000115"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462383572.000116"
+    },
+    {
+        "type": "message",
+        "text": "Everyone is a standard user",
+        "user": "U15J5H60P",
+        "ts": "1462383576.000117"
+    },
+    {
+        "type": "message",
+        "text": "Except Tom ",
+        "user": "U15J5H60P",
+        "ts": "1462383581.000118"
+    },
+    {
+        "type": "message",
+        "text": "so i say no",
+        "user": "U15HZ01QX",
+        "ts": "1462383585.000119"
+    },
+    {
+        "type": "message",
+        "text": "Tom is admin",
+        "user": "U15J5H60P",
+        "ts": "1462383587.000120"
+    },
+    {
+        "type": "message",
+        "text": "the president has final words in arguments",
+        "user": "U15HRTAHL",
+        "ts": "1462383590.000121"
+    },
+    {
+        "type": "message",
+        "text": "for a few reasons",
+        "user": "U15HZ01QX",
+        "ts": "1462383591.000122"
+    },
+    {
+        "type": "message",
+        "text": "we’re all admins",
+        "user": "U15HRTAHL",
+        "ts": "1462383593.000123"
+    },
+    {
+        "type": "message",
+        "text": "but tom has superficial powers",
+        "user": "U15HRTAHL",
+        "ts": "1462383599.000124"
+    },
+    {
+        "type": "message",
+        "text": "i like joes description",
+        "user": "U15HZ01QX",
+        "ts": "1462383600.000125"
+    },
+    {
+        "type": "message",
+        "text": "I don't know enough about slack  to be the only admin",
+        "user": "U15HSHSS2",
+        "ts": "1462383607.000126"
+    },
+    {
+        "type": "message",
+        "text": "a tie breaker is reasonable",
+        "user": "U15HZ01QX",
+        "ts": "1462383611.000127"
+    },
+    {
+        "type": "message",
+        "text": "thats perfect tom lol we establish everything and then dont touch them",
+        "user": "U15HY5TG8",
+        "ts": "1462383626.000128"
+    },
+    {
+        "type": "message",
+        "text": "Let's just not abuse our admin privileges",
+        "user": "U15HSHSS2",
+        "ts": "1462383630.000129"
+    },
+    {
+        "type": "message",
+        "text": "I'm not doing this everyone is an admin thing. I will defect",
+        "user": "U15J5H60P",
+        "ts": "1462383639.000130"
+    },
+    {
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1462383653.000132"
+    },
+    {
+        "type": "message",
+        "text": "I'll say it for you Joe",
+        "user": "U15J5H60P",
+        "ts": "1462383657.000133"
+    },
+    {
+        "type": "message",
+        "text": "\"That's fine\"",
+        "user": "U15J5H60P",
+        "ts": "1462383664.000134"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HRTAHL",
+        "ts": "1462383669.000135"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462383671.000136"
+    },
+    {
+        "type": "message",
+        "text": "whats your issue with everyone being an admin",
+        "user": "U15HZ01QX",
+        "ts": "1462383677.000137"
+    },
+    {
+        "type": "message",
+        "text": "why are you *still* putting words in my mouth?",
+        "user": "U15HRTAHL",
+        "ts": "1462383680.000138"
+    },
+    {
+        "type": "message",
+        "text": "stop fighting for 20 seconds",
+        "user": "U15HZ01QX",
+        "ts": "1462383691.000139"
+    },
+    {
+        "type": "message",
+        "text": "Because I know that only shit comes out of it anyways",
+        "user": "U15J5H60P",
+        "ts": "1462383694.000140"
+    },
+    {
+        "type": "message",
+        "text": "andrew the past 20 minutes",
+        "user": "U15HRTAHL",
+        "ts": "1462383704.000141"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=PJVpMod5JTA>",
+        "user": "U15HRTAHL",
+        "ts": "1462383705.000142",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Temper tantrum!!!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=PJVpMod5JTA",
+                "author_name": "Jenn E",
+                "author_link": "https:\/\/www.youtube.com\/user\/TheSmiley3978",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/PJVpMod5JTA\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Temper tantrum!!!",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/PJVpMod5JTA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=PJVpMod5JTA",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462383719.000144",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Says the guy that kicks people for getting his imaginary points deducted",
+        "user": "U15J5H60P",
+        "ts": "1462383731.000145"
+    },
+    {
+        "type": "message",
+        "text": "Haha Christ...",
+        "user": "U15HSHSS2",
+        "ts": "1462383738.000146"
+    },
+    {
+        "type": "message",
+        "text": "People like Joe",
+        "user": "U15J5H60P",
+        "ts": "1462383748.000147"
+    },
+    {
+        "type": "message",
+        "text": "Kicking me all the time",
+        "user": "U15J5H60P",
+        "ts": "1462383753.000148"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462383762.000149",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "type": "message",
+        "text": "And banning me from general",
+        "user": "U15J5H60P",
+        "ts": "1462383765.000150"
+    },
+    {
+        "type": "message",
+        "text": "can you guys cool it",
+        "user": "U15HZ01QX",
+        "ts": "1462383770.000151"
+    },
+    {
+        "type": "message",
+        "text": "andrew you can go in general in a second",
+        "user": "U15HZ01QX",
+        "ts": "1462383783.000152"
+    },
+    {
+        "type": "message",
+        "text": "yea go stand in a freezer",
+        "user": "U15HY5TG8",
+        "ts": "1462383785.000153"
+    },
+    {
+        "type": "message",
+        "text": "No I removed you because all you do is argue and I was sick of it",
+        "user": "U15HRTAHL",
+        "ts": "1462383786.000154"
+    },
+    {
+        "type": "message",
+        "text": "and once again, you put words in my mouth",
+        "user": "U15HRTAHL",
+        "ts": "1462383799.000155"
+    },
+    {
+        "type": "message",
+        "text": "Cool. I'm sick of everything that comes out of your mouth",
+        "user": "U15J5H60P",
+        "ts": "1462383801.000156"
+    },
+    {
+        "type": "message",
+        "text": "the reason we're in random is so that if someone wants to leave they can",
+        "user": "U15HZ01QX",
+        "ts": "1462383801.000157"
+    },
+    {
+        "type": "message",
+        "text": "words are 2d",
+        "user": "U15HY5TG8",
+        "ts": "1462383808.000158"
+    },
+    {
+        "type": "message",
+        "text": "So can I remove you?",
+        "user": "U15J5H60P",
+        "ts": "1462383812.000159"
+    },
+    {
+        "type": "message",
+        "text": "huh",
+        "user": "U15HZ01QX",
+        "ts": "1462383821.000160"
+    },
+    {
+        "type": "message",
+        "text": "no, cause you’re not admin :joy:",
+        "user": "U15HRTAHL",
+        "ts": "1462383827.000161"
+    },
+    {
+        "type": "message",
+        "text": "Then why do you keep adding Joe back?",
+        "user": "U15J5H60P",
+        "ts": "1462383827.000162"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462383829.000163",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462383842.000164",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15HZ01QX",
+        "ts": "1462383844.000165"
+    },
+    {
+        "type": "message",
+        "text": "Just remember, I added you back to slack",
+        "user": "U15HRTAHL",
+        "ts": "1462383852.000166"
+    },
+    {
+        "type": "message",
+        "text": "so stop singling me out",
+        "user": "U15HRTAHL",
+        "ts": "1462383856.000167"
+    },
+    {
+        "type": "message",
+        "text": "can we just finish our discussion and then we can all just take a break",
+        "user": "U15HZ01QX",
+        "ts": "1462383871.000168"
+    },
+    {
+        "type": "message",
+        "text": "Cool. That doesn't make you the all powerful i couldn've asked literally anyone else",
+        "user": "U15J5H60P",
+        "ts": "1462383878.000169"
+    },
+    {
+        "type": "message",
+        "text": "for a kit kat",
+        "user": "U15HY5TG8",
+        "ts": "1462383882.000170"
+    },
+    {
+        "type": "message",
+        "text": "evan",
+        "user": "U15HZ01QX",
+        "ts": "1462383888.000171"
+    },
+    {
+        "type": "message",
+        "text": "also, I did not ban you from general",
+        "user": "U15HRTAHL",
+        "ts": "1462383895.000172"
+    },
+    {
+        "type": "message",
+        "text": "so please",
+        "user": "U15HRTAHL",
+        "ts": "1462383897.000173"
+    },
+    {
+        "type": "message",
+        "text": "*once again*",
+        "user": "U15HRTAHL",
+        "ts": "1462383900.000174"
+    },
+    {
+        "type": "message",
+        "text": "stop",
+        "user": "U15HRTAHL",
+        "ts": "1462383901.000175"
+    },
+    {
+        "type": "message",
+        "text": "putting",
+        "user": "U15HRTAHL",
+        "ts": "1462383903.000176"
+    },
+    {
+        "type": "message",
+        "text": "words",
+        "user": "U15HRTAHL",
+        "ts": "1462383903.000177"
+    },
+    {
+        "type": "message",
+        "text": "in",
+        "user": "U15HRTAHL",
+        "ts": "1462383904.000178"
+    },
+    {
+        "type": "message",
+        "text": "my",
+        "user": "U15HRTAHL",
+        "ts": "1462383904.000179"
+    },
+    {
+        "type": "message",
+        "text": "mouth",
+        "user": "U15HRTAHL",
+        "ts": "1462383905.000180"
+    },
+    {
+        "type": "message",
+        "text": "words are 2d",
+        "user": "U15HY5TG8",
+        "ts": "1462383911.000181"
+    },
+    {
+        "type": "message",
+        "text": "evan your face will be 2d on the pavement",
+        "user": "U15HRTAHL",
+        "ts": "1462383925.000182"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: --",
+        "user": "U15HRTAHL",
+        "ts": "1462383931.000183"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F165YFB7B",
+                "created": 1462383934,
+                "timestamp": 1462383934,
+                "name": "troller.png",
+                "title": "troller.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 35286,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F165YFB7B\/troller.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F165YFB7B\/download\/troller.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165YFB7B-aae1fe9715\/troller_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165YFB7B-aae1fe9715\/troller_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165YFB7B-aae1fe9715\/troller_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 271,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165YFB7B-aae1fe9715\/troller_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 361,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165YFB7B-aae1fe9715\/troller_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 500,
+                "original_h": 376,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F165YFB7B\/troller.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F165YFB7B-d1d56b6274",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1462383940.000184"
+    },
+    {
+        "type": "message",
+        "text": "I don't owe you shit for adding me back to the slack team you childishly keep removing me from",
+        "user": "U15J5H60P",
+        "ts": "1462383965.000185"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HRTAHL",
+        "ts": "1462383973.000186"
+    },
+    {
+        "type": "message",
+        "text": "can we just get through this",
+        "user": "U15HZ01QX",
+        "ts": "1462383985.000187"
+    },
+    {
+        "type": "message",
+        "text": "its not that hard",
+        "user": "U15HZ01QX",
+        "ts": "1462383992.000188"
+    },
+    {
+        "type": "message",
+        "text": "Once again",
+        "user": "U15HRTAHL",
+        "ts": "1462384002.000189"
+    },
+    {
+        "type": "message",
+        "text": "I never said you owe me",
+        "user": "U15HRTAHL",
+        "ts": "1462384007.000190"
+    },
+    {
+        "type": "message",
+        "text": "so",
+        "user": "U15HRTAHL",
+        "ts": "1462384008.000191"
+    },
+    {
+        "type": "message",
+        "text": "stop",
+        "user": "U15HRTAHL",
+        "ts": "1462384009.000192"
+    },
+    {
+        "type": "message",
+        "text": "putting",
+        "user": "U15HRTAHL",
+        "ts": "1462384010.000193"
+    },
+    {
+        "type": "message",
+        "text": "words",
+        "user": "U15HRTAHL",
+        "ts": "1462384011.000194"
+    },
+    {
+        "type": "message",
+        "text": "in",
+        "user": "U15HRTAHL",
+        "ts": "1462384011.000195"
+    },
+    {
+        "type": "message",
+        "text": "my",
+        "user": "U15HRTAHL",
+        "ts": "1462384012.000196"
+    },
+    {
+        "type": "message",
+        "text": "mouth",
+        "user": "U15HRTAHL",
+        "ts": "1462384013.000197"
+    },
+    {
+        "type": "message",
+        "text": "Then stop acting like adding me to the team matters",
+        "user": "U15J5H60P",
+        "ts": "1462384024.000200"
+    },
+    {
+        "type": "message",
+        "text": "I’m just saying you’re being a bitch",
+        "user": "U15HRTAHL",
+        "ts": "1462384033.000201"
+    },
+    {
+        "type": "message",
+        "text": "Why do you keep bringing it up?",
+        "user": "U15J5H60P",
+        "ts": "1462384034.000202"
+    },
+    {
+        "type": "message",
+        "text": "thats all",
+        "user": "U15HRTAHL",
+        "ts": "1462384034.000203"
+    },
+    {
+        "type": "message",
+        "text": "thats it",
+        "user": "U15HY5TG8",
+        "ts": "1462384043.000204"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HZ01QX",
+        "ts": "1462384045.000205"
+    },
+    {
+        "type": "message",
+        "text": "And you adding me to the team matters how?",
+        "user": "U15J5H60P",
+        "ts": "1462384055.000206"
+    },
+    {
+        "type": "message",
+        "text": "you guys either need to shoot the fair one or shut the fuck up",
+        "user": "U15HZ01QX",
+        "ts": "1462384060.000207"
+    },
+    {
+        "type": "message",
+        "text": "this is dumb as shit",
+        "user": "U15HZ01QX",
+        "ts": "1462384066.000208"
+    },
+    {
+        "type": "message",
+        "text": "im done",
+        "user": "U15HRTAHL",
+        "ts": "1462384070.000209"
+    },
+    {
+        "type": "message",
+        "text": "Good",
+        "user": "U15J5H60P",
+        "ts": "1462384073.000210"
+    },
+    {
+        "type": "message",
+        "text": "can we agree on the all admin lifestyle and if not then why not?",
+        "user": "U15HZ01QX",
+        "ts": "1462384086.000211"
+    },
+    {
+        "type": "message",
+        "text": "I agree",
+        "user": "U15HRTAHL",
+        "ts": "1462384092.000212"
+    },
+    {
+        "type": "message",
+        "text": "thats the only question",
+        "user": "U15HZ01QX",
+        "ts": "1462384092.000213"
+    },
+    {
+        "type": "message",
+        "text": "evan i need you to focus up",
+        "user": "U15HZ01QX",
+        "ts": "1462384108.000216"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F165JL7PE",
+                "created": 1462384107,
+                "timestamp": 1462384107,
+                "name": "Pasted image at 2016_05_04 12_48 PM.png",
+                "title": "Pasted image at 2016-05-04, 12:48 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 287846,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F165JL7PE\/pasted_image_at_2016_05_04_12_48_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F165JL7PE\/download\/pasted_image_at_2016_05_04_12_48_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165JL7PE-d8ca32dd3d\/pasted_image_at_2016_05_04_12_48_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165JL7PE-d8ca32dd3d\/pasted_image_at_2016_05_04_12_48_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165JL7PE-d8ca32dd3d\/pasted_image_at_2016_05_04_12_48_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 258,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165JL7PE-d8ca32dd3d\/pasted_image_at_2016_05_04_12_48_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 345,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165JL7PE-d8ca32dd3d\/pasted_image_at_2016_05_04_12_48_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 500,
+                "original_h": 359,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F165JL7PE\/pasted_image_at_2016_05_04_12_48_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F165JL7PE-c79c401807",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1462384110.000217"
+    },
+    {
+        "type": "message",
+        "text": "im sorry i cant",
+        "user": "U15HY5TG8",
+        "ts": "1462384122.000218"
+    },
+    {
+        "type": "message",
+        "text": "can you agree to the rule proposal?",
+        "user": "U15HZ01QX",
+        "ts": "1462384136.000219"
+    },
+    {
+        "type": "message",
+        "text": "I will not be here if we are all admin. There is a clear problem with everyone being an admin",
+        "user": "U15J5H60P",
+        "ts": "1462384147.000220"
+    },
+    {
+        "type": "message",
+        "text": "which is what?",
+        "user": "U15HZ01QX",
+        "ts": "1462384156.000221"
+    },
+    {
+        "type": "message",
+        "text": "ill be admin",
+        "user": "U15HY5TG8",
+        "ts": "1462384159.000222"
+    },
+    {
+        "type": "message",
+        "text": "Which was one of the reasons we tried leaving iMessage in the first place",
+        "user": "U15J5H60P",
+        "ts": "1462384168.000223"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HZ01QX",
+        "ts": "1462384174.000224"
+    },
+    {
+        "type": "message",
+        "text": "Because people kept kicking ",
+        "user": "U15J5H60P",
+        "ts": "1462384177.000225"
+    },
+    {
+        "type": "message",
+        "text": "but we didn't vote in imessage",
+        "user": "U15HZ01QX",
+        "ts": "1462384183.000226"
+    },
+    {
+        "type": "message",
+        "text": "We shouldn't be voting at all",
+        "user": "U15J5H60P",
+        "ts": "1462384201.000227"
+    },
+    {
+        "type": "message",
+        "text": "Voting works in very large groups",
+        "user": "U15J5H60P",
+        "ts": "1462384213.000228"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462384237.000229",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HY5TG8",
+        "ts": "1462384239.000230"
+    },
+    {
+        "type": "message",
+        "text": "It isn't working here. We need a leader to veto shit ideas and decisions",
+        "user": "U15J5H60P",
+        "ts": "1462384240.000231"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462384245.000232",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "i step forward as leader",
+        "user": "U15HY5TG8",
+        "ts": "1462384256.000233"
+    },
+    {
+        "type": "message",
+        "text": "But there's accountability",
+        "user": "U15HZ01QX",
+        "ts": "1462384257.000234"
+    },
+    {
+        "type": "message",
+        "text": "Ok let's do this",
+        "user": "U15HZ01QX",
+        "ts": "1462384275.000235"
+    },
+    {
+        "type": "message",
+        "text": "Like james said, random you can leave. I voted. I have no reason to be here is over",
+        "user": "U15HRTAHL",
+        "ts": "1462384276.000236",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1462384284.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Everyone can admin",
+        "user": "U15HZ01QX",
+        "ts": "1462384281.000237"
+    },
+    {
+        "type": "message",
+        "text": "I'll turn off kicking rights for admins and leave it to me",
+        "user": "U15HZ01QX",
+        "ts": "1462384309.000239"
+    },
+    {
+        "type": "message",
+        "text": "That's why subreddits have mods ",
+        "user": "U15J5H60P",
+        "ts": "1462384320.000240"
+    },
+    {
+        "type": "message",
+        "text": "What's the point of being admin?",
+        "user": "U15J5H60P",
+        "ts": "1462384330.000241"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462384332.000242",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462384340.000243",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "There's a list of permissions",
+        "user": "U15HZ01QX",
+        "ts": "1462384345.000244"
+    },
+    {
+        "type": "message",
+        "text": "evan stop adding me",
+        "user": "U15HRTAHL",
+        "ts": "1462384355.000245"
+    },
+    {
+        "type": "message",
+        "text": "who says its me?",
+        "user": "U15HY5TG8",
+        "ts": "1462384362.000246"
+    },
+    {
+        "type": "message",
+        "text": "It said “You were joined to random by invitiation\"",
+        "user": "U15HRTAHL",
+        "ts": "1462384376.000247"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462384381.000248",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462384392.000249",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Right. What special permissions do you get as admin",
+        "user": "U15J5H60P",
+        "ts": "1462384401.000250"
+    },
+    {
+        "type": "message",
+        "text": "Change team settings",
+        "user": "U15J5H60P",
+        "ts": "1462384418.000251"
+    },
+    {
+        "type": "message",
+        "text": "You can change it so no one can kick",
+        "user": "U15J5H60P",
+        "ts": "1462384427.000252"
+    },
+    {
+        "type": "message",
+        "text": "But an admin can go and change it back",
+        "user": "U15J5H60P",
+        "ts": "1462384444.000253"
+    },
+    {
+        "type": "message",
+        "text": "There's no reason everyone needs admin rights",
+        "user": "U15J5H60P",
+        "ts": "1462384465.000254"
+    },
+    {
+        "type": "message",
+        "text": "As a standard user you can still add apps i believe",
+        "user": "U15J5H60P",
+        "ts": "1462384482.000255"
+    },
+    {
+        "type": "message",
+        "text": "That's what it was on the old channel",
+        "user": "U15J5H60P",
+        "ts": "1462384494.000256"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462384522.000257",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Everyone having admin rights is to even it out",
+        "user": "U15HZ01QX",
+        "ts": "1462384553.000258"
+    },
+    {
+        "type": "message",
+        "text": "we all became admin cause you diabled plusplus",
+        "user": "U15HY5TG8",
+        "ts": "1462384558.000259"
+    },
+    {
+        "type": "message",
+        "text": "That too",
+        "user": "U15HZ01QX",
+        "ts": "1462384567.000260"
+    },
+    {
+        "type": "message",
+        "text": "disabled",
+        "user": "U15HY5TG8",
+        "ts": "1462384569.000261"
+    },
+    {
+        "type": "message",
+        "text": "James, you're leading a failed revolution. Its  going to turn exactly into the old chat. There's purpose in moderation. I disabled plus plus because it was turning into something stupid. And it still is stupid. It did nothing but create drama. ",
+        "user": "U15J5H60P",
+        "ts": "1462384623.000262"
+    },
+    {
+        "type": "message",
+        "text": "This seems inconsequential to you. There's no downside for you either way",
+        "user": "U15HZ01QX",
+        "ts": "1462384637.000263"
+    },
+    {
+        "type": "message",
+        "text": "I also censored the chat but was joking",
+        "user": "U15J5H60P",
+        "ts": "1462384641.000264"
+    },
+    {
+        "type": "message",
+        "text": "I'm not leading shit",
+        "user": "U15HZ01QX",
+        "ts": "1462384641.000265"
+    },
+    {
+        "type": "message",
+        "text": "There is",
+        "user": "U15J5H60P",
+        "ts": "1462384657.000266"
+    },
+    {
+        "type": "message",
+        "text": "I'm going to get kicked again when Joe gets butt hurt",
+        "user": "U15J5H60P",
+        "ts": "1462384669.000267"
+    },
+    {
+        "type": "message",
+        "text": "I'm sick of that shit",
+        "user": "U15J5H60P",
+        "ts": "1462384677.000268"
+    },
+    {
+        "type": "message",
+        "text": "You won't",
+        "user": "U15HZ01QX",
+        "ts": "1462384677.000269"
+    },
+    {
+        "type": "message",
+        "text": "I'll turn it off",
+        "user": "U15HZ01QX",
+        "ts": "1462384683.000270"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1462384687.000271"
+    },
+    {
+        "type": "message",
+        "text": "Deal",
+        "user": "U15HZ01QX",
+        "ts": "1462384689.000272"
+    },
+    {
+        "type": "message",
+        "text": "He can go in and turn it on",
+        "user": "U15J5H60P",
+        "ts": "1462384692.000273"
+    },
+    {
+        "type": "message",
+        "text": "Because hes an admin",
+        "user": "U15J5H60P",
+        "ts": "1462384697.000274"
+    },
+    {
+        "type": "message",
+        "text": "You're missing that part ",
+        "user": "U15J5H60P",
+        "ts": "1462384703.000275"
+    },
+    {
+        "type": "message",
+        "text": "Admins get the ability to change permissions ",
+        "user": "U15J5H60P",
+        "ts": "1462384719.000276"
+    },
+    {
+        "type": "message",
+        "text": "Literally anything you do can be changed by anyone if everyone is an admin",
+        "user": "U15J5H60P",
+        "ts": "1462384739.000277"
+    },
+    {
+        "type": "message",
+        "text": "Moderation is necessary. ",
+        "user": "U15J5H60P",
+        "ts": "1462384750.000278"
+    },
+    {
+        "type": "message",
+        "text": "doesnt the owner have superior admin rights?",
+        "user": "U15HY5TG8",
+        "ts": "1462384779.000279"
+    },
+    {
+        "type": "message",
+        "text": "I don't think they are sudo users",
+        "user": "U15J5H60P",
+        "ts": "1462384803.000280"
+    },
+    {
+        "type": "message",
+        "text": "ahh",
+        "user": "U15HY5TG8",
+        "ts": "1462384817.000281"
+    },
+    {
+        "type": "message",
+        "text": "if only slack had an option if any administrative permissions were going to be changed all the admins had to agree",
+        "user": "U15HSHSS2",
+        "ts": "1462384840.000282"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1462384851.000283"
+    },
+    {
+        "type": "message",
+        "text": "democracy",
+        "user": "U15HSHSS2",
+        "ts": "1462384873.000284"
+    },
+    {
+        "type": "message",
+        "text": "In democracy there is a leader for a reason",
+        "user": "U15J5H60P",
+        "ts": "1462384896.000285"
+    },
+    {
+        "type": "message",
+        "text": "The leader listens to the votes and a ts accordingly ",
+        "user": "U15J5H60P",
+        "ts": "1462384913.000286"
+    },
+    {
+        "type": "message",
+        "text": "Unless the leader truly believes the decision is detrimental to the nation",
+        "user": "U15J5H60P",
+        "ts": "1462384942.000287"
+    },
+    {
+        "type": "message",
+        "text": "which im fine with, but then who gets to be the leader",
+        "user": "U15HSHSS2",
+        "ts": "1462384943.000288"
+    },
+    {
+        "type": "message",
+        "text": "Let's go back to uwmke and I'll lead fairly.",
+        "user": "U15J5H60P",
+        "ts": "1462384969.000289"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1462384973.000290"
+    },
+    {
+        "type": "message",
+        "text": "Well the group voted that everyone gets admin rights. We can strip them for breaking rules but that's the extent",
+        "user": "U15HZ01QX",
+        "ts": "1462384975.000291"
+    },
+    {
+        "type": "message",
+        "text": "im sure james or evan would be just as fair of a leader",
+        "user": "U15HSHSS2",
+        "ts": "1462385010.000292"
+    },
+    {
+        "type": "message",
+        "text": "however i could be persuaded...",
+        "user": "U15HSHSS2",
+        "ts": "1462385023.000293"
+    },
+    {
+        "type": "message",
+        "text": "So I guess you can just trust that it's gonna go fairly or you don't have to participate but I'm keeping you in the slack for when you want it",
+        "user": "U15HZ01QX",
+        "ts": "1462385037.000294"
+    },
+    {
+        "type": "message",
+        "text": "James",
+        "user": "U15J5H60P",
+        "ts": "1462385059.000295"
+    },
+    {
+        "type": "message",
+        "text": "You asked for my input and now you're just going your own way",
+        "user": "U15J5H60P",
+        "ts": "1462385071.000296"
+    },
+    {
+        "type": "message",
+        "text": "That makes no sense",
+        "user": "U15J5H60P",
+        "ts": "1462385077.000297"
+    },
+    {
+        "type": "message",
+        "text": "What???",
+        "user": "U15HZ01QX",
+        "ts": "1462385080.000298"
+    },
+    {
+        "type": "message",
+        "text": "i volunteer as leader",
+        "user": "U15HY5TG8",
+        "ts": "1462385094.000299"
+    },
+    {
+        "type": "message",
+        "text": "Your way is take away everyone's admin rights??",
+        "user": "U15HZ01QX",
+        "ts": "1462385097.000300"
+    },
+    {
+        "type": "message",
+        "text": "That's not my way that's what the group wanted",
+        "user": "U15HZ01QX",
+        "ts": "1462385114.000301"
+    },
+    {
+        "type": "message",
+        "text": "I just wrote out my argument and you just told me to forget about it and we're sticking with what's obviously not working ",
+        "user": "U15J5H60P",
+        "ts": "1462385124.000302"
+    },
+    {
+        "type": "message",
+        "text": "alright all the candiates who want to be elected need to come up with a campaign and convince the rest of us why they should be elected",
+        "user": "U15HSHSS2",
+        "ts": "1462385134.000303"
+    },
+    {
+        "type": "message",
+        "text": "Tommy and Evan both agree that we need a leader",
+        "user": "U15J5H60P",
+        "ts": "1462385160.000304"
+    },
+    {
+        "type": "message",
+        "text": "I'll be the leader",
+        "user": "U15HZ01QX",
+        "ts": "1462385173.000305"
+    },
+    {
+        "type": "message",
+        "text": "Everyone ok with that",
+        "user": "U15HZ01QX",
+        "ts": "1462385178.000306"
+    },
+    {
+        "type": "message",
+        "text": "We need to strip all admin rights and give admin rights to one person ",
+        "user": "U15J5H60P",
+        "ts": "1462385178.000307"
+    },
+    {
+        "type": "message",
+        "text": "Im not saying we need a leader, just that i am not opposed to the idea",
+        "user": "U15HSHSS2",
+        "ts": "1462385186.000308"
+    },
+    {
+        "type": "message",
+        "text": "To moderate the team",
+        "user": "U15J5H60P",
+        "ts": "1462385189.000309"
+    },
+    {
+        "type": "message",
+        "text": "its all up for discussion",
+        "user": "U15HSHSS2",
+        "ts": "1462385192.000310"
+    },
+    {
+        "type": "message",
+        "text": "Do you agree that the current system isn't working?",
+        "user": "U15J5H60P",
+        "ts": "1462385207.000311"
+    },
+    {
+        "type": "message",
+        "text": "I think you and joe arguing isn't a basis for the whole group",
+        "user": "U15HZ01QX",
+        "ts": "1462385225.000312"
+    },
+    {
+        "type": "message",
+        "text": "quite funny though",
+        "user": "U15HY5TG8",
+        "ts": "1462385234.000313"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HZ01QX",
+        "ts": "1462385239.000314"
+    },
+    {
+        "type": "message",
+        "text": "Joe was kicking me",
+        "user": "U15J5H60P",
+        "ts": "1462385239.000315"
+    },
+    {
+        "type": "message",
+        "text": "ill say that things deffiently started out rocky",
+        "user": "U15HSHSS2",
+        "ts": "1462385239.000316"
+    },
+    {
+        "type": "message",
+        "text": "they seem to be getting better",
+        "user": "U15HSHSS2",
+        "ts": "1462385248.000317"
+    },
+    {
+        "type": "message",
+        "text": "Joe will not kick you anymore",
+        "user": "U15HZ01QX",
+        "ts": "1462385250.000318"
+    },
+    {
+        "type": "message",
+        "text": "Then I was removed from general ",
+        "user": "U15J5H60P",
+        "ts": "1462385251.000319"
+    },
+    {
+        "type": "message",
+        "text": "but who knows if that will last",
+        "user": "U15HSHSS2",
+        "ts": "1462385253.000320"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462385257.000321"
+    },
+    {
+        "type": "message",
+        "text": "I'll put you in general right after lunch",
+        "user": "U15HZ01QX",
+        "ts": "1462385262.000322"
+    },
+    {
+        "type": "message",
+        "text": "You can say that all you want but we all know he will in a month",
+        "user": "U15J5H60P",
+        "ts": "1462385267.000323"
+    },
+    {
+        "type": "message",
+        "text": "Leader James comes through",
+        "user": "U15HZ01QX",
+        "ts": "1462385268.000324"
+    },
+    {
+        "type": "message",
+        "text": "No he won't",
+        "user": "U15HZ01QX",
+        "ts": "1462385274.000325"
+    },
+    {
+        "type": "message",
+        "text": "pretty sure james is sudo",
+        "user": "U15HY5TG8",
+        "ts": "1462385279.000326"
+    },
+    {
+        "type": "message",
+        "text": "You can't use prediction as fact",
+        "user": "U15HZ01QX",
+        "ts": "1462385296.000327"
+    },
+    {
+        "type": "message",
+        "text": "Joe isn't sorry for kicking you but he won't anymore",
+        "user": "U15HZ01QX",
+        "ts": "1462385314.000328"
+    },
+    {
+        "type": "message",
+        "text": "Nor Evan",
+        "user": "U15HZ01QX",
+        "ts": "1462385332.000329"
+    },
+    {
+        "type": "message",
+        "text": "Or me",
+        "user": "U15HZ01QX",
+        "ts": "1462385334.000330"
+    },
+    {
+        "type": "message",
+        "text": "Or Tommy",
+        "user": "U15HZ01QX",
+        "ts": "1462385336.000331"
+    },
+    {
+        "type": "message",
+        "text": "Or you",
+        "user": "U15HZ01QX",
+        "ts": "1462385338.000332"
+    },
+    {
+        "type": "message",
+        "text": "I want to prevent the inevitable. Would the US work if everyone was a senator?",
+        "user": "U15J5H60P",
+        "ts": "1462385339.000333"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1462385345.000334"
+    },
+    {
+        "type": "message",
+        "text": "Or governer",
+        "user": "U15J5H60P",
+        "ts": "1462385356.000335",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1462385365.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1462385360.000336"
+    },
+    {
+        "type": "message",
+        "text": "You can't guess what's inevitable ",
+        "user": "U15HZ01QX",
+        "ts": "1462385370.000338"
+    },
+    {
+        "type": "message",
+        "text": "Fine. Prevent bad things from happening. They've happened once so we need to change to prevent them in the future.",
+        "user": "U15J5H60P",
+        "ts": "1462385412.000339"
+    },
+    {
+        "type": "message",
+        "text": "That's why I'm the new leader",
+        "user": "U15HZ01QX",
+        "ts": "1462385428.000340"
+    },
+    {
+        "type": "message",
+        "text": "I've gotta sign a lease. I'll pick back up after.",
+        "user": "U15J5H60P",
+        "ts": "1462385428.000341"
+    },
+    {
+        "type": "message",
+        "text": "there's a diffrence between guessing the inevitable and foreseeing things happening in the future.  I can see where andrew is coming from. theres no easy solution to this problem",
+        "user": "U15HSHSS2",
+        "ts": "1462385459.000342"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462385474.000343",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "I'll set some ground rules after lunch",
+        "user": "U15HZ01QX",
+        "ts": "1462385479.000344"
+    },
+    {
+        "type": "message",
+        "text": "are we losing admin rights yes or no",
+        "user": "U15HRTAHL",
+        "ts": "1462385484.000345"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: I won’t kick you anymore",
+        "user": "U15HRTAHL",
+        "ts": "1462385504.000346"
+    },
+    {
+        "type": "message",
+        "text": "but there were 0 complaints about me kicking you",
+        "user": "U15HRTAHL",
+        "ts": "1462385512.000347"
+    },
+    {
+        "type": "message",
+        "text": "No, we're gonna set up some rules about kicking and whatnot with punishments",
+        "user": "U15HZ01QX",
+        "ts": "1462385518.000348"
+    },
+    {
+        "type": "message",
+        "text": "I will not kick",
+        "user": "U15HRTAHL",
+        "ts": "1462385524.000349"
+    },
+    {
+        "type": "message",
+        "text": "I do want one rule in affect though. When someone leaves, don’t add them back",
+        "user": "U15HRTAHL",
+        "ts": "1462385548.000350"
+    },
+    {
+        "type": "message",
+        "text": "is that reasonable?",
+        "user": "U15HRTAHL",
+        "ts": "1462385556.000351"
+    },
+    {
+        "type": "message",
+        "text": "That's going into place too",
+        "user": "U15HZ01QX",
+        "ts": "1462385560.000352"
+    },
+    {
+        "type": "message",
+        "text": "sweet",
+        "user": "U15HRTAHL",
+        "ts": "1462385562.000353"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1462385584.000354"
+    },
+    {
+        "type": "message",
+        "text": "Also we're gonna have a vote on Evans name",
+        "user": "U15HZ01QX",
+        "ts": "1462385604.000355"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1462385610.000356"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1462385612.000357"
+    },
+    {
+        "type": "message",
+        "text": "you cant change my name",
+        "user": "U15HY5TG8",
+        "ts": "1462385623.000358"
+    },
+    {
+        "type": "message",
+        "text": "James can",
+        "user": "U15HRTAHL",
+        "ts": "1462385626.000359"
+    },
+    {
+        "type": "message",
+        "text": "Cuz that shit isn't working out",
+        "user": "U15HZ01QX",
+        "ts": "1462385627.000360"
+    },
+    {
+        "type": "message",
+        "text": "he’s prez",
+        "user": "U15HRTAHL",
+        "ts": "1462385628.000361"
+    },
+    {
+        "type": "message",
+        "text": "only for a couple more months",
+        "user": "U15HRTAHL",
+        "ts": "1462385634.000362"
+    },
+    {
+        "type": "message",
+        "text": "then the black prez leaves",
+        "user": "U15HRTAHL",
+        "ts": "1462385638.000363",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1462385643.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "i think its working out fine",
+        "user": "U15HY5TG8",
+        "ts": "1462385645.000365"
+    },
+    {
+        "type": "message",
+        "text": "It's an eyesore ",
+        "user": "U15HZ01QX",
+        "ts": "1462385657.000366"
+    },
+    {
+        "type": "message",
+        "text": "so is two names",
+        "user": "U15HY5TG8",
+        "ts": "1462385666.000367"
+    },
+    {
+        "type": "message",
+        "text": "actually evan",
+        "user": "U15HRTAHL",
+        "ts": "1462385676.000368"
+    },
+    {
+        "type": "message",
+        "text": "Edwards is plural",
+        "user": "U15HRTAHL",
+        "ts": "1462385680.000369"
+    },
+    {
+        "type": "message",
+        "text": "its infinite names",
+        "user": "U15HRTAHL",
+        "ts": "1462385684.000370"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: --",
+        "user": "U15HY5TG8",
+        "ts": "1462385692.000371"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462385698.000372",
+        "text": "<@U15GJQVMZ> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "Evan you need to remove 6 e's",
+        "user": "U15HZ01QX",
+        "ts": "1462385700.000373"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: --",
+        "user": "U15HY5TG8",
+        "ts": "1462385703.000374"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch! [<@U15HRTAHL>--, now at <https:\/\/plusplus.chat\/t\/freeuwmke\/action\/311990|-38 points>] ",
+        "ts": "1462385703.000375",
+        "username": "PlusPlus",
+        "icons": {
+            "image_48": "https:\/\/s3-us-west-2.amazonaws.com\/slack-files2\/bot_icons\/2016-05-02\/39612639333_48.png"
+        },
+        "bot_id": "B15GJQVM1"
+    },
+    {
+        "type": "message",
+        "text": "And that's gonna be my vote",
+        "user": "U15HZ01QX",
+        "ts": "1462385708.000376"
+    },
+    {
+        "type": "message",
+        "text": "was that really called for",
+        "user": "U15HRTAHL",
+        "ts": "1462385711.000377"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1462385720.000378"
+    },
+    {
+        "user": "U15GJQVMZ",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462385724.000379",
+        "text": "<@U15GJQVMZ> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Sure, evan can be a troll",
+        "user": "U15HRTAHL",
+        "ts": "1462385728.000380"
+    },
+    {
+        "type": "message",
+        "text": "but Joe does it",
+        "user": "U15HRTAHL",
+        "ts": "1462385730.000381"
+    },
+    {
+        "type": "message",
+        "text": "and he’s downvoted",
+        "user": "U15HRTAHL",
+        "ts": "1462385733.000382"
+    },
+    {
+        "type": "message",
+        "text": "i have no voice here lol thats why i get away with it",
+        "user": "U15HY5TG8",
+        "ts": "1462385742.000383"
+    },
+    {
+        "type": "message",
+        "text": "evan lost my vote for ever being president",
+        "user": "U15HRTAHL",
+        "ts": "1462385750.000384"
+    },
+    {
+        "type": "message",
+        "text": "i was never considered",
+        "user": "U15HY5TG8",
+        "ts": "1462385759.000385"
+    },
+    {
+        "type": "message",
+        "text": "Cuz whenever we have serious talks you fuck around <@U15HY5TG8> ",
+        "user": "U15HZ01QX",
+        "ts": "1462385767.000386"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HY5TG8",
+        "ts": "1462385775.000387"
+    },
+    {
+        "type": "message",
+        "text": "lol your taking over as our new and fair leader and your first proposal is to force evan to change is name",
+        "user": "U15HSHSS2",
+        "ts": "1462385785.000388"
+    },
+    {
+        "type": "message",
+        "text": "I like it",
+        "user": "U15HRTAHL",
+        "ts": "1462385793.000389"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1462385795.000390"
+    },
+    {
+        "type": "message",
+        "text": "3rd proposal lol",
+        "user": "U15HZ01QX",
+        "ts": "1462385796.000391"
+    },
+    {
+        "type": "message",
+        "text": "conformity",
+        "user": "U15HRTAHL",
+        "ts": "1462385803.000392"
+    },
+    {
+        "type": "message",
+        "text": "James when does the wall get built?",
+        "user": "U15HRTAHL",
+        "ts": "1462385812.000393"
+    },
+    {
+        "type": "message",
+        "text": "germany 1941",
+        "user": "U15HY5TG8",
+        "ts": "1462385814.000394"
+    },
+    {
+        "type": "message",
+        "text": "My leadership is about the good of the group",
+        "user": "U15HZ01QX",
+        "ts": "1462385819.000395"
+    },
+    {
+        "type": "message",
+        "text": "so was hitlers",
+        "user": "U15HY5TG8",
+        "ts": "1462385827.000396"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HZ01QX",
+        "ts": "1462385831.000397"
+    },
+    {
+        "type": "message",
+        "text": "Hey I voted for tom initially",
+        "user": "U15HRTAHL",
+        "ts": "1462385835.000398"
+    },
+    {
+        "type": "message",
+        "text": "all you suckas didn’t listen",
+        "user": "U15HRTAHL",
+        "ts": "1462385845.000399"
+    },
+    {
+        "type": "message",
+        "text": "but you did take my pres idea",
+        "user": "U15HRTAHL",
+        "ts": "1462385851.000400"
+    },
+    {
+        "type": "message",
+        "text": "so did i",
+        "user": "U15HY5TG8",
+        "ts": "1462385852.000401"
+    },
+    {
+        "type": "message",
+        "text": "make slack great again",
+        "user": "U15HSHSS2",
+        "ts": "1462385853.000402"
+    },
+    {
+        "type": "message",
+        "text": "which is good",
+        "user": "U15HRTAHL",
+        "ts": "1462385855.000403"
+    },
+    {
+        "type": "message",
+        "text": "just downloaded the lulzsec theme song lol",
+        "user": "U15HY5TG8",
+        "ts": "1462385935.000404"
+    },
+    {
+        "type": "message",
+        "text": "<#C15UXE7PF>",
+        "user": "U15HRTAHL",
+        "ts": "1462385952.000405"
+    },
+    {
+        "type": "message",
+        "text": "sorry",
+        "user": "U15HY5TG8",
+        "ts": "1462385965.000406"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: what determines if a new channel is added?",
+        "user": "U15HRTAHL",
+        "ts": "1462385973.000407"
+    },
+    {
+        "type": "message",
+        "text": "I say whenever we make a final decision on whats happening we purge this whole slack team and start over again",
+        "user": "U15HSHSS2",
+        "ts": "1462385977.000408"
+    },
+    {
+        "type": "message",
+        "text": "are there requirements to “statehood\"",
+        "user": "U15HRTAHL",
+        "ts": "1462385983.000409"
+    },
+    {
+        "type": "message",
+        "text": "new president each time?",
+        "user": "U15HRTAHL",
+        "ts": "1462385997.000410"
+    },
+    {
+        "type": "message",
+        "text": "lol yeah",
+        "user": "U15HSHSS2",
+        "ts": "1462386005.000411"
+    },
+    {
+        "type": "message",
+        "text": "I always vote for tommy",
+        "user": "U15HRTAHL",
+        "ts": "1462386014.000412"
+    },
+    {
+        "type": "message",
+        "text": "lol im legitimately stuck with the \"Hillary4Prison\" channel and it says i have new messages in it and i cant leave it",
+        "user": "U15HSHSS2",
+        "ts": "1462386047.000413"
+    },
+    {
+        "type": "message",
+        "text": "lol that channel was archived like 3 days ago",
+        "user": "U15HY5TG8",
+        "ts": "1462386067.000414"
+    },
+    {
+        "type": "message",
+        "text": "you can thank your budzy for that",
+        "user": "U15HRTAHL",
+        "ts": "1462386068.000415"
+    },
+    {
+        "type": "message",
+        "text": "lol so do all you guys still have it on your side bar?",
+        "user": "U15HSHSS2",
+        "ts": "1462386096.000416"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1462386102.000417"
+    },
+    {
+        "type": "message",
+        "text": "its gone",
+        "user": "U15HRTAHL",
+        "ts": "1462386104.000418"
+    },
+    {
+        "type": "message",
+        "text": "da fuck",
+        "user": "U15HSHSS2",
+        "ts": "1462386107.000419"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15HY5TG8",
+        "ts": "1462386108.000420"
+    },
+    {
+        "type": "message",
+        "text": "here let me try this",
+        "user": "U15HRTAHL",
+        "ts": "1462386115.000421"
+    },
+    {
+        "type": "message",
+        "text": "are you still there",
+        "user": "U15HRTAHL",
+        "ts": "1462386152.000422"
+    },
+    {
+        "type": "message",
+        "text": "haha i have an idea about how we can make this fair",
+        "user": "U15HSHSS2",
+        "ts": "1462386156.000423"
+    },
+    {
+        "type": "message",
+        "text": "whats that",
+        "user": "U15HRTAHL",
+        "ts": "1462386162.000424"
+    },
+    {
+        "type": "message",
+        "text": "ill wait for andrew to get back",
+        "user": "U15HSHSS2",
+        "ts": "1462386175.000425"
+    },
+    {
+        "type": "message",
+        "text": "it could actually work though",
+        "user": "U15HSHSS2",
+        "ts": "1462386185.000426"
+    },
+    {
+        "type": "message",
+        "text": "are you still in that channel",
+        "user": "U15HRTAHL",
+        "ts": "1462386186.000427"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1462386190.000428"
+    },
+    {
+        "type": "message",
+        "text": "seriously",
+        "user": "U15HRTAHL",
+        "ts": "1462386197.000429"
+    },
+    {
+        "type": "message",
+        "text": "alright let me trying something again",
+        "user": "U15HRTAHL",
+        "ts": "1462386202.000430"
+    },
+    {
+        "type": "message",
+        "text": "its gone!",
+        "user": "U15HSHSS2",
+        "ts": "1462386212.000431"
+    },
+    {
+        "type": "message",
+        "text": "woo!",
+        "user": "U15HSHSS2",
+        "ts": "1462386213.000432"
+    },
+    {
+        "type": "message",
+        "text": ":disappointed:",
+        "user": "U15HRTAHL",
+        "ts": "1462386227.000433"
+    },
+    {
+        "type": "message",
+        "text": "I just remade it",
+        "user": "U15HRTAHL",
+        "ts": "1462386231.000434"
+    },
+    {
+        "type": "message",
+        "text": "aight we good",
+        "user": "U15HSHSS2",
+        "ts": "1462386259.000435"
+    },
+    {
+        "type": "message",
+        "text": "While I'm interm president I'm gonna make a survey ballot with all relevant proposals on it. ",
+        "user": "U15HZ01QX",
+        "ts": "1462386369.000436"
+    },
+    {
+        "type": "message",
+        "text": "So if you guys have proposals let me know ill put them on there",
+        "user": "U15HZ01QX",
+        "ts": "1462386391.000437"
+    },
+    {
+        "type": "message",
+        "text": "what form of punishments are there",
+        "user": "U15HRTAHL",
+        "ts": "1462386417.000438"
+    },
+    {
+        "type": "message",
+        "text": "This is the dumbest shit ever",
+        "user": "U15J5H60P",
+        "ts": "1462386444.000439"
+    },
+    {
+        "type": "message",
+        "text": "We are doing all of this for a fucking group chat",
+        "user": "U15J5H60P",
+        "ts": "1462386456.000440"
+    },
+    {
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HSHSS2",
+        "ts": "1462386464.000441"
+    },
+    {
+        "type": "message",
+        "text": "I was gonna come up with some like loss of admin rights",
+        "user": "U15HZ01QX",
+        "ts": "1462386467.000442"
+    },
+    {
+        "type": "message",
+        "text": "tommy: whats your idea",
+        "user": "U15HRTAHL",
+        "ts": "1462386478.000443"
+    },
+    {
+        "type": "message",
+        "text": "Fucking unbelievable ",
+        "user": "U15J5H60P",
+        "ts": "1462386479.000444"
+    },
+    {
+        "type": "message",
+        "text": "now that princess charming is back",
+        "user": "U15HRTAHL",
+        "ts": "1462386484.000445"
+    },
+    {
+        "type": "message",
+        "text": "This sounds like me when you guys wanted to move to slack <https:\/\/freeuwmke.slack.com\/archives\/random\/p1462386444000439>",
+        "user": "U15HZ01QX",
+        "ts": "1462386496.000446",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/random\/p1462386444000439",
+                "fallback": "[May 4th, 2016 11:27 AM] andrew: This is the dumbest shit ever",
+                "author_subname": "andrew",
+                "ts": "1462386444.000439",
+                "text": "This is the dumbest shit ever",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/andrew",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-03\/39971243460_f0095f9f23c108782ce4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1462386506.000448"
+    },
+    {
+        "type": "message",
+        "text": "Slack isn't the dumbest shit ever ",
+        "user": "U15J5H60P",
+        "ts": "1462386512.000449"
+    },
+    {
+        "type": "message",
+        "text": "WAR",
+        "user": "U15HY5TG8",
+        "ts": "1462386513.000450"
+    },
+    {
+        "type": "message",
+        "text": "I probably used those exact words",
+        "user": "U15HZ01QX",
+        "ts": "1462386514.000451"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: whats your idea",
+        "user": "U15HRTAHL",
+        "ts": "1462386522.000452"
+    },
+    {
+        "type": "message",
+        "text": "Slack got us here",
+        "user": "U15HZ01QX",
+        "ts": "1462386530.000453"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>:",
+        "user": "U15HRTAHL",
+        "ts": "1462386532.000454"
+    },
+    {
+        "type": "message",
+        "text": "okay so it all depends how badly we really want this to work lol cuz it will take a little bit of effort from us initally to make this happen",
+        "user": "U15HSHSS2",
+        "ts": "1462386584.000455"
+    },
+    {
+        "type": "message",
+        "text": ":ear::skin-tone-4:",
+        "user": "U15HZ01QX",
+        "ts": "1462386605.000456"
+    },
+    {
+        "type": "message",
+        "text": "but if slack is the service we want to use to communicate and we want to make this whole thing fair then i think this should work",
+        "user": "U15HSHSS2",
+        "ts": "1462386638.000457"
+    },
+    {
+        "type": "message",
+        "text": "spit it out already",
+        "user": "U15HRTAHL",
+        "ts": "1462386647.000458"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1462386650.000459"
+    },
+    {
+        "type": "message",
+        "text": "I think the moral of this story is to never bring up cars in general",
+        "user": "U15HRTAHL",
+        "ts": "1462386692.000460"
+    },
+    {
+        "type": "message",
+        "text": "fuck you",
+        "user": "U15HY5TG8",
+        "ts": "1462386700.000461",
+        "reactions": [
+            {
+                "name": "-1",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lololol",
+        "user": "U15HRTAHL",
+        "ts": "1462386702.000462"
+    },
+    {
+        "type": "message",
+        "text": "im backing out of the lease",
+        "user": "U15HY5TG8",
+        "ts": "1462386710.000463"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1462386714.000464"
+    },
+    {
+        "type": "message",
+        "text": "you  cant",
+        "user": "U15HRTAHL",
+        "ts": "1462386716.000465"
+    },
+    {
+        "type": "message",
+        "text": "you signed it",
+        "user": "U15HRTAHL",
+        "ts": "1462386718.000466"
+    },
+    {
+        "type": "message",
+        "text": "idc",
+        "user": "U15HY5TG8",
+        "ts": "1462386721.000467"
+    },
+    {
+        "type": "message",
+        "text": "you know what",
+        "user": "U15HRTAHL",
+        "ts": "1462386738.000468"
+    },
+    {
+        "type": "message",
+        "text": "that doesn’t affect me at all",
+        "user": "U15HRTAHL",
+        "ts": "1462386743.000469"
+    },
+    {
+        "type": "message",
+        "text": "and there’d be a spare room",
+        "user": "U15HRTAHL",
+        "ts": "1462386751.000470"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1462386757.000471"
+    },
+    {
+        "type": "message",
+        "text": "Toms writing a novel ",
+        "user": "U15HZ01QX",
+        "ts": "1462386767.000472"
+    },
+    {
+        "type": "message",
+        "text": "yeah he is",
+        "user": "U15HRTAHL",
+        "ts": "1462386771.000473"
+    },
+    {
+        "type": "message",
+        "text": "it does affect you",
+        "user": "U15HY5TG8",
+        "ts": "1462386775.000474"
+    },
+    {
+        "type": "message",
+        "text": "how?",
+        "user": "U15HRTAHL",
+        "ts": "1462386778.000475"
+    },
+    {
+        "type": "message",
+        "text": "someones gotta pay the rent",
+        "user": "U15HY5TG8",
+        "ts": "1462386785.000476"
+    },
+    {
+        "type": "message",
+        "text": "aint me",
+        "user": "U15HY5TG8",
+        "ts": "1462386787.000477"
+    },
+    {
+        "type": "message",
+        "text": "yeah you",
+        "user": "U15HRTAHL",
+        "ts": "1462386788.000478"
+    },
+    {
+        "type": "message",
+        "text": "you signed the lease",
+        "user": "U15HRTAHL",
+        "ts": "1462386791.000479"
+    },
+    {
+        "type": "message",
+        "text": "haha not writing a lot just thinking about how to explain it",
+        "user": "U15HSHSS2",
+        "ts": "1462386792.000480"
+    },
+    {
+        "type": "message",
+        "text": "You ass",
+        "user": "U15HZ01QX",
+        "ts": "1462386796.000481"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1462386800.000482"
+    },
+    {
+        "type": "message",
+        "text": "whether or not you live there is your choice lol",
+        "user": "U15HRTAHL",
+        "ts": "1462386804.000483"
+    },
+    {
+        "type": "message",
+        "text": "ill egg your room",
+        "user": "U15HY5TG8",
+        "ts": "1462386812.000484"
+    },
+    {
+        "type": "message",
+        "text": "the LL won’t hunt me down",
+        "user": "U15HRTAHL",
+        "ts": "1462386815.000485"
+    },
+    {
+        "type": "message",
+        "text": "ill cut up your pillows",
+        "user": "U15HY5TG8",
+        "ts": "1462386848.000486"
+    },
+    {
+        "type": "message",
+        "text": "jokes on you, I don’t use pillows",
+        "user": "U15HRTAHL",
+        "ts": "1462386857.000487"
+    },
+    {
+        "type": "message",
+        "text": "ill cut up your mattress",
+        "user": "U15HY5TG8",
+        "ts": "1462386864.000488"
+    },
+    {
+        "type": "message",
+        "text": "jokes on you I sleep on the floor",
+        "user": "U15HRTAHL",
+        "ts": "1462386872.000489"
+    },
+    {
+        "type": "message",
+        "text": "limber as a mother fucker",
+        "user": "U15HRTAHL",
+        "ts": "1462386876.000490"
+    },
+    {
+        "type": "message",
+        "text": "ill cut up your floor",
+        "user": "U15HY5TG8",
+        "ts": "1462386880.000491"
+    },
+    {
+        "type": "message",
+        "text": "then youll be sleepin in the basement",
+        "user": "U15HY5TG8",
+        "ts": "1462386886.000492"
+    },
+    {
+        "type": "message",
+        "text": "Jokes on you, not my floor",
+        "user": "U15HRTAHL",
+        "ts": "1462386890.000493"
+    },
+    {
+        "type": "message",
+        "text": "now i havent thought it all out completely, so their may very well be some flaws, but what if we create an admin acount that none of us have access to initally. and to gain access we have to all agree that acess will be given out. and to do so, we create a website where we can go and each of us can click aprove, then it gives out the credentials for the admin acount for some amount of time, then the cridentials are changed again without us knowing them",
+        "user": "U15HSHSS2",
+        "ts": "1462386902.000494"
+    },
+    {
+        "type": "message",
+        "text": "it will be for the time being",
+        "user": "U15HY5TG8",
+        "ts": "1462386903.000495"
+    },
+    {
+        "type": "message",
+        "text": "thats cool",
+        "user": "U15HRTAHL",
+        "ts": "1462386921.000496"
+    },
+    {
+        "type": "message",
+        "text": "i dont know how it would all work on the technical side, but i feel like it could be possible",
+        "user": "U15HSHSS2",
+        "ts": "1462386927.000497"
+    },
+    {
+        "type": "message",
+        "text": "and it emails you the password or soemthing",
+        "user": "U15HRTAHL",
+        "ts": "1462386928.000498"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1462386931.000499"
+    },
+    {
+        "type": "message",
+        "text": "thanks for volunteering to write all that code up",
+        "user": "U15HRTAHL",
+        "ts": "1462386941.000500"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1462386945.000501"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462386946.000502"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1462386948.000503"
+    },
+    {
+        "type": "message",
+        "text": "the only catch would be who gets the cridentials when they are posted to go in and make the changes...",
+        "user": "U15HSHSS2",
+        "ts": "1462386982.000504"
+    },
+    {
+        "type": "message",
+        "text": "unless their is like some incredible API that will allow us to make admin changes automaticaly through the admin account",
+        "user": "U15HSHSS2",
+        "ts": "1462387062.000505"
+    },
+    {
+        "type": "message",
+        "text": "there probably is",
+        "user": "U15HRTAHL",
+        "ts": "1462387078.000506"
+    },
+    {
+        "type": "message",
+        "text": "i think we should just give them to you and we all sit down at your computer and decide what we want and then trust you wont change them because you said you dont know enought about slack",
+        "user": "U15HY5TG8",
+        "ts": "1462387086.000507"
+    },
+    {
+        "type": "message",
+        "text": "they do have an extensive api",
+        "user": "U15HRTAHL",
+        "ts": "1462387087.000508"
+    },
+    {
+        "type": "message",
+        "text": ":confused:",
+        "user": "U15HZ01QX",
+        "ts": "1462387094.000509",
+        "reactions": [
+            {
+                "name": "smiling_imp",
+                "users": [
+                    "U15HY5TG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F16663N0N",
+                "created": 1462387142,
+                "timestamp": 1462387142,
+                "name": "Pasted image at 2016_05_04 01_39 PM.png",
+                "title": "Pasted image at 2016-05-04, 1:39 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 192968,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F16663N0N\/pasted_image_at_2016_05_04_01_39_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F16663N0N\/download\/pasted_image_at_2016_05_04_01_39_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F16663N0N-9d337e5999\/pasted_image_at_2016_05_04_01_39_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F16663N0N-9d337e5999\/pasted_image_at_2016_05_04_01_39_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F16663N0N-9d337e5999\/pasted_image_at_2016_05_04_01_39_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 336,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F16663N0N-9d337e5999\/pasted_image_at_2016_05_04_01_39_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 447,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F16663N0N-9d337e5999\/pasted_image_at_2016_05_04_01_39_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 500,
+                "original_h": 466,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F16663N0N\/pasted_image_at_2016_05_04_01_39_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F16663N0N-e2331a7786",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1462387145.000510"
+    },
+    {
+        "type": "message",
+        "text": "<#C15T8DUF7>",
+        "user": "U15HRTAHL",
+        "ts": "1462387154.000511"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462387165.000512",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462387197.000513",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1462387251.000514"
+    },
+    {
+        "type": "message",
+        "text": "can you do something about that",
+        "user": "U15HRTAHL",
+        "ts": "1462387259.000515"
+    },
+    {
+        "type": "message",
+        "text": "mr president its up to you to protect my identity",
+        "user": "U15HRTAHL",
+        "ts": "1462387281.000516"
+    },
+    {
+        "type": "message",
+        "text": "identity theft is a felony",
+        "user": "U15HRTAHL",
+        "ts": "1462387293.000517"
+    },
+    {
+        "type": "message",
+        "text": "does evan lose his admin rights?",
+        "user": "U15HRTAHL",
+        "ts": "1462387300.000518"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1462387304.000519"
+    },
+    {
+        "type": "message",
+        "text": "i dont use my admin rights anyways. and whos evan?",
+        "user": "U15HY5TG8",
+        "ts": "1462387323.000520"
+    },
+    {
+        "type": "message",
+        "text": "Looks like we have an inactive president",
+        "user": "U15HRTAHL",
+        "ts": "1462387355.000521"
+    },
+    {
+        "type": "message",
+        "text": "who fails at leadership during crucial times",
+        "user": "U15HRTAHL",
+        "ts": "1462387366.000522"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1462387373.000523"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1462387373.000524"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> we have an imposter here",
+        "user": "U15HY5TG8",
+        "ts": "1462387385.000525"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1462387389.000526"
+    },
+    {
+        "type": "message",
+        "text": "welp",
+        "user": "U15HRTAHL",
+        "ts": "1462387515.000527"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1462387527.000528"
+    },
+    {
+        "type": "message",
+        "text": "Just got screwed out of my apartment. Piece of shit. ",
+        "user": "U15J5H60P",
+        "ts": "1462387528.000529"
+    },
+    {
+        "type": "message",
+        "text": "Uh",
+        "user": "U15HZ01QX",
+        "ts": "1462387528.000530"
+    },
+    {
+        "type": "message",
+        "text": "help here please",
+        "user": "U15HRTAHL",
+        "ts": "1462387530.000531"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HZ01QX",
+        "ts": "1462387548.000532"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: there has to be punishment here",
+        "user": "U15HRTAHL",
+        "ts": "1462387550.000533"
+    },
+    {
+        "type": "message",
+        "text": "Said they'd give me a year lease",
+        "user": "U15J5H60P",
+        "ts": "1462387550.000534"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: agreeed",
+        "user": "U15HY5TG8",
+        "ts": "1462387559.000535"
+    },
+    {
+        "type": "message",
+        "text": "6 month lease *",
+        "user": "U15J5H60P",
+        "ts": "1462387559.000536"
+    },
+    {
+        "type": "message",
+        "text": "first one to give me lilies middle name",
+        "user": "U15HZ01QX",
+        "ts": "1462387565.000537"
+    },
+    {
+        "type": "message",
+        "text": "Came by tried making me sign a year",
+        "user": "U15J5H60P",
+        "ts": "1462387572.000538"
+    },
+    {
+        "type": "message",
+        "text": "Elizabeth",
+        "user": "U15HRTAHL",
+        "ts": "1462387573.000539"
+    },
+    {
+        "type": "message",
+        "text": "why",
+        "user": "U15HRTAHL",
+        "ts": "1462387573.000540"
+    },
+    {
+        "type": "message",
+        "text": "rose",
+        "user": "U15HY5TG8",
+        "ts": "1462387574.000541"
+    },
+    {
+        "type": "message",
+        "text": "shit",
+        "user": "U15HZ01QX",
+        "ts": "1462387579.000542"
+    },
+    {
+        "type": "message",
+        "text": "??",
+        "user": "U15HRTAHL",
+        "ts": "1462387582.000543"
+    },
+    {
+        "type": "message",
+        "text": "lamo",
+        "user": "U15HY5TG8",
+        "ts": "1462387586.000544"
+    },
+    {
+        "type": "message",
+        "text": "who's the fake",
+        "user": "U15HZ01QX",
+        "ts": "1462387588.000545"
+    },
+    {
+        "type": "message",
+        "text": "the other one",
+        "user": "U15HY5TG8",
+        "ts": "1462387593.000546"
+    },
+    {
+        "type": "message",
+        "text": "click on the picture james",
+        "user": "U15HRTAHL",
+        "ts": "1462387603.000547"
+    },
+    {
+        "type": "message",
+        "text": "it shows the @ name",
+        "user": "U15HRTAHL",
+        "ts": "1462387609.000548"
+    },
+    {
+        "type": "message",
+        "text": "ah",
+        "user": "U15HZ01QX",
+        "ts": "1462387628.000549"
+    },
+    {
+        "type": "message",
+        "text": "so?",
+        "user": "U15HY5TG8",
+        "ts": "1462387629.000550"
+    },
+    {
+        "type": "message",
+        "text": "evan change it back",
+        "user": "U15HZ01QX",
+        "ts": "1462387632.000551"
+    },
+    {
+        "type": "message",
+        "text": ":disappointed:",
+        "user": "U15HRTAHL",
+        "ts": "1462387636.000552"
+    },
+    {
+        "type": "message",
+        "text": "yea evan",
+        "user": "U15HY5TG8",
+        "ts": "1462387640.000553"
+    },
+    {
+        "type": "message",
+        "text": "now",
+        "user": "U15HZ01QX",
+        "ts": "1462387641.000554"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: there needs to be punishment",
+        "user": "U15HRTAHL",
+        "ts": "1462387646.000555"
+    },
+    {
+        "type": "message",
+        "text": "agreed",
+        "user": "U15HY5TG8",
+        "ts": "1462387652.000556"
+    },
+    {
+        "type": "message",
+        "text": "I'm writing them up",
+        "user": "U15HZ01QX",
+        "ts": "1462387653.000557"
+    },
+    {
+        "type": "message",
+        "text": "death penalty is legal places",
+        "user": "U15HRTAHL",
+        "ts": "1462387665.000558"
+    },
+    {
+        "type": "message",
+        "text": "can that be the equivalent of booting people",
+        "user": "U15HRTAHL",
+        "ts": "1462387677.000559"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HY5TG8",
+        "ts": "1462387693.000560"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: fuck you.",
+        "user": "U15HRTAHL",
+        "ts": "1462387704.000561"
+    },
+    {
+        "type": "message",
+        "text": "wait",
+        "user": "U15HRTAHL",
+        "ts": "1462387712.000562"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: nah im good",
+        "user": "U15HY5TG8",
+        "ts": "1462387714.000563"
+    },
+    {
+        "type": "message",
+        "text": "i fucked myself",
+        "user": "U15HRTAHL",
+        "ts": "1462387715.000564"
+    },
+    {
+        "type": "message",
+        "text": "im so confused",
+        "user": "U15HRTAHL",
+        "ts": "1462387724.000565"
+    },
+    {
+        "type": "message",
+        "text": "me too",
+        "user": "U15HY5TG8",
+        "ts": "1462387733.000566"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: im sorry to hear that though",
+        "user": "U15HY5TG8",
+        "ts": "1462387751.000567"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: sorry",
+        "user": "U15HZ01QX",
+        "ts": "1462387760.000568"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>: <https:\/\/www.surveymonkey.com\/r\/ZLJJ5JK>",
+        "user": "U15HZ01QX",
+        "ts": "1462387771.000569",
+        "attachments": [
+            {
+                "title": "Slack proposals Survey",
+                "title_link": "https:\/\/www.surveymonkey.com\/r\/ZLJJ5JK",
+                "text": "Web survey powered by <http:\/\/SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.",
+                "fallback": "Slack proposals Survey",
+                "from_url": "https:\/\/www.surveymonkey.com\/r\/ZLJJ5JK",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "take the survey and we'll enact the rules",
+        "user": "U15HZ01QX",
+        "ts": "1462387794.000571"
+    },
+    {
+        "type": "message",
+        "text": "lol evan you better change your name back soon",
+        "user": "U15HY5TG8",
+        "ts": "1462387847.000572"
+    },
+    {
+        "type": "message",
+        "text": "i changed question 2",
+        "user": "U15HZ01QX",
+        "ts": "1462387924.000573"
+    },
+    {
+        "type": "message",
+        "text": "it was worded dumb",
+        "user": "U15HZ01QX",
+        "ts": "1462387930.000574"
+    },
+    {
+        "type": "message",
+        "text": "do i have to retake t?",
+        "user": "U15HY5TG8",
+        "ts": "1462387934.000575"
+    },
+    {
+        "type": "message",
+        "text": "I already voted",
+        "user": "U15HRTAHL",
+        "ts": "1462387935.000576"
+    },
+    {
+        "type": "message",
+        "text": "new link <https:\/\/www.surveymonkey.com\/r\/Z785GQL>",
+        "user": "U15HZ01QX",
+        "ts": "1462387964.000577",
+        "attachments": [
+            {
+                "title": "Slack proposals Survey",
+                "title_link": "https:\/\/www.surveymonkey.com\/r\/Z785GQL",
+                "text": "Web survey powered by <http:\/\/SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.",
+                "fallback": "Slack proposals Survey",
+                "from_url": "https:\/\/www.surveymonkey.com\/r\/Z785GQL",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "whos Evan?",
+        "user": "U15HY5TG8",
+        "ts": "1462387995.000579"
+    },
+    {
+        "type": "message",
+        "text": "I am the real joe",
+        "user": "U15HRTAHL",
+        "ts": "1462388043.000580"
+    },
+    {
+        "type": "message",
+        "text": "I can prove it",
+        "user": "U15HRTAHL",
+        "ts": "1462388047.000581"
+    },
+    {
+        "type": "message",
+        "text": "I am the real joe",
+        "user": "U15HY5TG8",
+        "ts": "1462388052.000582"
+    },
+    {
+        "type": "message",
+        "text": "Send a text to me and I will post the text here",
+        "user": "U15HRTAHL",
+        "ts": "1462388060.000583"
+    },
+    {
+        "type": "message",
+        "text": "i know who the real joe is",
+        "user": "U15HZ01QX",
+        "ts": "1462388072.000584"
+    },
+    {
+        "type": "message",
+        "text": "both of you voted that inviting someone against their will is legal?",
+        "user": "U15HZ01QX",
+        "ts": "1462388087.000585"
+    },
+    {
+        "type": "message",
+        "text": "that was your rule joe lol",
+        "user": "U15HZ01QX",
+        "ts": "1462388096.000586"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HRTAHL",
+        "ts": "1462388097.000587"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462388102.000588"
+    },
+    {
+        "type": "message",
+        "text": "Thats worded wrong",
+        "user": "U15HRTAHL",
+        "ts": "1462388109.000589"
+    },
+    {
+        "type": "message",
+        "text": "you dont know the real joe",
+        "user": "U15HY5TG8",
+        "ts": "1462388119.000590"
+    },
+    {
+        "type": "message",
+        "text": "What about creating channels and adding them without conseny",
+        "user": "U15HRTAHL",
+        "ts": "1462388122.000591"
+    },
+    {
+        "type": "message",
+        "text": "I was explocitly talking about leaving and being readded",
+        "user": "U15HRTAHL",
+        "ts": "1462388150.000592"
+    },
+    {
+        "type": "message",
+        "text": "orginal question 2 made sense",
+        "user": "U15HY5TG8",
+        "ts": "1462388183.000593"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.surveymonkey.com\/r\/Z96YQF9>",
+        "user": "U15HZ01QX",
+        "ts": "1462388184.000594",
+        "attachments": [
+            {
+                "title": "Slack proposals Survey",
+                "title_link": "https:\/\/www.surveymonkey.com\/r\/Z96YQF9",
+                "text": "Web survey powered by <http:\/\/SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.",
+                "fallback": "Slack proposals Survey",
+                "from_url": "https:\/\/www.surveymonkey.com\/r\/Z96YQF9",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HZ01QX",
+        "ts": "1462388189.000596"
+    },
+    {
+        "type": "message",
+        "text": "last one",
+        "user": "U15HZ01QX",
+        "ts": "1462388192.000597"
+    },
+    {
+        "type": "message",
+        "text": "#3 doesnt include rules 4-6",
+        "user": "U15HY5TG8",
+        "ts": "1462388217.000598"
+    },
+    {
+        "type": "message",
+        "text": "they're not rules",
+        "user": "U15HZ01QX",
+        "ts": "1462388246.000599"
+    },
+    {
+        "type": "message",
+        "text": "just questions",
+        "user": "U15HZ01QX",
+        "ts": "1462388250.000600"
+    },
+    {
+        "type": "message",
+        "text": "done",
+        "user": "U15HY5TG8",
+        "ts": "1462388276.000601"
+    },
+    {
+        "type": "message",
+        "text": "James can you fix the names",
+        "user": "U15HRTAHL",
+        "ts": "1462388288.000602"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HY5TG8",
+        "ts": "1462388296.000603"
+    },
+    {
+        "type": "message",
+        "text": "evan",
+        "user": "U15HZ01QX",
+        "ts": "1462388324.000604"
+    },
+    {
+        "type": "message",
+        "text": "until the voting is done",
+        "user": "U15HZ01QX",
+        "ts": "1462388331.000605"
+    },
+    {
+        "type": "message",
+        "text": "i got final say",
+        "user": "U15HZ01QX",
+        "ts": "1462388336.000606"
+    },
+    {
+        "type": "message",
+        "text": "so you can either change it",
+        "user": "U15HZ01QX",
+        "ts": "1462388342.000607"
+    },
+    {
+        "type": "message",
+        "text": "you change it",
+        "user": "U15HY5TG8",
+        "ts": "1462388348.000608"
+    },
+    {
+        "type": "message",
+        "text": "or be disabled until voting is done",
+        "user": "U15HZ01QX",
+        "ts": "1462388352.000609"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462388360.000610",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "It doesn’t work",
+        "user": "U15J5H60P",
+        "ts": "1462388373.000611"
+    },
+    {
+        "type": "message",
+        "text": "what doesn't woek",
+        "user": "U15HZ01QX",
+        "ts": "1462388393.000612"
+    },
+    {
+        "type": "message",
+        "text": "The survey",
+        "user": "U15J5H60P",
+        "ts": "1462388405.000613"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.surveymonkey.com\/r\/Z96YQF9>",
+        "user": "U15HZ01QX",
+        "ts": "1462388417.000614"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.surveymonkey.com\/r\/Z96YQF9>",
+        "user": "U15HZ01QX",
+        "ts": "1462388429.000615"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462388523.000616",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "hey guys",
+        "user": "U15HY5TG8",
+        "ts": "1462388537.000617"
+    },
+    {
+        "type": "message",
+        "text": "Who is the one that revokes access if the rules are broken",
+        "user": "U15HSHSS2",
+        "ts": "1462388546.000618"
+    },
+    {
+        "type": "message",
+        "text": "me",
+        "user": "U15HZ01QX",
+        "ts": "1462388567.000619"
+    },
+    {
+        "type": "message",
+        "text": "So if you wanted to you could totally abandon the rules and do as you please?",
+        "user": "U15HSHSS2",
+        "ts": "1462388606.000620"
+    },
+    {
+        "type": "message",
+        "text": "basically",
+        "user": "U15HY5TG8",
+        "ts": "1462388615.000621"
+    },
+    {
+        "type": "message",
+        "text": "yeah i guess",
+        "user": "U15HZ01QX",
+        "ts": "1462388702.000622"
+    },
+    {
+        "type": "message",
+        "text": "im gonna follow what you guys vote though",
+        "user": "U15HZ01QX",
+        "ts": "1462388712.000623"
+    },
+    {
+        "type": "message",
+        "text": "full transparency and all that",
+        "user": "U15HZ01QX",
+        "ts": "1462388733.000624"
+    },
+    {
+        "type": "message",
+        "text": "my only vote is not deleting pics or posts that you dont like",
+        "user": "U15HY5TG8",
+        "ts": "1462388743.000625"
+    },
+    {
+        "type": "message",
+        "text": "thats for sure",
+        "user": "U15HZ01QX",
+        "ts": "1462388760.000626"
+    },
+    {
+        "type": "message",
+        "text": "i figured we didn't need to vote on that one",
+        "user": "U15HZ01QX",
+        "ts": "1462388770.000627"
+    },
+    {
+        "type": "message",
+        "text": "hokay",
+        "user": "U15HY5TG8",
+        "ts": "1462388797.000628"
+    },
+    {
+        "type": "message",
+        "text": " Evan",
+        "user": "U15HRTAHL",
+        "ts": "1462388810.000629"
+    },
+    {
+        "type": "message",
+        "text": "I mean i have no doubt that you wont abide by the rules, it's just the fact that you _could_",
+        "user": "U15HSHSS2",
+        "ts": "1462388813.000630"
+    },
+    {
+        "type": "message",
+        "text": "You have no vote",
+        "user": "U15HRTAHL",
+        "ts": "1462388814.000631"
+    },
+    {
+        "type": "message",
+        "text": "You dont exist",
+        "user": "U15HRTAHL",
+        "ts": "1462388823.000632"
+    },
+    {
+        "type": "message",
+        "text": "we may as well all be admins then. I have faith that none of you will break the rules",
+        "user": "U15HSHSS2",
+        "ts": "1462388839.000633"
+    },
+    {
+        "type": "message",
+        "text": "Change your name evan ",
+        "user": "U15HRTAHL",
+        "ts": "1462388843.000634"
+    },
+    {
+        "type": "message",
+        "text": "idk who evan is",
+        "user": "U15HY5TG8",
+        "ts": "1462388845.000635"
+    },
+    {
+        "type": "message",
+        "text": "James why is nothing done yet",
+        "user": "U15HRTAHL",
+        "ts": "1462388858.000636"
+    },
+    {
+        "type": "message",
+        "text": "we're missing a response",
+        "user": "U15HZ01QX",
+        "ts": "1462388876.000637"
+    },
+    {
+        "type": "message",
+        "text": "james is not established as leader until the votes are done",
+        "user": "U15HY5TG8",
+        "ts": "1462388880.000638"
+    },
+    {
+        "type": "message",
+        "text": "James",
+        "user": "U15HRTAHL",
+        "ts": "1462388899.000639"
+    },
+    {
+        "type": "message",
+        "text": "James",
+        "user": "U15HY5TG8",
+        "ts": "1462388904.000640"
+    },
+    {
+        "type": "message",
+        "text": "Are you fucking kidding me",
+        "user": "U15HRTAHL",
+        "ts": "1462388905.000641"
+    },
+    {
+        "type": "message",
+        "text": "Are you fucking kidding me",
+        "user": "U15HY5TG8",
+        "ts": "1462388910.000642"
+    },
+    {
+        "type": "message",
+        "text": "Executive order",
+        "user": "U15HRTAHL",
+        "ts": "1462388912.000643"
+    },
+    {
+        "type": "message",
+        "text": "Fix this ",
+        "user": "U15HRTAHL",
+        "ts": "1462388915.000644"
+    },
+    {
+        "type": "message",
+        "text": "Executive order",
+        "user": "U15HY5TG8",
+        "ts": "1462388916.000645"
+    },
+    {
+        "type": "message",
+        "text": "oh",
+        "user": "U15HZ01QX",
+        "ts": "1462388917.000646"
+    },
+    {
+        "type": "message",
+        "text": "Fix this",
+        "user": "U15HY5TG8",
+        "ts": "1462388918.000647"
+    },
+    {
+        "type": "message",
+        "text": "right",
+        "user": "U15HZ01QX",
+        "ts": "1462388919.000648"
+    },
+    {
+        "type": "message",
+        "text": "sorry",
+        "user": "U15HZ01QX",
+        "ts": "1462388921.000649"
+    },
+    {
+        "type": "message",
+        "text": "evan lastt chance",
+        "user": "U15HZ01QX",
+        "ts": "1462388927.000650"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1462388931.000651",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Way to go",
+        "user": "U15J5H60P",
+        "ts": "1462388943.000652"
+    },
+    {
+        "type": "message",
+        "text": "Thank the lord",
+        "user": "U15HRTAHL",
+        "ts": "1462388943.000653"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462388945.000654",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "You made the real joe leave",
+        "user": "U15J5H60P",
+        "ts": "1462388946.000655"
+    },
+    {
+        "type": "message",
+        "text": "Thank the lord",
+        "user": "U15HY5TG8",
+        "ts": "1462388952.000656"
+    },
+    {
+        "type": "message",
+        "text": "Can we see the voting results?",
+        "user": "U15J5H60P",
+        "ts": "1462388983.000657"
+    },
+    {
+        "type": "message",
+        "text": "James",
+        "user": "U15HRTAHL",
+        "ts": "1462388986.000658"
+    },
+    {
+        "type": "message",
+        "text": "evan is gone for the time being",
+        "user": "U15HZ01QX",
+        "ts": "1462388988.000659"
+    },
+    {
+        "type": "message",
+        "text": "Hes still here isnt he",
+        "user": "U15HRTAHL",
+        "ts": "1462388998.000660"
+    },
+    {
+        "type": "message",
+        "text": "Is that what we voted on?",
+        "user": "U15J5H60P",
+        "ts": "1462389000.000661"
+    },
+    {
+        "type": "message",
+        "text": "i think we're still waiting on something",
+        "user": "U15HZ01QX",
+        "ts": "1462389005.000662"
+    },
+    {
+        "type": "message",
+        "text": "It said he joined",
+        "user": "U15HRTAHL",
+        "ts": "1462389006.000663"
+    },
+    {
+        "type": "message",
+        "text": "his account is gone",
+        "user": "U15HZ01QX",
+        "ts": "1462389014.000664"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1462389019.000665"
+    },
+    {
+        "type": "message",
+        "text": "to be rebooted when the vote decides",
+        "user": "U15HZ01QX",
+        "ts": "1462389029.000666"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: did you take the survey?",
+        "user": "U15HZ01QX",
+        "ts": "1462389071.000667"
+    },
+    {
+        "type": "message",
+        "text": "someone didn't answe",
+        "user": "U15HZ01QX",
+        "ts": "1462389078.000668"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: did you take the newest one?",
+        "user": "U15HZ01QX",
+        "ts": "1462389093.000669"
+    },
+    {
+        "type": "message",
+        "text": "I did",
+        "user": "U15HRTAHL",
+        "ts": "1462389113.000670"
+    },
+    {
+        "type": "message",
+        "text": "It said ive already taken it",
+        "user": "U15HRTAHL",
+        "ts": "1462389120.000671"
+    },
+    {
+        "type": "message",
+        "text": "i think tom is the only one then",
+        "user": "U15HZ01QX",
+        "ts": "1462389135.000672"
+    },
+    {
+        "type": "message",
+        "text": "Do we need a quarum to vote",
+        "user": "U15HRTAHL",
+        "ts": "1462389137.000673"
+    },
+    {
+        "type": "message",
+        "text": "everyone needs too",
+        "user": "U15HZ01QX",
+        "ts": "1462389144.000674"
+    },
+    {
+        "type": "message",
+        "text": "What if we don't agree with the survey lol",
+        "user": "U15HSHSS2",
+        "ts": "1462389224.000675"
+    },
+    {
+        "type": "message",
+        "text": "theres other sections",
+        "user": "U15HZ01QX",
+        "ts": "1462389241.000676"
+    },
+    {
+        "type": "message",
+        "text": "on most of them",
+        "user": "U15HZ01QX",
+        "ts": "1462389250.000677"
+    },
+    {
+        "type": "message",
+        "text": "what do you need me to add",
+        "user": "U15HZ01QX",
+        "ts": "1462389257.000678"
+    },
+    {
+        "type": "message",
+        "text": "I dont agree with what the survey represents",
+        "user": "U15HSHSS2",
+        "ts": "1462389263.000679"
+    },
+    {
+        "type": "message",
+        "text": "whatchu mean?",
+        "user": "U15HZ01QX",
+        "ts": "1462389282.000680"
+    },
+    {
+        "type": "message",
+        "text": "If one of us is going to be an admin, we should all be admins. Or there should be a new survey with everyone's name and we vote on an admin",
+        "user": "U15HSHSS2",
+        "ts": "1462389364.000681"
+    },
+    {
+        "type": "message",
+        "text": "ok ill redo it",
+        "user": "U15HZ01QX",
+        "ts": "1462389378.000682"
+    },
+    {
+        "type": "message",
+        "text": "new one <https:\/\/www.surveymonkey.com\/r\/ZMP6CQH>",
+        "user": "U15HZ01QX",
+        "ts": "1462389483.000683",
+        "attachments": [
+            {
+                "title": "Slack proposals Survey",
+                "title_link": "https:\/\/www.surveymonkey.com\/r\/ZMP6CQH",
+                "text": "Web survey powered by <http:\/\/SurveyMonkey.com|SurveyMonkey.com>. Create your own online survey now with SurveyMonkey's expert certified FREE templates.",
+                "fallback": "Slack proposals Survey",
+                "from_url": "https:\/\/www.surveymonkey.com\/r\/ZMP6CQH",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "For fucks sake",
+        "user": "U15J5H60P",
+        "ts": "1462389511.000685"
+    },
+    {
+        "type": "message",
+        "text": "tommy wanted it",
+        "user": "U15HZ01QX",
+        "ts": "1462389520.000686"
+    },
+    {
+        "type": "message",
+        "text": "Not taking it",
+        "user": "U15HRTAHL",
+        "ts": "1462389939.000689"
+    },
+    {
+        "type": "message",
+        "text": "I do not agree with 7",
+        "user": "U15HRTAHL",
+        "ts": "1462389945.000690"
+    },
+    {
+        "type": "message",
+        "text": "why not",
+        "user": "U15HZ01QX",
+        "ts": "1462389967.000691"
+    },
+    {
+        "type": "message",
+        "text": "Its not objective",
+        "user": "U15HRTAHL",
+        "ts": "1462389997.000692"
+    },
+    {
+        "type": "message",
+        "text": "im lost",
+        "user": "U15HZ01QX",
+        "ts": "1462390006.000693"
+    },
+    {
+        "type": "message",
+        "text": "its just a who do you think should have admin rights question",
+        "user": "U15HZ01QX",
+        "ts": "1462390026.000694"
+    },
+    {
+        "type": "message",
+        "text": "The word think is not in the question",
+        "user": "U15HRTAHL",
+        "ts": "1462390057.000695"
+    },
+    {
+        "type": "message",
+        "text": "I agreed everyone gets admin rights",
+        "user": "U15HRTAHL",
+        "ts": "1462390079.000696"
+    },
+    {
+        "type": "message",
+        "text": "Your actions from here on determine whether you keep them",
+        "user": "U15HRTAHL",
+        "ts": "1462390105.000697"
+    },
+    {
+        "type": "message",
+        "text": "Its not objective",
+        "user": "U15HRTAHL",
+        "ts": "1462390113.000698"
+    },
+    {
+        "type": "message",
+        "text": "i changed it",
+        "user": "U15HZ01QX",
+        "ts": "1462390136.000699"
+    },
+    {
+        "type": "message",
+        "text": "its a question of who should have admin rights right now",
+        "user": "U15HZ01QX",
+        "ts": "1462390157.000700"
+    },
+    {
+        "type": "message",
+        "text": "We should all have them",
+        "user": "U15HRTAHL",
+        "ts": "1462390173.000701"
+    },
+    {
+        "type": "message",
+        "text": "then vote for everyone",
+        "user": "U15HZ01QX",
+        "ts": "1462390179.000702"
+    },
+    {
+        "type": "message",
+        "text": "Im not andwering that question",
+        "user": "U15HRTAHL",
+        "ts": "1462390185.000703"
+    },
+    {
+        "type": "message",
+        "text": "It shouldnt be on the ballot",
+        "user": "U15HRTAHL",
+        "ts": "1462390193.000704"
+    },
+    {
+        "type": "message",
+        "text": "tommy wanted it on the ballot",
+        "user": "U15HZ01QX",
+        "ts": "1462390205.000705"
+    },
+    {
+        "type": "message",
+        "text": "Not voting till its off",
+        "user": "U15HRTAHL",
+        "ts": "1462390209.000706"
+    },
+    {
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HSHSS2",
+        "ts": "1462390214.000707"
+    },
+    {
+        "type": "message",
+        "text": "how would you prefer the question be asked?",
+        "user": "U15HZ01QX",
+        "ts": "1462390237.000708"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F165H3X7D",
+                "created": 1462390240,
+                "timestamp": 1462390240,
+                "name": "Tommy said everyone is admin.png",
+                "title": "Tommy said everyone is admin",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 63601,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F165H3X7D\/tommy_said_everyone_is_admin.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F165H3X7D\/download\/tommy_said_everyone_is_admin.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165H3X7D-6812b00889\/tommy_said_everyone_is_admin_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165H3X7D-6812b00889\/tommy_said_everyone_is_admin_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165H3X7D-6812b00889\/tommy_said_everyone_is_admin_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165H3X7D-6812b00889\/tommy_said_everyone_is_admin_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F165H3X7D-6812b00889\/tommy_said_everyone_is_admin_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 320,
+                "original_h": 568,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F165H3X7D\/tommy_said_everyone_is_admin.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F165H3X7D-7543e9d1bf",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1462390243.000709"
+    },
+    {
+        "type": "message",
+        "text": "This is soooooo dumb ",
+        "user": "U15J5H60P",
+        "ts": "1462390245.000710"
+    },
+    {
+        "type": "message",
+        "text": "Not to be asked at all",
+        "user": "U15HRTAHL",
+        "ts": "1462390248.000711"
+    },
+    {
+        "type": "message",
+        "text": "other joe needs to vote",
+        "user": "U15HY5TG8",
+        "ts": "1462390254.000712"
+    },
+    {
+        "type": "message",
+        "text": "the second part of it",
+        "user": "U15HZ01QX",
+        "ts": "1462390265.000713"
+    },
+    {
+        "type": "message",
+        "text": "Who brought evan back",
+        "user": "U15HRTAHL",
+        "ts": "1462390274.000714"
+    },
+    {
+        "type": "message",
+        "text": "Ah it needs a radio button is what hes saying ",
+        "user": "U15J5H60P",
+        "ts": "1462390276.000715"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HRTAHL",
+        "ts": "1462390283.000716"
+    },
+    {
+        "type": "message",
+        "text": "Oh.",
+        "user": "U15J5H60P",
+        "ts": "1462390287.000717"
+    },
+    {
+        "type": "message",
+        "text": "Not at all",
+        "user": "U15HRTAHL",
+        "ts": "1462390287.000718"
+    },
+    {
+        "type": "message",
+        "text": "Nvm",
+        "user": "U15J5H60P",
+        "ts": "1462390289.000719"
+    },
+    {
+        "type": "message",
+        "text": "stop",
+        "user": "U15HSHSS2",
+        "ts": "1462390289.000720"
+    },
+    {
+        "type": "message",
+        "text": "putting",
+        "user": "U15HSHSS2",
+        "ts": "1462390290.000721"
+    },
+    {
+        "type": "message",
+        "text": "words",
+        "user": "U15HSHSS2",
+        "ts": "1462390291.000722"
+    },
+    {
+        "type": "message",
+        "text": "theres no evan here",
+        "user": "U15HY5TG8",
+        "ts": "1462390292.000723"
+    },
+    {
+        "type": "message",
+        "text": "in",
+        "user": "U15HSHSS2",
+        "ts": "1462390292.000724"
+    },
+    {
+        "type": "message",
+        "text": "We are all admins ",
+        "user": "U15HRTAHL",
+        "ts": "1462390292.000725"
+    },
+    {
+        "type": "message",
+        "text": "joes",
+        "user": "U15HSHSS2",
+        "ts": "1462390293.000726"
+    },
+    {
+        "type": "message",
+        "text": "mouth",
+        "user": "U15HSHSS2",
+        "ts": "1462390294.000727"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1462390295.000728"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1462390297.000729"
+    },
+    {
+        "type": "message",
+        "text": "Hahahah",
+        "user": "U15HRTAHL",
+        "ts": "1462390299.000730"
+    },
+    {
+        "type": "message",
+        "text": "Everyone starts out as admin",
+        "user": "U15HRTAHL",
+        "ts": "1462390312.000731"
+    },
+    {
+        "type": "message",
+        "text": "ok joe just vote for everyone and we'll put the results out",
+        "user": "U15HZ01QX",
+        "ts": "1462390331.000732"
+    },
+    {
+        "type": "message",
+        "text": "So vote for everyone",
+        "user": "U15J5H60P",
+        "ts": "1462390334.000733"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HRTAHL",
+        "ts": "1462390337.000734"
+    },
+    {
+        "type": "message",
+        "text": "It shouldnt be on the vallot",
+        "user": "U15HRTAHL",
+        "ts": "1462390344.000735"
+    },
+    {
+        "type": "message",
+        "text": "Ballot",
+        "user": "U15HRTAHL",
+        "ts": "1462390347.000736"
+    },
+    {
+        "type": "message",
+        "text": "vote to kick joeythomaschaske",
+        "user": "U15HY5TG8",
+        "ts": "1462390364.000737"
+    },
+    {
+        "type": "message",
+        "text": "Cant do that yet",
+        "user": "U15HRTAHL",
+        "ts": "1462390383.000738"
+    },
+    {
+        "type": "message",
+        "text": "It hasnt been voted on",
+        "user": "U15HRTAHL",
+        "ts": "1462390395.000739"
+    },
+    {
+        "type": "message",
+        "text": "shit",
+        "user": "U15HY5TG8",
+        "ts": "1462390398.000740"
+    },
+    {
+        "type": "message",
+        "text": "Also if im kicked",
+        "user": "U15HRTAHL",
+        "ts": "1462390411.000741"
+    },
+    {
+        "type": "message",
+        "text": "that imposter needs to be rid of",
+        "user": "U15HY5TG8",
+        "ts": "1462390412.000742"
+    },
+    {
+        "type": "message",
+        "text": "I must be misunderstanding a core concept",
+        "user": "U15J5H60P",
+        "ts": "1462390416.000743"
+    },
+    {
+        "type": "message",
+        "text": "Or if anyone is",
+        "user": "U15HRTAHL",
+        "ts": "1462390417.000744"
+    },
+    {
+        "type": "message",
+        "text": "Rule #1 is void",
+        "user": "U15HRTAHL",
+        "ts": "1462390425.000745"
+    },
+    {
+        "type": "message",
+        "text": "It asks for 3",
+        "user": "U15HRTAHL",
+        "ts": "1462390429.000746"
+    },
+    {
+        "type": "message",
+        "text": "how about an other section joe?",
+        "user": "U15HZ01QX",
+        "ts": "1462390429.000747"
+    },
+    {
+        "type": "message",
+        "text": "If you kick",
+        "user": "U15HRTAHL",
+        "ts": "1462390432.000748"
+    },
+    {
+        "type": "message",
+        "text": "what was rule #1?",
+        "user": "U15HY5TG8",
+        "ts": "1462390434.000749"
+    },
+    {
+        "type": "message",
+        "text": "I have an idea",
+        "user": "U15J5H60P",
+        "ts": "1462390441.000750"
+    },
+    {
+        "type": "message",
+        "text": "You cant kick anymore",
+        "user": "U15HRTAHL",
+        "ts": "1462390444.000751"
+    },
+    {
+        "type": "message",
+        "text": "Nevermind ",
+        "user": "U15J5H60P",
+        "ts": "1462390447.000752"
+    },
+    {
+        "type": "message",
+        "text": "weaksauce",
+        "user": "U15HY5TG8",
+        "ts": "1462390454.000753"
+    },
+    {
+        "type": "message",
+        "text": "joe",
+        "user": "U15HZ01QX",
+        "ts": "1462390461.000754"
+    },
+    {
+        "type": "message",
+        "text": "I forgot we can't just be civil human beings",
+        "user": "U15J5H60P",
+        "ts": "1462390463.000755"
+    },
+    {
+        "type": "message",
+        "text": "joe",
+        "user": "U15HZ01QX",
+        "ts": "1462390463.000756"
+    },
+    {
+        "type": "message",
+        "text": "yes?",
+        "user": "U15HY5TG8",
+        "ts": "1462390465.000757"
+    },
+    {
+        "type": "message",
+        "text": "joe",
+        "user": "U15HZ01QX",
+        "ts": "1462390465.000758"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1462390470.000759"
+    },
+    {
+        "type": "message",
+        "text": "do you want a type in option?",
+        "user": "U15HZ01QX",
+        "ts": "1462390474.000760"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1462390477.000761"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HRTAHL",
+        "ts": "1462390481.000762"
+    },
+    {
+        "type": "message",
+        "text": "i mean No",
+        "user": "U15HY5TG8",
+        "ts": "1462390488.000763"
+    },
+    {
+        "type": "message",
+        "text": "I dont want the question at all",
+        "user": "U15HRTAHL",
+        "ts": "1462390495.000764"
+    },
+    {
+        "type": "message",
+        "text": "i concur",
+        "user": "U15HY5TG8",
+        "ts": "1462390503.000765"
+    },
+    {
+        "type": "message",
+        "text": "What does the question determine?",
+        "user": "U15HRTAHL",
+        "ts": "1462390507.000766"
+    },
+    {
+        "type": "message",
+        "text": "admin rights damnit",
+        "user": "U15HY5TG8",
+        "ts": "1462390515.000767"
+    },
+    {
+        "type": "message",
+        "text": "Whos admin and whos not?",
+        "user": "U15HRTAHL",
+        "ts": "1462390516.000768"
+    },
+    {
+        "type": "message",
+        "text": "Fuck that",
+        "user": "U15HRTAHL",
+        "ts": "1462390520.000769"
+    },
+    {
+        "type": "message",
+        "text": "We're all admin",
+        "user": "U15HRTAHL",
+        "ts": "1462390524.000770"
+    },
+    {
+        "type": "message",
+        "text": "Until you lose it",
+        "user": "U15HRTAHL",
+        "ts": "1462390528.000771"
+    },
+    {
+        "type": "message",
+        "text": "what are admins even in control of?",
+        "user": "U15HY5TG8",
+        "ts": "1462390549.000772"
+    },
+    {
+        "type": "message",
+        "text": "Apps",
+        "user": "U15HRTAHL",
+        "ts": "1462390557.000773"
+    },
+    {
+        "type": "message",
+        "text": "thats what we're fighting over?",
+        "user": "U15HY5TG8",
+        "ts": "1462390586.000776"
+    },
+    {
+        "type": "message",
+        "text": "I think so",
+        "user": "U15J5H60P",
+        "ts": "1462390592.000777"
+    },
+    {
+        "type": "message",
+        "text": "you cant just delete shit",
+        "user": "U15HY5TG8",
+        "ts": "1462390595.000778"
+    },
+    {
+        "type": "message",
+        "text": "ok joe",
+        "user": "U15HZ01QX",
+        "ts": "1462390600.000779"
+    },
+    {
+        "type": "message",
+        "text": "its gone",
+        "user": "U15HZ01QX",
+        "ts": "1462390604.000780"
+    },
+    {
+        "type": "message",
+        "text": "revoke <@U15HRTAHL> rights",
+        "user": "U15HY5TG8",
+        "ts": "1462390605.000781"
+    },
+    {
+        "type": "message",
+        "text": "take the survey",
+        "user": "U15HZ01QX",
+        "ts": "1462390613.000783"
+    },
+    {
+        "type": "message",
+        "text": "mmmm cars",
+        "user": "U15HY5TG8",
+        "ts": "1462390614.000784"
+    },
+    {
+        "type": "message",
+        "text": "Send me the link",
+        "user": "U15HRTAHL",
+        "ts": "1462390620.000786"
+    },
+    {
+        "type": "message",
+        "text": "i mean....i hate cars",
+        "user": "U15HY5TG8",
+        "ts": "1462390624.000787"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1462390630.000788"
+    },
+    {
+        "type": "message",
+        "text": "i dont even own one thats how much i hate them",
+        "user": "U15HY5TG8",
+        "ts": "1462390640.000789"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.surveymonkey.com\/r\/ZMP6CQH>",
+        "user": "U15HZ01QX",
+        "ts": "1462390652.000790"
+    },
+    {
+        "type": "message",
+        "text": "says i already took it",
+        "user": "U15HY5TG8",
+        "ts": "1462390673.000791"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HRTAHL",
+        "ts": "1462390674.000792"
+    },
+    {
+        "type": "message",
+        "text": "Change the first one james",
+        "user": "U15HRTAHL",
+        "ts": "1462390679.000793"
+    },
+    {
+        "type": "message",
+        "text": "If you kick",
+        "user": "U15HRTAHL",
+        "ts": "1462390682.000794"
+    },
+    {
+        "type": "message",
+        "text": "And theres less than 3",
+        "user": "U15HRTAHL",
+        "ts": "1462390687.000795"
+    },
+    {
+        "type": "message",
+        "text": "Theres no more kicking",
+        "user": "U15HRTAHL",
+        "ts": "1462390692.000796"
+    },
+    {
+        "type": "message",
+        "text": "Its flawed",
+        "user": "U15HRTAHL",
+        "ts": "1462390695.000797"
+    },
+    {
+        "type": "message",
+        "text": "memeber that time i got that sliver up my finger nail and andrews house",
+        "user": "U15HSHSS2",
+        "ts": "1462390695.000798"
+    },
+    {
+        "type": "message",
+        "text": "just remembered that",
+        "user": "U15HSHSS2",
+        "ts": "1462390704.000799"
+    },
+    {
+        "type": "message",
+        "text": "that sucked",
+        "user": "U15HSHSS2",
+        "ts": "1462390709.000800"
+    },
+    {
+        "type": "message",
+        "text": "gotta love milwaukee houses",
+        "user": "U15HY5TG8",
+        "ts": "1462390716.000801"
+    },
+    {
+        "type": "message",
+        "text": "Lmaaaaoooooo",
+        "user": "U15J5H60P",
+        "ts": "1462390716.000802"
+    },
+    {
+        "type": "message",
+        "text": "Hahahaghs I do remember that",
+        "user": "U15J5H60P",
+        "ts": "1462390729.000803"
+    },
+    {
+        "type": "message",
+        "text": "if you kick but don't get the votes then you lose your admin rights",
+        "user": "U15HZ01QX",
+        "ts": "1462390734.000804"
+    },
+    {
+        "type": "message",
+        "text": "this blonde is loooking fiiiiiine",
+        "user": "U15HY5TG8",
+        "ts": "1462390735.000805"
+    },
+    {
+        "type": "message",
+        "text": "we're not doing all of that",
+        "user": "U15HZ01QX",
+        "ts": "1462390746.000806"
+    },
+    {
+        "type": "message",
+        "text": "hurry up",
+        "user": "U15HZ01QX",
+        "ts": "1462390748.000807"
+    },
+    {
+        "type": "message",
+        "text": "it didnt work james",
+        "user": "U15HY5TG8",
+        "ts": "1462390755.000808"
+    },
+    {
+        "type": "message",
+        "text": "Sorry james",
+        "user": "U15HRTAHL",
+        "ts": "1462390760.000809"
+    },
+    {
+        "type": "message",
+        "text": "Not getting my vote till its fixed",
+        "user": "U15HRTAHL",
+        "ts": "1462390769.000810"
+    },
+    {
+        "type": "message",
+        "text": "what am i sorry about?",
+        "user": "U15HY5TG8",
+        "ts": "1462390773.000811"
+    },
+    {
+        "type": "message",
+        "text": "And like you said",
+        "user": "U15HRTAHL",
+        "ts": "1462390777.000812"
+    },
+    {
+        "type": "message",
+        "text": "All votes must be in",
+        "user": "U15HRTAHL",
+        "ts": "1462390784.000813"
+    },
+    {
+        "type": "message",
+        "text": "i don't know what you want me to change it to",
+        "user": "U15HZ01QX",
+        "ts": "1462390784.000814",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1462390794.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "How about",
+        "user": "U15HRTAHL",
+        "ts": "1462390801.000816"
+    },
+    {
+        "type": "message",
+        "text": "All members except the person being potentially kicked must vote yes",
+        "user": "U15HRTAHL",
+        "ts": "1462390819.000817"
+    },
+    {
+        "type": "message",
+        "text": "3 is a magic number",
+        "user": "U15HRTAHL",
+        "ts": "1462390824.000818"
+    },
+    {
+        "type": "message",
+        "text": "i think i want it changed to \"Who we want to have admin rights:\n1) Yes\"",
+        "user": "U15HY5TG8",
+        "ts": "1462390825.000819"
+    },
+    {
+        "type": "message",
+        "text": "i said 3",
+        "user": "U15HZ01QX",
+        "ts": "1462390830.000820"
+    },
+    {
+        "type": "message",
+        "text": "Right",
+        "user": "U15HRTAHL",
+        "ts": "1462390839.000821"
+    },
+    {
+        "type": "message",
+        "text": "Thats bad",
+        "user": "U15HRTAHL",
+        "ts": "1462390841.000822"
+    },
+    {
+        "type": "message",
+        "text": "because tommy isn't around often enough to vote",
+        "user": "U15HZ01QX",
+        "ts": "1462390845.000823"
+    },
+    {
+        "type": "message",
+        "text": "sorry",
+        "user": "U15HZ01QX",
+        "ts": "1462390848.000824"
+    },
+    {
+        "type": "message",
+        "text": "Oh well",
+        "user": "U15HRTAHL",
+        "ts": "1462390851.000825"
+    },
+    {
+        "type": "message",
+        "text": "All votes must matter",
+        "user": "U15HRTAHL",
+        "ts": "1462390859.000826"
+    },
+    {
+        "type": "message",
+        "text": "not if he doesn't show up",
+        "user": "U15HZ01QX",
+        "ts": "1462390869.000827"
+    },
+    {
+        "type": "message",
+        "text": "besides the iimposter",
+        "user": "U15HY5TG8",
+        "ts": "1462390870.000828"
+    },
+    {
+        "type": "message",
+        "text": "I dont remember voting on that",
+        "user": "U15HRTAHL",
+        "ts": "1462390890.000829"
+    },
+    {
+        "type": "message",
+        "text": "on what",
+        "user": "U15HY5TG8",
+        "ts": "1462390899.000830"
+    },
+    {
+        "type": "message",
+        "text": "whoaaaa when did i get my admin rights removed?",
+        "user": "U15HY5TG8",
+        "ts": "1462390978.000831"
+    },
+    {
+        "type": "message",
+        "text": "ok so we have a tie on one",
+        "user": "U15HZ01QX",
+        "ts": "1462390990.000832"
+    },
+    {
+        "type": "message",
+        "text": "No you dont",
+        "user": "U15HRTAHL",
+        "ts": "1462390997.000834"
+    },
+    {
+        "type": "message",
+        "text": "I didnt vote",
+        "user": "U15HRTAHL",
+        "ts": "1462391000.000835"
+    },
+    {
+        "type": "message",
+        "text": "What are somethings we need an admin for?",
+        "user": "U15HSHSS2",
+        "ts": "1462391008.000836"
+    },
+    {
+        "type": "message",
+        "text": "your vote is in joe",
+        "user": "U15HZ01QX",
+        "ts": "1462391013.000837"
+    },
+    {
+        "type": "message",
+        "text": "Kicking",
+        "user": "U15J5H60P",
+        "ts": "1462391017.000838"
+    },
+    {
+        "type": "message",
+        "text": "No its not",
+        "user": "U15HRTAHL",
+        "ts": "1462391019.000839"
+    },
+    {
+        "type": "message",
+        "text": "That's it pretty much",
+        "user": "U15J5H60P",
+        "ts": "1462391025.000840"
+    },
+    {
+        "type": "message",
+        "text": "kicking people, inviting people, creating channels, removing channels",
+        "user": "U15HSHSS2",
+        "ts": "1462391026.000841"
+    },
+    {
+        "type": "message",
+        "text": "Anyone can create channels ",
+        "user": "U15J5H60P",
+        "ts": "1462391035.000842"
+    },
+    {
+        "type": "message",
+        "text": "mistrial",
+        "user": "U15HY5TG8",
+        "ts": "1462391041.000843"
+    },
+    {
+        "type": "message",
+        "text": "oh",
+        "user": "U15HSHSS2",
+        "ts": "1462391041.000844"
+    },
+    {
+        "type": "message",
+        "text": "Or invite people I think",
+        "user": "U15J5H60P",
+        "ts": "1462391045.000845"
+    },
+    {
+        "type": "message",
+        "text": "so just kicking people?",
+        "user": "U15HSHSS2",
+        "ts": "1462391051.000846"
+    },
+    {
+        "type": "message",
+        "text": "oh nvm",
+        "user": "U15HZ01QX",
+        "ts": "1462391053.000847"
+    },
+    {
+        "type": "message",
+        "text": "i think evan used his phone to do it twice",
+        "user": "U15HZ01QX",
+        "ts": "1462391065.000848"
+    },
+    {
+        "type": "message",
+        "text": "Whoever. Created the channel ca delete or an admin can delete the channel",
+        "user": "U15J5H60P",
+        "ts": "1462391068.000849"
+    },
+    {
+        "type": "message",
+        "text": "Is everyone an admin or no",
+        "user": "U15HRTAHL",
+        "ts": "1462391098.000850"
+    },
+    {
+        "type": "message",
+        "text": "if they're not im taking my vote and walking",
+        "user": "U15HRTAHL",
+        "ts": "1462391106.000851"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1462391108.000852"
+    },
+    {
+        "type": "message",
+        "text": "Sorry for grammatical errors I'm signing a lease",
+        "user": "U15J5H60P",
+        "ts": "1462391109.000853"
+    },
+    {
+        "type": "message",
+        "text": "is there a way to make it so only admins can create channels?",
+        "user": "U15HSHSS2",
+        "ts": "1462391129.000854"
+    },
+    {
+        "type": "message",
+        "text": "yeah everyone was an admin",
+        "user": "U15HZ01QX",
+        "ts": "1462391146.000855"
+    },
+    {
+        "type": "message",
+        "text": "which was my point",
+        "user": "U15HZ01QX",
+        "ts": "1462391150.000856"
+    },
+    {
+        "type": "message",
+        "text": "was?",
+        "user": "U15HRTAHL",
+        "ts": "1462391152.000857"
+    },
+    {
+        "type": "message",
+        "text": "are they going to be",
+        "user": "U15HRTAHL",
+        "ts": "1462391155.000858"
+    },
+    {
+        "type": "message",
+        "text": "this is future",
+        "user": "U15HRTAHL",
+        "ts": "1462391157.000859"
+    },
+    {
+        "type": "message",
+        "text": "so can non admins create channels?",
+        "user": "U15HSHSS2",
+        "ts": "1462391160.000860"
+    },
+    {
+        "type": "message",
+        "text": "you made me delete the question",
+        "user": "U15HZ01QX",
+        "ts": "1462391164.000861"
+    },
+    {
+        "type": "message",
+        "text": "everyone on the list had a vote",
+        "user": "U15HZ01QX",
+        "ts": "1462391171.000862"
+    },
+    {
+        "type": "message",
+        "text": "which is why it was dumb",
+        "user": "U15HZ01QX",
+        "ts": "1462391178.000863"
+    },
+    {
+        "type": "message",
+        "text": "The question shouldnt even have been on there",
+        "user": "U15HRTAHL",
+        "ts": "1462391189.000864"
+    },
+    {
+        "type": "message",
+        "text": "and I never casted my vote",
+        "user": "U15HRTAHL",
+        "ts": "1462391194.000865"
+    },
+    {
+        "type": "message",
+        "text": "Wheres the link",
+        "user": "U15HRTAHL",
+        "ts": "1462391199.000866"
+    },
+    {
+        "type": "message",
+        "text": "UWMWifi in the union is FUCKING SHIT",
+        "user": "U15HY5TG8",
+        "ts": "1462391209.000867"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.surveymonkey.com\/r\/ZMP6CQH>",
+        "user": "U15HZ01QX",
+        "ts": "1462391235.000868"
+    },
+    {
+        "type": "message",
+        "text": "joe hurry up",
+        "user": "U15HZ01QX",
+        "ts": "1462391252.000869"
+    },
+    {
+        "type": "message",
+        "text": "submitted",
+        "user": "U15HRTAHL",
+        "ts": "1462391363.000870"
+    },
+    {
+        "type": "message",
+        "text": "what are the votes",
+        "user": "U15HRTAHL",
+        "ts": "1462391367.000871"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.surveymonkey.com\/results\/SM-866SJ6KR\/>",
+        "user": "U15HZ01QX",
+        "ts": "1462391406.000872",
+        "attachments": [
+            {
+                "title": "Slack proposals",
+                "title_link": "https:\/\/www.surveymonkey.com\/results\/SM-866SJ6KR\/",
+                "text": "5 responses to: A person must receive 3 votes to kick someone., You should be able to invite anyone to chats regardless of whether or not they want it, Punishment for breaking the above rules., Evan name should be, Plus Plus is deeply in the negative., Acting as an imposter",
+                "fallback": "Slack proposals",
+                "thumb_url": "https:\/\/secure.surveymonkey.com\/_resources\/SharedViews\/shared_chart.png",
+                "from_url": "https:\/\/www.surveymonkey.com\/results\/SM-866SJ6KR\/",
+                "thumb_width": 232,
+                "thumb_height": 232,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "what do we do about ties?",
+        "user": "U15HRTAHL",
+        "ts": "1462391479.000874"
+    },
+    {
+        "type": "message",
+        "text": "President vote?",
+        "user": "U15HRTAHL",
+        "ts": "1462391484.000875"
+    },
+    {
+        "type": "message",
+        "text": "or",
+        "user": "U15HRTAHL",
+        "ts": "1462391486.000876"
+    },
+    {
+        "type": "message",
+        "text": "alright so a few things",
+        "user": "U15HZ01QX",
+        "ts": "1462391487.000877"
+    },
+    {
+        "type": "message",
+        "text": "elimante the one with the least votes and revote on them",
+        "user": "U15HRTAHL",
+        "ts": "1462391496.000878"
+    },
+    {
+        "type": "message",
+        "text": "1. we need a tie break on kicking",
+        "user": "U15HZ01QX",
+        "ts": "1462391497.000879"
+    },
+    {
+        "type": "message",
+        "text": "What do we do about ties?",
+        "user": "U15HRTAHL",
+        "ts": "1462391547.000882"
+    },
+    {
+        "type": "message",
+        "text": "When do andrew and evan get admin rights back",
+        "user": "U15HRTAHL",
+        "ts": "1462391567.000883"
+    },
+    {
+        "type": "message",
+        "text": "so who believes in never kicking",
+        "user": "U15HZ01QX",
+        "ts": "1462391570.000884"
+    },
+    {
+        "type": "message",
+        "text": "Aye",
+        "user": "U15HRTAHL",
+        "ts": "1462391576.000885"
+    },
+    {
+        "type": "message",
+        "text": "and who believes in 3 vote kick",
+        "user": "U15HZ01QX",
+        "ts": "1462391579.000886"
+    },
+    {
+        "type": "message",
+        "text": "simple poll it",
+        "user": "U15HRTAHL",
+        "ts": "1462391595.000887"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F166WCZKN",
+                "created": 1462391606,
+                "timestamp": 1462391606,
+                "name": "Screen Shot 2016-05-04 at 2.35.57 PM.png",
+                "title": "Screen Shot 2016-05-04 at 2.35.57 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 125505,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F166WCZKN\/screen_shot_2016-05-04_at_2.35.57_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F166WCZKN\/download\/screen_shot_2016-05-04_at_2.35.57_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 335,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 446,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 669,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 892,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F166WCZKN-5ef6fe5d56\/screen_shot_2016-05-04_at_2.35.57_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 952,
+                "image_exif_rotation": 1,
+                "original_w": 1498,
+                "original_h": 1392,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F166WCZKN\/screen_shot_2016-05-04_at_2.35.57_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F166WCZKN-a116c76a7b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1462391614.000888"
+    },
+    {
+        "type": "message",
+        "text": "\/poll close",
+        "user": "U15HZ01QX",
+        "ts": "1462391623.000889"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Poll: *test.* has been closed\nCreated by <@U15HZ01QX|james> on 2016-05-04 (2 hours ago)\nNo votes were received for this poll.",
+        "ts": "1462391623.000890",
+        "bot_id": "B165LLKFF"
+    },
+    {
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HRTAHL",
+        "ts": "1462391637.000892"
+    },
+    {
+        "type": "message",
+        "text": "who voted for me?",
+        "user": "U15HRTAHL",
+        "ts": "1462391641.000893"
+    },
+    {
+        "type": "message",
+        "text": "I didn't",
+        "user": "U15HRTAHL",
+        "ts": "1462391643.000894"
+    },
+    {
+        "type": "message",
+        "text": "alright so first off",
+        "user": "U15HZ01QX",
+        "ts": "1462391655.000895"
+    },
+    {
+        "type": "message",
+        "text": "evan you gotta change your name",
+        "user": "U15HZ01QX",
+        "ts": "1462391663.000896"
+    },
+    {
+        "type": "message",
+        "text": "I'm in the middle of signing a lease guys",
+        "user": "U15J5H60P",
+        "ts": "1462391718.000898"
+    },
+    {
+        "type": "message",
+        "text": "\/poll publish",
+        "user": "U15HZ01QX",
+        "ts": "1462391747.000900"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1462391747.000901",
+        "bot_id": "B165LLKFF",
+        "attachments": [
+            {
+                "fallback": "Poll \"tie\": [1] 3 vote kick \/ [2] no kicking",
+                "pretext": "Poll: *tie*\nCreated by <@U15HZ01QX|james> on 2016-05-04 (one minute ago)\n",
+                "id": 1,
+                "fields": [
+                    {
+                        "title": "Choice 1",
+                        "value": "3 vote kick",
+                        "short": true
+                    },
+                    {
+                        "title": "Choice 2",
+                        "value": "no kicking",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "pretext"
+                ]
+            },
+            {
+                "pretext": "Type `\/poll vote &lt;n1&gt; ..., &lt;n2&gt; &lt;n3&gt; ...` to record or update a vote.\nType `\/poll show` for a private display of the poll, with icons you can click to vote easily",
+                "id": 2,
+                "mrkdwn_in": [
+                    "pretext"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I voted Evan and tom",
+        "user": "U15J5H60P",
+        "ts": "1462391750.000902"
+    },
+    {
+        "type": "message",
+        "text": "I think this API thing is doable...",
+        "user": "U15HSHSS2",
+        "ts": "1462391772.000904"
+    },
+    {
+        "type": "message",
+        "text": "how do I vote?",
+        "user": "U15HRTAHL",
+        "ts": "1462391774.000905"
+    },
+    {
+        "type": "message",
+        "text": "\"\/poll show\"",
+        "user": "U15HZ01QX",
+        "ts": "1462391793.000907"
+    },
+    {
+        "type": "message",
+        "text": "my votes aren't posting",
+        "user": "U15HRTAHL",
+        "ts": "1462391820.000911"
+    },
+    {
+        "type": "message",
+        "text": "wtf",
+        "user": "U15HRTAHL",
+        "ts": "1462391832.000913"
+    },
+    {
+        "type": "message",
+        "text": "\/poll vote 2?",
+        "user": "U15HRTAHL",
+        "ts": "1462391841.000914"
+    },
+    {
+        "type": "message",
+        "text": "i display at the end",
+        "user": "U15HZ01QX",
+        "ts": "1462391843.000915"
+    },
+    {
+        "type": "message",
+        "text": "is that what I do?",
+        "user": "U15HRTAHL",
+        "ts": "1462391846.000916"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: hahahahahahahaha",
+        "user": "U15HZ01QX",
+        "ts": "1462391928.000922"
+    },
+    {
+        "type": "message",
+        "text": "slumdog",
+        "user": "U15HZ01QX",
+        "ts": "1462391935.000923"
+    },
+    {
+        "type": "message",
+        "text": "it is what it is",
+        "user": "U15HY5TG8",
+        "ts": "1462392020.000924"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>: plusplus is gone and everyone hAS admin rights",
+        "user": "U15HZ01QX",
+        "ts": "1462392076.000926"
+    },
+    {
+        "type": "message",
+        "text": "wait....plus plus got voted off?",
+        "user": "U15HY5TG8",
+        "ts": "1462392092.000927"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HZ01QX",
+        "ts": "1462392100.000928"
+    },
+    {
+        "type": "message",
+        "text": "but....as an admin...i could theoretically add it back right?",
+        "user": "U15HY5TG8",
+        "ts": "1462392116.000929"
+    },
+    {
+        "type": "message",
+        "text": "theoretically",
+        "user": "U15HZ01QX",
+        "ts": "1462392127.000930"
+    },
+    {
+        "type": "message",
+        "text": "ugh",
+        "user": "U15HRTAHL",
+        "ts": "1462392130.000931"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HY5TG8",
+        "ts": "1462392132.000932"
+    },
+    {
+        "type": "message",
+        "text": "Wooo signed my lease!",
+        "user": "U15J5H60P",
+        "ts": "1462392135.000933"
+    },
+    {
+        "type": "message",
+        "text": "where for?",
+        "user": "U15HY5TG8",
+        "ts": "1462392140.000934"
+    },
+    {
+        "type": "message",
+        "text": "1671 prospect ",
+        "user": "U15J5H60P",
+        "ts": "1462392176.000935"
+    },
+    {
+        "type": "message",
+        "text": "jeeeeeeez man",
+        "user": "U15HY5TG8",
+        "ts": "1462392183.000936"
+    },
+    {
+        "type": "message",
+        "text": "So a little ways down",
+        "user": "U15J5H60P",
+        "ts": "1462392184.000937"
+    },
+    {
+        "type": "message",
+        "text": "id say",
+        "user": "U15HY5TG8",
+        "ts": "1462392197.000938"
+    },
+    {
+        "type": "message",
+        "text": "But steel appliances, new wood floors",
+        "user": "U15J5H60P",
+        "ts": "1462392205.000939"
+    },
+    {
+        "type": "message",
+        "text": "I'm jacked",
+        "user": "U15J5H60P",
+        "ts": "1462392213.000940"
+    },
+    {
+        "type": "message",
+        "text": "Bachelor bad",
+        "user": "U15J5H60P",
+        "ts": "1462392218.000941"
+    },
+    {
+        "type": "message",
+        "text": "Pad*",
+        "user": "U15J5H60P",
+        "ts": "1462392224.000942"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F167A6VBP",
+                "created": 1462392228,
+                "timestamp": 1462392228,
+                "name": "Pasted image at 2016_05_04 03_03 PM.png",
+                "title": "Pasted image at 2016-05-04, 3:03 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 347440,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F167A6VBP\/pasted_image_at_2016_05_04_03_03_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F167A6VBP\/download\/pasted_image_at_2016_05_04_03_03_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167A6VBP-06978af5db\/pasted_image_at_2016_05_04_03_03_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 1600,
+                "original_h": 1200,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F167A6VBP\/pasted_image_at_2016_05_04_03_03_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F167A6VBP-653e3d4a11",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1462392231.000943"
+    },
+    {
+        "type": "message",
+        "text": "dammit",
+        "user": "U15HZ01QX",
+        "ts": "1462392238.000944"
+    },
+    {
+        "type": "message",
+        "text": "we shoulda voted on giphy",
+        "user": "U15HZ01QX",
+        "ts": "1462392245.000945"
+    },
+    {
+        "type": "message",
+        "text": "polls closed",
+        "user": "U15HY5TG8",
+        "ts": "1462392260.000946",
+        "reactions": [
+            {
+                "name": "chestnut",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy lmao",
+        "user": "U15J5H60P",
+        "ts": "1462392268.000947",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/originals-lmao-3o6ozhuvjarhjFkeek>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/3o6ozhuvjarhjFkeek\/giphy.gif",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 34883,
+                "is_animated": true,
+                "title": "lmao",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/originals-lmao-3o6ozhuvjarhjFkeek"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "gotta wait 4 years now",
+        "user": "U15HY5TG8",
+        "ts": "1462392297.000948"
+    },
+    {
+        "type": "message",
+        "text": "lol or until someone breaks a rule",
+        "user": "U15HZ01QX",
+        "ts": "1462392311.000949"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F167AR54M",
+                "created": 1462392329,
+                "timestamp": 1462392329,
+                "name": "apt.png",
+                "title": ".png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 1172133,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F167AR54M\/apt.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F167AR54M\/download\/apt.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167AR54M-b3560aeed8\/apt_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167AR54M-b3560aeed8\/apt_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167AR54M-b3560aeed8\/apt_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 326,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167AR54M-b3560aeed8\/apt_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 435,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F167AR54M-b3560aeed8\/apt_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 719,
+                "original_h": 651,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/F167AR54M\/apt.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F167AR54M-e4d2c64d0e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "ts": "1462392331.000950"
+    },
+    {
+        "type": "message",
+        "text": "is that the place?",
+        "user": "U15HSHSS2",
+        "ts": "1462392337.000951"
+    },
+    {
+        "type": "message",
+        "text": "yea",
+        "user": "U15HZ01QX",
+        "ts": "1462392343.000952"
+    },
+    {
+        "type": "message",
+        "text": "i think",
+        "user": "U15HZ01QX",
+        "ts": "1462392351.000953"
+    },
+    {
+        "type": "message",
+        "text": "why are all milwaukee apartments hideous",
+        "user": "U15HY5TG8",
+        "ts": "1462392369.000954"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. It just got bought by dominian apartments and is being redone ",
+        "user": "U15J5H60P",
+        "ts": "1462392380.000955"
+    },
+    {
+        "type": "message",
+        "text": "niicce",
+        "user": "U15HSHSS2",
+        "ts": "1462392388.000956"
+    },
+    {
+        "type": "message",
+        "text": "is it a one bedroom?",
+        "user": "U15HZ01QX",
+        "ts": "1462392487.000957"
+    },
+    {
+        "type": "message",
+        "text": "or a studio?",
+        "user": "U15HZ01QX",
+        "ts": "1462392490.000958"
+    },
+    {
+        "type": "message",
+        "text": "evan",
+        "user": "U15HZ01QX",
+        "ts": "1462392513.000961"
+    },
+    {
+        "type": "message",
+        "text": "go to tech",
+        "user": "U15HZ01QX",
+        "ts": "1462392516.000962"
+    },
+    {
+        "type": "message",
+        "text": "this is random...it doesnt need to be talked about",
+        "user": "U15HY5TG8",
+        "ts": "1462392538.000964"
+    },
+    {
+        "type": "message",
+        "text": "fine whatever",
+        "user": "U15HZ01QX",
+        "ts": "1462392555.000965"
+    },
+    {
+        "type": "message",
+        "text": ":simple_smile:",
+        "user": "U15HY5TG8",
+        "ts": "1462392562.000966"
+    },
+    {
+        "type": "message",
+        "text": "It’s a studio.",
+        "user": "U15J5H60P",
+        "ts": "1462392885.000967"
+    },
+    {
+        "type": "message",
+        "text": "i kinda want a studio",
+        "user": "U15HY5TG8",
+        "ts": "1462392905.000968"
+    },
+    {
+        "type": "message",
+        "text": "For the rap",
+        "user": "U15HZ01QX",
+        "ts": "1462393120.000969"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1462393134.000970"
+    },
+    {
+        "type": "message",
+        "text": "what",
+        "user": "U15HY5TG8",
+        "ts": "1462393246.000971"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HY5TG8",
+        "ts": "1462393249.000972"
+    },
+    {
+        "type": "message",
+        "text": "My roommate might have appendicitis",
+        "user": "U15HRTAHL",
+        "ts": "1462393421.000973"
+    },
+    {
+        "type": "message",
+        "text": "Which one?",
+        "user": "U15J5H60P",
+        "ts": "1462393427.000974"
+    },
+    {
+        "type": "message",
+        "text": "that sucks",
+        "user": "U15HY5TG8",
+        "ts": "1462393488.000975"
+    },
+    {
+        "type": "message",
+        "text": "nick",
+        "user": "U15HRTAHL",
+        "ts": "1462393526.000976"
+    },
+    {
+        "type": "message",
+        "text": "he might need me to take him to the hospital",
+        "user": "U15HRTAHL",
+        "ts": "1462393534.000977"
+    },
+    {
+        "type": "message",
+        "text": "you dont have a car",
+        "user": "U15HY5TG8",
+        "ts": "1462393550.000978"
+    },
+    {
+        "type": "message",
+        "text": "Im going to ask the doctor if he can accidently perform a vasectomy",
+        "user": "U15HRTAHL",
+        "ts": "1462393568.000979"
+    },
+    {
+        "type": "message",
+        "text": "no my roommate does though",
+        "user": "U15HRTAHL",
+        "ts": "1462393574.000980"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462393583.000981"
+    },
+    {
+        "type": "message",
+        "text": "fuck im bored",
+        "user": "U15HY5TG8",
+        "ts": "1462393945.000982"
+    },
+    {
+        "type": "message",
+        "text": "I get nicks tv if he dies",
+        "user": "U15HRTAHL",
+        "ts": "1462394007.000983"
+    },
+    {
+        "type": "message",
+        "text": "im so excited",
+        "user": "U15HRTAHL",
+        "ts": "1462394010.000984"
+    },
+    {
+        "type": "message",
+        "text": "so this is the environment im moving into",
+        "user": "U15HY5TG8",
+        "ts": "1462394038.000985"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: can you send the OS to me?",
+        "user": "U15HY5TG8",
+        "ts": "1462394464.000986"
+    },
+    {
+        "type": "message",
+        "text": "James what the fuck",
+        "user": "U15J5H60P",
+        "ts": "1462395288.000987"
+    },
+    {
+        "type": "message",
+        "text": "You left a 6 dollar tip on two drinks",
+        "user": "U15J5H60P",
+        "ts": "1462395297.000988"
+    },
+    {
+        "type": "message",
+        "text": "No 8 dollar tip",
+        "user": "U15J5H60P",
+        "ts": "1462395310.000989"
+    },
+    {
+        "type": "message",
+        "text": "What the fuck dude",
+        "user": "U15J5H60P",
+        "ts": "1462395316.000990"
+    },
+    {
+        "type": "message",
+        "text": "What",
+        "user": "U15HY5TG8",
+        "ts": "1462395527.000991"
+    },
+    {
+        "type": "message",
+        "text": "Unbelievable i just sat at school for 4 hrs and it looks like class was canceled",
+        "user": "U15HY5TG8",
+        "ts": "1462395695.000992"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1462396056.000993"
+    },
+    {
+        "type": "message",
+        "text": "Evan you can download \"the os\" from the pirate bay ",
+        "user": "U15HRTAHL",
+        "ts": "1462396082.000994"
+    },
+    {
+        "type": "message",
+        "text": "os hw",
+        "user": "U15HY5TG8",
+        "ts": "1462396554.000995"
+    },
+    {
+        "type": "message",
+        "text": "and apparently logging into facebook on my  phone is the equivalence of holding the power button for 5 seconds",
+        "user": "U15HY5TG8",
+        "ts": "1462396586.000996"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1462396605.000997"
+    },
+    {
+        "type": "message",
+        "text": "What? <https:\/\/freeuwmke.slack.com\/archives\/random\/p1462395288000987>",
+        "user": "U15HZ01QX",
+        "ts": "1462400864.000998",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/random\/p1462395288000987",
+                "fallback": "[May 4th, 2016 1:54 PM] andrew: James what the fuck",
+                "author_subname": "andrew",
+                "ts": "1462395288.000987",
+                "text": "James what the fuck",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/andrew",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-03\/39971243460_f0095f9f23c108782ce4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1462400912.001000"
+    },
+    {
+        "type": "message",
+        "text": "where even is that message?",
+        "user": "U15HY5TG8",
+        "ts": "1462400945.001001"
+    },
+    {
+        "type": "message",
+        "text": "You left an 8 dollar tip on two drinks ",
+        "user": "U15J5H60P",
+        "ts": "1462400956.001002"
+    },
+    {
+        "type": "message",
+        "text": "whats wrong with that?",
+        "user": "U15HY5TG8",
+        "ts": "1462400964.001003"
+    },
+    {
+        "type": "message",
+        "text": "Where",
+        "user": "U15HZ01QX",
+        "ts": "1462400968.001004"
+    },
+    {
+        "type": "message",
+        "text": "Plum",
+        "user": "U15J5H60P",
+        "ts": "1462400970.001005"
+    },
+    {
+        "type": "message",
+        "text": "When",
+        "user": "U15HZ01QX",
+        "ts": "1462400971.001006"
+    },
+    {
+        "type": "message",
+        "text": "plum?",
+        "user": "U15HY5TG8",
+        "ts": "1462400980.001007"
+    },
+    {
+        "type": "message",
+        "text": "I don't remember this",
+        "user": "U15HZ01QX",
+        "ts": "1462401004.001008"
+    },
+    {
+        "type": "message",
+        "text": "Do you feel trapped by credit cards?",
+        "user": "U15HY5TG8",
+        "ts": "1462405021.001009"
+    },
+    {
+        "type": "message",
+        "text": "Im attorney Peter Francis Geraci, if your credit cards are too high, consider Chapter 7",
+        "user": "U15HY5TG8",
+        "ts": "1462405071.001010"
+    },
+    {
+        "type": "message",
+        "text": "Hmm... Man, no quiz, last class, final exam is up, I'm not seein a reason for me to get outta bed and go to HCI",
+        "user": "U15HSHSS2",
+        "ts": "1462405353.001011"
+    },
+    {
+        "type": "message",
+        "text": "whats HCI?",
+        "user": "U15HY5TG8",
+        "ts": "1462405432.001012"
+    },
+    {
+        "type": "message",
+        "text": "I'm going",
+        "user": "U15J5H60P",
+        "ts": "1462405893.001013"
+    },
+    {
+        "type": "message",
+        "text": "For sure ",
+        "user": "U15J5H60P",
+        "ts": "1462405899.001014"
+    },
+    {
+        "type": "message",
+        "text": "I've gotta stop being a fuck with school",
+        "user": "U15J5H60P",
+        "ts": "1462405916.001015"
+    },
+    {
+        "type": "message",
+        "text": "Who wants to go to fish bowls tonight?",
+        "user": "U15J5H60P",
+        "ts": "1462405928.001016"
+    },
+    {
+        "type": "message",
+        "text": "Fish bowls instead of HCI it is",
+        "user": "U15HSHSS2",
+        "ts": "1462405972.001017"
+    },
+    {
+        "type": "message",
+        "text": "you alcoholic",
+        "user": "U15HY5TG8",
+        "ts": "1462405976.001018"
+    },
+    {
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15J5H60P",
+        "ts": "1462405980.001019"
+    },
+    {
+        "type": "message",
+        "text": "s",
+        "user": "U15HY5TG8",
+        "ts": "1462405982.001020"
+    },
+    {
+        "type": "message",
+        "text": "Man",
+        "user": "U15J5H60P",
+        "ts": "1462405988.001021"
+    },
+    {
+        "type": "message",
+        "text": "I wouldn't mind getting shit faced instead of having class",
+        "user": "U15J5H60P",
+        "ts": "1462406003.001022"
+    },
+    {
+        "type": "message",
+        "text": "Haha",
+        "user": "U15HSHSS2",
+        "ts": "1462406009.001023"
+    },
+    {
+        "type": "message",
+        "text": "Especially going this early",
+        "user": "U15J5H60P",
+        "ts": "1462406011.001024"
+    },
+    {
+        "type": "message",
+        "text": "Be in bed by 10",
+        "user": "U15J5H60P",
+        "ts": "1462406017.001025"
+    },
+    {
+        "type": "message",
+        "text": "Damn that'd be nice",
+        "user": "U15HSHSS2",
+        "ts": "1462406032.001026"
+    },
+    {
+        "type": "message",
+        "text": "Wake up hella refreshed in the AM",
+        "user": "U15J5H60P",
+        "ts": "1462406045.001027"
+    },
+    {
+        "type": "message",
+        "text": "lololol like thats ever happened",
+        "user": "U15HY5TG8",
+        "ts": "1462406058.001028"
+    },
+    {
+        "type": "message",
+        "text": "Head to work and let out all of the alcohol shits for an hour at $25",
+        "user": "U15J5H60P",
+        "ts": "1462406078.001029"
+    },
+    {
+        "type": "message",
+        "text": "Can't go wrong with that",
+        "user": "U15J5H60P",
+        "ts": "1462406085.001030"
+    },
+    {
+        "type": "message",
+        "text": "Can I just intern forever?",
+        "user": "U15J5H60P",
+        "ts": "1462406094.001031"
+    },
+    {
+        "type": "message",
+        "text": "Enough work to keep me busy",
+        "user": "U15J5H60P",
+        "ts": "1462406109.001032"
+    },
+    {
+        "type": "message",
+        "text": "Not enough to hold me responsible ",
+        "user": "U15J5H60P",
+        "ts": "1462406124.001033"
+    },
+    {
+        "type": "message",
+        "text": "Ah the life",
+        "user": "U15J5H60P",
+        "ts": "1462406133.001034"
+    },
+    {
+        "type": "message",
+        "text": "It's all downhill from here",
+        "user": "U15J5H60P",
+        "ts": "1462406143.001035"
+    },
+    {
+        "type": "message",
+        "text": "Add some passive income to that",
+        "user": "U15HSHSS2",
+        "ts": "1462406153.001036"
+    },
+    {
+        "type": "message",
+        "text": ":sunglasses::tropical_drink:",
+        "user": "U15HSHSS2",
+        "ts": "1462406170.001037"
+    },
+    {
+        "type": "message",
+        "text": "so whats hci",
+        "user": "U15HY5TG8",
+        "ts": "1462406295.001038"
+    },
+    {
+        "type": "message",
+        "text": "Human Computer interactions",
+        "user": "U15J5H60P",
+        "ts": "1462406303.001039"
+    },
+    {
+        "type": "message",
+        "text": "User Interface Design",
+        "user": "U15J5H60P",
+        "ts": "1462406307.001040"
+    },
+    {
+        "type": "message",
+        "text": "ahh",
+        "user": "U15HY5TG8",
+        "ts": "1462406309.001041"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy one call that’s all",
+        "user": "U15J5H60P",
+        "ts": "1462406317.001042",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/hey-arnold-TanhZDPNHM4zC>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/TanhZDPNHM4zC\/giphy.gif",
+                "image_width": 245,
+                "image_height": 150,
+                "image_bytes": 481866,
+                "is_animated": true,
+                "title": "one call that's all",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/hey-arnold-TanhZDPNHM4zC"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Booooo",
+        "user": "U15J5H60P",
+        "ts": "1462406322.001043"
+    },
+    {
+        "type": "message",
+        "text": "im not david gruber",
+        "user": "U15HY5TG8",
+        "ts": "1462406331.001044"
+    },
+    {
+        "type": "message",
+        "text": "Yeah yeah",
+        "user": "U15J5H60P",
+        "ts": "1462406337.001045"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy chapter 7",
+        "user": "U15J5H60P",
+        "ts": "1462406342.001046",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/house-of-cards-kevin-spacey-frank-underwood-44XncQLmVNxXG>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/44XncQLmVNxXG\/giphy.gif",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 848211,
+                "is_animated": true,
+                "title": "chapter 7",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/house-of-cards-kevin-spacey-frank-underwood-44XncQLmVNxXG"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "neat",
+        "user": "U15J5H60P",
+        "ts": "1462406345.001047"
+    },
+    {
+        "type": "message",
+        "text": "check out my infotapes",
+        "user": "U15HY5TG8",
+        "ts": "1462406360.001048"
+    },
+    {
+        "type": "message",
+        "text": "Giphy coudn’t match it",
+        "user": "U15J5H60P",
+        "ts": "1462406371.001049"
+    },
+    {
+        "type": "message",
+        "text": "your credit cards couldnt match",
+        "user": "U15HY5TG8",
+        "ts": "1462406413.001050"
+    },
+    {
+        "type": "message",
+        "text": "thinkin about making pancakes...",
+        "user": "U15HY5TG8",
+        "ts": "1462406536.001051"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy k",
+        "user": "U15J5H60P",
+        "ts": "1462406775.001052",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/thechive-thumbs-up-shrug-maybe-3oEduZgRHAmlACQSje>",
+                "image_url": "http:\/\/media.giphy.com\/media\/3oEduZgRHAmlACQSje\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 139,
+                "image_bytes": 758735,
+                "is_animated": true,
+                "title": "k",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/thechive-thumbs-up-shrug-maybe-3oEduZgRHAmlACQSje"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "i knew youd like to know",
+        "user": "U15HY5TG8",
+        "ts": "1462406797.001053"
+    },
+    {
+        "type": "message",
+        "text": "Do you work tomorrow, Ev?",
+        "user": "U15J5H60P",
+        "ts": "1462406880.001054"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>:",
+        "user": "U15J5H60P",
+        "ts": "1462406897.001055"
+    },
+    {
+        "type": "message",
+        "text": "We’re doing project stuff…",
+        "user": "U15J5H60P",
+        "ts": "1462406904.001056"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1462406968.001057"
+    },
+    {
+        "type": "message",
+        "text": "Does anyone wanna go get alcohol?",
+        "user": "U15J5H60P",
+        "ts": "1462408493.001058"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HY5TG8",
+        "ts": "1462408910.001059"
+    },
+    {
+        "type": "message",
+        "text": ":worried:",
+        "user": "U15J5H60P",
+        "ts": "1462408992.001060"
+    },
+    {
+        "type": "message",
+        "text": "PARTY FOR 1",
+        "user": "U15J5H60P",
+        "ts": "1462409002.001061"
+    },
+    {
+        "type": "message",
+        "text": "Imma get shit faced",
+        "user": "U15J5H60P",
+        "ts": "1462409017.001062"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1462409070.001063"
+    },
+    {
+        "type": "message",
+        "text": "Makin me some hella good Moscow mules up in this bbiiiiitttttccchhhhh",
+        "user": "U15J5H60P",
+        "ts": "1462409311.001064"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy moscow",
+        "user": "U15J5H60P",
+        "ts": "1462409369.001065",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/gifnews-sewing-pussy-riot-msnYPTNkcEFvq>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/msnYPTNkcEFvq\/giphy.gif",
+                "image_width": 540,
+                "image_height": 540,
+                "image_bytes": 368798,
+                "is_animated": true,
+                "title": "moscow",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/gifnews-sewing-pussy-riot-msnYPTNkcEFvq"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Andrew did you stop sharing your location?",
+        "user": "U15HSHSS2",
+        "ts": "1462410208.001066"
+    },
+    {
+        "type": "message",
+        "text": "I think it stopped sharing when I left a chat. I’ll add you back on. Anyone else not getting my loc?",
+        "user": "U15J5H60P",
+        "ts": "1462410231.001067"
+    },
+    {
+        "type": "message",
+        "text": "Are you getting my location now?",
+        "user": "U15J5H60P",
+        "ts": "1462410280.001068"
+    },
+    {
+        "type": "message",
+        "text": "James stopped sharing his location with me.",
+        "user": "U15J5H60P",
+        "ts": "1462410291.001069"
+    },
+    {
+        "type": "message",
+        "text": "I can see you now",
+        "user": "U15HSHSS2",
+        "ts": "1462410363.001070"
+    },
+    {
+        "type": "message",
+        "text": "Sounds good.",
+        "user": "U15J5H60P",
+        "ts": "1462410369.001071"
+    },
+    {
+        "type": "message",
+        "text": "Lol so did none of us go to HCI? Or are you guys back already?",
+        "user": "U15HSHSS2",
+        "ts": "1462410391.001072"
+    },
+    {
+        "type": "message",
+        "text": "It’s over. We just talked about Phase 3 and then left.",
+        "user": "U15J5H60P",
+        "ts": "1462410407.001073"
+    },
+    {
+        "type": "message",
+        "text": "Oh okay",
+        "user": "U15HSHSS2",
+        "ts": "1462410417.001074"
+    },
+    {
+        "type": "message",
+        "text": "We were the second group to meet with him.",
+        "user": "U15J5H60P",
+        "ts": "1462410419.001075"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: i cant see you either",
+        "user": "U15HY5TG8",
+        "ts": "1462410765.001076"
+    },
+    {
+        "type": "message",
+        "text": "You should be able to now...",
+        "user": "U15J5H60P",
+        "ts": "1462410811.001077"
+    },
+    {
+        "type": "message",
+        "text": "got it",
+        "user": "U15HY5TG8",
+        "ts": "1462410867.001078"
+    },
+    {
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "U15J5H60P",
+        "ts": "1462411095.001079",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15HY5TG8"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

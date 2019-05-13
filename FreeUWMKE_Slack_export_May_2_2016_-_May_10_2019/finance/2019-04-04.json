@@ -1,0 +1,154 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554405932.000200",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=ba&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=ba|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=ba|Finviz> | <http:\/\/stocktwits.com\/symbol\/ba|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554405930,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "396.00",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+11.26 (+2.93%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "7,927,192",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,050,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (16 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "438.58 (+10.75%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=ba&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32505,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=ba",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85096821-63E1-42D8-8D58-3DE5A0001F66",
+        "type": "message",
+        "text": "Easy money",
+        "user": "U15J5H60P",
+        "ts": "1554405934.000300"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1554406686.000500",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1554406716.000700",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "5D43AC01-809E-4B46-808F-89E26B4C3E89",
+        "type": "message",
+        "text": "Why was I kicked",
+        "user": "U15J5H60P",
+        "ts": "1554406721.001000"
+    },
+    {
+        "client_msg_id": "06D55E45-3DC0-4395-A2F3-CC7BB93FF8A5",
+        "type": "message",
+        "text": "I have 5 shares of Boeing",
+        "user": "U15J5H60P",
+        "ts": "1554406731.001300"
+    },
+    {
+        "client_msg_id": "2A22EADB-FD77-45DB-AA4B-9AEA70B28789",
+        "type": "message",
+        "text": "Real shares",
+        "user": "U15J5H60P",
+        "ts": "1554406741.001700"
+    },
+    {
+        "client_msg_id": "0561574B-1719-4182-BD86-01FD36A35884",
+        "type": "message",
+        "text": "For lying about your holdings before",
+        "user": "U15HZ01QX",
+        "ts": "1554406746.001900"
+    },
+    {
+        "client_msg_id": "7E0F2EDB-5D83-4820-AEE8-341A72784C34",
+        "type": "message",
+        "text": "I already served my time",
+        "user": "U15J5H60P",
+        "ts": "1554406758.002300"
+    }
+]

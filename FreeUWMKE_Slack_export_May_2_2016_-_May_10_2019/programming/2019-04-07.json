@@ -1,0 +1,262 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHS9SNJ7Q",
+                "created": 1554660168,
+                "timestamp": 1554660168,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-07, 1:02 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 33615,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHS9SNJ7Q\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHS9SNJ7Q\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 98,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 131,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 196,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 218,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 262,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHS9SNJ7Q-df86a131d8\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 279,
+                "image_exif_rotation": 1,
+                "original_w": 1108,
+                "original_h": 302,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHS9SNJ7Q\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHS9SNJ7Q-71043e724b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1554660171.000200",
+        "client_msg_id": "66409cc1-85ff-4ad9-b236-2f2ab77c0f17"
+    },
+    {
+        "client_msg_id": "d6020f07-36dd-4127-9a1a-97b9ba12dfa9",
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1554660172.000500"
+    },
+    {
+        "client_msg_id": "A8837A42-8C07-4DB5-8D8B-806A1ACD906D",
+        "type": "message",
+        "text": "Huh",
+        "user": "U15HY5TG8",
+        "ts": "1554660198.000700"
+    },
+    {
+        "client_msg_id": "A3024E99-C024-4765-A82C-F0B640B56875",
+        "type": "message",
+        "text": "Thats cool",
+        "user": "U15HY5TG8",
+        "ts": "1554660202.000900"
+    },
+    {
+        "client_msg_id": "DF71D924-BF8E-46CA-AFC6-221E572A6E72",
+        "type": "message",
+        "text": "Speaking of array.find, do you guys use underscore js or anything similar?",
+        "user": "U15HY5TG8",
+        "ts": "1554660420.002000"
+    },
+    {
+        "client_msg_id": "4c2ca9b8-3608-4f71-9d91-7a2a22ebee58",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1554660429.002200"
+    },
+    {
+        "client_msg_id": "a324a73f-0968-409f-94bd-1d38ba9a4016",
+        "type": "message",
+        "text": "unnecessary imports for a fucking for loop",
+        "user": "U15HRTAHL",
+        "ts": "1554660457.002700"
+    },
+    {
+        "client_msg_id": "5A516B1D-14CD-4946-B9A8-64B763918B03",
+        "type": "message",
+        "text": "Just curious",
+        "user": "U15HY5TG8",
+        "ts": "1554660474.003000"
+    },
+    {
+        "client_msg_id": "CD16016B-66FD-41D4-A339-4FA06F759DF8",
+        "type": "message",
+        "text": "I like it ",
+        "user": "U15HY5TG8",
+        "ts": "1554660479.003200"
+    },
+    {
+        "client_msg_id": "7BD846A8-A086-4567-AA58-EF54F1C55AF5",
+        "type": "message",
+        "text": "But thats also cause i love linq",
+        "user": "U15HY5TG8",
+        "ts": "1554660505.003700"
+    },
+    {
+        "client_msg_id": "79c27d16-e14f-4556-962f-97167996db94",
+        "type": "message",
+        "text": "evan you'd like flutter",
+        "user": "U15HRTAHL",
+        "ts": "1554660708.003900"
+    },
+    {
+        "client_msg_id": "13C40DBD-E86B-4B48-BE6D-F0D900302402",
+        "type": "message",
+        "text": "Whats that",
+        "user": "U15HY5TG8",
+        "ts": "1554660852.004200"
+    },
+    {
+        "client_msg_id": "5d2d7803-e00a-4ac4-8e88-2f98918fac52",
+        "type": "message",
+        "text": "framework for making apps",
+        "user": "U15HRTAHL",
+        "ts": "1554661032.004400"
+    },
+    {
+        "client_msg_id": "c8f5554a-d7e6-498b-b8ad-696e26aa4257",
+        "type": "message",
+        "text": "dart is pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1554661035.004600"
+    },
+    {
+        "client_msg_id": "8a0efe80-7d59-4591-a08f-5a381946b8e5",
+        "type": "message",
+        "text": "it's like typescript or c#",
+        "user": "U15HRTAHL",
+        "ts": "1554661045.004900"
+    },
+    {
+        "client_msg_id": "b2339832-f86b-4b3d-b17b-637b00efbcc7",
+        "type": "message",
+        "text": "you can do some linq type stuff",
+        "user": "U15HRTAHL",
+        "ts": "1554661058.005300"
+    },
+    {
+        "client_msg_id": "650d7fce-19ef-4c9f-b7ed-311b32c9955a",
+        "type": "message",
+        "text": "`Ingredient other = ingredients.where((ingredient) =&gt; ingredient.name == 'Other').toList()[0];`",
+        "user": "U15HRTAHL",
+        "ts": "1554661060.005500"
+    },
+    {
+        "client_msg_id": "C3D1F2D6-94A1-4DD2-BBF1-3115A22E68F8",
+        "type": "message",
+        "text": "Ahh hmm. Ill check those out",
+        "user": "U15HY5TG8",
+        "ts": "1554661069.005900"
+    },
+    {
+        "client_msg_id": "47C1320C-0330-4CE8-A652-E5735A4F3AA4",
+        "type": "message",
+        "text": "We use underscore",
+        "user": "U15HSHSS2",
+        "ts": "1554661134.006500"
+    },
+    {
+        "client_msg_id": "BEDDFE53-A7B8-4235-825C-F0EB16AB6A99",
+        "type": "message",
+        "text": "It’s great",
+        "user": "U15HSHSS2",
+        "ts": "1554661140.006800"
+    },
+    {
+        "client_msg_id": "DFD29133-90C2-4758-8B49-6DEAE6B56DCB",
+        "type": "message",
+        "text": "Nice! Yeah I'm sad we dont use it at work",
+        "user": "U15HY5TG8",
+        "ts": "1554661163.007400"
+    },
+    {
+        "client_msg_id": "511E93FE-2561-4DEB-AAB3-9B05D4129FC9",
+        "type": "message",
+        "text": "I just like how easy, fast, and has a little bit of security with it",
+        "user": "U15HY5TG8",
+        "ts": "1554661217.008400"
+    },
+    {
+        "client_msg_id": "c1499855-202b-41cd-95b0-8efe0900b0c5",
+        "type": "message",
+        "text": "whats the difference between lodash and underscore?",
+        "user": "U15HRTAHL",
+        "ts": "1554661224.008600"
+    },
+    {
+        "client_msg_id": "52E1DFDC-B7AB-40C4-AC23-ABE874449D7A",
+        "type": "message",
+        "text": "Nothing really",
+        "user": "U15HY5TG8",
+        "ts": "1554661235.008900"
+    },
+    {
+        "client_msg_id": "D70479AF-B8FA-4760-9D30-AFCD94902731",
+        "type": "message",
+        "text": "Same idea",
+        "user": "U15HY5TG8",
+        "ts": "1554661240.009100"
+    },
+    {
+        "client_msg_id": "07797E8E-29FC-4A3D-AD16-926AD6FE3656",
+        "type": "message",
+        "text": "Fuck i hate how much time we waste by using fucking vanilla jquery",
+        "user": "U15HY5TG8",
+        "ts": "1554661368.009900"
+    },
+    {
+        "client_msg_id": "411c4d6a-cd5b-4843-82dd-d90c86432b7b",
+        "type": "message",
+        "text": "I hate how much time we waste by going to work",
+        "user": "U15HRTAHL",
+        "ts": "1554662145.010200"
+    },
+    {
+        "client_msg_id": "06cc0b6b-36c3-4ef8-bff6-28244e1c871a",
+        "type": "message",
+        "text": "when I can waste that time at home on my butt",
+        "user": "U15HRTAHL",
+        "ts": "1554662154.010500",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1554662158.000000"
+        }
+    },
+    {
+        "client_msg_id": "7EF59B90-3E49-4EA2-A4B2-588E347DE119",
+        "type": "message",
+        "text": "Lol agreed",
+        "user": "U15HY5TG8",
+        "ts": "1554662547.010900"
+    }
+]

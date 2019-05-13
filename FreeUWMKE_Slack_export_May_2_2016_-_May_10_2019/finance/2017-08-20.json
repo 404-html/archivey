@@ -1,0 +1,174 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503248951.000033",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1503248952.000011",
+        "text": "<@U15J5H60P> set the channel purpose: Discuss Investment Strategy, Cryptocurrency, and other topics",
+        "purpose": "Discuss Investment Strategy, Cryptocurrency, and other topics"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1503248952.000012",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "If you use GDAX or see depth charts here’s a good explanation of what they mean - <https:\/\/www.youtube.com\/watch?v=FMmad9D_6n4>",
+        "user": "U15J5H60P",
+        "ts": "1503248978.000028",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "market depth charts on poloniex exchange",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=FMmad9D_6n4",
+                "author_name": "Paul Hardingham",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC_to1Z4EYZ3IjY39V_0OyOw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/FMmad9D_6n4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: market depth charts on poloniex exchange",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/FMmad9D_6n4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=FMmad9D_6n4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ill take a look at that. Does gdax have all this kind of data on their site too?",
+        "user": "U15HY5TG8",
+        "ts": "1503249042.000005"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1503249047.000026"
+    },
+    {
+        "type": "message",
+        "text": "GDAX looks a lot better, too IMO.",
+        "user": "U15J5H60P",
+        "ts": "1503249062.000099"
+    },
+    {
+        "type": "message",
+        "text": "Ok ill definitely look into that cause im all ears to finding the best trading site that doesnt require me to give my ssn haha",
+        "user": "U15HY5TG8",
+        "ts": "1503249187.000074"
+    },
+    {
+        "type": "message",
+        "text": "The only downside to this is that they only offer three cryptocurrencies",
+        "user": "U15J5H60P",
+        "ts": "1503249240.000014"
+    },
+    {
+        "type": "message",
+        "text": "BTC, LTC, and ETH",
+        "user": "U15J5H60P",
+        "ts": "1503249245.000078"
+    },
+    {
+        "type": "message",
+        "text": "Ahh i feel like thats pointless then haha",
+        "user": "U15HY5TG8",
+        "ts": "1503249259.000085"
+    },
+    {
+        "type": "message",
+        "text": "Unless the trade percentages are super low",
+        "user": "U15HY5TG8",
+        "ts": "1503249270.000039"
+    },
+    {
+        "type": "message",
+        "text": "Eh, I think it’s a good start. I’m only interested in BTC, LTC, and ETH to start anyways. If I start racking up some real cash, then I’ll look to diversify into more currencies.",
+        "user": "U15J5H60P",
+        "ts": "1503249309.000072"
+    },
+    {
+        "type": "message",
+        "text": "Yea those are the only ones that i know right now but have been reading into ripple like i said.",
+        "user": "U15HY5TG8",
+        "ts": "1503249373.000105"
+    },
+    {
+        "type": "message",
+        "text": "Ripple is new and looks somewhat promising! I’ll look into that as well.",
+        "user": "U15J5H60P",
+        "ts": "1503249398.000016"
+    },
+    {
+        "type": "message",
+        "text": "Yea thats what i noticed. Since its so cheap it might be a good idea to pick up a ton of shares",
+        "user": "U15HY5TG8",
+        "ts": "1503249431.000051"
+    },
+    {
+        "type": "message",
+        "text": "I have a feeling once the triangle bouning stops, itll spike again",
+        "user": "U15HY5TG8",
+        "ts": "1503249499.000089"
+    },
+    {
+        "type": "message",
+        "text": "Bouncing*",
+        "user": "U15HY5TG8",
+        "ts": "1503249511.000075"
+    },
+    {
+        "type": "message",
+        "text": "Bitfinex looks like another platform that could work",
+        "user": "U15HY5TG8",
+        "ts": "1503250181.000025"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/blockgeeks.com\/guides\/best-cryptocurrency-exchanges\/>",
+        "user": "U15J5H60P",
+        "ts": "1503250440.000025",
+        "attachments": [
+            {
+                "service_name": "Blockgeeks",
+                "title": "Best Cryptocurrency Exchanges: The Ultimate Guide - Blockgeeks",
+                "title_link": "https:\/\/blockgeeks.com\/guides\/best-cryptocurrency-exchanges\/",
+                "text": "Check out this guide to the best cryptocurrency exchanges. Cryptocurrency exchanges are websites where you can buy, sell or exchange cryptocurrencies",
+                "fallback": "Blockgeeks: Best Cryptocurrency Exchanges: The Ultimate Guide - Blockgeeks",
+                "thumb_url": "https:\/\/blockgeeks.com\/wp-content\/uploads\/2017\/04\/bitcoin-exchange.jpg",
+                "from_url": "https:\/\/blockgeeks.com\/guides\/best-cryptocurrency-exchanges\/",
+                "thumb_width": 1000,
+                "thumb_height": 666,
+                "service_icon": "https:\/\/blockgeeks.com\/wp-content\/uploads\/2016\/09\/cropped-Blockgeeks-icon-180x180.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ahh ill look at bitstamp too. Im just looking at ones that have ripple and bitcoin",
+        "user": "U15HY5TG8",
+        "ts": "1503250788.000062"
+    },
+    {
+        "type": "message",
+        "text": "Damn bitstamp doesnt connect to bank accounts",
+        "user": "U15HY5TG8",
+        "ts": "1503281270.000044"
+    }
+]

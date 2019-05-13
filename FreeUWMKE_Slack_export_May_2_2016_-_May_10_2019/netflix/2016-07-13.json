@@ -1,0 +1,92 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468456795.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468456796.000003",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1468456796.000004",
+        "text": "<@U15J5H60P> set the channel purpose: Discuss movies, TV shows, documentaries, etc. found on the popular streaming platform Netflix.",
+        "purpose": "Discuss movies, TV shows, documentaries, etc. found on the popular streaming platform Netflix."
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468456796.000005",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468456796.000006",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "The Big Short is on Netflix",
+        "user": "U15J5H60P",
+        "ts": "1468456931.000007"
+    },
+    {
+        "type": "message",
+        "text": "I watched it at work today",
+        "user": "U15J5H60P",
+        "ts": "1468456935.000008"
+    },
+    {
+        "type": "message",
+        "text": "It was great.",
+        "user": "U15J5H60P",
+        "ts": "1468456937.000009"
+    },
+    {
+        "type": "message",
+        "text": "I’m like 2 episodes away from finishing Bob’s burgers. I hope they’re going to add more seasons.",
+        "user": "U15J5H60P",
+        "ts": "1468457029.000010"
+    },
+    {
+        "type": "message",
+        "text": "Archer as well.",
+        "user": "U15J5H60P",
+        "ts": "1468457034.000011"
+    },
+    {
+        "type": "message",
+        "text": "Only 9 more months until the next season of House of Cards.",
+        "user": "U15J5H60P",
+        "ts": "1468457062.000012"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468457347.000013",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1468465328.000002",
+        "text": "<@U15HRTAHL> has left the channel"
+    }
+]

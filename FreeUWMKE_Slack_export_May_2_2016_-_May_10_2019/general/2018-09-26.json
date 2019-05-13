@@ -1,0 +1,368 @@
+[
+    {
+        "client_msg_id": "c2b4301c-3e05-47f1-968d-1879bb92acb4",
+        "type": "message",
+        "text": "Good morning, everyone. I hope you have a wonderful sunny day!",
+        "user": "U15J5H60P",
+        "ts": "1537968452.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1537968486.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/coffee-gif-brockurealities-DrJm6F9poo4aA",
+                "image_url": "https:\/\/media1.giphy.com\/media\/DrJm6F9poo4aA\/giphy-downsized.gif",
+                "image_width": 350,
+                "image_height": 350,
+                "image_bytes": 1882429,
+                "is_animated": true,
+                "title": "good morning",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/coffee-gif-brockurealities-DrJm6F9poo4aA"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3B6748BB-CDB5-4A2E-B6D4-85DFE3BDF29E",
+        "type": "message",
+        "text": "Stahp",
+        "user": "U15HY5TG8",
+        "ts": "1537972588.000100"
+    },
+    {
+        "client_msg_id": "049b1ee5-5004-4234-a3e6-9321df8e653b",
+        "type": "message",
+        "text": "Saying good morning?",
+        "user": "U15J5H60P",
+        "ts": "1537972788.000100"
+    },
+    {
+        "client_msg_id": "FF8AF5A9-9530-42DC-8885-DDDB7EAF0AF9",
+        "type": "message",
+        "text": "Maybe idk",
+        "user": "U15HY5TG8",
+        "ts": "1537972831.000100"
+    },
+    {
+        "client_msg_id": "3F21A107-2A93-43E1-8C05-520377BA9B94",
+        "type": "message",
+        "text": "Youre fine",
+        "user": "U15HY5TG8",
+        "ts": "1537972837.000100"
+    },
+    {
+        "client_msg_id": "941df31e-ad71-4dee-895e-f33fdd3964a2",
+        "type": "message",
+        "text": "Someone from work was trying to give up their lease.  I clicked on it and theyre like right next to evan",
+        "user": "U15HZ01QX",
+        "ts": "1537975774.000100"
+    },
+    {
+        "client_msg_id": "0d9eef4c-3814-4551-b767-ecee815035cb",
+        "type": "message",
+        "text": "<https:\/\/milwaukee.craigslist.org\/apa\/6704886399.html>",
+        "user": "U15HZ01QX",
+        "ts": "1537975784.000200",
+        "attachments": [
+            {
+                "service_name": "craigslist",
+                "title": "NEW Downtown Milwaukee Studio W\/ Balcony View - FREE MONTH",
+                "title_link": "https:\/\/milwaukee.craigslist.org\/apa\/6704886399.html",
+                "text": "Howdy!! Come live in the coolest part of downtown Milwaukee, in a brand new luxury high-end complex on the corner of Water St. &amp; Brady St. right across from Milwaukee River and walking distance...",
+                "fallback": "craigslist: NEW Downtown Milwaukee Studio W\/ Balcony View - FREE MONTH",
+                "image_url": "https:\/\/images.craigslist.org\/00Q0Q_2XOgxUX5tQz_600x450.jpg",
+                "from_url": "https:\/\/milwaukee.craigslist.org\/apa\/6704886399.html",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 57179,
+                "service_icon": "https:\/\/milwaukee.craigslist.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/milwaukee.craigslist.org\/apa\/6704886399.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20E0D087-9384-42BF-8AAB-ABD48AEE24FA",
+        "type": "message",
+        "text": "I think that literally is lol i feel like those are the chairs on her balcony",
+        "user": "U15HY5TG8",
+        "ts": "1537976021.000100"
+    },
+    {
+        "client_msg_id": "2baaf4ac-ded8-4546-8305-687c09eebcae",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1537976118.000100"
+    },
+    {
+        "client_msg_id": "6136D65A-B10F-4C8A-8012-6981AA674F49",
+        "type": "message",
+        "text": "Maybe not, they have a hammock",
+        "user": "U15HY5TG8",
+        "ts": "1537976123.000100"
+    },
+    {
+        "client_msg_id": "14ce0b4b-d068-4a1f-bff6-a3b117caef5d",
+        "type": "message",
+        "text": "there’s a hammock in the link",
+        "user": "U15HRTAHL",
+        "ts": "1537976993.000100"
+    },
+    {
+        "client_msg_id": "d9d44a75-87a7-434c-8e4e-cd6391374834",
+        "type": "message",
+        "text": "<https:\/\/images.craigslist.org\/00N0N_5njEvAJZIBS_600x450.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1537977001.000100",
+        "attachments": [
+            {
+                "fallback": "600x450px image",
+                "image_url": "https:\/\/images.craigslist.org\/00N0N_5njEvAJZIBS_600x450.jpg",
+                "image_width": 600,
+                "image_height": 450,
+                "image_bytes": 51111,
+                "from_url": "https:\/\/images.craigslist.org\/00N0N_5njEvAJZIBS_600x450.jpg",
+                "id": 1,
+                "original_url": "https:\/\/images.craigslist.org\/00N0N_5njEvAJZIBS_600x450.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ECED062E-041D-4E7E-B46E-CF504C970C89",
+        "type": "message",
+        "text": "Ik thats what im saying",
+        "user": "U15HY5TG8",
+        "ts": "1537977026.000100"
+    },
+    {
+        "client_msg_id": "948c9b8e-0537-4acc-9432-cfee8b22aa11",
+        "type": "message",
+        "text": "“they” wasn’t very descriptive",
+        "user": "U15HRTAHL",
+        "ts": "1537977049.000100"
+    },
+    {
+        "client_msg_id": "18ECE4B7-6581-4EB1-A730-FF96A9383F8A",
+        "type": "message",
+        "text": "I agree, sorry",
+        "user": "U15HY5TG8",
+        "ts": "1537978956.000100"
+    },
+    {
+        "client_msg_id": "6B7993B4-C6F4-41C1-8903-AEEB76E7D899",
+        "type": "message",
+        "text": "Fucking top golf",
+        "user": "U15HY5TG8",
+        "ts": "1537993877.000100"
+    },
+    {
+        "type": "message",
+        "text": "Team outing",
+        "files": [
+            {
+                "id": "FD138G4EL",
+                "created": 1537994158,
+                "timestamp": 1537994158,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 10289662,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD138G4EL\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD138G4EL\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD138G4EL-ccf8ad44c2\/image_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FD138G4EL\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FD138G4EL-fdae1af2cc",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "B899148E-9B7F-43DB-844D-E4D641D73770",
+        "ts": "1537994166.000100"
+    },
+    {
+        "client_msg_id": "2B42891F-1939-4BE6-9123-6E71B681E20E",
+        "type": "message",
+        "text": "You’re at top golf <@U15HY5TG8> ?",
+        "user": "U15HZ01QX",
+        "ts": "1537994901.000100"
+    },
+    {
+        "client_msg_id": "34282171-454B-43A5-8EEF-995C12016448",
+        "type": "message",
+        "text": "No just got an email from them",
+        "user": "U15HY5TG8",
+        "ts": "1537994938.000100"
+    },
+    {
+        "client_msg_id": "05C32C4F-53FF-4D0C-B0DB-CDA339C4A359",
+        "type": "message",
+        "text": "I didnt realize how many places they had though",
+        "user": "U15HY5TG8",
+        "ts": "1537994948.000100"
+    },
+    {
+        "client_msg_id": "625F4BA4-508D-40DC-A6C1-2BEA352D277C",
+        "type": "message",
+        "text": "Oh don’t tease me",
+        "user": "U15HZ01QX",
+        "ts": "1537994951.000100"
+    },
+    {
+        "client_msg_id": "EF2E2FBA-526B-49F9-98AD-89AB88211B43",
+        "type": "message",
+        "text": "Conveniently none are here",
+        "user": "U15HY5TG8",
+        "ts": "1537994959.000100"
+    },
+    {
+        "type": "message",
+        "text": "4th floor",
+        "files": [
+            {
+                "id": "FD21Y0MM3",
+                "created": 1537997958,
+                "timestamp": 1537997958,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 7630555,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD21Y0MM3\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD21Y0MM3\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD21Y0MM3-68b4a6ce34\/image_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FD21Y0MM3\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FD21Y0MM3-c29dfa8ffd",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "B68085A5-4CB0-4CEE-A43C-1CA874F0133A",
+        "ts": "1537997958.000100"
+    },
+    {
+        "client_msg_id": "176C05E9-4AD3-4AD5-B075-6709B025559C",
+        "type": "message",
+        "text": "Well",
+        "user": "U15HZ01QX",
+        "ts": "1537998035.000100"
+    },
+    {
+        "client_msg_id": "C9CAB5AD-57D6-49B2-9198-040635B274A2",
+        "type": "message",
+        "text": "Way too expensive",
+        "user": "U15J5H60P",
+        "ts": "1537999049.000100"
+    },
+    {
+        "client_msg_id": "eb62e03e-e5da-43bd-8221-912e1c6b1915",
+        "type": "message",
+        "text": "Someone lost my Amazon shipment of a 32GB microsd card",
+        "user": "U15J5H60P",
+        "ts": "1538005310.000100"
+    },
+    {
+        "client_msg_id": "426cd772-3b6e-41fe-97c1-a1c749395850",
+        "type": "message",
+        "text": "So I got a full refund + $5",
+        "user": "U15J5H60P",
+        "ts": "1538005316.000100"
+    },
+    {
+        "client_msg_id": "8504445f-7cba-4752-9916-d046ec320ae3",
+        "type": "message",
+        "text": "That gave me enough to upgrade to a 64GB for a dollar more.",
+        "user": "U15J5H60P",
+        "ts": "1538005333.000100"
+    },
+    {
+        "client_msg_id": "0d215ff4-318f-440e-a1e5-648521f9d90d",
+        "type": "message",
+        "text": "Not. To. Shabby.",
+        "user": "U15J5H60P",
+        "ts": "1538005337.000100"
+    },
+    {
+        "client_msg_id": "D0B85A45-9FFD-46A6-8104-36CC8BBBEC77",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1538010655.000200"
+    }
+]

@@ -1,0 +1,355 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/fortune.com\/worlds-most-admired-companies\/list>",
+        "user": "U15J5H60P",
+        "ts": "1516630130.000395",
+        "attachments": [
+            {
+                "service_name": "Fortune",
+                "title": "The World's Most Admired Companies for 2018",
+                "title_link": "http:\/\/fortune.com\/worlds-most-admired-companies\/list",
+                "text": "Which companies are most respected? Some 3,900 executives, analysts, directors, and experts voted—and here are the results.",
+                "fallback": "Fortune: The World's Most Admired Companies for 2018",
+                "from_url": "http:\/\/fortune.com\/worlds-most-admired-companies\/list",
+                "service_icon": "http:\/\/fortune.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Northwestern Mutual made the list. Not the top 50 though.",
+        "user": "U15J5H60P",
+        "ts": "1516630146.000283"
+    },
+    {
+        "type": "message",
+        "text": "Salesforce is #15",
+        "user": "U15J5H60P",
+        "ts": "1516630438.000382",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1516630446.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "I feel like Lockheed Martin would be interesting to work for.",
+        "user": "U15J5H60P",
+        "ts": "1516630474.000493"
+    },
+    {
+        "type": "message",
+        "text": "Based on corporate reputations",
+        "user": "U15HRTAHL",
+        "ts": "1516630552.000411"
+    },
+    {
+        "type": "message",
+        "text": "Yeah.",
+        "user": "U15J5H60P",
+        "ts": "1516630562.000335"
+    },
+    {
+        "type": "message",
+        "text": "apple - avoids taxes and employees at manufacturers kill themselves",
+        "user": "U15HRTAHL",
+        "ts": "1516630569.000535"
+    },
+    {
+        "type": "message",
+        "text": "\/mute Joseph",
+        "user": "U15J5H60P",
+        "ts": "1516630577.000377"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1516630579.000496"
+    },
+    {
+        "type": "message",
+        "text": "amazon - they pay like shit and force workers to piss outside while delivering packages",
+        "user": "U15HRTAHL",
+        "ts": "1516630587.000092"
+    },
+    {
+        "type": "message",
+        "text": "alphabet - they know everything about you and sell that to anyone",
+        "user": "U15HRTAHL",
+        "ts": "1516630611.000058"
+    },
+    {
+        "type": "message",
+        "text": "Berkshire Hathaway - they fund oil companies",
+        "user": "U15HRTAHL",
+        "ts": "1516630623.000032"
+    },
+    {
+        "type": "message",
+        "text": "Starbucks now that should be #1",
+        "user": "U15HRTAHL",
+        "ts": "1516630631.000095"
+    },
+    {
+        "type": "message",
+        "text": "this list suxks",
+        "user": "U15HRTAHL",
+        "ts": "1516630653.000441"
+    },
+    {
+        "type": "message",
+        "text": "salesforce #15, this is a seriously flawed list",
+        "user": "U15HRTAHL",
+        "ts": "1516630681.000387"
+    },
+    {
+        "type": "message",
+        "text": "you know what should be on this list?",
+        "user": "U15HRTAHL",
+        "ts": "1516630724.000149"
+    },
+    {
+        "type": "message",
+        "text": "Kopps burgers",
+        "user": "U15HRTAHL",
+        "ts": "1516630730.000221"
+    },
+    {
+        "type": "message",
+        "text": "who complains about that",
+        "user": "U15HRTAHL",
+        "ts": "1516630734.000278"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/gph.is\/1RiUbLf>",
+        "user": "U15J5H60P",
+        "ts": "1516630755.000661",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "http:\/\/giphy.com\/",
+                "image_url": "https:\/\/media1.giphy.com\/media\/9hEcsoYAJb3kA\/giphy.gif",
+                "image_width": 600,
+                "image_height": 338,
+                "image_bytes": 4047324,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/9hEcsoYAJb3kA",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F8WG3M1L2",
+                "created": 1516630868,
+                "timestamp": 1516630868,
+                "name": "Pasted image at 2018_01_22 08_21 AM.png",
+                "title": "Pasted image at 2018-01-22, 8:21 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 10973,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8WG3M1L2\/pasted_image_at_2018_01_22_08_21_am.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8WG3M1L2\/download\/pasted_image_at_2018_01_22_08_21_am.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WG3M1L2-4baa1ecc2b\/pasted_image_at_2018_01_22_08_21_am_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WG3M1L2-4baa1ecc2b\/pasted_image_at_2018_01_22_08_21_am_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WG3M1L2-4baa1ecc2b\/pasted_image_at_2018_01_22_08_21_am_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 220,
+                "thumb_360_h": 217,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WG3M1L2-4baa1ecc2b\/pasted_image_at_2018_01_22_08_21_am_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 220,
+                "original_h": 217,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F8WG3M1L2\/pasted_image_at_2018_01_22_08_21_am.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F8WG3M1L2-ce27fa3a0e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1516630869.000184"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/2018\/1\/22\/16918480\/nike-pg2-limited-edition-playstation-shoes-paul-george-basketball> Wut",
+        "user": "U15J5H60P",
+        "ts": "1516633691.000624",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Nike and PlayStation unite on these limited edition sneakers",
+                "title_link": "https:\/\/www.theverge.com\/2018\/1\/22\/16918480\/nike-pg2-limited-edition-playstation-shoes-paul-george-basketball",
+                "text": "Nike’s new shoes light up and are PlayStation themed",
+                "fallback": "The Verge: Nike and PlayStation unite on these limited edition sneakers",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/H2shV6813LWoLzFYBxBawwzCjho=\/0x25:1280x695\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/10074805\/39754840992_e465d70f1a_o.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1516627417,
+                "from_url": "https:\/\/www.theverge.com\/2018\/1\/22\/16918480\/nike-pg2-limited-edition-playstation-shoes-paul-george-basketball",
+                "image_bytes": 146101,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.recode.net\/2018\/1\/21\/16914188\/amazon-go-grocery-convenience-store-opening-seattle-dilip-kumar>",
+        "user": "U15J5H60P",
+        "ts": "1516633738.000161",
+        "attachments": [
+            {
+                "service_name": "Recode",
+                "title": "Amazon Go, a high-tech version of a 7-Eleven, will finally open on Monday — with no checkout lines and no cashiers",
+                "title_link": "https:\/\/www.recode.net\/2018\/1\/21\/16914188\/amazon-go-grocery-convenience-store-opening-seattle-dilip-kumar",
+                "text": "Amazon Go allows customers to grab items and just walk out without stopping to pay.",
+                "fallback": "Recode: Amazon Go, a high-tech version of a 7-Eleven, will finally open on Monday — with no checkout lines and no cashiers",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/i5B97EBAneZsegyxW77XYOz3Ra4=\/0x913:4032x3024\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/10069769\/AmazonGoNewinside.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1516546804,
+                "from_url": "https:\/\/www.recode.net\/2018\/1\/21\/16914188\/amazon-go-grocery-convenience-store-opening-seattle-dilip-kumar",
+                "image_bytes": 126120,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/6397047\/recode_favicon-180.0.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F8WF15A3D",
+                "created": 1516636285,
+                "timestamp": 1516636285,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 7501291,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8WF15A3D\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8WF15A3D\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8WF15A3D-f8de34cc24\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F8WF15A3D\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F8WF15A3D-934d419e5d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "E9223C45-A1EC-4F70-BB79-BE3AD0D308F5",
+        "ts": "1516636293.000812"
+    },
+    {
+        "type": "message",
+        "text": "Where'd you get those?",
+        "user": "U15HRTAHL",
+        "ts": "1516636360.000545"
+    },
+    {
+        "type": "message",
+        "text": "I'm in a Cloud Awareness class and the dude giving the presentation gave them out.",
+        "user": "U15J5H60P",
+        "ts": "1516636523.000135"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> whatre you doin",
+        "user": "U15HY5TG8",
+        "ts": "1516663980.000224"
+    },
+    {
+        "type": "message",
+        "text": "One match then cleaning. I'll be back on later. ",
+        "user": "U15J5H60P",
+        "ts": "1516664142.000288"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1516664161.000106"
+    },
+    {
+        "type": "message",
+        "text": "Omg",
+        "user": "U15J5H60P",
+        "ts": "1516674384.000131"
+    },
+    {
+        "type": "message",
+        "text": "This hail tho",
+        "user": "U15J5H60P",
+        "ts": "1516674386.000043"
+    },
+    {
+        "type": "message",
+        "text": "I fear for my car’s windshield",
+        "user": "U15J5H60P",
+        "ts": "1516674397.000026"
+    },
+    {
+        "type": "message",
+        "text": "RIP",
+        "user": "U15J5H60P",
+        "ts": "1516674398.000232"
+    },
+    {
+        "type": "message",
+        "text": "Lol yea i can hear it",
+        "user": "U15HY5TG8",
+        "ts": "1516674399.000040"
+    }
+]

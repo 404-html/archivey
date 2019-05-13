@@ -1,0 +1,74 @@
+[
+    {
+        "client_msg_id": "0311E080-1F27-4DDC-94A2-F5F329089812",
+        "type": "message",
+        "text": "Why are you studying for an interview?",
+        "user": "U15J5H60P",
+        "ts": "1524326839.000009"
+    },
+    {
+        "client_msg_id": "30ceb034-d407-44e0-842d-b1de1a79541d",
+        "type": "message",
+        "text": "Lol cause I don't remember a damn thing about data structures",
+        "user": "U15HRTAHL",
+        "ts": "1524338482.000009"
+    },
+    {
+        "client_msg_id": "E46A3196-D00A-4559-9B82-95D6F47D0028",
+        "type": "message",
+        "text": "What interview?",
+        "user": "U15J5H60P",
+        "ts": "1524339434.000004"
+    },
+    {
+        "client_msg_id": "6bd7ed64-abb9-4950-b66a-75fefadbefd6",
+        "type": "message",
+        "text": "Amazon. For a salesforce position.....",
+        "user": "U15HRTAHL",
+        "ts": "1524340834.000040"
+    },
+    {
+        "client_msg_id": "DCD143AD-B898-47B6-B8A4-6F4409BD2B90",
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1524340861.000063"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/iamdevloper\/status\/986193182936485888>",
+        "user": "U15HRTAHL",
+        "ts": "1524340989.000065",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/iamdevloper|@iamdevloper>: Day 1:\n\n&gt; will I be continuing with that whiteboard algorithm I was working on in the interview?\n&gt; lol no fix that button",
+                "ts": 1523961752,
+                "author_name": "I Am Devloper",
+                "author_link": "https:\/\/twitter.com\/iamdevloper\/status\/986193182936485888",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/477397164453527552\/uh2w1u1o_normal.jpeg",
+                "author_subname": "@iamdevloper",
+                "text": "Day 1:\n\n&gt; will I be continuing with that whiteboard algorithm I was working on in the interview?\n&gt; lol no fix that button",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/iamdevloper\/status\/986193182936485888",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/iamdevloper\/status\/986193182936485888",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "me_irl",
+        "user": "U15HRTAHL",
+        "ts": "1524340995.000072"
+    },
+    {
+        "client_msg_id": "12AC0E4B-A7A7-4443-9E8E-D31992D8C414",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HSHSS2",
+        "ts": "1524342037.000048"
+    }
+]

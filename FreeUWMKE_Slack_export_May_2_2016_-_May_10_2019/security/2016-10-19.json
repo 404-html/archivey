@@ -1,0 +1,61 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476909650.000002",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476909650.000003",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476909650.000004",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "He didn't say anything about chapter 1",
+        "user": "U15HRTAHL",
+        "ts": "1476909659.000005"
+    },
+    {
+        "type": "message",
+        "text": "am I right?",
+        "user": "U15HRTAHL",
+        "ts": "1476909667.000006"
+    },
+    {
+        "type": "message",
+        "text": "pretty sure he did",
+        "user": "U15HY5TG8",
+        "ts": "1476909675.000007"
+    },
+    {
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HRTAHL",
+        "ts": "1476909681.000008"
+    },
+    {
+        "type": "message",
+        "text": "nope jk",
+        "user": "U15HY5TG8",
+        "ts": "1476909682.000009"
+    },
+    {
+        "type": "message",
+        "text": "i have no notes for it",
+        "user": "U15HY5TG8",
+        "ts": "1476909688.000010"
+    }
+]

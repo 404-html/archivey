@@ -1,0 +1,439 @@
+[
+    {
+        "client_msg_id": "C1C1384C-3C1F-4C9F-80F4-BF99A0BC2DAB",
+        "type": "message",
+        "text": "Was valid",
+        "user": "U15HY5TG8",
+        "ts": "1529761031.000039"
+    },
+    {
+        "client_msg_id": "01E18A81-D077-4AC7-9BDB-716F8602D378",
+        "type": "message",
+        "text": "I thought the Boston. Store thing was a mistake",
+        "user": "U15J5H60P",
+        "ts": "1529776404.000062"
+    },
+    {
+        "client_msg_id": "FA522096-44E0-4AA8-90CB-3A0BBC00D685",
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1529776406.000098"
+    },
+    {
+        "client_msg_id": "9EB3E489-7AA4-4D1A-97B2-AD4F03625ED9",
+        "type": "message",
+        "text": "You thought it was fake?",
+        "user": "U15HY5TG8",
+        "ts": "1529776513.000075"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FBC7E4R16",
+                "created": 1529776541,
+                "timestamp": 1529776541,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 7296946,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FBC7E4R16\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FBC7E4R16\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBC7E4R16-47fcbb4e24\/image_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FBC7E4R16\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FBC7E4R16-9eda344be8",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "8CCFB857-EE43-45B2-8957-18D063246FB1",
+        "ts": "1529776547.000125"
+    },
+    {
+        "client_msg_id": "6AF4BC75-76AF-4B50-872F-E4C52B4573CB",
+        "type": "message",
+        "text": "Yeah, I thought they accidentally doubled the price instead of cutting it in half",
+        "user": "U15J5H60P",
+        "ts": "1529776552.000080"
+    },
+    {
+        "client_msg_id": "A3E8551B-B8FA-41DC-AAAC-331DC520A0BF",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1529776582.000123"
+    },
+    {
+        "client_msg_id": "AB156B9C-8832-44DF-89A0-8E1B53F5EDE5",
+        "type": "message",
+        "text": "Nope, those fuckers literally doubled the price and trying to sell it above buying directly from google after “50%” off",
+        "user": "U15J5H60P",
+        "ts": "1529776584.000066"
+    },
+    {
+        "client_msg_id": "C99283FA-D929-4FDD-98BD-5BCA95FB2BE2",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1529776612.000028"
+    },
+    {
+        "client_msg_id": "6B3B427D-1B06-4FD9-90F8-5429E2C4DC2A",
+        "type": "message",
+        "text": "Anyone going to summer soulstice?",
+        "user": "U15J5H60P",
+        "ts": "1529780966.000076"
+    },
+    {
+        "client_msg_id": "E93BAB9D-73E4-4B51-97A0-84AF06A0C592",
+        "type": "message",
+        "text": "Not sure",
+        "user": "U15HY5TG8",
+        "ts": "1529781046.000031"
+    },
+    {
+        "client_msg_id": "BBD609B8-ECE6-42B4-90CE-7166AD62CE88",
+        "type": "message",
+        "text": "Doubt it though",
+        "user": "U15HY5TG8",
+        "ts": "1529781055.000071"
+    },
+    {
+        "client_msg_id": "62BF6637-F43F-4690-AEE1-08885A8D942A",
+        "type": "message",
+        "text": "How late does it go?",
+        "user": "U15HY5TG8",
+        "ts": "1529781073.000060"
+    },
+    {
+        "client_msg_id": "BBD29B8B-C2A5-402A-9C28-EF0AE5971FCE",
+        "type": "message",
+        "text": "Midnight ",
+        "user": "U15J5H60P",
+        "ts": "1529781084.000020"
+    },
+    {
+        "client_msg_id": "024ABEA1-CE88-4E22-89CF-D6CD16D7DB32",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1529781089.000071"
+    },
+    {
+        "client_msg_id": "2A53C5DD-9713-4A53-AB01-133B917D4A3B",
+        "type": "message",
+        "text": "When are you guys goin?",
+        "user": "U15HY5TG8",
+        "ts": "1529791544.000050"
+    },
+    {
+        "client_msg_id": "DA4AED11-C2D1-4578-8634-810433C0756A",
+        "type": "message",
+        "text": "Just got there.",
+        "user": "U15J5H60P",
+        "ts": "1529791580.000091"
+    },
+    {
+        "client_msg_id": "BEDF0344-10AD-4609-93DE-79D730567E6E",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HY5TG8",
+        "ts": "1529791675.000003"
+    },
+    {
+        "client_msg_id": "8693d200-a754-4db0-b63a-6555fc88a2fb",
+        "type": "message",
+        "text": "God I can't fucking find a place to live",
+        "user": "U15HSHSS2",
+        "ts": "1529792180.000029"
+    },
+    {
+        "client_msg_id": "531c64ed-b9f2-43b5-806c-b0626c6cfd57",
+        "type": "message",
+        "text": "everything is either too expensive, or is a run down dump",
+        "user": "U15HSHSS2",
+        "ts": "1529792211.000051"
+    },
+    {
+        "client_msg_id": "BF5413FC-7AD5-4A94-9EA6-3EA9ADC41BB7",
+        "type": "message",
+        "text": "Where are you lookin again?",
+        "user": "U15HY5TG8",
+        "ts": "1529792306.000030"
+    },
+    {
+        "client_msg_id": "a7556a15-3d28-4acf-8d01-8856b91c85f0",
+        "type": "message",
+        "text": "downtown Milwaukee area",
+        "user": "U15HSHSS2",
+        "ts": "1529792370.000091"
+    },
+    {
+        "client_msg_id": "EF2AE2CC-3539-4EDA-9B3A-838AD6E4BE21",
+        "type": "message",
+        "text": "Price range?",
+        "user": "U15HY5TG8",
+        "ts": "1529792485.000106"
+    },
+    {
+        "client_msg_id": "bb99f578-4170-489c-827a-971fec01e2a1",
+        "type": "message",
+        "text": "~1500\/month",
+        "user": "U15HSHSS2",
+        "ts": "1529792533.000094"
+    },
+    {
+        "client_msg_id": "948CB912-085D-493B-971A-D02E58672D63",
+        "type": "message",
+        "text": "1 or 2 beds",
+        "user": "U15HY5TG8",
+        "ts": "1529792582.000078"
+    },
+    {
+        "client_msg_id": "E6AC5D80-7CC9-45DA-9497-2A881E8CBEC8",
+        "type": "message",
+        "text": "And apartment or house preferred?",
+        "user": "U15HY5TG8",
+        "ts": "1529792618.000003"
+    },
+    {
+        "client_msg_id": "8647dfd6-d05a-4c74-9fc2-93c7edc3ec4f",
+        "type": "message",
+        "text": "2 bed",
+        "user": "U15HSHSS2",
+        "ts": "1529792649.000036"
+    },
+    {
+        "client_msg_id": "fd959be3-5c5a-4632-a64b-cb1dd488ad84",
+        "type": "message",
+        "text": "apartment",
+        "user": "U15HSHSS2",
+        "ts": "1529792655.000076"
+    },
+    {
+        "client_msg_id": "97f74b1f-8f77-4c78-80b2-b8ae18ba2b0b",
+        "type": "message",
+        "text": "Found a place that looks interesting, but the god damn price range for this specific 2 bedroom layout im looking at is listed as 1400 - 1900...",
+        "user": "U15HSHSS2",
+        "ts": "1529792837.000072"
+    },
+    {
+        "client_msg_id": "C3D8ED95-0E6E-4AC7-9398-F0C245744353",
+        "type": "message",
+        "text": "Where at?",
+        "user": "U15HY5TG8",
+        "ts": "1529792946.000097"
+    },
+    {
+        "client_msg_id": "74AA2C9E-3AEC-46D5-8E0F-E28FAB9CEC25",
+        "type": "message",
+        "text": "Check out the london house on farwell",
+        "user": "U15HY5TG8",
+        "ts": "1529792961.000024"
+    },
+    {
+        "client_msg_id": "5545E031-C7B2-485B-AEDF-52DCB5852F7F",
+        "type": "message",
+        "text": "And 1321 n franklin pl",
+        "user": "U15HY5TG8",
+        "ts": "1529793153.000029"
+    },
+    {
+        "client_msg_id": "CF374650-D850-4AB5-A8CD-6F95795559A1",
+        "type": "message",
+        "text": "Plankinton lofts would probably be good too",
+        "user": "U15HY5TG8",
+        "ts": "1529793198.000062"
+    },
+    {
+        "client_msg_id": "e57515ec-ebb1-41c6-87f8-008af8982cf0",
+        "type": "message",
+        "text": "I remember looking at the london house",
+        "user": "U15HSHSS2",
+        "ts": "1529793214.000011"
+    },
+    {
+        "client_msg_id": "6d2f2830-8540-4b1d-a65a-e8a7a9a34ff1",
+        "type": "message",
+        "text": "wasn't bad",
+        "user": "U15HSHSS2",
+        "ts": "1529793222.000007"
+    },
+    {
+        "client_msg_id": "4FE2D601-7872-4B85-8370-7F0419BD681D",
+        "type": "message",
+        "text": "Yeah i liked it. Didnt like that it was just covered parking though",
+        "user": "U15HY5TG8",
+        "ts": "1529793248.000022"
+    },
+    {
+        "client_msg_id": "1e03c756-c2f2-4c49-93b9-b6c236b9fdee",
+        "type": "message",
+        "text": "It just sucks cuz the farther you get from down town the nicer and cheaper places get it seems like lol",
+        "user": "U15HSHSS2",
+        "ts": "1529793476.000085"
+    },
+    {
+        "client_msg_id": "37ee32ee-4d1f-449d-9be8-d2ed25134062",
+        "type": "message",
+        "text": "like the place lakshmi and I looked at in New Berlin is new, pretty nice, 1200 sq ft 2 bed for 1400 and a bunch of shit is included connected garage and parking through out the community, pool, etc... and a 2 bed room place is mil that is decent quality is like 1500 for 800 sq ft and hardly anything in included",
+        "user": "U15HSHSS2",
+        "ts": "1529793629.000016"
+    },
+    {
+        "client_msg_id": "0837F4F4-A27B-4C5C-A1A4-55E86AB4DCBA",
+        "type": "message",
+        "text": "Yeahhhh hahah",
+        "user": "U15HY5TG8",
+        "ts": "1529793720.000082"
+    },
+    {
+        "client_msg_id": "765050DB-53E8-41EF-98BA-27A4585A2631",
+        "type": "message",
+        "text": "How was summer solstice <@U15J5H60P> ",
+        "user": "U15HZ01QX",
+        "ts": "1529802279.000028"
+    },
+    {
+        "client_msg_id": "8D816BF7-F323-45D6-BA21-5CB920344FCA",
+        "type": "message",
+        "text": "It was fun! All the new restaurants are pretty cool. The bands were enjoyable. The only thing that was missing was the waffles. We had a Good time though. ",
+        "user": "U15J5H60P",
+        "ts": "1529802347.000040"
+    },
+    {
+        "client_msg_id": "4CBBA4F7-6D0E-4A58-ACFD-D0AD5812489B",
+        "type": "message",
+        "text": " I didn’t know there were new restaurant ",
+        "user": "U15HZ01QX",
+        "ts": "1529802393.000016"
+    },
+    {
+        "client_msg_id": "2663ED5F-EF26-4387-B832-C54EDBD2610C",
+        "type": "message",
+        "text": "New to me at least",
+        "user": "U15J5H60P",
+        "ts": "1529802459.000023"
+    },
+    {
+        "client_msg_id": "C538FC05-2409-4E62-9453-7FB3D5A61427",
+        "type": "message",
+        "text": "There’s a ramen place ",
+        "user": "U15J5H60P",
+        "ts": "1529802465.000026"
+    },
+    {
+        "client_msg_id": "F56C23B7-6418-4C5D-A717-234521A63DFA",
+        "type": "message",
+        "text": "And a place called Izzy Hops",
+        "user": "U15J5H60P",
+        "ts": "1529802474.000083"
+    },
+    {
+        "client_msg_id": "E25E3338-E350-41D0-9749-D1D763E84C8E",
+        "type": "message",
+        "text": "Izzy hops is pretty cool",
+        "user": "U15J5H60P",
+        "ts": "1529802483.000024"
+    },
+    {
+        "client_msg_id": "1D4DDDAE-55FC-4C00-8F88-10BD61A01671",
+        "type": "message",
+        "text": "30 beers on tap",
+        "user": "U15J5H60P",
+        "ts": "1529802489.000005"
+    },
+    {
+        "client_msg_id": "D2A714B8-A3CE-4214-9FCC-A035AFF7A8C0",
+        "type": "message",
+        "text": "Neat I may try it ",
+        "user": "U15HZ01QX",
+        "ts": "1529802634.000076"
+    },
+    {
+        "client_msg_id": "206894FB-4828-4AF1-B4FF-F3301C0DAF48",
+        "type": "message",
+        "text": "Let me know. I’ll go with you after work sometime.",
+        "user": "U15J5H60P",
+        "ts": "1529802654.000024"
+    },
+    {
+        "client_msg_id": "D8D5ADFA-12A7-4D4C-8467-648298E49894",
+        "type": "message",
+        "text": "Okay I might go to solstice. Kinda wanna see Jurassic world tho ",
+        "user": "U15HZ01QX",
+        "ts": "1529802832.000031"
+    },
+    {
+        "client_msg_id": "8B980615-9A60-412F-9B4D-757EA6972C44",
+        "type": "message",
+        "text": "<@U15HY5TG8> <https:\/\/instagram.com\/p\/BkV6zdlgTpm\/>",
+        "user": "U15HZ01QX",
+        "ts": "1529810330.000015",
+        "attachments": [
+            {
+                "service_name": "Instagram",
+                "title": "COMPLEX on Instagram: “THIS GUY WAS VERY LUCKY. [via @abcnews]”",
+                "title_link": "https:\/\/instagram.com\/p\/BkV6zdlgTpm\/",
+                "text": "26.2k Likes, 1,142 Comments - COMPLEX (@complex) on Instagram: “THIS GUY WAS VERY LUCKY. [via @abcnews]”",
+                "fallback": "Instagram: COMPLEX on Instagram: “THIS GUY WAS VERY LUCKY. [via @abcnews]”",
+                "video_url": "https:\/\/scontent-iad3-1.cdninstagram.com\/vp\/82cc6d4cfd9b186187edc8a9b0dcd15e\/5B31832D\/t50.2886-16\/36127649_1801503200158629_3510903866310787072_n.mp4",
+                "video_html_width": 640,
+                "video_html_height": 640,
+                "thumb_url": "https:\/\/scontent-iad3-1.cdninstagram.com\/vp\/2c386b5dfba97f151dab368d170fd1fa\/5B312E54\/t51.2885-15\/e15\/34884632_431270287342556_1109521835038343168_n.jpg",
+                "video_html": "<video poster=\"https:\/\/scontent-iad3-1.cdninstagram.com\/vp\/2c386b5dfba97f151dab368d170fd1fa\/5B312E54\/t51.2885-15\/e15\/34884632_431270287342556_1109521835038343168_n.jpg\" src=\"https:\/\/scontent-iad3-1.cdninstagram.com\/vp\/82cc6d4cfd9b186187edc8a9b0dcd15e\/5B31832D\/t50.2886-16\/36127649_1801503200158629_3510903866310787072_n.mp4\" width=\"640\" height=\"640\" preload=\"auto\" webkit-playsinline><\/video>",
+                "from_url": "https:\/\/instagram.com\/p\/BkV6zdlgTpm\/",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/www.instagram.com\/static\/images\/ico\/apple-touch-icon-76x76-precomposed.png\/4272e394f5ad.png",
+                "id": 1,
+                "original_url": "https:\/\/instagram.com\/p\/BkV6zdlgTpm\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E65CC2FB-9BA5-4532-AE4C-7398B30A777F",
+        "type": "message",
+        "text": "Lol i saw that. Absolutely nuts",
+        "user": "U15HY5TG8",
+        "ts": "1529812478.000040"
+    }
+]

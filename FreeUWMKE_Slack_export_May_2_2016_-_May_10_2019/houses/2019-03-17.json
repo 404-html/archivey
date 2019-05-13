@@ -1,0 +1,98 @@
+[
+    {
+        "client_msg_id": "cf1f9a79-ef6b-4a79-8e9d-6d56842b1d94",
+        "type": "message",
+        "text": "<https:\/\/milwaukee.craigslist.org\/apa\/d\/brookfield-charming-brookfield-two\/6835970103.html>",
+        "user": "U15HY5TG8",
+        "ts": "1552870606.000200",
+        "attachments": [
+            {
+                "service_name": "craigslist",
+                "title": "CHARMING BROOKFIELD TWO BEDROOM",
+                "title_link": "https:\/\/milwaukee.craigslist.org\/apa\/d\/brookfield-charming-brookfield-two\/6835970103.html",
+                "text": "Charming and cozy 2 bedroom Brookfield home with spacious living room and dining room nestled on a great lot. This home is convenient to shopping, great restaurants, parks, and more. Relax on the...",
+                "fallback": "craigslist: CHARMING BROOKFIELD TWO BEDROOM",
+                "image_url": "https:\/\/images.craigslist.org\/00V0V_btnyfMKtrpj_600x450.jpg",
+                "from_url": "https:\/\/milwaukee.craigslist.org\/apa\/d\/brookfield-charming-brookfield-two\/6835970103.html",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 34253,
+                "service_icon": "https:\/\/milwaukee.craigslist.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/milwaukee.craigslist.org\/apa\/d\/brookfield-charming-brookfield-two\/6835970103.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7798e308-6588-448e-b9a0-fa5d220e3484",
+        "type": "message",
+        "text": "<https:\/\/www.google.com\/maps\/place\/3500+Lilly+Road\/@43.0826285,-88.0865267,3a,75y,87.58h,90t\/data=!3m4!1e1!3m2!1sjzbiGlzHpw9rShOk2uuKPA!2e0!4m2!3m1!1s0x880503ff3934076f:0x79b7d7f221f1de25?sa=X&amp;ved=2ahUKEwjfsNruvYrhAhXp5IMKHXFnAMQQxB0wAHoECAQQAg>",
+        "user": "U15HY5TG8",
+        "ts": "1552870637.000500",
+        "attachments": [
+            {
+                "title": "3500 Lilly Rd",
+                "title_link": "https:\/\/www.google.com\/maps\/place\/3500+Lilly+Road\/@43.0826285,-88.0865267,3a,75y,87.58h,90t\/data=!3m4!1e1!3m2!1sjzbiGlzHpw9rShOk2uuKPA!2e0!4m2!3m1!1s0x880503ff3934076f:0x79b7d7f221f1de25?sa=X&ved=2ahUKEwjfsNruvYrhAhXp5IMKHXFnAMQQxB0wAHoECAQQAg",
+                "text": "3500 Lilly Rd, Brookfield, WI 53005",
+                "fallback": "3500 Lilly Rd",
+                "thumb_url": "https:\/\/geo0.ggpht.com\/cbk?cb_client=maps_sv.tactile&output=thumbnail&thumb=2&panoid=jzbiGlzHpw9rShOk2uuKPA&w=256&h=256&yaw=87&pitch=0&thumbfov=75&ll=43.082628,-88.086527",
+                "from_url": "https:\/\/www.google.com\/maps\/place\/3500+Lilly+Road\/@43.0826285,-88.0865267,3a,75y,87.58h,90t\/data=!3m4!1e1!3m2!1sjzbiGlzHpw9rShOk2uuKPA!2e0!4m2!3m1!1s0x880503ff3934076f:0x79b7d7f221f1de25?sa=X&ved=2ahUKEwjfsNruvYrhAhXp5IMKHXFnAMQQxB0wAHoECAQQAg",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "https:\/\/www.google.com\/favicon.ico",
+                "service_name": "google.com",
+                "id": 1,
+                "original_url": "https:\/\/www.google.com\/maps\/place\/3500+Lilly+Road\/@43.0826285,-88.0865267,3a,75y,87.58h,90t\/data=!3m4!1e1!3m2!1sjzbiGlzHpw9rShOk2uuKPA!2e0!4m2!3m1!1s0x880503ff3934076f:0x79b7d7f221f1de25?sa=X&amp;ved=2ahUKEwjfsNruvYrhAhXp5IMKHXFnAMQQxB0wAHoECAQQAg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "592330bf-b69a-4509-af09-0d62a3ec4531",
+        "type": "message",
+        "text": "if this wasn't in the middle of nowhere, I'd rent this in a heartbeat",
+        "user": "U15HY5TG8",
+        "ts": "1552870652.001100"
+    },
+    {
+        "client_msg_id": "2EB6FF8C-1F59-4B2E-A8DC-F21BB75BF2FD",
+        "type": "message",
+        "text": "Y",
+        "user": "U15J5H60P",
+        "ts": "1552871199.001300"
+    },
+    {
+        "client_msg_id": "5A966657-6889-42A9-B81D-583A1E4D9A68",
+        "type": "message",
+        "text": "2 car garage, single family, huge yard",
+        "user": "U15HY5TG8",
+        "ts": "1552871259.001900"
+    },
+    {
+        "client_msg_id": "804DA2B0-4AD7-4BD0-A279-93EA94A12543",
+        "type": "message",
+        "text": "Very cool. Thanks Kanye!",
+        "user": "U15J5H60P",
+        "ts": "1552871274.002200"
+    },
+    {
+        "client_msg_id": "9803D97C-5DB9-4D1B-B60F-CA42364C55D5",
+        "type": "message",
+        "text": "I dont get it",
+        "user": "U15HY5TG8",
+        "ts": "1552871287.002400"
+    },
+    {
+        "client_msg_id": "B8C69557-369A-4BFE-A50D-580071972486",
+        "type": "message",
+        "text": "I’m autistic. I don’t get it either ",
+        "user": "U15J5H60P",
+        "ts": "1552871299.002700"
+    },
+    {
+        "client_msg_id": "3b1c97af-a4ef-4b63-8de5-c4e2145904cd",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1552871394.002900"
+    }
+]

@@ -1,0 +1,764 @@
+[
+    {
+        "client_msg_id": "cde6440f-105e-420f-8205-68465a7cf83e",
+        "type": "message",
+        "text": "<https:\/\/www.cnbc.com\/2017\/11\/02\/28-year-olds-company-makes-millions-selling-walmart-buys-on-amazon.html>",
+        "user": "U15HRTAHL",
+        "ts": "1545077443.012200",
+        "attachments": [
+            {
+                "service_name": "CNBC",
+                "title": "This 28-year-old's company makes millions buying from Walmart and selling on Amazon",
+                "title_link": "https:\/\/www.cnbc.com\/2017\/11\/02\/28-year-olds-company-makes-millions-selling-walmart-buys-on-amazon.html",
+                "text": "\"Anyone can do it if they're willing to put in the work.\"",
+                "fallback": "CNBC: This 28-year-old's company makes millions buying from Walmart and selling on Amazon",
+                "image_url": "https:\/\/fm.cnbc.com\/applications\/cnbc.com\/resources\/img\/editorial\/2017\/10\/30\/104807215-Amazon_Reseller_Copy_01.00_03_37_08.Still001.1910x1000.jpg",
+                "ts": 1509637706,
+                "from_url": "https:\/\/www.cnbc.com\/2017\/11\/02\/28-year-olds-company-makes-millions-selling-walmart-buys-on-amazon.html",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 321984,
+                "service_icon": "https:\/\/www.cnbc.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnbc.com\/2017\/11\/02\/28-year-olds-company-makes-millions-selling-walmart-buys-on-amazon.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "80dc5d0a-b359-4992-92b0-a12efffee9f9",
+        "type": "message",
+        "text": "this is so dumb",
+        "user": "U15HRTAHL",
+        "ts": "1545077446.012500"
+    },
+    {
+        "client_msg_id": "3258abdb-091a-4f83-8b0c-d188bd71d9d2",
+        "type": "message",
+        "text": "it’s brilliant",
+        "user": "U15HRTAHL",
+        "ts": "1545077448.012700"
+    },
+    {
+        "client_msg_id": "f794d181-ea79-43fd-a29b-00816ec7871f",
+        "type": "message",
+        "text": "maybe I should go to walmart and find some shit and try this",
+        "user": "U15HRTAHL",
+        "ts": "1545077457.013000"
+    },
+    {
+        "client_msg_id": "EF79D1CF-547C-42DA-8AC5-4B7545A81392",
+        "type": "message",
+        "text": "Where’d you find this? It’s old isn’t it?",
+        "user": "U15HZ01QX",
+        "ts": "1545077494.013600"
+    },
+    {
+        "client_msg_id": "db724fc4-6895-49bb-a358-5e0fdf37106c",
+        "type": "message",
+        "text": "like a year old",
+        "user": "U15HRTAHL",
+        "ts": "1545077510.013800"
+    },
+    {
+        "client_msg_id": "eb610010-657c-4cf8-b830-81bbc80ae7c6",
+        "type": "message",
+        "text": "snapchat(i think) had a story about this",
+        "user": "U15HRTAHL",
+        "ts": "1545077525.014200"
+    },
+    {
+        "client_msg_id": "02745754-8555-45b9-9b5f-2f7ffd9f2f47",
+        "type": "message",
+        "text": "Sams club would probably work",
+        "user": "U15HZ01QX",
+        "ts": "1545077579.014500"
+    },
+    {
+        "client_msg_id": "9486cf6a-201d-4c30-a424-69c47f94a1aa",
+        "type": "message",
+        "text": "buy some shirts in bulk",
+        "user": "U15HZ01QX",
+        "ts": "1545077583.014700"
+    },
+    {
+        "type": "message",
+        "text": "Smh lol",
+        "files": [
+            {
+                "id": "FEVC35HU0",
+                "created": 1545077677,
+                "timestamp": 1545077677,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 59741,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEVC35HU0\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEVC35HU0\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 217,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 290,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 435,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 483,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 580,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVC35HU0-6952ca8e7a\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 618,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 750,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FEVC35HU0\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FEVC35HU0-1c92fa372a",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1545077682.014800"
+    },
+    {
+        "client_msg_id": "41351694-1750-496b-9d7b-7264d5e4d7ba",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1545077691.015200"
+    },
+    {
+        "client_msg_id": "22a67061-5f42-429e-b62a-025f5ebd15e5",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1545077826.015400"
+    },
+    {
+        "client_msg_id": "4dc6a66a-77d3-481e-8a69-52d965c747a1",
+        "type": "message",
+        "text": "what do they want to advise me to do?",
+        "user": "U15HZ01QX",
+        "ts": "1545077866.015700"
+    },
+    {
+        "client_msg_id": "20bc5d9d-7ab4-47fb-8bf8-669dd7538d58",
+        "type": "message",
+        "text": "save more money? jesus",
+        "user": "U15HZ01QX",
+        "ts": "1545077875.016000"
+    },
+    {
+        "client_msg_id": "91fd894c-f6ba-466c-a242-1fc6703db3ce",
+        "type": "message",
+        "text": "I just read up on that fdic spic thing <@U15J5H60P> <@U15HRTAHL> Robinhood banking is sketchyyyyy",
+        "user": "U15HZ01QX",
+        "ts": "1545078344.016700"
+    },
+    {
+        "client_msg_id": "d3a5c659-022e-4af6-be6d-3be0dec885b4",
+        "type": "message",
+        "text": "did you see they redacted their statement about spic?",
+        "user": "U15HRTAHL",
+        "ts": "1545078366.017000"
+    },
+    {
+        "client_msg_id": "7bd6810f-5add-4b4f-99cf-7c861ddd75b2",
+        "type": "message",
+        "text": "oh they did?",
+        "user": "U15HZ01QX",
+        "ts": "1545078375.017200"
+    },
+    {
+        "client_msg_id": "b340e6f0-433b-4577-b9b8-213b707f927e",
+        "type": "message",
+        "text": "WSB said that SPIC only insures deposits made for the purpose of buying securities",
+        "user": "U15HZ01QX",
+        "ts": "1545078398.017700"
+    },
+    {
+        "client_msg_id": "fee84975-290f-4118-8331-67fd877ff6d4",
+        "type": "message",
+        "text": "Which means robinhood is taking your savings and investing it secretly",
+        "user": "U15HZ01QX",
+        "ts": "1545078415.018200"
+    },
+    {
+        "client_msg_id": "1824cc86-f128-40ac-8e89-8c3f9c5a8bdb",
+        "type": "message",
+        "text": "but the moment something goes wrong theres no way robinhood is going to take the blame and youll just think your money has been sitting in a savings account",
+        "user": "U15HZ01QX",
+        "ts": "1545078450.019000"
+    },
+    {
+        "client_msg_id": "978ab1f1-6de2-495f-a1bc-04b750a7f360",
+        "type": "message",
+        "text": "YYese",
+        "user": "U15J5H60P",
+        "ts": "1545078584.019200"
+    },
+    {
+        "client_msg_id": "20be44af-5c1f-4f7a-bde4-31f1995358a5",
+        "type": "message",
+        "text": "Did you see how they rebranded it though?",
+        "user": "U15J5H60P",
+        "ts": "1545078591.019500"
+    },
+    {
+        "client_msg_id": "791a15b8-6956-45f0-81f5-e40e854a472e",
+        "type": "message",
+        "text": "It's no longer checking\/savings",
+        "user": "U15J5H60P",
+        "ts": "1545078595.019700"
+    },
+    {
+        "client_msg_id": "e28748a1-44f9-499e-8f78-f84c525d174a",
+        "type": "message",
+        "text": "cash management",
+        "user": "U15HRTAHL",
+        "ts": "1545078611.020000"
+    },
+    {
+        "client_msg_id": "7fbb4763-5c23-4f75-8995-97cb5bafd38f",
+        "type": "message",
+        "text": "\"Cash Management\"",
+        "user": "U15J5H60P",
+        "ts": "1545078612.020100"
+    },
+    {
+        "client_msg_id": "21302bac-bccb-41e7-8dc6-3bc30553fcbc",
+        "type": "message",
+        "text": "So they're trying to word it differently to get insured",
+        "user": "U15J5H60P",
+        "ts": "1545078640.020500"
+    },
+    {
+        "client_msg_id": "d9e935bf-8327-4fec-992e-a15cb892b915",
+        "type": "message",
+        "text": "What i think would work better is if they just gave everyone whos keeping uninvested money in robinhood (like me :disappointed: ) 1% interest over the year",
+        "user": "U15HZ01QX",
+        "ts": "1545078693.021500"
+    },
+    {
+        "client_msg_id": "c00e3d9a-a20e-4c82-9896-b99ea5adf323",
+        "type": "message",
+        "text": "move that shit",
+        "user": "U15HRTAHL",
+        "ts": "1545078705.022000"
+    },
+    {
+        "client_msg_id": "737484ab-c9eb-4e9f-a3eb-169d3e9d2124",
+        "type": "message",
+        "text": "No need to lie to all these people and get in trouble",
+        "user": "U15HZ01QX",
+        "ts": "1545078706.022100"
+    },
+    {
+        "client_msg_id": "58197863-03de-4183-9478-079b52ceea6e",
+        "type": "message",
+        "text": "it auto deposits lol",
+        "user": "U15HZ01QX",
+        "ts": "1545078724.022400"
+    },
+    {
+        "client_msg_id": "ec8937a1-7bff-4510-8765-255dd75553c2",
+        "type": "message",
+        "text": "and im always like i guess i should go get some options",
+        "user": "U15HZ01QX",
+        "ts": "1545078741.022800"
+    },
+    {
+        "client_msg_id": "904cbe0a-0b0a-4440-9fe3-607e4eaef482",
+        "type": "message",
+        "text": "then trump says something about the fed raising interest rates",
+        "user": "U15HZ01QX",
+        "ts": "1545078755.023300"
+    },
+    {
+        "client_msg_id": "c1d12ef7-7966-4f33-a8c7-1db8b8425465",
+        "type": "message",
+        "text": "and im like nahhh",
+        "user": "U15HZ01QX",
+        "ts": "1545078759.023500"
+    },
+    {
+        "type": "message",
+        "text": "My poor $SPY",
+        "files": [
+            {
+                "id": "FEVGJSKH7",
+                "created": 1545078814,
+                "timestamp": 1545078814,
+                "name": "image.png",
+                "title": "Pasted image at 2018-12-17, 2:33 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 390488,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEVGJSKH7\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEVGJSKH7\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 229,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 305,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 457,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGJSKH7-f85af808ee\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 508,
+                "image_exif_rotation": 1,
+                "original_w": 825,
+                "original_h": 524,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FEVGJSKH7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FEVGJSKH7-1fc817e519",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1545078817.023700"
+    },
+    {
+        "client_msg_id": "6d6e53f7-a8d1-403a-9332-df6237c2c9e4",
+        "type": "message",
+        "text": "my portfolio is down 25%",
+        "user": "U15HRTAHL",
+        "ts": "1545078874.024200"
+    },
+    {
+        "client_msg_id": "97306ed0-dec2-451a-b061-591f8e0ebcbb",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1545078875.024400"
+    },
+    {
+        "client_msg_id": "ed92631c-5858-4d3b-84c8-d953cc06082f",
+        "type": "message",
+        "text": "jesus on what?",
+        "user": "U15HZ01QX",
+        "ts": "1545078912.024600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FEVGMJC65",
+                "created": 1545078988,
+                "timestamp": 1545078988,
+                "name": "Screenshot_20181217-143547~2.png",
+                "title": "Screenshot_20181217-143547~2.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 79706,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEVGMJC65\/screenshot_20181217-143547_2.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEVGMJC65\/download\/screenshot_20181217-143547_2.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 197,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 263,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 394,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1461,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 526,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEVGMJC65-ab502c1ca0\/screenshot_20181217-143547_2_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 561,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2630,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FEVGMJC65\/screenshot_20181217-143547_2.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FEVGMJC65-689a4fa6ac",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1545078994.024700",
+        "client_msg_id": "b1b9f038-2cd9-4087-97db-7632f457e186"
+    },
+    {
+        "client_msg_id": "a7701cc7-9676-4b98-89a9-2a585c367892",
+        "type": "message",
+        "text": "so just a bunch of shit",
+        "user": "U15HRTAHL",
+        "ts": "1545079015.025100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus APRN",
+        "user": "U15J5H60P",
+        "ts": "1545079079.025300"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       APRN                1.01               -0.04               -3.810 \n       Avg.                 ---                 ---              -3.810% \n```\n<http:\/\/finviz.com\/chart.ashx?t=APRN&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1545079079.025400",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=APRN&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32231,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=APRN&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=APRN&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3de520c2-be28-4b3f-9e58-6e11dc0913f9",
+        "type": "message",
+        "text": "Why doesn't it say the name of the business",
+        "user": "U15J5H60P",
+        "ts": "1545079093.025800"
+    },
+    {
+        "client_msg_id": "d2b4ac41-c68f-452f-8411-607106b0957f",
+        "type": "message",
+        "text": "blue apron",
+        "user": "U15HRTAHL",
+        "ts": "1545079099.026100"
+    },
+    {
+        "client_msg_id": "e1945a0c-9983-4a25-b33d-37373b6074d0",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1545079103.026700"
+    },
+    {
+        "client_msg_id": "7630f93d-1c0a-4a49-998e-d203d669509a",
+        "type": "message",
+        "text": "ipo was $10",
+        "user": "U15HRTAHL",
+        "ts": "1545079106.026800"
+    },
+    {
+        "client_msg_id": "8a658c16-4e50-45a7-98b2-23053d00baff",
+        "type": "message",
+        "text": "thats not 25% <@U15HRTAHL> is it?",
+        "user": "U15HZ01QX",
+        "ts": "1545079107.027100"
+    },
+    {
+        "client_msg_id": "9b4253f8-52fa-42b7-94e4-286a07a3ae89",
+        "type": "message",
+        "text": "i bought at like $1.20",
+        "user": "U15HRTAHL",
+        "ts": "1545079121.027300"
+    },
+    {
+        "client_msg_id": "bcbf2d5e-3630-48fe-969e-984f99cc55bc",
+        "type": "message",
+        "text": "Twitter is down 7%",
+        "user": "U15J5H60P",
+        "ts": "1545079332.027500"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus TWTR",
+        "user": "U15J5H60P",
+        "ts": "1545079337.027600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       TWTR               33.35               -2.52               -7.025 \n       Avg.                 ---                 ---              -7.025% \n```\n<http:\/\/finviz.com\/chart.ashx?t=TWTR&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1545079337.027700",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=TWTR&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33085,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=TWTR&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=TWTR&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16fd142a-f2ea-4cc8-b59f-e60f29f6f9fd",
+        "type": "message",
+        "text": "BTC is to the moon though!",
+        "user": "U15J5H60P",
+        "ts": "1545079375.028000"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FEW233XJ7",
+                "created": 1545079449,
+                "timestamp": 1545079449,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 81860,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEW233XJ7\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEW233XJ7\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 274,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 366,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 549,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1049,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 732,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW233XJ7-beb522b192\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 781,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 1629,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FEW233XJ7\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FEW233XJ7-006d8d5966",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1545079455.028100"
+    },
+    {
+        "client_msg_id": "76d7a90d-e500-492a-b4da-04e9f163f250",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1545079462.028500"
+    },
+    {
+        "client_msg_id": "120f7e7f-4a01-41e8-9f81-af214c5a7be6",
+        "type": "message",
+        "text": "That is an absolute nuts picture lol",
+        "user": "U15HZ01QX",
+        "ts": "1545079486.028900"
+    },
+    {
+        "client_msg_id": "1da3cf57-de72-4a05-a04c-ede0c6bee48e",
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1545079492.029200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FEW5635NE",
+                "created": 1545079501,
+                "timestamp": 1545079501,
+                "name": "Screenshot_20181217-144443.png",
+                "title": "Screenshot_20181217-144443.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 113174,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEW5635NE\/screenshot_20181217-144443.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FEW5635NE\/download\/screenshot_20181217-144443.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FEW5635NE-e7cb450490\/screenshot_20181217-144443_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2880,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FEW5635NE\/screenshot_20181217-144443.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FEW5635NE-4e631c7c42",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1545079507.029400",
+        "client_msg_id": "1699521f-e483-45a8-8a77-772278c6daa7"
+    },
+    {
+        "client_msg_id": "eaabcb1e-2b98-4695-9c91-6ae44c513c47",
+        "type": "message",
+        "text": "that’s a nuts picture",
+        "user": "U15HRTAHL",
+        "ts": "1545079512.029800"
+    },
+    {
+        "client_msg_id": "f7efd11b-0f86-4b2d-9aa6-ee3100c4840f",
+        "type": "message",
+        "text": "lol none of us invested 5 years ago",
+        "user": "U15HZ01QX",
+        "ts": "1545079580.030100"
+    },
+    {
+        "client_msg_id": "b48a5fbe-1818-467e-89d7-f9c420f2148c",
+        "type": "message",
+        "text": "probabaly",
+        "user": "U15HZ01QX",
+        "ts": "1545079587.030300"
+    },
+    {
+        "client_msg_id": "b4dcefcc-3f67-4ad4-af63-a6b9729e54fd",
+        "type": "message",
+        "text": "That is nuts",
+        "user": "U15J5H60P",
+        "ts": "1545079691.030500"
+    },
+    {
+        "client_msg_id": "44188276-2cfe-420d-9420-5ea2e2b78af5",
+        "type": "message",
+        "text": "Some people became millionaires off of a couple hundred dollars invested in 2013. 10k turned into 2 million between 2013 and 2017",
+        "user": "U15J5H60P",
+        "ts": "1545079789.031600"
+    },
+    {
+        "client_msg_id": "3354f80b-8f8d-42a0-89db-710be9849c31",
+        "type": "message",
+        "text": "At least you aren't invested in DOVA",
+        "user": "U15J5H60P",
+        "ts": "1545080432.032000"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus DOVA",
+        "user": "U15J5H60P",
+        "ts": "1545080438.032100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       DOVA                8.97               -5.84              -39.433 \n       Avg.                 ---                 ---             -39.433% \n```\n<http:\/\/finviz.com\/chart.ashx?t=DOVA&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1545080438.032200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=DOVA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 24419,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=DOVA&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=DOVA&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c5a4cfe-60af-40d2-8236-7ccadf359e8f",
+        "type": "message",
+        "text": "This is either a great time to buy or a horrible time to buy",
+        "user": "U15J5H60P",
+        "ts": "1545080458.032700"
+    }
+]

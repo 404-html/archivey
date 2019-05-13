@@ -1,0 +1,464 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> <@U15HSHSS2> <@U15J5H60P> can you guys give me a brief explanation about all these different .NET things",
+        "user": "U15HRTAHL",
+        "ts": "1521642285.000252"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1521642299.000190"
+    },
+    {
+        "type": "message",
+        "text": ".NET Framework vs .NET Standard vs .NET Core",
+        "user": "U15HRTAHL",
+        "ts": "1521642302.001046"
+    },
+    {
+        "type": "message",
+        "text": ".NET Core is cross platform",
+        "user": "U15J5H60P",
+        "ts": "1521642317.000242"
+    },
+    {
+        "type": "message",
+        "text": "No idea about anything else",
+        "user": "U15J5H60P",
+        "ts": "1521642321.000503"
+    },
+    {
+        "client_msg_id": "A7E46307-ABC3-4360-974F-931990D57E69",
+        "type": "message",
+        "text": "Yea. Shit and shit and shit",
+        "user": "U15HY5TG8",
+        "ts": "1521642322.000587"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1521642327.000723"
+    },
+    {
+        "type": "message",
+        "text": "Stephen Hawking used a Windows Form App for his speaking program",
+        "user": "U15J5H60P",
+        "ts": "1521642336.000104"
+    },
+    {
+        "type": "message",
+        "text": "Shared Project is a project you can share",
+        "user": "U15HSHSS2",
+        "ts": "1521642353.000324"
+    },
+    {
+        "type": "message",
+        "text": "Stephen Hawking also died so I probably want to avoid the windows forms then",
+        "user": "U15HRTAHL",
+        "ts": "1521642366.000343"
+    },
+    {
+        "type": "message",
+        "text": "smart ^^",
+        "user": "U15HSHSS2",
+        "ts": "1521642404.000103"
+    },
+    {
+        "type": "message",
+        "text": "Genius",
+        "user": "U15J5H60P",
+        "ts": "1521642421.000030"
+    },
+    {
+        "type": "message",
+        "text": "wow c# is something else entirely",
+        "user": "U15HRTAHL",
+        "ts": "1521648329.000847"
+    },
+    {
+        "type": "message",
+        "text": "so many things",
+        "user": "U15HRTAHL",
+        "ts": "1521648345.000331"
+    },
+    {
+        "client_msg_id": "45B88337-E2F6-4DD3-B7B4-A5CFD33CBB59",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1521649624.000873"
+    },
+    {
+        "client_msg_id": "65E740A1-D8C6-4EE0-926E-4FF77809564A",
+        "type": "message",
+        "text": "Like?",
+        "user": "U15HY5TG8",
+        "ts": "1521649627.000183"
+    },
+    {
+        "type": "message",
+        "text": "lol idk I'm just amazed there's a type `var`",
+        "user": "U15HRTAHL",
+        "ts": "1521649734.000728"
+    },
+    {
+        "type": "message",
+        "text": "like in js",
+        "user": "U15HRTAHL",
+        "ts": "1521649736.000516"
+    },
+    {
+        "type": "message",
+        "text": "blows java out of the water",
+        "user": "U15HRTAHL",
+        "ts": "1521649747.000566"
+    },
+    {
+        "client_msg_id": "C3F744A1-02C5-4791-92A5-64E3ACBD5E65",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1521649778.000886"
+    },
+    {
+        "client_msg_id": "1EB96C18-12F1-4D24-B8E0-315B148F1375",
+        "type": "message",
+        "text": "Isnt there var in java?",
+        "user": "U15HY5TG8",
+        "ts": "1521649785.000923"
+    },
+    {
+        "type": "message",
+        "text": "I don't think so",
+        "user": "U15HRTAHL",
+        "ts": "1521649839.000907"
+    },
+    {
+        "type": "message",
+        "text": "do you not use C# at work?",
+        "user": "U15HSHSS2",
+        "ts": "1521649923.000216"
+    },
+    {
+        "type": "message",
+        "text": "lol no not at all",
+        "user": "U15HRTAHL",
+        "ts": "1521649957.000212"
+    },
+    {
+        "type": "message",
+        "text": "oh damn, do you just do java script?",
+        "user": "U15HSHSS2",
+        "ts": "1521649967.000886"
+    },
+    {
+        "type": "message",
+        "text": "there's a few projects where we've done c#",
+        "user": "U15HRTAHL",
+        "ts": "1521649971.000513"
+    },
+    {
+        "type": "message",
+        "text": "no, salesforce has its own backend language called Apex. its a java\/c# hybrid",
+        "user": "U15HRTAHL",
+        "ts": "1521649992.000679"
+    },
+    {
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HSHSS2",
+        "ts": "1521650004.000126"
+    },
+    {
+        "type": "message",
+        "text": "but you don't get to use a fancy IDE like Visual Studio",
+        "user": "U15HRTAHL",
+        "ts": "1521650010.000871"
+    },
+    {
+        "client_msg_id": "14C00CF2-37FE-4050-86CD-BED0D455CAD7",
+        "type": "message",
+        "text": "Your life sucks",
+        "user": "U15HY5TG8",
+        "ts": "1521650040.000741"
+    },
+    {
+        "type": "message",
+        "text": "Are you just messing around with C# or are you using it for work now?",
+        "user": "U15HSHSS2",
+        "ts": "1521650060.000643"
+    },
+    {
+        "type": "message",
+        "text": "I'm using it for work",
+        "user": "U15HRTAHL",
+        "ts": "1521650067.000509"
+    },
+    {
+        "client_msg_id": "9E2FD35F-F02E-4CC0-B6A8-CFD6A1C85791",
+        "type": "message",
+        "text": "With vs for mac?",
+        "user": "U15HY5TG8",
+        "ts": "1521650076.000907"
+    },
+    {
+        "type": "message",
+        "text": "nah we have this vm called parallels installed on our computers",
+        "user": "U15HRTAHL",
+        "ts": "1521650092.000022"
+    },
+    {
+        "client_msg_id": "12B86BA4-B1A5-48C5-98E2-9F9BB6E347F8",
+        "type": "message",
+        "text": "Ahh gotcha. Running which environment?",
+        "user": "U15HY5TG8",
+        "ts": "1521650110.000821"
+    },
+    {
+        "type": "message",
+        "text": "7",
+        "user": "U15HRTAHL",
+        "ts": "1521650116.000553"
+    },
+    {
+        "client_msg_id": "ABE922E7-8239-4AC1-9704-4DD46338236B",
+        "type": "message",
+        "text": "Ahh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1521650223.000519"
+    },
+    {
+        "type": "message",
+        "text": "This is like the 2nd or 3rd c# project i've worked on here.",
+        "user": "U15HRTAHL",
+        "ts": "1521650338.000134"
+    },
+    {
+        "type": "message",
+        "text": "We had a *huge* c# data integration project we did that acted as the middle man between 2 systems",
+        "user": "U15HRTAHL",
+        "ts": "1521650373.000571"
+    },
+    {
+        "type": "message",
+        "text": "but I only touched a little bit of that",
+        "user": "U15HRTAHL",
+        "ts": "1521650389.000351"
+    },
+    {
+        "client_msg_id": "FFA295C5-75E7-4B5A-96E0-D8DD152A7F66",
+        "type": "message",
+        "text": "Ahh ok gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1521650440.000200"
+    },
+    {
+        "client_msg_id": "446FA95A-5034-46F5-9599-F0FBFFA38F23",
+        "type": "message",
+        "text": "C# is pretty cool",
+        "user": "U15HY5TG8",
+        "ts": "1521650451.000931"
+    },
+    {
+        "type": "message",
+        "text": "yeah it is",
+        "user": "U15HRTAHL",
+        "ts": "1521650454.000914"
+    },
+    {
+        "type": "message",
+        "text": "they really made it flexible",
+        "user": "U15HRTAHL",
+        "ts": "1521650464.000227"
+    },
+    {
+        "client_msg_id": "191AF5B1-E4CC-42C3-89E2-99F040FB071C",
+        "type": "message",
+        "text": "Except for use on macs",
+        "user": "U15HY5TG8",
+        "ts": "1521650477.000305"
+    },
+    {
+        "type": "message",
+        "text": "nuget is pretty cool, I didn't know they had packages like npm",
+        "user": "U15HRTAHL",
+        "ts": "1521650491.000218"
+    },
+    {
+        "type": "message",
+        "text": "in linq is possible to return an attribute of a list object?",
+        "user": "U15HRTAHL",
+        "ts": "1521656244.000441"
+    },
+    {
+        "type": "message",
+        "text": "Object[] objs = [new Object(\"Name1\"), new Object[\"Name2\"]]\nobjs = objs.Where(obj =&gt; return obj.name);",
+        "user": "U15HRTAHL",
+        "ts": "1521656302.000085"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/22539581\/linq-select-one-field-from-list-of-dto-objects-to-array>",
+        "user": "U15HRTAHL",
+        "ts": "1521656743.000602",
+        "attachments": [
+            {
+                "title": "LINQ select one field from list of DTO objects to array",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/22539581\/linq-select-one-field-from-list-of-dto-objects-to-array",
+                "text": "I have DTO class that defines order line like this: public class Line { public string Sku { get; set; } public int Qty { get; set; } } A list of type Line is populated like so: List&amp;l...",
+                "fallback": "LINQ select one field from list of DTO objects to array",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/22539581\/linq-select-one-field-from-list-of-dto-objects-to-array",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "nvm",
+        "user": "U15HRTAHL",
+        "ts": "1521656746.000287"
+    },
+    {
+        "client_msg_id": "73CC1B0E-EE7C-4031-A1B5-C331D314D170",
+        "type": "message",
+        "text": "Usually a faded name means its not necessary to have ",
+        "user": "U15HY5TG8",
+        "ts": "1521662379.000403"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1521662394.000453"
+    },
+    {
+        "type": "message",
+        "text": "thanks",
+        "user": "U15HRTAHL",
+        "ts": "1521662399.000690"
+    },
+    {
+        "client_msg_id": "DC48B1AA-24AD-4D88-AA2E-720BFC8801F7",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1521662402.000791"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> emergency",
+        "user": "U15HY5TG8",
+        "ts": "1521687561.000172"
+    },
+    {
+        "client_msg_id": "c847f99d-e849-4246-86a3-3ce8a83fff4f",
+        "type": "message",
+        "text": "Sup",
+        "user": "U15HRTAHL",
+        "ts": "1521687574.000281"
+    },
+    {
+        "type": "message",
+        "text": "how do you put back a deleted file from a git commit?",
+        "user": "U15HY5TG8",
+        "ts": "1521687591.000269"
+    },
+    {
+        "client_msg_id": "570d56be-9f73-4228-8bde-f12e06c06611",
+        "type": "message",
+        "text": "A commit or a push?",
+        "user": "U15HRTAHL",
+        "ts": "1521687610.000026"
+    },
+    {
+        "type": "message",
+        "text": "both",
+        "user": "U15HY5TG8",
+        "ts": "1521687615.000331"
+    },
+    {
+        "client_msg_id": "1b68eefd-97cc-470f-aff4-b7b28858ad6b",
+        "type": "message",
+        "text": "With a push you have to `revert` it",
+        "user": "U15HRTAHL",
+        "ts": "1521687637.000087"
+    },
+    {
+        "client_msg_id": "C33E2506-A314-4934-A088-FFCAC140766D",
+        "type": "message",
+        "text": "GitHub??",
+        "user": "U15J5H60P",
+        "ts": "1521687659.000171"
+    },
+    {
+        "type": "message",
+        "text": "Gitlab",
+        "user": "U15HY5TG8",
+        "ts": "1521687663.000134"
+    },
+    {
+        "client_msg_id": "5457A502-15AC-4A47-BD38-52937B2087EA",
+        "type": "message",
+        "text": "Can you look at git commits on gitlab?",
+        "user": "U15J5H60P",
+        "ts": "1521687679.000038"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1521687683.000261"
+    },
+    {
+        "client_msg_id": "1216E352-99D1-4793-988E-B7B4C0A0210C",
+        "type": "message",
+        "text": "If so, just go back to a commit with the file, download it then readd it",
+        "user": "U15J5H60P",
+        "ts": "1521687698.000103"
+    },
+    {
+        "client_msg_id": "be4f8750-cb9e-4f3b-80a1-139949b2528b",
+        "type": "message",
+        "text": "With a commit you can just recheck out the file like so `git checkout &lt;branch&gt; path\/to\/file`",
+        "user": "U15HRTAHL",
+        "ts": "1521687700.000201"
+    },
+    {
+        "type": "message",
+        "text": "interesting...",
+        "user": "U15HY5TG8",
+        "ts": "1521687761.000081"
+    },
+    {
+        "type": "message",
+        "text": "I definitely did it the wrong way but it worked",
+        "user": "U15HY5TG8",
+        "ts": "1521688302.000048"
+    },
+    {
+        "type": "message",
+        "text": "niceee",
+        "user": "U15HRTAHL",
+        "ts": "1521688358.000003"
+    },
+    {
+        "type": "message",
+        "text": "whatd you do",
+        "user": "U15HRTAHL",
+        "ts": "1521688363.000075"
+    },
+    {
+        "type": "message",
+        "text": "i just added a file on gitlab and then copied my local code",
+        "user": "U15HY5TG8",
+        "ts": "1521688387.000022"
+    }
+]

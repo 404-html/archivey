@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/phys.org\/news\/2016-05-ibm-scientists-storage-memory-breakthrough.html>",
+        "user": "U15HRTAHL",
+        "ts": "1463534219.000002",
+        "attachments": [
+            {
+                "title": "IBM scientists achieve storage memory breakthrough",
+                "title_link": "http:\/\/phys.org\/news\/2016-05-ibm-scientists-storage-memory-breakthrough.html",
+                "text": "For the first time, scientists at IBM Research have demonstrated reliably storing 3 bits of data per cell using a relatively new memory technology known as phase-change memory (PCM).",
+                "fallback": "IBM scientists achieve storage memory breakthrough",
+                "image_url": "http:\/\/cdn.phys.org\/newman\/gfx\/news\/hires\/2016\/573afc3b4ca56.jpeg",
+                "from_url": "http:\/\/phys.org\/news\/2016-05-ibm-scientists-storage-memory-breakthrough.html",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 234367,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "OSX bug???",
+        "user": "U15J5H60P",
+        "ts": "1463541998.000002"
+    }
+]

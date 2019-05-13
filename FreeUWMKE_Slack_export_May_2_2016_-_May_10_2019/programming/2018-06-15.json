@@ -1,0 +1,738 @@
+[
+    {
+        "client_msg_id": "9c47be4c-b704-4435-a862-efac4772bb7c",
+        "type": "message",
+        "text": "I’m having a brain fart",
+        "user": "U15HRTAHL",
+        "ts": "1529072262.000056"
+    },
+    {
+        "client_msg_id": "e4311a06-da43-42af-84d5-801f77c3ea67",
+        "type": "message",
+        "text": "remember in 317",
+        "user": "U15HRTAHL",
+        "ts": "1529072266.000334"
+    },
+    {
+        "client_msg_id": "F44B71EA-323C-4078-AC60-5F71886CBD5C",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1529072279.000142",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c003ef28-5dd9-4a52-b3d5-8758824e4abc",
+        "type": "message",
+        "text": "if you have something like this `!(boolean1 &amp;&amp; boolean2)`",
+        "user": "U15HRTAHL",
+        "ts": "1529072297.000772"
+    },
+    {
+        "client_msg_id": "88a0f7ec-fd97-4633-8e30-c94875f4e140",
+        "type": "message",
+        "text": "how do you convert that to an OR?",
+        "user": "U15HRTAHL",
+        "ts": "1529072307.000651"
+    },
+    {
+        "client_msg_id": "106e4929-bfae-47cb-87c0-9416e1db2864",
+        "type": "message",
+        "text": "`(!boolean1 || !boolean2)`",
+        "user": "U15HRTAHL",
+        "ts": "1529072326.000613"
+    },
+    {
+        "client_msg_id": "1AA4BD21-2B4F-4306-A8B1-C705780FEEF7",
+        "type": "message",
+        "text": "So that means if not all true",
+        "user": "U15HY5TG8",
+        "ts": "1529072366.000738"
+    },
+    {
+        "client_msg_id": "C01D427B-7E65-4572-BC80-DE16214959CA",
+        "type": "message",
+        "text": "Can you conver that to an or?",
+        "user": "U15HY5TG8",
+        "ts": "1529072389.000503"
+    },
+    {
+        "client_msg_id": "571275D9-2A68-47FB-BA5A-D191EE63E840",
+        "type": "message",
+        "text": "Idk if you can",
+        "user": "U15HY5TG8",
+        "ts": "1529072394.000410"
+    },
+    {
+        "client_msg_id": "B18433C6-15C4-4D89-8B59-2AFAB18CF7BD",
+        "type": "message",
+        "text": "Why do you need to?",
+        "user": "U15HY5TG8",
+        "ts": "1529072414.000749"
+    },
+    {
+        "client_msg_id": "b8b7b3e9-1a60-4ed8-bc43-b7dbdd6fe70b",
+        "type": "message",
+        "text": "readability, this is a simple example of what I’m doing",
+        "user": "U15HRTAHL",
+        "ts": "1529072462.000126"
+    },
+    {
+        "client_msg_id": "0da8cbe6-03c9-4eca-ad5f-cceb043f97e6",
+        "type": "message",
+        "text": "you can convert it, we learned this in 317",
+        "user": "U15HRTAHL",
+        "ts": "1529072480.000225"
+    },
+    {
+        "client_msg_id": "793f8370-75c8-4cf4-bd30-2803c2293dfe",
+        "type": "message",
+        "text": "oh yeah",
+        "user": "U15HRTAHL",
+        "ts": "1529072559.000835"
+    },
+    {
+        "client_msg_id": "4787efb9-e1e7-43de-bf6c-767c18583968",
+        "type": "message",
+        "text": "De Morgans",
+        "user": "U15HRTAHL",
+        "ts": "1529072564.000326"
+    },
+    {
+        "client_msg_id": "4C9D9047-69B3-4129-B725-297091A9296F",
+        "type": "message",
+        "text": "Innnteresting",
+        "user": "U15HY5TG8",
+        "ts": "1529072579.000134"
+    },
+    {
+        "client_msg_id": "B78B14E2-8F3F-4BC6-9F00-541330AF212D",
+        "type": "message",
+        "text": "So you found the answer?",
+        "user": "U15HY5TG8",
+        "ts": "1529072586.000027"
+    },
+    {
+        "client_msg_id": "BFD6AF71-7E49-42A3-BBF4-B321D5B18654",
+        "type": "message",
+        "text": "Damn i was just opening up a page that had demorgans as you sent that",
+        "user": "U15HY5TG8",
+        "ts": "1529072614.000899"
+    },
+    {
+        "client_msg_id": "a1978478-e06a-4f40-a53f-e08564772a92",
+        "type": "message",
+        "text": "shut up",
+        "user": "U15HRTAHL",
+        "ts": "1529072650.000702"
+    },
+    {
+        "client_msg_id": "5c5a529b-6ce6-47ed-acb9-072b9c824056",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1529072651.000734",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1529072655.000000"
+        }
+    },
+    {
+        "client_msg_id": "7d85c24d-d485-45c8-810c-a5bb9cd6ea49",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/2168603\/demorgan-rules-explained>",
+        "user": "U15HRTAHL",
+        "ts": "1529072662.000670",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "deMorgan rules explained",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/2168603\/demorgan-rules-explained",
+                "text": "Could you please explain the deMorgan rules as simply as possible (e.g. to someone with only a secondary school mathematics background) ?",
+                "fallback": "Stack Overflow: deMorgan rules explained",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/2168603\/demorgan-rules-explained",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/2168603\/demorgan-rules-explained"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6A89C360-8055-4E32-8FF2-958A90012096",
+        "type": "message",
+        "text": "Im serious",
+        "user": "U15HY5TG8",
+        "ts": "1529072673.000699"
+    },
+    {
+        "client_msg_id": "9e6ec130-00e4-40bd-aa80-2668b47d07ed",
+        "type": "message",
+        "text": "```DeMorgan's rules are handy tricks that let us convert between equivalent expressions that fit certain patterns:\n\nNOT (x AND y) = (NOT x) OR  (NOT y)\nNOT (x OR  y) = (NOT x) AND (NOT y)```",
+        "user": "U15HRTAHL",
+        "ts": "1529072685.000625"
+    },
+    {
+        "client_msg_id": "e908bc77-d75a-4d1a-91b0-fb8783b9a094",
+        "type": "message",
+        "text": "<https:\/\/www.cs.utah.edu\/~germain\/PPS\/Topics\/truth_tables_and_logic.html>",
+        "user": "U15HY5TG8",
+        "ts": "1529072694.000885"
+    },
+    {
+        "client_msg_id": "3d45f7ff-c7fd-408e-be7f-41268c3e3652",
+        "type": "message",
+        "text": "that's what I opened up at the same time",
+        "user": "U15HY5TG8",
+        "ts": "1529072702.000674"
+    },
+    {
+        "client_msg_id": "a397cae6-4a38-4cfe-aafe-2945c217861b",
+        "type": "message",
+        "text": "You not everthing and switch AND to OR",
+        "user": "U15HSHSS2",
+        "ts": "1529072708.000226"
+    },
+    {
+        "client_msg_id": "1a3020c4-9f04-4fa0-8cad-da1eb67a4b7c",
+        "type": "message",
+        "text": "from what I remember",
+        "user": "U15HSHSS2",
+        "ts": "1529072710.000706"
+    },
+    {
+        "client_msg_id": "d3fed4f8-904c-4d3c-9c8b-16f67f1bf9cb",
+        "type": "message",
+        "text": "I still don't get it though",
+        "user": "U15HY5TG8",
+        "ts": "1529072725.000107"
+    },
+    {
+        "client_msg_id": "8e99fec9-6641-4486-a81e-3376d2c1988d",
+        "type": "message",
+        "text": "why is !(a &amp;&amp;b) not (!a &amp;&amp; !b)?",
+        "user": "U15HY5TG8",
+        "ts": "1529072749.000508"
+    },
+    {
+        "client_msg_id": "c6c2fd52-f3a0-406a-aa71-f442f82c57b0",
+        "type": "message",
+        "text": "because it negates the entire expression",
+        "user": "U15HRTAHL",
+        "ts": "1529072812.000879"
+    },
+    {
+        "client_msg_id": "69cddbc6-2d54-4966-a61f-6f71481dc75b",
+        "type": "message",
+        "text": "negating an &amp;&amp; makes it ||",
+        "user": "U15HRTAHL",
+        "ts": "1529072827.000532"
+    },
+    {
+        "client_msg_id": "56184592-3a9f-456a-ae4c-5e231091430e",
+        "type": "message",
+        "text": "That's what I can't comprehend",
+        "user": "U15HY5TG8",
+        "ts": "1529072932.000473"
+    },
+    {
+        "client_msg_id": "82046a2e-1537-4003-a43e-9a05312667f0",
+        "type": "message",
+        "text": "!(a &amp;&amp; b) = True when a=true and b=false.\n\n(!a &amp;&amp; !b) = False when a=true and b=false.",
+        "user": "U15HSHSS2",
+        "ts": "1529072950.000866"
+    },
+    {
+        "client_msg_id": "396dcccc-692e-461c-b097-b8b6e140a6f9",
+        "type": "message",
+        "text": "just do the logic",
+        "user": "U15HSHSS2",
+        "ts": "1529072969.000129"
+    },
+    {
+        "client_msg_id": "dc4e8ce5-9c3e-4369-b88a-834c2a3d2433",
+        "type": "message",
+        "text": "it doesn't work",
+        "user": "U15HSHSS2",
+        "ts": "1529072975.000314"
+    },
+    {
+        "client_msg_id": "46f52800-d23b-46d9-be6d-f000d6bed798",
+        "type": "message",
+        "text": "Ik, I didn't have the chance to do it yet haha",
+        "user": "U15HY5TG8",
+        "ts": "1529072993.000374"
+    },
+    {
+        "client_msg_id": "f40280f5-58e7-4162-844d-5441726c1284",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1529073001.000058"
+    },
+    {
+        "client_msg_id": "2285494c-6364-4a4e-bffe-77033329b632",
+        "type": "message",
+        "text": "Remember when we had convert an entire expression to an equivalent one that used only NANDs",
+        "user": "U15HSHSS2",
+        "ts": "1529073074.000827"
+    },
+    {
+        "client_msg_id": "3eb17f67-9fc0-4b65-9907-6457b9c8c60f",
+        "type": "message",
+        "text": "good'ol days",
+        "user": "U15HSHSS2",
+        "ts": "1529073080.000161"
+    },
+    {
+        "client_msg_id": "5378418E-2E8D-4BAA-8396-7BC572D57EB9",
+        "type": "message",
+        "text": "Fuck all that",
+        "user": "U15HY5TG8",
+        "ts": "1529073176.000540"
+    },
+    {
+        "client_msg_id": "a2572755-2dd5-40f8-8b7d-fac273b51d39",
+        "type": "message",
+        "text": "remember when we had to draw a cpu matrix with 3 input lines and 16 output lines in computer architecture?",
+        "user": "U15HRTAHL",
+        "ts": "1529073299.000444"
+    },
+    {
+        "client_msg_id": "7be0a6b6-f3c4-41f4-a696-efa68ae48102",
+        "type": "message",
+        "text": "I do",
+        "user": "U15HY5TG8",
+        "ts": "1529073315.000293"
+    },
+    {
+        "client_msg_id": "d10df384-2589-41fa-af04-9b2bc9e434bf",
+        "type": "message",
+        "text": "I wish I woulda paid attention in those classes",
+        "user": "U15HY5TG8",
+        "ts": "1529073326.000784"
+    },
+    {
+        "client_msg_id": "09cc7b97-0305-4c69-94c7-85e169042b3d",
+        "type": "message",
+        "text": "they were kinda cool",
+        "user": "U15HY5TG8",
+        "ts": "1529073330.000060"
+    },
+    {
+        "client_msg_id": "a59e1fb1-7b4d-40e2-a619-b57f30426dd1",
+        "type": "message",
+        "text": "That's the thing it doesn't matter how much you would have paid attention, that class was just taught horribly",
+        "user": "U15HSHSS2",
+        "ts": "1529073362.000311"
+    },
+    {
+        "client_msg_id": "71dc784a-d05d-467f-853b-a6a5dc788ef6",
+        "type": "message",
+        "text": "We've taken harder classes, and understood more and gotten better grades than that class",
+        "user": "U15HSHSS2",
+        "ts": "1529073402.000492"
+    },
+    {
+        "client_msg_id": "0595B553-4F1A-4BA1-AEC8-689DDE89C4A8",
+        "type": "message",
+        "text": "This is very true",
+        "user": "U15HY5TG8",
+        "ts": "1529073417.000862"
+    },
+    {
+        "client_msg_id": "461E62AD-8FC3-4B32-9E5D-85FD97E2948D",
+        "type": "message",
+        "text": "Whats the other class that was just as bad",
+        "user": "U15HY5TG8",
+        "ts": "1529073428.000689"
+    },
+    {
+        "client_msg_id": "0e9b6182-ce4c-4362-ba7a-52c37a43eade",
+        "type": "message",
+        "text": "networks",
+        "user": "U15HRTAHL",
+        "ts": "1529073434.000515"
+    },
+    {
+        "client_msg_id": "F9948D35-0313-4470-A9E1-50A47B9F6285",
+        "type": "message",
+        "text": "OS?",
+        "user": "U15HY5TG8",
+        "ts": "1529073436.000398"
+    },
+    {
+        "client_msg_id": "8BFAA1A7-BD2F-4A2F-856D-4CE4292B79E4",
+        "type": "message",
+        "text": "O yeah that one too",
+        "user": "U15HY5TG8",
+        "ts": "1529073443.000847"
+    },
+    {
+        "client_msg_id": "87c24e77-873f-41fc-b316-88de70b3a9dc",
+        "type": "message",
+        "text": "351",
+        "user": "U15HSHSS2",
+        "ts": "1529073459.000523"
+    },
+    {
+        "client_msg_id": "7f5e5bb9-8a70-42de-8721-737f5903cf04",
+        "type": "message",
+        "text": "and algortithms",
+        "user": "U15HSHSS2",
+        "ts": "1529073462.000422"
+    },
+    {
+        "client_msg_id": "bb175369-cfe6-4627-bb53-50da79e56b12",
+        "type": "message",
+        "text": "they were harder, but taught better in my opinion",
+        "user": "U15HSHSS2",
+        "ts": "1529073475.000158"
+    },
+    {
+        "client_msg_id": "5cc313c8-916d-429c-a291-d8e4b11c63d3",
+        "type": "message",
+        "text": "&gt; Show if this packet of information is corrupted by computing the checksum.",
+        "user": "U15HRTAHL",
+        "ts": "1529073499.000125"
+    },
+    {
+        "client_msg_id": "01eee7fc-1d38-40ff-a189-f25b832f8aa2",
+        "type": "message",
+        "text": "&gt; Now do it again the multiplicative way",
+        "user": "U15HRTAHL",
+        "ts": "1529073508.000652"
+    },
+    {
+        "client_msg_id": "f877cc3a-0727-4a04-abf1-eb194f409afd",
+        "type": "message",
+        "text": "That dude would legit just give us packets of notes and be like \"all this shit is gunna be on the exam\" and then go to the overhead and mumble while he drew bullshit on the transparent note sheet",
+        "user": "U15HSHSS2",
+        "ts": "1529073569.000415"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1529073592.000392",
+        "attachments": [
+            {
+                "fallback": "[June 15th, 2018 9:17 AM] ev: Nope",
+                "ts": "1529072279.000142",
+                "author_id": "U15HY5TG8",
+                "author_subname": "evan bauer",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "Nope",
+                "author_name": "evan bauer",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239404104704_fee318d7efffca069e69_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1529072279000142",
+                "is_share": true,
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D8B33654-BE3E-42DA-87EB-49074FEF2374",
+        "type": "message",
+        "text": "Lolol truuuu",
+        "user": "U15HY5TG8",
+        "ts": "1529073901.000586"
+    },
+    {
+        "client_msg_id": "273B8320-9D97-4F37-B039-9ED7D5B4F574",
+        "type": "message",
+        "text": "Dude so many fucking pieces of paper that we flipped through on the exam",
+        "user": "U15HY5TG8",
+        "ts": "1529073925.000341"
+    },
+    {
+        "client_msg_id": "83d83c44-7947-476c-b0ef-f09452310d03",
+        "type": "message",
+        "text": "He was making pretty decent money",
+        "user": "U15HRTAHL",
+        "ts": "1529073959.000728"
+    },
+    {
+        "client_msg_id": "fad5921d-ad04-4c23-9180-cc7cec06b72d",
+        "type": "message",
+        "text": "shouldn't have been",
+        "user": "U15HSHSS2",
+        "ts": "1529073972.000584"
+    },
+    {
+        "client_msg_id": "2ca7e1ef-10c6-4db5-843f-3d22c1b6cfca",
+        "type": "message",
+        "text": "I almost had to take another semester of college because of him",
+        "user": "U15HSHSS2",
+        "ts": "1529073990.000152"
+    },
+    {
+        "client_msg_id": "d90d6cea-7159-438e-89f2-897e9fa2af17",
+        "type": "message",
+        "text": "lololololol",
+        "user": "U15J5H60P",
+        "ts": "1529073998.000769"
+    },
+    {
+        "client_msg_id": "b1cb8a45-b6bc-4e8e-84d2-4f9cb48e954d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1529074031.000850"
+    },
+    {
+        "client_msg_id": "030b2510-feb9-4652-a966-c66bd143a038",
+        "type": "message",
+        "text": "asshat didnt let me turn in that one assignment cuz I was finishing up writing something on it in class right before handing it in lol",
+        "user": "U15HSHSS2",
+        "ts": "1529074038.000014"
+    },
+    {
+        "client_msg_id": "5aacc1ee-dc08-4ef4-9e6b-aa127ec748fe",
+        "type": "message",
+        "text": "then I dropped it on the pile when he wasn't looking",
+        "user": "U15HSHSS2",
+        "ts": "1529074046.000300"
+    },
+    {
+        "client_msg_id": "049223d8-fbaf-42d9-b387-0f77ff87e581",
+        "type": "message",
+        "text": "didn’t you submit it anyways",
+        "user": "U15HRTAHL",
+        "ts": "1529074046.000531"
+    },
+    {
+        "client_msg_id": "4dc8dc1f-af43-469e-8d48-0d5a0a116d33",
+        "type": "message",
+        "text": "100%",
+        "user": "U15HSHSS2",
+        "ts": "1529074047.000842"
+    },
+    {
+        "client_msg_id": "d5c08a44-e86b-4329-8739-4377395d7b9d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1529074052.000143"
+    },
+    {
+        "client_msg_id": "fefbf590-4c25-47a9-a180-9e555c43bdb1",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1529074054.000332"
+    },
+    {
+        "client_msg_id": "18af09ca-ea78-4a2e-860c-f6bd4ef8cb2e",
+        "type": "message",
+        "text": "lol god remember Dee's class? you could do the first problem and last problem on the homework, then skip every other question and hand it in and she'd give you a 100% with one of her 6 variations of \"well done, exceptional work\" comments",
+        "user": "U15HSHSS2",
+        "ts": "1529074187.000683"
+    },
+    {
+        "client_msg_id": "a941158d-3d1f-4132-834e-2441fb5bd8a8",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1529074229.000093"
+    },
+    {
+        "client_msg_id": "d678f63a-7161-403d-ad1f-ccf8d2e5be99",
+        "type": "message",
+        "text": "classic",
+        "user": "U15HY5TG8",
+        "ts": "1529074239.000368"
+    },
+    {
+        "client_msg_id": "6fa7276f-1161-4d77-80a5-0e350888749a",
+        "type": "message",
+        "text": "I skipped 1 problem and she nailed me on it",
+        "user": "U15HRTAHL",
+        "ts": "1529074239.000673"
+    },
+    {
+        "client_msg_id": "40d7d88e-5b96-43ef-b974-d6dbe43f31f1",
+        "type": "message",
+        "text": "Tommy if you didn’t help me out with 431 I would have failed that class",
+        "user": "U15HRTAHL",
+        "ts": "1529074264.000396"
+    },
+    {
+        "client_msg_id": "ac4a1ef2-dd9c-48b6-89a7-4a60f11073f3",
+        "type": "message",
+        "text": "I hated zhao",
+        "user": "U15HRTAHL",
+        "ts": "1529074270.000503"
+    },
+    {
+        "client_msg_id": "af040fda-ea6c-4498-935c-1262bc7df160",
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HSHSS2",
+        "ts": "1529074308.000184"
+    },
+    {
+        "client_msg_id": "70ac531e-9bb1-4f42-b8d0-be0f83a4ad81",
+        "type": "message",
+        "text": "4\/5ths of it was ML",
+        "user": "U15HRTAHL",
+        "ts": "1529074309.000275"
+    },
+    {
+        "client_msg_id": "67aca1d0-db8d-49c3-9eb8-44d73b83ce83",
+        "type": "message",
+        "text": "Yeah that was bullshit",
+        "user": "U15HSHSS2",
+        "ts": "1529074317.000270"
+    },
+    {
+        "client_msg_id": "26cb05cb-df69-4aee-b16c-eed613c02d1a",
+        "type": "message",
+        "text": "I saw ruby in the course outline and I was so excited to learn that and we spent 1 week on it",
+        "user": "U15HRTAHL",
+        "ts": "1529074332.000142"
+    },
+    {
+        "client_msg_id": "c891a292-844c-4f1f-acac-7c03a24e6b1d",
+        "type": "message",
+        "text": "I was fucking pissed",
+        "user": "U15HRTAHL",
+        "ts": "1529074335.000326"
+    },
+    {
+        "client_msg_id": "b92f4502-9abd-4872-a7e0-98b315be1fc7",
+        "type": "message",
+        "text": "then prolog",
+        "user": "U15HRTAHL",
+        "ts": "1529074338.000600"
+    },
+    {
+        "client_msg_id": "8928764d-7a93-4d0e-9f45-063cce6be4b2",
+        "type": "message",
+        "text": "LOLZ",
+        "user": "U15HRTAHL",
+        "ts": "1529074339.000812"
+    },
+    {
+        "client_msg_id": "a5141ad1-9193-4769-9381-a48f4299cada",
+        "type": "message",
+        "text": "Oh and John pease",
+        "user": "U15HRTAHL",
+        "ts": "1529074365.000114"
+    },
+    {
+        "client_msg_id": "c3e87654-669a-4112-96f6-4eb62c43104e",
+        "type": "message",
+        "text": "There are some classes where I'd think to myself, \"when the fuck am I ever going to need this?\" and a lot of the time it's actually relevant to learn and I'm just being stubborn, but that class man... Fucking ML and PROLOG wtf all semester basically",
+        "user": "U15HSHSS2",
+        "ts": "1529074422.000495"
+    },
+    {
+        "client_msg_id": "7a619006-2a3a-4ce0-a158-2774753fcb27",
+        "type": "message",
+        "text": "Thank god for John Pease",
+        "user": "U15HSHSS2",
+        "ts": "1529074432.000663"
+    },
+    {
+        "client_msg_id": "0D6ED514-BBA8-4E69-A2A9-E751F6C696FA",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1529074556.000307"
+    },
+    {
+        "client_msg_id": "04606aa9-1589-4d51-9cb3-3e2d004a2b27",
+        "type": "message",
+        "text": "We must have been the first class to find that github because after that semester he changed everything",
+        "user": "U15HRTAHL",
+        "ts": "1529074655.000503"
+    },
+    {
+        "client_msg_id": "f9c6d5af-400e-49dd-87df-c145c2618ff4",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1529074715.000436"
+    },
+    {
+        "client_msg_id": "acbb2e19-e46c-423f-9056-3f9ccf2336ad",
+        "type": "message",
+        "text": "Wonder what John Pease is doing today",
+        "user": "U15HSHSS2",
+        "ts": "1529074727.000179"
+    },
+    {
+        "client_msg_id": "d3449df5-ec34-4e27-8bca-97eb562d825c",
+        "type": "message",
+        "text": "working at nm with <@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1529075159.000563"
+    },
+    {
+        "client_msg_id": "58C81774-08DB-4ED8-B5B0-AC71D319A920",
+        "type": "message",
+        "text": "<@U15J5H60P> walk up to him and say \"thank you for helping me graduate\" and then walk away",
+        "user": "U15HY5TG8",
+        "ts": "1529083088.000385"
+    },
+    {
+        "client_msg_id": "b5d9700f-8d4b-4fef-b955-fae013882c7e",
+        "type": "message",
+        "text": "I think he actually sent him a slack message once thanking him",
+        "user": "U15HRTAHL",
+        "ts": "1529083516.000134"
+    },
+    {
+        "client_msg_id": "A8E10913-3D84-49E6-9F2F-8F4613426E8B",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1529083614.000256"
+    },
+    {
+        "client_msg_id": "59698b91-b2cf-46fd-b076-9db7b1b9f133",
+        "type": "message",
+        "text": "Yeah, I mentioned our use of his github repo",
+        "user": "U15J5H60P",
+        "ts": "1529083883.000557"
+    },
+    {
+        "client_msg_id": "C092BACC-DCC9-4D87-8E21-4375A83E97B9",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1529083960.000753"
+    },
+    {
+        "client_msg_id": "78b8cd8d-bee2-466a-81cc-56ab60cf0288",
+        "type": "message",
+        "text": "Niceeee",
+        "user": "U15HRTAHL",
+        "ts": "1529084095.000145"
+    },
+    {
+        "client_msg_id": "3406c542-6f8c-45d9-b414-8665f1a7f909",
+        "type": "message",
+        "text": "haha sweeet",
+        "user": "U15HSHSS2",
+        "ts": "1529084522.000005"
+    }
+]

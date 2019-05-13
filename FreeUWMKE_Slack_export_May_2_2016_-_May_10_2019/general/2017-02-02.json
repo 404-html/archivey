@@ -1,0 +1,916 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: ",
+        "user": "U15J5H60P",
+        "ts": "1486045634.000002"
+    },
+    {
+        "type": "message",
+        "text": "Hi",
+        "user": "U15HY5TG8",
+        "ts": "1486045685.000003"
+    },
+    {
+        "type": "message",
+        "text": "Hi",
+        "user": "U15J5H60P",
+        "ts": "1486045716.000004"
+    },
+    {
+        "type": "message",
+        "text": "How are you this morning?",
+        "user": "U15J5H60P",
+        "ts": "1486045728.000005"
+    },
+    {
+        "type": "message",
+        "text": "Tired hbu",
+        "user": "U15HY5TG8",
+        "ts": "1486045743.000006"
+    },
+    {
+        "type": "message",
+        "text": "Aw man. Nothing a warm cup of Joe can't fix!\nI'm doing well. The cold woke me right up coming outside! \nYou have anything crazy going on at work today?",
+        "user": "U15J5H60P",
+        "ts": "1486045917.000007"
+    },
+    {
+        "type": "message",
+        "text": "Just learning selenium ha",
+        "user": "U15HY5TG8",
+        "ts": "1486045953.000008"
+    },
+    {
+        "type": "message",
+        "text": "Nice! To do automated testing?",
+        "user": "U15J5H60P",
+        "ts": "1486045971.000009"
+    },
+    {
+        "type": "message",
+        "text": "Yeeeee",
+        "user": "U15HY5TG8",
+        "ts": "1486046016.000010"
+    },
+    {
+        "type": "message",
+        "text": "Are you practicing your professional talk? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1486046042.000011"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha. If you want to impress them, look in to Nightwatch.js. I use that as an extension of selenium and it's amazing for testing.",
+        "user": "U15J5H60P",
+        "ts": "1486046076.000012"
+    },
+    {
+        "type": "message",
+        "text": "No, I miss you and just seeing how you're doing at your new job. :broken_heart:",
+        "user": "U15J5H60P",
+        "ts": "1486046103.000013"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh illlook into that when im supposed to \"do other things here\" and awww",
+        "user": "U15HY5TG8",
+        "ts": "1486046131.000014"
+    },
+    {
+        "type": "message",
+        "text": "When Trump leaves office, do you think all of the countries he shit on will understand and not be salty with the next president?",
+        "user": "U15J5H60P",
+        "ts": "1486049660.000002"
+    },
+    {
+        "type": "message",
+        "text": "Actually, they'll use it as leverage. Nevermind. ",
+        "user": "U15J5H60P",
+        "ts": "1486049670.000003"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1486049704.000004"
+    },
+    {
+        "type": "message",
+        "text": "Ugh I'm getting the urge to buy shoes again",
+        "user": "U15J5H60P",
+        "ts": "1486051912.000002"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F3ZEK2BS4",
+                "created": 1486058358,
+                "timestamp": 1486058358,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 16919,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F3ZEK2BS4\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F3ZEK2BS4\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3ZEK2BS4-697e74b287\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3ZEK2BS4-697e74b287\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3ZEK2BS4-697e74b287\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 240,
+                "thumb_360_h": 207,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F3ZEK2BS4-697e74b287\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 240,
+                "original_h": 207,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F3ZEK2BS4\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F3ZEK2BS4-931d44dc2d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "B2700B0E-5087-4786-9BC3-1389A7EFD5A4",
+        "ts": "1486058358.000002"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F405ZF77C",
+                "created": 1486058542,
+                "timestamp": 1486058542,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Me after buying shoes",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 102210,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F405ZF77C\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F405ZF77C\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F405ZF77C-1db698ba7d\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F405ZF77C-1db698ba7d\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F405ZF77C-1db698ba7d\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 318,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F405ZF77C-1db698ba7d\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 424,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F405ZF77C-1db698ba7d\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F405ZF77C-1db698ba7d\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 636,
+                "thumb_720_h": 720,
+                "image_exif_rotation": 1,
+                "original_w": 663,
+                "original_h": 750,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F405ZF77C\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F405ZF77C-e123df5fe8",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "C968FFA9-2D5C-4779-A87C-77FA2163B243",
+        "ts": "1486058542.000003"
+    },
+    {
+        "type": "message",
+        "text": "Lol could have a worse obsession i guess",
+        "user": "U15HY5TG8",
+        "ts": "1486058779.000006"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1486058802.000007"
+    },
+    {
+        "type": "message",
+        "text": "Like masturbating daily",
+        "user": "U15J5H60P",
+        "ts": "1486058811.000008"
+    },
+    {
+        "type": "message",
+        "text": "Wait...",
+        "user": "U15J5H60P",
+        "ts": "1486058815.000009"
+    },
+    {
+        "type": "message",
+        "text": "I see no problem with that",
+        "user": "U15HY5TG8",
+        "ts": "1486058828.000010"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1486058984.000011"
+    },
+    {
+        "type": "message",
+        "text": "If someone says there is...i will suddenly have a problem with them",
+        "user": "U15HY5TG8",
+        "ts": "1486059021.000012"
+    },
+    {
+        "type": "message",
+        "text": "I hear ya, homie. ",
+        "user": "U15J5H60P",
+        "ts": "1486059763.000002"
+    },
+    {
+        "type": "message",
+        "text": "A bate a day keeps the doctor away",
+        "user": "U15J5H60P",
+        "ts": "1486059775.000003"
+    },
+    {
+        "type": "message",
+        "text": "Yeee",
+        "user": "U15HY5TG8",
+        "ts": "1486060106.000004"
+    },
+    {
+        "type": "message",
+        "text": "I just used an app to buy a soda from a vending machine lol",
+        "user": "U15HY5TG8",
+        "ts": "1486060122.000005"
+    },
+    {
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1486060161.000006"
+    },
+    {
+        "type": "message",
+        "text": "Have you done that?",
+        "user": "U15HY5TG8",
+        "ts": "1486060176.000007"
+    },
+    {
+        "type": "message",
+        "text": "Nope! I've used apple pay but never a specific app. ",
+        "user": "U15J5H60P",
+        "ts": "1486060237.000008"
+    },
+    {
+        "type": "message",
+        "text": "What app did you use?",
+        "user": "U15J5H60P",
+        "ts": "1486060248.000009"
+    },
+    {
+        "type": "message",
+        "text": "I bet apple pay only works on the newer machines though right? And its called payrange",
+        "user": "U15HY5TG8",
+        "ts": "1486060283.000010"
+    },
+    {
+        "type": "message",
+        "text": "Whatever machine has a credit card reader usually takes it",
+        "user": "U15J5H60P",
+        "ts": "1486060320.000011"
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok yea the one i used it on was pretty old and definitely didnt have that ",
+        "user": "U15HY5TG8",
+        "ts": "1486060350.000012"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1486060441.000013"
+    },
+    {
+        "type": "message",
+        "text": "Had lunch with joe and joe. Makes a strong case for living downtown",
+        "user": "U15HZ01QX",
+        "ts": "1486060686.000014"
+    },
+    {
+        "type": "message",
+        "text": "Whats that",
+        "user": "U15HY5TG8",
+        "ts": "1486060710.000015"
+    },
+    {
+        "type": "message",
+        "text": "I never know what Joes you're talking about ",
+        "user": "U15J5H60P",
+        "ts": "1486060727.000016"
+    },
+    {
+        "type": "message",
+        "text": "What makes a strong case? ",
+        "user": "U15J5H60P",
+        "ts": "1486060747.000017",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1486060763.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Cities are a pain in the ass though",
+        "user": "U15HY5TG8",
+        "ts": "1486060820.000019"
+    },
+    {
+        "type": "message",
+        "text": "That's why I'm curious to hear the strong case",
+        "user": "U15J5H60P",
+        "ts": "1486061227.000020"
+    },
+    {
+        "type": "message",
+        "text": "Convenience if you don't have a car and work downtown. There are some cheap places apparently ",
+        "user": "U15HZ01QX",
+        "ts": "1486061954.000002"
+    },
+    {
+        "type": "message",
+        "text": "The only thing i can think of is potentially owning a penthouse",
+        "user": "U15HY5TG8",
+        "ts": "1486061956.000003"
+    },
+    {
+        "type": "message",
+        "text": "Doesn't sound like a strong case to me. But to each their own. 🤷:skin-tone-3:‍♂️",
+        "user": "U15J5H60P",
+        "ts": "1486062004.000004"
+    },
+    {
+        "type": "message",
+        "text": "As in we all have cars ",
+        "user": "U15J5H60P",
+        "ts": "1486062024.000005"
+    },
+    {
+        "type": "message",
+        "text": "If I didn't have a car I'd take the bus I suppose.",
+        "user": "U15J5H60P",
+        "ts": "1486062045.000006"
+    },
+    {
+        "type": "message",
+        "text": "I don't know of any 1 beds lower than $795 south of Brady",
+        "user": "U15J5H60P",
+        "ts": "1486062075.000007"
+    },
+    {
+        "type": "message",
+        "text": "That's without parking",
+        "user": "U15J5H60P",
+        "ts": "1486062081.000008"
+    },
+    {
+        "type": "message",
+        "text": "Juneau Towers is $1040\/month without parking ",
+        "user": "U15J5H60P",
+        "ts": "1486062093.000009"
+    },
+    {
+        "type": "message",
+        "text": "Yea nope. Thats like the worst case ever lol",
+        "user": "U15HY5TG8",
+        "ts": "1486062116.000010"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. I'm not convinced. ",
+        "user": "U15J5H60P",
+        "ts": "1486062128.000011"
+    },
+    {
+        "type": "message",
+        "text": "I mean i guess for joe since he doesnt go anywhere and if he does hes got lilly whipped so hard that he could just use that. But i have way too much freedom with my car",
+        "user": "U15HY5TG8",
+        "ts": "1486062182.000012"
+    },
+    {
+        "type": "message",
+        "text": "If NM apartments are reasonable when they come up, I'll probably move there. It'll be nice being walking distance from work. As long as I get a higher up apartment like 10th floor or above",
+        "user": "U15J5H60P",
+        "ts": "1486062231.000013"
+    },
+    {
+        "type": "message",
+        "text": "And parking. And balcony",
+        "user": "U15HY5TG8",
+        "ts": "1486062251.000014"
+    },
+    {
+        "type": "message",
+        "text": "And parking",
+        "user": "U15J5H60P",
+        "ts": "1486062265.000015"
+    },
+    {
+        "type": "message",
+        "text": "I don't need a balcony if I live on the lake lol",
+        "user": "U15J5H60P",
+        "ts": "1486062273.000016"
+    },
+    {
+        "type": "message",
+        "text": "It'd be nice ",
+        "user": "U15J5H60P",
+        "ts": "1486062287.000017"
+    },
+    {
+        "type": "message",
+        "text": "But not a necessity ",
+        "user": "U15J5H60P",
+        "ts": "1486062290.000018"
+    },
+    {
+        "type": "message",
+        "text": "Ehhh if im moving into a legit apartment, id want a balcony to just walk out on at any time",
+        "user": "U15HY5TG8",
+        "ts": "1486062317.000019"
+    },
+    {
+        "type": "message",
+        "text": "Fair enough ",
+        "user": "U15J5H60P",
+        "ts": "1486062337.000020"
+    },
+    {
+        "type": "message",
+        "text": "You wouldn't trade it for a lake view?",
+        "user": "U15J5H60P",
+        "ts": "1486062357.000021"
+    },
+    {
+        "type": "message",
+        "text": "Both",
+        "user": "U15HY5TG8",
+        "ts": "1486062368.000022"
+    },
+    {
+        "type": "message",
+        "text": "I would absolutely need both in order to consider long term living in the city",
+        "user": "U15HY5TG8",
+        "ts": "1486062410.000023"
+    },
+    {
+        "type": "message",
+        "text": "They'll be high end so I doubt I'll be able to afford it",
+        "user": "U15J5H60P",
+        "ts": "1486062413.000024"
+    },
+    {
+        "type": "message",
+        "text": "And a GTA V style garage",
+        "user": "U15HY5TG8",
+        "ts": "1486062436.000025"
+    },
+    {
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1486062475.000026"
+    },
+    {
+        "type": "message",
+        "text": "Those are my two criteria",
+        "user": "U15HY5TG8",
+        "ts": "1486062487.000027"
+    },
+    {
+        "type": "message",
+        "text": "I could live in a studio for all i care. As long as i have a balcony and decent garage",
+        "user": "U15HY5TG8",
+        "ts": "1486062512.000028"
+    },
+    {
+        "type": "message",
+        "text": "That's fair",
+        "user": "U15J5H60P",
+        "ts": "1486062523.000029"
+    },
+    {
+        "type": "message",
+        "text": "Do you guys use pluralsight?",
+        "user": "U15HY5TG8",
+        "ts": "1486062799.000030"
+    },
+    {
+        "type": "message",
+        "text": "I have access to it but I don't use it. ",
+        "user": "U15J5H60P",
+        "ts": "1486062816.000031"
+    },
+    {
+        "type": "message",
+        "text": "Why",
+        "user": "U15HY5TG8",
+        "ts": "1486062823.000032"
+    },
+    {
+        "type": "message",
+        "text": "I don't find any use for it",
+        "user": "U15J5H60P",
+        "ts": "1486062874.000033"
+    },
+    {
+        "type": "message",
+        "text": "How not? Lol its all tutorials",
+        "user": "U15HY5TG8",
+        "ts": "1486062966.000034"
+    },
+    {
+        "type": "message",
+        "text": "I just haven't took time to look at any I suppose. I'm sure I'll use it eventually. ",
+        "user": "U15J5H60P",
+        "ts": "1486063010.000035"
+    },
+    {
+        "type": "message",
+        "text": "Theres a lot on there",
+        "user": "U15HY5TG8",
+        "ts": "1486063066.000036"
+    },
+    {
+        "type": "message",
+        "text": "I'm so jacked for sex tomorrow",
+        "user": "U15J5H60P",
+        "ts": "1486064630.000002"
+    },
+    {
+        "type": "message",
+        "text": ":(",
+        "user": "U15HY5TG8",
+        "ts": "1486064660.000003"
+    },
+    {
+        "type": "message",
+        "text": "Why the frown?",
+        "user": "U15J5H60P",
+        "ts": "1486064717.000004"
+    },
+    {
+        "type": "message",
+        "text": "Cause i aint getting any and you just reminded me",
+        "user": "U15HY5TG8",
+        "ts": "1486064738.000005"
+    },
+    {
+        "type": "message",
+        "text": "You can get fucked in the ass on CoD tomorrow! ",
+        "user": "U15J5H60P",
+        "ts": "1486064752.000006"
+    },
+    {
+        "type": "message",
+        "text": "True",
+        "user": "U15HY5TG8",
+        "ts": "1486064761.000007"
+    },
+    {
+        "type": "message",
+        "text": "That was me and james last night",
+        "user": "U15HY5TG8",
+        "ts": "1486064776.000008"
+    },
+    {
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15J5H60P",
+        "ts": "1486064796.000009"
+    },
+    {
+        "type": "message",
+        "text": "I'm glad I wasn't in that orgy",
+        "user": "U15J5H60P",
+        "ts": "1486064906.000010"
+    },
+    {
+        "type": "message",
+        "text": "Was fucking terrible",
+        "user": "U15HY5TG8",
+        "ts": "1486064907.000011"
+    },
+    {
+        "type": "message",
+        "text": "I went like 9-25 like 3 games in a row. James was only slightly better",
+        "user": "U15HY5TG8",
+        "ts": "1486064939.000012"
+    },
+    {
+        "type": "message",
+        "text": ":grimacing::grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1486064955.000013"
+    },
+    {
+        "type": "message",
+        "text": "What were y'all playing?",
+        "user": "U15J5H60P",
+        "ts": "1486064964.000014"
+    },
+    {
+        "type": "message",
+        "text": "Dom",
+        "user": "U15HY5TG8",
+        "ts": "1486064970.000015"
+    },
+    {
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1486064978.000016"
+    },
+    {
+        "type": "message",
+        "text": "Bunch of asshats going for kills instead of the objective",
+        "user": "U15HY5TG8",
+        "ts": "1486065257.000017"
+    },
+    {
+        "type": "message",
+        "text": "Well you can't expect to go pos that often in objective based games lol",
+        "user": "U15J5H60P",
+        "ts": "1486065524.000018"
+    },
+    {
+        "type": "message",
+        "text": "I only play those with you guys lol",
+        "user": "U15HY5TG8",
+        "ts": "1486065556.000019"
+    },
+    {
+        "type": "message",
+        "text": "Same",
+        "user": "U15J5H60P",
+        "ts": "1486065567.000020"
+    },
+    {
+        "type": "message",
+        "text": "I don't buy it",
+        "user": "U15J5H60P",
+        "ts": "1486065571.000021"
+    },
+    {
+        "type": "message",
+        "text": "I'm all about TDM or FFA",
+        "user": "U15J5H60P",
+        "ts": "1486065577.000022"
+    },
+    {
+        "type": "message",
+        "text": "Yuuup",
+        "user": "U15HY5TG8",
+        "ts": "1486065583.000023"
+    },
+    {
+        "type": "message",
+        "text": "And hc",
+        "user": "U15HY5TG8",
+        "ts": "1486065590.000024"
+    },
+    {
+        "type": "message",
+        "text": "James is the one that likes getting shit on",
+        "user": "U15J5H60P",
+        "ts": "1486065594.000025"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, HC is the best ",
+        "user": "U15J5H60P",
+        "ts": "1486065607.000026"
+    },
+    {
+        "type": "message",
+        "text": "500 bullets to kill, my ass",
+        "user": "U15HY5TG8",
+        "ts": "1486065627.000027"
+    },
+    {
+        "type": "message",
+        "text": "For real",
+        "user": "U15J5H60P",
+        "ts": "1486067915.000002"
+    },
+    {
+        "type": "message",
+        "text": ":face_with_rolling_eyes:",
+        "user": "U15J5H60P",
+        "ts": "1486067917.000003"
+    },
+    {
+        "type": "message",
+        "text": "And uav at all times",
+        "user": "U15HY5TG8",
+        "ts": "1486067961.000004"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F40EU483E",
+                "created": 1486085346,
+                "timestamp": 1486085346,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 78842,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F40EU483E\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F40EU483E\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F40EU483E-b295bb7318\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F40EU483E\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F40EU483E-206294a488",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "A23A1393-8EC8-4ABE-B741-182AA6314474",
+        "ts": "1486085348.000002"
+    },
+    {
+        "type": "message",
+        "text": "The fuck kinda conversation is this?",
+        "user": "U15HY5TG8",
+        "ts": "1486085348.000003"
+    },
+    {
+        "type": "message",
+        "text": "\"Nice. Tryna fuck?\"",
+        "user": "U15J5H60P",
+        "ts": "1486085382.000004"
+    },
+    {
+        "type": "message",
+        "text": "Lol nah",
+        "user": "U15HY5TG8",
+        "ts": "1486085485.000005"
+    },
+    {
+        "type": "message",
+        "text": "Fuck double XP",
+        "user": "U15J5H60P",
+        "ts": "1486086987.000002"
+    },
+    {
+        "type": "message",
+        "text": "I want double Keys",
+        "user": "U15J5H60P",
+        "ts": "1486086992.000003"
+    },
+    {
+        "type": "message",
+        "text": "40 more salvage until I can finally get the Flatline",
+        "user": "U15J5H60P",
+        "ts": "1486087692.000004"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F413SCRRV",
+                "created": 1486087745,
+                "timestamp": 1486087745,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 4013399,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F413SCRRV\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F413SCRRV\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F413SCRRV-8ec45cf93c\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F413SCRRV\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F413SCRRV-6145351599",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "553EBED6-4AA3-4158-82FF-8D6434105535",
+        "ts": "1486087751.000005"
+    },
+    {
+        "type": "message",
+        "text": "People under me are having a party",
+        "user": "U15J5H60P",
+        "ts": "1486095383.000006"
+    },
+    {
+        "type": "message",
+        "text": "I gotta get out ",
+        "user": "U15J5H60P",
+        "ts": "1486095387.000007"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1486095485.000008"
+    },
+    {
+        "type": "message",
+        "text": "Gonna kill myself",
+        "user": "U15J5H60P",
+        "ts": "1486095916.000009",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1486095937.000000"
+        }
+    }
+]

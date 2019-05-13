@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "text": "Yeeee",
+        "user": "U15HY5TG8",
+        "ts": "1466595508.000002"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: do you work with directives?",
+        "user": "U15HY5TG8",
+        "ts": "1466629240.000002"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1466629246.000003"
+    },
+    {
+        "type": "message",
+        "text": "Ok so we have a directive that acts like the input tag with type number. I cant get the directive to recognize the min\/max tags",
+        "user": "U15HY5TG8",
+        "ts": "1466629296.000004"
+    },
+    {
+        "type": "message",
+        "text": "what do you mean by recognize",
+        "user": "U15HRTAHL",
+        "ts": "1466629353.000005"
+    },
+    {
+        "type": "message",
+        "text": "min and max are standard html attributes",
+        "user": "U15HRTAHL",
+        "ts": "1466629741.000007",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1466629750.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Except theyre not when using a directive ",
+        "user": "U15HY5TG8",
+        "ts": "1466629884.000009"
+    },
+    {
+        "type": "message",
+        "text": "im not sure then",
+        "user": "U15HRTAHL",
+        "ts": "1466630284.000010"
+    },
+    {
+        "type": "message",
+        "text": "I got it with some help from a coworker. It was caching harder than hell",
+        "user": "U15HY5TG8",
+        "ts": "1466631835.000011"
+    }
+]

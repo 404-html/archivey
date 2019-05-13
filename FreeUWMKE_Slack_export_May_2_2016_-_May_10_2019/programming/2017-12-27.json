@@ -1,0 +1,209 @@
+[
+    {
+        "type": "message",
+        "text": "I'm reverse engineering at work",
+        "user": "U15HRTAHL",
+        "ts": "1514395861.000073"
+    },
+    {
+        "type": "message",
+        "text": "ever dug through an offshore developers code?",
+        "user": "U15HRTAHL",
+        "ts": "1514395875.000340",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1514395888.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "All the time :sweat_smile:",
+        "user": "U15HY5TG8",
+        "ts": "1514396485.000340"
+    },
+    {
+        "type": "message",
+        "text": "Lol jk",
+        "user": "U15HY5TG8",
+        "ts": "1514396494.000252"
+    },
+    {
+        "type": "message",
+        "text": "their variable names are such shit",
+        "user": "U15HRTAHL",
+        "ts": "1514396531.000429"
+    },
+    {
+        "type": "message",
+        "text": "Ex?",
+        "user": "U15HY5TG8",
+        "ts": "1514396546.000049"
+    },
+    {
+        "type": "message",
+        "text": "They just shorten everything to the point where its not readable",
+        "user": "U15HRTAHL",
+        "ts": "1514396661.000223",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1514396664.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "```\nString stext;        \n        Set&lt;String&gt; daySel = new Set&lt;String&gt;();        \n        WrapAppoint wa = new WrapAppoint(camp,appoint,start_time,end_time);  \n        Boolean available = availableAppointment;\n        String duration = appoint.duration__c;     \n        String[] dur = duration.split(' ');\n        Integer min = Integer.valueOf(dur.get(0));\n        appList = new List&lt;Appointments__c&gt;();\n        \/\/map&lt;dateTime,wrapAppoint&gt; appointmentSlotMap = new map&lt;dateTime,wrapAppoint&gt;();        \n        counter =  wrapapt.size();          \n        wa.appointId = counter + 1;\n        stext = '';\n```",
+        "user": "U15HRTAHL",
+        "ts": "1514396684.000236"
+    },
+    {
+        "type": "message",
+        "text": "They have methods then nested classes then more methods",
+        "user": "U15HRTAHL",
+        "ts": "1514396726.000121"
+    },
+    {
+        "type": "message",
+        "text": "there's just no organization to this code at all",
+        "user": "U15HRTAHL",
+        "ts": "1514396736.000081",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1514396737.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "```\nappointments__c appt = new appointments__c();                         \nstring appName = strdt.format() + ' - ' + d.format('hh:mm a') + ' to '+ d.addMinutes(min).format('hh:mm a');\n appt.name= appName;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1514396780.000129"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1514396815.000114"
+    },
+    {
+        "type": "message",
+        "text": "they make a variable called `appt` and then make a variable for a name field called `appName` instead of `apptName`",
+        "user": "U15HRTAHL",
+        "ts": "1514396818.000358"
+    },
+    {
+        "type": "message",
+        "text": "Mustve learned on codefights",
+        "user": "U15HY5TG8",
+        "ts": "1514396824.000200"
+    },
+    {
+        "type": "message",
+        "text": "```\nif(wrapApt.size()&gt;1)\n{   \n    for(integer i=0;i&lt;wrapApt.size()-1;i++)\n    {    \n        daysSelectedOld =  wrapApt[i].days.split(',');\n        daysSelectedNew =  wa.days.split(',');\n        daysSelectedNewSet.addAll(daysSelectednew);\n        daysSelectedOldSet.addAll(daysSelectedOld);\n        daysSelectedNewSet.remove(' ');\n        daysSelectedOldSet.remove(' ');\n        startDateTimeWrapOld = dateTime.parse(date.valueOf(camp.startDate).format() + ' ' +wrapApt[i].start_timeWrap );\n        endDateTimeWrapOld = dateTime.parse(date.valueOf(camp.startDate).format() + ' ' +wrapApt[i].end_timeWrap );\n        startDateTimeWrapNew = dateTime.parse(date.valueOf(camp.startDate).format() + ' ' +wa.start_timeWrap );\n        endDateTimeWrapNew = dateTime.parse(date.valueOf(camp.startDate).format() + ' ' +wa.end_timeWrap );\n        \n        for(String str:daysSelectedOldSet)\n        {    system.debug('&gt;&gt;&gt; Old Days ::'+str.trim()+' &gt;&gt;&gt; New Days ::'+daysSelectedNewSet);\n            if(daysSelectedNewSet.contains(str.trim()))\n            {\n                 if(((startDateTimeWrapNew==startDateTimeWrapOld)||(endDateTimeWrapNew==endDateTimeWrapOld))\n                    ||((startDateTimeWrapNew&lt;startDateTimeWrapOld)&amp;&amp;((endDateTimeWrapNew&lt;endDateTimeWrapOld)&amp;&amp;(endDateTimeWrapNew&gt;startDateTimeWrapOld)))\n                    ||((startDateTimeWrapNew&gt;startDateTimeWrapOld)&amp;&amp;(startDateTimeWrapNew&lt;endDateTimeWrapOld)))\n                 {    \n                     wrapApt.remove(counter);\n                     ApexPages.addMessage(new ApexPages.Message(ApexPages.Severity.ERROR,'Duplicated Appointment Slot'));\n                     return null;\n                 }                       \n            }\n        }\n     }\n }\n```",
+        "user": "U15HRTAHL",
+        "ts": "1514396897.000176"
+    },
+    {
+        "type": "message",
+        "text": "could use a for each loop instead of checking for the size and then looping",
+        "user": "U15HRTAHL",
+        "ts": "1514396912.000176"
+    },
+    {
+        "type": "message",
+        "text": "idk just a lot of shenanigans happening in here",
+        "user": "U15HRTAHL",
+        "ts": "1514396921.000083"
+    },
+    {
+        "type": "message",
+        "text": "Lol damn sucks for you",
+        "user": "U15HY5TG8",
+        "ts": "1514396964.000208"
+    },
+    {
+        "type": "message",
+        "text": "Is that someone whos supposed to be on your team?",
+        "user": "U15HY5TG8",
+        "ts": "1514396974.000199"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1514398371.000371"
+    },
+    {
+        "type": "message",
+        "text": "the client had a consulting company before us do all of this",
+        "user": "U15HRTAHL",
+        "ts": "1514398400.000060"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh ok thats what i kinda thought",
+        "user": "U15HY5TG8",
+        "ts": "1514398410.000065"
+    },
+    {
+        "type": "message",
+        "text": "so we're picking up where they left off",
+        "user": "U15HRTAHL",
+        "ts": "1514398415.000304"
+    },
+    {
+        "type": "message",
+        "text": "but we're redoing it all",
+        "user": "U15HRTAHL",
+        "ts": "1514398419.000324"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1514398452.000009"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/technology\/comments\/7mgcrv\/56000_layoffs_and_counting_indias_it_bloodbath\/drtrqg8>",
+        "user": "U15HRTAHL",
+        "ts": "1514428674.000103",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "56,000 layoffs and counting: India’s IT bloodbath this year may just be the start • r\/technology",
+                "title_link": "https:\/\/www.reddit.com\/r\/technology\/comments\/7mgcrv\/56000_layoffs_and_counting_indias_it_bloodbath\/drtrqg8",
+                "text": "12811 points and 1693 comments so far on reddit",
+                "fallback": "reddit: 56,000 layoffs and counting: India’s IT bloodbath this year may just be the start • r\/technology",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/technology\/comments\/7mgcrv\/56000_layoffs_and_counting_indias_it_bloodbath\/drtrqg8",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Read that comment",
+        "user": "U15HRTAHL",
+        "ts": "1514428682.000062"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1514431434.000105"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/mke-police.herokuapp.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1514431436.000035"
+    },
+    {
+        "type": "message",
+        "text": "That's interesting",
+        "user": "U15HRTAHL",
+        "ts": "1514431759.000034"
+    }
+]

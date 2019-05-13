@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "9DDA3498-1718-460A-A02F-B04EC4958450",
+        "type": "message",
+        "text": "I’m an idiot <https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1523981075000517>",
+        "user": "U15HZ01QX",
+        "ts": "1525702032.000405",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1523981075000517",
+                "fallback": "[April 17th, 2018 9:04 AM] james: I want some apple in the 160s",
+                "ts": "1523981075.000517",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C6R3H2A7L",
+                "channel_name": "finance",
+                "is_msg_unfurl": true,
+                "text": "I want some apple in the 160s",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1523981075000517",
+                "footer": "Posted in #finance"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1525702044.000458"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              186.05                2.28                1.240 \n       Avg.                 ---                 ---               1.240% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1525702044.000513",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 36428,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "YAAAAAAA",
+        "user": "U15J5H60P",
+        "ts": "1525702050.000105"
+    },
+    {
+        "type": "message",
+        "text": "I need MU to get back up so I can sell it",
+        "user": "U15J5H60P",
+        "ts": "1525702093.000158"
+    },
+    {
+        "type": "message",
+        "text": "I made a mistake not selling at $60",
+        "user": "U15J5H60P",
+        "ts": "1525702100.000414"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus mu",
+        "user": "U15J5H60P",
+        "ts": "1525702109.000549"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               48.97                0.99                2.081 \n       Avg.                 ---                 ---               2.081% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1525702109.000578",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32201,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "April's recommendation was still BUY",
+        "user": "U15J5H60P",
+        "ts": "1525702139.000369"
+    },
+    {
+        "type": "message",
+        "text": "Buy expensive apple, buy moderate MU, buy absurd SNAP weekly calls",
+        "user": "U15HZ01QX",
+        "ts": "1525702521.000053"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1525702533.000434"
+    }
+]

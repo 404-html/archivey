@@ -1,0 +1,116 @@
+[
+    {
+        "client_msg_id": "CE6A50D2-2469-4B26-B6D7-C8E087C073B9",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1522148416.000373"
+    },
+    {
+        "type": "message",
+        "text": "do you guys use pascal case or camel case with your c#?",
+        "user": "U15HRTAHL",
+        "ts": "1522167496.000045"
+    },
+    {
+        "type": "message",
+        "text": "Class names, their properties, and function names pascal case. Variable names camel case",
+        "user": "U15HSHSS2",
+        "ts": "1522167579.000367"
+    },
+    {
+        "type": "message",
+        "text": "ok cool thank you",
+        "user": "U15HRTAHL",
+        "ts": "1522167614.000735"
+    },
+    {
+        "type": "message",
+        "text": "I was confused on when to use pascal vs camel",
+        "user": "U15HRTAHL",
+        "ts": "1522167625.000601"
+    },
+    {
+        "client_msg_id": "9A1651E1-DD21-4157-87C2-D077CE10CAA2",
+        "type": "message",
+        "text": "We actually have a rule in vs that highlights when we capitalize wrong",
+        "user": "U15HY5TG8",
+        "ts": "1522169727.000688"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> parameters pascal or camel?",
+        "user": "U15HRTAHL",
+        "ts": "1522178427.000651"
+    },
+    {
+        "type": "message",
+        "text": "Camel",
+        "user": "U15J5H60P",
+        "ts": "1522178447.000765"
+    },
+    {
+        "client_msg_id": "B9A2CE9B-5DA9-4988-9F24-A9C4D3FD1616",
+        "type": "message",
+        "text": "Camel",
+        "user": "U15HY5TG8",
+        "ts": "1522178452.000318"
+    },
+    {
+        "client_msg_id": "58ECB626-D016-472B-B75D-D158D7546309",
+        "type": "message",
+        "text": "Temp variables camel",
+        "user": "U15HY5TG8",
+        "ts": "1522178463.000647"
+    },
+    {
+        "type": "message",
+        "text": "Upper camel is exclusive for objects\/classes",
+        "user": "U15J5H60P",
+        "ts": "1522178473.000599"
+    },
+    {
+        "type": "message",
+        "text": "gotcha, thanks",
+        "user": "U15HRTAHL",
+        "ts": "1522178510.000027"
+    },
+    {
+        "client_msg_id": "9A3F9905-A9B2-44BC-B171-3DD046D58701",
+        "type": "message",
+        "text": "Methods too",
+        "user": "U15HY5TG8",
+        "ts": "1522178511.000078"
+    },
+    {
+        "type": "message",
+        "text": "In C# yeah",
+        "user": "U15J5H60P",
+        "ts": "1522178519.000454"
+    },
+    {
+        "client_msg_id": "AE87C936-8FA3-4BAE-B8E9-730337723642",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1522178524.000429"
+    },
+    {
+        "type": "message",
+        "text": "Is there a C# linter you can use?",
+        "user": "U15J5H60P",
+        "ts": "1522178535.000741"
+    },
+    {
+        "type": "message",
+        "text": "probably",
+        "user": "U15HRTAHL",
+        "ts": "1522178540.000226"
+    },
+    {
+        "type": "message",
+        "text": "Fair enough.",
+        "user": "U15J5H60P",
+        "ts": "1522178550.000333"
+    }
+]

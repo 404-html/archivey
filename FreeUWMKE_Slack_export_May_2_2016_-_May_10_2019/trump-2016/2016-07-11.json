@@ -1,0 +1,34 @@
+[
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468261792.000002",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "Ayoooo",
+        "user": "U15HY5TG8",
+        "ts": "1468261804.000003"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: you identified incorrect on facebook",
+        "user": "U15HY5TG8",
+        "ts": "1468261861.000004"
+    },
+    {
+        "type": "message",
+        "text": "incorrectly**",
+        "user": "U15HRTAHL",
+        "ts": "1468261924.000005"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1468261926.000006",
+        "text": "<@U15HY5TG8> archived the channel"
+    }
+]

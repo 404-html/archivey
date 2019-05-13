@@ -1,0 +1,786 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=KvNis_A6UaI>",
+        "user": "U15HSHSS2",
+        "ts": "1508865929.000300",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Google Pixel 2 Review: This Thing is Smart!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KvNis_A6UaI",
+                "author_name": "Marques Brownlee",
+                "author_link": "https:\/\/www.youtube.com\/user\/marquesbrownlee",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KvNis_A6UaI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Google Pixel 2 Review: This Thing is Smart!",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KvNis_A6UaI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KvNis_A6UaI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1508865935.000361"
+    },
+    {
+        "type": "message",
+        "text": "The forehead and chin kind of bug me. Are you going to get it?",
+        "user": "U15J5H60P",
+        "ts": "1508867075.000433"
+    },
+    {
+        "type": "message",
+        "text": "not sure yet",
+        "user": "U15HRTAHL",
+        "ts": "1508867096.000562"
+    },
+    {
+        "type": "message",
+        "text": "I guess google lens is coming out today",
+        "user": "U15HRTAHL",
+        "ts": "1508867105.000124"
+    },
+    {
+        "type": "message",
+        "text": "I should have it on my phone at some point",
+        "user": "U15HRTAHL",
+        "ts": "1508867112.000269"
+    },
+    {
+        "type": "message",
+        "text": "thats gonna be tits",
+        "user": "U15HRTAHL",
+        "ts": "1508867114.000721"
+    },
+    {
+        "type": "message",
+        "text": "the coating is a little weird on it",
+        "user": "U15HRTAHL",
+        "ts": "1508867210.000160"
+    },
+    {
+        "type": "message",
+        "text": "its a metal body with a plastic on it",
+        "user": "U15HRTAHL",
+        "ts": "1508867220.000140"
+    },
+    {
+        "type": "message",
+        "text": "kind of odd",
+        "user": "U15HRTAHL",
+        "ts": "1508867223.000020"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15J5H60P",
+        "ts": "1508867248.000283"
+    },
+    {
+        "type": "message",
+        "text": "What is the actual use case of Google Lens?",
+        "user": "U15J5H60P",
+        "ts": "1508867461.000715"
+    },
+    {
+        "type": "message",
+        "text": "As in",
+        "user": "U15J5H60P",
+        "ts": "1508867473.000765"
+    },
+    {
+        "type": "message",
+        "text": "How often do you think you're going to use it",
+        "user": "U15J5H60P",
+        "ts": "1508867478.000225",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1508867494.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Zero times",
+        "user": "U15HY5TG8",
+        "ts": "1508867511.000855"
+    },
+    {
+        "type": "message",
+        "text": "all the time because I think its cool",
+        "user": "U15HRTAHL",
+        "ts": "1508867519.000394"
+    },
+    {
+        "type": "message",
+        "text": "is it useful?",
+        "user": "U15HRTAHL",
+        "ts": "1508867523.000616"
+    },
+    {
+        "type": "message",
+        "text": "probably not",
+        "user": "U15HRTAHL",
+        "ts": "1508867525.000576"
+    },
+    {
+        "type": "message",
+        "text": "Alright. Jw",
+        "user": "U15J5H60P",
+        "ts": "1508867529.000401"
+    },
+    {
+        "type": "message",
+        "text": "No one will think YOU are cool though",
+        "user": "U15HY5TG8",
+        "ts": "1508867543.000641"
+    },
+    {
+        "type": "message",
+        "text": "When's it coming to iPhone?",
+        "user": "U15J5H60P",
+        "ts": "1508867547.000296"
+    },
+    {
+        "type": "message",
+        "text": "thats fine",
+        "user": "U15HRTAHL",
+        "ts": "1508867549.000721"
+    },
+    {
+        "type": "message",
+        "text": "I don't know",
+        "user": "U15HRTAHL",
+        "ts": "1508867554.000326"
+    },
+    {
+        "type": "message",
+        "text": "So the use case is still zero",
+        "user": "U15HY5TG8",
+        "ts": "1508867555.000202"
+    },
+    {
+        "type": "message",
+        "text": "I wish they'd knock that off though",
+        "user": "U15HRTAHL",
+        "ts": "1508867568.000313"
+    },
+    {
+        "type": "message",
+        "text": "I could see you buying it and saying \"this is so dumb\" repeatedly",
+        "user": "U15HY5TG8",
+        "ts": "1508867583.000083"
+    },
+    {
+        "type": "message",
+        "text": "giving their really good premium apps to iphone users",
+        "user": "U15HRTAHL",
+        "ts": "1508867584.000482"
+    },
+    {
+        "type": "message",
+        "text": "they need to have something cool of their own",
+        "user": "U15HRTAHL",
+        "ts": "1508867592.000322"
+    },
+    {
+        "type": "message",
+        "text": "Nah",
+        "user": "U15J5H60P",
+        "ts": "1508867595.000017"
+    },
+    {
+        "type": "message",
+        "text": "that only android has",
+        "user": "U15HRTAHL",
+        "ts": "1508867596.000007"
+    },
+    {
+        "type": "message",
+        "text": "They need the data more",
+        "user": "U15J5H60P",
+        "ts": "1508867598.000216"
+    },
+    {
+        "type": "message",
+        "text": "like imessage for iphone",
+        "user": "U15HRTAHL",
+        "ts": "1508867600.000438",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1508867606.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1508867608.000065"
+    },
+    {
+        "type": "message",
+        "text": "Releasing the apps to all users is what makes their apps good",
+        "user": "U15J5H60P",
+        "ts": "1508867619.000594"
+    },
+    {
+        "type": "message",
+        "text": "maybe they're avoiding a monopoly too",
+        "user": "U15HRTAHL",
+        "ts": "1508867636.000546"
+    },
+    {
+        "type": "message",
+        "text": "On apps?",
+        "user": "U15J5H60P",
+        "ts": "1508867646.000257"
+    },
+    {
+        "type": "message",
+        "text": "yeah, thats what got microsoft in trouble",
+        "user": "U15HRTAHL",
+        "ts": "1508867662.000487"
+    },
+    {
+        "type": "message",
+        "text": "they were installing IE on their OS",
+        "user": "U15HRTAHL",
+        "ts": "1508867670.000287"
+    },
+    {
+        "type": "message",
+        "text": "it was considered a monopoly cause no other computer could get IE",
+        "user": "U15HRTAHL",
+        "ts": "1508867690.000075"
+    },
+    {
+        "type": "message",
+        "text": "Then Apple has a monopoly on iMovie, Final Cut Pro X, Pages, Keynote, etc.",
+        "user": "U15J5H60P",
+        "ts": "1508867729.000636"
+    },
+    {
+        "type": "message",
+        "text": "I think it's just that they want the data.",
+        "user": "U15J5H60P",
+        "ts": "1508867757.000142"
+    },
+    {
+        "type": "message",
+        "text": "```The plaintiffs alleged that Microsoft abused monopoly power on Intel-based personal computers in its handling of operating system and web browser sales (at the time web browsers were not freeware, but were sold individually on discs). The issue central to the case was whether Microsoft was allowed to bundle its flagship Internet Explorer (IE) web browser software with its Microsoft Windows operating system.```",
+        "user": "U15HRTAHL",
+        "ts": "1508867856.000715"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1508867905.000373"
+    },
+    {
+        "type": "message",
+        "text": "Apple bundles Pages, Keynote, and Numbers with their new Macs",
+        "user": "U15J5H60P",
+        "ts": "1508867920.000686"
+    },
+    {
+        "type": "message",
+        "text": "Anyways",
+        "user": "U15J5H60P",
+        "ts": "1508867950.000643"
+    },
+    {
+        "type": "message",
+        "text": "That's besides the point",
+        "user": "U15J5H60P",
+        "ts": "1508867955.000439"
+    },
+    {
+        "type": "message",
+        "text": "I highly doubt it's because they're scared of a monopoly.",
+        "user": "U15J5H60P",
+        "ts": "1508867964.000198"
+    },
+    {
+        "type": "message",
+        "text": "MSFT killed Netscape",
+        "user": "U15J5H60P",
+        "ts": "1508868284.000436"
+    },
+    {
+        "type": "message",
+        "text": "Those bastards!",
+        "user": "U15J5H60P",
+        "ts": "1508868286.000761"
+    },
+    {
+        "type": "message",
+        "text": "Imovie is shit",
+        "user": "U15HY5TG8",
+        "ts": "1508869098.000330"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. Final Cut Pro X is better.",
+        "user": "U15J5H60P",
+        "ts": "1508869118.000068"
+    },
+    {
+        "type": "message",
+        "text": "Ill have to try that out",
+        "user": "U15HY5TG8",
+        "ts": "1508869133.000375"
+    },
+    {
+        "type": "message",
+        "text": "Costs quite a bit I think.",
+        "user": "U15J5H60P",
+        "ts": "1508869146.000363"
+    },
+    {
+        "type": "message",
+        "text": "iMovie is just fine",
+        "user": "U15HY5TG8",
+        "ts": "1508869158.000455"
+    },
+    {
+        "type": "message",
+        "text": "$300",
+        "user": "U15J5H60P",
+        "ts": "1508869162.000659"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1508869163.000314"
+    },
+    {
+        "type": "message",
+        "text": "Yea nope",
+        "user": "U15HY5TG8",
+        "ts": "1508869181.000323"
+    },
+    {
+        "type": "message",
+        "text": "You could get it by other means too",
+        "user": "U15J5H60P",
+        "ts": "1508869195.000106"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15J5H60P",
+        "ts": "1508869199.000148"
+    },
+    {
+        "type": "message",
+        "text": "Nahh",
+        "user": "U15HY5TG8",
+        "ts": "1508869200.000308"
+    },
+    {
+        "type": "message",
+        "text": "Too much work",
+        "user": "U15HY5TG8",
+        "ts": "1508869203.000336"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1508869208.000203"
+    },
+    {
+        "type": "message",
+        "text": "man",
+        "user": "U15HRTAHL",
+        "ts": "1508871485.000195"
+    },
+    {
+        "type": "message",
+        "text": "I am really curious how this pixel song recognizer works",
+        "user": "U15HRTAHL",
+        "ts": "1508871502.000362"
+    },
+    {
+        "type": "message",
+        "text": "I had the pixel 2 in airplane mode",
+        "user": "U15HRTAHL",
+        "ts": "1508871512.000577"
+    },
+    {
+        "type": "message",
+        "text": "turned on a song and it recognized it",
+        "user": "U15HRTAHL",
+        "ts": "1508871518.000449"
+    },
+    {
+        "type": "message",
+        "text": "_*fascinating*_",
+        "user": "U15HRTAHL",
+        "ts": "1508871524.000413"
+    },
+    {
+        "type": "message",
+        "text": "Local database updated weekly through wifi",
+        "user": "U15HSHSS2",
+        "ts": "1508871610.000728"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.androidauthority.com\/how-google-pixel-2-now-playing-works-808768\/>",
+        "user": "U15HSHSS2",
+        "ts": "1508871612.000386",
+        "attachments": [
+            {
+                "service_name": "Android Authority",
+                "title": "How the Google Pixel 2 Now Playing song identification works",
+                "title_link": "https:\/\/www.androidauthority.com\/how-google-pixel-2-now-playing-works-808768\/",
+                "text": "Now Playing can show you what song is currently playing in your vicinity even while it's offline. Find out what it's all about here.",
+                "fallback": "Android Authority: How the Google Pixel 2 Now Playing song identification works",
+                "image_url": "https:\/\/cdn57.androidauthority.net\/wp-content\/uploads\/2017\/10\/android-authority-google-pixel-now-playing-332323.jpg",
+                "image_width": 388,
+                "image_height": 250,
+                "ts": 1508488587,
+                "from_url": "https:\/\/www.androidauthority.com\/how-google-pixel-2-now-playing-works-808768\/",
+                "image_bytes": 257150,
+                "service_icon": "https:\/\/cdn57.androidauthority.net\/wp-content\/uploads\/2016\/11\/favicon1.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "takes less than 500MB of storage i guess",
+        "user": "U15HSHSS2",
+        "ts": "1508871632.000133"
+    },
+    {
+        "type": "message",
+        "text": "thats nuts",
+        "user": "U15HRTAHL",
+        "ts": "1508871661.000168"
+    },
+    {
+        "type": "message",
+        "text": "so much less cool",
+        "user": "U15HRTAHL",
+        "ts": "1508872724.000315"
+    },
+    {
+        "type": "message",
+        "text": "\"We can use google offline by storing the entirety of google on your phone\"",
+        "user": "U15HRTAHL",
+        "ts": "1508872753.000057"
+    },
+    {
+        "type": "message",
+        "text": "so dumb",
+        "user": "U15HRTAHL",
+        "ts": "1508872755.000358"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1508872776.000137"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1508872779.000122"
+    },
+    {
+        "type": "message",
+        "text": "I knew it",
+        "user": "U15HY5TG8",
+        "ts": "1508872782.000030"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1508867583000083>",
+        "user": "U15HY5TG8",
+        "ts": "1508872806.000307",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1508867583000083",
+                "fallback": "[October 24th, 2017 10:53 AM] ev: I could see you buying it and saying \"this is so dumb\" repeatedly",
+                "ts": "1508867583.000083",
+                "author_id": "U15HY5TG8",
+                "author_subname": "evan bauer",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "I could see you buying it and saying \"this is so dumb\" repeatedly",
+                "author_name": "evan bauer",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239404104704_fee318d7efffca069e69_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "how else would offline work? secretly connect to a nearby persons phone via bluetooth and use their data\/wifi? lol",
+        "user": "U15HSHSS2",
+        "ts": "1508872819.000110"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1508872819.000128"
+    },
+    {
+        "type": "message",
+        "text": "damn",
+        "user": "U15HRTAHL",
+        "ts": "1508872820.000252"
+    },
+    {
+        "type": "message",
+        "text": "you guys know me",
+        "user": "U15HRTAHL",
+        "ts": "1508872824.000225"
+    },
+    {
+        "type": "message",
+        "text": "its the fog man",
+        "user": "U15HSHSS2",
+        "ts": "1508872844.000239"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> idk but wouldn't it be cool if it \"just knew\"",
+        "user": "U15HRTAHL",
+        "ts": "1508872844.000313"
+    },
+    {
+        "type": "message",
+        "text": "They should",
+        "user": "U15HY5TG8",
+        "ts": "1508872847.000359"
+    },
+    {
+        "type": "message",
+        "text": "lol yes it would be cool if impossible things were possible",
+        "user": "U15HSHSS2",
+        "ts": "1508872888.000352"
+    },
+    {
+        "type": "message",
+        "text": "anything is possible through the power of christ",
+        "user": "U15HRTAHL",
+        "ts": "1508872911.000435"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1508872916.000263"
+    },
+    {
+        "type": "message",
+        "text": "he is our savior after all",
+        "user": "U15HSHSS2",
+        "ts": "1508872924.000346"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> thanks for making impossible things possible",
+        "user": "U15HRTAHL",
+        "ts": "1508872946.000106"
+    },
+    {
+        "type": "message",
+        "text": "Stop.",
+        "user": "U15HSHSS2",
+        "ts": "1508873080.000340"
+    },
+    {
+        "type": "message",
+        "text": "You're offending Luke",
+        "user": "U15HSHSS2",
+        "ts": "1508873086.000232"
+    },
+    {
+        "type": "message",
+        "text": "I bet it would be possible to have your glasses loop and loop until it finds a source to connect to",
+        "user": "U15HY5TG8",
+        "ts": "1508873151.000023"
+    },
+    {
+        "type": "message",
+        "text": "wat",
+        "user": "U15HRTAHL",
+        "ts": "1508873500.000063"
+    },
+    {
+        "type": "message",
+        "text": "glasses?",
+        "user": "U15HRTAHL",
+        "ts": "1508873502.000639"
+    },
+    {
+        "type": "message",
+        "text": "lol my thoughts too",
+        "user": "U15HSHSS2",
+        "ts": "1508873517.000493"
+    },
+    {
+        "type": "message",
+        "text": "Wat",
+        "user": "U15HY5TG8",
+        "ts": "1508873527.000256"
+    },
+    {
+        "type": "message",
+        "text": "reread your message",
+        "user": "U15HRTAHL",
+        "ts": "1508873543.000075"
+    },
+    {
+        "type": "message",
+        "text": "Whats confusing?",
+        "user": "U15HY5TG8",
+        "ts": "1508873557.000032"
+    },
+    {
+        "type": "message",
+        "text": "When did glasses come into play?",
+        "user": "U15HSHSS2",
+        "ts": "1508873568.000143"
+    },
+    {
+        "type": "message",
+        "text": "Are you not talking about google glasses?",
+        "user": "U15HY5TG8",
+        "ts": "1508873574.000505"
+    },
+    {
+        "type": "message",
+        "text": "Pixel",
+        "user": "U15HSHSS2",
+        "ts": "1508873582.000074"
+    },
+    {
+        "type": "message",
+        "text": "Oooo",
+        "user": "U15HY5TG8",
+        "ts": "1508873587.000036"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1508873589.000435"
+    },
+    {
+        "type": "message",
+        "text": "Google lens is an app",
+        "user": "U15HRTAHL",
+        "ts": "1508873600.000072"
+    },
+    {
+        "type": "message",
+        "text": "thats kinda confusing",
+        "user": "U15HRTAHL",
+        "ts": "1508873608.000240"
+    },
+    {
+        "type": "message",
+        "text": "Yes. Yes it is",
+        "user": "U15HY5TG8",
+        "ts": "1508873625.000542"
+    },
+    {
+        "type": "message",
+        "text": "I wish I had a cubicle",
+        "user": "U15HRTAHL",
+        "ts": "1508873649.000408"
+    },
+    {
+        "type": "message",
+        "text": "I have some really dry boogers in my nose and I dont want to go to the bathroom to fix that issue",
+        "user": "U15HRTAHL",
+        "ts": "1508873667.000115"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1508873703.000496"
+    },
+    {
+        "type": "message",
+        "text": "Just use the lean on your hand method",
+        "user": "U15HY5TG8",
+        "ts": "1508873863.000102"
+    },
+    {
+        "type": "message",
+        "text": "You're welcome.",
+        "user": "U15J5H60P",
+        "ts": "1508875317.000616",
+        "attachments": [
+            {
+                "fallback": "[October 24th, 2017 2:22 PM] joeythomaschaske: <@U15J5H60P> thanks for making impossible things possible",
+                "ts": "1508872946.000106",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "<@U15J5H60P> thanks for making impossible things possible",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1508872946000106",
+                "is_share": true,
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Or assert your alphaness and pick your nose and go wipe it on Nat",
+        "user": "U15J5H60P",
+        "ts": "1508875359.000589"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> offers the real advice around here",
+        "user": "U15HY5TG8",
+        "ts": "1508875394.000317"
+    },
+    {
+        "type": "message",
+        "text": "The real pro tip is always in the comments.",
+        "user": "U15J5H60P",
+        "ts": "1508875410.000052"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1508875414.000306"
+    }
+]

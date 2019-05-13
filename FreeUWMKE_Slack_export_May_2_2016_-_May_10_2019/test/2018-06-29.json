@@ -1,0 +1,65 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530287925.000441",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "4e0c28fc-ad6b-4807-942a-9654ac3659e3",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1530287927.000253"
+    },
+    {
+        "client_msg_id": "cb7eb1cc-a48a-4d0b-aaf2-22297f25dbe3",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1530287941.000146"
+    },
+    {
+        "client_msg_id": "bd399cb2-2072-43e8-86ad-0cbbb7d3f459",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1530287996.000256"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1530288657.000115",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media3.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1530288667.000555"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1530288725.000309"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1536597745.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              217.39               -3.91               -1.767 \n       Avg.                 ---                 ---              -1.767% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1536597745.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29844,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1AB72215-3D2A-49F8-8E6D-88C965F00D9C",
+        "type": "message",
+        "text": "Booo",
+        "user": "U15J5H60P",
+        "ts": "1536597749.000200"
+    },
+    {
+        "client_msg_id": "19D5700A-D754-4A13-A0CA-E0D9D7A931F2",
+        "type": "message",
+        "text": "It was a good run",
+        "user": "U15J5H60P",
+        "ts": "1536597773.000100"
+    }
+]

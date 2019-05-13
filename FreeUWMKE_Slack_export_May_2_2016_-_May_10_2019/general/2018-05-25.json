@@ -1,0 +1,298 @@
+[
+    {
+        "client_msg_id": "1D67D782-184C-4AF9-AB00-143F9D30804C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1527244721.000228"
+    },
+    {
+        "client_msg_id": "6A6A082A-351F-4131-B82B-3C89AD58597D",
+        "type": "message",
+        "text": "Mic drop",
+        "user": "U15J5H60P",
+        "ts": "1527249840.000110"
+    },
+    {
+        "type": "message",
+        "text": "rekt",
+        "user": "U15HRTAHL",
+        "ts": "1527256461.000302"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FAW47QP4L",
+                "created": 1527257597,
+                "timestamp": 1527257597,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 152431,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAW47QP4L\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAW47QP4L\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAW47QP4L-29e8fb2044\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAW47QP4L-29e8fb2044\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAW47QP4L-29e8fb2044\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 343,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAW47QP4L-29e8fb2044\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 457,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAW47QP4L-29e8fb2044\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAW47QP4L-29e8fb2044\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 685,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 714,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FAW47QP4L\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FAW47QP4L-bc6601e392",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "D3C4C4FD-54D0-42F3-86A9-E871B59D54C8",
+        "ts": "1527257599.000483"
+    },
+    {
+        "type": "message",
+        "text": "Dev Fest - <https:\/\/pkware.com\/devfest2018>",
+        "user": "U15J5H60P",
+        "ts": "1527257956.000620",
+        "attachments": [
+            {
+                "title": "Register for DevFest 2018 | PKWARE",
+                "title_link": "https:\/\/pkware.com\/devfest2018",
+                "text": "PKWARE’s 2018 DevFest deck party will be held on Thursday, June 21 from 3:00PM - 7:00PM at 201 E. Pittsburgh Ave. #400 Milwaukee, WI 53204. Pre-Registration is required.",
+                "fallback": "Register for DevFest 2018 | PKWARE",
+                "from_url": "https:\/\/pkware.com\/devfest2018",
+                "service_name": "pkware.com",
+                "id": 1,
+                "original_url": "https:\/\/pkware.com\/devfest2018"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1527258356.000723"
+    },
+    {
+        "type": "message",
+        "text": "I just dropped that bad boy in my company's slack",
+        "user": "U15HRTAHL",
+        "ts": "1527258370.000313"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1527258457.000134"
+    },
+    {
+        "client_msg_id": "6C5F7979-720D-4190-B132-5FEB5BE200C6",
+        "type": "message",
+        "text": "Devfest is cool",
+        "user": "U15HZ01QX",
+        "ts": "1527258989.000396"
+    },
+    {
+        "client_msg_id": "C75F91B9-C174-4CC5-8979-7C02B7FFA6EB",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1527261800.000217"
+    },
+    {
+        "client_msg_id": "809c0a56-18e8-4390-968a-1213ac3a8398",
+        "type": "message",
+        "text": "I had to put out a legit fire today",
+        "user": "U15HRTAHL",
+        "ts": "1527266257.000524"
+    },
+    {
+        "client_msg_id": "0A8136AF-A7FA-4ED2-A320-F50C84C87C09",
+        "type": "message",
+        "text": "Nice!!",
+        "user": "U15J5H60P",
+        "ts": "1527266280.000281"
+    },
+    {
+        "client_msg_id": "C0142FD9-65D4-4716-8E4A-54A8803A3FDF",
+        "type": "message",
+        "text": "What happened?",
+        "user": "U15J5H60P",
+        "ts": "1527266285.000135"
+    },
+    {
+        "client_msg_id": "06d73a91-5c10-4b6f-bd01-2c125c383a83",
+        "type": "message",
+        "text": "Our grill started on fire",
+        "user": "U15HRTAHL",
+        "ts": "1527266352.000509"
+    },
+    {
+        "client_msg_id": "F25EBF17-C4DF-40EB-B3B3-4D7EDDE38A92",
+        "type": "message",
+        "text": "Whoops",
+        "user": "U15J5H60P",
+        "ts": "1527266361.000345"
+    },
+    {
+        "client_msg_id": "0311fc3d-a4c3-44ba-a4f0-ef9ebc0c8b40",
+        "type": "message",
+        "text": "Grease fires are pretty intense",
+        "user": "U15HRTAHL",
+        "ts": "1527266395.000625"
+    },
+    {
+        "client_msg_id": "6DC2BD0E-6E87-4C9B-9ED2-218372C84826",
+        "type": "message",
+        "text": "I bet",
+        "user": "U15J5H60P",
+        "ts": "1527266405.000315"
+    },
+    {
+        "client_msg_id": "631BD271-B865-4683-BB5E-65C1C6C82F7A",
+        "type": "message",
+        "text": "How'd you put it out?",
+        "user": "U15J5H60P",
+        "ts": "1527266448.000482"
+    },
+    {
+        "client_msg_id": "9028959d-09fc-4a3f-b250-7a173f559fb0",
+        "type": "message",
+        "text": "Fire extinguisher lol",
+        "user": "U15HRTAHL",
+        "ts": "1527266690.000729"
+    },
+    {
+        "client_msg_id": "3072FC01-C2A2-400F-86B2-491A1B49C8CB",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1527266704.000925"
+    },
+    {
+        "client_msg_id": "96e31dd0-84ba-45ad-9d81-316cd87062d0",
+        "type": "message",
+        "text": "I'm unemployed",
+        "user": "U15HRTAHL",
+        "ts": "1527283057.000055"
+    },
+    {
+        "client_msg_id": "95190E73-768B-4E49-9821-31D9BD23511C",
+        "type": "message",
+        "text": "Wooooooooooo!!!!! ",
+        "user": "U15J5H60P",
+        "ts": "1527283072.000421"
+    },
+    {
+        "client_msg_id": "78e36ea5-4574-47bf-aa95-b7dc8c6592da",
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15HRTAHL",
+        "ts": "1527283076.000034"
+    },
+    {
+        "client_msg_id": "9b132e71-c6e6-4d32-91fe-9c3cc770bbd3",
+        "type": "message",
+        "text": "For 3 days",
+        "user": "U15HRTAHL",
+        "ts": "1527283082.000067"
+    },
+    {
+        "client_msg_id": "0e155017-ae69-4838-a85a-2f23d99e653b",
+        "type": "message",
+        "text": "Free coffee drink at Stone Creek <@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1527285970.000038"
+    },
+    {
+        "client_msg_id": "0aa5b0f5-f9bd-4c97-a82c-d06d01f6ab51",
+        "type": "message",
+        "text": "The new one on downer",
+        "user": "U15HRTAHL",
+        "ts": "1527285978.000337"
+    },
+    {
+        "client_msg_id": "50AA2D8C-2032-4543-A4E1-4DCA04F7DDC0",
+        "type": "message",
+        "text": "Nice! Did you go yet?",
+        "user": "U15J5H60P",
+        "ts": "1527286006.000150"
+    },
+    {
+        "client_msg_id": "5d551215-bf60-44ec-8660-4ec15e18f460",
+        "type": "message",
+        "text": "I'm here now",
+        "user": "U15HRTAHL",
+        "ts": "1527286127.000288"
+    },
+    {
+        "client_msg_id": "59b7d238-0dd3-4871-989e-9ba661d52dc2",
+        "type": "message",
+        "text": "Want us to wait?",
+        "user": "U15HRTAHL",
+        "ts": "1527286135.000045"
+    },
+    {
+        "client_msg_id": "E7DBC606-8C51-47C2-A05C-B46A9E9C4A96",
+        "type": "message",
+        "text": "Nah, it’s okay. Thanks for letting me know! I’ll go later. ",
+        "user": "U15J5H60P",
+        "ts": "1527286163.000289"
+    },
+    {
+        "client_msg_id": "5d67a51a-6646-4097-ba40-9a8c1c64b972",
+        "type": "message",
+        "text": "Alright. We'll be here for a bit yet if you come anytime soon",
+        "user": "U15HRTAHL",
+        "ts": "1527286235.000101"
+    },
+    {
+        "client_msg_id": "B9D3CBAD-B1C0-4315-B98F-E0335165EA5A",
+        "type": "message",
+        "text": "Are you still there?",
+        "user": "U15J5H60P",
+        "ts": "1527287060.000199"
+    },
+    {
+        "client_msg_id": "02ad467f-2f81-4299-824e-1c895a45975a",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HRTAHL",
+        "ts": "1527287147.000227"
+    },
+    {
+        "client_msg_id": "66F28318-221B-481C-8D57-7ABAB591A0C4",
+        "type": "message",
+        "text": "On my way! ",
+        "user": "U15J5H60P",
+        "ts": "1527287158.000034"
+    },
+    {
+        "client_msg_id": "dc0a064e-060e-4b54-8f52-cd1dd76f48e4",
+        "type": "message",
+        "text": "Woohoo",
+        "user": "U15HRTAHL",
+        "ts": "1527287162.000165"
+    }
+]

@@ -1,0 +1,314 @@
+[
+    {
+        "client_msg_id": "9f348050-4228-4e5a-a77e-16aacbfaacd3",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1547314124.011200"
+    },
+    {
+        "client_msg_id": "f4077f36-e6ce-4631-a017-11878e7e8296",
+        "type": "message",
+        "text": "I need a tutorial",
+        "user": "U15J5H60P",
+        "ts": "1547314136.011500"
+    },
+    {
+        "client_msg_id": "04cc26d5-cbd1-453a-8255-e983c95654b8",
+        "type": "message",
+        "text": "Have you ever used serverless?",
+        "user": "U15J5H60P",
+        "ts": "1547314196.011700"
+    },
+    {
+        "client_msg_id": "c12a2d12-71f2-423e-97d9-912625d7b01a",
+        "type": "message",
+        "text": "<https:\/\/www.serverless.com>",
+        "user": "U15J5H60P",
+        "ts": "1547314204.012100",
+        "attachments": [
+            {
+                "service_name": "serverless",
+                "title": "Serverless - The Serverless Application Framework powered by AWS Lambda, API Gateway, and more",
+                "title_link": "https:\/\/www.serverless.com\/",
+                "text": "Build web, mobile and IoT applications using AWS Lambda and API Gateway, Azure Functions, Google Cloud Functions, and more.",
+                "fallback": "serverless: Serverless - The Serverless Application Framework powered by AWS Lambda, API Gateway, and more",
+                "thumb_url": "https:\/\/s3-us-west-2.amazonaws.com\/assets.site.serverless.com\/logos\/Serverless_mark_black_400x400_v3%402x.jpg",
+                "from_url": "https:\/\/www.serverless.com\/",
+                "thumb_width": 800,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/serverless.com\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.serverless.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EF660666-3538-4EAC-8861-855E86C7A7C8",
+        "type": "message",
+        "text": "Thats all he's talked about lol",
+        "user": "U15HY5TG8",
+        "ts": "1547314255.012600"
+    },
+    {
+        "client_msg_id": "7d2896cf-84cc-4e76-a8bc-b4e52b0cc30e",
+        "type": "message",
+        "text": "No it’s not",
+        "user": "U15J5H60P",
+        "ts": "1547314445.012800"
+    },
+    {
+        "client_msg_id": "853f96df-571a-4f40-8a1b-5370bff949d4",
+        "type": "message",
+        "text": "He talked about SAM",
+        "user": "U15J5H60P",
+        "ts": "1547314448.013100"
+    },
+    {
+        "client_msg_id": "8a8192a0-0a09-4c75-899f-87e9ba485452",
+        "type": "message",
+        "text": "I’m going to try out this tutorial - <https:\/\/serverless.com\/blog\/serverless-express-rest-api\/>",
+        "user": "U15J5H60P",
+        "ts": "1547314461.013300",
+        "attachments": [
+            {
+                "service_name": "serverless",
+                "title": "Deploy a REST API using Serverless, Express and Node.js",
+                "title_link": "https:\/\/serverless.com\/blog\/serverless-express-rest-api\/",
+                "text": "Learn how to use the popular Express.js framework to deploy a REST API with Serverless, DynamoDB and API Gateway.",
+                "fallback": "serverless: Deploy a REST API using Serverless, Express and Node.js",
+                "thumb_url": "https:\/\/s3-us-west-2.amazonaws.com\/assets.site.serverless.com\/logos\/Serverless_mark_black_400x400_v3%402x.jpg",
+                "from_url": "https:\/\/serverless.com\/blog\/serverless-express-rest-api\/",
+                "thumb_width": 800,
+                "thumb_height": 800,
+                "service_icon": "https:\/\/serverless.com\/favicons\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/serverless.com\/blog\/serverless-express-rest-api\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0184ACE9-F9D9-40E3-967E-D31109729CBE",
+        "type": "message",
+        "text": "Ahh well you were talking to me about it",
+        "user": "U15HY5TG8",
+        "ts": "1547314474.013900"
+    },
+    {
+        "client_msg_id": "5e914cfc-aefb-4756-b9e3-4cd808290054",
+        "type": "message",
+        "text": "Yeet",
+        "user": "U15J5H60P",
+        "ts": "1547314481.014100"
+    },
+    {
+        "client_msg_id": "54c64a72-658d-47b2-8672-ca798197438d",
+        "type": "message",
+        "text": "serverless is a product to make serverless applications",
+        "user": "U15HRTAHL",
+        "ts": "1547315463.014400"
+    },
+    {
+        "client_msg_id": "f9182293-be9e-4562-933d-836098faebef",
+        "type": "message",
+        "text": "i've looked at it",
+        "user": "U15HRTAHL",
+        "ts": "1547315471.014700"
+    },
+    {
+        "client_msg_id": "cf21c469-d736-4f47-9b45-a08ff8399e0c",
+        "type": "message",
+        "text": "Not as good as SAM?",
+        "user": "U15J5H60P",
+        "ts": "1547315478.015000"
+    },
+    {
+        "client_msg_id": "b535d87a-f299-424f-a30a-4edc70c7bf43",
+        "type": "message",
+        "text": "it depends",
+        "user": "U15HRTAHL",
+        "ts": "1547315502.015400"
+    },
+    {
+        "client_msg_id": "b5c20bb7-60e0-4df4-b6fc-bced3e96c208",
+        "type": "message",
+        "text": "Creating an API",
+        "user": "U15J5H60P",
+        "ts": "1547315511.015800"
+    },
+    {
+        "client_msg_id": "e6b66871-b37f-4163-8569-652a06d543cb",
+        "type": "message",
+        "text": "do you plan on using another platform like GCA or azure?",
+        "user": "U15HRTAHL",
+        "ts": "1547315515.016100"
+    },
+    {
+        "client_msg_id": "6fe5714e-f325-43db-b271-2bac97f0b0f5",
+        "type": "message",
+        "text": "no",
+        "user": "U15J5H60P",
+        "ts": "1547315519.016300"
+    },
+    {
+        "client_msg_id": "28847247-d115-440a-b5c6-2402175a553c",
+        "type": "message",
+        "text": "let me give you a backfill on history",
+        "user": "U15HRTAHL",
+        "ts": "1547315569.017000"
+    },
+    {
+        "client_msg_id": "5fee7915-33a5-474d-a990-c8ea10db3340",
+        "type": "message",
+        "text": "AWS has a thing called cloudformation",
+        "user": "U15HRTAHL",
+        "ts": "1547315577.017200"
+    },
+    {
+        "client_msg_id": "589809ee-15a2-4bcf-b5e0-e34f330ead6f",
+        "type": "message",
+        "text": "cloudformation is super fucking confusing to work with",
+        "user": "U15HRTAHL",
+        "ts": "1547315587.017500"
+    },
+    {
+        "client_msg_id": "581a9584-9c23-4e9e-aaaf-c603d449669d",
+        "type": "message",
+        "text": "so serverless framework built their stuff on top of cloudformation to make it easy",
+        "user": "U15HRTAHL",
+        "ts": "1547315605.017900"
+    },
+    {
+        "client_msg_id": "c595f370-f836-491c-add1-7f2cfcfed9f7",
+        "type": "message",
+        "text": "AWS realized this so they cameout with Cloudformation v2 (SAM)",
+        "user": "U15HRTAHL",
+        "ts": "1547315621.018300"
+    },
+    {
+        "client_msg_id": "97ee5a92-970c-4309-8ec1-2090dbd7270f",
+        "type": "message",
+        "text": "the caveat is that not everything was brought over to SAM",
+        "user": "U15HRTAHL",
+        "ts": "1547315641.018700"
+    },
+    {
+        "client_msg_id": "2560bad1-fd4b-4d7f-a3ce-87681cb6f9c3",
+        "type": "message",
+        "text": "SAM is still cloud formation, so if you need resources that SAM doesn't have you can still use cloudformation definitions",
+        "user": "U15HRTAHL",
+        "ts": "1547315664.019200"
+    },
+    {
+        "client_msg_id": "97e21bed-0d34-41df-a327-6881ad9686ba",
+        "type": "message",
+        "text": "sooo with that",
+        "user": "U15HRTAHL",
+        "ts": "1547315666.019400"
+    },
+    {
+        "client_msg_id": "22f50189-3363-4274-81d0-876ba985bcee",
+        "type": "message",
+        "text": "if you plan on using mainly SAM stuff",
+        "user": "U15HRTAHL",
+        "ts": "1547315679.019800"
+    },
+    {
+        "client_msg_id": "52885946-0796-4362-bd90-daba1e3f715e",
+        "type": "message",
+        "text": "stick with sam",
+        "user": "U15HRTAHL",
+        "ts": "1547315679.019900"
+    },
+    {
+        "client_msg_id": "e8f5fb6c-67e9-45f0-a5fb-11b316ec536d",
+        "type": "message",
+        "text": "otherwise you could use serverless framework",
+        "user": "U15HRTAHL",
+        "ts": "1547315690.020200"
+    },
+    {
+        "client_msg_id": "02eb3419-fce0-43b5-9cc3-ff4caeead634",
+        "type": "message",
+        "text": "Gotchaaaa",
+        "user": "U15J5H60P",
+        "ts": "1547315703.020600"
+    },
+    {
+        "client_msg_id": "e985a82d-0f3d-441f-96dd-deee3293e362",
+        "type": "message",
+        "text": "so yeah if you want to use SQS or SNS or anything outside of lambda\/api gateway use serverless",
+        "user": "U15HRTAHL",
+        "ts": "1547315728.021200"
+    },
+    {
+        "client_msg_id": "ac63d246-8616-40a2-a591-428386ecf407",
+        "type": "message",
+        "text": "you can still use sam\/cloudformation with that too remember",
+        "user": "U15HRTAHL",
+        "ts": "1547315740.021500"
+    },
+    {
+        "client_msg_id": "90bcd331-e3ad-4195-8859-9340485bc3c7",
+        "type": "message",
+        "text": "so it's really dependent on what you want to use",
+        "user": "U15HRTAHL",
+        "ts": "1547315750.021800"
+    },
+    {
+        "client_msg_id": "3395d2a4-4999-41a4-9398-aa6e8cb7864b",
+        "type": "message",
+        "text": "Kyle is using serverless framework at his work and he likes it",
+        "user": "U15HRTAHL",
+        "ts": "1547315776.022400"
+    },
+    {
+        "client_msg_id": "3331161a-afbf-40bc-9e3f-4267af9e1f0b",
+        "type": "message",
+        "text": "Awesome. Thanks for the explanation. That puts things into better context for me.",
+        "user": "U15J5H60P",
+        "ts": "1547316055.022800"
+    },
+    {
+        "client_msg_id": "c44015d1-d97c-4cc2-82aa-b049b96bfa8b",
+        "type": "message",
+        "text": "idk when I made the decision i just thought it made sense to use the AWS's tools cause well it's aws",
+        "user": "U15HRTAHL",
+        "ts": "1547316102.023300"
+    },
+    {
+        "client_msg_id": "b8dbffb9-89a6-48f3-8fe3-cde78242c00c",
+        "type": "message",
+        "text": "when you deploy using sam\/serverless it makes a cloudformation stack. So really they're the same. The cool thing about serverless framework is that you can write 1 template and deploy it to whatever cloud platform you want",
+        "user": "U15HRTAHL",
+        "ts": "1547316183.024300"
+    },
+    {
+        "client_msg_id": "d89949c6-4fe9-4107-9f9a-f8e1485ee7a9",
+        "type": "message",
+        "text": "Go is super fast?",
+        "user": "U15J5H60P",
+        "ts": "1547318366.024800"
+    },
+    {
+        "client_msg_id": "85e6588c-ea09-40c1-9479-54209f2c4cfb",
+        "type": "message",
+        "text": "Eh it’s ugly",
+        "user": "U15J5H60P",
+        "ts": "1547318418.025100"
+    },
+    {
+        "client_msg_id": "e382397f-7af7-4900-9d32-c9c59f3fe71e",
+        "type": "message",
+        "text": "I don’t like it",
+        "user": "U15J5H60P",
+        "ts": "1547318420.025300"
+    },
+    {
+        "client_msg_id": "ba0e9f10-43f5-4915-9da0-52237efa91f2",
+        "type": "message",
+        "text": "Maybe I’ll learn it in a couple years or something",
+        "user": "U15J5H60P",
+        "ts": "1547318440.025600"
+    }
+]

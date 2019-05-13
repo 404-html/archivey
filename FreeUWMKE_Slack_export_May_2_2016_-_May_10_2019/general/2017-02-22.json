@@ -1,0 +1,842 @@
+[
+    {
+        "type": "message",
+        "text": "8 bucks off Amazon ",
+        "user": "U15HZ01QX",
+        "ts": "1487770105.000002"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1487770202.000003"
+    },
+    {
+        "type": "message",
+        "text": "Check your email",
+        "user": "U15HZ01QX",
+        "ts": "1487770232.000004"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> we need at least some context",
+        "user": "U15HY5TG8",
+        "ts": "1487770233.000005"
+    },
+    {
+        "type": "message",
+        "text": "I assumed you guys had saw already",
+        "user": "U15HZ01QX",
+        "ts": "1487770247.000006"
+    },
+    {
+        "type": "message",
+        "text": "I was just saying that's cool",
+        "user": "U15HZ01QX",
+        "ts": "1487770255.000007"
+    },
+    {
+        "type": "message",
+        "text": "I didn't get an email ",
+        "user": "U15J5H60P",
+        "ts": "1487770258.000008"
+    },
+    {
+        "type": "message",
+        "text": "I assume this is if you have an amazon card?",
+        "user": "U15HY5TG8",
+        "ts": "1487770280.000009"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F48UDT9GC",
+                "created": 1487770407,
+                "timestamp": 1487770407,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 101056,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F48UDT9GC\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F48UDT9GC\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F48UDT9GC-2c4a5d18f9\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F48UDT9GC-2c4a5d18f9\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F48UDT9GC-2c4a5d18f9\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F48UDT9GC-2c4a5d18f9\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F48UDT9GC-2c4a5d18f9\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 375,
+                "original_h": 667,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F48UDT9GC\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F48UDT9GC-422aad6e7f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "upload_reply_to": "98C5DAB9-AE9A-45D1-B478-6EB4892DB8FC",
+        "ts": "1487770409.000010"
+    },
+    {
+        "type": "message",
+        "text": "I tried using it without luck",
+        "user": "U15J5H60P",
+        "ts": "1487770555.000011"
+    },
+    {
+        "type": "message",
+        "text": "Was is 50 bucks?",
+        "user": "U15HZ01QX",
+        "ts": "1487770588.000012"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1487770603.000013"
+    },
+    {
+        "type": "message",
+        "text": "A PS4 controller and a grooming kit $54.26",
+        "user": "U15J5H60P",
+        "ts": "1487770632.000014"
+    },
+    {
+        "type": "message",
+        "text": "Weird",
+        "user": "U15HZ01QX",
+        "ts": "1487771400.000002"
+    },
+    {
+        "type": "message",
+        "text": "Idk why I'd get it then",
+        "user": "U15HZ01QX",
+        "ts": "1487771413.000003"
+    },
+    {
+        "type": "message",
+        "text": "It's your kickback for making all of your coworkers sign up for shit they shouldn't have and download shit ass apps that you force onto their phones ",
+        "user": "U15J5H60P",
+        "ts": "1487771607.000004"
+    },
+    {
+        "type": "message",
+        "text": "Lol what",
+        "user": "U15HZ01QX",
+        "ts": "1487772338.000002"
+    },
+    {
+        "type": "message",
+        "text": "Wouldn't it come from Microsoft lol",
+        "user": "U15HZ01QX",
+        "ts": "1487772354.000003"
+    },
+    {
+        "type": "message",
+        "text": "In the form of Amazon gifts",
+        "user": "U15J5H60P",
+        "ts": "1487772382.000004"
+    },
+    {
+        "type": "message",
+        "text": "I'm joking",
+        "user": "U15J5H60P",
+        "ts": "1487772404.000005"
+    },
+    {
+        "type": "message",
+        "text": "Never mind . I just spent 20 minutes trying to photoshop a beer out of your hand for a presentation I'm doing but then I realized I could just crop the picture",
+        "user": "U15HZ01QX",
+        "ts": "1487772406.000006"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1487772414.000007"
+    },
+    {
+        "type": "message",
+        "text": "Graphic design is kind of a shit career but man it's not that easy",
+        "user": "U15HZ01QX",
+        "ts": "1487772450.000008"
+    },
+    {
+        "type": "message",
+        "text": "It's fun",
+        "user": "U15J5H60P",
+        "ts": "1487772470.000009"
+    },
+    {
+        "type": "message",
+        "text": "Once you learn the tricks it's easy",
+        "user": "U15J5H60P",
+        "ts": "1487772484.000010"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1487772510.000011"
+    },
+    {
+        "type": "message",
+        "text": "I should of left the beer in your hand ",
+        "user": "U15HZ01QX",
+        "ts": "1487772530.000012"
+    },
+    {
+        "type": "message",
+        "text": "Have",
+        "user": "U15HZ01QX",
+        "ts": "1487772534.000013"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. I know exactly what picture you're talking about. ",
+        "user": "U15J5H60P",
+        "ts": "1487772621.000014"
+    },
+    {
+        "type": "message",
+        "text": "That picture is from what, 3 years ago?",
+        "user": "U15J5H60P",
+        "ts": "1487772639.000015"
+    },
+    {
+        "type": "message",
+        "text": "Yup have a  beer in your hand in a surprising amount of pictures",
+        "user": "U15HZ01QX",
+        "ts": "1487772661.000016"
+    },
+    {
+        "type": "message",
+        "text": "Do i? Hmm",
+        "user": "U15J5H60P",
+        "ts": "1487772676.000017"
+    },
+    {
+        "type": "message",
+        "text": "Signs of alcoholism",
+        "user": "U15HY5TG8",
+        "ts": "1487772703.000018"
+    },
+    {
+        "type": "message",
+        "text": "Lol i haven't had more than a glass of alcohol in like 2 weeks ",
+        "user": "U15J5H60P",
+        "ts": "1487773154.000002"
+    },
+    {
+        "type": "message",
+        "text": "I had like a legit Afro ",
+        "files": [
+            {
+                "id": "F485Z0FTJ",
+                "created": 1487773215,
+                "timestamp": 1487773215,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 83064,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F485Z0FTJ\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F485Z0FTJ\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F485Z0FTJ-296938c7c1\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F485Z0FTJ-296938c7c1\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F485Z0FTJ-296938c7c1\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F485Z0FTJ-296938c7c1\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F485Z0FTJ-296938c7c1\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 540,
+                "original_h": 540,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F485Z0FTJ\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F485Z0FTJ-25eb740158",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "upload_reply_to": "DAAFFCF4-4ABC-4B32-B0FB-1604FBA1C2CD",
+        "ts": "1487773216.000003"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1487773227.000004"
+    },
+    {
+        "type": "message",
+        "text": "Ayyy that means you havent gone out with the group! Good for you!",
+        "user": "U15HY5TG8",
+        "ts": "1487773228.000005"
+    },
+    {
+        "type": "message",
+        "text": "Lol i remember that",
+        "user": "U15J5H60P",
+        "ts": "1487773243.000006"
+    },
+    {
+        "type": "message",
+        "text": "Damn my face is fat",
+        "user": "U15HY5TG8",
+        "ts": "1487773250.000007"
+    },
+    {
+        "type": "message",
+        "text": "What group, Evan?",
+        "user": "U15J5H60P",
+        "ts": "1487773252.000008"
+    },
+    {
+        "type": "message",
+        "text": "The only group you complain about lol",
+        "user": "U15HY5TG8",
+        "ts": "1487773265.000009"
+    },
+    {
+        "type": "message",
+        "text": "I went on a Brewery tour with them on Friday",
+        "user": "U15J5H60P",
+        "ts": "1487773288.000010"
+    },
+    {
+        "type": "message",
+        "text": "O",
+        "user": "U15HY5TG8",
+        "ts": "1487773351.000011"
+    },
+    {
+        "type": "message",
+        "text": "My boss is making me do the 16 personalities thing",
+        "user": "U15HZ01QX",
+        "ts": "1487773781.000002"
+    },
+    {
+        "type": "message",
+        "text": "It's ass",
+        "user": "U15HZ01QX",
+        "ts": "1487773783.000003"
+    },
+    {
+        "type": "message",
+        "text": "Like a survey?",
+        "user": "U15HY5TG8",
+        "ts": "1487774233.000004"
+    },
+    {
+        "type": "message",
+        "text": "Welp...turns out im going to be spending ~$2200 total on a new wheel setup lol",
+        "user": "U15HY5TG8",
+        "ts": "1487774527.000005"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1487774549.000006"
+    },
+    {
+        "type": "message",
+        "text": "I'm sorry",
+        "user": "U15HZ01QX",
+        "ts": "1487774556.000007"
+    },
+    {
+        "type": "message",
+        "text": "I chose this life i guess",
+        "user": "U15HY5TG8",
+        "ts": "1487774570.000008"
+    },
+    {
+        "type": "message",
+        "text": "That's ass ",
+        "user": "U15J5H60P",
+        "ts": "1487775301.000002"
+    },
+    {
+        "type": "message",
+        "text": "O well",
+        "user": "U15HY5TG8",
+        "ts": "1487775469.000003"
+    },
+    {
+        "type": "message",
+        "text": "I hate end users",
+        "user": "U15HZ01QX",
+        "ts": "1487778251.000004"
+    },
+    {
+        "type": "message",
+        "text": "You guys coming to lunch today",
+        "user": "U15HZ01QX",
+        "ts": "1487781947.000005"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HZ01QX",
+        "ts": "1487781950.000006"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1487793742.000007"
+    },
+    {
+        "type": "message",
+        "text": "It's 68 out ",
+        "user": "U15J5H60P",
+        "ts": "1487793755.000008"
+    },
+    {
+        "type": "message",
+        "text": "Coming to lunch?",
+        "user": "U15HY5TG8",
+        "ts": "1487793765.000009"
+    },
+    {
+        "type": "message",
+        "text": "I have to pay to park so I can't really leave for lunch",
+        "user": "U15J5H60P",
+        "ts": "1487804345.000010"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HZ01QX",
+        "ts": "1487804519.000011"
+    },
+    {
+        "type": "message",
+        "text": "Get picked up",
+        "user": "U15HZ01QX",
+        "ts": "1487804529.000012"
+    },
+    {
+        "type": "message",
+        "text": "Ok",
+        "user": "U15J5H60P",
+        "ts": "1487804553.000013"
+    },
+    {
+        "type": "message",
+        "text": "I didn't realize that there are new PS4 controllers",
+        "user": "U15J5H60P",
+        "ts": "1487808654.000014"
+    },
+    {
+        "type": "message",
+        "text": "They have light bars on the front ",
+        "user": "U15J5H60P",
+        "ts": "1487808663.000015"
+    },
+    {
+        "type": "message",
+        "text": "A light bar on the front*",
+        "user": "U15J5H60P",
+        "ts": "1487808668.000016"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15J5H60P",
+        "ts": "1487808690.000017"
+    },
+    {
+        "type": "message",
+        "text": "Do you have a PS4 controller with a light on the touch pad?",
+        "user": "U15J5H60P",
+        "ts": "1487808702.000018"
+    },
+    {
+        "type": "message",
+        "text": "Yezzirrr",
+        "user": "U15HY5TG8",
+        "ts": "1487808803.000019"
+    },
+    {
+        "type": "message",
+        "text": "Nice!!",
+        "user": "U15J5H60P",
+        "ts": "1487808817.000020"
+    },
+    {
+        "type": "message",
+        "text": "I need a new controller. My old one wore out",
+        "user": "U15J5H60P",
+        "ts": "1487808834.000021"
+    },
+    {
+        "type": "message",
+        "text": "I can't use run anymore ",
+        "user": "U15J5H60P",
+        "ts": "1487808842.000022"
+    },
+    {
+        "type": "message",
+        "text": "Yea its awesome ha ",
+        "user": "U15HY5TG8",
+        "ts": "1487808857.000023"
+    },
+    {
+        "type": "message",
+        "text": "I'm drunk",
+        "user": "U15HZ01QX",
+        "ts": "1487810609.000024"
+    },
+    {
+        "type": "message",
+        "text": "Why",
+        "user": "U15J5H60P",
+        "ts": "1487810624.000025"
+    },
+    {
+        "type": "message",
+        "text": "National margarita day",
+        "user": "U15HZ01QX",
+        "ts": "1487810751.000026"
+    },
+    {
+        "type": "message",
+        "text": "Smh",
+        "user": "U15HY5TG8",
+        "ts": "1487810964.000027"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face::thinking_face::thinking_face::thinking_face:",
+        "user": "U15HZ01QX",
+        "ts": "1487811050.000028"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1487811332.000029"
+    },
+    {
+        "type": "message",
+        "text": "I almost threw up doe the first time in 6 years",
+        "user": "U15HZ01QX",
+        "ts": "1487813067.000030"
+    },
+    {
+        "type": "message",
+        "text": "For not doe ",
+        "user": "U15HZ01QX",
+        "ts": "1487813078.000031"
+    },
+    {
+        "type": "message",
+        "text": "Tequila will do that to ya",
+        "user": "U15HY5TG8",
+        "ts": "1487813103.000032"
+    },
+    {
+        "type": "message",
+        "text": "I don't vomit from alcohol ",
+        "user": "U15HZ01QX",
+        "ts": "1487813138.000033"
+    },
+    {
+        "type": "message",
+        "text": "I think it was a sugar ache ",
+        "user": "U15HZ01QX",
+        "ts": "1487813164.000034"
+    },
+    {
+        "type": "message",
+        "text": "Tequila is different",
+        "user": "U15HY5TG8",
+        "ts": "1487813169.000035"
+    },
+    {
+        "type": "message",
+        "text": "I've had it before",
+        "user": "U15HZ01QX",
+        "ts": "1487813190.000036"
+    },
+    {
+        "type": "message",
+        "text": "I doubt in such a large quantity",
+        "user": "U15HY5TG8",
+        "ts": "1487813213.000037"
+    },
+    {
+        "type": "message",
+        "text": ":unamused::unamused:",
+        "user": "U15HZ01QX",
+        "ts": "1487813236.000038"
+    },
+    {
+        "type": "message",
+        "text": "What d you guts have for dinner ",
+        "user": "U15HZ01QX",
+        "ts": "1487813265.000039"
+    },
+    {
+        "type": "message",
+        "text": "Nothing special",
+        "user": "U15HY5TG8",
+        "ts": "1487813299.000040"
+    },
+    {
+        "type": "message",
+        "text": "Prob eggs",
+        "user": "U15HY5TG8",
+        "ts": "1487813303.000041"
+    },
+    {
+        "type": "message",
+        "text": "Mac N Cheese",
+        "user": "U15J5H60P",
+        "ts": "1487813344.000042"
+    },
+    {
+        "type": "message",
+        "text": "That's a good idea",
+        "user": "U15HZ01QX",
+        "ts": "1487813347.000043"
+    },
+    {
+        "type": "message",
+        "text": "I'll make some Mac with boiled egg pieces ",
+        "user": "U15HZ01QX",
+        "ts": "1487813377.000044"
+    },
+    {
+        "type": "message",
+        "text": "Or get a jumbo Mac",
+        "user": "U15J5H60P",
+        "ts": "1487814264.000045"
+    },
+    {
+        "type": "message",
+        "text": "Or whatever",
+        "user": "U15J5H60P",
+        "ts": "1487814266.000046"
+    },
+    {
+        "type": "message",
+        "text": "What's that?",
+        "user": "U15HZ01QX",
+        "ts": "1487814290.000047"
+    },
+    {
+        "type": "message",
+        "text": "The new big Mac at McDonald's",
+        "user": "U15J5H60P",
+        "ts": "1487814298.000048"
+    },
+    {
+        "type": "message",
+        "text": ":worried::worried:",
+        "user": "U15HZ01QX",
+        "ts": "1487814307.000049"
+    },
+    {
+        "type": "message",
+        "text": "Ew",
+        "user": "U15HY5TG8",
+        "ts": "1487814311.000050"
+    },
+    {
+        "type": "message",
+        "text": "🤤",
+        "user": "U15J5H60P",
+        "ts": "1487814315.000051"
+    },
+    {
+        "type": "message",
+        "text": "I love big Macs",
+        "user": "U15J5H60P",
+        "ts": "1487814325.000052"
+    },
+    {
+        "type": "message",
+        "text": "Mcdonalds is gross besides breakfast",
+        "user": "U15HY5TG8",
+        "ts": "1487814335.000053"
+    },
+    {
+        "type": "message",
+        "text": "You guys wanna come to lunch next week?",
+        "user": "U15HZ01QX",
+        "ts": "1487814345.000054"
+    },
+    {
+        "type": "message",
+        "text": "Evan I know it's a drive for you ",
+        "user": "U15HZ01QX",
+        "ts": "1487814359.000055"
+    },
+    {
+        "type": "message",
+        "text": "If i must be honest i dont wanna drive haha",
+        "user": "U15HY5TG8",
+        "ts": "1487814372.000056"
+    },
+    {
+        "type": "message",
+        "text": "Go out to lunch?",
+        "user": "U15J5H60P",
+        "ts": "1487814375.000057"
+    },
+    {
+        "type": "message",
+        "text": "Id rather do dinner",
+        "user": "U15HY5TG8",
+        "ts": "1487814385.000058"
+    },
+    {
+        "type": "message",
+        "text": "Or happy hour",
+        "user": "U15J5H60P",
+        "ts": "1487814393.000059"
+    },
+    {
+        "type": "message",
+        "text": "Something after work",
+        "user": "U15HY5TG8",
+        "ts": "1487814406.000060"
+    },
+    {
+        "type": "message",
+        "text": "Well we all do luncg",
+        "user": "U15HZ01QX",
+        "ts": "1487814462.000061"
+    },
+    {
+        "type": "message",
+        "text": "I'd do something with you guys after work though",
+        "user": "U15HZ01QX",
+        "ts": "1487814474.000062"
+    },
+    {
+        "type": "message",
+        "text": "WHo is we?",
+        "user": "U15J5H60P",
+        "ts": "1487814497.000063"
+    },
+    {
+        "type": "message",
+        "text": "Itd be a 20 min drive just to get by you ",
+        "user": "U15HY5TG8",
+        "ts": "1487814498.000064"
+    },
+    {
+        "type": "message",
+        "text": "Mitch. Dave joe joe and me",
+        "user": "U15HZ01QX",
+        "ts": "1487814567.000065"
+    },
+    {
+        "type": "message",
+        "text": "Ah gotcha",
+        "user": "U15J5H60P",
+        "ts": "1487814580.000066"
+    },
+    {
+        "type": "message",
+        "text": "We normally do thursdays but penrod has a chili thing tomorrow so you guys can think about it ",
+        "user": "U15HZ01QX",
+        "ts": "1487814664.000067"
+    },
+    {
+        "type": "message",
+        "text": "We are also doing a chili thing",
+        "user": "U15HY5TG8",
+        "ts": "1487814712.000068"
+    },
+    {
+        "type": "message",
+        "text": "Is it a holiday?",
+        "user": "U15HZ01QX",
+        "ts": "1487814748.000069"
+    },
+    {
+        "type": "message",
+        "text": "Unofficially",
+        "user": "U15HY5TG8",
+        "ts": "1487814762.000070"
+    },
+    {
+        "type": "message",
+        "text": "Uwm sends an anti-phishing email after we've been getting them for like 5 years daily lol",
+        "user": "U15HZ01QX",
+        "ts": "1487818653.000071"
+    },
+    {
+        "type": "message",
+        "text": "Yea ik lol",
+        "user": "U15HY5TG8",
+        "ts": "1487818825.000072"
+    },
+    {
+        "type": "message",
+        "text": "Ciera is barfing",
+        "user": "U15HZ01QX",
+        "ts": "1487819861.000073"
+    },
+    {
+        "type": "message",
+        "text": "Margs",
+        "user": "U15J5H60P",
+        "ts": "1487819883.000074"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1487819912.000075"
+    },
+    {
+        "type": "message",
+        "text": "Yeah my coworkers took some girls on a tour of the building for some reason but me and Ciera went home",
+        "user": "U15HZ01QX",
+        "ts": "1487819936.000076"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1487819980.000077"
+    }
+]

@@ -1,0 +1,777 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556719867.000100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=aapl&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=aapl|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=aapl|Finviz> | <http:\/\/stocktwits.com\/symbol\/aapl|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556719832,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "212.33",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+11.66 (+5.81%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "17,702,670",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "26,940,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.8\/5 (43 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "212.47 (+0.06%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=aapl&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31179,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=aapl",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "420A229A-7C3B-4103-8DCA-4E0E7D3C1BA4",
+        "type": "message",
+        "text": "Bless up",
+        "user": "U15J5H60P",
+        "ts": "1556719878.000300"
+    },
+    {
+        "client_msg_id": "43629467-6f52-46f7-a714-e74d7e340f72",
+        "type": "message",
+        "text": "<@U15J5H60P> you should listen to robinhood’s podcast",
+        "user": "U15HRTAHL",
+        "ts": "1556720800.000700"
+    },
+    {
+        "client_msg_id": "2602446a-d7c5-4867-9933-47c7ce1221ad",
+        "type": "message",
+        "text": "I do",
+        "user": "U15J5H60P",
+        "ts": "1556720835.000900"
+    },
+    {
+        "client_msg_id": "553bca69-9fee-4ecb-8f79-7d3c02b685f5",
+        "type": "message",
+        "text": "did you listen to todays?",
+        "user": "U15HRTAHL",
+        "ts": "1556720866.001100"
+    },
+    {
+        "client_msg_id": "128e6db4-3683-4699-b697-c984785a013d",
+        "type": "message",
+        "text": "Yup!",
+        "user": "U15J5H60P",
+        "ts": "1556720872.001200"
+    },
+    {
+        "client_msg_id": "40eb44a9-a845-418a-8db1-c87b8a69521b",
+        "type": "message",
+        "text": "Big dividend increase",
+        "user": "U15J5H60P",
+        "ts": "1556720884.001500"
+    },
+    {
+        "client_msg_id": "fec568e1-753f-49c0-9f17-c9077ad305d3",
+        "type": "message",
+        "text": "I’m gonna buy some Merck",
+        "user": "U15HRTAHL",
+        "ts": "1556720887.001600"
+    },
+    {
+        "client_msg_id": "1a9ada03-2045-4707-84fa-4cc79e06434c",
+        "type": "message",
+        "text": "Good plan",
+        "user": "U15J5H60P",
+        "ts": "1556720892.001800"
+    },
+    {
+        "client_msg_id": "B04D0DB8-B097-4182-A104-6D69668FCC23",
+        "type": "message",
+        "text": "I'm trying the Amazon payment plan",
+        "user": "U15J5H60P",
+        "ts": "1556726180.002200"
+    },
+    {
+        "client_msg_id": "462FE3BC-3F8F-40A0-A33A-1F0DBAF09DEE",
+        "type": "message",
+        "text": "You pay for the product over 5 months",
+        "user": "U15J5H60P",
+        "ts": "1556726188.002600"
+    },
+    {
+        "client_msg_id": "468CC18D-D727-4751-A206-D7E00003AA30",
+        "type": "message",
+        "text": "No interest",
+        "user": "U15J5H60P",
+        "ts": "1556726191.002700"
+    },
+    {
+        "client_msg_id": "B3EE8337-B7DE-4B79-BB71-695C215E2C91",
+        "type": "message",
+        "text": "I bought my bed on the plan. I'll let y'all know how it goes",
+        "user": "U15J5H60P",
+        "ts": "1556726205.003200"
+    },
+    {
+        "client_msg_id": "4095ABB4-48B8-4F09-938C-91C18C6C2177",
+        "type": "message",
+        "text": "Hmmmm",
+        "user": "U15HZ01QX",
+        "ts": "1556726221.003400"
+    },
+    {
+        "client_msg_id": "c9bd9f38-e6b0-4b22-96f7-b1eb4da70d08",
+        "type": "message",
+        "text": "Man I love money",
+        "user": "U15J5H60P",
+        "ts": "1556726456.003600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556726461.003700",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=AAPL&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=AAPL|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=AAPL|Finviz> | <http:\/\/stocktwits.com\/symbol\/AAPL|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556726459,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "214.89",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+14.22 (+7.09%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "33,591,282",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "26,940,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.8\/5 (42 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "213.06 (-0.85%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31281,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=AAPL",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5494b7e2-40eb-47ee-b00d-18b42fdcda3a",
+        "type": "message",
+        "text": "Seeing an increase in my account is heartwarming.",
+        "user": "U15J5H60P",
+        "ts": "1556726488.004200",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1556726526.000000"
+        }
+    },
+    {
+        "client_msg_id": "17d60bc4-8c14-4aed-ae99-a9c6917cea4e",
+        "type": "message",
+        "text": "Making up for ITOT bullshit Joe coerced me into",
+        "user": "U15J5H60P",
+        "ts": "1556726498.004500"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556726508.004600",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "ITOT - iShares Core S&amp;P Total U.S. Stock Market ETF",
+                "title": "ITOT - iShares Core S&amp;P Total U.S. Stock Market ETF",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=ITOT&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=ITOT|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=ITOT|Finviz> | <http:\/\/stocktwits.com\/symbol\/ITOT|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556726478,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "67.07",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.17 (+0.25%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "520,135",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "2,030,000",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "18272",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "18272",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "18272",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "18272",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=ITOT&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 28086,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=ITOT",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "10aa21d5-3f54-47be-93a5-7b12f38156de",
+        "type": "message",
+        "text": "What a rip",
+        "user": "U15J5H60P",
+        "ts": "1556726513.004800"
+    },
+    {
+        "client_msg_id": "0fbb0ae4-ec5a-49ac-a4b7-e41a9c8607d6",
+        "type": "message",
+        "text": "itot is up",
+        "user": "U15HRTAHL",
+        "ts": "1556726540.005100"
+    },
+    {
+        "client_msg_id": "8dc11e91-f964-4c63-bda0-d2c313268529",
+        "type": "message",
+        "text": "what are you complaining about",
+        "user": "U15HRTAHL",
+        "ts": "1556726544.005300"
+    },
+    {
+        "client_msg_id": "84e0101f-4096-405c-9c18-0c8847ca2817",
+        "type": "message",
+        "text": "Not as much as abble",
+        "user": "U15J5H60P",
+        "ts": "1556726548.005500"
+    },
+    {
+        "client_msg_id": "4946f480-bacc-43e4-bb9a-06db5af20cfd",
+        "type": "message",
+        "text": "0.25%???",
+        "user": "U15J5H60P",
+        "ts": "1556726562.005800"
+    },
+    {
+        "client_msg_id": "d68a0e46-4fa4-47c5-861b-0b7e7f19c786",
+        "type": "message",
+        "text": "Doesn't make up for my commission",
+        "user": "U15J5H60P",
+        "ts": "1556726567.006100"
+    },
+    {
+        "client_msg_id": "0ff94c17-011b-4475-a39a-1fa3797b4199",
+        "type": "message",
+        "text": "apple is 1 stock",
+        "user": "U15HRTAHL",
+        "ts": "1556726568.006300"
+    },
+    {
+        "client_msg_id": "653cd7a3-5f00-4373-8d8d-61cdc8f0f9dd",
+        "type": "message",
+        "text": "what do you expect",
+        "user": "U15HRTAHL",
+        "ts": "1556726573.006500"
+    },
+    {
+        "client_msg_id": "7a58fb97-2b49-4296-ae9d-d92dccdb04de",
+        "type": "message",
+        "text": "Won't get my commission back for 6 years at this rate",
+        "user": "U15J5H60P",
+        "ts": "1556726576.006800"
+    },
+    {
+        "client_msg_id": "2d8259e9-4c71-419c-83f0-96850912cc46",
+        "type": "message",
+        "text": "you can’t eat your cake and have it too",
+        "user": "U15HRTAHL",
+        "ts": "1556726580.007000"
+    },
+    {
+        "client_msg_id": "e870df9d-36fc-4027-92d7-047ef5248690",
+        "type": "message",
+        "text": "I'm J trollin",
+        "user": "U15J5H60P",
+        "ts": "1556726581.007100"
+    },
+    {
+        "client_msg_id": "72d25830-ae11-4d60-94f6-d5042197fa1b",
+        "type": "message",
+        "text": "BET",
+        "user": "U15J5H60P",
+        "ts": "1556726584.007300"
+    },
+    {
+        "client_msg_id": "384c385d-b3f4-43d6-9735-82d9e6cc23ff",
+        "type": "message",
+        "text": "UNREAL",
+        "user": "U15J5H60P",
+        "ts": "1556726604.007500"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJBHPSMFS",
+                "created": 1556726602,
+                "timestamp": 1556726602,
+                "name": "image.png",
+                "title": "Pasted image at 2019-05-01, 11:03 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 14307,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJBHPSMFS\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJBHPSMFS\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 12,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 16,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 24,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 27,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 32,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJBHPSMFS-1f2dd5bd12\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 35,
+                "image_exif_rotation": 1,
+                "original_w": 1892,
+                "original_h": 64,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FJBHPSMFS\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FJBHPSMFS-9f4636e5dd",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1556726604.007600",
+        "client_msg_id": "b75dcec0-3fd0-4195-a9e3-e7db37019f27"
+    },
+    {
+        "client_msg_id": "1359d1b1-b701-47a7-b295-897161c7c988",
+        "type": "message",
+        "text": "U O ME $0.85!",
+        "user": "U15J5H60P",
+        "ts": "1556726618.008200"
+    },
+    {
+        "client_msg_id": "b5716d92-b356-410b-a835-a75f247b2e84",
+        "type": "message",
+        "text": "venmo won’t let me send you that low of an amount",
+        "user": "U15HRTAHL",
+        "ts": "1556726643.008500"
+    },
+    {
+        "client_msg_id": "bbc857ba-ea41-4998-9859-55ea70ea47f3",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1556726647.008800"
+    },
+    {
+        "type": "message",
+        "text": "Worst investment decision ever",
+        "files": [
+            {
+                "id": "FJB1JC22G",
+                "created": 1556726655,
+                "timestamp": 1556726655,
+                "name": "image.png",
+                "title": "Pasted image at 2019-05-01, 11:04 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 16680,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJB1JC22G\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJB1JC22G\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 13,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 18,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 27,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 30,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 35,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJB1JC22G-90f13e7601\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 38,
+                "image_exif_rotation": 1,
+                "original_w": 1898,
+                "original_h": 70,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FJB1JC22G\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FJB1JC22G-9406539295",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1556726658.008900",
+        "client_msg_id": "e7c77f26-294d-47a4-8d92-8c102add2cd0"
+    },
+    {
+        "client_msg_id": "01123b06-d423-45ab-a130-0a6954cf61b7",
+        "type": "message",
+        "text": "Fuckin' WSB",
+        "user": "U15J5H60P",
+        "ts": "1556726674.009500"
+    },
+    {
+        "client_msg_id": "21265e0d-934a-4d67-a813-b00a447d1aed",
+        "type": "message",
+        "text": "yeah but did you buy ttwo at an all time high and lose big tho?",
+        "user": "U15HRTAHL",
+        "ts": "1556726678.009600",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1556726682.000000"
+        }
+    },
+    {
+        "client_msg_id": "f00daeb5-60ce-47d7-afeb-09417093e43e",
+        "type": "message",
+        "text": "I did not thankfully.",
+        "user": "U15J5H60P",
+        "ts": "1556726685.009900"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1556726694.010200",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "client_msg_id": "0209cd8c-59d4-40c9-bc06-24572effd0e5",
+        "type": "message",
+        "text": "Whoever did that is a complete and utter idiot",
+        "user": "U15J5H60P",
+        "ts": "1556726695.010400"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556726706.010500",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "TTWO - Take-Two Interactive Software, Inc.",
+                "title": "TTWO - Take-Two Interactive Software, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=TTWO&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=TTWO|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=TTWO|Finviz> | <http:\/\/stocktwits.com\/symbol\/TTWO|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556726693,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "99.66",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+2.83 (+2.92%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "1,361,015",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "2,860,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.2\/5 (12 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "134.12 (+34.58%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "20847",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=TTWO&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 34581,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=TTWO",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adf61195-583c-4c11-93b0-da4a307ab2ac",
+        "type": "message",
+        "text": "It's having a good day tho",
+        "user": "U15J5H60P",
+        "ts": "1556726716.010700"
+    },
+    {
+        "client_msg_id": "7d789f59-4490-43c1-8a24-ea8502c76240",
+        "type": "message",
+        "text": "So that's nice",
+        "user": "U15J5H60P",
+        "ts": "1556726718.010900"
+    }
+]

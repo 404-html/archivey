@@ -1,0 +1,516 @@
+[
+    {
+        "type": "message",
+        "text": "Anything about the one time pad?",
+        "user": "U15HZ01QX",
+        "ts": "1477448468.000002"
+    },
+    {
+        "type": "message",
+        "text": "I want to say yea but i dont remember what it was",
+        "user": "U15HY5TG8",
+        "ts": "1477448541.000003"
+    },
+    {
+        "type": "message",
+        "text": "File permissions? I have it in my exam study notes",
+        "user": "U15HZ01QX",
+        "ts": "1477448608.000004"
+    },
+    {
+        "type": "message",
+        "text": "I can't remember anything about file permissions",
+        "user": "U15HRTAHL",
+        "ts": "1477448902.000005"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> hbu?",
+        "user": "U15HRTAHL",
+        "ts": "1477448908.000006"
+    },
+    {
+        "type": "message",
+        "text": "I wonder if he's gonna change up the vocab questions at least",
+        "user": "U15HZ01QX",
+        "ts": "1477448941.000007"
+    },
+    {
+        "type": "message",
+        "text": "I was listening in on capstone",
+        "user": "U15HRTAHL",
+        "ts": "1477449017.000008"
+    },
+    {
+        "type": "message",
+        "text": "there's some guys in there that are in security",
+        "user": "U15HRTAHL",
+        "ts": "1477449025.000009"
+    },
+    {
+        "type": "message",
+        "text": "A guy took it previously",
+        "user": "U15HRTAHL",
+        "ts": "1477449032.000010"
+    },
+    {
+        "type": "message",
+        "text": "and told his teamates what to expect",
+        "user": "U15HRTAHL",
+        "ts": "1477449041.000011"
+    },
+    {
+        "type": "message",
+        "text": "and during class he's like \"Wow he didn't change a thing\"",
+        "user": "U15HRTAHL",
+        "ts": "1477449054.000012"
+    },
+    {
+        "type": "message",
+        "text": "But I wouldn't bank on it",
+        "user": "U15HRTAHL",
+        "ts": "1477449070.000013"
+    },
+    {
+        "type": "message",
+        "text": "Well that's simple enough",
+        "user": "U15HZ01QX",
+        "ts": "1477449070.000014"
+    },
+    {
+        "type": "message",
+        "text": "I don't know if I can learn the book in 6 hours so I'm just gonna try and hit the important stuff",
+        "user": "U15HZ01QX",
+        "ts": "1477449100.000015"
+    },
+    {
+        "type": "message",
+        "text": "focus on the things I told you",
+        "user": "U15HRTAHL",
+        "ts": "1477449180.000016"
+    },
+    {
+        "type": "message",
+        "text": "that Least Common Mechanism one threw me off",
+        "user": "U15HRTAHL",
+        "ts": "1477449193.000017"
+    },
+    {
+        "type": "message",
+        "text": "I dont remember file stuff",
+        "user": "U15HY5TG8",
+        "ts": "1477449254.000018"
+    },
+    {
+        "type": "message",
+        "text": "I'm good on LCM and open design",
+        "user": "U15HZ01QX",
+        "ts": "1477449273.000019"
+    },
+    {
+        "type": "message",
+        "text": "Gonna start CIA and AAA",
+        "user": "U15HZ01QX",
+        "ts": "1477449290.000020"
+    },
+    {
+        "type": "message",
+        "text": "What are the answers on those?",
+        "user": "U15HRTAHL",
+        "ts": "1477449361.000021"
+    },
+    {
+        "type": "message",
+        "text": "LCM and open design",
+        "user": "U15HRTAHL",
+        "ts": "1477449369.000022"
+    },
+    {
+        "type": "message",
+        "text": "Open design is about allowing the architecture of a system to be visible so everyone can add feedback and point out security flaws but just keep the keys secret",
+        "user": "U15HZ01QX",
+        "ts": "1477449576.000023"
+    },
+    {
+        "type": "message",
+        "text": "LCM is when using shared machines just set them up so even if two people use the same files or applications they are accessing them through different channels",
+        "user": "U15HZ01QX",
+        "ts": "1477449619.000024"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HRTAHL",
+        "ts": "1477449628.000025"
+    },
+    {
+        "type": "message",
+        "text": "I got the open design one",
+        "user": "U15HRTAHL",
+        "ts": "1477449633.000026"
+    },
+    {
+        "type": "message",
+        "text": "Do you remember what the AAA question asked for? ",
+        "user": "U15HZ01QX",
+        "ts": "1477449698.000027"
+    },
+    {
+        "type": "message",
+        "text": "Just a general overview?",
+        "user": "U15HZ01QX",
+        "ts": "1477449705.000028"
+    },
+    {
+        "type": "message",
+        "text": "You had to list them out",
+        "user": "U15HRTAHL",
+        "ts": "1477449732.000029"
+    },
+    {
+        "type": "message",
+        "text": "just 4",
+        "user": "U15HRTAHL",
+        "ts": "1477449737.000030"
+    },
+    {
+        "type": "message",
+        "text": "Confidientiality, Integrity, Availability, Assurance, Authenticity, Anonymity",
+        "user": "U15HRTAHL",
+        "ts": "1477449763.000031"
+    },
+    {
+        "type": "message",
+        "text": "just pick 4 and write them out",
+        "user": "U15HRTAHL",
+        "ts": "1477449769.000032"
+    },
+    {
+        "type": "message",
+        "text": "which also reminds me",
+        "user": "U15HRTAHL",
+        "ts": "1477449774.000033"
+    },
+    {
+        "type": "message",
+        "text": "You have to pick 2",
+        "user": "U15HRTAHL",
+        "ts": "1477449781.000034"
+    },
+    {
+        "type": "message",
+        "text": "and then write about how to acheive those",
+        "user": "U15HRTAHL",
+        "ts": "1477449789.000035"
+    },
+    {
+        "type": "message",
+        "text": "So for integrity you use checksums",
+        "user": "U15HRTAHL",
+        "ts": "1477449797.000036"
+    },
+    {
+        "type": "message",
+        "text": "Confidentiality you use encryption",
+        "user": "U15HRTAHL",
+        "ts": "1477449807.000037"
+    },
+    {
+        "type": "message",
+        "text": "What?! I didnt do that",
+        "user": "U15HY5TG8",
+        "ts": "1477449814.000038"
+    },
+    {
+        "type": "message",
+        "text": "Fucking hell",
+        "user": "U15HY5TG8",
+        "ts": "1477449819.000039"
+    },
+    {
+        "type": "message",
+        "text": "It was a separate question",
+        "user": "U15HRTAHL",
+        "ts": "1477449823.000040"
+    },
+    {
+        "type": "message",
+        "text": "What didn't you do?",
+        "user": "U15HRTAHL",
+        "ts": "1477449829.000041"
+    },
+    {
+        "type": "message",
+        "text": "Explain 2",
+        "user": "U15HY5TG8",
+        "ts": "1477449840.000042"
+    },
+    {
+        "type": "message",
+        "text": "You probably did",
+        "user": "U15HRTAHL",
+        "ts": "1477449846.000043"
+    },
+    {
+        "type": "message",
+        "text": "and just forgot",
+        "user": "U15HRTAHL",
+        "ts": "1477449848.000044",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1477449851.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "it was a separate question",
+        "user": "U15HRTAHL",
+        "ts": "1477449856.000046"
+    },
+    {
+        "type": "message",
+        "text": "on the first page",
+        "user": "U15HRTAHL",
+        "ts": "1477449864.000047"
+    },
+    {
+        "type": "message",
+        "text": "Ooo lower down. Gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1477449871.000048"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1477449884.000049"
+    },
+    {
+        "type": "message",
+        "text": "Oh that's not too bad",
+        "user": "U15HZ01QX",
+        "ts": "1477449895.000050"
+    },
+    {
+        "type": "message",
+        "text": "Sweeet",
+        "user": "U15HY5TG8",
+        "ts": "1477449895.000051"
+    },
+    {
+        "type": "message",
+        "text": "Exam only 28%",
+        "user": "U15HZ01QX",
+        "ts": "1477450667.000052"
+    },
+    {
+        "type": "message",
+        "text": "Hmmmmm",
+        "user": "U15HZ01QX",
+        "ts": "1477450670.000053"
+    },
+    {
+        "type": "message",
+        "text": "Woooo",
+        "user": "U15HY5TG8",
+        "ts": "1477450754.000054"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: I can't find anything good about subbytes ",
+        "user": "U15HZ01QX",
+        "ts": "1477452401.000055"
+    },
+    {
+        "type": "message",
+        "text": "Its that table",
+        "user": "U15HRTAHL",
+        "ts": "1477452483.000056"
+    },
+    {
+        "type": "message",
+        "text": "he'll give you something like",
+        "user": "U15HRTAHL",
+        "ts": "1477452489.000057"
+    },
+    {
+        "type": "message",
+        "text": "9a",
+        "user": "U15HRTAHL",
+        "ts": "1477452490.000058",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1477452493.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "and you have to find the substitution",
+        "user": "U15HRTAHL",
+        "ts": "1477452504.000060"
+    },
+    {
+        "type": "message",
+        "text": "so go to row 9 and column a",
+        "user": "U15HRTAHL",
+        "ts": "1477452516.000061"
+    },
+    {
+        "type": "message",
+        "text": "thats the substituion which is b8",
+        "user": "U15HRTAHL",
+        "ts": "1477452527.000062"
+    },
+    {
+        "type": "message",
+        "text": "this is the question\n```\nfind S(9a) and S(46)\nfind S(9a XOR 46)\nfind S(9a) XOR S(46)\nIs it always true that S(9a XOR 46) will always equal S(9a) XOR S(46)?\n```",
+        "user": "U15HRTAHL",
+        "ts": "1477452634.000063"
+    },
+    {
+        "type": "message",
+        "text": "But in our case they did not equal",
+        "user": "U15HRTAHL",
+        "ts": "1477452647.000064"
+    },
+    {
+        "type": "message",
+        "text": "at least I couldn't get them to equal",
+        "user": "U15HRTAHL",
+        "ts": "1477452653.000065"
+    },
+    {
+        "type": "message",
+        "text": "How do you xor them",
+        "user": "U15HZ01QX",
+        "ts": "1477453504.000002"
+    },
+    {
+        "type": "message",
+        "text": "I was looking at 8.9 in the book which was the inverse and couldn't get it",
+        "user": "U15HZ01QX",
+        "ts": "1477453530.000003"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2U8XJ13P",
+                "created": 1477453557,
+                "timestamp": 1477453557,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 1798342,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2U8XJ13P\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2U8XJ13P\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2U8XJ13P-2c1cd08740\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3264,
+                "original_h": 2448,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F2U8XJ13P\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F2U8XJ13P-cc68dffc79",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1477453563.000004"
+    },
+    {
+        "type": "message",
+        "text": "9a is the hexidecimal format. Convert that to binary",
+        "user": "U15HY5TG8",
+        "ts": "1477453638.000005"
+    },
+    {
+        "type": "message",
+        "text": "1001 1010",
+        "user": "U15HZ01QX",
+        "ts": "1477453872.000006"
+    },
+    {
+        "type": "message",
+        "text": "I think",
+        "user": "U15HZ01QX",
+        "ts": "1477453875.000007"
+    },
+    {
+        "type": "message",
+        "text": "Ohhhh",
+        "user": "U15HZ01QX",
+        "ts": "1477453886.000008"
+    },
+    {
+        "type": "message",
+        "text": "I get it",
+        "user": "U15HZ01QX",
+        "ts": "1477453891.000009"
+    },
+    {
+        "type": "message",
+        "text": "Ok so I got S(9a) = b8 and S(46) = 5a \n\nThen I have S(9a XOR b8) = DC \n\nAnd then XORing them after finding the S number gave me E2",
+        "user": "U15HZ01QX",
+        "ts": "1477454761.000010"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: ",
+        "user": "U15HZ01QX",
+        "ts": "1477454765.000011"
+    },
+    {
+        "type": "message",
+        "text": "Correct",
+        "user": "U15HY5TG8",
+        "ts": "1477454833.000012"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: was the shift problem the same one from the book?",
+        "user": "U15HZ01QX",
+        "ts": "1477455990.000013"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HRTAHL",
+        "ts": "1477456455.000014"
+    },
+    {
+        "type": "message",
+        "text": "What was it",
+        "user": "U15HZ01QX",
+        "ts": "1477456472.000015"
+    }
+]

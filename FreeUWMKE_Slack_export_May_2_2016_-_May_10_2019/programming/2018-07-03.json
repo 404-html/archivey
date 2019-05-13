@@ -1,0 +1,97 @@
+[
+    {
+        "client_msg_id": "918833b4-0d76-4159-a977-662d0deb1bb9",
+        "type": "message",
+        "text": "ughhh",
+        "user": "U15HY5TG8",
+        "ts": "1530627191.000536"
+    },
+    {
+        "client_msg_id": "48c67497-dad2-433c-9c26-e3728933e08b",
+        "type": "message",
+        "text": "so we have a client that wants to connect to an api of another company right? but instead of us just being able to put it in the code to connect to the other company, the client wanted to create a middleman API for monitoring purposes. They just removed static responses from their API and so it's now considered \"live\", and now they're running back to me wondering why shit won't load",
+        "user": "U15HY5TG8",
+        "ts": "1530627319.000510",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1530627325.000000"
+        }
+    },
+    {
+        "client_msg_id": "2224605f-26fe-42e9-b2ed-0c58f78656cf",
+        "type": "message",
+        "text": "Why won't it load?",
+        "user": "U15J5H60P",
+        "ts": "1530627340.000225"
+    },
+    {
+        "client_msg_id": "bf5cfd1a-4243-4ad0-9b63-868e896eff68",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1530627356.000067"
+    },
+    {
+        "client_msg_id": "4eb08b5b-9ee4-4f11-a2c7-8323827012c0",
+        "type": "message",
+        "text": "Your middleware is dependent on their API",
+        "user": "U15J5H60P",
+        "ts": "1530627363.000487"
+    },
+    {
+        "client_msg_id": "6975a04e-5288-418f-885e-c1ef26e2a52a",
+        "type": "message",
+        "text": "So whenever they make changes",
+        "user": "U15J5H60P",
+        "ts": "1530627369.000253"
+    },
+    {
+        "client_msg_id": "cd4849ca-d1f1-4cbb-96a2-34a22cd201f7",
+        "type": "message",
+        "text": "Because their middleman API is shit or the company they are connecting to is shit",
+        "user": "U15HY5TG8",
+        "ts": "1530627369.000353"
+    },
+    {
+        "client_msg_id": "999d855b-f2a2-4326-b94b-d5af5d57c213",
+        "type": "message",
+        "text": "Yours breaks",
+        "user": "U15J5H60P",
+        "ts": "1530627371.000039"
+    },
+    {
+        "client_msg_id": "11a435d9-dc23-4e7f-801e-76d93da16a98",
+        "type": "message",
+        "text": "Yup, exactly",
+        "user": "U15HY5TG8",
+        "ts": "1530627381.000049"
+    },
+    {
+        "client_msg_id": "8035ae76-3083-4ba4-b3b4-85025fced6fa",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1530627384.000564"
+    },
+    {
+        "client_msg_id": "f5ed0f36-23ba-448f-8169-df3c4127f261",
+        "type": "message",
+        "text": "Sucks",
+        "user": "U15J5H60P",
+        "ts": "1530627391.000254"
+    },
+    {
+        "client_msg_id": "89291407-a96d-4456-8c56-4c315acb64a7",
+        "type": "message",
+        "text": "So our code calls their API, and their API calls the other company's API. And now they're wondering why it's broken lol",
+        "user": "U15HY5TG8",
+        "ts": "1530627410.000452"
+    },
+    {
+        "client_msg_id": "4a86463f-18b6-48c1-85ea-4ddc5db7bacd",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1530627579.000560"
+    }
+]

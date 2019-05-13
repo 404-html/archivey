@@ -1,0 +1,203 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/tuvtbyqtsgez.png>",
+        "user": "U15HRTAHL",
+        "ts": "1502213518.561534",
+        "attachments": [
+            {
+                "fallback": "98x88px image",
+                "image_url": "https:\/\/i.redd.it\/tuvtbyqtsgez.png",
+                "image_width": 98,
+                "image_height": 88,
+                "image_bytes": 3094,
+                "from_url": "https:\/\/i.redd.it\/tuvtbyqtsgez.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Das sum gud syntax",
+        "user": "U15HY5TG8",
+        "ts": "1502213573.594296"
+    },
+    {
+        "type": "message",
+        "text": "Can confirm this works lolol",
+        "user": "U15HY5TG8",
+        "ts": "1502213635.631023"
+    },
+    {
+        "type": "message",
+        "text": "It's because + is a string concatenator whereas - is not",
+        "user": "U15J5H60P",
+        "ts": "1502213737.691352"
+    },
+    {
+        "type": "message",
+        "text": "Thats the obvious answer but i think the question is why does the bottom one work?",
+        "user": "U15HY5TG8",
+        "ts": "1502213781.716970"
+    },
+    {
+        "type": "message",
+        "text": "The bottom one is interesting because its using its int value and not the charCode value which I thought it would use",
+        "user": "U15HRTAHL",
+        "ts": "1502213806.731208"
+    },
+    {
+        "type": "message",
+        "text": "Exactly",
+        "user": "U15HY5TG8",
+        "ts": "1502213817.737491"
+    },
+    {
+        "type": "message",
+        "text": "I'm glad it casts to an int",
+        "user": "U15J5H60P",
+        "ts": "1502213841.751298"
+    },
+    {
+        "type": "message",
+        "text": "Maybe single quotes will get you the char value?",
+        "user": "U15J5H60P",
+        "ts": "1502213866.766654"
+    },
+    {
+        "type": "message",
+        "text": "Nope lol",
+        "user": "U15HY5TG8",
+        "ts": "1502213904.788788"
+    },
+    {
+        "type": "message",
+        "text": "It still doesnt make sense",
+        "user": "U15HY5TG8",
+        "ts": "1502213912.793615"
+    },
+    {
+        "type": "message",
+        "text": "\" and ' are the same in JS",
+        "user": "U15HRTAHL",
+        "ts": "1502213916.795808"
+    },
+    {
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1502213970.827549"
+    },
+    {
+        "type": "message",
+        "text": "Also did you hear about the guy who got fired from google for writing a report saying that special programs for minorities and women are ruining the company?",
+        "user": "U15HRTAHL",
+        "ts": "1502214091.899224"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1502214104.907188"
+    },
+    {
+        "type": "message",
+        "text": "JAVASCRIPT ISNT A REAL LANGUAGE - Tian",
+        "user": "U15HY5TG8",
+        "ts": "1502214105.907713"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, but fuck white males",
+        "user": "U15J5H60P",
+        "ts": "1502214128.921305"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1502214137.926648"
+    },
+    {
+        "type": "message",
+        "text": "I think his firing over that was the whole point of his article",
+        "user": "U15HRTAHL",
+        "ts": "1502214169.945584"
+    },
+    {
+        "type": "message",
+        "text": "He basically said we shouldn't pass on good talent because we need to meet a quota of women\/minorities",
+        "user": "U15HRTAHL",
+        "ts": "1502214198.963593"
+    },
+    {
+        "type": "message",
+        "text": "and the special groups for race\/ethnicity are prejudice",
+        "user": "U15HRTAHL",
+        "ts": "1502214213.972660"
+    },
+    {
+        "type": "message",
+        "text": "Makes sense to me",
+        "user": "U15HY5TG8",
+        "ts": "1502214215.974034"
+    },
+    {
+        "type": "message",
+        "text": "its really good",
+        "user": "U15HRTAHL",
+        "ts": "1502214215.974298"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/motherboard.vice.com\/en_us\/article\/evzjww\/here-are-the-citations-for-the-anti-diversity-manifesto-circulating-at-google>",
+        "user": "U15HRTAHL",
+        "ts": "1502214245.992398",
+        "attachments": [
+            {
+                "title": "Here Are the Citations for the Anti-Diversity Manifesto Circulating at Google - Motherboard",
+                "title_link": "https:\/\/motherboard.vice.com\/en_us\/article\/evzjww\/here-are-the-citations-for-the-anti-diversity-manifesto-circulating-at-google",
+                "text": "A complete version of a Google engineer’s manifesto sheds new light on its controversial contents.",
+                "fallback": "Here Are the Citations for the Anti-Diversity Manifesto Circulating at Google - Motherboard",
+                "from_url": "https:\/\/motherboard.vice.com\/en_us\/article\/evzjww\/here-are-the-citations-for-the-anti-diversity-manifesto-circulating-at-google",
+                "service_icon": "https:\/\/vice-web-statics-cdn.vice.com\/favicons\/motherboard\/apple-touch-icon-57x57.png",
+                "service_name": "motherboard.vice.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I dont feel like reading the pdf but interesting",
+        "user": "U15HY5TG8",
+        "ts": "1502214564.184603"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/onmilwaukee.com\/buzz\/articles\/marcus-hutchins-trial-milwaukee.html>",
+        "user": "U15HRTAHL",
+        "ts": "1502247876.101619",
+        "attachments": [
+            {
+                "service_name": "OnMilwaukee.com",
+                "title": "Who is Marcus Hutchins, and why is he being indicted in Milwaukee?",
+                "title_link": "https:\/\/onmilwaukee.com\/buzz\/articles\/marcus-hutchins-trial-milwaukee.html",
+                "text": "British computer whiz and cybersecurity researcher Marcus Hutchins was hailed as a hero in June for preventing the spread of the infamous WannaCry malware. Last Wednesday, Hutchins was treated more like a villain.",
+                "fallback": "OnMilwaukee.com: Who is Marcus Hutchins, and why is he being indicted in Milwaukee?",
+                "image_url": "https:\/\/onmilwaukee.com\/images\/articles\/ma\/marcus-hutchins-trial-milwaukee\/marcus-hutchins-trial-milwaukee_fullsize_story1.jpg",
+                "from_url": "https:\/\/onmilwaukee.com\/buzz\/articles\/marcus-hutchins-trial-milwaukee.html",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 46048,
+                "service_icon": "https:\/\/onmilwaukee.com\/assets\/images\/favicons\/apple-touch-icon-57x57.png?t=20150902",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thats pretty awesome haha",
+        "user": "U15HY5TG8",
+        "ts": "1502248323.180377"
+    }
+]

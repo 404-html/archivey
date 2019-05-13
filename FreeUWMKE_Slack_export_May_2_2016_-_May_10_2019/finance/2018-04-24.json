@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "638C4BB9-1C8F-4786-AF71-F397F9B40D58",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1524591503.000109",
+        "thread_ts": "1524591503.000109",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1524591570.000374",
+        "reply_users": [
+            "U15HY5TG8"
+        ],
+        "replies": [
+            {
+                "user": "U15HY5TG8",
+                "ts": "1524591570.000374"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1524591570.000050"
+    },
+    {
+        "client_msg_id": "500E5773-E951-4735-A6E9-59024F30985D",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1524591570.000374",
+        "thread_ts": "1524591503.000109",
+        "parent_user_id": "U15HY5TG8"
+    }
+]

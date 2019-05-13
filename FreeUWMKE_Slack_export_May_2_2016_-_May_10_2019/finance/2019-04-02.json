@@ -1,0 +1,145 @@
+[
+    {
+        "client_msg_id": "c2a96549-5380-4265-a8a9-6aa7351bb4f6",
+        "type": "message",
+        "text": "blue apron just jumped 11% in a matter of 15 minutes",
+        "user": "U15HRTAHL",
+        "ts": "1554237105.000400"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15HRTAHL> fetched a quote with: `\/quote`",
+        "ts": "1554237110.000500",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "APRN - Blue Apron Holdings, Inc.",
+                "title": "APRN - Blue Apron Holdings, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=aprn&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=aprn|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=aprn|Finviz> | <http:\/\/stocktwits.com\/symbol\/aprn|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554237105,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "0.97",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.0166 (-1.68%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Extended Hours",
+                        "value": "+0.11 (+11.47%)",
+                        "short": false
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "2,217,315",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "3,920,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.4\/5 (5 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "3.08 (+217.63%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=aprn&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 28485,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=aprn",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48d443c3-29db-472d-86bc-8a3ce0ecfc74",
+        "type": "message",
+        "text": "Why?",
+        "user": "U15J5H60P",
+        "ts": "1554237123.000700"
+    },
+    {
+        "client_msg_id": "B3C7C280-27EE-4473-917C-1F48B962EBE2",
+        "type": "message",
+        "text": "President quitting",
+        "user": "U15HZ01QX",
+        "ts": "1554237162.001000"
+    },
+    {
+        "client_msg_id": "0a3a8595-9b10-4826-967a-f33e9be85a64",
+        "type": "message",
+        "text": "you sure?",
+        "user": "U15HRTAHL",
+        "ts": "1554237167.001200"
+    },
+    {
+        "client_msg_id": "C75C3103-4846-43F0-B8E3-9013BA4081DC",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HZ01QX",
+        "ts": "1554237171.001400"
+    },
+    {
+        "client_msg_id": "babca02b-6ec4-4925-a10f-0e6937475653",
+        "type": "message",
+        "text": "<https:\/\/www.streetinsider.com\/Corporate+News\/Blue+Apron+%28APRN%29+President+and+CEO+Brad+Dickerson+to+Resign%3B+Linda+Findley+Kozlowski+Named+President+and+CEO\/15330595.html>",
+        "user": "U15J5H60P",
+        "ts": "1554237198.001600"
+    }
+]

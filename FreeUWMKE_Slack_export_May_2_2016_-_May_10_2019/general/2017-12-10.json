@@ -1,0 +1,37 @@
+[
+    {
+        "type": "message",
+        "text": "Potto sounds like it could be fun",
+        "user": "U15J5H60P",
+        "ts": "1512918798.000053"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/OfficialEricTurner\/videos\/1681274751924069\/?hc_ref=ARS1VyBEMhANtGN1mEYQJroNbnqkYnoeCrnq8fzpIG-EpETVe5CrXDMmIwUQySripms>",
+        "user": "U15HRTAHL",
+        "ts": "1512926527.000065",
+        "attachments": [
+            {
+                "service_name": "Facebook",
+                "service_url": "https:\/\/www.facebook.com",
+                "author_name": "Eric Turner",
+                "author_link": "https:\/\/www.facebook.com\/OfficialEricTurner\/",
+                "fallback": "Facebook Video: ",
+                "from_url": "https:\/\/www.facebook.com\/OfficialEricTurner\/videos\/1681274751924069\/?hc_ref=ARS1VyBEMhANtGN1mEYQJroNbnqkYnoeCrnq8fzpIG-EpETVe5CrXDMmIwUQySripms",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "you guys gotta watch that",
+        "user": "U15HRTAHL",
+        "ts": "1512926533.000067"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1512926838.000085"
+    }
+]

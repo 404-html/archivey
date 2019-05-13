@@ -1,0 +1,638 @@
+[
+    {
+        "type": "message",
+        "text": "Happy birthday <@U15J5H60P> ",
+        "user": "U15HZ01QX",
+        "ts": "1495452120.126833"
+    },
+    {
+        "type": "message",
+        "text": "Thanks! ",
+        "user": "U15J5H60P",
+        "ts": "1495453377.338626"
+    },
+    {
+        "type": "message",
+        "text": "Or Friday after the Brewer game?",
+        "user": "U15J5H60P",
+        "ts": "1495453389.340570"
+    },
+    {
+        "type": "message",
+        "text": "Happy birthday bro!",
+        "user": "U15HY5TG8",
+        "ts": "1495453423.346271"
+    },
+    {
+        "type": "message",
+        "text": "Thanks!",
+        "user": "U15J5H60P",
+        "ts": "1495453458.352141"
+    },
+    {
+        "type": "message",
+        "text": "Does anyone have opinions on Ronald Reagan High School?",
+        "user": "U15J5H60P",
+        "ts": "1495456868.000493"
+    },
+    {
+        "type": "message",
+        "text": " Probably better than king at this point",
+        "user": "U15HZ01QX",
+        "ts": "1495456966.021825"
+    },
+    {
+        "type": "message",
+        "text": "(y) Thanks",
+        "user": "U15J5H60P",
+        "ts": "1495457026.035143"
+    },
+    {
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "U15J5H60P",
+        "ts": "1495457030.035888"
+    },
+    {
+        "type": "message",
+        "text": "US bank pays shit",
+        "user": "U15HZ01QX",
+        "ts": "1495458517.394586"
+    },
+    {
+        "type": "message",
+        "text": "I feel like a lot of financial companies underpay",
+        "user": "U15J5H60P",
+        "ts": "1495459233.579325"
+    },
+    {
+        "type": "message",
+        "text": "Seems like that's all that exists here",
+        "user": "U15HZ01QX",
+        "ts": "1495459329.605084"
+    },
+    {
+        "type": "message",
+        "text": "On the Fortune list yeah...",
+        "user": "U15J5H60P",
+        "ts": "1495459373.617392"
+    },
+    {
+        "type": "message",
+        "text": "There's plenty of small companies to work for though...",
+        "user": "U15J5H60P",
+        "ts": "1495459413.628534"
+    },
+    {
+        "type": "message",
+        "text": "I just go with who has a nice building",
+        "user": "U15HZ01QX",
+        "ts": "1495459415.629170"
+    },
+    {
+        "type": "message",
+        "text": "Right, then it's just Well Fargo, Chase, US Bank, and NM off the top of my head",
+        "user": "U15J5H60P",
+        "ts": "1495459436.634718"
+    },
+    {
+        "type": "message",
+        "text": "Miller Coors has a pretty cool campus",
+        "user": "U15J5H60P",
+        "ts": "1495459445.637234"
+    },
+    {
+        "type": "message",
+        "text": "I enjoyed my interview there.",
+        "user": "U15J5H60P",
+        "ts": "1495459452.638881"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Y6uJHqu-Owk>",
+        "user": "U15HSHSS2",
+        "ts": "1495462803.641651",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Happy Birthday Andrew",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Y6uJHqu-Owk",
+                "author_name": "MONACK100",
+                "author_link": "https:\/\/www.youtube.com\/user\/MONACK100",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Y6uJHqu-Owk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Happy Birthday Andrew",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/Y6uJHqu-Owk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Y6uJHqu-Owk",
+                "service_icon": "https:\/\/fst.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Is there a way to do a global variable in c# that i just am blanking on?",
+        "user": "U15HY5TG8",
+        "ts": "1495463918.997875"
+    },
+    {
+        "type": "message",
+        "text": "lolol Thanks, Tommy!",
+        "user": "U15J5H60P",
+        "ts": "1495463933.002767"
+    },
+    {
+        "type": "message",
+        "text": "There's no such thing as global vars in C#",
+        "user": "U15J5H60P",
+        "ts": "1495463978.017252"
+    },
+    {
+        "type": "message",
+        "text": "You shouldn't use them anyways.",
+        "user": "U15J5H60P",
+        "ts": "1495463982.018501"
+    },
+    {
+        "type": "message",
+        "text": "What are you trying to accomplish?",
+        "user": "U15J5H60P",
+        "ts": "1495463990.021274"
+    },
+    {
+        "type": "message",
+        "text": "I got put on this text parsing project again that finds errors, and i basically will have multiple functions and classes that will add to a list of errors to be output at the end of a test, so i was hoping to just be able to add them at free will from inside each function",
+        "user": "U15HY5TG8",
+        "ts": "1495464379.148326"
+    },
+    {
+        "type": "message",
+        "text": "One of the interns let her visa lapse",
+        "user": "U15HZ01QX",
+        "ts": "1495465471.515820"
+    },
+    {
+        "type": "message",
+        "text": "Everyone is kinda bummed out about it",
+        "user": "U15HZ01QX",
+        "ts": "1495465478.518202"
+    },
+    {
+        "type": "message",
+        "text": "She got put on leave or something. They don't want trumps death squads to rappel down through the windows",
+        "user": "U15HZ01QX",
+        "ts": "1495465522.532571"
+    },
+    {
+        "type": "message",
+        "text": "Damn that sucks",
+        "user": "U15J5H60P",
+        "ts": "1495465734.602734"
+    },
+    {
+        "type": "message",
+        "text": "I feel for her I really do. But like with everything going on. If you had a work visa wouldn't you be checking it like everyday?",
+        "user": "U15HZ01QX",
+        "ts": "1495465825.632674"
+    },
+    {
+        "type": "message",
+        "text": "Right. I'd say there is some blame on her but it's still a tough situation.",
+        "user": "U15J5H60P",
+        "ts": "1495465852.641686"
+    },
+    {
+        "type": "message",
+        "text": "I agree. I don't think she's gonna get deported or anything but idk how she's gonna work",
+        "user": "U15HZ01QX",
+        "ts": "1495465918.662863"
+    },
+    {
+        "type": "message",
+        "text": "Amazon is hiring in Madison Andrew ",
+        "user": "U15HZ01QX",
+        "ts": "1495466111.725025"
+    },
+    {
+        "type": "message",
+        "text": "Good to know!",
+        "user": "U15J5H60P",
+        "ts": "1495466427.829052"
+    },
+    {
+        "type": "message",
+        "text": "I bought that zombie pack and haven't even played it ",
+        "user": "U15HZ01QX",
+        "ts": "1495466986.015349"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1495466988.015917"
+    },
+    {
+        "type": "message",
+        "text": "Smh",
+        "user": "U15HY5TG8",
+        "ts": "1495468017.352939"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1495468505.513970"
+    },
+    {
+        "type": "message",
+        "text": "~Finally did Euler Problem 51~\nConversation moved to <#C1B6JA124|programming>",
+        "user": "U15HSHSS2",
+        "ts": "1495477294.072558",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1495477383.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": " Damn it <https:\/\/www.youtube.com\/embed\/0cZ8-RgtrP0>",
+        "user": "U15HZ01QX",
+        "ts": "1495489706.281974"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F5FSG45MW",
+                "created": 1495490780,
+                "timestamp": 1495490780,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 1506771,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F5FSG45MW\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F5FSG45MW\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F5FSG45MW-790e644590\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 2448,
+                "original_h": 3264,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/F5FSG45MW\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F5FSG45MW-75a9a8896d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "upload_reply_to": "C622683C-4939-4309-94B4-42DE93AF4F8B",
+        "ts": "1495490780.498865"
+    },
+    {
+        "type": "message",
+        "text": "It cammee",
+        "user": "U15HSHSS2",
+        "ts": "1495490787.500110"
+    },
+    {
+        "type": "message",
+        "text": "You did it!",
+        "user": "U15HZ01QX",
+        "ts": "1495490810.504475"
+    },
+    {
+        "type": "message",
+        "text": "Nice!!",
+        "user": "U15J5H60P",
+        "ts": "1495491344.600311"
+    },
+    {
+        "type": "message",
+        "text": "Still have yet to get this thing working lol",
+        "user": "U15HSHSS2",
+        "ts": "1495495018.172520"
+    },
+    {
+        "type": "message",
+        "text": "What's the issue?",
+        "user": "U15J5H60P",
+        "ts": "1495495388.224136"
+    },
+    {
+        "type": "message",
+        "text": "My network just can't find it...",
+        "user": "U15HSHSS2",
+        "ts": "1495495415.227797"
+    },
+    {
+        "type": "message",
+        "text": "You plugged it into your router?",
+        "user": "U15J5H60P",
+        "ts": "1495495430.229824"
+    },
+    {
+        "type": "message",
+        "text": "It found it once, installed the software, restarted, then never found it again",
+        "user": "U15HSHSS2",
+        "ts": "1495495438.230884"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1495495441.231201"
+    },
+    {
+        "type": "message",
+        "text": "You can't 192.1.1:8283 or whatever it?",
+        "user": "U15J5H60P",
+        "ts": "1495495463.234347"
+    },
+    {
+        "type": "message",
+        "text": "If you can't, next step would be plugging it directly into your computer. ",
+        "user": "U15J5H60P",
+        "ts": "1495495487.237553"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I have it directly plugged into my computer through the ethernet port and it's not showing up...",
+        "user": "U15HSHSS2",
+        "ts": "1495495528.243192"
+    },
+    {
+        "type": "message",
+        "text": "Hmm :thinking_face:",
+        "user": "U15J5H60P",
+        "ts": "1495495536.244365"
+    },
+    {
+        "type": "message",
+        "text": "Did you unplug it while it was formatting the drives?",
+        "user": "U15J5H60P",
+        "ts": "1495496181.331003"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HSHSS2",
+        "ts": "1495496297.346278"
+    },
+    {
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1495496314.348494"
+    },
+    {
+        "type": "message",
+        "text": "Is there a way to reset it?",
+        "user": "U15J5H60P",
+        "ts": "1495496323.349653"
+    },
+    {
+        "type": "message",
+        "text": "hmm...",
+        "user": "U15HSHSS2",
+        "ts": "1495496629.387952"
+    },
+    {
+        "type": "message",
+        "text": "I think one of these hard drives is fucked",
+        "user": "U15HSHSS2",
+        "ts": "1495496639.389135"
+    },
+    {
+        "type": "message",
+        "text": "and that's whats screwing it up",
+        "user": "U15HSHSS2",
+        "ts": "1495496647.390135"
+    },
+    {
+        "type": "message",
+        "text": "That's annoying",
+        "user": "U15J5H60P",
+        "ts": "1495496650.390487"
+    },
+    {
+        "type": "message",
+        "text": "That's annoying",
+        "user": "U15J5H60P",
+        "ts": "1495496650.390489"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> when you hittin the bars?",
+        "user": "U15HY5TG8",
+        "ts": "1495497353.480184"
+    },
+    {
+        "type": "message",
+        "text": "I'm going to outsider at 7",
+        "user": "U15J5H60P",
+        "ts": "1495497366.481763"
+    },
+    {
+        "type": "message",
+        "text": "Just finishing up dinner now",
+        "user": "U15J5H60P",
+        "ts": "1495497373.482681"
+    },
+    {
+        "type": "message",
+        "text": "Damn i aint ready lol",
+        "user": "U15HY5TG8",
+        "ts": "1495497435.490510"
+    },
+    {
+        "type": "message",
+        "text": "And isnt it supposed to rain like...now?",
+        "user": "U15HY5TG8",
+        "ts": "1495497485.496772"
+    },
+    {
+        "type": "message",
+        "text": "Yes lol",
+        "user": "U15J5H60P",
+        "ts": "1495497560.506149"
+    },
+    {
+        "type": "message",
+        "text": "Welll fuck lol",
+        "user": "U15HY5TG8",
+        "ts": "1495497953.557845"
+    },
+    {
+        "type": "message",
+        "text": "Sack up",
+        "user": "U15HZ01QX",
+        "ts": "1495498061.570831"
+    },
+    {
+        "type": "message",
+        "text": "Im a bitch",
+        "user": "U15HY5TG8",
+        "ts": "1495498296.598896"
+    },
+    {
+        "type": "message",
+        "text": "We'll be sitting on the inside ",
+        "user": "U15J5H60P",
+        "ts": "1495498325.602062"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1495498328.602391"
+    },
+    {
+        "type": "message",
+        "text": "The outside is going to cleaned up",
+        "user": "U15J5H60P",
+        "ts": "1495498336.603518"
+    },
+    {
+        "type": "message",
+        "text": "Closed off*",
+        "user": "U15J5H60P",
+        "ts": "1495498346.604656"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha haha",
+        "user": "U15HY5TG8",
+        "ts": "1495498360.606193"
+    },
+    {
+        "type": "message",
+        "text": "Are you guys dressed up?",
+        "user": "U15HY5TG8",
+        "ts": "1495499644.751327"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1495499653.752298"
+    },
+    {
+        "type": "message",
+        "text": "Sooo like jeans and regular shirt?",
+        "user": "U15HY5TG8",
+        "ts": "1495499690.756468"
+    },
+    {
+        "type": "message",
+        "text": "Khakis and a button up",
+        "user": "U15J5H60P",
+        "ts": "1495499703.757870"
+    },
+    {
+        "type": "message",
+        "text": "Ok so dressed up",
+        "user": "U15HY5TG8",
+        "ts": "1495499744.762322"
+    },
+    {
+        "type": "message",
+        "text": "Sure",
+        "user": "U15J5H60P",
+        "ts": "1495499758.763834"
+    },
+    {
+        "type": "message",
+        "text": "Is Joe coming?",
+        "user": "U15J5H60P",
+        "ts": "1495499904.778991"
+    },
+    {
+        "type": "message",
+        "text": "How late are you guys gunna be out?",
+        "user": "U15HSHSS2",
+        "ts": "1495499985.787790"
+    },
+    {
+        "type": "message",
+        "text": "10 or 11",
+        "user": "U15J5H60P",
+        "ts": "1495500124.803000"
+    },
+    {
+        "type": "message",
+        "text": "Yea",
+        "user": "U15HY5TG8",
+        "ts": "1495500135.804238"
+    },
+    {
+        "type": "message",
+        "text": ":+1::skin-tone-2:",
+        "user": "U15J5H60P",
+        "ts": "1495500200.811692"
+    },
+    {
+        "type": "message",
+        "text": "Joe wimped out",
+        "user": "U15HY5TG8",
+        "ts": "1495501718.981054"
+    },
+    {
+        "type": "message",
+        "text": "Boo...",
+        "user": "U15J5H60P",
+        "ts": "1495501727.982050"
+    },
+    {
+        "type": "message",
+        "text": "Alright so the hard drives I'm using are not compatible with this thing that's the issue",
+        "user": "U15HSHSS2",
+        "ts": "1495506181.455653"
+    },
+    {
+        "type": "message",
+        "text": "Makes sense cuz the hard drives are like 7 years old and they are low power energy efficient drives which is what is fucking up the install",
+        "user": "U15HSHSS2",
+        "ts": "1495506352.473025"
+    },
+    {
+        "type": "message",
+        "text": "Basically if you're not using those red WD drives you're an idiot lol",
+        "user": "U15HSHSS2",
+        "ts": "1495506517.488537"
+    }
+]

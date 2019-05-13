@@ -1,0 +1,1201 @@
+[
+    {
+        "client_msg_id": "f4d3ddb0-10de-4d64-a704-68f0077d326a",
+        "type": "message",
+        "text": "DL2078 :smirk:",
+        "user": "U15HRTAHL",
+        "ts": "1525520815.000057",
+        "thread_ts": "1525520815.000057",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1525536832.000008",
+        "reply_users": [
+            "U15J5H60P"
+        ],
+        "replies": [
+            {
+                "user": "U15J5H60P",
+                "ts": "1525536832.000008"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3C7EB81F-709B-40AA-A6CA-1CC61BF28254",
+        "type": "message",
+        "text": "Wooo! Have fun!! Take pictures!",
+        "user": "U15J5H60P",
+        "ts": "1525531504.000124"
+    },
+    {
+        "type": "message",
+        "text": "We can’t install any more apps",
+        "user": "U15J5H60P",
+        "ts": "1525536796.000039"
+    },
+    {
+        "type": "message",
+        "text": "We’re at our max of 10",
+        "user": "U15J5H60P",
+        "ts": "1525536801.000103"
+    },
+    {
+        "type": "message",
+        "text": "Ya never know. If I see a flight on the news, it’s good to know that you weren’t on it!",
+        "user": "U15J5H60P",
+        "ts": "1525536832.000008",
+        "thread_ts": "1525520815.000057",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "0E5ECA7B-A804-4B19-ADCB-C434DDB3D170",
+        "type": "message",
+        "text": "For what",
+        "user": "U15HY5TG8",
+        "ts": "1525537478.000037"
+    },
+    {
+        "client_msg_id": "4E69FA1B-99FB-4E1E-A0E4-0829746C7624",
+        "type": "message",
+        "text": "Slack",
+        "user": "U15J5H60P",
+        "ts": "1525537508.000113"
+    },
+    {
+        "client_msg_id": "1A3A438A-0D7F-47E1-AB0B-43E1E3A8CA49",
+        "type": "message",
+        "text": "Oooo",
+        "user": "U15HY5TG8",
+        "ts": "1525537518.000099"
+    },
+    {
+        "client_msg_id": "DB8272D8-C48D-4344-9DA0-FEDFA7F36425",
+        "type": "message",
+        "text": "What do we even have",
+        "user": "U15HY5TG8",
+        "ts": "1525537535.000021"
+    },
+    {
+        "client_msg_id": "0ca267c5-ce33-4ceb-9524-e427a4e887e8",
+        "type": "message",
+        "text": "We can remove at least 3",
+        "user": "U15HRTAHL",
+        "ts": "1525538656.000116"
+    },
+    {
+        "client_msg_id": "57fb10e1-8ed2-4d78-82c0-f92a1a663b90",
+        "type": "message",
+        "text": "Oh yeah I'm gonna check out the Amazon go store",
+        "user": "U15HRTAHL",
+        "ts": "1525538700.000052"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FAJD1HP4Z",
+                "created": 1525545646,
+                "timestamp": 1525545646,
+                "name": "IMG_20180505_114035.jpg",
+                "title": "IMG_20180505_114035.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 2573459,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAJD1HP4Z\/img_20180505_114035.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAJD1HP4Z\/download\/img_20180505_114035.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJD1HP4Z-ee25841f13\/img_20180505_114035_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3036,
+                "original_h": 4048,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FAJD1HP4Z\/img_20180505_114035.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FAJD1HP4Z-7c621dd05f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1525545651.000093"
+    },
+    {
+        "client_msg_id": "0A748326-286D-4CC4-B942-D80EAFDE1F07",
+        "type": "message",
+        "text": ":eyes::eyes:",
+        "user": "U15HZ01QX",
+        "ts": "1525545662.000119"
+    },
+    {
+        "type": "message",
+        "text": "Awesome",
+        "files": [
+            {
+                "id": "FAJS7TF9R",
+                "created": 1525547025,
+                "timestamp": 1525547025,
+                "name": "Screenshot_20180505-120331.png",
+                "title": "Screenshot_20180505-120331.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 565100,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAJS7TF9R\/screenshot_20180505-120331.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAJS7TF9R\/download\/screenshot_20180505-120331.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJS7TF9R-1738d9aff2\/screenshot_20180505-120331_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2560,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FAJS7TF9R\/screenshot_20180505-120331.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FAJS7TF9R-6895b45783",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1525547029.000046"
+    },
+    {
+        "client_msg_id": "FF753088-EC95-49C1-A4FB-AEA9A48B0C1B",
+        "type": "message",
+        "text": "Nice!!!",
+        "user": "U15J5H60P",
+        "ts": "1525547444.000084"
+    },
+    {
+        "client_msg_id": "9175428c-485a-4cf2-a6a0-8c127809a838",
+        "type": "message",
+        "text": "I don't think it's automated",
+        "user": "U15HRTAHL",
+        "ts": "1525547920.000063"
+    },
+    {
+        "client_msg_id": "0bfca5c2-329e-4381-8b26-c0ee04fe835b",
+        "type": "message",
+        "text": "They have about 300 cameras on the cieling",
+        "user": "U15HRTAHL",
+        "ts": "1525547933.000082"
+    },
+    {
+        "client_msg_id": "55054974-ca00-4a63-a022-3860f97c00e6",
+        "type": "message",
+        "text": "And there's a delay between the time you leave and get the receipt",
+        "user": "U15HRTAHL",
+        "ts": "1525547952.000017"
+    },
+    {
+        "client_msg_id": "ba79426a-aff9-442e-ae1d-7cedbe0c0cc5",
+        "type": "message",
+        "text": "I think they have people remotely checking you out",
+        "user": "U15HRTAHL",
+        "ts": "1525548046.000022"
+    },
+    {
+        "client_msg_id": "137C7EDD-3F5A-44A8-9C1E-DB70089CDFB9",
+        "type": "message",
+        "text": "How do they know its you then?",
+        "user": "U15HY5TG8",
+        "ts": "1525548637.000058"
+    },
+    {
+        "client_msg_id": "50554db4-45aa-454b-a9b3-4c73d3a1de06",
+        "type": "message",
+        "text": "Watcha mean?",
+        "user": "U15HRTAHL",
+        "ts": "1525550955.000058"
+    },
+    {
+        "client_msg_id": "988b6f70-1db5-40df-8ad8-9d6a9bd5b532",
+        "type": "message",
+        "text": "You have an app on your phone you scan in with",
+        "user": "U15HRTAHL",
+        "ts": "1525550970.000060"
+    },
+    {
+        "client_msg_id": "E43D23D8-94B2-4B9B-B525-7E5F06C688A4",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1525551081.000068"
+    },
+    {
+        "client_msg_id": "C8F872FD-7387-4187-998F-CADFC6BEB5C4",
+        "type": "message",
+        "text": "<@U15HRTAHL> is this really who you want to work for?",
+        "user": "U15HY5TG8",
+        "ts": "1525554585.000005"
+    },
+    {
+        "client_msg_id": "51A8AE76-C8EB-427E-8472-27C530BA674F",
+        "type": "message",
+        "text": "<https:\/\/www.theonion.com\/amazon-fires-warehouse-worker-who-took-unauthorized-bre-1825765390?utm_source=Facebook&amp;utm_campaign=SF&amp;utm_content=Main&amp;utm_medium=SocialMarketing>",
+        "user": "U15HY5TG8",
+        "ts": "1525554589.000088",
+        "attachments": [
+            {
+                "service_name": "The Onion",
+                "title": "Amazon Fires Warehouse Worker Who Took Unauthorized Breath",
+                "title_link": "https:\/\/www.theonion.com\/amazon-fires-warehouse-worker-who-took-unauthorized-bre-1825765390?utm_source=Facebook&utm_campaign=SF&utm_content=Main&utm_medium=SocialMarketing",
+                "text": "CARTERET, NJ—Saying the longtime warehouse associate blatantly disregarded company protocol regarding permitted inhalation, Amazon spokespeople confirmed the firing of one Thomas Gilman for taking an unauthorized breath during an overnight shift Friday. “We run a tight ship at this [Amazon] fulfillment center, and we expect a certain level of discipline and decorum from our employees,” said warehouse manager John Sabourne, who encourages his staff to report their fellow coworkers for exceeding their allotted 300 breaths per hour while on-shift. “You can’t just take a breath whenever you want to—we pay to condition the air here, for one thing, and if a worker actually stops to catch their breath? There go our profit margins. This guy was a known deep-breather, so my hands were tied. I had no choice but to let him go.” Amazon management responded to requests for additional information by announcing an expansion of company policy to crack down on warehouse worker blinking.",
+                "fallback": "The Onion: Amazon Fires Warehouse Worker Who Took Unauthorized Breath",
+                "image_url": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--BM_gPCzr--\/c_fill,fl_progressive,g_center,h_900,q_80,w_1600\/ysfmlbcdiqeqdqmfvgcz.jpg",
+                "from_url": "https:\/\/www.theonion.com\/amazon-fires-warehouse-worker-who-took-unauthorized-bre-1825765390?utm_source=Facebook&utm_campaign=SF&utm_content=Main&utm_medium=SocialMarketing",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 225696,
+                "service_icon": "https:\/\/i.kinja-img.com\/gawker-media\/image\/upload\/s--vIqQhUac--\/c_fill,fl_progressive,g_center,h_200,q_80,w_200\/eti2h1r4wg0bqxctxenl.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theonion.com\/amazon-fires-warehouse-worker-who-took-unauthorized-bre-1825765390?utm_source=Facebook&amp;utm_campaign=SF&amp;utm_content=Main&amp;utm_medium=SocialMarketing"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DD50158D-4A2D-4CDA-AE01-C68C43CFE305",
+        "type": "message",
+        "text": "My car is broken again ",
+        "user": "U15J5H60P",
+        "ts": "1525554639.000006"
+    },
+    {
+        "client_msg_id": "880FE8BE-C1F0-4A25-A3B3-3E2F19C743C0",
+        "type": "message",
+        "text": "Seems like the same issue",
+        "user": "U15J5H60P",
+        "ts": "1525554642.000084"
+    },
+    {
+        "client_msg_id": "DC40CBB6-D01D-4F4F-9B51-9BFF82BCED26",
+        "type": "message",
+        "text": "What was it again?",
+        "user": "U15HY5TG8",
+        "ts": "1525554658.000051"
+    },
+    {
+        "client_msg_id": "38902096-15cf-40e8-b902-020e791a37fa",
+        "type": "message",
+        "text": "That's any factory",
+        "user": "U15HRTAHL",
+        "ts": "1525554663.000095"
+    },
+    {
+        "client_msg_id": "A58881C5-9FD2-4FBE-9666-4CAE9255CAA0",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1525554679.000101"
+    },
+    {
+        "client_msg_id": "5fbaf25a-4316-4e0a-9970-f5febc3e7f49",
+        "type": "message",
+        "text": "Cylinder right?",
+        "user": "U15HRTAHL",
+        "ts": "1525554684.000060"
+    },
+    {
+        "client_msg_id": "CE671BB1-FF7A-47A3-BF5E-357DFAF759B8",
+        "type": "message",
+        "text": "Dead ignition coils",
+        "user": "U15J5H60P",
+        "ts": "1525554692.000051",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1525554703.000000"
+        }
+    },
+    {
+        "client_msg_id": "69CC342A-B368-434A-BBC8-73A74F72CD60",
+        "type": "message",
+        "text": "Damnnn",
+        "user": "U15HY5TG8",
+        "ts": "1525554701.000024"
+    },
+    {
+        "client_msg_id": "E2CCB9FA-58D3-47FC-9682-50F824FFDDC2",
+        "type": "message",
+        "text": "Sell it and buy a nissan :sunglasses:",
+        "user": "U15HY5TG8",
+        "ts": "1525554716.000053"
+    },
+    {
+        "client_msg_id": "6BDA61AB-E152-4596-974E-BB189144D7D5",
+        "type": "message",
+        "text": "$400 last time. But there has to be another issue that's making this happen. ",
+        "user": "U15J5H60P",
+        "ts": "1525554718.000105"
+    },
+    {
+        "client_msg_id": "1BDAED2B-4204-4D10-9002-00660BA982C3",
+        "type": "message",
+        "text": "Dead ignition coils are almost unheard of",
+        "user": "U15J5H60P",
+        "ts": "1525554732.000103"
+    },
+    {
+        "client_msg_id": "486FC7DC-12C0-47B8-91DE-96A6DA0563F8",
+        "type": "message",
+        "text": "&gt; The leading cause of premature failure of an ignition coil is due to a worn or bad spark plug ignition cable. A bad spark plug ignition cable will have a much higher than normal resistance. This high resistance causes a very high amount of voltage to be generated from your ignition coil's secondary winding.",
+        "user": "U15J5H60P",
+        "ts": "1525554825.000053"
+    },
+    {
+        "client_msg_id": "4C7113C0-2BC1-403A-82F5-59F78A23B0F9",
+        "type": "message",
+        "text": "I was just about to ask if you looked at the wires",
+        "user": "U15HY5TG8",
+        "ts": "1525554855.000030"
+    },
+    {
+        "client_msg_id": "777AC7E6-E035-4453-8C0F-216FAF79389A",
+        "type": "message",
+        "text": "I have no idea what to look at",
+        "user": "U15J5H60P",
+        "ts": "1525554869.000025"
+    },
+    {
+        "client_msg_id": "d68876a5-cfb3-44f0-9890-5e4bb941220d",
+        "type": "message",
+        "text": "Looks like you need an Evan",
+        "user": "U15HRTAHL",
+        "ts": "1525554936.000042"
+    },
+    {
+        "client_msg_id": "07917313-5C05-4632-8982-B6EE92EAF3E6",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1525554944.000053"
+    },
+    {
+        "client_msg_id": "C2391513-1DFA-42C6-9833-6CB11D93C765",
+        "type": "message",
+        "text": "I hate that this happened in Madison",
+        "user": "U15J5H60P",
+        "ts": "1525554953.000049"
+    },
+    {
+        "client_msg_id": "6ADEEFC2-E876-42F3-97F9-1E1D0C7AB551",
+        "type": "message",
+        "text": "I'm shit out of luck out here ",
+        "user": "U15J5H60P",
+        "ts": "1525554959.000067"
+    },
+    {
+        "client_msg_id": "1372CE88-F138-4DAB-BD61-A4EC6224A1A2",
+        "type": "message",
+        "text": "Nothing is open until Monday",
+        "user": "U15J5H60P",
+        "ts": "1525554968.000021"
+    },
+    {
+        "client_msg_id": "B4235D94-281F-4524-B0F7-96EF057AE7E4",
+        "type": "message",
+        "text": "I'll probably be lucky to get an appointment",
+        "user": "U15J5H60P",
+        "ts": "1525554975.000075"
+    },
+    {
+        "client_msg_id": "5CAADD2B-FEAE-44E6-8A5E-6BC717EE8FFB",
+        "type": "message",
+        "text": "Can't go over 35",
+        "user": "U15J5H60P",
+        "ts": "1525554981.000082"
+    },
+    {
+        "client_msg_id": "2D709F82-E419-4AC5-B6E7-83A2017D85C2",
+        "type": "message",
+        "text": "So last fall when i was going through fuel issues, i disconnected each one, looked to see if it had any spots where it wore through the ruber and then held it about an inch away from the metal part of the chassis to see it spark",
+        "user": "U15HY5TG8",
+        "ts": "1525554995.000008"
+    },
+    {
+        "client_msg_id": "BA66CF68-4DC3-4118-A1CA-3BCD913AEA3A",
+        "type": "message",
+        "text": "(While someone cranked it)",
+        "user": "U15HY5TG8",
+        "ts": "1525555034.000027"
+    },
+    {
+        "client_msg_id": "0C80A67C-8A8F-49D1-A606-CB7ACC4B3A4D",
+        "type": "message",
+        "text": "Cranked it?",
+        "user": "U15J5H60P",
+        "ts": "1525555053.000004"
+    },
+    {
+        "client_msg_id": "85574DD9-7F66-43A2-A4D9-44A058B907F5",
+        "type": "message",
+        "text": "Turned the key but didnt start it",
+        "user": "U15HY5TG8",
+        "ts": "1525555073.000007"
+    },
+    {
+        "client_msg_id": "38D2414E-549C-477F-8706-6AA8A73D16F0",
+        "type": "message",
+        "text": "How do you do that?",
+        "user": "U15J5H60P",
+        "ts": "1525555093.000076"
+    },
+    {
+        "client_msg_id": "2DD422E6-66D7-4A1D-96C7-5AA2DF07C462",
+        "type": "message",
+        "text": "Not make it start",
+        "user": "U15J5H60P",
+        "ts": "1525555106.000050"
+    },
+    {
+        "client_msg_id": "5A263C3F-DB28-472F-BAF3-E7DFD32B8913",
+        "type": "message",
+        "text": "Just turn the key for like 2 seconds or whatever. Like you know when you first start your car and it kinda makes a rurring sound before turning on? Thats cranking",
+        "user": "U15HY5TG8",
+        "ts": "1525555674.000057"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FAJSSG883",
+                "created": 1525555678,
+                "timestamp": 1525555678,
+                "name": "Image uploaded from iOS.png",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 254342,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAJSSG883\/image_uploaded_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAJSSG883\/download\/image_uploaded_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAJSSG883-88001fb9e9\/image_uploaded_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FAJSSG883\/image_uploaded_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FAJSSG883-b3632fc938",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "892E6DFF-4718-43C5-BA92-E40C1A76D48B",
+        "ts": "1525555682.000076"
+    },
+    {
+        "client_msg_id": "1E29F3B9-C80A-4AAA-9E22-E99082E48F44",
+        "type": "message",
+        "text": "Mine starts up immediately lol",
+        "user": "U15J5H60P",
+        "ts": "1525555696.000041"
+    },
+    {
+        "client_msg_id": "17C8D4B8-F285-4E32-B4E4-C23D27EFC34B",
+        "type": "message",
+        "text": "Well fuck your nice new car lol",
+        "user": "U15HY5TG8",
+        "ts": "1525555710.000064"
+    },
+    {
+        "client_msg_id": "6FDF44E9-C442-4D86-8F3A-B18828021F72",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1525555722.000014"
+    },
+    {
+        "client_msg_id": "0DEF6FB3-68ED-42D2-B5D8-BEA5842487E3",
+        "type": "message",
+        "text": "Those instructions look like a prank to shock myself",
+        "user": "U15J5H60P",
+        "ts": "1525555736.000073"
+    },
+    {
+        "client_msg_id": "BA3DC304-9B5F-481C-8196-71101477A527",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1525555760.000041"
+    },
+    {
+        "client_msg_id": "BD8EC247-E941-4F51-8F8E-220275A6F7C5",
+        "type": "message",
+        "text": "Im alive ¯\\_(ツ)_\/¯ ",
+        "user": "U15HY5TG8",
+        "ts": "1525555766.000046"
+    },
+    {
+        "client_msg_id": "BA64A967-2D7D-441D-BD90-6EE04325EBE2",
+        "type": "message",
+        "text": "I didnt use a screwdriver though",
+        "user": "U15HY5TG8",
+        "ts": "1525555790.000016"
+    },
+    {
+        "client_msg_id": "BCA48C39-0075-448B-993A-A1E396CB446E",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1525557966.000099"
+    },
+    {
+        "client_msg_id": "B6361153-85DB-4729-9667-0F97A34B9C4D",
+        "type": "message",
+        "text": "You all should start taking odds on my death",
+        "user": "U15J5H60P",
+        "ts": "1525563538.000007"
+    },
+    {
+        "client_msg_id": "039C2611-CE3F-4DA6-BEDF-759803A81E43",
+        "type": "message",
+        "text": "1:1",
+        "user": "U15HY5TG8",
+        "ts": "1525563551.000081"
+    },
+    {
+        "client_msg_id": "17D3310B-B165-445E-BFD3-C5C41DBB734C",
+        "type": "message",
+        "text": "1:5 hanging ",
+        "user": "U15J5H60P",
+        "ts": "1525563563.000062"
+    },
+    {
+        "client_msg_id": "EF1D4F3B-0DF3-4E79-A90C-8F77CF76CDD5",
+        "type": "message",
+        "text": "1:25 overdose",
+        "user": "U15J5H60P",
+        "ts": "1525563571.000006"
+    },
+    {
+        "client_msg_id": "F4909490-83E9-4C5D-BB3B-9C2CA1AF36E3",
+        "type": "message",
+        "text": "Who would lynch you?",
+        "user": "U15HZ01QX",
+        "ts": "1525563597.000077"
+    },
+    {
+        "client_msg_id": "4317550B-FE59-4194-983E-06639E18F87C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1525563603.000055"
+    },
+    {
+        "client_msg_id": "1B6A346C-C648-49F0-A094-0B188B7D22A0",
+        "type": "message",
+        "text": "Myself ",
+        "user": "U15J5H60P",
+        "ts": "1525563619.000024"
+    },
+    {
+        "client_msg_id": "76592264-F3E6-4A5C-B708-7D0AC74FF3E2",
+        "type": "message",
+        "text": "These are all suicide odds",
+        "user": "U15J5H60P",
+        "ts": "1525563643.000088",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1525563648.000000"
+        }
+    },
+    {
+        "client_msg_id": "1D373AC4-37DF-47A4-9423-9B30C23B1DF6",
+        "type": "message",
+        "text": "Just get a new car Jesus ",
+        "user": "U15HZ01QX",
+        "ts": "1525563647.000068"
+    },
+    {
+        "client_msg_id": "69628DDA-40AF-44E6-9A93-EB9134B90156",
+        "type": "message",
+        "text": "He'll prob trip on water and catch his necktie in the door frame",
+        "user": "U15HY5TG8",
+        "ts": "1525563661.000047"
+    },
+    {
+        "client_msg_id": "41426500-1B44-437E-BCBF-967F1E52D78E",
+        "type": "message",
+        "text": "Who has odds on that?",
+        "user": "U15J5H60P",
+        "ts": "1525563677.000056"
+    },
+    {
+        "client_msg_id": "EA32A8D4-89AF-4E69-973C-8237628A96E4",
+        "type": "message",
+        "text": "Id say that's 1:49",
+        "user": "U15J5H60P",
+        "ts": "1525563691.000066"
+    },
+    {
+        "client_msg_id": "DCCBD3EF-73B3-4FD0-B051-D1070B516E7B",
+        "type": "message",
+        "text": "1:50 for ",
+        "user": "U15HY5TG8",
+        "ts": "1525563694.000026"
+    },
+    {
+        "client_msg_id": "65EE7FF2-ABB7-4DA8-8298-D4529B323B26",
+        "type": "message",
+        "text": ":+1::skin-tone-2:",
+        "user": "U15J5H60P",
+        "ts": "1525563699.000053"
+    },
+    {
+        "client_msg_id": "EA7BC16A-88DB-4433-B973-20B6203C0BD5",
+        "type": "message",
+        "text": "Lol so close",
+        "user": "U15HY5TG8",
+        "ts": "1525563700.000026"
+    },
+    {
+        "client_msg_id": "87EF7407-89C9-42D0-8379-043003060589",
+        "type": "message",
+        "text": "Almost",
+        "user": "U15J5H60P",
+        "ts": "1525564329.000039"
+    },
+    {
+        "client_msg_id": "71A58AB3-9FB8-4C3A-933A-78DE0B34BB14",
+        "type": "message",
+        "text": "Jumping off of a high thing",
+        "user": "U15J5H60P",
+        "ts": "1525564343.000003"
+    },
+    {
+        "client_msg_id": "9B62AFC5-5940-48BC-B70E-F2FE35F40BD6",
+        "type": "message",
+        "text": "1:35",
+        "user": "U15J5H60P",
+        "ts": "1525564347.000042"
+    },
+    {
+        "client_msg_id": "5B8A5838-2307-46AC-8A0F-12593CBD2288",
+        "type": "message",
+        "text": "1:40, if alcohol, 1:15",
+        "user": "U15HY5TG8",
+        "ts": "1525564376.000003"
+    },
+    {
+        "client_msg_id": "1FCE5ADE-91FA-4A79-B927-8789DA46A9FC",
+        "type": "message",
+        "text": "If I don't die by 40 y'all donate to Greendale Highschool Marching Band",
+        "user": "U15J5H60P",
+        "ts": "1525564596.000076"
+    },
+    {
+        "client_msg_id": "538005A3-BFE5-42D0-A0F8-77C2C46D2160",
+        "type": "message",
+        "text": "$100 each",
+        "user": "U15J5H60P",
+        "ts": "1525564600.000067",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1525564605.000000"
+        }
+    },
+    {
+        "client_msg_id": "8DF5694A-69DF-449E-A131-2F0B90830E61",
+        "type": "message",
+        "text": "No lol",
+        "user": "U15HZ01QX",
+        "ts": "1525564610.000002"
+    },
+    {
+        "client_msg_id": "55E2DBE4-F3BD-456B-AD01-BE6B60884370",
+        "type": "message",
+        "text": "Except James",
+        "user": "U15J5H60P",
+        "ts": "1525564611.000063"
+    },
+    {
+        "client_msg_id": "1318405E-0D7E-4F61-B93E-4517326C7CAE",
+        "type": "message",
+        "text": "Oh lol",
+        "user": "U15HZ01QX",
+        "ts": "1525564615.000047"
+    },
+    {
+        "client_msg_id": "852093A4-9C55-4EA7-8CBD-75B2A6769548",
+        "type": "message",
+        "text": "Because he hasn't made a bet yet",
+        "user": "U15J5H60P",
+        "ts": "1525564619.000066"
+    },
+    {
+        "client_msg_id": "072CD716-219A-478E-AEAC-C7DE9E751B2A",
+        "type": "message",
+        "text": "Why are you sad Andrew. Stop drinking during the day",
+        "user": "U15HZ01QX",
+        "ts": "1525564756.000032"
+    },
+    {
+        "client_msg_id": "5B826B42-191F-473D-8C30-41F68E122970",
+        "type": "message",
+        "text": "I usually tell people ive hit my midlife crisis already lol",
+        "user": "U15HY5TG8",
+        "ts": "1525564966.000002"
+    },
+    {
+        "client_msg_id": "47EBDE18-E578-4356-94E5-DFD0733BFC4C",
+        "type": "message",
+        "text": "We're all doomed",
+        "user": "U15HY5TG8",
+        "ts": "1525564974.000008"
+    },
+    {
+        "client_msg_id": "DEDD70F8-1EBF-408E-A751-BE4BFE644B09",
+        "type": "message",
+        "text": "Why",
+        "user": "U15HZ01QX",
+        "ts": "1525564981.000062"
+    },
+    {
+        "client_msg_id": "E82173B3-12BE-48C0-B76B-67F26FB1CD4E",
+        "type": "message",
+        "text": "I just miss you guys",
+        "user": "U15J5H60P",
+        "ts": "1525564984.000050"
+    },
+    {
+        "client_msg_id": "344DDC87-904A-426B-999D-BD011DA5F097",
+        "type": "message",
+        "text": "We talk every day",
+        "user": "U15HZ01QX",
+        "ts": "1525564997.000007"
+    },
+    {
+        "client_msg_id": "DE7EA3C0-67EC-4C7D-A4D0-EF8E37BF92CC",
+        "type": "message",
+        "text": "The world is disconnected. ",
+        "user": "U15HY5TG8",
+        "ts": "1525565035.000044"
+    },
+    {
+        "client_msg_id": "3CA3AC91-E90D-46D2-B287-6933C2408DD2",
+        "type": "message",
+        "text": "I lost the game.",
+        "user": "U15J5H60P",
+        "ts": "1525565999.000071"
+    },
+    {
+        "client_msg_id": "26448070-FECC-4532-A92F-3672AC3F0704",
+        "type": "message",
+        "text": "Fortnite? Or the car game",
+        "user": "U15HY5TG8",
+        "ts": "1525566032.000066"
+    },
+    {
+        "client_msg_id": "A317FDB5-55C9-46C9-B709-69B3EAC14272",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1525566040.000037"
+    },
+    {
+        "client_msg_id": "8271553D-02E5-4E43-A73F-49281A0D1A3F",
+        "type": "message",
+        "text": "Life",
+        "user": "U15J5H60P",
+        "ts": "1525566043.000003"
+    },
+    {
+        "client_msg_id": "DF656ED9-6508-46F1-ACA1-F5264B9564DD",
+        "type": "message",
+        "text": "Ahhh ",
+        "user": "U15HY5TG8",
+        "ts": "1525566053.000032"
+    },
+    {
+        "client_msg_id": "E032B253-1E14-4A80-930F-752B4C78EA8A",
+        "type": "message",
+        "text": "I want to go home and play fortnite",
+        "user": "U15HY5TG8",
+        "ts": "1525566062.000039"
+    },
+    {
+        "client_msg_id": "FB4C9FCC-3AAF-4463-B939-FEF499B54100",
+        "type": "message",
+        "text": "Same",
+        "user": "U15J5H60P",
+        "ts": "1525566069.000088"
+    },
+    {
+        "client_msg_id": "FE2F691B-6E2A-40B2-BD1C-574615544717",
+        "type": "message",
+        "text": "Squad up on mobile ",
+        "user": "U15HZ01QX",
+        "ts": "1525566239.000045"
+    },
+    {
+        "client_msg_id": "2CA69A2D-229F-4D8A-BCDC-29FA0DB1368C",
+        "type": "message",
+        "text": "Nahhh",
+        "user": "U15HY5TG8",
+        "ts": "1525566565.000077"
+    },
+    {
+        "client_msg_id": "46093986-A3BC-4FC1-B06D-311E3FC091D9",
+        "type": "message",
+        "text": "My dad was a corrections officer",
+        "user": "U15J5H60P",
+        "ts": "1525568887.000046"
+    },
+    {
+        "client_msg_id": "6EAEAE47-C4BC-4FEA-AA6D-3D297B24F1EA",
+        "type": "message",
+        "text": "I totally get why he kept coming back with suicide stories",
+        "user": "U15J5H60P",
+        "ts": "1525568903.000054"
+    },
+    {
+        "client_msg_id": "094C7F99-CE8E-42FC-B51D-197FFFACE5E7",
+        "type": "message",
+        "text": "Why?",
+        "user": "U15HY5TG8",
+        "ts": "1525568920.000007"
+    },
+    {
+        "client_msg_id": "5F27F75C-594D-451B-A19D-4EE064533115",
+        "type": "message",
+        "text": "People tryna jump off the 2nd story onto their necks",
+        "user": "U15J5H60P",
+        "ts": "1525568930.000068"
+    },
+    {
+        "client_msg_id": "E24F607E-02C4-4FFD-A2A4-0DC54905F5E0",
+        "type": "message",
+        "text": "Wasn’t your dad a music teacher?",
+        "user": "U15HZ01QX",
+        "ts": "1525568941.000068"
+    },
+    {
+        "client_msg_id": "7A93DF7B-9528-48DD-B560-41075016578C",
+        "type": "message",
+        "text": "Yeah before the recession",
+        "user": "U15J5H60P",
+        "ts": "1525568962.000031"
+    },
+    {
+        "client_msg_id": "6B7F39E1-8EFB-4F48-9508-5DB3E03552AE",
+        "type": "message",
+        "text": "Then he was a realtor",
+        "user": "U15J5H60P",
+        "ts": "1525568970.000030"
+    },
+    {
+        "client_msg_id": "F69EF4E4-C238-4B53-B4EA-590B2E0C026D",
+        "type": "message",
+        "text": "Then a corrections officer",
+        "user": "U15J5H60P",
+        "ts": "1525568981.000008"
+    },
+    {
+        "client_msg_id": "E8761F88-DED1-407D-8CB0-940117280C44",
+        "type": "message",
+        "text": "Then a teacher when it came back around",
+        "user": "U15J5H60P",
+        "ts": "1525568990.000082"
+    },
+    {
+        "client_msg_id": "881763BB-E202-482C-8FD0-5396E1887D7D",
+        "type": "message",
+        "text": "Apparently a ton of people try committing suicide in prison",
+        "user": "U15J5H60P",
+        "ts": "1525569017.000010"
+    },
+    {
+        "client_msg_id": "8525702E-2CE6-4B75-8E29-A56456071477",
+        "type": "message",
+        "text": "He is a music teacher",
+        "user": "U15J5H60P",
+        "ts": "1525569077.000003"
+    },
+    {
+        "client_msg_id": "CC7EB4EF-D77D-4BD6-8678-B9A5136CFF59",
+        "type": "message",
+        "text": "Art and music are the first to go",
+        "user": "U15J5H60P",
+        "ts": "1525569085.000024"
+    },
+    {
+        "client_msg_id": "EF317B00-7495-45C3-94D6-E1E041C094BF",
+        "type": "message",
+        "text": "Ahhh gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1525569099.000084"
+    },
+    {
+        "client_msg_id": "09A63940-5C8F-475C-8F31-3358A821A11A",
+        "type": "message",
+        "text": "iPhone X is amazing with battery life",
+        "user": "U15J5H60P",
+        "ts": "1525569115.000075"
+    },
+    {
+        "client_msg_id": "9CEF2071-3EE6-4DB6-A439-2C4199C6DAF6",
+        "type": "message",
+        "text": "I've been messing around on it all day and I'm at 20% just now",
+        "user": "U15J5H60P",
+        "ts": "1525569141.000078"
+    },
+    {
+        "client_msg_id": "6A96ABA1-E56C-4AB9-B191-FFF84DD2FC6C",
+        "type": "message",
+        "text": "I thought I was going to return it",
+        "user": "U15J5H60P",
+        "ts": "1525569170.000006"
+    },
+    {
+        "client_msg_id": "C8C961A4-50C6-49F5-B93B-0A06C4026CAA",
+        "type": "message",
+        "text": "But nah",
+        "user": "U15J5H60P",
+        "ts": "1525569175.000006"
+    },
+    {
+        "client_msg_id": "B97367ED-AF59-4154-AE26-9153DD987828",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1525569275.000040"
+    },
+    {
+        "client_msg_id": "D90E61E7-4602-4B07-A94B-4915569E7329",
+        "type": "message",
+        "text": "<@U15HZ01QX> called it",
+        "user": "U15HY5TG8",
+        "ts": "1525569290.000008"
+    },
+    {
+        "client_msg_id": "B24D6F6E-19BE-4E32-8C65-010316964A2C",
+        "type": "message",
+        "text": "???",
+        "user": "U15J5H60P",
+        "ts": "1525570210.000007"
+    },
+    {
+        "client_msg_id": "4DBEE4C9-41AC-4241-A0D7-47B2B6D5B699",
+        "type": "message",
+        "text": "I got the leather care",
+        "user": "U15J5H60P",
+        "ts": "1525570222.000002"
+    },
+    {
+        "client_msg_id": "D0F3BD03-BC36-43F2-B3BB-0262EA1AD796",
+        "type": "message",
+        "text": "Case*",
+        "user": "U15J5H60P",
+        "ts": "1525570225.000015"
+    },
+    {
+        "client_msg_id": "321C076A-65CF-4495-B457-38B3D12280A2",
+        "type": "message",
+        "text": "It's still super slippery",
+        "user": "U15J5H60P",
+        "ts": "1525570232.000040"
+    },
+    {
+        "client_msg_id": "4E3722F4-7E50-404A-9187-D790BFA2F8AD",
+        "type": "message",
+        "text": "He said give it a week",
+        "user": "U15HY5TG8",
+        "ts": "1525570237.000049"
+    },
+    {
+        "client_msg_id": "FC4FA7F6-FA13-4874-8D39-775879A1E32D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1525570246.000036"
+    },
+    {
+        "client_msg_id": "A7867FA1-ACF4-439D-94F5-CDE7027A5499",
+        "type": "message",
+        "text": "The battery life is amazing",
+        "user": "U15J5H60P",
+        "ts": "1525570259.000046"
+    },
+    {
+        "client_msg_id": "A380F994-356C-4B20-8E33-E3A82662469D",
+        "type": "message",
+        "text": "The phone itself is great",
+        "user": "U15J5H60P",
+        "ts": "1525570269.000011"
+    },
+    {
+        "client_msg_id": "88A09881-953F-4F62-BFD1-A5B422AF9C59",
+        "type": "message",
+        "text": "Not amazing",
+        "user": "U15J5H60P",
+        "ts": "1525570275.000045"
+    },
+    {
+        "client_msg_id": "65367676-6EF9-46E0-BE4D-11B5F24CE32F",
+        "type": "message",
+        "text": "My reasoning for keeping it is almost solely on the battery life",
+        "user": "U15J5H60P",
+        "ts": "1525570298.000080"
+    },
+    {
+        "client_msg_id": "E54856F1-286C-4F72-82E3-2C8548E6A754",
+        "type": "message",
+        "text": "I hope that the next iPhone will have better face id",
+        "user": "U15J5H60P",
+        "ts": "1525570393.000058"
+    },
+    {
+        "client_msg_id": "388CBD72-3FC7-42F8-A76D-85B8C548E4DF",
+        "type": "message",
+        "text": "Because this iteration bums me out",
+        "user": "U15J5H60P",
+        "ts": "1525570406.000025"
+    },
+    {
+        "client_msg_id": "2CD38D6C-1FBC-4977-99E1-4176CB20F111",
+        "type": "message",
+        "text": "They could've done better",
+        "user": "U15J5H60P",
+        "ts": "1525570433.000022"
+    },
+    {
+        "client_msg_id": "6259E690-82EB-4ECC-BFDD-034CE754D4F2",
+        "type": "message",
+        "text": "This is a sad excuse for an alternative to touch id",
+        "user": "U15J5H60P",
+        "ts": "1525570456.000031"
+    },
+    {
+        "client_msg_id": "1D360DBA-7411-4D77-891C-D3F00ECDA7F6",
+        "type": "message",
+        "text": "Its all a scam",
+        "user": "U15HY5TG8",
+        "ts": "1525570467.000002"
+    },
+    {
+        "client_msg_id": "F7B6E3AC-A54E-4BA9-B259-7EDB5DFA9F60",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1525570470.000063"
+    },
+    {
+        "client_msg_id": "5965B0A5-1522-421D-9B92-40857138D997",
+        "type": "message",
+        "text": "I think they can get it better",
+        "user": "U15J5H60P",
+        "ts": "1525570477.000001"
+    },
+    {
+        "client_msg_id": "5635DB3D-06F6-45AE-AC64-393F85E8E240",
+        "type": "message",
+        "text": "They reeled you in on face id and then theyll reel you in on the updated version",
+        "user": "U15HY5TG8",
+        "ts": "1525570489.000025"
+    },
+    {
+        "client_msg_id": "C5EDC3E3-18BF-4A20-943F-CD1A4A898079",
+        "type": "message",
+        "text": "Thats the scam i meant",
+        "user": "U15HY5TG8",
+        "ts": "1525570495.000015"
+    },
+    {
+        "client_msg_id": "2C6772CB-3D5D-489B-860A-92208D6A28E3",
+        "type": "message",
+        "text": "It's an insult",
+        "user": "U15J5H60P",
+        "ts": "1525570506.000031"
+    },
+    {
+        "client_msg_id": "1856CEFE-C93A-46B3-9787-B0CD573103DB",
+        "type": "message",
+        "text": "iPhone X my ass",
+        "user": "U15J5H60P",
+        "ts": "1525570513.000040"
+    }
+]

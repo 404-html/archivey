@@ -1,0 +1,369 @@
+[
+    {
+        "type": "message",
+        "text": "Do you guys use the command line a lot?",
+        "user": "U15J5H60P",
+        "ts": "1521487423.000610"
+    },
+    {
+        "type": "message",
+        "text": "not really",
+        "user": "U15HSHSS2",
+        "ts": "1521487435.000122",
+        "reactions": [
+            {
+                "name": "porn",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53E12AEA-B2AA-46D7-AC85-CECFD856A957",
+        "type": "message",
+        "text": "Since i am on windows, id be easier to just commit suicide",
+        "user": "U15HY5TG8",
+        "ts": "1521487457.000599"
+    },
+    {
+        "type": "message",
+        "text": "lololol",
+        "user": "U15J5H60P",
+        "ts": "1521487463.000587"
+    },
+    {
+        "type": "message",
+        "text": "I highly recommend this for Mac - <https:\/\/hyper.is\/>",
+        "user": "U15J5H60P",
+        "ts": "1521487495.000407",
+        "attachments": [
+            {
+                "title": "Hyper™",
+                "title_link": "https:\/\/hyper.is\/",
+                "text": "Hyper™: HTML\/JS\/CSS terminal",
+                "fallback": "Hyper™",
+                "image_url": "https:\/\/hyper.now.sh\/static\/hyper.png",
+                "from_url": "https:\/\/hyper.is\/",
+                "image_width": 420,
+                "image_height": 250,
+                "image_bytes": 33099,
+                "service_icon": "https:\/\/hyper.is\/favicon.png",
+                "service_name": "hyper.is",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "`-bash: commit: command not found. Did you mean git commit -m 'suicide'?`",
+        "user": "U15HRTAHL",
+        "ts": "1521487504.000640",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1521487512.000000"
+        }
+    },
+    {
+        "client_msg_id": "04AFE7A4-C959-4AFF-802F-322943502F36",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1521487518.000169"
+    },
+    {
+        "type": "message",
+        "text": "With Zsh, with the pure theme - <https:\/\/github.com\/sindresorhus\/pure>",
+        "user": "U15J5H60P",
+        "ts": "1521487528.000079",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "sindresorhus\/pure",
+                "title_link": "https:\/\/github.com\/sindresorhus\/pure",
+                "text": "pure - Pretty, minimal and fast ZSH prompt",
+                "fallback": "GitHub: sindresorhus\/pure",
+                "from_url": "https:\/\/github.com\/sindresorhus\/pure",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/170270?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "With highlighting",
+        "user": "U15J5H60P",
+        "ts": "1521487531.000659"
+    },
+    {
+        "client_msg_id": "72395B8B-8724-48E3-A587-A2F7D0F61F51",
+        "type": "message",
+        "text": "What is it?",
+        "user": "U15HY5TG8",
+        "ts": "1521487540.000413"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/zsh-users\/zsh-syntax-highlighting>",
+        "user": "U15J5H60P",
+        "ts": "1521487543.000407",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "zsh-users\/zsh-syntax-highlighting",
+                "title_link": "https:\/\/github.com\/zsh-users\/zsh-syntax-highlighting",
+                "text": "zsh-syntax-highlighting - Fish shell like syntax highlighting for Zsh.",
+                "fallback": "GitHub: zsh-users\/zsh-syntax-highlighting",
+                "from_url": "https:\/\/github.com\/zsh-users\/zsh-syntax-highlighting",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/567410?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "It's a HTML based command line",
+        "user": "U15J5H60P",
+        "ts": "1521487550.000345"
+    },
+    {
+        "client_msg_id": "5B1CF703-891D-4FDC-9CBA-A24B50D3365B",
+        "type": "message",
+        "text": "At home i use gulp and laravel",
+        "user": "U15HY5TG8",
+        "ts": "1521487561.000175"
+    },
+    {
+        "client_msg_id": "30CF589C-7EE3-4A1D-9CBF-CE851837CCBD",
+        "type": "message",
+        "text": "And interesting",
+        "user": "U15HY5TG8",
+        "ts": "1521487569.000185"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/hyper.is|hyper.is> has a windows version as well",
+        "user": "U15J5H60P",
+        "ts": "1521487575.000726"
+    },
+    {
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1521487580.000232"
+    },
+    {
+        "type": "message",
+        "text": "Never heard of laravel",
+        "user": "U15J5H60P",
+        "ts": "1521487586.000121"
+    },
+    {
+        "type": "message",
+        "text": "What is it?",
+        "user": "U15J5H60P",
+        "ts": "1521487601.000397"
+    },
+    {
+        "client_msg_id": "5546B8F3-0F35-4AF4-A897-B8FCA980500B",
+        "type": "message",
+        "text": "Me neither ",
+        "user": "U15HY5TG8",
+        "ts": "1521487603.000307"
+    },
+    {
+        "type": "message",
+        "text": "Looks like a code editor",
+        "user": "U15J5H60P",
+        "ts": "1521487606.000588"
+    },
+    {
+        "client_msg_id": "561F86E5-1F1F-411F-A57B-B5E6E7CCBA62",
+        "type": "message",
+        "text": "I still dont know lol",
+        "user": "U15HY5TG8",
+        "ts": "1521487612.000354"
+    },
+    {
+        "type": "message",
+        "text": "It's a framework for PHP",
+        "user": "U15J5H60P",
+        "ts": "1521487619.000522"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1521487620.000701"
+    },
+    {
+        "client_msg_id": "035237F4-67BA-4123-A79F-8F1204BDD36B",
+        "type": "message",
+        "text": "Welp there ya go lol",
+        "user": "U15HY5TG8",
+        "ts": "1521487628.000382"
+    },
+    {
+        "type": "message",
+        "text": "Isn't gulp a package manager?",
+        "user": "U15J5H60P",
+        "ts": "1521487648.000149"
+    },
+    {
+        "type": "message",
+        "text": "Why did you bring those up? lol",
+        "user": "U15J5H60P",
+        "ts": "1521487652.000395"
+    },
+    {
+        "client_msg_id": "2DC83A68-9DB8-444E-9DE6-917E9BB999F4",
+        "type": "message",
+        "text": "I think so. And because you asked if i used the command line a lot, and i have to trigger those with the command line",
+        "user": "U15HY5TG8",
+        "ts": "1521487698.000080"
+    },
+    {
+        "type": "message",
+        "text": "Oh gotcha",
+        "user": "U15J5H60P",
+        "ts": "1521487705.000599"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> have you tried using visual studio for mac at all?",
+        "user": "U15HRTAHL",
+        "ts": "1521492793.000698"
+    },
+    {
+        "client_msg_id": "C4A2738F-9DD2-4084-8AA3-6AF19CDACC79",
+        "type": "message",
+        "text": "I have not. Only vscode",
+        "user": "U15HY5TG8",
+        "ts": "1521492888.000708"
+    },
+    {
+        "type": "message",
+        "text": "VS Code is dope",
+        "user": "U15J5H60P",
+        "ts": "1521492926.000006"
+    },
+    {
+        "type": "message",
+        "text": "I'm curious how much of it is compatible",
+        "user": "U15HRTAHL",
+        "ts": "1521492929.000442"
+    },
+    {
+        "client_msg_id": "1898B05A-C47B-454E-816B-7CF11C705AA0",
+        "type": "message",
+        "text": "Tis indeed",
+        "user": "U15HY5TG8",
+        "ts": "1521492936.000101"
+    },
+    {
+        "type": "message",
+        "text": "It's not very compatible",
+        "user": "U15J5H60P",
+        "ts": "1521492940.000174"
+    },
+    {
+        "client_msg_id": "DC2EA0C0-9720-45FA-9D0A-36643F48DD6A",
+        "type": "message",
+        "text": "And not too sure",
+        "user": "U15HY5TG8",
+        "ts": "1521492941.000407"
+    },
+    {
+        "type": "message",
+        "text": "It's mostly for .NET Core",
+        "user": "U15J5H60P",
+        "ts": "1521492946.000039"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> did I mention you? or <@U15HY5TG8>?",
+        "user": "U15HRTAHL",
+        "ts": "1521492951.000409"
+    },
+    {
+        "type": "message",
+        "text": "I think <@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1521492955.000493"
+    },
+    {
+        "type": "message",
+        "text": "So existing .NET projects would have to be ported",
+        "user": "U15J5H60P",
+        "ts": "1521492956.000279"
+    },
+    {
+        "type": "message",
+        "text": "Ya fucker",
+        "user": "U15J5H60P",
+        "ts": "1521492958.000167"
+    },
+    {
+        "type": "message",
+        "text": ":smirk:",
+        "user": "U15HRTAHL",
+        "ts": "1521492961.000612"
+    },
+    {
+        "client_msg_id": "67A2DE84-5EE6-4D14-95EF-D114A132466B",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1521492962.000692"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1521492964.000353"
+    },
+    {
+        "type": "message",
+        "text": "im jk",
+        "user": "U15HRTAHL",
+        "ts": "1521492966.000118"
+    },
+    {
+        "type": "message",
+        "text": "Ik",
+        "user": "U15J5H60P",
+        "ts": "1521492967.000623"
+    },
+    {
+        "type": "message",
+        "text": "I value your input",
+        "user": "U15HRTAHL",
+        "ts": "1521492969.000195"
+    },
+    {
+        "type": "message",
+        "text": "I don't value your snark",
+        "user": "U15J5H60P",
+        "ts": "1521492977.000459"
+    },
+    {
+        "type": "message",
+        "text": "Or your life",
+        "user": "U15J5H60P",
+        "ts": "1521492982.000398"
+    },
+    {
+        "client_msg_id": "C4D6E793-977C-4BB1-9A15-F18B5F1BB5A0",
+        "type": "message",
+        "text": "I was looking at the release notes for vs mac and it looked like a few inconsistancies were noticed",
+        "user": "U15HY5TG8",
+        "ts": "1521493012.000741"
+    }
+]

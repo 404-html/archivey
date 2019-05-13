@@ -1,0 +1,114 @@
+[
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548359126.000200",
+        "text": "<@U15HZ01QX> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548359126.000400",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548359126.000600",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548359126.000800",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548359126.001000",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "client_msg_id": "59bd7e9e-443c-498e-bdaf-e0b45ebbbc20",
+        "type": "message",
+        "text": "what the helll lol",
+        "user": "U15HY5TG8",
+        "ts": "1548359173.001200"
+    },
+    {
+        "client_msg_id": "f1b76c6e-0b00-412a-9bdf-907624fb7a41",
+        "type": "message",
+        "text": "Channel got out of hand",
+        "user": "U15HZ01QX",
+        "ts": "1548359195.001600"
+    },
+    {
+        "client_msg_id": "9b26c27d-22fc-4221-9290-934427d57baa",
+        "type": "message",
+        "text": "lol.",
+        "user": "U15J5H60P",
+        "ts": "1548359452.001800"
+    },
+    {
+        "client_msg_id": "9b56ed2c-3290-4b7e-ad05-f9d9ac5dadcf",
+        "type": "message",
+        "text": "it was a great time though",
+        "user": "U15HY5TG8",
+        "ts": "1548359541.002000"
+    },
+    {
+        "client_msg_id": "595bfa23-bc65-4d88-9550-cb9b675f7fc5",
+        "type": "message",
+        "text": "<https:\/\/www.zillow.com\/homes\/for_sale\/Milwaukee-WI\/40445309_zpid\/5976_rid\/2-_beds\/96000-2328000_price\/381-9239_mp\/mostrecentchange_sort\/43.220689,-87.708321,42.895082,-88.226052_rect\/10_zm\/X1.dash.SS.dash.1tyi09bn5hpx_540hi_sse\/>",
+        "user": "U15HZ01QX",
+        "ts": "1548359591.002200",
+        "attachments": [
+            {
+                "title": "2800 N Emery Ave, Milwaukee, WI 53210 | MLS #1620631 | Zillow",
+                "title_link": "https:\/\/www.zillow.com\/homes\/for_sale\/Milwaukee-WI\/40445309_zpid\/5976_rid\/2-_beds\/96000-2328000_price\/381-9239_mp\/mostrecentchange_sort\/43.220689,-87.708321,42.895082,-88.226052_rect\/10_zm\/X1.dash.SS.dash.1tyi09bn5hpx_540hi_sse\/",
+                "text": "For sale: $299,900. Enderis Park gem! Stately in presence and classic in style, this brick center entrance colonial has been updated &amp; remodeled, yet retains its charm! Striking interior boasts an all-new kitchen showcasing a full suite of new stainless steel appliances, elegant granite counters w\/stylish glass subway tile backsplash, &amp; dinette leading to a formal dining room w\/built-ins. Spacious living room w\/fireplace makes for a great place to gather or relax. Refinished HWFs &amp; crown molding grace the living &amp; dining rooms &amp; foyer. Ascend the gracious staircase to four generous bedrooms, including a master w\/shared access to gorgeously remodeled full bath, &amp; 2nd updated full bath. Large rec room w\/bar &amp; adjacent 1\/2 bath is an amazing space to entertain. Attached garage. A beautiful home to own &amp; behold!",
+                "fallback": "2800 N Emery Ave, Milwaukee, WI 53210 | MLS #1620631 | Zillow",
+                "image_url": "https:\/\/photos.zillowstatic.com\/p_d\/ISa5agavkqyo0k0000000000.jpg",
+                "from_url": "https:\/\/www.zillow.com\/homes\/for_sale\/Milwaukee-WI\/40445309_zpid\/5976_rid\/2-_beds\/96000-2328000_price\/381-9239_mp\/mostrecentchange_sort\/43.220689,-87.708321,42.895082,-88.226052_rect\/10_zm\/X1.dash.SS.dash.1tyi09bn5hpx_540hi_sse\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 54876,
+                "service_icon": "https:\/\/www.zillowstatic.com\/static\/images\/m\/apple-touch-icon.png",
+                "service_name": "zillow.com",
+                "id": 1,
+                "original_url": "https:\/\/www.zillow.com\/homes\/for_sale\/Milwaukee-WI\/40445309_zpid\/5976_rid\/2-_beds\/96000-2328000_price\/381-9239_mp\/mostrecentchange_sort\/43.220689,-87.708321,42.895082,-88.226052_rect\/10_zm\/X1.dash.SS.dash.1tyi09bn5hpx_540hi_sse\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ef8647f-b0d5-4b4f-b412-6ca1a4791011",
+        "type": "message",
+        "text": "What is your price range",
+        "user": "U15J5H60P",
+        "ts": "1548359602.002600"
+    },
+    {
+        "client_msg_id": "4c2ee063-9940-4c73-8d89-e2477574ea64",
+        "type": "message",
+        "text": "Big shrug",
+        "user": "U15HZ01QX",
+        "ts": "1548359697.002800"
+    },
+    {
+        "client_msg_id": "b14a7e0b-3326-48c8-8e03-f901ac9e6c84",
+        "type": "message",
+        "text": "probably not that 300k though",
+        "user": "U15HZ01QX",
+        "ts": "1548359709.003100"
+    }
+]

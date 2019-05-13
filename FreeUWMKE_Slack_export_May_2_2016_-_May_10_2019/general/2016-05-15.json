@@ -1,0 +1,4456 @@
+[
+    {
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15HY5TG8",
+        "ts": "1463307977.000002"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/imgur.com\/a\/Pu3Vf>",
+        "user": "U15J5H60P",
+        "ts": "1463323766.000002",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Best Buy sale ad from October 23, 1994",
+                "title_link": "http:\/\/imgur.com\/a\/Pu3Vf",
+                "text": "Imgur: The most awesome images on the Internet.",
+                "fallback": "Imgur: Best Buy sale ad from October 23, 1994",
+                "image_url": "http:\/\/i.imgur.com\/gKG4ILx.jpg?fb",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/imgur.com\/a\/Pu3Vf",
+                "image_bytes": 53000,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Somebody's getting fired",
+        "user": "U15HSHSS2",
+        "ts": "1463335439.000002"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.samsung.com\/us\/video\/tvs\/UN40KU7000FXZA>",
+        "user": "U15HSHSS2",
+        "ts": "1463335452.000003"
+    },
+    {
+        "type": "message",
+        "text": "Get it while you still can",
+        "user": "U15HSHSS2",
+        "ts": "1463335458.000004"
+    },
+    {
+        "type": "message",
+        "text": "im confused",
+        "user": "U15HRTAHL",
+        "ts": "1463335557.000005"
+    },
+    {
+        "type": "message",
+        "text": "about what",
+        "user": "U15HSHSS2",
+        "ts": "1463335585.000006"
+    },
+    {
+        "type": "message",
+        "text": "oh shit 100",
+        "user": "U15HRTAHL",
+        "ts": "1463335602.000007"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1463335605.000008"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192J7H3P",
+                "created": 1463335617,
+                "timestamp": 1463335617,
+                "name": "Screen Shot 2016-05-15 at 1.06.46 PM.png",
+                "title": "Screen Shot 2016-05-15 at 1.06.46 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 53319,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192J7H3P\/screen_shot_2016-05-15_at_1.06.46_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192J7H3P\/download\/screen_shot_2016-05-15_at_1.06.46_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 228,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 304,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 456,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 608,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192J7H3P-3c721dce37\/screen_shot_2016-05-15_at_1.06.46_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 648,
+                "image_exif_rotation": 1,
+                "original_w": 1068,
+                "original_h": 676,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F192J7H3P\/screen_shot_2016-05-15_at_1.06.46_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192J7H3P-a8c12cdbb7",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463335622.000009"
+    },
+    {
+        "type": "message",
+        "text": "4k ultra hd smart samsung tv",
+        "user": "U15HSHSS2",
+        "ts": "1463335626.000010"
+    },
+    {
+        "type": "message",
+        "text": "mine did that a few times",
+        "user": "U15HSHSS2",
+        "ts": "1463335636.000011"
+    },
+    {
+        "type": "message",
+        "text": "but they could have caught it by nlw",
+        "user": "U15HSHSS2",
+        "ts": "1463335645.000012"
+    },
+    {
+        "type": "message",
+        "text": "The site is fucked",
+        "user": "U15HZ01QX",
+        "ts": "1463335645.000013"
+    },
+    {
+        "type": "message",
+        "text": "now*",
+        "user": "U15HSHSS2",
+        "ts": "1463335647.000014"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463335741.000015"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463335742.000016"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463335743.000017"
+    },
+    {
+        "type": "message",
+        "text": "what",
+        "user": "U15HRTAHL",
+        "ts": "1463335746.000018"
+    },
+    {
+        "type": "message",
+        "text": "i cant get it",
+        "user": "U15HZ01QX",
+        "ts": "1463335755.000019"
+    },
+    {
+        "type": "message",
+        "text": "why not",
+        "user": "U15HRTAHL",
+        "ts": "1463335762.000020"
+    },
+    {
+        "type": "message",
+        "text": "tom did you get it?",
+        "user": "U15HRTAHL",
+        "ts": "1463335796.000021"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>:",
+        "user": "U15HRTAHL",
+        "ts": "1463335798.000022"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HSHSS2",
+        "ts": "1463335808.000023"
+    },
+    {
+        "type": "message",
+        "text": "how many did you buy",
+        "user": "U15HRTAHL",
+        "ts": "1463335817.000024"
+    },
+    {
+        "type": "message",
+        "text": "its letting me do it again",
+        "user": "U15HSHSS2",
+        "ts": "1463335822.000025"
+    },
+    {
+        "type": "message",
+        "text": "im at the checkout screen again",
+        "user": "U15HSHSS2",
+        "ts": "1463335833.000026"
+    },
+    {
+        "type": "message",
+        "text": "I AMDE IT",
+        "user": "U15HRTAHL",
+        "ts": "1463335844.000027"
+    },
+    {
+        "type": "message",
+        "text": "i just got 1 cuz i was panicking and doing it as fast as i could",
+        "user": "U15HSHSS2",
+        "ts": "1463335854.000028"
+    },
+    {
+        "type": "message",
+        "text": "Im buying two",
+        "user": "U15HRTAHL",
+        "ts": "1463335875.000029"
+    },
+    {
+        "type": "message",
+        "text": "niiccee",
+        "user": "U15HSHSS2",
+        "ts": "1463335882.000030"
+    },
+    {
+        "type": "message",
+        "text": "I accidently added 2 to my cart",
+        "user": "U15HRTAHL",
+        "ts": "1463335883.000031"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1463335890.000032"
+    },
+    {
+        "type": "message",
+        "text": "so looks like im buying twp",
+        "user": "U15HRTAHL",
+        "ts": "1463335891.000033"
+    },
+    {
+        "type": "message",
+        "text": "just sell it and make a like a 500 dollar profit",
+        "user": "U15HSHSS2",
+        "ts": "1463335910.000034"
+    },
+    {
+        "type": "message",
+        "text": "What if they charge you for the extra 900",
+        "user": "U15HRTAHL",
+        "ts": "1463335916.000035"
+    },
+    {
+        "type": "message",
+        "text": "they cant, transaction already went through and it was 100",
+        "user": "U15HSHSS2",
+        "ts": "1463335961.000036"
+    },
+    {
+        "type": "message",
+        "text": "AAAHAHAHAGHAHFASGJDSGHJDSHJ",
+        "user": "U15HZ01QX",
+        "ts": "1463335982.000037"
+    },
+    {
+        "type": "message",
+        "text": "they cant just charge people shit cuz they fucked up",
+        "user": "U15HSHSS2",
+        "ts": "1463335983.000038"
+    },
+    {
+        "type": "message",
+        "text": "RVULABVURVBREVGIORNVGRKUGVNRE",
+        "user": "U15HZ01QX",
+        "ts": "1463335986.000039"
+    },
+    {
+        "type": "message",
+        "text": "after the trasaction is over",
+        "user": "U15HSHSS2",
+        "ts": "1463335992.000040"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F1913LLUB",
+                "created": 1463336034,
+                "timestamp": 1463336034,
+                "name": "Screen Shot 2016-05-15 at 1.13.42 PM.png",
+                "title": "AHHHH",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 99710,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1913LLUB\/screen_shot_2016-05-15_at_1.13.42_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1913LLUB\/download\/screen_shot_2016-05-15_at_1.13.42_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 215,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 286,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 429,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 572,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1913LLUB-d69fe24d6e\/screen_shot_2016-05-15_at_1.13.42_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 610,
+                "image_exif_rotation": 1,
+                "original_w": 1396,
+                "original_h": 832,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F1913LLUB\/screen_shot_2016-05-15_at_1.13.42_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F1913LLUB-4741b42880",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463336037.000041"
+    },
+    {
+        "type": "message",
+        "text": "40 inch 4k ultra hd smart samsung tv for $100... man",
+        "user": "U15HSHSS2",
+        "ts": "1463336045.000042"
+    },
+    {
+        "type": "message",
+        "text": "awesomee",
+        "user": "U15HSHSS2",
+        "ts": "1463336048.000043"
+    },
+    {
+        "type": "message",
+        "text": "FUCK\nSERVICE UNAVAILABLE",
+        "user": "U15HRTAHL",
+        "ts": "1463336049.000044"
+    },
+    {
+        "type": "message",
+        "text": "mine did that too",
+        "user": "U15HSHSS2",
+        "ts": "1463336058.000045"
+    },
+    {
+        "type": "message",
+        "text": "3 times",
+        "user": "U15HSHSS2",
+        "ts": "1463336060.000046"
+    },
+    {
+        "type": "message",
+        "text": "i gave up, but then my friend got through and i kept trying",
+        "user": "U15HSHSS2",
+        "ts": "1463336072.000047"
+    },
+    {
+        "type": "message",
+        "text": "and it worked",
+        "user": "U15HSHSS2",
+        "ts": "1463336074.000048"
+    },
+    {
+        "type": "message",
+        "text": "I KEEP GETTING FUCKED",
+        "user": "U15HZ01QX",
+        "ts": "1463336083.000049"
+    },
+    {
+        "type": "message",
+        "text": "i even had to re do the whole thing and put it back in my cart again",
+        "user": "U15HSHSS2",
+        "ts": "1463336092.000050"
+    },
+    {
+        "type": "message",
+        "text": "haha james whats it doing for you?",
+        "user": "U15HSHSS2",
+        "ts": "1463336114.000051"
+    },
+    {
+        "type": "message",
+        "text": "on my computer its doing nothing",
+        "user": "U15HZ01QX",
+        "ts": "1463336130.000052"
+    },
+    {
+        "type": "message",
+        "text": "on my phone it takes my credit card stuff and then just shuts down",
+        "user": "U15HZ01QX",
+        "ts": "1463336145.000053"
+    },
+    {
+        "type": "message",
+        "text": "yeah i did it on my surface, but my buddy said it only worked on his phone",
+        "user": "U15HSHSS2",
+        "ts": "1463336175.000054"
+    },
+    {
+        "type": "message",
+        "text": "I can't get to my cart",
+        "user": "U15HRTAHL",
+        "ts": "1463336208.000055"
+    },
+    {
+        "type": "message",
+        "text": "joe if you get through buy 2",
+        "user": "U15HZ01QX",
+        "ts": "1463336261.000056"
+    },
+    {
+        "type": "message",
+        "text": "I will",
+        "user": "U15HRTAHL",
+        "ts": "1463336266.000057"
+    },
+    {
+        "type": "message",
+        "text": "ill grab 2 for you",
+        "user": "U15HZ01QX",
+        "ts": "1463336276.000058"
+    },
+    {
+        "type": "message",
+        "text": "You're positive they can't charge us later?",
+        "user": "U15HRTAHL",
+        "ts": "1463336310.000059"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HSHSS2",
+        "ts": "1463336324.000060"
+    },
+    {
+        "type": "message",
+        "text": "lol every company would do that then",
+        "user": "U15HSHSS2",
+        "ts": "1463336343.000061"
+    },
+    {
+        "type": "message",
+        "text": "oops, we put our tv up for 100 and 10,000 people bought it",
+        "user": "U15HSHSS2",
+        "ts": "1463336359.000062"
+    },
+    {
+        "type": "message",
+        "text": "sorry its actually $5000",
+        "user": "U15HSHSS2",
+        "ts": "1463336372.000063"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463336380.000064"
+    },
+    {
+        "type": "message",
+        "text": "i got 2",
+        "user": "U15HZ01QX",
+        "ts": "1463336438.000065"
+    },
+    {
+        "type": "message",
+        "text": "did you get through?",
+        "user": "U15HRTAHL",
+        "ts": "1463336458.000066"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192GTH40",
+                "created": 1463336477,
+                "timestamp": 1463336477,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 134842,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192GTH40\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192GTH40\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192GTH40-3fa21399da\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F192GTH40\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192GTH40-68a4648169",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1463336480.000067"
+    },
+    {
+        "type": "message",
+        "text": "YES",
+        "user": "U15HRTAHL",
+        "ts": "1463336491.000068"
+    },
+    {
+        "type": "message",
+        "text": "Tommy you're the best",
+        "user": "U15HZ01QX",
+        "ts": "1463336491.000069"
+    },
+    {
+        "type": "message",
+        "text": "Keep trying Joe cuz I'll take two of them if I can",
+        "user": "U15HZ01QX",
+        "ts": "1463336507.000070"
+    },
+    {
+        "type": "message",
+        "text": "If you can't get it I'll just let you take this one though",
+        "user": "U15HZ01QX",
+        "ts": "1463336519.000071"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HRTAHL",
+        "ts": "1463336519.000072"
+    },
+    {
+        "type": "message",
+        "text": "attaa booyy",
+        "user": "U15HSHSS2",
+        "ts": "1463336531.000073"
+    },
+    {
+        "type": "message",
+        "text": "Honestly I'd probably buy 4",
+        "user": "U15HZ01QX",
+        "ts": "1463336532.000074"
+    },
+    {
+        "type": "message",
+        "text": "I can stock my house and cieras and give one to my little brother",
+        "user": "U15HZ01QX",
+        "ts": "1463336558.000075"
+    },
+    {
+        "type": "message",
+        "text": "the worst thing samsung could do is somehow cancel all the orders",
+        "user": "U15HSHSS2",
+        "ts": "1463336567.000076"
+    },
+    {
+        "type": "message",
+        "text": "which i dont think is possible either",
+        "user": "U15HSHSS2",
+        "ts": "1463336573.000077"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1463336581.000078"
+    },
+    {
+        "type": "message",
+        "text": "something i did notice though",
+        "user": "U15HSHSS2",
+        "ts": "1463336627.000079"
+    },
+    {
+        "type": "message",
+        "text": "i never got a confirmatoin email",
+        "user": "U15HSHSS2",
+        "ts": "1463336634.000080"
+    },
+    {
+        "type": "message",
+        "text": "which may just be because the system is bogged down",
+        "user": "U15HSHSS2",
+        "ts": "1463336647.000081"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463336678.000082"
+    },
+    {
+        "type": "message",
+        "text": "that would suck",
+        "user": "U15HZ01QX",
+        "ts": "1463336686.000083"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.samsung.com\/us\/video\/tvs\/UN40KU7000FXZA>",
+        "user": "U15HRTAHL",
+        "ts": "1463336705.000084"
+    },
+    {
+        "type": "message",
+        "text": "I needed to repaste it",
+        "user": "U15HRTAHL",
+        "ts": "1463336713.000085"
+    },
+    {
+        "type": "message",
+        "text": "im worried theyre gonna cancel them",
+        "user": "U15HZ01QX",
+        "ts": "1463336803.000086"
+    },
+    {
+        "type": "message",
+        "text": "so im trying not to get my hopes up",
+        "user": "U15HZ01QX",
+        "ts": "1463336825.000087"
+    },
+    {
+        "type": "message",
+        "text": "James what steps did you go through to get it?",
+        "user": "U15HRTAHL",
+        "ts": "1463336835.000088"
+    },
+    {
+        "type": "message",
+        "text": "add to cart -&gt; checkout?",
+        "user": "U15HRTAHL",
+        "ts": "1463336846.000089"
+    },
+    {
+        "type": "message",
+        "text": "i think so",
+        "user": "U15HZ01QX",
+        "ts": "1463336889.000090"
+    },
+    {
+        "type": "message",
+        "text": "it was like review order",
+        "user": "U15HZ01QX",
+        "ts": "1463336915.000091"
+    },
+    {
+        "type": "message",
+        "text": "then it was processing",
+        "user": "U15HZ01QX",
+        "ts": "1463336921.000092"
+    },
+    {
+        "type": "message",
+        "text": "then my card got charged",
+        "user": "U15HZ01QX",
+        "ts": "1463336927.000093"
+    },
+    {
+        "type": "message",
+        "text": "God I got the checkout page and it crashed on me",
+        "user": "U15HRTAHL",
+        "ts": "1463336942.000094"
+    },
+    {
+        "type": "message",
+        "text": "just redo it",
+        "user": "U15HZ01QX",
+        "ts": "1463336967.000095"
+    },
+    {
+        "type": "message",
+        "text": "Tommy how did you find this?",
+        "user": "U15HRTAHL",
+        "ts": "1463337017.000096"
+    },
+    {
+        "type": "message",
+        "text": "thats my question also",
+        "user": "U15HZ01QX",
+        "ts": "1463337028.000097"
+    },
+    {
+        "type": "message",
+        "text": "James did you do view cart or checkout?",
+        "user": "U15HRTAHL",
+        "ts": "1463337042.000098"
+    },
+    {
+        "type": "message",
+        "text": "lol watcha all of our cc info is now in a database that was compromised",
+        "user": "U15HRTAHL",
+        "ts": "1463337063.000099"
+    },
+    {
+        "type": "message",
+        "text": "lol its a hacked page",
+        "user": "U15HZ01QX",
+        "ts": "1463337079.000100"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463337082.000101"
+    },
+    {
+        "type": "message",
+        "text": "My friend said his brother showed him",
+        "user": "U15HSHSS2",
+        "ts": "1463337092.000102"
+    },
+    {
+        "type": "message",
+        "text": "then he texted me",
+        "user": "U15HSHSS2",
+        "ts": "1463337096.000103"
+    },
+    {
+        "type": "message",
+        "text": "its a setup",
+        "user": "U15HZ01QX",
+        "ts": "1463337109.000104"
+    },
+    {
+        "type": "message",
+        "text": "I keep getting asked to type in a password",
+        "user": "U15HRTAHL",
+        "ts": "1463337131.000105"
+    },
+    {
+        "type": "message",
+        "text": "api.digitalriver",
+        "user": "U15HRTAHL",
+        "ts": "1463337139.000106"
+    },
+    {
+        "type": "message",
+        "text": "so add to your cart",
+        "user": "U15HZ01QX",
+        "ts": "1463337192.000107"
+    },
+    {
+        "type": "message",
+        "text": "wait for the loading blue bar to reach halfway across the screen",
+        "user": "U15HZ01QX",
+        "ts": "1463337205.000108"
+    },
+    {
+        "type": "message",
+        "text": "then hit checkout",
+        "user": "U15HZ01QX",
+        "ts": "1463337210.000109"
+    },
+    {
+        "type": "message",
+        "text": "if you try and continue before the site finishes its background stuff itll send you to the api screen",
+        "user": "U15HZ01QX",
+        "ts": "1463337234.000110"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1463337243.000111"
+    },
+    {
+        "type": "message",
+        "text": "it seems like the loading bar goes to halfway when its done",
+        "user": "U15HZ01QX",
+        "ts": "1463337286.000112"
+    },
+    {
+        "type": "message",
+        "text": "the desktop site is kaput",
+        "user": "U15HZ01QX",
+        "ts": "1463337308.000113"
+    },
+    {
+        "type": "message",
+        "text": "some people are saying it will probably get canceled",
+        "user": "U15HSHSS2",
+        "ts": "1463337341.000114"
+    },
+    {
+        "type": "message",
+        "text": "although some people are going into walmarts and making them price match",
+        "user": "U15HSHSS2",
+        "ts": "1463337361.000115"
+    },
+    {
+        "type": "message",
+        "text": "I can get to the shipping page but thats it",
+        "user": "U15HRTAHL",
+        "ts": "1463337368.000116"
+    },
+    {
+        "type": "message",
+        "text": "fuck can i do that?",
+        "user": "U15HZ01QX",
+        "ts": "1463337411.000117"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1463337502.000118"
+    },
+    {
+        "type": "message",
+        "text": "I wish I could be home to do that right now",
+        "user": "U15J5H60P",
+        "ts": "1463337513.000119"
+    },
+    {
+        "type": "message",
+        "text": "you got a phone dont ya",
+        "user": "U15HSHSS2",
+        "ts": "1463337528.000120"
+    },
+    {
+        "type": "message",
+        "text": "Highly doubt they'll honor it",
+        "user": "U15J5H60P",
+        "ts": "1463337546.000121"
+    },
+    {
+        "type": "message",
+        "text": "I'm at the gym",
+        "user": "U15J5H60P",
+        "ts": "1463337549.000122"
+    },
+    {
+        "type": "message",
+        "text": "im gonna try and price match",
+        "user": "U15HZ01QX",
+        "ts": "1463337550.000123"
+    },
+    {
+        "type": "message",
+        "text": "I don't have my credit card",
+        "user": "U15J5H60P",
+        "ts": "1463337556.000124"
+    },
+    {
+        "type": "message",
+        "text": "cuz i read their terms of sale and there is no way we get those tvs",
+        "user": "U15HZ01QX",
+        "ts": "1463337571.000125"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1463337578.000126"
+    },
+    {
+        "type": "message",
+        "text": "YEah im gonna edit a html page so it says $10 and price match",
+        "user": "U15HRTAHL",
+        "ts": "1463337620.000127"
+    },
+    {
+        "type": "message",
+        "text": "brb",
+        "user": "U15HRTAHL",
+        "ts": "1463337620.000128"
+    },
+    {
+        "type": "message",
+        "text": "lol best buy isnt selling them yet",
+        "user": "U15HZ01QX",
+        "ts": "1463337676.000129"
+    },
+    {
+        "type": "message",
+        "text": "haha they load the page on there computers at walmart to confirm",
+        "user": "U15HSHSS2",
+        "ts": "1463337685.000130"
+    },
+    {
+        "type": "message",
+        "text": "their*",
+        "user": "U15HSHSS2",
+        "ts": "1463337691.000131"
+    },
+    {
+        "type": "message",
+        "text": "i dont think walmart is selling them yet?",
+        "user": "U15HZ01QX",
+        "ts": "1463337823.000132"
+    },
+    {
+        "type": "message",
+        "text": "do you know what store they have them",
+        "user": "U15HZ01QX",
+        "ts": "1463337829.000133"
+    },
+    {
+        "type": "message",
+        "text": "ugh got to the credit card page again",
+        "user": "U15HRTAHL",
+        "ts": "1463337948.000134"
+    },
+    {
+        "type": "message",
+        "text": "but can't get through",
+        "user": "U15HRTAHL",
+        "ts": "1463337952.000135"
+    },
+    {
+        "type": "message",
+        "text": "did you go guest checkout <@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1463337970.000136"
+    },
+    {
+        "type": "message",
+        "text": "Y ah I did",
+        "user": "U15HZ01QX",
+        "ts": "1463338098.000137"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F1916CE2F",
+                "created": 1463338111,
+                "timestamp": 1463338111,
+                "name": "Screen Shot 2016-05-15 at 1.47.26 PM.png",
+                "title": "IT KEEPS FUCKING CRASHING",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 235522,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1916CE2F\/screen_shot_2016-05-15_at_1.47.26_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1916CE2F\/download\/screen_shot_2016-05-15_at_1.47.26_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 481,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 641,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916CE2F-2d035773c6\/screen_shot_2016-05-15_at_1.47.26_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 684,
+                "image_exif_rotation": 1,
+                "original_w": 2010,
+                "original_h": 1342,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F1916CE2F\/screen_shot_2016-05-15_at_1.47.26_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F1916CE2F-39b4d3ad77",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463338115.000138"
+    },
+    {
+        "type": "message",
+        "text": "if it crashes alot i would start over",
+        "user": "U15HZ01QX",
+        "ts": "1463338141.000139"
+    },
+    {
+        "type": "message",
+        "text": "im bummed this wont work",
+        "user": "U15HZ01QX",
+        "ts": "1463338152.000140"
+    },
+    {
+        "type": "message",
+        "text": "If*",
+        "user": "U15HRTAHL",
+        "ts": "1463338175.000141"
+    },
+    {
+        "type": "message",
+        "text": "I wonder if I should call them",
+        "user": "U15HRTAHL",
+        "ts": "1463338487.000142"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463338489.000143"
+    },
+    {
+        "type": "message",
+        "text": "lol youll tip them off",
+        "user": "U15HZ01QX",
+        "ts": "1463338512.000144"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F1916U39R",
+                "created": 1463338512,
+                "timestamp": 1463338512,
+                "name": "Screen Shot 2016-05-15 at 1.54.53 PM.png",
+                "title": "Screen Shot 2016-05-15 at 1.54.53 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 24462,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1916U39R\/screen_shot_2016-05-15_at_1.54.53_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1916U39R\/download\/screen_shot_2016-05-15_at_1.54.53_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916U39R-d40599e03b\/screen_shot_2016-05-15_at_1.54.53_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916U39R-d40599e03b\/screen_shot_2016-05-15_at_1.54.53_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916U39R-d40599e03b\/screen_shot_2016-05-15_at_1.54.53_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 108,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916U39R-d40599e03b\/screen_shot_2016-05-15_at_1.54.53_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 144,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1916U39R-d40599e03b\/screen_shot_2016-05-15_at_1.54.53_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 612,
+                "original_h": 184,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F1916U39R\/screen_shot_2016-05-15_at_1.54.53_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F1916U39R-d27a0be305",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463338513.000145"
+    },
+    {
+        "type": "message",
+        "text": "I might give up soon",
+        "user": "U15HRTAHL",
+        "ts": "1463338691.000146"
+    },
+    {
+        "type": "message",
+        "text": "I FUCKING GOT IT",
+        "user": "U15HRTAHL",
+        "ts": "1463338854.000147"
+    },
+    {
+        "type": "message",
+        "text": "take a picture",
+        "user": "U15HZ01QX",
+        "ts": "1463338871.000148"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192NJU7P",
+                "created": 1463338951,
+                "timestamp": 1463338951,
+                "name": "Screen Shot 2016-05-15 at 2.01.49 PM.png",
+                "title": "Screen Shot 2016-05-15 at 2.01.49 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 878729,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192NJU7P\/screen_shot_2016-05-15_at_2.01.49_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192NJU7P\/download\/screen_shot_2016-05-15_at_2.01.49_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192NJU7P-19130b23e2\/screen_shot_2016-05-15_at_2.01.49_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 2880,
+                "original_h": 1800,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F192NJU7P\/screen_shot_2016-05-15_at_2.01.49_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192NJU7P-c219e202af",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463338958.000149"
+    },
+    {
+        "type": "message",
+        "text": "Amanda is at the gym.",
+        "user": "U15J5H60P",
+        "ts": "1463339099.000150"
+    },
+    {
+        "type": "message",
+        "text": "Gallieto ",
+        "user": "U15J5H60P",
+        "ts": "1463339105.000151"
+    },
+    {
+        "type": "message",
+        "text": "Or whatever ",
+        "user": "U15J5H60P",
+        "ts": "1463339108.000152"
+    },
+    {
+        "type": "message",
+        "text": "I can't look up my order",
+        "user": "U15HZ01QX",
+        "ts": "1463339114.000153"
+    },
+    {
+        "type": "message",
+        "text": " lol because they're deleting all of them :joy:",
+        "user": "U15J5H60P",
+        "ts": "1463339139.000154"
+    },
+    {
+        "type": "message",
+        "text": "ill rephrase",
+        "user": "U15HZ01QX",
+        "ts": "1463339320.000155"
+    },
+    {
+        "type": "message",
+        "text": "i cant see my account",
+        "user": "U15HZ01QX",
+        "ts": "1463339335.000156"
+    },
+    {
+        "type": "message",
+        "text": "Im calling me CC to make sure it went through",
+        "user": "U15HRTAHL",
+        "ts": "1463339371.000157"
+    },
+    {
+        "type": "message",
+        "text": "I got a text that I had to verify the transaction",
+        "user": "U15HRTAHL",
+        "ts": "1463339387.000158"
+    },
+    {
+        "type": "message",
+        "text": "like the accounts page isnt there",
+        "user": "U15HZ01QX",
+        "ts": "1463339401.000159"
+    },
+    {
+        "type": "message",
+        "text": "well we did use guest accounts",
+        "user": "U15HRTAHL",
+        "ts": "1463339430.000160"
+    },
+    {
+        "type": "message",
+        "text": "The transaction is probably pending",
+        "user": "U15J5H60P",
+        "ts": "1463339439.000161"
+    },
+    {
+        "type": "message",
+        "text": "It is Sunday after all",
+        "user": "U15J5H60P",
+        "ts": "1463339445.000162"
+    },
+    {
+        "type": "message",
+        "text": "It gets posted",
+        "user": "U15J5H60P",
+        "ts": "1463339452.000163"
+    },
+    {
+        "type": "message",
+        "text": "But in my experience it doesn't go through on Sundays",
+        "user": "U15J5H60P",
+        "ts": "1463339471.000164"
+    },
+    {
+        "type": "message",
+        "text": "And they can always cancel the transaction. So there's that.",
+        "user": "U15J5H60P",
+        "ts": "1463339487.000165"
+    },
+    {
+        "type": "message",
+        "text": "But that's just being pessimistic",
+        "user": "U15J5H60P",
+        "ts": "1463339502.000166"
+    },
+    {
+        "type": "message",
+        "text": "ill be curious to see what they do",
+        "user": "U15HZ01QX",
+        "ts": "1463339503.000167"
+    },
+    {
+        "type": "message",
+        "text": "I'm pretty sure this has happened before",
+        "user": "U15J5H60P",
+        "ts": "1463339515.000168"
+    },
+    {
+        "type": "message",
+        "text": "if they just pretend it never happen and refund stuff",
+        "user": "U15HZ01QX",
+        "ts": "1463339520.000169"
+    },
+    {
+        "type": "message",
+        "text": "I just can't remember what it was",
+        "user": "U15J5H60P",
+        "ts": "1463339526.000170"
+    },
+    {
+        "type": "message",
+        "text": "or if they send out an email",
+        "user": "U15HZ01QX",
+        "ts": "1463339530.000171"
+    },
+    {
+        "type": "message",
+        "text": "They'll probably make a public statement ",
+        "user": "U15J5H60P",
+        "ts": "1463339540.000172"
+    },
+    {
+        "type": "message",
+        "text": "I imagine that hundreds of orders are coming through",
+        "user": "U15J5H60P",
+        "ts": "1463339552.000173"
+    },
+    {
+        "type": "message",
+        "text": "reddit just figured it out 20 mins ago",
+        "user": "U15HZ01QX",
+        "ts": "1463339655.000174"
+    },
+    {
+        "type": "message",
+        "text": "or at least what i can see",
+        "user": "U15HZ01QX",
+        "ts": "1463339664.000175"
+    },
+    {
+        "type": "message",
+        "text": "Probably because no one wanted to post it so Samsung wouldn't catch on",
+        "user": "U15J5H60P",
+        "ts": "1463339683.000176"
+    },
+    {
+        "type": "message",
+        "text": "My guess is that you'll all get a refund",
+        "user": "U15J5H60P",
+        "ts": "1463339701.000177"
+    },
+    {
+        "type": "message",
+        "text": "But if you actually get the TV's that'd be pretty sick",
+        "user": "U15J5H60P",
+        "ts": "1463339721.000178"
+    },
+    {
+        "type": "message",
+        "text": "My credit card said it went through",
+        "user": "U15HRTAHL",
+        "ts": "1463339748.000179"
+    },
+    {
+        "type": "message",
+        "text": "this is awesome",
+        "user": "U15HRTAHL",
+        "ts": "1463339762.000180"
+    },
+    {
+        "type": "message",
+        "text": "I'm going to Walmart",
+        "user": "U15HZ01QX",
+        "ts": "1463340091.000181"
+    },
+    {
+        "type": "message",
+        "text": "I posted on Reddit a little bit after I told you guys",
+        "user": "U15HSHSS2",
+        "ts": "1463340175.000182"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/freebies\/comments\/4jhavr\/not_quite_a_freebie_but_damn_close_samsung_40\/>",
+        "user": "U15HSHSS2",
+        "ts": "1463340192.000183",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Not quite a freebie, but damn close. Samsung 40 inch 4k ultra HD smart TV - $100.00 • \/r\/freebies",
+                "title_link": "https:\/\/www.reddit.com\/r\/freebies\/comments\/4jhavr\/not_quite_a_freebie_but_damn_close_samsung_40\/",
+                "text": "16 points and 46 comments so far on reddit",
+                "fallback": "reddit: Not quite a freebie, but damn close. Samsung 40 inch 4k ultra HD smart TV - $100.00 • \/r\/freebies",
+                "thumb_url": "https:\/\/i.redditmedia.com\/mjorU4vBaVY1pkROY6Y-f8AkNhtfVTL8TXMnoEZAzsE.jpg?w=320&s=7ed36b2ccf09364b3abd349e1eeb7b7b",
+                "from_url": "https:\/\/www.reddit.com\/r\/freebies\/comments\/4jhavr\/not_quite_a_freebie_but_damn_close_samsung_40\/",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "There were also a few posts on other subs at that point",
+        "user": "U15HSHSS2",
+        "ts": "1463340207.000185"
+    },
+    {
+        "type": "message",
+        "text": "I don't think any walmarts by me have that exact model",
+        "user": "U15HSHSS2",
+        "ts": "1463340275.000186"
+    },
+    {
+        "type": "message",
+        "text": "I think they have to be the same to price match",
+        "user": "U15HSHSS2",
+        "ts": "1463340299.000187"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I think you're right but it can't hurt ",
+        "user": "U15HZ01QX",
+        "ts": "1463340470.000188"
+    },
+    {
+        "type": "message",
+        "text": "Very true",
+        "user": "U15HSHSS2",
+        "ts": "1463340490.000189"
+    },
+    {
+        "type": "message",
+        "text": "My roomate said they're 200 hundred now",
+        "user": "U15HRTAHL",
+        "ts": "1463340536.000190"
+    },
+    {
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463340552.000191"
+    },
+    {
+        "type": "message",
+        "text": "What's happening",
+        "user": "U15HZ01QX",
+        "ts": "1463340556.000192"
+    },
+    {
+        "type": "message",
+        "text": "he could also just be stupid",
+        "user": "U15HRTAHL",
+        "ts": "1463340580.000193"
+    },
+    {
+        "type": "message",
+        "text": "You figure if they were going to fix it then they'd really fix it",
+        "user": "U15HZ01QX",
+        "ts": "1463340600.000194"
+    },
+    {
+        "type": "message",
+        "text": "Still says 100 for me",
+        "user": "U15HSHSS2",
+        "ts": "1463340630.000195"
+    },
+    {
+        "type": "message",
+        "text": "Definitely still 100",
+        "user": "U15HZ01QX",
+        "ts": "1463340646.000196"
+    },
+    {
+        "type": "message",
+        "text": "Lol apparently I bought 2 as well",
+        "user": "U15HSHSS2",
+        "ts": "1463341110.000197"
+    },
+    {
+        "type": "message",
+        "text": "It's not here",
+        "user": "U15HZ01QX",
+        "ts": "1463341132.000198"
+    },
+    {
+        "type": "message",
+        "text": "Someone order me one. I'll give you $300 upon shipping confirmation ",
+        "user": "U15J5H60P",
+        "ts": "1463341164.000199"
+    },
+    {
+        "type": "message",
+        "text": "Lol well if this all actually ends up going through I'll give you one of mine for 100 Andrew",
+        "user": "U15HSHSS2",
+        "ts": "1463341328.000200"
+    },
+    {
+        "type": "message",
+        "text": "I only meant to order 1",
+        "user": "U15HSHSS2",
+        "ts": "1463341339.000201"
+    },
+    {
+        "type": "message",
+        "text": "Thanks, Tom. I'll still give you $300. Founder's fee. ",
+        "user": "U15J5H60P",
+        "ts": "1463341374.000202"
+    },
+    {
+        "type": "message",
+        "text": ":+1::skin-tone-3::+1::skin-tone-3:",
+        "user": "U15HSHSS2",
+        "ts": "1463341476.000203"
+    },
+    {
+        "type": "message",
+        "text": "Got shutdown at Walmart...",
+        "user": "U15HSHSS2",
+        "ts": "1463341490.000204"
+    },
+    {
+        "type": "message",
+        "text": "Has to be the same",
+        "user": "U15HSHSS2",
+        "ts": "1463341496.000205"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463341515.000206"
+    },
+    {
+        "type": "message",
+        "text": "Yeah more and more people are saying there's no chance this will go through",
+        "user": "U15HSHSS2",
+        "ts": "1463341731.000207"
+    },
+    {
+        "type": "message",
+        "text": "Also it's a new item that hasn't been shipped anywhere yet so no stores have them in stock",
+        "user": "U15HSHSS2",
+        "ts": "1463341755.000208"
+    },
+    {
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HRTAHL",
+        "ts": "1463341767.000209"
+    },
+    {
+        "type": "message",
+        "text": "I told some people at work about it",
+        "user": "U15HRTAHL",
+        "ts": "1463341777.000210"
+    },
+    {
+        "type": "message",
+        "text": "they said it might be illegal not to honor it",
+        "user": "U15HRTAHL",
+        "ts": "1463341787.000211"
+    },
+    {
+        "type": "message",
+        "text": "I guess we'll find out soon enough",
+        "user": "U15HSHSS2",
+        "ts": "1463341809.000212"
+    },
+    {
+        "type": "message",
+        "text": "I better get my damn money back Ina timely manner if they don't honor it",
+        "user": "U15HSHSS2",
+        "ts": "1463341827.000213"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463341898.000214"
+    },
+    {
+        "type": "message",
+        "text": "Lol this has happened before. Whoever it happened to last time just had their money refunded. I'll look up a sauce when I get home",
+        "user": "U15J5H60P",
+        "ts": "1463342303.000215"
+    },
+    {
+        "type": "message",
+        "text": "The gym went up to $40 for the summer",
+        "user": "U15J5H60P",
+        "ts": "1463342471.000216"
+    },
+    {
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1463342474.000217"
+    },
+    {
+        "type": "message",
+        "text": "Do I get gym access because I'm taking 6 credits ",
+        "user": "U15J5H60P",
+        "ts": "1463342489.000218"
+    },
+    {
+        "type": "message",
+        "text": "you should",
+        "user": "U15HRTAHL",
+        "ts": "1463342496.000219"
+    },
+    {
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1463342500.000220"
+    },
+    {
+        "type": "message",
+        "text": "They have the terms of sale on the bottom of the page, the key phrases is any submission of order on our part isn't a contract on their part it's only a offer on ours",
+        "user": "U15HZ01QX",
+        "ts": "1463342513.000221"
+    },
+    {
+        "type": "message",
+        "text": "It makes sense ",
+        "user": "U15J5H60P",
+        "ts": "1463342536.000222"
+    },
+    {
+        "type": "message",
+        "text": "I think online classes don't count towards the credit thing I don't think",
+        "user": "U15HZ01QX",
+        "ts": "1463342550.000223"
+    },
+    {
+        "type": "message",
+        "text": "Because let's say they didn't have inventory ",
+        "user": "U15J5H60P",
+        "ts": "1463342554.000224"
+    },
+    {
+        "type": "message",
+        "text": "Well it didn't for the bus",
+        "user": "U15HZ01QX",
+        "ts": "1463342557.000225"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1463342561.000226"
+    },
+    {
+        "type": "message",
+        "text": "I'll ask",
+        "user": "U15J5H60P",
+        "ts": "1463342564.000227"
+    },
+    {
+        "type": "message",
+        "text": "Or I'll just find out ",
+        "user": "U15J5H60P",
+        "ts": "1463342734.000228"
+    },
+    {
+        "type": "message",
+        "text": "The gym is closed from the 25th to the 30th I think",
+        "user": "U15J5H60P",
+        "ts": "1463342757.000229"
+    },
+    {
+        "type": "message",
+        "text": "It's prorated too",
+        "user": "U15HZ01QX",
+        "ts": "1463342826.000230"
+    },
+    {
+        "type": "message",
+        "text": "So if you wait a bit it'll be cheaper",
+        "user": "U15HZ01QX",
+        "ts": "1463342835.000231"
+    },
+    {
+        "type": "message",
+        "text": "It's over boys...",
+        "user": "U15HSHSS2",
+        "ts": "1463343581.000232"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F191DCT2P",
+                "created": 1463343596,
+                "timestamp": 1463343596,
+                "name": "Samsung terms of sale.jpg",
+                "title": "Samsung terms of sale",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 94456,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191DCT2P\/samsung_terms_of_sale.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191DCT2P\/download\/samsung_terms_of_sale.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191DCT2P-4edd592460\/samsung_terms_of_sale_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191DCT2P-4edd592460\/samsung_terms_of_sale_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191DCT2P-4edd592460\/samsung_terms_of_sale_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191DCT2P-4edd592460\/samsung_terms_of_sale_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191DCT2P-4edd592460\/samsung_terms_of_sale_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 320,
+                "original_h": 568,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/F191DCT2P\/samsung_terms_of_sale.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F191DCT2P-5dcdf59788",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "ts": "1463343598.000233"
+    },
+    {
+        "type": "message",
+        "text": "Last sentence in number 3",
+        "user": "U15HSHSS2",
+        "ts": "1463343614.000234"
+    },
+    {
+        "type": "message",
+        "text": "damn",
+        "user": "U15HRTAHL",
+        "ts": "1463343626.000235"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192ZHE81",
+                "created": 1463343641,
+                "timestamp": 1463343641,
+                "name": "Screen Shot 2016-05-15 at 3.17.30 PM.png",
+                "title": "they fixed it",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 86265,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192ZHE81\/screen_shot_2016-05-15_at_3.17.30_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192ZHE81\/download\/screen_shot_2016-05-15_at_3.17.30_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 142,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 190,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 285,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 380,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZHE81-1be65df306\/screen_shot_2016-05-15_at_3.17.30_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 405,
+                "image_exif_rotation": 1,
+                "original_w": 1284,
+                "original_h": 508,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F192ZHE81\/screen_shot_2016-05-15_at_3.17.30_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192ZHE81-7a870ce4bb",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463343643.000236"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1463343679.000237"
+    },
+    {
+        "type": "message",
+        "text": "Hey it was definitely atleast worth a try",
+        "user": "U15HSHSS2",
+        "ts": "1463343689.000238"
+    },
+    {
+        "type": "message",
+        "text": "oh yeah",
+        "user": "U15HRTAHL",
+        "ts": "1463343694.000239"
+    },
+    {
+        "type": "message",
+        "text": "maybe it will slip",
+        "user": "U15HRTAHL",
+        "ts": "1463343699.000240"
+    },
+    {
+        "type": "message",
+        "text": "who knows",
+        "user": "U15HRTAHL",
+        "ts": "1463343701.000241"
+    },
+    {
+        "type": "message",
+        "text": "That'd be sickk",
+        "user": "U15HSHSS2",
+        "ts": "1463343707.000242"
+    },
+    {
+        "type": "message",
+        "text": "If they email you and offer you 1 for 350 are you taking it?",
+        "user": "U15HZ01QX",
+        "ts": "1463343767.000243"
+    },
+    {
+        "type": "message",
+        "text": "its on my creddit card",
+        "files": [
+            {
+                "id": "F192ZMQTT",
+                "created": 1463343775,
+                "timestamp": 1463343775,
+                "name": "Screen Shot 2016-05-15 at 3.22.19 PM.png",
+                "title": "Screen Shot 2016-05-15 at 3.22.19 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 44281,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192ZMQTT\/screen_shot_2016-05-15_at_3.22.19_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192ZMQTT\/download\/screen_shot_2016-05-15_at_3.22.19_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 127,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 170,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 255,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 340,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192ZMQTT-fc0da19302\/screen_shot_2016-05-15_at_3.22.19_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 363,
+                "image_exif_rotation": 1,
+                "original_w": 1192,
+                "original_h": 422,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F192ZMQTT\/screen_shot_2016-05-15_at_3.22.19_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192ZMQTT-ad6d8087b1",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463343778.000244"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192LHFEJ",
+                "created": 1463343825,
+                "timestamp": 1463343825,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 221308,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192LHFEJ\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192LHFEJ\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192LHFEJ-1897d69817\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F192LHFEJ\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192LHFEJ-9d73d1b588",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1463343828.000245"
+    },
+    {
+        "type": "message",
+        "text": "whats CTRL?",
+        "user": "U15HRTAHL",
+        "ts": "1463343874.000246"
+    },
+    {
+        "type": "message",
+        "text": "is that an app",
+        "user": "U15HRTAHL",
+        "ts": "1463343877.000247"
+    },
+    {
+        "type": "message",
+        "text": "or your bank",
+        "user": "U15HRTAHL",
+        "ts": "1463343880.000248"
+    },
+    {
+        "type": "message",
+        "text": "Bank credit control app",
+        "user": "U15HZ01QX",
+        "ts": "1463343892.000249"
+    },
+    {
+        "type": "message",
+        "text": "For Andrew and my bank",
+        "user": "U15HZ01QX",
+        "ts": "1463343896.000250"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1463343906.000251"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192UNX3R",
+                "created": 1463344001,
+                "timestamp": 1463344001,
+                "name": "Screen Shot 2016-05-15 at 3.26.23 PM.png",
+                "title": "I have the invoice",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 165670,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192UNX3R\/screen_shot_2016-05-15_at_3.26.23_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192UNX3R\/download\/screen_shot_2016-05-15_at_3.26.23_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 359,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 479,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 719,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 958,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192UNX3R-1f0e8231dd\/screen_shot_2016-05-15_at_3.26.23_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1022,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1200,
+                "original_h": 1202,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F192UNX3R\/screen_shot_2016-05-15_at_3.26.23_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192UNX3R-b61a2a1a7b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463344004.000252"
+    },
+    {
+        "type": "message",
+        "text": "I couldn't get there",
+        "user": "U15HZ01QX",
+        "ts": "1463344265.000253"
+    },
+    {
+        "type": "message",
+        "text": "its not under my account",
+        "user": "U15HRTAHL",
+        "ts": "1463344279.000254"
+    },
+    {
+        "type": "message",
+        "text": "here let me link you",
+        "user": "U15HRTAHL",
+        "ts": "1463344281.000255"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/shop.us.samsung.com\/store?Action=DisplayCustomerServiceOrderSearchPage&amp;Env=BASE&amp;Locale=en_US&amp;SiteID=samsung>",
+        "user": "U15HRTAHL",
+        "ts": "1463344299.000256"
+    },
+    {
+        "type": "message",
+        "text": "Now it works",
+        "user": "U15HZ01QX",
+        "ts": "1463344403.000257"
+    },
+    {
+        "type": "message",
+        "text": "I tried that earlier and it crashed ",
+        "user": "U15HZ01QX",
+        "ts": "1463344413.000258"
+    },
+    {
+        "type": "message",
+        "text": "James Tommy",
+        "user": "U15J5H60P",
+        "ts": "1463344654.000259"
+    },
+    {
+        "type": "message",
+        "text": "When's HCI",
+        "user": "U15J5H60P",
+        "ts": "1463344660.000260"
+    },
+    {
+        "type": "message",
+        "text": "Wednesday",
+        "user": "U15HZ01QX",
+        "ts": "1463344696.000261"
+    },
+    {
+        "type": "message",
+        "text": "Ok. When do you want to meet up and make the presentation",
+        "user": "U15J5H60P",
+        "ts": "1463344719.000262"
+    },
+    {
+        "type": "message",
+        "text": "Tomorrow evening",
+        "user": "U15HZ01QX",
+        "ts": "1463344816.000263"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F1931KPR7",
+                "created": 1463345458,
+                "timestamp": 1463345458,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 51971,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1931KPR7\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1931KPR7\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1931KPR7-f53c0badd1\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1931KPR7-f53c0badd1\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1931KPR7-f53c0badd1\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1931KPR7-f53c0badd1\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1931KPR7-f53c0badd1\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 375,
+                "original_h": 667,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F1931KPR7\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F1931KPR7-e3ea83bb55",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1463345459.000264"
+    },
+    {
+        "type": "message",
+        "text": "lololol",
+        "user": "U15HRTAHL",
+        "ts": "1463345564.000265"
+    },
+    {
+        "type": "message",
+        "text": "Goddamn... Can you imagine if we got that shit for 100 bucks",
+        "user": "U15HSHSS2",
+        "ts": "1463345593.000266"
+    },
+    {
+        "type": "message",
+        "text": "I hope we do",
+        "user": "U15HRTAHL",
+        "ts": "1463345607.000267"
+    },
+    {
+        "type": "message",
+        "text": "Lol it'd be irresponsible not to sell it",
+        "user": "U15HZ01QX",
+        "ts": "1463345617.000268"
+    },
+    {
+        "type": "message",
+        "text": "We'd make like 750 a tv",
+        "user": "U15HZ01QX",
+        "ts": "1463345628.000269"
+    },
+    {
+        "type": "message",
+        "text": "I'd keep mine",
+        "user": "U15HRTAHL",
+        "ts": "1463345636.000270"
+    },
+    {
+        "type": "message",
+        "text": "If I had bought 2 then yea",
+        "user": "U15HRTAHL",
+        "ts": "1463345649.000271"
+    },
+    {
+        "type": "message",
+        "text": "Idk if I sold both of mine I could have 1500",
+        "user": "U15HZ01QX",
+        "ts": "1463345741.000272"
+    },
+    {
+        "type": "message",
+        "text": "I could buy 1 300 dollar tv the ps4.5 and still have a nice chunk left ",
+        "user": "U15HZ01QX",
+        "ts": "1463345820.000273"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: also are we playing uncharted at some point or what?",
+        "user": "U15HZ01QX",
+        "ts": "1463346392.000274",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1463346401.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Maybe.",
+        "user": "U15J5H60P",
+        "ts": "1463346447.000276"
+    },
+    {
+        "type": "message",
+        "text": "I have to study",
+        "user": "U15J5H60P",
+        "ts": "1463346457.000277"
+    },
+    {
+        "type": "message",
+        "text": "OS is going to rape me",
+        "user": "U15J5H60P",
+        "ts": "1463346474.000278"
+    },
+    {
+        "type": "message",
+        "text": "It must be Indians that own halal guys",
+        "user": "U15J5H60P",
+        "ts": "1463346705.000279"
+    },
+    {
+        "type": "message",
+        "text": "Thats all I've seen in there so far",
+        "user": "U15J5H60P",
+        "ts": "1463346726.000280"
+    },
+    {
+        "type": "message",
+        "text": "Plus they close at like 10",
+        "user": "U15J5H60P",
+        "ts": "1463346734.000281"
+    },
+    {
+        "type": "message",
+        "text": "Did you go there?",
+        "user": "U15HRTAHL",
+        "ts": "1463346740.000282"
+    },
+    {
+        "type": "message",
+        "text": "Which is dumb",
+        "user": "U15J5H60P",
+        "ts": "1463346743.000283"
+    },
+    {
+        "type": "message",
+        "text": "Not yet",
+        "user": "U15J5H60P",
+        "ts": "1463346745.000284"
+    },
+    {
+        "type": "message",
+        "text": "if you do let me know what you think",
+        "user": "U15HRTAHL",
+        "ts": "1463346753.000285"
+    },
+    {
+        "type": "message",
+        "text": "I might go later this week",
+        "user": "U15J5H60P",
+        "ts": "1463346753.000286"
+    },
+    {
+        "type": "message",
+        "text": "Will do",
+        "user": "U15J5H60P",
+        "ts": "1463346757.000287"
+    },
+    {
+        "type": "message",
+        "text": "I think they cancelled the orders",
+        "user": "U15HRTAHL",
+        "ts": "1463346980.000288"
+    },
+    {
+        "type": "message",
+        "text": "I can't find the order anymore",
+        "user": "U15HRTAHL",
+        "ts": "1463346986.000289"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: <@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1463347037.000290"
+    },
+    {
+        "type": "message",
+        "text": "see if yours are still there",
+        "user": "U15HRTAHL",
+        "ts": "1463347042.000291"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F191HCP5H",
+                "created": 1463347052,
+                "timestamp": 1463347052,
+                "name": "Just cleaned the stove yesterday after lunch..jpg",
+                "title": "Just cleaned the stove yesterday after lunch.",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 2210323,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191HCP5H\/just_cleaned_the_stove_yesterday_after_lunch..jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191HCP5H\/download\/just_cleaned_the_stove_yesterday_after_lunch..jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191HCP5H-b97d5eceae\/just_cleaned_the_stove_yesterday_after_lunch._1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F191HCP5H\/just_cleaned_the_stove_yesterday_after_lunch..jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F191HCP5H-c2a6b08b98",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1463347060.000292"
+    },
+    {
+        "type": "message",
+        "text": "And now he's gone until Wednesday ",
+        "user": "U15J5H60P",
+        "ts": "1463347062.000293"
+    },
+    {
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15HY5TG8",
+        "ts": "1463347071.000294"
+    },
+    {
+        "type": "message",
+        "text": "what a dick",
+        "user": "U15HRTAHL",
+        "ts": "1463347088.000295"
+    },
+    {
+        "type": "message",
+        "text": "What our stove is gonna look like next year :wink:",
+        "user": "U15HY5TG8",
+        "ts": "1463347114.000296"
+    },
+    {
+        "type": "message",
+        "text": "Like a fiesta",
+        "user": "U15HRTAHL",
+        "ts": "1463347163.000297"
+    },
+    {
+        "type": "message",
+        "text": "but there's going to be a wall",
+        "user": "U15HRTAHL",
+        "ts": "1463347169.000298"
+    },
+    {
+        "type": "message",
+        "text": "you need to show your green card to get to it",
+        "user": "U15HRTAHL",
+        "ts": "1463347181.000299"
+    },
+    {
+        "type": "message",
+        "text": "Mines still there <@U15HRTAHL> <@U15HSHSS2> ",
+        "user": "U15HZ01QX",
+        "ts": "1463347416.000300"
+    },
+    {
+        "type": "message",
+        "text": "Welll fuck",
+        "user": "U15HY5TG8",
+        "ts": "1463347426.000301"
+    },
+    {
+        "type": "message",
+        "text": "I just opened a complaint",
+        "user": "U15HRTAHL",
+        "ts": "1463347531.000302"
+    },
+    {
+        "type": "message",
+        "text": "What have you guys been talking about? Some website fucked up their pricing online for TVs?",
+        "user": "U15HY5TG8",
+        "ts": "1463347883.000303"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1463347891.000304"
+    },
+    {
+        "type": "message",
+        "text": "a 1k tv was being sold for 100",
+        "user": "U15HRTAHL",
+        "ts": "1463347898.000305"
+    },
+    {
+        "type": "message",
+        "text": "james tommy and I bought some",
+        "user": "U15HRTAHL",
+        "ts": "1463347904.000306"
+    },
+    {
+        "type": "message",
+        "text": "Damnnnn lol",
+        "user": "U15HY5TG8",
+        "ts": "1463347962.000307"
+    },
+    {
+        "type": "message",
+        "text": "Youre getting refunded for sure lol",
+        "user": "U15HY5TG8",
+        "ts": "1463347973.000308"
+    },
+    {
+        "type": "message",
+        "text": "The response to that complaint is gonna be epic",
+        "user": "U15HZ01QX",
+        "ts": "1463348106.000309"
+    },
+    {
+        "type": "message",
+        "text": "I took screenshots of everything ",
+        "user": "U15HRTAHL",
+        "ts": "1463348240.000310"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>:",
+        "user": "U15HRTAHL",
+        "ts": "1463348705.000311"
+    },
+    {
+        "type": "message",
+        "text": "did they take down your oder",
+        "user": "U15HRTAHL",
+        "ts": "1463348711.000312"
+    },
+    {
+        "type": "message",
+        "text": "I'm going to raise hell if they don't honor it",
+        "user": "U15HRTAHL",
+        "ts": "1463349303.000313"
+    },
+    {
+        "type": "message",
+        "text": "How do I check my order?",
+        "user": "U15HSHSS2",
+        "ts": "1463349461.000314"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/shop.us.samsung.com\/store?Action=DisplayCustomerServiceOrderSearchPage&amp;Env=BASE&amp;Locale=en_US&amp;SiteID=samsung>",
+        "user": "U15HRTAHL",
+        "ts": "1463349481.000315"
+    },
+    {
+        "type": "message",
+        "text": "Theyre gonna say \"im sorry, due to the amount of orders this weekend, we could not fulfill your order. Your refunded order should show up on your credit card within the next two weeks\"",
+        "user": "U15HY5TG8",
+        "ts": "1463349571.000316"
+    },
+    {
+        "type": "message",
+        "text": "omg those fuckers",
+        "user": "U15HRTAHL",
+        "ts": "1463349603.000317"
+    },
+    {
+        "type": "message",
+        "text": "so I searched for my order",
+        "user": "U15HRTAHL",
+        "ts": "1463349608.000318"
+    },
+    {
+        "type": "message",
+        "text": "and it said \"No Results\"",
+        "user": "U15HRTAHL",
+        "ts": "1463349616.000319"
+    },
+    {
+        "type": "message",
+        "text": "I opened up the html and all the order information is there but the CSS has it hidden",
+        "user": "U15HRTAHL",
+        "ts": "1463349632.000320",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1463349637.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "those fuckers",
+        "user": "U15HRTAHL",
+        "ts": "1463349645.000322"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463349669.000323"
+    },
+    {
+        "type": "message",
+        "text": "Haha that's one temporary hack of a fix",
+        "user": "U15HSHSS2",
+        "ts": "1463349737.000324"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463349753.000325"
+    },
+    {
+        "type": "message",
+        "text": "Im going to raise hell",
+        "user": "U15HRTAHL",
+        "ts": "1463349758.000326"
+    },
+    {
+        "type": "message",
+        "text": "I'm going to contact my CC company and tell them and they'll take it over for me",
+        "user": "U15HRTAHL",
+        "ts": "1463349777.000327"
+    },
+    {
+        "type": "message",
+        "text": "Lol take over getting you a refund?",
+        "user": "U15HZ01QX",
+        "ts": "1463349808.000328"
+    },
+    {
+        "type": "message",
+        "text": "Have you guys gotten a confirmation email?",
+        "user": "U15HSHSS2",
+        "ts": "1463349825.000329"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1463349846.000330"
+    },
+    {
+        "type": "message",
+        "text": "but I have an invoice",
+        "user": "U15HRTAHL",
+        "ts": "1463349854.000331"
+    },
+    {
+        "type": "message",
+        "text": "And transaction statement",
+        "user": "U15HRTAHL",
+        "ts": "1463349862.000332"
+    },
+    {
+        "type": "message",
+        "text": "My buddy just got a confirmation email",
+        "user": "U15HSHSS2",
+        "ts": "1463349917.000333"
+    },
+    {
+        "type": "message",
+        "text": "did you get one yet?",
+        "user": "U15HRTAHL",
+        "ts": "1463350002.000334"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HSHSS2",
+        "ts": "1463350090.000335"
+    },
+    {
+        "type": "message",
+        "text": "how did your buddy find out?",
+        "user": "U15HRTAHL",
+        "ts": "1463350155.000336"
+    },
+    {
+        "type": "message",
+        "text": "They better shop those damn tvs",
+        "user": "U15HZ01QX",
+        "ts": "1463350755.000337"
+    },
+    {
+        "type": "message",
+        "text": "ship*?",
+        "user": "U15HRTAHL",
+        "ts": "1463350814.000338"
+    },
+    {
+        "type": "message",
+        "text": "I'm getting this tv",
+        "user": "U15HRTAHL",
+        "ts": "1463350841.000339"
+    },
+    {
+        "type": "message",
+        "text": "Uh huh lol",
+        "user": "U15HY5TG8",
+        "ts": "1463350855.000340"
+    },
+    {
+        "type": "message",
+        "text": "They took down the order search page",
+        "user": "U15HRTAHL",
+        "ts": "1463350903.000341"
+    },
+    {
+        "type": "message",
+        "text": "It's a scheme!",
+        "user": "U15HZ01QX",
+        "ts": "1463351075.000342"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463351086.000343"
+    },
+    {
+        "type": "message",
+        "text": "It specifically said in their terms of service that they don't have to honor it. It's childish behavior to think you're entitled to that price because of someone's mistake.",
+        "user": "U15J5H60P",
+        "ts": "1463351791.000344"
+    },
+    {
+        "type": "message",
+        "text": "thats fine",
+        "user": "U15HRTAHL",
+        "ts": "1463351807.000345"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1463351811.000346"
+    },
+    {
+        "type": "message",
+        "text": "I'm still gonna complain",
+        "user": "U15HRTAHL",
+        "ts": "1463351811.000347"
+    },
+    {
+        "type": "message",
+        "text": "I have an invoice, it was processed, im going to complain",
+        "user": "U15HRTAHL",
+        "ts": "1463351827.000348"
+    },
+    {
+        "type": "message",
+        "text": "Lol ok",
+        "user": "U15J5H60P",
+        "ts": "1463351838.000349"
+    },
+    {
+        "type": "message",
+        "text": "Lolol joe stop",
+        "user": "U15HY5TG8",
+        "ts": "1463351849.000350"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HRTAHL",
+        "ts": "1463351977.000351"
+    },
+    {
+        "type": "message",
+        "text": "James wants his tv's too",
+        "user": "U15HRTAHL",
+        "ts": "1463351985.000352"
+    },
+    {
+        "type": "message",
+        "text": "He didnt send it a complaint though lol",
+        "user": "U15HY5TG8",
+        "ts": "1463352021.000353"
+    },
+    {
+        "type": "message",
+        "text": "his orders aren't cancelled though?",
+        "user": "U15HRTAHL",
+        "ts": "1463352034.000354"
+    },
+    {
+        "type": "message",
+        "text": "For now",
+        "user": "U15HY5TG8",
+        "ts": "1463352091.000355"
+    },
+    {
+        "type": "message",
+        "text": "So until they make a statement im going to act like an idiot consumer who thought those prices are correct. What's wrong with trying?",
+        "user": "U15HRTAHL",
+        "ts": "1463352131.000356",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Smh lol",
+        "user": "U15HY5TG8",
+        "ts": "1463352158.000357"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1463352163.000358"
+    },
+    {
+        "type": "message",
+        "text": "I think it's smart",
+        "user": "U15HZ01QX",
+        "ts": "1463352309.000359"
+    },
+    {
+        "type": "message",
+        "text": "I mean if we don't get it we don't get it",
+        "user": "U15HZ01QX",
+        "ts": "1463352333.000360"
+    },
+    {
+        "type": "message",
+        "text": "Doesn't hurt to try though",
+        "user": "U15HZ01QX",
+        "ts": "1463352388.000361"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F191QG8G3",
+                "created": 1463353420,
+                "timestamp": 1463353420,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 52651,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191QG8G3\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191QG8G3\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191QG8G3-7500c04ed7\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191QG8G3-7500c04ed7\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191QG8G3-7500c04ed7\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191QG8G3-7500c04ed7\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191QG8G3-7500c04ed7\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 320,
+                "original_h": 568,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/F191QG8G3\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F191QG8G3-c124d9d46d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "ts": "1463353422.000362"
+    },
+    {
+        "type": "message",
+        "text": "AWWW YES",
+        "user": "U15HRTAHL",
+        "ts": "1463353447.000363"
+    },
+    {
+        "type": "message",
+        "text": "nice tommy",
+        "user": "U15HRTAHL",
+        "ts": "1463353449.000364"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy it's happening",
+        "user": "U15HSHSS2",
+        "ts": "1463353495.000365",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/paul-comment-ron-5mBE2MiMVFITS>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/5mBE2MiMVFITS\/giphy.gif",
+                "image_width": 320,
+                "image_height": 213,
+                "image_bytes": 616905,
+                "is_animated": true,
+                "title": "it's happening",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/paul-comment-ron-5mBE2MiMVFITS"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: Can I still not complain?",
+        "user": "U15HRTAHL",
+        "ts": "1463353513.000366"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: did you get one?",
+        "user": "U15HRTAHL",
+        "ts": "1463353539.000367"
+    },
+    {
+        "type": "message",
+        "text": "Correct",
+        "user": "U15HY5TG8",
+        "ts": "1463353581.000368"
+    },
+    {
+        "type": "message",
+        "text": "Twitter - Just talked to Samsung employee on the phone, all TV's ordered AFTER 1 PM EST are getting cancelled. Employee's name was Jong-Kyun Shin",
+        "user": "U15J5H60P",
+        "ts": "1463353664.000369"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463353690.000370"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: what time did you order?",
+        "user": "U15HRTAHL",
+        "ts": "1463353708.000371"
+    },
+    {
+        "type": "message",
+        "text": "I didn't get one",
+        "user": "U15HZ01QX",
+        "ts": "1463353892.000372"
+    },
+    {
+        "type": "message",
+        "text": "Tommy ordered around 10 I thought",
+        "user": "U15HZ01QX",
+        "ts": "1463353906.000373"
+    },
+    {
+        "type": "message",
+        "text": "What if I don't get one because I ordered 2?",
+        "user": "U15HZ01QX",
+        "ts": "1463353996.000374"
+    },
+    {
+        "type": "message",
+        "text": "I'm gonna be pissssssssed",
+        "user": "U15HZ01QX",
+        "ts": "1463354002.000375"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463354014.000376"
+    },
+    {
+        "type": "message",
+        "text": "James stop being a child",
+        "user": "U15HRTAHL",
+        "ts": "1463354022.000377"
+    },
+    {
+        "type": "message",
+        "text": "Fuck ALL Of that",
+        "user": "U15HZ01QX",
+        "ts": "1463354058.000378"
+    },
+    {
+        "type": "message",
+        "text": "My invoice is still sitting there",
+        "user": "U15HZ01QX",
+        "ts": "1463354071.000379"
+    },
+    {
+        "type": "message",
+        "text": "Are we in EST?",
+        "user": "U15HSHSS2",
+        "ts": "1463354072.000380"
+    },
+    {
+        "type": "message",
+        "text": "Central",
+        "user": "U15HZ01QX",
+        "ts": "1463354078.000381"
+    },
+    {
+        "type": "message",
+        "text": "1 hour earlier",
+        "user": "U15HZ01QX",
+        "ts": "1463354093.000382"
+    },
+    {
+        "type": "message",
+        "text": "What time is 1 EST?",
+        "user": "U15HSHSS2",
+        "ts": "1463354094.000383"
+    },
+    {
+        "type": "message",
+        "text": "12",
+        "user": "U15HZ01QX",
+        "ts": "1463354098.000384"
+    },
+    {
+        "type": "message",
+        "text": "Lol I was sleeping at 12",
+        "user": "U15HSHSS2",
+        "ts": "1463354124.000385"
+    },
+    {
+        "type": "message",
+        "text": "What?",
+        "user": "U15HZ01QX",
+        "ts": "1463354135.000386"
+    },
+    {
+        "type": "message",
+        "text": "I was sleeping at 12",
+        "user": "U15HSHSS2",
+        "ts": "1463354147.000387"
+    },
+    {
+        "type": "message",
+        "text": "12 last night?",
+        "user": "U15HZ01QX",
+        "ts": "1463354149.000388"
+    },
+    {
+        "type": "message",
+        "text": "Or 12 this afternoon",
+        "user": "U15HZ01QX",
+        "ts": "1463354155.000389"
+    },
+    {
+        "type": "message",
+        "text": "Noon today",
+        "user": "U15HSHSS2",
+        "ts": "1463354161.000390"
+    },
+    {
+        "type": "message",
+        "text": "Oh well you should be good",
+        "user": "U15HZ01QX",
+        "ts": "1463354171.000391"
+    },
+    {
+        "type": "message",
+        "text": "I got mine in at 12:20 EST",
+        "user": "U15HZ01QX",
+        "ts": "1463354184.000392"
+    },
+    {
+        "type": "message",
+        "text": "And you got a confirmation ",
+        "user": "U15HZ01QX",
+        "ts": "1463354194.000393"
+    },
+    {
+        "type": "message",
+        "text": "Wait what...? 1pm EST is 12pm here right?",
+        "user": "U15HSHSS2",
+        "ts": "1463354237.000394"
+    },
+    {
+        "type": "message",
+        "text": "So we had to order before 12pm our time",
+        "user": "U15HSHSS2",
+        "ts": "1463354250.000395"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HZ01QX",
+        "ts": "1463354260.000396"
+    },
+    {
+        "type": "message",
+        "text": "So I ordered mine at 1220 EST which is 1120 Central",
+        "user": "U15HZ01QX",
+        "ts": "1463354283.000397"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: you ordered yours before <@U15HSHSS2> even told us here?",
+        "user": "U15HY5TG8",
+        "ts": "1463354308.000398"
+    },
+    {
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15HZ01QX",
+        "ts": "1463354316.000399"
+    },
+    {
+        "type": "message",
+        "text": "Something isn't right here",
+        "user": "U15HSHSS2",
+        "ts": "1463354323.000400"
+    },
+    {
+        "type": "message",
+        "text": "We missed it by like an hour or so",
+        "user": "U15HSHSS2",
+        "ts": "1463354332.000401"
+    },
+    {
+        "type": "message",
+        "text": "I woke up at 1130",
+        "user": "U15HZ01QX",
+        "ts": "1463354337.000402"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1463354339.000403"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463354342.000404"
+    },
+    {
+        "type": "message",
+        "text": "If that info is even correct which I don't think it is",
+        "user": "U15HSHSS2",
+        "ts": "1463354345.000405"
+    },
+    {
+        "type": "message",
+        "text": "So my order time is off",
+        "user": "U15HZ01QX",
+        "ts": "1463354345.000406"
+    },
+    {
+        "type": "message",
+        "text": "Yours was bough at 1:20 CST",
+        "user": "U15HRTAHL",
+        "ts": "1463354357.000407"
+    },
+    {
+        "type": "message",
+        "text": "mine was 1:40",
+        "user": "U15HRTAHL",
+        "ts": "1463354364.000408"
+    },
+    {
+        "type": "message",
+        "text": "which is bs",
+        "user": "U15HRTAHL",
+        "ts": "1463354366.000409"
+    },
+    {
+        "type": "message",
+        "text": "cause I tried before you lol",
+        "user": "U15HRTAHL",
+        "ts": "1463354370.000410"
+    },
+    {
+        "type": "message",
+        "text": "\"Bought\"",
+        "user": "U15HY5TG8",
+        "ts": "1463354371.000411"
+    },
+    {
+        "type": "message",
+        "text": "evan, shouldn't you be making our tvs?",
+        "user": "U15HRTAHL",
+        "ts": "1463354382.000412"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HSHSS2",
+        "ts": "1463354397.000413"
+    },
+    {
+        "type": "message",
+        "text": "Do i look asian to you?",
+        "user": "U15HY5TG8",
+        "ts": "1463354401.000414"
+    },
+    {
+        "type": "message",
+        "text": "short, not white",
+        "user": "U15HRTAHL",
+        "ts": "1463354408.000415"
+    },
+    {
+        "type": "message",
+        "text": "its possible",
+        "user": "U15HRTAHL",
+        "ts": "1463354411.000416"
+    },
+    {
+        "type": "message",
+        "text": "K",
+        "user": "U15HY5TG8",
+        "ts": "1463354425.000417"
+    },
+    {
+        "type": "message",
+        "text": "I was trying as soon as Tommy put the link in",
+        "user": "U15HZ01QX",
+        "ts": "1463354433.000418"
+    },
+    {
+        "type": "message",
+        "text": "It doesn't make since that they would randomly say 1pm is the cut off time",
+        "user": "U15HSHSS2",
+        "ts": "1463354439.000419"
+    },
+    {
+        "type": "message",
+        "text": "Lol I didn't even respond until the site started messing with me",
+        "user": "U15HZ01QX",
+        "ts": "1463354450.000420"
+    },
+    {
+        "type": "message",
+        "text": "Prob when the mistake happened",
+        "user": "U15HY5TG8",
+        "ts": "1463354453.000421"
+    },
+    {
+        "type": "message",
+        "text": "Well they did delete my order number",
+        "user": "U15HRTAHL",
+        "ts": "1463354455.000422"
+    },
+    {
+        "type": "message",
+        "text": "but didn't unscan my credit card those fucks",
+        "user": "U15HRTAHL",
+        "ts": "1463354475.000423"
+    },
+    {
+        "type": "message",
+        "text": "My order looks like it's still there",
+        "user": "U15HZ01QX",
+        "ts": "1463354498.000424"
+    },
+    {
+        "type": "message",
+        "text": "Although no email",
+        "user": "U15HZ01QX",
+        "ts": "1463354504.000425"
+    },
+    {
+        "type": "message",
+        "text": "I don't think anyone is getting a tv",
+        "user": "U15HSHSS2",
+        "ts": "1463354544.000426"
+    },
+    {
+        "type": "message",
+        "text": "But only time will tell",
+        "user": "U15HSHSS2",
+        "ts": "1463354554.000427"
+    },
+    {
+        "type": "message",
+        "text": "you're farther than us",
+        "user": "U15HRTAHL",
+        "ts": "1463354563.000428"
+    },
+    {
+        "type": "message",
+        "text": "I want an email lol",
+        "user": "U15HZ01QX",
+        "ts": "1463354838.000429"
+    },
+    {
+        "type": "message",
+        "text": "I hope one day you guys are selling $30,000 cars. And then the intern you hired to do data entry forgets to hit a 0. Then your site processes 50,000 orders for $3,000 dollars and you have to legally honor it because you cheaped out on your lawyer. ",
+        "user": "U15J5H60P",
+        "ts": "1463354838.000430",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1463354880.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "We can't wish for cheap tvs without being morally bankrupt? Is that what you're implying?",
+        "user": "U15HZ01QX",
+        "ts": "1463354884.000434"
+    },
+    {
+        "type": "message",
+        "text": "Yeah?",
+        "user": "U15HRTAHL",
+        "ts": "1463354889.000435"
+    },
+    {
+        "type": "message",
+        "text": "I feel bad for whoever messed up and Samsung as a great manufacturer but what's the big deal? It's a stupid tv",
+        "user": "U15HZ01QX",
+        "ts": "1463354934.000436"
+    },
+    {
+        "type": "message",
+        "text": "\"I'm going to raise hell\" \"They better ship those damn TV's\" Yeah, it'd be awesome to get those TV's but you're not entitled to it. ",
+        "user": "U15J5H60P",
+        "ts": "1463354976.000437"
+    },
+    {
+        "type": "message",
+        "text": "Well",
+        "user": "U15HRTAHL",
+        "ts": "1463354982.000438"
+    },
+    {
+        "type": "message",
+        "text": "I did buy iy",
+        "user": "U15HRTAHL",
+        "ts": "1463354985.000439"
+    },
+    {
+        "type": "message",
+        "text": "so I am",
+        "user": "U15HRTAHL",
+        "ts": "1463354987.000440"
+    },
+    {
+        "type": "message",
+        "text": "Not according to their ToS",
+        "user": "U15J5H60P",
+        "ts": "1463355006.000441"
+    },
+    {
+        "type": "message",
+        "text": "According to my credit card I am",
+        "user": "U15HRTAHL",
+        "ts": "1463355015.000442"
+    },
+    {
+        "type": "message",
+        "text": ":ok_hand:",
+        "user": "U15J5H60P",
+        "ts": "1463355033.000443"
+    },
+    {
+        "type": "message",
+        "text": "Speaking for myself I'm posting in the group chat about really wanting he tv",
+        "user": "U15HZ01QX",
+        "ts": "1463355046.000444"
+    },
+    {
+        "type": "message",
+        "text": "Let me know when you get your TVs ",
+        "user": "U15J5H60P",
+        "ts": "1463355053.000445"
+    },
+    {
+        "type": "message",
+        "text": "It'd be great",
+        "user": "U15HZ01QX",
+        "ts": "1463355055.000446"
+    },
+    {
+        "type": "message",
+        "text": "I mean the bottom line is that Samsung can cancel the orders whenever they want. All I'm hoping for right now is that they either decide to honor it (which they won't) or the way they go about canceling the orders leaves group of people in the loop for the tv and I'm part of that group",
+        "user": "U15HSHSS2",
+        "ts": "1463355067.000447"
+    },
+    {
+        "type": "message",
+        "text": "It'd be cool to get a gift card",
+        "user": "U15HZ01QX",
+        "ts": "1463355100.000448"
+    },
+    {
+        "type": "message",
+        "text": "Or even like a deal on the tv",
+        "user": "U15HZ01QX",
+        "ts": "1463355108.000449"
+    },
+    {
+        "type": "message",
+        "text": "It's like 1200 so idk what they could really do to it",
+        "user": "U15HZ01QX",
+        "ts": "1463355125.000450"
+    },
+    {
+        "type": "message",
+        "text": "\"We'll give you $100 off\" lol",
+        "user": "U15J5H60P",
+        "ts": "1463355161.000451"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, my life will go on without the tv lol and I'm expecting not to get it. It would just be cool if it happened",
+        "user": "U15HSHSS2",
+        "ts": "1463355169.000452"
+    },
+    {
+        "type": "message",
+        "text": "I'm guessing that's what it was supposed to be",
+        "user": "U15HZ01QX",
+        "ts": "1463355175.000453"
+    },
+    {
+        "type": "message",
+        "text": "So I'd probably ask for a better deal",
+        "user": "U15HZ01QX",
+        "ts": "1463355184.000454"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: and i see eye to eye in this thing lol",
+        "user": "U15HY5TG8",
+        "ts": "1463355457.000455"
+    },
+    {
+        "type": "message",
+        "text": "thats fine, you guys don't have orders",
+        "user": "U15HRTAHL",
+        "ts": "1463355495.000456"
+    },
+    {
+        "type": "message",
+        "text": "Evan you see eye to dick",
+        "user": "U15HZ01QX",
+        "ts": "1463355499.000457"
+    },
+    {
+        "type": "message",
+        "text": "I can see your PoV",
+        "user": "U15HRTAHL",
+        "ts": "1463355502.000458",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1463355506.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: you dont have orders either according to andrew....and the site that _cant display your order_",
+        "user": "U15HY5TG8",
+        "ts": "1463355557.000460"
+    },
+    {
+        "type": "message",
+        "text": "I guess I don't have an order",
+        "files": [
+            {
+                "id": "F191T3Z19",
+                "created": 1463355583,
+                "timestamp": 1463355583,
+                "name": "Screen Shot 2016-05-15 at 3.26.23 PM.png",
+                "title": "Screen Shot 2016-05-15 at 3.26.23 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 165670,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191T3Z19\/screen_shot_2016-05-15_at_3.26.23_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F191T3Z19\/download\/screen_shot_2016-05-15_at_3.26.23_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 359,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 479,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 719,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 958,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F191T3Z19-95eba2ac7e\/screen_shot_2016-05-15_at_3.26.23_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1022,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1200,
+                "original_h": 1202,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F191T3Z19\/screen_shot_2016-05-15_at_3.26.23_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F191T3Z19-f5e157d888",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463355586.000461"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1463355613.000462"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HRTAHL",
+        "ts": "1463355617.000463"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463355697.000464"
+    },
+    {
+        "type": "message",
+        "text": "Wait, I never said you didn't have an order",
+        "user": "U15J5H60P",
+        "ts": "1463355717.000465"
+    },
+    {
+        "type": "message",
+        "text": "Spwimm ",
+        "user": "U15J5H60P",
+        "ts": "1463355727.000466"
+    },
+    {
+        "type": "message",
+        "text": "yeah evan",
+        "user": "U15HRTAHL",
+        "ts": "1463355734.000467"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> did like an hour ago",
+        "user": "U15HY5TG8",
+        "ts": "1463355768.000468"
+    },
+    {
+        "type": "message",
+        "text": "I wonder if Samsung is ever gunna say anything...",
+        "user": "U15HSHSS2",
+        "ts": "1463355826.000469"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F192XM4AG",
+                "created": 1463355837,
+                "timestamp": 1463355837,
+                "name": "I must be blind.jpg",
+                "title": "I must be blind",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 37141,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192XM4AG\/i_must_be_blind.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F192XM4AG\/download\/i_must_be_blind.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192XM4AG-5004da9595\/i_must_be_blind_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192XM4AG-5004da9595\/i_must_be_blind_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192XM4AG-5004da9595\/i_must_be_blind_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 116,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192XM4AG-5004da9595\/i_must_be_blind_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 155,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192XM4AG-5004da9595\/i_must_be_blind_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F192XM4AG-5004da9595\/i_must_be_blind_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 232,
+                "image_exif_rotation": 1,
+                "original_w": 723,
+                "original_h": 233,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F192XM4AG\/i_must_be_blind.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F192XM4AG-55e6a2a396",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1463355839.000470"
+    },
+    {
+        "type": "message",
+        "text": "I mean there has to be a few people out there who actually thing this is real and they are getting the tv",
+        "user": "U15HSHSS2",
+        "ts": "1463355849.000471"
+    },
+    {
+        "type": "message",
+        "text": "Yeah they deleted my number, not my order?",
+        "user": "U15HRTAHL",
+        "ts": "1463355857.000472"
+    },
+    {
+        "type": "message",
+        "text": "spwimm",
+        "user": "U15HRTAHL",
+        "ts": "1463355861.000473"
+    },
+    {
+        "type": "message",
+        "text": "Same difference lol",
+        "user": "U15HY5TG8",
+        "ts": "1463355905.000474"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1463355909.000475"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1463355917.000476"
+    },
+    {
+        "type": "message",
+        "text": "I wonder how they will know they owe me a refund if they don't have the invoice",
+        "user": "U15HRTAHL",
+        "ts": "1463355949.000477"
+    },
+    {
+        "type": "message",
+        "text": "Idk of any company that puts together an order without an order number",
+        "user": "U15HY5TG8",
+        "ts": "1463355953.000478"
+    },
+    {
+        "type": "message",
+        "text": "You dont get a refund :joy::joy::joy:",
+        "user": "U15HY5TG8",
+        "ts": "1463355970.000479"
+    },
+    {
+        "type": "message",
+        "text": "I don't know a company that sells tvs for 100 either",
+        "user": "U15HRTAHL",
+        "ts": "1463355971.000480"
+    },
+    {
+        "type": "message",
+        "text": "Vizio",
+        "user": "U15HY5TG8",
+        "ts": "1463355978.000481",
+        "reactions": [
+            {
+                "name": "fist",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "JUST GOT MY ORDER CONFIRMATION",
+        "user": "U15HZ01QX",
+        "ts": "1463356203.000482"
+    },
+    {
+        "type": "message",
+        "text": "NICEEEEE",
+        "user": "U15HRTAHL",
+        "ts": "1463356207.000483"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy tits",
+        "user": "U15HZ01QX",
+        "ts": "1463356213.000484",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/mad-men-january-jones-80cDuzEl7ywy4>",
+                "image_url": "http:\/\/media.giphy.com\/media\/80cDuzEl7ywy4\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 232,
+                "image_bytes": 1620811,
+                "is_animated": true,
+                "title": "tits",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/mad-men-january-jones-80cDuzEl7ywy4"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "January jones???!!!!",
+        "user": "U15HZ01QX",
+        "ts": "1463356227.000485"
+    },
+    {
+        "type": "message",
+        "text": "WHAT A DAY I TELL YA",
+        "user": "U15HZ01QX",
+        "ts": "1463356236.000486"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy welcome",
+        "user": "U15HSHSS2",
+        "ts": "1463356442.000487",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/hi-BpS6k9mXoDiZa>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/BpS6k9mXoDiZa\/giphy.gif",
+                "image_width": 376,
+                "image_height": 226,
+                "image_bytes": 992148,
+                "is_animated": true,
+                "title": "welcome",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/hi-BpS6k9mXoDiZa"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Welcome to the club James",
+        "user": "U15HSHSS2",
+        "ts": "1463356459.000488"
+    },
+    {
+        "type": "message",
+        "text": "Your next joe",
+        "user": "U15HSHSS2",
+        "ts": "1463356467.000489"
+    },
+    {
+        "type": "message",
+        "text": "we'll see",
+        "user": "U15HRTAHL",
+        "ts": "1463356474.000490"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy join us",
+        "user": "U15HSHSS2",
+        "ts": "1463356478.000491",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/role-play-arashi-ninomiya-kazunari-MXFq8HA5oHhjq>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/MXFq8HA5oHhjq\/giphy.gif",
+                "image_width": 165,
+                "image_height": 164,
+                "image_bytes": 504265,
+                "is_animated": true,
+                "title": "join us",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/role-play-arashi-ninomiya-kazunari-MXFq8HA5oHhjq"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "they deleted my order #",
+        "user": "U15HRTAHL",
+        "ts": "1463356486.000492"
+    },
+    {
+        "type": "message",
+        "text": "Lulz",
+        "user": "U15HY5TG8",
+        "ts": "1463356500.000493"
+    },
+    {
+        "type": "message",
+        "text": "Well it seems like they're getting sent out in order",
+        "user": "U15HZ01QX",
+        "ts": "1463356656.000494"
+    },
+    {
+        "type": "message",
+        "text": "whats your order #",
+        "user": "U15HRTAHL",
+        "ts": "1463356671.000495"
+    },
+    {
+        "type": "message",
+        "text": "tom was in the 8's",
+        "user": "U15HRTAHL",
+        "ts": "1463356676.000496"
+    },
+    {
+        "type": "message",
+        "text": "I was in the 9's",
+        "user": "U15HRTAHL",
+        "ts": "1463356680.000497"
+    },
+    {
+        "type": "message",
+        "text": "8827088055",
+        "user": "U15HZ01QX",
+        "ts": "1463356708.000498"
+    },
+    {
+        "type": "message",
+        "text": "I wonder if they cut off in the 8's",
+        "user": "U15HRTAHL",
+        "ts": "1463356719.000499"
+    },
+    {
+        "type": "message",
+        "text": "Nah just give it time",
+        "user": "U15HZ01QX",
+        "ts": "1463356732.000500"
+    },
+    {
+        "type": "message",
+        "text": "fingers crossed",
+        "user": "U15HRTAHL",
+        "ts": "1463356741.000501"
+    },
+    {
+        "type": "message",
+        "text": "Just keep your email refreshing",
+        "user": "U15HZ01QX",
+        "ts": "1463356777.000502"
+    },
+    {
+        "type": "message",
+        "text": "It'll turn up",
+        "user": "U15HZ01QX",
+        "ts": "1463356780.000503"
+    },
+    {
+        "type": "message",
+        "text": "If I don't get one can I still buy one from you lol",
+        "user": "U15HRTAHL",
+        "ts": "1463357904.000504"
+    },
+    {
+        "type": "message",
+        "text": "Well yeah but I hope you get one cuz I really want two",
+        "user": "U15HZ01QX",
+        "ts": "1463358985.000505"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1463358988.000506"
+    },
+    {
+        "type": "message",
+        "text": "lololol me too",
+        "user": "U15HRTAHL",
+        "ts": "1463359032.000507"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F193H4DL5",
+                "created": 1463361600,
+                "timestamp": 1463361600,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 216059,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F193H4DL5\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F193H4DL5\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193H4DL5-e5ddabdcf0\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F193H4DL5\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F193H4DL5-9050714dde",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1463361604.000508"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> <@U15HRTAHL> ",
+        "user": "U15HZ01QX",
+        "ts": "1463361610.000509"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463361646.000510"
+    },
+    {
+        "type": "message",
+        "text": "lolololz",
+        "user": "U15HRTAHL",
+        "ts": "1463361702.000511"
+    },
+    {
+        "type": "message",
+        "text": "Ok so who wants to call",
+        "user": "U15HZ01QX",
+        "ts": "1463361716.000512"
+    },
+    {
+        "type": "message",
+        "text": "depends how long the wait is",
+        "user": "U15HRTAHL",
+        "ts": "1463361881.000513",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1463361884.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/freebies\/comments\/4jhavr\/not_quite_a_freebie_but_damn_close_samsung_40\/d36ocdh?context=3>",
+        "user": "U15HRTAHL",
+        "ts": "1463361929.000515",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Not quite a freebie, but damn close. Samsung 40 inch 4k ultra HD smart TV - $100.00 • \/r\/freebies",
+                "title_link": "https:\/\/www.reddit.com\/r\/freebies\/comments\/4jhavr\/not_quite_a_freebie_but_damn_close_samsung_40\/d36ocdh?context=3",
+                "text": "29 points and 83 comments so far on reddit",
+                "fallback": "reddit: Not quite a freebie, but damn close. Samsung 40 inch 4k ultra HD smart TV - $100.00 • \/r\/freebies",
+                "from_url": "https:\/\/www.reddit.com\/r\/freebies\/comments\/4jhavr\/not_quite_a_freebie_but_damn_close_samsung_40\/d36ocdh?context=3",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "thats tommy's post",
+        "user": "U15HRTAHL",
+        "ts": "1463361935.000517"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/deals\/comments\/4jgx0s\/samsung_40_class_ku7000_7series_4k_uhd_tv_for\/d36lp0f>",
+        "user": "U15HRTAHL",
+        "ts": "1463362011.000518",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "Samsung 40\" Class KU7000 7-Series 4K UHD TV For Just $100 Instead of $599. • \/r\/deals",
+                "title_link": "https:\/\/www.reddit.com\/r\/deals\/comments\/4jgx0s\/samsung_40_class_ku7000_7series_4k_uhd_tv_for\/d36lp0f",
+                "text": "19 points and 87 comments so far on reddit",
+                "fallback": "reddit: Samsung 40\" Class KU7000 7-Series 4K UHD TV For Just $100 Instead of $599. • \/r\/deals",
+                "thumb_url": "https:\/\/i.redditmedia.com\/mjorU4vBaVY1pkROY6Y-f8AkNhtfVTL8TXMnoEZAzsE.jpg?w=320&s=7ed36b2ccf09364b3abd349e1eeb7b7b",
+                "from_url": "https:\/\/www.reddit.com\/r\/deals\/comments\/4jgx0s\/samsung_40_class_ku7000_7series_4k_uhd_tv_for\/d36lp0f",
+                "thumb_width": 320,
+                "thumb_height": 320,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "someone else's post",
+        "user": "U15HRTAHL",
+        "ts": "1463362017.000520"
+    },
+    {
+        "type": "message",
+        "text": "lol ",
+        "user": "U15HZ01QX",
+        "ts": "1463362079.000521"
+    },
+    {
+        "type": "message",
+        "text": "Samsung says they'll reach out by Tuesday ",
+        "user": "U15HZ01QX",
+        "ts": "1463362217.000522"
+    },
+    {
+        "type": "message",
+        "text": "sauce?",
+        "user": "U15HRTAHL",
+        "ts": "1463362223.000523"
+    },
+    {
+        "type": "message",
+        "text": "or did you call",
+        "user": "U15HRTAHL",
+        "ts": "1463362230.000524"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/samsungusa.response.lithium.com\/portal\/conversation\/14519590>",
+        "user": "U15HZ01QX",
+        "ts": "1463362350.000525"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463362381.000526"
+    },
+    {
+        "type": "message",
+        "text": "I've never owned a samsung product tbh",
+        "user": "U15HRTAHL",
+        "ts": "1463362391.000527"
+    },
+    {
+        "type": "message",
+        "text": "I want to know the figures of how many were ordered",
+        "user": "U15HRTAHL",
+        "ts": "1463362421.000528"
+    },
+    {
+        "type": "message",
+        "text": "Someone said they sold out ",
+        "user": "U15HZ01QX",
+        "ts": "1463362441.000529"
+    },
+    {
+        "type": "message",
+        "text": "(A lot)",
+        "user": "U15J5H60P",
+        "ts": "1463363236.000530"
+    },
+    {
+        "type": "message",
+        "text": "The amount I've been sleeping lately probably isn't healthy",
+        "user": "U15J5H60P",
+        "ts": "1463363236.000531"
+    },
+    {
+        "type": "message",
+        "text": "I thought you were studying",
+        "user": "U15HZ01QX",
+        "ts": "1463363255.000532"
+    },
+    {
+        "type": "message",
+        "text": "I was. Then I laid down",
+        "user": "U15J5H60P",
+        "ts": "1463363374.000533"
+    },
+    {
+        "type": "message",
+        "text": "Now here I am",
+        "user": "U15J5H60P",
+        "ts": "1463363380.000534"
+    },
+    {
+        "type": "message",
+        "text": "I need 1k more steps.",
+        "user": "U15J5H60P",
+        "ts": "1463363419.000535"
+    },
+    {
+        "type": "message",
+        "text": "Where can I walk this late at night.",
+        "user": "U15J5H60P",
+        "ts": "1463363427.000536"
+    },
+    {
+        "type": "message",
+        "text": "I don't have work all this week",
+        "user": "U15J5H60P",
+        "ts": "1463363439.000537"
+    },
+    {
+        "type": "message",
+        "text": "Wooooo ",
+        "user": "U15J5H60P",
+        "ts": "1463363445.000538"
+    },
+    {
+        "type": "message",
+        "text": "best buy for a price match",
+        "user": "U15HRTAHL",
+        "ts": "1463363517.000539"
+    },
+    {
+        "type": "message",
+        "text": "On a TV that hasn't been released yet?",
+        "user": "U15J5H60P",
+        "ts": "1463363705.000540"
+    },
+    {
+        "type": "message",
+        "text": "I wonder if best but lied",
+        "user": "U15HZ01QX",
+        "ts": "1463363719.000541"
+    },
+    {
+        "type": "message",
+        "text": "Cuz Reddit said they had people come in and price match",
+        "user": "U15HZ01QX",
+        "ts": "1463363734.000542"
+    },
+    {
+        "type": "message",
+        "text": "At their respective stores",
+        "user": "U15HZ01QX",
+        "ts": "1463363747.000543"
+    },
+    {
+        "type": "message",
+        "text": "But they could be lying",
+        "user": "U15HZ01QX",
+        "ts": "1463363754.000544"
+    },
+    {
+        "type": "message",
+        "text": "I highly doubt best buy it lying. But I suppose it could happen",
+        "user": "U15J5H60P",
+        "ts": "1463363952.000545"
+    },
+    {
+        "type": "message",
+        "text": "Well they could of just said on the website they don't have it just to prevent people from coming in",
+        "user": "U15HZ01QX",
+        "ts": "1463363989.000546"
+    },
+    {
+        "type": "message",
+        "text": "How would they have known well before Samsung knew? ",
+        "user": "U15J5H60P",
+        "ts": "1463364044.000547"
+    },
+    {
+        "type": "message",
+        "text": "And sorry to nit-pick but you do it a lot - the phrase is \"Could have\" not \"could of\".",
+        "user": "U15J5H60P",
+        "ts": "1463364090.000548"
+    },
+    {
+        "type": "message",
+        "text": "For future reference.",
+        "user": "U15J5H60P",
+        "ts": "1463364098.000549"
+    },
+    {
+        "type": "message",
+        "text": "Don't care",
+        "user": "U15HZ01QX",
+        "ts": "1463364112.000550"
+    },
+    {
+        "type": "message",
+        "text": "no one cares about grammar",
+        "user": "U15HRTAHL",
+        "ts": "1463364116.000551"
+    },
+    {
+        "type": "message",
+        "text": "Alright.",
+        "user": "U15J5H60P",
+        "ts": "1463364118.000552"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463364134.000553"
+    },
+    {
+        "type": "message",
+        "text": "I checked at like 2ish it's possible Samsung knew beforehand and bestbuy",
+        "user": "U15HZ01QX",
+        "ts": "1463364163.000554"
+    },
+    {
+        "type": "message",
+        "text": "Take this conversation to #samsung",
+        "user": "U15HY5TG8",
+        "ts": "1463364195.000555",
+        "reactions": [
+            {
+                "name": "chestnut",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463364202.000556"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1463364234.000557"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F193SUNHW",
+                "created": 1463368645,
+                "timestamp": 1463368645,
+                "name": "I'm in the club.png",
+                "title": "I'm in the club",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 51508,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F193SUNHW\/i_m_in_the_club.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F193SUNHW\/download\/i_m_in_the_club.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193SUNHW-81b1d62cb2\/i_m_in_the_club_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193SUNHW-81b1d62cb2\/i_m_in_the_club_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193SUNHW-81b1d62cb2\/i_m_in_the_club_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193SUNHW-81b1d62cb2\/i_m_in_the_club_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193SUNHW-81b1d62cb2\/i_m_in_the_club_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 320,
+                "original_h": 568,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F193SUNHW\/i_m_in_the_club.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F193SUNHW-0216cde68a",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463368647.000002"
+    },
+    {
+        "type": "message",
+        "text": "Stahp",
+        "user": "U15HY5TG8",
+        "ts": "1463368669.000003"
+    },
+    {
+        "type": "message",
+        "text": "You would ship a $1000 TV to your house on oakland lol",
+        "user": "U15HY5TG8",
+        "ts": "1463368735.000004"
+    },
+    {
+        "type": "message",
+        "text": " 100",
+        "user": "U15HRTAHL",
+        "ts": "1463368802.000005"
+    },
+    {
+        "type": "message",
+        "text": "$1000 MF",
+        "user": "U15HY5TG8",
+        "ts": "1463368885.000006"
+    },
+    {
+        "type": "message",
+        "text": "<#C193SMAKT>",
+        "user": "U15J5H60P",
+        "ts": "1463370341.000002"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F193YDMLM",
+                "created": 1463370562,
+                "timestamp": 1463370562,
+                "name": "Slack for iOS Upload.png",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 23985,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F193YDMLM\/slack_for_ios_upload.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F193YDMLM\/download\/slack_for_ios_upload.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193YDMLM-a4f50153c2\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193YDMLM-a4f50153c2\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193YDMLM-a4f50153c2\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193YDMLM-a4f50153c2\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F193YDMLM-a4f50153c2\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 320,
+                "original_h": 568,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F193YDMLM\/slack_for_ios_upload.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F193YDMLM-8cb33b1a85",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463370563.000003"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/imgur.com\/NbCc7ca>",
+        "user": "U15HSHSS2",
+        "ts": "1463372358.000004",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "My favorite cap from graduation",
+                "title_link": "https:\/\/imgur.com\/NbCc7ca",
+                "text": "Graduation cap",
+                "fallback": "Imgur: My favorite cap from graduation",
+                "image_url": "http:\/\/i.imgur.com\/NbCc7ca.jpg?fb",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/imgur.com\/NbCc7ca",
+                "image_bytes": 42842,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yup.",
+        "user": "U15J5H60P",
+        "ts": "1463372401.000006"
+    },
+    {
+        "type": "message",
+        "text": "I’d like to thank StackOverflow, Chegg, and Joseph Thomaschaske for this degree.",
+        "user": "U15J5H60P",
+        "ts": "1463372424.000007"
+    },
+    {
+        "type": "message",
+        "text": "Joseph Thomaschaske for letting me cheat off of many exams.",
+        "user": "U15J5H60P",
+        "ts": "1463372454.000008"
+    },
+    {
+        "type": "message",
+        "text": "Lolololol",
+        "user": "U15HRTAHL",
+        "ts": "1463372459.000009"
+    },
+    {
+        "type": "message",
+        "text": "And if he wasn’t letting me, then for making his exams visible enough for me to cheat off of.",
+        "user": "U15J5H60P",
+        "ts": "1463372484.000010"
+    },
+    {
+        "type": "message",
+        "text": "Tommy did you walk for graduation",
+        "user": "U15HRTAHL",
+        "ts": "1463372572.000011"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: ",
+        "user": "U15HRTAHL",
+        "ts": "1463372837.000012"
+    },
+    {
+        "type": "message",
+        "text": "i will be yeah",
+        "user": "U15HSHSS2",
+        "ts": "1463373160.000013"
+    },
+    {
+        "type": "message",
+        "text": "On the 22nd right?",
+        "user": "U15J5H60P",
+        "ts": "1463373320.000014"
+    },
+    {
+        "type": "message",
+        "text": "Do we need tickets to watch you?",
+        "user": "U15J5H60P",
+        "ts": "1463373326.000015"
+    }
+]

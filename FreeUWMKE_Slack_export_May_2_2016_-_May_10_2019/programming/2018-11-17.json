@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "b90c9dea-e4b0-4186-9332-dd0358306bea",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15HRTAHL",
+        "ts": "1542487609.000200"
+    },
+    {
+        "client_msg_id": "b865f8a1-514f-4bf1-87fb-d01551e4f51f",
+        "type": "message",
+        "text": "remember when zywave had that critical week long meeting about being able to access other peoples accounts",
+        "user": "U15HRTAHL",
+        "ts": "1542487635.000800"
+    },
+    {
+        "client_msg_id": "74FEAA7D-AD97-4137-B1BE-5C0BFEACC13B",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HSHSS2",
+        "ts": "1542510459.000200"
+    },
+    {
+        "client_msg_id": "224179c9-f1f5-4913-86cd-67e80f246163",
+        "type": "message",
+        "text": "What caused that?",
+        "user": "U15HRTAHL",
+        "ts": "1542511471.000500"
+    },
+    {
+        "client_msg_id": "C565FE82-16C4-4894-8CD3-5227445BBC44",
+        "type": "message",
+        "text": "I don’t know all the details, but from what I understand it was an issue from sql server changing or deprecating some functionality that fucked everything",
+        "user": "U15HSHSS2",
+        "ts": "1542511713.001900"
+    }
+]

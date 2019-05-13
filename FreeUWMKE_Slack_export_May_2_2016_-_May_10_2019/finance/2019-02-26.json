@@ -1,0 +1,166 @@
+[
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1551204618.000200",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/mrw-share-dividends-lhaqiQtq9AipW",
+                "image_url": "https:\/\/media0.giphy.com\/media\/lhaqiQtq9AipW\/giphy-downsized.gif?cid=6104955e5c7581093846323851b0fb8f",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1300684,
+                "is_animated": true,
+                "title": "dividends",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/mrw-share-dividends-lhaqiQtq9AipW"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c56f0e5e-93fb-4fe9-9dd2-74e66fe7478b",
+        "type": "message",
+        "text": "It's that time of year!",
+        "user": "U15J5H60P",
+        "ts": "1551204631.000400"
+    },
+    {
+        "client_msg_id": "64fafed4-4cb8-497d-9ec7-b1dca3fa3b02",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1551206173.000600"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551206175.000800",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "193abb02-4a26-41a9-8bd9-2afb3d8b0400",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/RobinHood\/comments\/av2rog\/ttwo\/>",
+        "user": "U15HRTAHL",
+        "ts": "1551206177.001000",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/RobinHood - TTWO",
+                "title_link": "https:\/\/www.reddit.com\/r\/RobinHood\/comments\/av2rog\/ttwo\/",
+                "text": "0 votes and 0 comments so far on Reddit",
+                "fallback": "reddit: r\/RobinHood - TTWO",
+                "from_url": "https:\/\/www.reddit.com\/r\/RobinHood\/comments\/av2rog\/ttwo\/",
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/RobinHood\/comments\/av2rog\/ttwo\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D135835C-14CB-4003-8904-7DBC81342C7C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1551214488.001300"
+    },
+    {
+        "client_msg_id": "4019c7b7-9a5c-4c99-a7c6-2a40f827105e",
+        "type": "message",
+        "text": "if you invested into SPY in 2000 you wouldn't have seen a positive gain until 2007, and you had a small time window to sell at a modest gain, otherwise you had to wait until 2013 to see a real gain",
+        "user": "U15HRTAHL",
+        "ts": "1551237399.001000"
+    },
+    {
+        "client_msg_id": "60089bd4-db13-46aa-93f4-fe60ca029926",
+        "type": "message",
+        "text": "13 fucking years",
+        "user": "U15HRTAHL",
+        "ts": "1551237402.001200"
+    },
+    {
+        "client_msg_id": "535ebd9a-ccfa-4214-bfe9-42771e5e26b8",
+        "type": "message",
+        "text": "that's crazy",
+        "user": "U15HRTAHL",
+        "ts": "1551237408.001400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGHRMDUUU",
+                "created": 1551237474,
+                "timestamp": 1551237474,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-26, 9:17 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 217542,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGHRMDUUU\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGHRMDUUU\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 295,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 393,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 590,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 656,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 787,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGHRMDUUU-561ba98dad\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 839,
+                "image_exif_rotation": 1,
+                "original_w": 1064,
+                "original_h": 872,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGHRMDUUU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGHRMDUUU-440fa435f0",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1551237478.001500"
+    },
+    {
+        "client_msg_id": "1B53CAAD-BD90-4A9D-81D3-AEF3915B6E2D",
+        "type": "message",
+        "text": "Yeah but if you bought bigg in 2009 thouugghh",
+        "user": "U15HSHSS2",
+        "ts": "1551240250.002700"
+    },
+    {
+        "client_msg_id": "4B35C138-3ECD-4DDC-AF50-3AC88D2AD4A0",
+        "type": "message",
+        "text": "Toooo the moooon",
+        "user": "U15HSHSS2",
+        "ts": "1551240261.003000"
+    }
+]

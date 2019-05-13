@@ -1,0 +1,502 @@
+[
+    {
+        "client_msg_id": "e1042b63-d5d0-49ad-9089-19d6d1d128c3",
+        "type": "message",
+        "text": "<https:\/\/imgur.com\/9z8bgUA>",
+        "user": "U15HRTAHL",
+        "ts": "1531228381.000491",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Learning a new language...",
+                "title_link": "https:\/\/imgur.com\/9z8bgUA",
+                "text": "Imgur",
+                "fallback": "Imgur: Learning a new language...",
+                "image_url": "https:\/\/i.imgur.com\/9z8bgUA.jpg",
+                "image_width": 89,
+                "image_height": 250,
+                "from_url": "https:\/\/imgur.com\/9z8bgUA",
+                "image_bytes": 150518,
+                "service_icon": "http:\/\/s.imgur.com\/images\/favicon-152.png",
+                "id": 1,
+                "original_url": "https:\/\/imgur.com\/9z8bgUA"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "050ea38b-d02b-43f0-aa13-7ba13328b9cb",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1531228401.000215"
+    },
+    {
+        "client_msg_id": "5B94BECB-1F25-45DC-89C4-2EA282141B76",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531229692.000343"
+    },
+    {
+        "client_msg_id": "fdd117af-808e-4086-8e81-fb28967f7c18",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1531229900.000127"
+    },
+    {
+        "client_msg_id": "ABF0B784-B37B-41A6-B838-4E4A29883AB7",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531229937.000184"
+    },
+    {
+        "client_msg_id": "36D9CE36-A8B4-4851-B74A-FC4B3B5879B1",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1531229939.000391"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1531229939.000461",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media1.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8b2475da-59ec-4aba-b4d3-c95b8451897f",
+        "type": "message",
+        "text": "ha",
+        "user": "U15J5H60P",
+        "ts": "1531229940.000390"
+    },
+    {
+        "client_msg_id": "fdf9b87e-d7a1-45e5-8d25-33e763a941ad",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1531229941.000559"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1531229942.000055"
+    },
+    {
+        "client_msg_id": "02184A24-1A19-4DB4-A58A-AC19F2B900F6",
+        "type": "message",
+        "text": "Ghey",
+        "user": "U15HY5TG8",
+        "ts": "1531229952.000017"
+    },
+    {
+        "client_msg_id": "AEEE7D31-A7FE-4961-A901-6F44A7AC30E1",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1531229953.000323"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1531229953.000458"
+    },
+    {
+        "client_msg_id": "ee9509b5-4225-4c4d-81ed-16a8ddb2e5eb",
+        "type": "message",
+        "text": "Ninja is such a bundle of sticks",
+        "user": "U15J5H60P",
+        "ts": "1531229955.000465"
+    },
+    {
+        "client_msg_id": "9084587A-B33F-468E-AE56-ABBF1CB82073",
+        "type": "message",
+        "text": "Definitely",
+        "user": "U15HY5TG8",
+        "ts": "1531229971.000366"
+    },
+    {
+        "client_msg_id": "6C943C40-B8C3-48D8-B9EB-D1F34ACA196E",
+        "type": "message",
+        "text": "Hed be better to watch if he didnt high pitch scream",
+        "user": "U15HY5TG8",
+        "ts": "1531229987.000397"
+    },
+    {
+        "client_msg_id": "2359ef43-587f-4d7a-afe4-a50f87703398",
+        "type": "message",
+        "text": "I'm gonna fucking lose it lol",
+        "user": "U15HY5TG8",
+        "ts": "1531232279.000069"
+    },
+    {
+        "client_msg_id": "9b3919d3-a1ca-4d10-bfce-61a13408ecab",
+        "type": "message",
+        "text": "cause of the chick?",
+        "user": "U15HRTAHL",
+        "ts": "1531232385.000483"
+    },
+    {
+        "client_msg_id": "8560421c-df9d-48dc-b293-46c9894e4cb5",
+        "type": "message",
+        "text": "Yes, dude, fucking terrible",
+        "user": "U15HY5TG8",
+        "ts": "1531232703.000043"
+    },
+    {
+        "client_msg_id": "2b79d745-bac7-4673-b27e-20608bed001e",
+        "type": "message",
+        "text": "go fire her",
+        "user": "U15HRTAHL",
+        "ts": "1531232729.000055"
+    },
+    {
+        "client_msg_id": "a31ddc3f-d4eb-452c-a3a3-8ab27cd7b860",
+        "type": "message",
+        "text": "I just had a talk with her manager",
+        "user": "U15HY5TG8",
+        "ts": "1531232857.000179"
+    },
+    {
+        "client_msg_id": "306457BB-568B-475F-A840-C356B5ABB599",
+        "type": "message",
+        "text": "Did you think about sitting down with her first and helping her?",
+        "user": "U15J5H60P",
+        "ts": "1531232957.000294"
+    },
+    {
+        "client_msg_id": "79535ff4-3e05-44c2-9676-86e72bfab15c",
+        "type": "message",
+        "text": "what is this? Communism?",
+        "user": "U15HRTAHL",
+        "ts": "1531233080.000153"
+    },
+    {
+        "client_msg_id": "4150475f-2b17-4f45-ad5d-b66fb2bcb176",
+        "type": "message",
+        "text": "Boot that bitch to the curb, this is a capitalism",
+        "user": "U15HRTAHL",
+        "ts": "1531233090.000161"
+    },
+    {
+        "client_msg_id": "cc73c8bb-d9cf-4877-adf5-a411a6c914f1",
+        "type": "message",
+        "text": "less competition",
+        "user": "U15HRTAHL",
+        "ts": "1531233092.000681"
+    },
+    {
+        "client_msg_id": "4b2123a4-8f05-4f2b-aa31-295a6f8aa779",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1531233094.000207"
+    },
+    {
+        "client_msg_id": "3c6ab407-b7eb-42e5-90e2-f9ee54791376",
+        "type": "message",
+        "text": "Yes, I helped her before going on vacation, then when I got back I noticed she did it wrong, so I helped her again. She said she understood what the problem was, but she clearly doesn't",
+        "user": "U15HY5TG8",
+        "ts": "1531233137.000508"
+    },
+    {
+        "client_msg_id": "7ba06751-66e3-4006-b701-09794eab4379",
+        "type": "message",
+        "text": "apparently, I'm just another piece to the puzzle of people realizing she's incompetent",
+        "user": "U15HY5TG8",
+        "ts": "1531233154.000524"
+    },
+    {
+        "client_msg_id": "3a1a67ee-8881-4606-8828-ff1063374c2b",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1531233260.000102"
+    },
+    {
+        "client_msg_id": "0ad446a1-ac59-4c51-96c4-8fb559b1824b",
+        "type": "message",
+        "text": "is that what her manager said?",
+        "user": "U15HRTAHL",
+        "ts": "1531233264.000441"
+    },
+    {
+        "client_msg_id": "f1c71b21-dc81-4246-b68a-17712f77f326",
+        "type": "message",
+        "text": "That and two other coworkers",
+        "user": "U15HY5TG8",
+        "ts": "1531233298.000223"
+    },
+    {
+        "client_msg_id": "6464afe2-82e4-4dba-8f6b-891e56aadecd",
+        "type": "message",
+        "text": "I'm the Zywave version of that chick",
+        "user": "U15HSHSS2",
+        "ts": "1531233349.000189"
+    },
+    {
+        "client_msg_id": "7c1e96f5-94f0-40ba-9567-cc776ebf8aea",
+        "type": "message",
+        "text": "lets all quit and start a roulette team",
+        "user": "U15HRTAHL",
+        "ts": "1531233438.000017"
+    },
+    {
+        "client_msg_id": "9534a133-2cf1-4731-9935-35198fe7de63",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1531233453.000528"
+    },
+    {
+        "client_msg_id": "7bf0e1c2-a6e5-43cd-8205-48a5a17fd030",
+        "type": "message",
+        "text": "and lol",
+        "user": "U15HY5TG8",
+        "ts": "1531233454.000180"
+    },
+    {
+        "client_msg_id": "2eb79d37-05a4-40c1-9243-b6156bc5b601",
+        "type": "message",
+        "text": "We can beat the simulations",
+        "user": "U15HSHSS2",
+        "ts": "1531233467.000486"
+    },
+    {
+        "client_msg_id": "5473b6e3-6905-418e-8f8a-8929f6d3b4ae",
+        "type": "message",
+        "text": "Lets start a casino",
+        "user": "U15HSHSS2",
+        "ts": "1531233484.000617"
+    },
+    {
+        "client_msg_id": "e6dfb06d-7fca-43a2-9097-33efcd93a297",
+        "type": "message",
+        "text": "Where the house doesn't have the advantage",
+        "user": "U15HSHSS2",
+        "ts": "1531233498.000597"
+    },
+    {
+        "client_msg_id": "a655a744-e820-4e1d-816d-34e2240405f0",
+        "type": "message",
+        "text": "then we’ll sell it",
+        "user": "U15HRTAHL",
+        "ts": "1531233518.000023"
+    },
+    {
+        "client_msg_id": "155cff58-f2c1-4395-a19c-7e3dc2982fff",
+        "type": "message",
+        "text": "and then gamble there",
+        "user": "U15HRTAHL",
+        "ts": "1531233521.000658"
+    },
+    {
+        "client_msg_id": "ff54eda4-ea59-4763-aead-648f3b5ba27d",
+        "type": "message",
+        "text": "No 0 and 00 in roulette",
+        "user": "U15HSHSS2",
+        "ts": "1531233523.000091"
+    },
+    {
+        "client_msg_id": "f4377502-34ed-479b-a253-826325a30424",
+        "type": "message",
+        "text": "yesss",
+        "user": "U15HSHSS2",
+        "ts": "1531233531.000058"
+    },
+    {
+        "client_msg_id": "51a44fb4-153b-40e1-bed7-4b62bcb999d6",
+        "type": "message",
+        "text": "the plan is coming together",
+        "user": "U15HSHSS2",
+        "ts": "1531233537.000288"
+    },
+    {
+        "client_msg_id": "6f89df55-9a4f-467c-9f25-d05e5a32af8b",
+        "type": "message",
+        "text": "we can get the funding by playing roulette!",
+        "user": "U15HRTAHL",
+        "ts": "1531233548.000234"
+    },
+    {
+        "client_msg_id": "782ad2bf-3daf-4528-ad3d-ca44c4617da9",
+        "type": "message",
+        "text": "Lets make a slot machine with a backdoor",
+        "user": "U15HSHSS2",
+        "ts": "1531233564.000111"
+    },
+    {
+        "client_msg_id": "2c25e05f-049d-4e85-bac4-4fe233bf5dc4",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1531234643.000390"
+    },
+    {
+        "client_msg_id": "bdd839b1-a086-4128-a252-859c115ed983",
+        "type": "message",
+        "text": "Do you guys use external database server queries?",
+        "user": "U15HRTAHL",
+        "ts": "1531253309.000487"
+    },
+    {
+        "client_msg_id": "17C46C50-EA54-4B65-986A-F52FB34E51A1",
+        "type": "message",
+        "text": "Not sure",
+        "user": "U15J5H60P",
+        "ts": "1531253436.000129"
+    },
+    {
+        "client_msg_id": "512C40FB-5A30-4EFC-B171-FEF6C3BFDA19",
+        "type": "message",
+        "text": "Liiiike Linq?",
+        "user": "U15HY5TG8",
+        "ts": "1531259977.000170"
+    },
+    {
+        "client_msg_id": "a1e5659f-002e-42d6-8ca7-747fe5c74789",
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1531260063.000048"
+    },
+    {
+        "client_msg_id": "eb073ce3-8de7-42e7-a68a-3b74cc9527c9",
+        "type": "message",
+        "text": "nvm",
+        "user": "U15HRTAHL",
+        "ts": "1531260064.000104"
+    },
+    {
+        "client_msg_id": "6818AEB3-D026-40A1-A287-303DCBBCD19B",
+        "type": "message",
+        "text": "Or do you mean like doing a query as a string and passing it through the database class",
+        "user": "U15HY5TG8",
+        "ts": "1531260167.000117"
+    },
+    {
+        "client_msg_id": "19b5bc69-b5e7-4cc8-950f-66b1d0c55e99",
+        "type": "message",
+        "text": "No",
+        "user": "U15HRTAHL",
+        "ts": "1531260193.000080"
+    },
+    {
+        "client_msg_id": "4f5e9572-8660-497e-8131-50e7983a6409",
+        "type": "message",
+        "text": "you can have an external database that you can query from",
+        "user": "U15HRTAHL",
+        "ts": "1531260202.000192"
+    },
+    {
+        "client_msg_id": "03db0da5-263d-40fc-bdfb-85b4badf8acc",
+        "type": "message",
+        "text": "and you name it something",
+        "user": "U15HRTAHL",
+        "ts": "1531260216.000316"
+    },
+    {
+        "client_msg_id": "292cc725-5c99-48cb-a811-5708cae04fd9",
+        "type": "message",
+        "text": "and if you want to query from it you do",
+        "user": "U15HRTAHL",
+        "ts": "1531260223.000276"
+    },
+    {
+        "client_msg_id": "DB710B60-F160-456E-96D5-3322DA1F6656",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1531260242.000274"
+    },
+    {
+        "client_msg_id": "3B0EC047-5F42-4C81-B889-E1C7026F69F4",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1531260244.000268"
+    },
+    {
+        "client_msg_id": "1db4fd03-1b69-4a93-8976-e4b318ea8bf3",
+        "type": "message",
+        "text": "`FROM &lt;EXTERNALDBNAME&gt;...TableName`",
+        "user": "U15HRTAHL",
+        "ts": "1531260260.000214"
+    },
+    {
+        "client_msg_id": "2D1FC442-444C-4252-BCAC-572936F1D39E",
+        "type": "message",
+        "text": "Ahh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1531260292.000115"
+    },
+    {
+        "client_msg_id": "BEFB6AF3-2EAC-4D91-A302-61BED4D8426E",
+        "type": "message",
+        "text": "Ahh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1531268709.000035"
+    },
+    {
+        "client_msg_id": "81306FF6-3E75-4A15-8375-A6488DC84EAD",
+        "type": "message",
+        "text": "Ill look but i feel like nahh",
+        "user": "U15HY5TG8",
+        "ts": "1531268719.000109"
+    },
+    {
+        "client_msg_id": "EF1FC640-0DB3-4E92-AC3E-637EADE76A57",
+        "type": "message",
+        "text": "Ah so that’s how it’s structured",
+        "user": "U15J5H60P",
+        "ts": "1531268721.000206"
+    },
+    {
+        "client_msg_id": "3790C7B6-1EE3-469E-8573-1509CD1E6B67",
+        "type": "message",
+        "text": "Brb stealing your trade secrets",
+        "user": "U15J5H60P",
+        "ts": "1531268728.000065"
+    },
+    {
+        "client_msg_id": "FF32B0DE-55BE-49C9-93CC-AF539CFF2725",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531268941.000077"
+    },
+    {
+        "client_msg_id": "bc9ed50c-56d0-4064-8890-63f923185ef7",
+        "type": "message",
+        "text": "I mean this isn't product so it's not worth much ",
+        "user": "U15HRTAHL",
+        "ts": "1531269763.000021"
+    },
+    {
+        "client_msg_id": "6E6F6E54-2C01-4D80-A892-AF1B95E99CED",
+        "type": "message",
+        "text": "Hakuna Matata ",
+        "user": "U15J5H60P",
+        "ts": "1531269781.000186"
+    }
+]

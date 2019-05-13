@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "5cd00d0b-5ce9-4ef5-a23e-3c01cee7b719",
+        "type": "message",
+        "text": "where do you put business specific details in an angular config file",
+        "user": "U15HY5TG8",
+        "ts": "1533657474.000162"
+    },
+    {
+        "client_msg_id": "8527ac6d-6a93-4a53-a238-1b5cec47c883",
+        "type": "message",
+        "text": "for example I want to reference the config file to see what business name this app is deployed to",
+        "user": "U15HY5TG8",
+        "ts": "1533657493.000279"
+    },
+    {
+        "client_msg_id": "4c080337-f224-428e-a4b2-c6fafaac494a",
+        "type": "message",
+        "text": "Use a filter?",
+        "user": "U15HRTAHL",
+        "ts": "1533675716.000250"
+    },
+    {
+        "client_msg_id": "A6712582-35E1-40C9-9771-1AD4881DD22E",
+        "type": "message",
+        "text": "Ill look into that, thanks",
+        "user": "U15HY5TG8",
+        "ts": "1533675758.000318"
+    }
+]

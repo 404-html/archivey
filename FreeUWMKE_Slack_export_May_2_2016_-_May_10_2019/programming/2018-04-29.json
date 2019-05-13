@@ -1,0 +1,132 @@
+[
+    {
+        "type": "message",
+        "text": "Have you guys ever looked into webgl?",
+        "user": "U15HRTAHL",
+        "ts": "1525052285.000115"
+    },
+    {
+        "client_msg_id": "1F98B358-C389-4329-A85D-3A5D2D2E4438",
+        "type": "message",
+        "text": "Nooope",
+        "user": "U15HY5TG8",
+        "ts": "1525052300.000113"
+    },
+    {
+        "type": "message",
+        "text": "I think I'm gonna learn it on the side",
+        "user": "U15HRTAHL",
+        "ts": "1525052317.000093"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> I think this is something you would be interested in with game dev",
+        "user": "U15HRTAHL",
+        "ts": "1525052335.000083"
+    },
+    {
+        "client_msg_id": "DD222BF7-9603-46F2-9075-B5A9533941AE",
+        "type": "message",
+        "text": "What is it?",
+        "user": "U15HY5TG8",
+        "ts": "1525052387.000144"
+    },
+    {
+        "type": "message",
+        "text": "graphics library",
+        "user": "U15HRTAHL",
+        "ts": "1525052405.000023"
+    },
+    {
+        "client_msg_id": "937C0B92-26E4-45AC-9BD3-3AEBF1D6DD21",
+        "type": "message",
+        "text": "Ahhh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1525052415.000102"
+    },
+    {
+        "type": "message",
+        "text": "it's based on opengl.",
+        "user": "U15HRTAHL",
+        "ts": "1525052415.000154"
+    },
+    {
+        "type": "message",
+        "text": "which is used on a lot of games",
+        "user": "U15HRTAHL",
+        "ts": "1525052423.000144"
+    },
+    {
+        "client_msg_id": "981F1373-0ABF-4C97-8A0F-25C39821FB4E",
+        "type": "message",
+        "text": "Not idea what that is",
+        "user": "U15HY5TG8",
+        "ts": "1525052430.000169"
+    },
+    {
+        "client_msg_id": "97ECEE8D-1675-4BF4-87CD-8A419F8573A0",
+        "type": "message",
+        "text": "Interesting though",
+        "user": "U15HY5TG8",
+        "ts": "1525052437.000145"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/WebGL_API>",
+        "user": "U15HRTAHL",
+        "ts": "1525052463.000086",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "The WebGL API: 2D and 3D graphics for the web",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/WebGL_API",
+                "text": "Support for WebGL is present in Firefox 4+, Google Chrome 9+, Opera 12+, Safari 5.1+, Internet Explorer 11+, and Microsoft Edge build 10240+; however, the user's device must also have hardware that supports these features.",
+                "fallback": "MDN Web Docs: The WebGL API: 2D and 3D graphics for the web",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/WebGL_API",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/API\/WebGL_API"
+            }
+        ],
+        "thread_ts": "1525052463.000086",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1525053246.000047",
+        "reply_users": [
+            "U15HRTAHL"
+        ],
+        "replies": [
+            {
+                "user": "U15HRTAHL",
+                "ts": "1525053246.000047"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Learn\/WebGL>",
+        "user": "U15HRTAHL",
+        "ts": "1525053246.000047",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "Learn WebGL for 2D and 3D graphics",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Learn\/WebGL",
+                "text": "When trying to describe WebGL and its parent technology OpenGL, we often describe technology for drawing 3D graphics and applying visual effects, such as lighting, texturing, shadows, and so on. This is probably its most common use.",
+                "fallback": "MDN Web Docs: Learn WebGL for 2D and 3D graphics",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Learn\/WebGL",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Learn\/WebGL"
+            }
+        ],
+        "thread_ts": "1525052463.000086",
+        "parent_user_id": "U15HRTAHL"
+    }
+]

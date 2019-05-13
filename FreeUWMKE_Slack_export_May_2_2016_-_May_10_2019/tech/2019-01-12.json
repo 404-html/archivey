@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "8748004e-9a9b-46f4-9234-41d68d57902e",
+        "type": "message",
+        "text": "NM is moving away from Azure",
+        "user": "U15J5H60P",
+        "ts": "1547317913.010200"
+    },
+    {
+        "client_msg_id": "6d12a1b3-7e95-4833-95e9-102c76e5b4e0",
+        "type": "message",
+        "text": "We’re going to be going the AWS route exclusively going forward",
+        "user": "U15J5H60P",
+        "ts": "1547317923.010500"
+    },
+    {
+        "client_msg_id": "5c571a1c-5af1-4ec3-b712-58b1149ec1c6",
+        "type": "message",
+        "text": "We were originally trying to be cloud agnostic - using multiple cloud platforms",
+        "user": "U15J5H60P",
+        "ts": "1547317952.011200"
+    },
+    {
+        "client_msg_id": "aa97f669-026b-4607-848a-f06422735934",
+        "type": "message",
+        "text": "It was too difficult to manage apparently",
+        "user": "U15J5H60P",
+        "ts": "1547317959.011500"
+    },
+    {
+        "client_msg_id": "82eeba75-588a-474b-b7e6-3b140675f5d0",
+        "type": "message",
+        "text": "sweet",
+        "user": "U15HRTAHL",
+        "ts": "1547318107.011700"
+    },
+    {
+        "client_msg_id": "b805193f-9ac6-4f03-961f-a4d8e61e856f",
+        "type": "message",
+        "text": "aws is awesome",
+        "user": "U15HRTAHL",
+        "ts": "1547318111.011900"
+    },
+    {
+        "client_msg_id": "02edfb1e-2b4f-4be2-9115-4a3cd75dc993",
+        "type": "message",
+        "text": "Yeah. So much more mature",
+        "user": "U15J5H60P",
+        "ts": "1547318133.012200"
+    },
+    {
+        "client_msg_id": "caa48c7c-e632-4da8-b472-cfb98eb757d5",
+        "type": "message",
+        "text": "serverless is a game changer",
+        "user": "U15HRTAHL",
+        "ts": "1547318198.012500"
+    },
+    {
+        "client_msg_id": "9844bc05-61ad-4949-bc18-7ac328fbdfb1",
+        "type": "message",
+        "text": "when you're getting billed per 100ms your function takes to execute you HAVE to write efficient code and use a fast langauge",
+        "user": "U15HRTAHL",
+        "ts": "1547318223.013300"
+    },
+    {
+        "client_msg_id": "e1a6d0bf-2b46-4eeb-892f-6786ffd84441",
+        "type": "message",
+        "text": ".NET is too fucking slow",
+        "user": "U15HRTAHL",
+        "ts": "1547318229.013500"
+    },
+    {
+        "client_msg_id": "f496abfb-869e-4481-add2-b716e2c054ba",
+        "type": "message",
+        "text": "That’s why I’m trying to learn it. It’s neat",
+        "user": "U15J5H60P",
+        "ts": "1547318232.013800"
+    },
+    {
+        "client_msg_id": "4546efff-4b4b-4bcd-a081-355f85e37c22",
+        "type": "message",
+        "text": "java is too fucking slow",
+        "user": "U15HRTAHL",
+        "ts": "1547318233.013900"
+    },
+    {
+        "client_msg_id": "d888ef88-c68e-40ce-a0fb-3303205f3c3a",
+        "type": "message",
+        "text": "You should honestly learn GO",
+        "user": "U15HRTAHL",
+        "ts": "1547318241.014100"
+    },
+    {
+        "client_msg_id": "fadfc0e3-0b62-49a8-8089-5ab38372d6cf",
+        "type": "message",
+        "text": "it's built for this",
+        "user": "U15HRTAHL",
+        "ts": "1547318245.014300"
+    }
+]

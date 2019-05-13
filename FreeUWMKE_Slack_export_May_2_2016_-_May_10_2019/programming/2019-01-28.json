@@ -1,0 +1,197 @@
+[
+    {
+        "client_msg_id": "24569F95-6552-48D8-B979-7AF44642F85F",
+        "type": "message",
+        "text": "I need to figure out how to render a partial view for an email and mvc is being a bitch",
+        "user": "U15HY5TG8",
+        "ts": "1548686239.018800"
+    },
+    {
+        "client_msg_id": "eecfa580-eed9-4b15-8d88-070377b72037",
+        "type": "message",
+        "text": "I hate design discussions",
+        "user": "U15J5H60P",
+        "ts": "1548692384.019000"
+    },
+    {
+        "client_msg_id": "00eff883-f55c-4c68-a39b-00a396b10f8b",
+        "type": "message",
+        "text": "People are so bad at design",
+        "user": "U15J5H60P",
+        "ts": "1548692388.019200"
+    },
+    {
+        "client_msg_id": "b9afb0f1-655b-425d-bf17-550d79f54f8a",
+        "type": "message",
+        "text": "It kills me",
+        "user": "U15J5H60P",
+        "ts": "1548692390.019400"
+    },
+    {
+        "client_msg_id": "4f57c400-4064-467e-bf49-7374c60f2f6f",
+        "type": "message",
+        "text": "They over analyze everything, too.",
+        "user": "U15J5H60P",
+        "ts": "1548692399.019700"
+    },
+    {
+        "client_msg_id": "6747ab26-20ee-495e-8aeb-cb6f703d5ebd",
+        "type": "message",
+        "text": "This is a business app",
+        "user": "U15J5H60P",
+        "ts": "1548692407.020000"
+    },
+    {
+        "client_msg_id": "2691c4de-992b-49b0-a4d3-8ec1f82bc36a",
+        "type": "message",
+        "text": "Just fucking put some fields on a screen",
+        "user": "U15J5H60P",
+        "ts": "1548692415.020200"
+    },
+    {
+        "client_msg_id": "1b26eed1-8213-48a7-8838-4e15676c5cc1",
+        "type": "message",
+        "text": "It's not that hard",
+        "user": "U15J5H60P",
+        "ts": "1548692418.020400"
+    },
+    {
+        "client_msg_id": "caed06f1-8ad8-4ff8-9e49-6294e47d1b89",
+        "type": "message",
+        "text": "Also",
+        "user": "U15J5H60P",
+        "ts": "1548692427.020600"
+    },
+    {
+        "client_msg_id": "5a334f73-4b47-47ad-bcb9-95efe2a34210",
+        "type": "message",
+        "text": "Too many people in the meeting",
+        "user": "U15J5H60P",
+        "ts": "1548692431.020800"
+    },
+    {
+        "client_msg_id": "65532dc3-9c22-4c66-9807-d623e01dd2e6",
+        "type": "message",
+        "text": "7 people trying to design a screen all at the same time",
+        "user": "U15J5H60P",
+        "ts": "1548692441.021200"
+    },
+    {
+        "client_msg_id": "60114c1a-0b88-4298-8e28-c81e26c3c811",
+        "type": "message",
+        "text": "lol yeah wonderbox had those kinda discussions too",
+        "user": "U15HY5TG8",
+        "ts": "1548700703.021600"
+    },
+    {
+        "client_msg_id": "1a71b9de-b923-4e25-a7ab-c20c2115044b",
+        "type": "message",
+        "text": "I want to work on my side project",
+        "user": "U15HRTAHL",
+        "ts": "1548727083.021900"
+    },
+    {
+        "client_msg_id": "5d99a6e5-9e31-4ac9-9eae-600a0e80d6eb",
+        "type": "message",
+        "text": "but aws documentation is so fucking dry",
+        "user": "U15HRTAHL",
+        "ts": "1548727088.022100"
+    },
+    {
+        "client_msg_id": "4daea44c-f8dc-4321-a3fa-d4cfd6ba4aab",
+        "type": "message",
+        "text": "it's just words",
+        "user": "U15HRTAHL",
+        "ts": "1548727090.022300"
+    },
+    {
+        "client_msg_id": "5ebeda9d-177e-42ae-ba49-fe1a2a65ae58",
+        "type": "message",
+        "text": "no examples",
+        "user": "U15HRTAHL",
+        "ts": "1548727092.022500"
+    },
+    {
+        "client_msg_id": "CDFD4C14-ADFD-4BE5-AC2F-38C2A2F61C9C",
+        "type": "message",
+        "text": "Water you trying to do",
+        "user": "U15J5H60P",
+        "ts": "1548727103.022800"
+    },
+    {
+        "client_msg_id": "2a008f59-a247-407e-af59-69976c5e973c",
+        "type": "message",
+        "text": "<https:\/\/docs.aws.amazon.com\/apigateway\/latest\/developerguide\/apigateway-integrate-with-cognito.html>",
+        "user": "U15HRTAHL",
+        "ts": "1548727123.023000",
+        "attachments": [
+            {
+                "title": "Control Access to a REST API Using          Amazon Cognito User Pools as Authorizer - Amazon API Gateway       ",
+                "title_link": "https:\/\/docs.aws.amazon.com\/apigateway\/latest\/developerguide\/apigateway-integrate-with-cognito.html",
+                "text": "Learn how to use an Amazon Cognito user pool to authorize calling an API method.",
+                "fallback": "Control Access to a REST API Using          Amazon Cognito User Pools as Authorizer - Amazon API Gateway       ",
+                "from_url": "https:\/\/docs.aws.amazon.com\/apigateway\/latest\/developerguide\/apigateway-integrate-with-cognito.html",
+                "service_icon": "https:\/\/docs.aws.amazon.com\/images\/favicon.ico",
+                "service_name": "docs.aws.amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.aws.amazon.com\/apigateway\/latest\/developerguide\/apigateway-integrate-with-cognito.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9F3E624A-96AE-4E57-94F7-B6F52BA1E18D",
+        "type": "message",
+        "text": "Have you thought about not protecting your apps?",
+        "user": "U15J5H60P",
+        "ts": "1548727159.023800"
+    },
+    {
+        "client_msg_id": "a367d6e9-7ad7-4c8d-9b55-544d3908ca4e",
+        "type": "message",
+        "text": "well I need the current user in the api",
+        "user": "U15HRTAHL",
+        "ts": "1548727174.024200"
+    },
+    {
+        "client_msg_id": "3e28f55b-4cc1-485d-aea2-ae3d485233fa",
+        "type": "message",
+        "text": "so might as well protect it",
+        "user": "U15HRTAHL",
+        "ts": "1548727179.024400"
+    },
+    {
+        "client_msg_id": "216e69c6-69ac-4a70-8435-ac6a848e5ded",
+        "type": "message",
+        "text": "kill 2 birds with 1 stone",
+        "user": "U15HRTAHL",
+        "ts": "1548727190.024600"
+    },
+    {
+        "client_msg_id": "d7586d14-e5fc-43b0-a77b-c8403d44bd57",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1548727220.025100"
+    },
+    {
+        "client_msg_id": "AF66E365-9F7E-4CDD-AFC7-79D30BCA7C91",
+        "type": "message",
+        "text": "Nah",
+        "user": "U15J5H60P",
+        "ts": "1548727229.025300"
+    },
+    {
+        "client_msg_id": "1CC15598-41AE-4902-B4D9-B9DEB7FDD8DC",
+        "type": "message",
+        "text": "Make everything local on device ",
+        "user": "U15J5H60P",
+        "ts": "1548727235.025600"
+    },
+    {
+        "client_msg_id": "e860a0c2-8453-40a3-b64d-945e17fb39b9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1548727240.025800"
+    }
+]

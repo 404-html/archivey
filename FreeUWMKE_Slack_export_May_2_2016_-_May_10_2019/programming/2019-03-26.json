@@ -1,0 +1,524 @@
+[
+    {
+        "client_msg_id": "20B9E5B7-73B4-462A-912E-2F9A5E753193",
+        "type": "message",
+        "text": "I got Cognito sort of working...",
+        "user": "U15J5H60P",
+        "ts": "1553601768.000400"
+    },
+    {
+        "client_msg_id": "7A4DBA28-FC8C-4155-BC81-D556DA22AF67",
+        "type": "message",
+        "text": "I can sign in",
+        "user": "U15J5H60P",
+        "ts": "1553601774.000600"
+    },
+    {
+        "client_msg_id": "3FB6764E-A77E-4C47-902E-F9E893DA1336",
+        "type": "message",
+        "text": "But I can’t logout then successfully sign back in...",
+        "user": "U15J5H60P",
+        "ts": "1553601785.001000"
+    },
+    {
+        "client_msg_id": "7A4F1B51-A5D4-494D-BD67-32C6E18894D7",
+        "type": "message",
+        "text": "Then when I restart the app, I’m already signed in.",
+        "user": "U15J5H60P",
+        "ts": "1553601801.001500"
+    },
+    {
+        "client_msg_id": "F4B0F43B-AA51-4F25-9EAA-AB1EAF980093",
+        "type": "message",
+        "text": "Like I never actually logged out",
+        "user": "U15J5H60P",
+        "ts": "1553601806.001800"
+    },
+    {
+        "client_msg_id": "41C9CD60-B7C4-4655-9179-7058D1693067",
+        "type": "message",
+        "text": "Really weird.",
+        "user": "U15J5H60P",
+        "ts": "1553601810.002000"
+    },
+    {
+        "client_msg_id": "798A651F-A7C2-4BDD-BE04-78836B832249",
+        "type": "message",
+        "text": "I wish I could program on my phone",
+        "user": "U15J5H60P",
+        "ts": "1553601823.002300"
+    },
+    {
+        "client_msg_id": "8DD76C67-D595-43D1-A96D-19E325858269",
+        "type": "message",
+        "text": "My phone is such an unproductive device.",
+        "user": "U15J5H60P",
+        "ts": "1553601836.002800"
+    },
+    {
+        "client_msg_id": "8c6983cf-b556-4611-9daf-037382dea7cb",
+        "type": "message",
+        "text": "That sounds like it's all client side. Cognito was a real bitch to setup. Are you using it server side or client side?",
+        "user": "U15HRTAHL",
+        "ts": "1553603872.001000"
+    },
+    {
+        "client_msg_id": "F554D0E8-B903-4538-AC96-C9EE4E3B7FBF",
+        "type": "message",
+        "text": "Client",
+        "user": "U15J5H60P",
+        "ts": "1553604817.001200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH1EJUUFK",
+                "created": 1553607005,
+                "timestamp": 1553607005,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 30421,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH1EJUUFK\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH1EJUUFK\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1EJUUFK-3e10d33a14\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1EJUUFK-3e10d33a14\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1EJUUFK-3e10d33a14\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1EJUUFK-3e10d33a14\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 480,
+                "original_h": 360,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FH1EJUUFK\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FH1EJUUFK-830758dd65",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1553607006.000100",
+        "client_msg_id": "174B56C0-C144-4720-B95E-72A5E648ACDA"
+    },
+    {
+        "client_msg_id": "4E7876DA-AD8F-4557-9917-280B3FEF6E6A",
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1553607016.000500"
+    },
+    {
+        "client_msg_id": "987eb3e7-06a6-4116-a469-5310b959c6de",
+        "type": "message",
+        "text": "then what I have won’t help you",
+        "user": "U15HRTAHL",
+        "ts": "1553607730.000300"
+    },
+    {
+        "client_msg_id": "4c65c7fb-a816-47a1-8b5c-38305e5de9cf",
+        "type": "message",
+        "text": "mine is serverside auth",
+        "user": "U15HRTAHL",
+        "ts": "1553607737.000600"
+    },
+    {
+        "client_msg_id": "D35DCA31-A069-4798-A7C0-650762C07208",
+        "type": "message",
+        "text": "Dang",
+        "user": "U15J5H60P",
+        "ts": "1553607742.000800"
+    },
+    {
+        "client_msg_id": "a81041b7-031f-41e5-9b5e-637bb3836db5",
+        "type": "message",
+        "text": "there should be a cognito sdk for you to use client side though",
+        "user": "U15HRTAHL",
+        "ts": "1553607755.001100"
+    },
+    {
+        "client_msg_id": "ad3e8c41-330b-41b0-8559-8f40db146a7f",
+        "type": "message",
+        "text": "<https:\/\/docs.aws.amazon.com\/cognito\/latest\/developerguide\/using-amazon-cognito-user-identity-pools-ios-sdk.html>",
+        "user": "U15HRTAHL",
+        "ts": "1553607772.001300",
+        "attachments": [
+            {
+                "title": "Examples: Using User Pools          with the iOS SDK - Amazon Cognito       ",
+                "title_link": "https:\/\/docs.aws.amazon.com\/cognito\/latest\/developerguide\/using-amazon-cognito-user-identity-pools-ios-sdk.html",
+                "text": "This topic provides details about registering, confirming, and authenticating users, as well as getting user attributes, when using user pools with the AWS Mobile SDK for iOS.",
+                "fallback": "Examples: Using User Pools          with the iOS SDK - Amazon Cognito       ",
+                "from_url": "https:\/\/docs.aws.amazon.com\/cognito\/latest\/developerguide\/using-amazon-cognito-user-identity-pools-ios-sdk.html",
+                "service_icon": "https:\/\/docs.aws.amazon.com\/images\/favicon.ico",
+                "service_name": "docs.aws.amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.aws.amazon.com\/cognito\/latest\/developerguide\/using-amazon-cognito-user-identity-pools-ios-sdk.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AC2EFED6-0218-432E-9EA6-E271B40253FD",
+        "type": "message",
+        "text": "The boo is because i thought clientside auth is not ideal",
+        "user": "U15HY5TG8",
+        "ts": "1553607809.002300"
+    },
+    {
+        "client_msg_id": "f9592076-6e32-4d07-9b38-ae004cfd8f06",
+        "type": "message",
+        "text": "cognito is meant to be used client side",
+        "user": "U15HRTAHL",
+        "ts": "1553607832.002500"
+    },
+    {
+        "client_msg_id": "E435AAFB-D114-48F1-84A2-E590E60B89B9",
+        "type": "message",
+        "text": "Yes. I have that.",
+        "user": "U15J5H60P",
+        "ts": "1553607838.002900"
+    },
+    {
+        "client_msg_id": "62fcee16-659d-41ad-8523-9efbb0d46495",
+        "type": "message",
+        "text": "I had to hack the fuck out of it to make it work server side",
+        "user": "U15HRTAHL",
+        "ts": "1553607846.003100"
+    },
+    {
+        "client_msg_id": "3ABAAABE-12D2-4F58-B73D-707761019BB1",
+        "type": "message",
+        "text": "No bueno",
+        "user": "U15J5H60P",
+        "ts": "1553607860.003300"
+    },
+    {
+        "client_msg_id": "AF5A2202-8378-4A80-819F-F7B0CFF66325",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1553608091.003500"
+    },
+    {
+        "client_msg_id": "F5D901F7-B118-49E9-9E96-17EEDA2EB38C",
+        "type": "message",
+        "text": "So why use it then?",
+        "user": "U15HY5TG8",
+        "ts": "1553608099.003800"
+    },
+    {
+        "client_msg_id": "519572da-8543-4ff9-9d4a-864794b3fd09",
+        "type": "message",
+        "text": "because it integrates with lambda to protect your api endpoints",
+        "user": "U15HRTAHL",
+        "ts": "1553608158.004200"
+    },
+    {
+        "client_msg_id": "DD1AE013-449A-4D69-B626-888CE79CC3D3",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1553608224.004400"
+    },
+    {
+        "client_msg_id": "99F62110-5D20-4D64-81B0-B58C1DF76AF8",
+        "type": "message",
+        "text": "Are there not others that do the same thing but meant for server side?",
+        "user": "U15HY5TG8",
+        "ts": "1553608246.005100"
+    },
+    {
+        "client_msg_id": "5772d3e3-c310-42f8-8f72-ce3505fa717c",
+        "type": "message",
+        "text": "probably but I wanted to stick with aws tools",
+        "user": "U15HRTAHL",
+        "ts": "1553608272.005500"
+    },
+    {
+        "client_msg_id": "f67243a3-1cef-48c7-a166-00ba5ab89874",
+        "type": "message",
+        "text": "also if someone calls an api endpoint who doesn’t have a valid session cognito doesn’t allow them to even hit the endpoint and won’t count against me as an api hit",
+        "user": "U15HRTAHL",
+        "ts": "1553608310.006400"
+    },
+    {
+        "client_msg_id": "fab1e745-a765-4dcb-b54f-dfb1b64c2ccb",
+        "type": "message",
+        "text": "if I didn’t use cognito then I’d get a hit everytime",
+        "user": "U15HRTAHL",
+        "ts": "1553608322.006800"
+    },
+    {
+        "client_msg_id": "58fbb090-65e2-4a54-87bc-8ec92353eb25",
+        "type": "message",
+        "text": "which doesn’t really matter because you get a million free for month",
+        "user": "U15HRTAHL",
+        "ts": "1553608334.007200"
+    },
+    {
+        "client_msg_id": "488fa061-2941-4d20-a663-1703e3450372",
+        "type": "message",
+        "text": "but it seemed nice to have",
+        "user": "U15HRTAHL",
+        "ts": "1553608342.007500"
+    },
+    {
+        "client_msg_id": "58AC71CB-79EB-46F9-B71C-1C001049B9B7",
+        "type": "message",
+        "text": "Ahhh i see i see",
+        "user": "U15HY5TG8",
+        "ts": "1553608448.007800"
+    },
+    {
+        "client_msg_id": "F7A2A841-8702-4CE9-B15E-D0224406C27F",
+        "type": "message",
+        "text": "I just named a database column ShareableHash and my coworkers just turned around squinty eyed and said \"heyyy mayne, you want some of this hash???\"",
+        "user": "U15HY5TG8",
+        "ts": "1553619879.009600"
+    },
+    {
+        "client_msg_id": "6840a5da-0191-4f30-9e22-9e25407678f6",
+        "type": "message",
+        "text": "Ha",
+        "user": "U15J5H60P",
+        "ts": "1553619937.009800"
+    },
+    {
+        "client_msg_id": "f4a3c3f9-f5ee-41d0-92bb-02951cab1fcc",
+        "type": "message",
+        "text": "im glad you’re finally hashing your passwords",
+        "user": "U15HRTAHL",
+        "ts": "1553620800.010200"
+    },
+    {
+        "client_msg_id": "6F70D016-335D-4557-A7F9-93AF259CA5B0",
+        "type": "message",
+        "text": "Fuck offff",
+        "user": "U15HY5TG8",
+        "ts": "1553624149.010400"
+    },
+    {
+        "client_msg_id": "EE845B7C-B67C-4454-BB07-8A1F1A152953",
+        "type": "message",
+        "text": "If it aint her priority, it aint mine",
+        "user": "U15HY5TG8",
+        "ts": "1553624173.010900"
+    },
+    {
+        "client_msg_id": "f56fed86-8309-4486-a7e9-14c08567dfe7",
+        "type": "message",
+        "text": "I think our career needs an exam\/certification for 2 reasons",
+        "user": "U15HRTAHL",
+        "ts": "1553624649.011700"
+    },
+    {
+        "client_msg_id": "2c556ecc-103b-44ec-bc10-e4162b03023a",
+        "type": "message",
+        "text": "1. it will differentiate us from those dev code camp kids\n2. it will prevent people from making hackable databases",
+        "user": "U15HRTAHL",
+        "ts": "1553624676.012300"
+    },
+    {
+        "client_msg_id": "C4EF5241-9497-43B7-8479-FEDEC23D7EF5",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1553624701.012500"
+    },
+    {
+        "client_msg_id": "8AAA351F-F5D6-46C6-8805-9DEEBE1A99BF",
+        "type": "message",
+        "text": "Realistically, thats what a college degree should be doing",
+        "user": "U15HY5TG8",
+        "ts": "1553624740.013200"
+    },
+    {
+        "client_msg_id": "E2ACAA15-CF96-44AC-B9E4-5FFCC3F86D8B",
+        "type": "message",
+        "text": "We just had dee as a \"teacher\"",
+        "user": "U15HY5TG8",
+        "ts": "1553624751.013600"
+    },
+    {
+        "client_msg_id": "7ff27cc8-b07f-4702-a40e-d939b1780aa4",
+        "type": "message",
+        "text": "almost all engineers have to go through some accreditation program",
+        "user": "U15HRTAHL",
+        "ts": "1553624790.014200"
+    },
+    {
+        "client_msg_id": "b9a2fb6a-f6fc-40ee-9604-c253ba7d66df",
+        "type": "message",
+        "text": "lilly has to get a cpa",
+        "user": "U15HRTAHL",
+        "ts": "1553624795.014400"
+    },
+    {
+        "client_msg_id": "5ea9a7fa-c84d-4c4b-aece-82bdeab4a69e",
+        "type": "message",
+        "text": "financiers have to get cfa\/series exams",
+        "user": "U15HRTAHL",
+        "ts": "1553624823.014800"
+    },
+    {
+        "client_msg_id": "38bd117c-fe73-4078-ad6d-6cb8b8871c78",
+        "type": "message",
+        "text": "we should want this",
+        "user": "U15HRTAHL",
+        "ts": "1553624828.015000"
+    },
+    {
+        "client_msg_id": "C219677D-0991-4110-985D-AEEADC481262",
+        "type": "message",
+        "text": "It’s called a bachelor degree",
+        "user": "U15J5H60P",
+        "ts": "1553624844.015200"
+    },
+    {
+        "client_msg_id": "429b90be-b2e6-4c66-aee2-a71b37745599",
+        "type": "message",
+        "text": "all those programs need bachelors as well",
+        "user": "U15HRTAHL",
+        "ts": "1553624857.015800"
+    },
+    {
+        "client_msg_id": "8111F987-50E1-4E53-B1E9-CA6DC97343FD",
+        "type": "message",
+        "text": "That's how we are differed from Dev code camp",
+        "user": "U15J5H60P",
+        "ts": "1553624867.016200"
+    },
+    {
+        "client_msg_id": "056FE1AB-09BB-407B-8125-1EA7E2108555",
+        "type": "message",
+        "text": "Yeah, what <@U15J5H60P> said",
+        "user": "U15HY5TG8",
+        "ts": "1553624945.016600"
+    },
+    {
+        "client_msg_id": "215f6b73-0a2b-45c1-858f-01f5013f9222",
+        "type": "message",
+        "text": "until they start taking yall’s jobs",
+        "user": "U15HRTAHL",
+        "ts": "1553624978.016900"
+    },
+    {
+        "client_msg_id": "90faf476-5175-4bf0-b041-725df4b3cc2e",
+        "type": "message",
+        "text": "just wait until “learn to code” catches up to us",
+        "user": "U15HRTAHL",
+        "ts": "1553624990.017200"
+    },
+    {
+        "client_msg_id": "438B4B64-4BB2-4012-A0EF-C79F8CCDDE29",
+        "type": "message",
+        "text": "Then I don't think a cert will save us",
+        "user": "U15J5H60P",
+        "ts": "1553625014.017600"
+    },
+    {
+        "client_msg_id": "414670f6-62ff-44a5-81af-71b8e167f197",
+        "type": "message",
+        "text": "it will if it’s tied to a 4 year degree program like all the existing ones",
+        "user": "U15HRTAHL",
+        "ts": "1553625034.018200"
+    },
+    {
+        "client_msg_id": "CF482C47-3CA5-48B6-A0E1-BC629157A30C",
+        "type": "message",
+        "text": "Mmm",
+        "user": "U15J5H60P",
+        "ts": "1553625044.018400"
+    },
+    {
+        "client_msg_id": "9c206edf-f2d4-4df9-84a3-f98e5fa9b832",
+        "type": "message",
+        "text": "im guessing you guys don’t want to do another meetup",
+        "user": "U15HRTAHL",
+        "ts": "1553626870.018700"
+    },
+    {
+        "client_msg_id": "c7885b8e-7676-47fa-a24b-385fa22e29df",
+        "type": "message",
+        "text": "What meetup?",
+        "user": "U15J5H60P",
+        "ts": "1553627724.018900"
+    },
+    {
+        "client_msg_id": "cea971cc-008a-4b96-b535-84cf0ce8e983",
+        "type": "message",
+        "text": "<https:\/\/immersiondaymilwaukee.splashthat.com\/>",
+        "user": "U15HRTAHL",
+        "ts": "1553627835.019100",
+        "attachments": [
+            {
+                "title": "Immersion Day - Milwaukee",
+                "title_link": "https:\/\/immersiondaymilwaukee.splashthat.com\/",
+                "text": "This one-day private-invitation technical workshop is designed to provide hands-on training for core AWS services including compute, storage, and networking. In this introductory session, through a mix of classroom training and hands-on labs led by AWS Solutions Architects, you will learn about AWS foundational services as well as key concepts for AWS security measures and architecture best practices. Space is limited. Register today.Why Attend?Learn how to leverage AWS services to enable cloud transformation within your organizationGet hands-on experience with core AWS services like EC2, S3, and VPCs Understand AWS architecture best practices for building highly scalable web applicationsNote: This is a hands-on workshop, so please bring your laptop to participate in the lab exercises.",
+                "fallback": "Immersion Day - Milwaukee",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/s3.clients.splashthat.com\/img\/events\/splash\/splashthat.com\/sites\/view\/immersiondaymilwaukee.splashthat.com%3Fpartial%3D499615%26showWorkspace%3D1%26t%3D1552977965368%26screenshotHash%3D14a502b87e110fef%26isTakingScreenshot%3D147.png",
+                "from_url": "https:\/\/immersiondaymilwaukee.splashthat.com\/",
+                "thumb_width": 750,
+                "thumb_height": 1050,
+                "service_icon": "https:\/\/d24wuq6o951i2g.cloudfront.net\/img\/events\/id\/317\/3174272\/assets\/ba0.d40.favicon.png",
+                "service_name": "immersiondaymilwaukee.splashthat.com",
+                "id": 1,
+                "original_url": "https:\/\/immersiondaymilwaukee.splashthat.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a32f6163-9788-4d8c-8791-f5c50ea67597",
+        "type": "message",
+        "text": "I registered",
+        "user": "U15J5H60P",
+        "ts": "1553628052.019400"
+    },
+    {
+        "client_msg_id": "bd68544c-7da6-484c-8ff6-2ff9f0b4ee9b",
+        "type": "message",
+        "text": "I wish I could see who’s all registered",
+        "user": "U15HRTAHL",
+        "ts": "1553628099.019700"
+    },
+    {
+        "client_msg_id": "ebaaf4fa-d683-41b5-a1d3-eec147b4c46e",
+        "type": "message",
+        "text": "I dont want to be stuck in a room with 50+ year old indians",
+        "user": "U15HRTAHL",
+        "ts": "1553628128.020200"
+    },
+    {
+        "client_msg_id": "a8c0c51e-a46e-42ae-996e-9ab4c452ce16",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1553628133.020400"
+    },
+    {
+        "client_msg_id": "8a544305-e350-42c9-8bf0-17f62c863b4c",
+        "type": "message",
+        "text": "Asking obnoxious questions",
+        "user": "U15J5H60P",
+        "ts": "1553628147.020800"
+    },
+    {
+        "client_msg_id": "6afe3116-1707-4ed0-a0f5-da42fe9085aa",
+        "type": "message",
+        "text": "_Big Oh_",
+        "user": "U15HRTAHL",
+        "ts": "1553628148.021000"
+    }
+]

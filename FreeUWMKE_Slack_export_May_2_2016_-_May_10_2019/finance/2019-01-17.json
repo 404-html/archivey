@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "c42696a7-fc27-42b2-bca8-a7c6119a3217",
+        "type": "message",
+        "text": "Netflix is down $13",
+        "user": "U15J5H60P",
+        "ts": "1547760833.000200"
+    },
+    {
+        "client_msg_id": "ece5450c-c271-4ab0-860f-832e49f48713",
+        "type": "message",
+        "text": "Missed their revenue",
+        "user": "U15J5H60P",
+        "ts": "1547760862.000400",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1547760870.000000"
+        }
+    },
+    {
+        "client_msg_id": "7CE93CFE-9904-4804-953E-D437672FDC05",
+        "type": "message",
+        "text": "Lol and they’re still up for the week",
+        "user": "U15HZ01QX",
+        "ts": "1547760918.001000"
+    },
+    {
+        "client_msg_id": "de033f96-cd2d-484f-948c-2830bed7d448",
+        "type": "message",
+        "text": "<https:\/\/www.multichannel.com\/news\/netflix-could-lose-8-percent-of-subscribers>",
+        "user": "U15HSHSS2",
+        "ts": "1547761788.001200",
+        "attachments": [
+            {
+                "service_name": "Multichannel",
+                "title": "Netflix Could Lose 8% of Consumers with $1 Price Increase: Study",
+                "title_link": "https:\/\/www.multichannel.com\/news\/netflix-could-lose-8-percent-of-subscribers",
+                "text": "Research firm The Diffusion Group conducted user survey just before the streaming service upped its monthly subscriber cost",
+                "fallback": "Multichannel: Netflix Could Lose 8% of Consumers with $1 Price Increase: Study",
+                "image_url": "https:\/\/www.multichannel.com\/.image\/t_share\/MTU1OTYyNDU1OTI5OTIzMzEy\/out-of-home-viewing--netflix-16x9.jpg",
+                "from_url": "https:\/\/www.multichannel.com\/news\/netflix-could-lose-8-percent-of-subscribers",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 119843,
+                "service_icon": "https:\/\/www.multichannel.com\/site\/images\/apple-touch-icon.png?v=2019-01-16-180750-8ff56b3-012485",
+                "id": 1,
+                "original_url": "https:\/\/www.multichannel.com\/news\/netflix-could-lose-8-percent-of-subscribers"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ee0988a5-4ee9-4949-9891-20d13c25efe6",
+        "type": "message",
+        "text": "12% price increase, loss of 8% of customers. That's a 4% gain",
+        "user": "U15HSHSS2",
+        "ts": "1547761829.001900"
+    },
+    {
+        "client_msg_id": "ff063617-f7b9-4c66-bfb0-558643f32c0f",
+        "type": "message",
+        "text": "TO THE MOOOON BABY",
+        "user": "U15HSHSS2",
+        "ts": "1547761845.002300"
+    }
+]

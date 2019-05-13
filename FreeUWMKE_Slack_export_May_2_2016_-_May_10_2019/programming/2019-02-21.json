@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "7C9FD291-D874-445A-B509-5493DBE564D5",
+        "type": "message",
+        "text": "Apparently LinkedIn listens to conversations too. Just got an ad for kubernetes",
+        "user": "U15HY5TG8",
+        "ts": "1550753536.000100"
+    },
+    {
+        "client_msg_id": "0e56235e-b8c1-441b-bcfa-e91cda12d31b",
+        "type": "message",
+        "text": "Noice",
+        "user": "U15J5H60P",
+        "ts": "1550757416.000200"
+    },
+    {
+        "client_msg_id": "754610B2-1B39-4AE6-AEA7-FB5D0EE04954",
+        "type": "message",
+        "text": "Fosho",
+        "user": "U15HY5TG8",
+        "ts": "1550757686.000400"
+    },
+    {
+        "client_msg_id": "c895c262-7033-411b-a73c-0f262d77611e",
+        "type": "message",
+        "text": "Yeet",
+        "user": "U15J5H60P",
+        "ts": "1550757694.000600"
+    },
+    {
+        "client_msg_id": "60D56CBA-66C2-4443-8723-6E1869D90363",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1550757705.000800"
+    },
+    {
+        "client_msg_id": "503460c6-55c1-42b4-a923-07489085f172",
+        "type": "message",
+        "text": "Coo coo",
+        "user": "U15J5H60P",
+        "ts": "1550757713.001000"
+    },
+    {
+        "client_msg_id": "5CA17B5E-9E27-4651-846C-2F40A71583E4",
+        "type": "message",
+        "text": "Lol the frontend manager is so dumb",
+        "user": "U15HY5TG8",
+        "ts": "1550768498.001800"
+    },
+    {
+        "client_msg_id": "0D73705A-9109-4E95-BB01-1C0D86DAC835",
+        "type": "message",
+        "text": "So theres two dev channels, one called dev(private to only devs) and one called dev_dungeon(public to devs and POs and content editors). The dungeon hasnt been used once since general is a thing anyways. He says \"please move all conversations from this channel to dev\" even though they cant access it and all the people without access are like \"yeah sure let me just break into that channel\" and \"i'll take charge of moving all these nonexistent convos into that channel\"",
+        "user": "U15HY5TG8",
+        "ts": "1550768706.006800"
+    },
+    {
+        "client_msg_id": "16b3fd75-8863-4e4b-85a8-aa3b6940b32e",
+        "type": "message",
+        "text": "Anyone in the mood to help optimize my code?",
+        "user": "U15J5H60P",
+        "ts": "1550810812.000300"
+    },
+    {
+        "client_msg_id": "9bd8a622-dc86-4069-b799-ffd57d338f1b",
+        "type": "message",
+        "text": "It’s running super slow",
+        "user": "U15J5H60P",
+        "ts": "1550810822.000600"
+    },
+    {
+        "client_msg_id": "c304500d-2b54-4365-984b-ab7407e33d7c",
+        "type": "message",
+        "text": "And it’s because it has to run through 186 records every time it renders a calendar spot",
+        "user": "U15J5H60P",
+        "ts": "1550810843.001100"
+    },
+    {
+        "client_msg_id": "879aea40-a80e-46d0-8d88-05499631d102",
+        "type": "message",
+        "text": "But I also don’t want to make a million calls to a lambda function",
+        "user": "U15J5H60P",
+        "ts": "1550810856.001400"
+    },
+    {
+        "client_msg_id": "054344a4-164d-46a6-aadc-4958b9dbc6f7",
+        "type": "message",
+        "text": "So I use one call to get all of the emotion records",
+        "user": "U15J5H60P",
+        "ts": "1550810865.001700"
+    },
+    {
+        "client_msg_id": "b65f621e-2dcc-4ab7-a1ae-c9ea4c07242e",
+        "type": "message",
+        "text": "186",
+        "user": "U15J5H60P",
+        "ts": "1550810867.001900",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1550810876.000000"
+        }
+    },
+    {
+        "client_msg_id": "c218f3f3-468b-4a3f-afb9-f671d0c249b4",
+        "type": "message",
+        "text": "Hmm…",
+        "user": "U15J5H60P",
+        "ts": "1550810895.002800"
+    },
+    {
+        "client_msg_id": "9cbcb2e7-5168-4ea6-b218-d93b08371e83",
+        "type": "message",
+        "text": "I think I have a new strategy",
+        "user": "U15J5H60P",
+        "ts": "1550811121.003000"
+    },
+    {
+        "client_msg_id": "6E15EFEF-DCA8-405A-B3E9-1085188EB215",
+        "type": "message",
+        "text": "Let’s see it",
+        "user": "U15HSHSS2",
+        "ts": "1550814854.000200"
+    }
+]

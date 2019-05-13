@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGB014G91",
+                "created": 1550603888,
+                "timestamp": 1550603888,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 199945,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGB014G91\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGB014G91\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1731,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 444,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB014G91-1e5f2469a8\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2688,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FGB014G91\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGB014G91-d26243e902",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1550603893.000100"
+    },
+    {
+        "client_msg_id": "A94212CA-B4F6-4450-9474-D389418C7835",
+        "type": "message",
+        "text": "\"One-way\" \"as low as\"",
+        "user": "U15HY5TG8",
+        "ts": "1550603948.000800"
+    },
+    {
+        "client_msg_id": "104BAA44-41AE-40C2-9CA9-D8B86DB7C74E",
+        "type": "message",
+        "text": "“Hater”",
+        "user": "U15HZ01QX",
+        "ts": "1550603969.001000"
+    },
+    {
+        "client_msg_id": "08DB3253-C37D-4D44-AF87-B572F15D84BD",
+        "type": "message",
+        "text": "Have to book it one-way, 5 years in advance, in November only",
+        "user": "U15HY5TG8",
+        "ts": "1550604026.002200"
+    }
+]

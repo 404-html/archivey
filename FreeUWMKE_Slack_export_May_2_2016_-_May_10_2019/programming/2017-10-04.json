@@ -1,0 +1,158 @@
+[
+    {
+        "type": "message",
+        "text": "Do you guys have a lot of stored procedures?",
+        "user": "U15HY5TG8",
+        "ts": "1507140852.000254"
+    },
+    {
+        "type": "message",
+        "text": "hundreds",
+        "user": "U15HSHSS2",
+        "ts": "1507140867.000130"
+    },
+    {
+        "type": "message",
+        "text": "I don't do real database work",
+        "user": "U15HRTAHL",
+        "ts": "1507140898.000048"
+    },
+    {
+        "type": "message",
+        "text": "gotcha. one of the lead devs here said that we have like 20k stored procedures",
+        "user": "U15HY5TG8",
+        "ts": "1507140916.000442"
+    },
+    {
+        "type": "message",
+        "text": "the closest thing to a stored proc I do is a database trigger",
+        "user": "U15HRTAHL",
+        "ts": "1507140925.000188"
+    },
+    {
+        "type": "message",
+        "text": "no idea what that is",
+        "user": "U15HY5TG8",
+        "ts": "1507140938.000268"
+    },
+    {
+        "type": "message",
+        "text": "```\nA trigger is a special kind of stored procedure that automatically executes when an event occurs in the database server. DML triggers execute when a user tries to modify data through a data manipulation language (DML) event. DML events are INSERT, UPDATE, or DELETE statements on a table or \n```",
+        "user": "U15HRTAHL",
+        "ts": "1507142291.000369"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1507142350.000156"
+    },
+    {
+        "type": "message",
+        "text": "you know what I hate",
+        "user": "U15HRTAHL",
+        "ts": "1507150663.000155"
+    },
+    {
+        "type": "message",
+        "text": "I hate when im halfway through with something and Im told to stop working on it",
+        "user": "U15HRTAHL",
+        "ts": "1507150678.000655"
+    },
+    {
+        "type": "message",
+        "text": "that shit drives me insane",
+        "user": "U15HRTAHL",
+        "ts": "1507150683.000452"
+    },
+    {
+        "type": "message",
+        "text": "Lolol due to what?",
+        "user": "U15HY5TG8",
+        "ts": "1507150693.000168"
+    },
+    {
+        "type": "message",
+        "text": "\"higher priority things\" even though this was at the top once I started it",
+        "user": "U15HRTAHL",
+        "ts": "1507150738.000550"
+    },
+    {
+        "type": "message",
+        "text": "then she asks \"what are you working on\"",
+        "user": "U15HRTAHL",
+        "ts": "1507150794.000102"
+    },
+    {
+        "type": "message",
+        "text": "the same bug I was working on....",
+        "user": "U15HRTAHL",
+        "ts": "1507150803.000771"
+    },
+    {
+        "type": "message",
+        "text": "\"I didn't know that would take that long\"",
+        "user": "U15HRTAHL",
+        "ts": "1507150810.000137"
+    },
+    {
+        "type": "message",
+        "text": "THATS BECAUSE YOU DON'T KNOW JACK SHIT",
+        "user": "U15HRTAHL",
+        "ts": "1507150818.000259"
+    },
+    {
+        "type": "message",
+        "text": "lmaooooo",
+        "user": "U15HY5TG8",
+        "ts": "1507150850.000546"
+    },
+    {
+        "type": "message",
+        "text": "oh man",
+        "user": "U15HRTAHL",
+        "ts": "1507151534.000593"
+    },
+    {
+        "type": "message",
+        "text": "then she sends me the list of priority issues",
+        "user": "U15HRTAHL",
+        "ts": "1507151544.000019"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1507151544.000456"
+    },
+    {
+        "type": "message",
+        "text": "thats why we have jira",
+        "user": "U15HRTAHL",
+        "ts": "1507151548.000594"
+    },
+    {
+        "type": "message",
+        "text": "so you can fucking put the bugs in order",
+        "user": "U15HRTAHL",
+        "ts": "1507151554.000656"
+    },
+    {
+        "type": "message",
+        "text": "im just gonna ignore it and pretend like I never got the messages",
+        "user": "U15HRTAHL",
+        "ts": "1507151574.000211"
+    },
+    {
+        "type": "message",
+        "text": "take a screen shot of slack and have it open when she comes by that doesn't display anything new",
+        "user": "U15HRTAHL",
+        "ts": "1507151601.000394"
+    },
+    {
+        "type": "message",
+        "text": "Lmaoooo",
+        "user": "U15HY5TG8",
+        "ts": "1507151840.000532"
+    }
+]

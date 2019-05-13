@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "21d14600-20d0-4931-86c3-d2e607756c1c",
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1549133512.003500"
+    },
+    {
+        "client_msg_id": "f98917de-bd75-4e5f-94f0-647f4be6911f",
+        "type": "message",
+        "text": "Can you create me a user script for reddit?",
+        "user": "U15J5H60P",
+        "ts": "1549133517.003700"
+    },
+    {
+        "client_msg_id": "4681e153-18bc-4401-8636-ebd1e3ab4d29",
+        "type": "message",
+        "text": "I don’t know how to do it",
+        "user": "U15J5H60P",
+        "ts": "1549133522.004000"
+    },
+    {
+        "client_msg_id": "28454cfa-361c-4f27-b2d5-0fad3737523f",
+        "type": "message",
+        "text": "I’m a shit dev",
+        "user": "U15J5H60P",
+        "ts": "1549133527.004300"
+    },
+    {
+        "client_msg_id": "0038654d-0b3e-4273-8faf-b754db892122",
+        "type": "message",
+        "text": "i don't even know what a user script is",
+        "user": "U15HRTAHL",
+        "ts": "1549133540.004800"
+    },
+    {
+        "client_msg_id": "1d363aaa-6dd3-4028-8c21-0f9636576cb7",
+        "type": "message",
+        "text": "I want to have a key press, SHIFT+N toggle NSFW for me",
+        "user": "U15J5H60P",
+        "ts": "1549133540.004900"
+    },
+    {
+        "client_msg_id": "b2eca926-20e4-485d-8b57-459bd4f63847",
+        "type": "message",
+        "text": "It’s injected javascript essentially",
+        "user": "U15J5H60P",
+        "ts": "1549133559.005300"
+    },
+    {
+        "client_msg_id": "1f237ec8-fd61-4b08-b507-33d5601e76dc",
+        "type": "message",
+        "text": "you could just log out and login",
+        "user": "U15HRTAHL",
+        "ts": "1549133564.005500"
+    },
+    {
+        "client_msg_id": "f0bc7300-15cc-4873-b8b2-508e4c2bb4b7",
+        "type": "message",
+        "text": "log out auto hides nsfw",
+        "user": "U15HRTAHL",
+        "ts": "1549133569.005700"
+    },
+    {
+        "client_msg_id": "02ad7b95-0f1b-471e-a439-555ac01481a0",
+        "type": "message",
+        "text": "I want to be able to toggle it so that if someone is coming by and I’m looking at porn",
+        "user": "U15J5H60P",
+        "ts": "1549133590.006200"
+    },
+    {
+        "client_msg_id": "bd8bc003-c730-4223-9d52-73ae27e7a929",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HRTAHL",
+        "ts": "1549133596.006500"
+    },
+    {
+        "client_msg_id": "822bf2cc-99fc-4f8d-8449-143e942e07b4",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1549133599.006800"
+    },
+    {
+        "client_msg_id": "344e17f6-f144-494b-a90a-3f6f6f51c043",
+        "type": "message",
+        "text": "But 4 reel",
+        "user": "U15J5H60P",
+        "ts": "1549133601.007000"
+    },
+    {
+        "client_msg_id": "3eaee592-4900-44be-811f-08cfde1050bf",
+        "type": "message",
+        "text": "I got downvoted on Stackoverflow for asking",
+        "user": "U15J5H60P",
+        "ts": "1549133615.007300"
+    },
+    {
+        "client_msg_id": "db7cea14-44f5-44d7-aaa8-a47b8bd6f961",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/54496299\/is-there-a-way-to-inject-a-custom-keyboard-shortcut-into-a-page-on-load?noredirect=1#comment95797907_54496299>",
+        "user": "U15J5H60P",
+        "ts": "1549133624.007500",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Is there a way to \"inject\" a custom keyboard shortcut into a page on load?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/54496299\/is-there-a-way-to-inject-a-custom-keyboard-shortcut-into-a-page-on-load?noredirect=1#comment95797907_54496299",
+                "text": "I'm looking into creating a custom keyboard shortcut for myself browsing reddit. My plan is to create an event listener to listen for a certain key chord and then toggle a switch in RES. I haven'...",
+                "fallback": "Stack Overflow: Is there a way to \"inject\" a custom keyboard shortcut into a page on load?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/54496299\/is-there-a-way-to-inject-a-custom-keyboard-shortcut-into-a-page-on-load?noredirect=1#comment95797907_54496299",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/54496299\/is-there-a-way-to-inject-a-custom-keyboard-shortcut-into-a-page-on-load?noredirect=1#comment95797907_54496299"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "859dd804-fc56-4691-8656-086a815eb89e",
+        "type": "message",
+        "text": "yeah I was thinking extension as well",
+        "user": "U15HRTAHL",
+        "ts": "1549133665.007800"
+    },
+    {
+        "client_msg_id": "6af3967d-648b-450b-bb8f-fca862eb926d",
+        "type": "message",
+        "text": "I did it using TamperMonkey",
+        "user": "U15J5H60P",
+        "ts": "1549136335.008100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFWGQHPPC",
+                "created": 1549136358,
+                "timestamp": 1549136358,
+                "name": "-.js",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "U15J5H60P",
+                "editable": true,
+                "size": 1606,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFWGQHPPC\/-.js?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFWGQHPPC\/download\/-.js?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FFWGQHPPC\/-.js",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFWGQHPPC-1c013995ad",
+                "edit_link": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FFWGQHPPC\/-.js\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1549136358.008200"
+    },
+    {
+        "client_msg_id": "8fd8cc11-1349-4d7a-8696-4c286d3c4406",
+        "type": "message",
+        "text": "SHIFT + L",
+        "user": "U15J5H60P",
+        "ts": "1549136365.008600"
+    },
+    {
+        "client_msg_id": "4AEE2BCE-2DDF-4847-B2AF-163F99D830BF",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1549145143.000200"
+    }
+]

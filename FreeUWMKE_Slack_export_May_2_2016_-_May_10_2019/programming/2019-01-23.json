@@ -1,0 +1,685 @@
+[
+    {
+        "client_msg_id": "600381e6-3500-4b84-aafc-861f5b8cf8aa",
+        "type": "message",
+        "text": "<@U15J5H60P> did you do the stack overflow survey?",
+        "user": "U15HRTAHL",
+        "ts": "1548268187.000300"
+    },
+    {
+        "client_msg_id": "7bfba29a-0c4a-49e1-b9b5-95b8ca6297f5",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1548268412.000500"
+    },
+    {
+        "client_msg_id": "a164875e-ad45-4ef7-9a93-0d51f1fad951",
+        "type": "message",
+        "text": "Thanks for sharing it",
+        "user": "U15J5H60P",
+        "ts": "1548268434.000700"
+    },
+    {
+        "client_msg_id": "cf082e35-6bfb-4239-8cf8-8f1580772368",
+        "type": "message",
+        "text": "what did you put down for the tech leader question?",
+        "user": "U15HRTAHL",
+        "ts": "1548268459.001000"
+    },
+    {
+        "client_msg_id": "d4420fb9-e583-46a0-a2eb-36c185694fc6",
+        "type": "message",
+        "text": "What was the actual question?",
+        "user": "U15J5H60P",
+        "ts": "1548268498.001200"
+    },
+    {
+        "client_msg_id": "e2ded177-aeba-4fd0-8e8a-1f34ce3628d9",
+        "type": "message",
+        "text": "What was it asking",
+        "user": "U15J5H60P",
+        "ts": "1548268510.001600"
+    },
+    {
+        "type": "message",
+        "text": "actually Im curious about both of these",
+        "files": [
+            {
+                "id": "FFNACNBNK",
+                "created": 1548268758,
+                "timestamp": 1548268758,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-23, 12:39 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 112032,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFNACNBNK\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFNACNBNK\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 231,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 308,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 462,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 513,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 616,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFNACNBNK-42181765bc\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 657,
+                "image_exif_rotation": 1,
+                "original_w": 1884,
+                "original_h": 1208,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FFNACNBNK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFNACNBNK-88ee1baaf4",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1548268765.001700"
+    },
+    {
+        "client_msg_id": "d181db15-2a66-446f-b02c-186810613872",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1548268783.002100"
+    },
+    {
+        "client_msg_id": "93a929e7-c67e-4fbc-8a0a-46b6c63f239e",
+        "type": "message",
+        "text": "Elon Musk",
+        "user": "U15J5H60P",
+        "ts": "1548268796.002300"
+    },
+    {
+        "client_msg_id": "f5814644-3bcc-47be-8c5d-be80a9127926",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1548268806.002600"
+    },
+    {
+        "client_msg_id": "699b05b0-078c-47b0-8d4d-f4c9c84c372a",
+        "type": "message",
+        "text": "why do you think no?",
+        "user": "U15HRTAHL",
+        "ts": "1548268811.002900"
+    },
+    {
+        "client_msg_id": "96bbf335-925a-4445-a11e-ee4138fc1ce4",
+        "type": "message",
+        "text": "I don't think I answered the second question by accident",
+        "user": "U15J5H60P",
+        "ts": "1548268821.003200"
+    },
+    {
+        "client_msg_id": "d2c653df-f0a2-419e-92fa-3bdaba96de05",
+        "type": "message",
+        "text": "Because of continuously rising healthcare, housing, and goods costs without proportional salary increases.",
+        "user": "U15J5H60P",
+        "ts": "1548268864.004000"
+    },
+    {
+        "client_msg_id": "1dcb03a7-1767-47fb-834a-a19c47e4322b",
+        "type": "message",
+        "text": "I think we have it bad in terms of housing",
+        "user": "U15J5H60P",
+        "ts": "1548268879.004400"
+    },
+    {
+        "client_msg_id": "b923615e-9037-483c-b75a-ca33b074047b",
+        "type": "message",
+        "text": "Just wait for our kids",
+        "user": "U15J5H60P",
+        "ts": "1548268882.004600"
+    },
+    {
+        "client_msg_id": "1ea5dba6-829d-4fba-8c81-19c87341d624",
+        "type": "message",
+        "text": "They're fucked",
+        "user": "U15J5H60P",
+        "ts": "1548268886.004800"
+    },
+    {
+        "client_msg_id": "ef0fc035-753b-4d3f-b24d-a4d91fb44156",
+        "type": "message",
+        "text": "valid",
+        "user": "U15HRTAHL",
+        "ts": "1548268894.005000"
+    },
+    {
+        "client_msg_id": "213ee3d2-1bcf-4705-8ebc-dca939cd137b",
+        "type": "message",
+        "text": "I mean, I'm definitely going to live better off than my parents",
+        "user": "U15J5H60P",
+        "ts": "1548268915.005400"
+    },
+    {
+        "client_msg_id": "a5372136-de59-4526-9255-eb97c5adeabe",
+        "type": "message",
+        "text": "But that's because I chose a solid career",
+        "user": "U15J5H60P",
+        "ts": "1548268921.005600"
+    },
+    {
+        "client_msg_id": "f2456831-7ce3-403b-b525-9ba7f52cbc0d",
+        "type": "message",
+        "text": "But if someone wants to be a teacher\/factory worker today, there's no way they're affording a house",
+        "user": "U15J5H60P",
+        "ts": "1548268936.006000"
+    },
+    {
+        "client_msg_id": "f8d5ee7b-95ef-4944-b731-ac126ed7f75c",
+        "type": "message",
+        "text": "did you though?",
+        "user": "U15HRTAHL",
+        "ts": "1548268939.006300"
+    },
+    {
+        "client_msg_id": "ddc2998f-5188-4c0a-914e-8de91a301090",
+        "type": "message",
+        "text": "or did god give you that career?",
+        "user": "U15HRTAHL",
+        "ts": "1548268943.006600"
+    },
+    {
+        "client_msg_id": "d626c010-fde6-4b5d-b53f-3236148b7c51",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1548268945.006800"
+    },
+    {
+        "client_msg_id": "9a23825a-c786-47b9-a794-4d82327c06b7",
+        "type": "message",
+        "text": "My mom and dad were able to buy a house early on",
+        "user": "U15J5H60P",
+        "ts": "1548268947.006900"
+    },
+    {
+        "client_msg_id": "d44a3789-6213-4c88-b7b2-6db77fa3a52f",
+        "type": "message",
+        "text": "lol ~fuck off~ get fucked*",
+        "user": "U15J5H60P",
+        "ts": "1548268950.007100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1548268960.000000"
+        }
+    },
+    {
+        "client_msg_id": "9baa764a-a929-4329-a8e0-f9a42a12b722",
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HRTAHL",
+        "ts": "1548268954.007300"
+    },
+    {
+        "client_msg_id": "0268413c-79be-4372-9a8e-52f122220582",
+        "type": "message",
+        "text": ":slightly_smiling_face:",
+        "user": "U15J5H60P",
+        "ts": "1548268962.007700"
+    },
+    {
+        "client_msg_id": "2d0baa76-8d94-4d36-b5f9-09954c0d35ae",
+        "type": "message",
+        "text": "I said they will have a better life",
+        "user": "U15HRTAHL",
+        "ts": "1548268977.008300"
+    },
+    {
+        "client_msg_id": "55bfc36c-54fe-4a0e-98ea-33328d5dd5c5",
+        "type": "message",
+        "text": "Thank baby Jesus for doing my fucking homework for me",
+        "user": "U15J5H60P",
+        "ts": "1548268977.008500"
+    },
+    {
+        "client_msg_id": "2b2180f8-1258-4708-a3b4-ff03a630f027",
+        "type": "message",
+        "text": "throughout history the quality of life has always increased",
+        "user": "U15HRTAHL",
+        "ts": "1548268997.008900"
+    },
+    {
+        "client_msg_id": "5d22113a-1a1e-4968-bd55-18c77d75068b",
+        "type": "message",
+        "text": "My main fear was global warming answering that question",
+        "user": "U15HRTAHL",
+        "ts": "1548269006.009200"
+    },
+    {
+        "client_msg_id": "4f414ead-cb24-4279-af03-92ef36e69909",
+        "type": "message",
+        "text": "but I figure we will find a solution",
+        "user": "U15HRTAHL",
+        "ts": "1548269012.009500"
+    },
+    {
+        "client_msg_id": "7b1ad480-ce1e-4e94-a812-7cb84689983c",
+        "type": "message",
+        "text": "we always do",
+        "user": "U15HRTAHL",
+        "ts": "1548269015.009700"
+    },
+    {
+        "client_msg_id": "f66f428b-b615-4929-8f77-8ac785d4fd8e",
+        "type": "message",
+        "text": "The quality of life goes up, but as the income inequality grows bigger, QoL will go up for the rich, but stay the same or go down for those that are not.",
+        "user": "U15J5H60P",
+        "ts": "1548269078.010800"
+    },
+    {
+        "client_msg_id": "658d8697-6837-40de-9f75-0865623059d0",
+        "type": "message",
+        "text": "(Totally speculation with 0 facts to back up any of my thoughts as usual)",
+        "user": "U15J5H60P",
+        "ts": "1548269107.011300"
+    },
+    {
+        "client_msg_id": "b8b392b1-7ab6-401b-8cb5-6cd94e67ba80",
+        "type": "message",
+        "text": "oh I don’t think we have the same definition of children",
+        "user": "U15HRTAHL",
+        "ts": "1548269123.011600"
+    },
+    {
+        "client_msg_id": "29b1bf1b-cf58-4a11-a00e-902e6e435c26",
+        "type": "message",
+        "text": "Im only thinking of rich children",
+        "user": "U15HRTAHL",
+        "ts": "1548269127.011800"
+    },
+    {
+        "client_msg_id": "b88d0d16-e9f7-4fbb-b124-eb976f9da980",
+        "type": "message",
+        "text": "Ohhh",
+        "user": "U15J5H60P",
+        "ts": "1548269135.012200"
+    },
+    {
+        "client_msg_id": "89747f30-b40f-483c-a2eb-2e45bb5a15dd",
+        "type": "message",
+        "text": "not those miscreants the peasants give birth to",
+        "user": "U15HRTAHL",
+        "ts": "1548269136.012400",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1548269143.000000"
+        }
+    },
+    {
+        "client_msg_id": "217b5d7a-beec-47f0-96ca-2f7082090d75",
+        "type": "message",
+        "text": "You mean the children that mattter",
+        "user": "U15J5H60P",
+        "ts": "1548269139.012500"
+    },
+    {
+        "client_msg_id": "b0153589-d111-4038-b140-8496650933bf",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1548269141.012700"
+    },
+    {
+        "client_msg_id": "b3afef61-eea1-45b8-82c1-f234c58e19a7",
+        "type": "message",
+        "text": "exactlyyyyy",
+        "user": "U15HRTAHL",
+        "ts": "1548269146.013000"
+    },
+    {
+        "client_msg_id": "8303dd36-e9f3-43e6-974f-c8db053936de",
+        "type": "message",
+        "text": "Do you ever feel like your bank account doesn't grow fast enough?",
+        "user": "U15J5H60P",
+        "ts": "1548269176.013300"
+    },
+    {
+        "client_msg_id": "b8b9da34-49bc-40fa-89fb-6f82b4b7240e",
+        "type": "message",
+        "text": "I need to get paid every week",
+        "user": "U15J5H60P",
+        "ts": "1548269203.013600"
+    },
+    {
+        "client_msg_id": "0005cf89-af4a-4d1b-b845-60145a448be9",
+        "type": "message",
+        "text": "my bank account has flat lined out for 2 years",
+        "user": "U15HRTAHL",
+        "ts": "1548269205.013800"
+    },
+    {
+        "client_msg_id": "8e54873f-8643-4c7d-862e-31064e02382d",
+        "type": "message",
+        "text": "im just finally seeing it grow",
+        "user": "U15HRTAHL",
+        "ts": "1548269213.014000"
+    },
+    {
+        "client_msg_id": "8e02e3c2-53d4-4733-a5c8-fe63b6a5dd51",
+        "type": "message",
+        "text": "That's awesome.",
+        "user": "U15J5H60P",
+        "ts": "1548269219.014300"
+    },
+    {
+        "client_msg_id": "e57b76b6-8944-463c-838e-9465b8ecf7e6",
+        "type": "message",
+        "text": "since moving in I've flat lined",
+        "user": "U15HSHSS2",
+        "ts": "1548269227.014600"
+    },
+    {
+        "client_msg_id": "330f1877-dd1b-46c2-a2de-359aabe60f05",
+        "type": "message",
+        "text": "I need a girlfriend",
+        "user": "U15J5H60P",
+        "ts": "1548269228.014700"
+    },
+    {
+        "client_msg_id": "3e116160-b2b7-4084-ac4c-774837d935f7",
+        "type": "message",
+        "text": "Damn, that's fucked up",
+        "user": "U15J5H60P",
+        "ts": "1548269245.015300"
+    },
+    {
+        "client_msg_id": "66df8417-8486-4719-b58a-182a7bbb0a4a",
+        "type": "message",
+        "text": "it was just loans for me, now im just saving up for a down payment",
+        "user": "U15HRTAHL",
+        "ts": "1548269264.015700"
+    },
+    {
+        "client_msg_id": "f91c133f-9062-4c71-857f-ef3b66a31893",
+        "type": "message",
+        "text": "I don't want to move out of the city",
+        "user": "U15J5H60P",
+        "ts": "1548269277.016000"
+    },
+    {
+        "client_msg_id": "89e9cf28-004d-4ce7-8146-9f98313704b4",
+        "type": "message",
+        "text": "Tom, are you actually going to move to Texas?",
+        "user": "U15J5H60P",
+        "ts": "1548269286.016300"
+    },
+    {
+        "client_msg_id": "fa3df7fa-2995-4b31-8c1e-47a8c05674c1",
+        "type": "message",
+        "text": "this month was gunna be the first month i start putting some back in to my savings, then we got a dog",
+        "user": "U15HSHSS2",
+        "ts": "1548269297.016600"
+    },
+    {
+        "client_msg_id": "294dfea9-5132-442a-a44a-182fa787aab8",
+        "type": "message",
+        "text": "don't think so lol",
+        "user": "U15HSHSS2",
+        "ts": "1548269301.016800"
+    },
+    {
+        "client_msg_id": "4900a62a-3ab8-469b-9e6c-9630927f629e",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15J5H60P",
+        "ts": "1548269305.017000"
+    },
+    {
+        "client_msg_id": "746ea5d6-9f44-410f-974d-1e43233382ad",
+        "type": "message",
+        "text": "I'm too rich to stay in my apartment but too poor to move into a nicer one",
+        "user": "U15J5H60P",
+        "ts": "1548269397.017300"
+    },
+    {
+        "client_msg_id": "a2adbba7-9f56-436f-8b88-5efed5a5b940",
+        "type": "message",
+        "text": "When is your lease up?",
+        "user": "U15HSHSS2",
+        "ts": "1548269435.017500"
+    },
+    {
+        "client_msg_id": "e1b4aad1-c0a8-4426-844e-6fbed3650279",
+        "type": "message",
+        "text": "June",
+        "user": "U15J5H60P",
+        "ts": "1548269439.017700"
+    },
+    {
+        "client_msg_id": "e8a4ef9c-77bb-4e2d-8c9e-858c0becf12c",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1548273353.017900"
+    },
+    {
+        "client_msg_id": "9e39e21c-1242-400d-b04e-b3f7ec0a3de2",
+        "type": "message",
+        "text": "How would you make a Kovaaks clone?",
+        "user": "U15J5H60P",
+        "ts": "1548273363.018500"
+    },
+    {
+        "client_msg_id": "583333f3-a432-4483-9319-8602ca74d9f0",
+        "type": "message",
+        "text": "What software would you use?",
+        "user": "U15J5H60P",
+        "ts": "1548273366.018700"
+    },
+    {
+        "client_msg_id": "19921991-b269-429f-a604-a25a44ea37f1",
+        "type": "message",
+        "text": "Unity?",
+        "user": "U15J5H60P",
+        "ts": "1548273369.018900"
+    },
+    {
+        "client_msg_id": "c7c699ab-11fa-40c5-9d66-9a2976f422b1",
+        "type": "message",
+        "text": "what is kovaaks",
+        "user": "U15HRTAHL",
+        "ts": "1548273385.019100"
+    },
+    {
+        "client_msg_id": "366f3287-173c-4b45-a657-cb6133ff3905",
+        "type": "message",
+        "text": "It's an aim training game for PC",
+        "user": "U15J5H60P",
+        "ts": "1548273394.019300"
+    },
+    {
+        "client_msg_id": "731522d4-747c-413a-bd16-2af9763dc888",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1548273400.019500"
+    },
+    {
+        "client_msg_id": "0f4a9802-9b8e-49e0-b2da-a58a064e3b01",
+        "type": "message",
+        "text": "oooo",
+        "user": "U15HRTAHL",
+        "ts": "1548273402.019700"
+    },
+    {
+        "client_msg_id": "52a133e0-ace7-4f69-b566-5e8faf2d1015",
+        "type": "message",
+        "text": "that one!",
+        "user": "U15HRTAHL",
+        "ts": "1548273404.019900"
+    },
+    {
+        "client_msg_id": "61242970-8def-45c6-951b-f4522979c2a0",
+        "type": "message",
+        "text": "now i remember",
+        "user": "U15HRTAHL",
+        "ts": "1548273409.020100"
+    },
+    {
+        "client_msg_id": "e4ade02f-5355-48b1-947b-43f19a1d5515",
+        "type": "message",
+        "text": "I might do that after I'm done with _happier_",
+        "user": "U15J5H60P",
+        "ts": "1548273434.020400"
+    },
+    {
+        "client_msg_id": "9d546e58-49f9-4376-b5ff-6507138f3a77",
+        "type": "message",
+        "text": "I might make one***",
+        "user": "U15J5H60P",
+        "ts": "1548273495.020600"
+    },
+    {
+        "client_msg_id": "f49843c3-e81b-4069-9e8d-82107acc718a",
+        "type": "message",
+        "text": "For Mac",
+        "user": "U15J5H60P",
+        "ts": "1548273497.020800"
+    },
+    {
+        "client_msg_id": "720e883a-5847-4160-9c2b-f9d9894921ac",
+        "type": "message",
+        "text": "Or maybe even iOS",
+        "user": "U15J5H60P",
+        "ts": "1548273509.021000"
+    },
+    {
+        "client_msg_id": "753c2173-e309-461e-905f-e39534a4ff51",
+        "type": "message",
+        "text": "But if I do it with Unity maybe it can be X-platform",
+        "user": "U15J5H60P",
+        "ts": "1548273528.021400"
+    },
+    {
+        "client_msg_id": "b6b280bb-439f-4ce4-adcd-dc5a67f515f8",
+        "type": "message",
+        "text": "if you wanted to make a fancy 3D one I'd use unity",
+        "user": "U15HSHSS2",
+        "ts": "1548274286.021800"
+    },
+    {
+        "client_msg_id": "f4afcfc9-688f-42cb-ba04-302ebfb18f3f",
+        "type": "message",
+        "text": "otherwise I would just stick to my bread and butter with gamemaker for a 2D aim training game",
+        "user": "U15HSHSS2",
+        "ts": "1548274311.022400"
+    },
+    {
+        "client_msg_id": "4d933b7a-a988-44a1-9927-69b9e94880d3",
+        "type": "message",
+        "text": "diffrent size and types of moving targets and shit that do different stuff",
+        "user": "U15HSHSS2",
+        "ts": "1548274330.022900"
+    },
+    {
+        "client_msg_id": "aac8d28e-b842-45ca-892d-6d58a217c979",
+        "type": "message",
+        "text": "Kovaaks is 3d though",
+        "user": "U15J5H60P",
+        "ts": "1548274524.023200"
+    },
+    {
+        "client_msg_id": "94bca0f0-c15d-44c6-97cb-a5568a55346d",
+        "type": "message",
+        "text": "But yeah, sounds like you have another game to go at",
+        "user": "U15J5H60P",
+        "ts": "1548274532.023500"
+    },
+    {
+        "client_msg_id": "03968220-8e2a-450b-a55a-d6878327b372",
+        "type": "message",
+        "text": "Put what you've got so far on the Steam store",
+        "user": "U15J5H60P",
+        "ts": "1548274539.023900"
+    },
+    {
+        "client_msg_id": "fcd540d3-49f4-443d-b85c-3810dccef443",
+        "type": "message",
+        "text": "I'll buy your game from you",
+        "user": "U15J5H60P",
+        "ts": "1548274569.024500"
+    },
+    {
+        "client_msg_id": "0a73b8e4-4ef4-4f69-8ea7-c1f1d1311ae4",
+        "type": "message",
+        "text": "$10",
+        "user": "U15J5H60P",
+        "ts": "1548274576.025000"
+    },
+    {
+        "client_msg_id": "1b9b4a2c-a050-4199-8eab-77d61676cb21",
+        "type": "message",
+        "text": "Honestly I don't remember kovaaks all that much cuz I've played it once the night you guys were over and I was drinking",
+        "user": "U15HSHSS2",
+        "ts": "1548274580.025300"
+    },
+    {
+        "client_msg_id": "eb88ea9d-5523-47c4-a5bd-638d50172afb",
+        "type": "message",
+        "text": "Or is that too much?",
+        "user": "U15J5H60P",
+        "ts": "1548274580.025400"
+    },
+    {
+        "client_msg_id": "e2ffd94a-2372-4ef7-a6f7-b41e8c3d0f8d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1548274585.025600"
+    },
+    {
+        "client_msg_id": "d0d169c7-0f7a-44c2-b634-3984fa453bfe",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1548274586.025800"
+    },
+    {
+        "client_msg_id": "4a826e02-84af-4c51-afee-9dc5f271edef",
+        "type": "message",
+        "text": "Actually if you sold that on the Steam store you probably should start an LLC",
+        "user": "U15J5H60P",
+        "ts": "1548274611.026400"
+    },
+    {
+        "client_msg_id": "6aef698c-5d58-4073-8a53-a5367b54b249",
+        "type": "message",
+        "text": "Aim training game would be cool to make",
+        "user": "U15HSHSS2",
+        "ts": "1548274619.026800"
+    },
+    {
+        "client_msg_id": "dffa32cd-cb35-44e9-a300-5589fafa6ca3",
+        "type": "message",
+        "text": "That way you won't get fucked out of everything if someone sues you",
+        "user": "U15J5H60P",
+        "ts": "1548274622.026900"
+    }
+]

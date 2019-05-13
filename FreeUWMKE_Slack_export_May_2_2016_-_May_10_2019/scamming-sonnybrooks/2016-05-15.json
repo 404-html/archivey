@@ -1,0 +1,116 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463364222.000002",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463364222.000003",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463364222.000004",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463364222.000005",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463364222.000006",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "I still haven't gotten an email",
+        "user": "U15HRTAHL",
+        "ts": "1463364233.000007"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1463364262.000008",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1463364291.000009",
+        "text": "<@U15HRTAHL> has renamed the channel from \"scamming-companies\" to \"scamming-sonnybrooks\"",
+        "old_name": "scamming-companies",
+        "name": "scamming-sonnybrooks"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>:",
+        "user": "U15HRTAHL",
+        "ts": "1463364296.000010"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463364300.000011",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "new name",
+        "user": "U15HRTAHL",
+        "ts": "1463364304.000012"
+    },
+    {
+        "type": "message",
+        "text": "Don't we have a policy about this? I left. Don't invite me back.",
+        "user": "U15J5H60P",
+        "ts": "1463364350.000013"
+    },
+    {
+        "type": "message",
+        "text": "Its a new channel though",
+        "user": "U15HRTAHL",
+        "ts": "1463364355.000014"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1463364360.000015",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1463364529.000016",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1463365090.000017",
+        "text": "<@U15HZ01QX> archived the channel"
+    }
+]

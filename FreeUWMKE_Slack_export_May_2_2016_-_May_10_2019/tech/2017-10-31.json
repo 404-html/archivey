@@ -1,0 +1,523 @@
+[
+    {
+        "type": "message",
+        "text": "People are raving about the iphone x",
+        "user": "U15HRTAHL",
+        "ts": "1509472053.000461"
+    },
+    {
+        "type": "message",
+        "text": "What sets it apart?",
+        "user": "U15HRTAHL",
+        "ts": "1509472062.000313"
+    },
+    {
+        "type": "message",
+        "text": "read the reviews lol",
+        "user": "U15HZ01QX",
+        "ts": "1509472078.000827"
+    },
+    {
+        "type": "message",
+        "text": "the tech crunch one is good",
+        "user": "U15HZ01QX",
+        "ts": "1509472094.000509"
+    },
+    {
+        "type": "message",
+        "text": "Are they that bad?",
+        "user": "U15HY5TG8",
+        "ts": "1509472166.000523"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HZ01QX",
+        "ts": "1509472184.000541"
+    },
+    {
+        "type": "message",
+        "text": "\"Raving\" is a good word.",
+        "user": "U15J5H60P",
+        "ts": "1509472191.000199"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HZ01QX",
+        "ts": "1509472193.000589"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> --",
+        "user": "U15HZ01QX",
+        "ts": "1509472201.000115"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, I see. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-5 points>]",
+        "ts": "1509472202.000090",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> --",
+        "user": "U15J5H60P",
+        "ts": "1509472208.000808"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Condolences. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-6 points>]",
+        "ts": "1509472209.000466",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "No its not",
+        "user": "U15HY5TG8",
+        "ts": "1509472215.000104"
+    },
+    {
+        "type": "message",
+        "text": "In Joe's context it is.",
+        "user": "U15J5H60P",
+        "ts": "1509472225.000448"
+    },
+    {
+        "type": "message",
+        "text": "\/urban raving --public",
+        "user": "U15HY5TG8",
+        "ts": "1509472251.000480"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "*DEFINITION (1 of 4):* to [rave], the act of wild, out of control dancing to loud electric\/techno music along with lots of strobe lights and flashers",
+        "ts": "1509472251.000563",
+        "bot_id": "B1BB2RMUL",
+        "attachments": [
+            {
+                "text": "I came home exhausted at 5 AM after a long night of raving.",
+                "title": "Example use",
+                "id": 1,
+                "fallback": "Example use"
+            },
+            {
+                "title": "See more definitions",
+                "id": 2,
+                "title_link": "http:\/\/raving.urbanup.com\/1296604",
+                "fallback": "See more definitions"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Well that didnt help",
+        "user": "U15HY5TG8",
+        "ts": "1509472284.000472"
+    },
+    {
+        "type": "message",
+        "text": "\/urban --public rave reviews",
+        "user": "U15HRTAHL",
+        "ts": "1509472290.000042"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "No definitions found. Use \/urban ? for help or go to <https:\/\/urban-slack.herokuapp.com> for help.",
+        "ts": "1509472290.000118",
+        "bot_id": "B1BB2RMUL"
+    },
+    {
+        "type": "message",
+        "text": "```The definition of a rave is an enthusiastic review, or an all night dance party. An example of a rave is a newspaper review that highly praises a restaurant. An example of a rave is a party where people dance to techno with glow sticks.```",
+        "user": "U15HRTAHL",
+        "ts": "1509472301.000822"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> ++",
+        "user": "U15J5H60P",
+        "ts": "1509472315.000553"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well done. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-5 points>]",
+        "ts": "1509472317.000396",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "I'm happy to see that FaceID is getting good reviews.",
+        "user": "U15J5H60P",
+        "ts": "1509472435.000429"
+    },
+    {
+        "type": "message",
+        "text": "Im not. Means we're stuck with it",
+        "user": "U15HY5TG8",
+        "ts": "1509472484.000487"
+    },
+    {
+        "type": "message",
+        "text": "Just like we're stuck with TouchID now?",
+        "user": "U15J5H60P",
+        "ts": "1509472500.000126"
+    },
+    {
+        "type": "message",
+        "text": "wait until its a dna test next",
+        "user": "U15HRTAHL",
+        "ts": "1509472514.000145"
+    },
+    {
+        "type": "message",
+        "text": "Touchid is shit too sometimes",
+        "user": "U15HY5TG8",
+        "ts": "1509472515.000711"
+    },
+    {
+        "type": "message",
+        "text": "^^",
+        "user": "U15HY5TG8",
+        "ts": "1509472522.000360"
+    },
+    {
+        "type": "message",
+        "text": "Ultra secure",
+        "user": "U15J5H60P",
+        "ts": "1509472527.000298"
+    },
+    {
+        "type": "message",
+        "text": "DNA ID, ultra secure. Virtually impossible to fake. The iPhone XXX",
+        "user": "U15J5H60P",
+        "ts": "1509472549.000338"
+    },
+    {
+        "type": "message",
+        "text": "```“Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.”```",
+        "user": "U15HRTAHL",
+        "ts": "1509472564.000078"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1509472579.000291",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/creepy-ben-franklin-25HmhQEe4hg7m",
+                "image_url": "https:\/\/media2.giphy.com\/media\/25HmhQEe4hg7m\/giphy-downsized.gif",
+                "image_width": 159,
+                "image_height": 144,
+                "image_bytes": 1471103,
+                "is_animated": true,
+                "title": "ben franklin",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/creepy-ben-franklin-25HmhQEe4hg7m"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Truuuu",
+        "user": "U15HY5TG8",
+        "ts": "1509472593.000664"
+    },
+    {
+        "type": "message",
+        "text": "Apple doesn't get your face data",
+        "user": "U15J5H60P",
+        "ts": "1509472599.000263"
+    },
+    {
+        "type": "message",
+        "text": "Bs",
+        "user": "U15HY5TG8",
+        "ts": "1509472609.000485"
+    },
+    {
+        "type": "message",
+        "text": "wanna prove it?",
+        "user": "U15HRTAHL",
+        "ts": "1509472611.000422"
+    },
+    {
+        "type": "message",
+        "text": "Nor do they get your fingerprint data",
+        "user": "U15J5H60P",
+        "ts": "1509472611.000645"
+    },
+    {
+        "type": "message",
+        "text": "Dude",
+        "user": "U15HY5TG8",
+        "ts": "1509472617.000325"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1509472611000422>",
+        "user": "U15HRTAHL",
+        "ts": "1509472622.000189",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1509472611000422",
+                "fallback": "[October 31st, 2017 10:56 AM] joeythomaschaske: wanna prove it?",
+                "ts": "1509472611.000422",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "wanna prove it?",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "It's all processed by the secure enclave. That's why you can't set up a new phone and have TouchID automatically work without resetting it up.",
+        "user": "U15J5H60P",
+        "ts": "1509472653.000603"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HY5TG8",
+        "ts": "1509472662.000432",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/fight-vs-sheep-xFS1EBkF9rKSs",
+                "image_url": "https:\/\/media0.giphy.com\/media\/xFS1EBkF9rKSs\/giphy-downsized.gif",
+                "image_width": 300,
+                "image_height": 400,
+                "image_bytes": 1308831,
+                "is_animated": true,
+                "title": "sheep",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/fight-vs-sheep-xFS1EBkF9rKSs"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1509472664.000405"
+    },
+    {
+        "type": "message",
+        "text": "Prove that they are getting the fingerprint\/face data then I'll believe y'all.",
+        "user": "U15J5H60P",
+        "ts": "1509472667.000378"
+    },
+    {
+        "type": "message",
+        "text": "I want you to go through the hardware and software",
+        "user": "U15HRTAHL",
+        "ts": "1509472674.000281"
+    },
+    {
+        "type": "message",
+        "text": "and prove it",
+        "user": "U15HRTAHL",
+        "ts": "1509472675.000618"
+    },
+    {
+        "type": "message",
+        "text": "You go through the hardware and software and prove that they're taking that data when they say they're not.",
+        "user": "U15J5H60P",
+        "ts": "1509472695.000547"
+    },
+    {
+        "type": "message",
+        "text": "And explained the technology behind it.",
+        "user": "U15J5H60P",
+        "ts": "1509472706.000397"
+    },
+    {
+        "type": "message",
+        "text": "Does Google get your fingerprint?",
+        "user": "U15J5H60P",
+        "ts": "1509472735.000501"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15HRTAHL",
+        "ts": "1509472745.000136"
+    },
+    {
+        "type": "message",
+        "text": "not sure",
+        "user": "U15HRTAHL",
+        "ts": "1509472746.000108"
+    },
+    {
+        "type": "message",
+        "text": "They claim that they don't",
+        "user": "U15J5H60P",
+        "ts": "1509472752.000367"
+    },
+    {
+        "type": "message",
+        "text": "they state they don't",
+        "user": "U15HRTAHL",
+        "ts": "1509472753.000883"
+    },
+    {
+        "type": "message",
+        "text": "doesn't mean that actually dont",
+        "user": "U15HRTAHL",
+        "ts": "1509472758.000248"
+    },
+    {
+        "type": "message",
+        "text": "I believe them until proven otherwise.",
+        "user": "U15J5H60P",
+        "ts": "1509472762.000560"
+    },
+    {
+        "type": "message",
+        "text": "`Your fingerprint data is stored securely and never leaves your Pixel or Nexus phone.`",
+        "user": "U15J5H60P",
+        "ts": "1509472772.000299"
+    },
+    {
+        "type": "message",
+        "text": "like enron and their financial statements",
+        "user": "U15HRTAHL",
+        "ts": "1509472774.000389"
+    },
+    {
+        "type": "message",
+        "text": "wheres <@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1509472779.000608"
+    },
+    {
+        "type": "message",
+        "text": "Well Enron made America great again.",
+        "user": "U15J5H60P",
+        "ts": "1509472791.000577"
+    },
+    {
+        "type": "message",
+        "text": "heh",
+        "user": "U15HRTAHL",
+        "ts": "1509472796.000577"
+    },
+    {
+        "type": "message",
+        "text": "got that right",
+        "user": "U15HRTAHL",
+        "ts": "1509472799.000577",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1509472802.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "So let's hope that they took your fingerprints",
+        "user": "U15J5H60P",
+        "ts": "1509472802.000372"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1509472805.000305"
+    },
+    {
+        "type": "message",
+        "text": "They'll make the world even better.",
+        "user": "U15J5H60P",
+        "ts": "1509472811.000125"
+    },
+    {
+        "type": "message",
+        "text": "you're right",
+        "user": "U15HRTAHL",
+        "ts": "1509472813.000967"
+    },
+    {
+        "type": "message",
+        "text": "Gotta follow the best to become the best.",
+        "user": "U15J5H60P",
+        "ts": "1509472826.000307"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/support.apple.com\/en-us\/HT204587>",
+        "user": "U15J5H60P",
+        "ts": "1509472856.000220",
+        "attachments": [
+            {
+                "service_name": "Apple Support",
+                "title": "About Touch ID advanced security technology",
+                "title_link": "https:\/\/support.apple.com\/en-us\/HT204587",
+                "text": "Learn how Touch ID helps protect information on your iPhone, iPad, and MacBook Pro.",
+                "fallback": "Apple Support: About Touch ID advanced security technology",
+                "from_url": "https:\/\/support.apple.com\/en-us\/HT204587",
+                "service_icon": "https:\/\/support.apple.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt; Touch ID doesn't store any images of your fingerprint, and instead relies only on a mathematical representation. It isn't possible for someone to reverse engineer your actual fingerprint image from this stored data.",
+        "user": "U15J5H60P",
+        "ts": "1509472879.000461"
+    },
+    {
+        "type": "message",
+        "text": "&gt;It's never stored on Apple servers, it's never backed up to iCloud or anywhere else, and it can't be used to match against other fingerprint databases.",
+        "user": "U15J5H60P",
+        "ts": "1509472906.000519"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/support.google.com\/pixelphone\/answer\/6300638?hl=en>",
+        "user": "U15J5H60P",
+        "ts": "1509473009.000147",
+        "attachments": [
+            {
+                "title": "Understand fingerprint security - Pixel Phone Help",
+                "title_link": "https:\/\/support.google.com\/pixelphone\/answer\/6300638?hl=en",
+                "text": "Your fingerprint data is stored securely and never leaves your Pixel or Nexus phone. Your fingerprint data isn't shared with Google or any apps on your device.&amp;nbsp;Apps are notified only whether your",
+                "fallback": "Understand fingerprint security - Pixel Phone Help",
+                "from_url": "https:\/\/support.google.com\/pixelphone\/answer\/6300638?hl=en",
+                "service_icon": "https:\/\/support.google.com\/favicon.ico",
+                "service_name": "support.google.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "The only difference between Android and Apple is that Apple makes their own hardware and can develop technologies such as the Secure Enclave and have them on All of their devices. Google can only control the hardware and architecture that goes into the Pixel devices.",
+        "user": "U15J5H60P",
+        "ts": "1509473051.000077"
+    }
+]

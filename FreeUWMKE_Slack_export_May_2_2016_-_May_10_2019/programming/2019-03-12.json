@@ -1,0 +1,150 @@
+[
+    {
+        "client_msg_id": "4920bdbe-7948-4456-87a9-be83d036e413",
+        "type": "message",
+        "text": "Come in today and a bug ticket comes in",
+        "user": "U15HRTAHL",
+        "ts": "1552420926.000300"
+    },
+    {
+        "client_msg_id": "a4f024e8-3fab-4b8c-9dd8-b08227f8c5d7",
+        "type": "message",
+        "text": "Spent a little bit configuring shit on the dev server",
+        "user": "U15HRTAHL",
+        "ts": "1552420947.000800"
+    },
+    {
+        "client_msg_id": "100d995f-c273-4a98-861d-15e155947c7e",
+        "type": "message",
+        "text": "debug the bug and see the wrong information is coming in",
+        "user": "U15HRTAHL",
+        "ts": "1552420967.001300"
+    },
+    {
+        "client_msg_id": "f76f845c-8380-4e7b-bc3c-590bb2abb532",
+        "type": "message",
+        "text": "spent like 3 hours wondering why the information is wrong",
+        "user": "U15HRTAHL",
+        "ts": "1552420976.001600"
+    },
+    {
+        "client_msg_id": "20a239e8-4dbd-4fe5-8abf-939ac5ef5c4a",
+        "type": "message",
+        "text": "go look in production",
+        "user": "U15HRTAHL",
+        "ts": "1552420984.001800"
+    },
+    {
+        "client_msg_id": "90b2047e-d145-4942-b245-61cb9bc75a9b",
+        "type": "message",
+        "text": "data is different",
+        "user": "U15HRTAHL",
+        "ts": "1552420990.002100"
+    },
+    {
+        "client_msg_id": "852a3299-22b7-4bd6-ae8b-24c423428c70",
+        "type": "message",
+        "text": "pretty much wasted the morning",
+        "user": "U15HRTAHL",
+        "ts": "1552421006.002400"
+    },
+    {
+        "client_msg_id": "e12bb3cc-4be8-4bad-9950-1ceffe00341f",
+        "type": "message",
+        "text": "then I go on lunch",
+        "user": "U15HRTAHL",
+        "ts": "1552421011.002600"
+    },
+    {
+        "client_msg_id": "cb3de54d-34a2-42fb-88d1-90fbaddc1cfa",
+        "type": "message",
+        "text": "plan on fixing the issue",
+        "user": "U15HRTAHL",
+        "ts": "1552421029.003100"
+    },
+    {
+        "client_msg_id": "5b995e07-d6e5-49ca-98d7-dbf7a768af2f",
+        "type": "message",
+        "text": "dev server goes down",
+        "user": "U15HRTAHL",
+        "ts": "1552421033.003300"
+    },
+    {
+        "client_msg_id": "5a753e46-36ce-4ac2-b0d9-6b37c921ed9d",
+        "type": "message",
+        "text": "now it’s 3",
+        "user": "U15HRTAHL",
+        "ts": "1552421039.003500"
+    },
+    {
+        "client_msg_id": "d0200b24-d98c-4064-9a6c-dc45039382ac",
+        "type": "message",
+        "text": "and it’s done",
+        "user": "U15HRTAHL",
+        "ts": "1552421042.003700"
+    },
+    {
+        "client_msg_id": "c0dcb470-70c8-4d6d-8bdf-507ba65fc656",
+        "type": "message",
+        "text": "but I have 0 incentive to start anything new",
+        "user": "U15HRTAHL",
+        "ts": "1552421054.004100"
+    },
+    {
+        "client_msg_id": "c53da9e9-1e6f-42ef-a081-d4fcc22e506d",
+        "type": "message",
+        "text": "drive*",
+        "user": "U15HRTAHL",
+        "ts": "1552421077.004300"
+    },
+    {
+        "client_msg_id": "8c3e67d7-1695-4cc6-a6ac-5c3bc9af47fb",
+        "type": "message",
+        "text": "0 drive",
+        "user": "U15HRTAHL",
+        "ts": "1552421080.004600"
+    },
+    {
+        "client_msg_id": "9C302523-BDD1-4C36-89A2-B13BB2881B87",
+        "type": "message",
+        "text": "I dont blame ya",
+        "user": "U15HY5TG8",
+        "ts": "1552423792.004800"
+    },
+    {
+        "client_msg_id": "b11607a7-e07c-43fd-b09b-909cfdf3dcd5",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/diegovillacis10\/status\/1105276207510171648>",
+        "user": "U15HRTAHL",
+        "ts": "1552439613.000200",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/diegovillacis10|@diegovillacis10>: This can't be more accurate. <https:\/\/pbs.twimg.com\/media\/D1a62hVU8AAmc4U.jpg>",
+                "ts": 1552353357,
+                "author_name": "Diego Villacís",
+                "author_link": "https:\/\/twitter.com\/diegovillacis10\/status\/1105276207510171648",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/914494000845000704\/908LNvKu_normal.jpg",
+                "author_subname": "@diegovillacis10",
+                "text": "This can't be more accurate. <https:\/\/pbs.twimg.com\/media\/D1a62hVU8AAmc4U.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/diegovillacis10\/status\/1105276207510171648",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/D1a62hVU8AAmc4U.jpg",
+                "image_width": 400,
+                "image_height": 500,
+                "image_bytes": 35785,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/diegovillacis10\/status\/1105276207510171648",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6A775C9B-B021-479E-B77D-54EBBB25B594",
+        "type": "message",
+        "text": "Still one of my favorites",
+        "user": "U15HY5TG8",
+        "ts": "1552440165.000600"
+    }
+]

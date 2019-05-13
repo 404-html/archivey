@@ -1,0 +1,163 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> did you use aws lambda when you were building out alexa skills?",
+        "user": "U15HRTAHL",
+        "ts": "1509723971.000289"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1509723981.000253"
+    },
+    {
+        "type": "message",
+        "text": "how the fuck do I \"subscribe\" to it?",
+        "user": "U15HRTAHL",
+        "ts": "1509723990.000376"
+    },
+    {
+        "type": "message",
+        "text": "No idea. I haven’t touched it in months. lol sorry ",
+        "user": "U15J5H60P",
+        "ts": "1509724032.000388"
+    },
+    {
+        "type": "message",
+        "text": "damnit",
+        "user": "U15HRTAHL",
+        "ts": "1509724038.000164"
+    },
+    {
+        "type": "message",
+        "text": "I don’t remember subbing to anything tho",
+        "user": "U15J5H60P",
+        "ts": "1509725257.000078"
+    },
+    {
+        "type": "message",
+        "text": "I got it",
+        "user": "U15HRTAHL",
+        "ts": "1509730387.000426"
+    },
+    {
+        "type": "message",
+        "text": "Did you make your lambda functions in the web console or locally?",
+        "user": "U15HRTAHL",
+        "ts": "1509730407.000080"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1509730408.000518"
+    },
+    {
+        "type": "message",
+        "text": "Locally first, then copy pasta into web console",
+        "user": "U15J5H60P",
+        "ts": "1509730423.000082"
+    },
+    {
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HRTAHL",
+        "ts": "1509730480.000355"
+    },
+    {
+        "type": "message",
+        "text": "thats not gonna work",
+        "user": "U15HRTAHL",
+        "ts": "1509730485.000118"
+    },
+    {
+        "type": "message",
+        "text": "there's a way to develop locally and have it deploy to aws",
+        "user": "U15HRTAHL",
+        "ts": "1509730504.000050"
+    },
+    {
+        "type": "message",
+        "text": "otherwise you can't use node modules",
+        "user": "U15HRTAHL",
+        "ts": "1509730515.000487"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1509730529.000591"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/aws.amazon.com\/blogs\/aws\/new-aws-sam-local-beta-build-and-test-serverless-applications-locally\/>",
+        "user": "U15HRTAHL",
+        "ts": "1509730985.000557",
+        "attachments": [
+            {
+                "service_name": "Amazon Web Services",
+                "title": "New – AWS SAM Local (Beta) – Build and Test Serverless Applications Locally | Amazon Web Services",
+                "title_link": "https:\/\/aws.amazon.com\/blogs\/aws\/new-aws-sam-local-beta-build-and-test-serverless-applications-locally\/",
+                "text": "Today we’re releasing a beta of a new tool, , that makes it easy to build and test your serverless applications locally. In this post we’ll use SAM local to build, debug, and deploy a quick application that allows us to vote on tabs or spaces by curling an endpoint. AWS introduced (SAM) last year […]",
+                "fallback": "Amazon Web Services: New – AWS SAM Local (Beta) – Build and Test Serverless Applications Locally | Amazon Web Services",
+                "image_url": "https:\/\/d2908q01vomqb2.cloudfront.net\/356a192b7913b04c54574d18c28d46e6395428ab\/2017\/06\/23\/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+                "image_width": 500,
+                "image_height": 250,
+                "ts": 1502470359,
+                "from_url": "https:\/\/aws.amazon.com\/blogs\/aws\/new-aws-sam-local-beta-build-and-test-serverless-applications-locally\/",
+                "image_bytes": 27820,
+                "service_icon": "https:\/\/aws.amazon.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> if you ever want to get back to your kopps scraper",
+        "user": "U15HRTAHL",
+        "ts": "1509730999.000604"
+    },
+    {
+        "type": "message",
+        "text": "So on monday afternoons, we're starting to hold hackathons where we try to hack our software",
+        "user": "U15HY5TG8",
+        "ts": "1509734044.000552"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1509734199.000022"
+    },
+    {
+        "type": "message",
+        "text": "Yeeee",
+        "user": "U15HY5TG8",
+        "ts": "1509734288.000179"
+    },
+    {
+        "type": "message",
+        "text": "Itll be cool",
+        "user": "U15HY5TG8",
+        "ts": "1509734296.000093"
+    },
+    {
+        "type": "message",
+        "text": "That's pretty cool",
+        "user": "U15HSHSS2",
+        "ts": "1509740025.000050"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> where do you work again?",
+        "user": "U15HSHSS2",
+        "ts": "1509740139.000207"
+    },
+    {
+        "type": "message",
+        "text": "Wonderbox tech",
+        "user": "U15HY5TG8",
+        "ts": "1509746086.000091"
+    }
+]

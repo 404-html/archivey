@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "119ad7eb-2073-4796-8a2d-6e1ffc771789",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1548861111.000200"
+    },
+    {
+        "client_msg_id": "63f317ca-ddf9-4214-8d0c-430fa560a2af",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1548861783.000500"
+    },
+    {
+        "client_msg_id": "3d30bea3-7cf2-4b89-a1e4-39f590889b15",
+        "type": "message",
+        "text": ":wave:",
+        "user": "U15HRTAHL",
+        "ts": "1548861850.000700"
+    },
+    {
+        "client_msg_id": "0eacc5d4-0b9d-4997-b3c1-a741e58991e2",
+        "type": "message",
+        "text": ":wave:",
+        "user": "U15J5H60P",
+        "ts": "1548861998.000900"
+    },
+    {
+        "client_msg_id": "4e667ce3-d66b-47cc-ad15-f60a7af8a467",
+        "type": "message",
+        "text": "I think I’ve shown you this series before",
+        "user": "U15HRTAHL",
+        "ts": "1548862217.001200"
+    },
+    {
+        "client_msg_id": "ac1cd185-49ae-4a92-a6e3-4464afb62cfd",
+        "type": "message",
+        "text": "but they have been adding new episodes",
+        "user": "U15HRTAHL",
+        "ts": "1548862224.001500"
+    },
+    {
+        "client_msg_id": "8a1d4ec9-3543-4809-84f6-cc106db9127a",
+        "type": "message",
+        "text": "you should watch it",
+        "user": "U15HRTAHL",
+        "ts": "1548862228.001700"
+    },
+    {
+        "client_msg_id": "f379fa06-dc3e-4933-9532-8deacbddcb9b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=jKvZPpdGjiM&amp;list=PLqq4LnWs3olVtd-fSbmz8a0KhoBCB8JW4>",
+        "user": "U15HRTAHL",
+        "ts": "1548862229.001900",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "New Zealand's Rise as a Tech Giant",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=jKvZPpdGjiM",
+                "author_name": "Bloomberg",
+                "author_link": "https:\/\/www.youtube.com\/user\/Bloomberg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/jKvZPpdGjiM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: New Zealand's Rise as a Tech Giant",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/jKvZPpdGjiM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=jKvZPpdGjiM",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=jKvZPpdGjiM&amp;list=PLqq4LnWs3olVtd-fSbmz8a0KhoBCB8JW4"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf27d72a-c92b-48e9-a17d-638f0c0452a0",
+        "type": "message",
+        "text": "look through the episodes in the playlist",
+        "user": "U15HRTAHL",
+        "ts": "1548862239.002300"
+    },
+    {
+        "client_msg_id": "3747866e-e76d-42ef-9553-9fcc32409d9e",
+        "type": "message",
+        "text": "Oooh",
+        "user": "U15J5H60P",
+        "ts": "1548864803.002500"
+    },
+    {
+        "client_msg_id": "1662a4ee-690a-4628-9c8a-601b8e74fe39",
+        "type": "message",
+        "text": "The first one was interesting",
+        "user": "U15J5H60P",
+        "ts": "1548864806.002700"
+    },
+    {
+        "client_msg_id": "f537d5ad-44fc-4b75-86cd-89c93c2799bd",
+        "type": "message",
+        "text": "Thanks for sharing. I'm going to watch these",
+        "user": "U15J5H60P",
+        "ts": "1548864811.002900"
+    }
+]

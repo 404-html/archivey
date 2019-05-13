@@ -1,0 +1,29 @@
+[
+    {
+        "client_msg_id": "1dbdf348-8607-4924-a694-219556b67ac2",
+        "type": "message",
+        "text": "<@U15J5H60P> <https:\/\/mymoodpath.com\/en\/>",
+        "user": "U15HRTAHL",
+        "ts": "1551374112.000200",
+        "attachments": [
+            {
+                "service_name": "Moodpath",
+                "title": "Moodpath App - Your Mental Health Companion",
+                "title_link": "https:\/\/mymoodpath.com\/en\/",
+                "text": "Assess your mental health. Reflect your mood. Fight depression. Choose from 150+ interactive psychological exercises ➜ available for iOS &amp; Android",
+                "fallback": "Moodpath: Moodpath App - Your Mental Health Companion",
+                "from_url": "https:\/\/mymoodpath.com\/en\/",
+                "service_icon": "https:\/\/d2sslp958cft0.cloudfront.net\/wp-content\/uploads\/2016\/07\/13180617\/icon3.png",
+                "id": 1,
+                "original_url": "https:\/\/mymoodpath.com\/en\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BDBD4E30-BC52-4195-9456-F353B533B078",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1551374132.000400"
+    }
+]

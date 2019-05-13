@@ -1,0 +1,121 @@
+[
+    {
+        "client_msg_id": "b82f73be-5ff3-4928-bb8f-22415cb3d0f2",
+        "type": "message",
+        "text": "whoaa this dude came up with an easy way create a 3D effect in a fully 2D game without having to do any modeling, or shaders or anything complicated",
+        "user": "U15HSHSS2",
+        "ts": "1544047272.001100"
+    },
+    {
+        "client_msg_id": "ba0e601b-e63b-4626-b07e-b07e6d6bcf89",
+        "type": "message",
+        "text": "looks pretty sweeet",
+        "user": "U15HSHSS2",
+        "ts": "1544047277.001300"
+    },
+    {
+        "client_msg_id": "aae54929-7e63-4ba5-a321-87b79f892a5c",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/kjFlIxGzABY?t=98>",
+        "user": "U15HSHSS2",
+        "ts": "1544047279.001500",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Day of the Dolly-Mixture",
+                "title_link": "https:\/\/youtu.be\/kjFlIxGzABY?t=98",
+                "author_name": "2kliksphilip",
+                "author_link": "https:\/\/www.youtube.com\/user\/2kliksphilip",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kjFlIxGzABY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Day of the Dolly-Mixture",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kjFlIxGzABY?start=98&feature=oembed&start=98&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/kjFlIxGzABY?t=98",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/kjFlIxGzABY?t=98"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc399abe-35e9-4059-9833-048d7d2b0b6f",
+        "type": "message",
+        "text": "Just go into paint, draw a horizontal slice of your object, and keep doing that from top to bottom til you have the whole object sliced out, and place them one pixel above each other",
+        "user": "U15HSHSS2",
+        "ts": "1544047503.002900"
+    },
+    {
+        "client_msg_id": "471e1700-b9ec-4068-bdf7-9245d45345cf",
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1544047524.003400"
+    },
+    {
+        "client_msg_id": "d1259086-8269-40e3-8220-3ccb970ecf63",
+        "type": "message",
+        "text": "thats revolutionary",
+        "user": "U15HRTAHL",
+        "ts": "1544047535.003800"
+    },
+    {
+        "client_msg_id": "853b561b-4774-4dcf-bbd9-545449d48f45",
+        "type": "message",
+        "text": "if he made that",
+        "user": "U15HRTAHL",
+        "ts": "1544047538.004000"
+    },
+    {
+        "client_msg_id": "CC05FBAF-8F02-4376-AF9D-59982DFB0645",
+        "type": "message",
+        "text": "Thats gross lol",
+        "user": "U15HY5TG8",
+        "ts": "1544047577.004500"
+    },
+    {
+        "client_msg_id": "FEFD867E-4F05-4DB6-A9EE-7DB023E8C96A",
+        "type": "message",
+        "text": "Also i dont get it",
+        "user": "U15HY5TG8",
+        "ts": "1544047582.004900"
+    },
+    {
+        "client_msg_id": "b58dd71f-909b-4c5d-b12a-d13d6ea06a55",
+        "type": "message",
+        "text": "watch the vid",
+        "user": "U15HRTAHL",
+        "ts": "1544047588.005200"
+    },
+    {
+        "client_msg_id": "732425d6-ff0b-4ddd-a267-9c8c61ccee78",
+        "type": "message",
+        "text": "it’s like 10 seconds into it",
+        "user": "U15HRTAHL",
+        "ts": "1544047592.005500"
+    },
+    {
+        "client_msg_id": "28540cd4-d037-4a03-8a7f-c96d587fefd0",
+        "type": "message",
+        "text": "He said at the end of the video he came up with the idea himself, and hadn't seen it done anywhere before. and people on r\/gamedev seem to credit him for coming up with it",
+        "user": "U15HSHSS2",
+        "ts": "1544047610.005900"
+    },
+    {
+        "client_msg_id": "2CAE5112-D80C-44D7-AE6D-61DC9CF32B49",
+        "type": "message",
+        "text": "Im saying i dont get it because i dont get how pixels work lol",
+        "user": "U15HY5TG8",
+        "ts": "1544047708.006500"
+    },
+    {
+        "client_msg_id": "575E2D33-EDCA-435E-AA90-AFEF5E8151BA",
+        "type": "message",
+        "text": "And thats pretty badass",
+        "user": "U15HY5TG8",
+        "ts": "1544047713.006800"
+    }
+]

@@ -1,0 +1,543 @@
+[
+    {
+        "client_msg_id": "1aff16d4-35f0-44af-b6e2-82382289292d",
+        "type": "message",
+        "text": "c# is shit",
+        "user": "U15HY5TG8",
+        "ts": "1537364054.000100"
+    },
+    {
+        "client_msg_id": "3a2e11b0-ba88-4d16-a4e9-5da6c4833950",
+        "type": "message",
+        "text": "I just want to use tuples real quick",
+        "user": "U15HY5TG8",
+        "ts": "1537364062.000100"
+    },
+    {
+        "client_msg_id": "3759C89C-0EF2-47B9-99CE-00B55859636B",
+        "type": "message",
+        "text": "<@U15HSHSS2> ",
+        "user": "U15J5H60P",
+        "ts": "1537365513.000100"
+    },
+    {
+        "client_msg_id": "CE2E0B2B-19A1-4F77-9B99-76FF629593BC",
+        "type": "message",
+        "text": "<http:\/\/Paper.io|Paper.io> 2 by Voodoo <https:\/\/itunes.apple.com\/us\/app\/paper-io-2\/id1423046460?mt=8>",
+        "user": "U15J5H60P",
+        "ts": "1537365515.000100",
+        "attachments": [
+            {
+                "service_name": "App Store",
+                "title": "‎Paper.io 2",
+                "title_link": "https:\/\/itunes.apple.com\/us\/app\/paper-io-2\/id1423046460?mt=8",
+                "text": "‎You liked <http:\/\/Paper.io|Paper.io> ? You'll love <http:\/\/Paper2.io|Paper2.io>! Conquer as much territory as possible and beat the competition. A smooth drawing experience!",
+                "fallback": "App Store: ‎Paper.io 2",
+                "image_url": "https:\/\/is3-ssl.mzstatic.com\/image\/thumb\/Purple128\/v4\/49\/9e\/5a\/499e5a5c-cc01-0c36-12c5-aa4f5a4b2622\/AppIcon-1x_U007emarketing-85-220-8.png\/1200x630wa.png",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/itunes.apple.com\/us\/app\/paper-io-2\/id1423046460?mt=8",
+                "image_bytes": 187940,
+                "service_icon": "https:\/\/itunes.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/itunes.apple.com\/us\/app\/paper-io-2\/id1423046460?mt=8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5376C7C6-A986-41E0-96E5-15E4DF1CB269",
+        "type": "message",
+        "text": "lol meanwhile I’m sittin here struggling with my shitty 2D blocky broken ass game",
+        "user": "U15HSHSS2",
+        "ts": "1537366370.000100"
+    },
+    {
+        "client_msg_id": "96b05096-4696-4422-b7f3-143313aec490",
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1537366412.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1537366438.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/table-flip-X83Y7r03T6uty",
+                "image_url": "https:\/\/media3.giphy.com\/media\/X83Y7r03T6uty\/giphy.gif",
+                "image_width": 322,
+                "image_height": 181,
+                "image_bytes": 1841550,
+                "is_animated": true,
+                "title": "fliip table",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/table-flip-X83Y7r03T6uty"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "553FB7EE-9485-4ADF-9994-B96D85D1BA71",
+        "type": "message",
+        "text": "Not that I would ever consider releasing what I have lol I’m sure there’s 100 better versions of it on the App Store. Fun as a side project though",
+        "user": "U15HSHSS2",
+        "ts": "1537366591.000100"
+    },
+    {
+        "client_msg_id": "62ac15bf-6c07-4e47-8c68-67d7baab3b7a",
+        "type": "message",
+        "text": "<http:\/\/tonsky.me\/blog\/disenchantment\/>",
+        "user": "U15HRTAHL",
+        "ts": "1537369893.000100",
+        "attachments": [
+            {
+                "service_name": "tonsky.me",
+                "title": "Software disenchantment",
+                "title_link": "http:\/\/tonsky.me\/blog\/disenchantment\/",
+                "text": "Everything is going to hell and nobody seems to care",
+                "fallback": "tonsky.me: Software disenchantment",
+                "ts": 1537167600,
+                "from_url": "http:\/\/tonsky.me\/blog\/disenchantment\/",
+                "id": 1,
+                "original_url": "http:\/\/tonsky.me\/blog\/disenchantment\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78b17a33-4cb3-4f17-bc46-448a041f2fe6",
+        "type": "message",
+        "text": "this is a good read",
+        "user": "U15HRTAHL",
+        "ts": "1537369896.000100"
+    },
+    {
+        "client_msg_id": "cfce0a97-ddda-4cfc-8bb6-e7c5ff7ba66f",
+        "type": "message",
+        "text": "~15 mins",
+        "user": "U15HRTAHL",
+        "ts": "1537369898.000100"
+    },
+    {
+        "client_msg_id": "7137ef3b-ca6d-42d5-9b7a-32bd15a6dde4",
+        "type": "message",
+        "text": "Is there a TL;DR anywhere that I can reference?",
+        "user": "U15J5H60P",
+        "ts": "1537369919.000100"
+    },
+    {
+        "client_msg_id": "94bf59c6-5827-4c01-be74-4294a8f7f2f7",
+        "type": "message",
+        "text": "From the first paragraph it looks like a rant on software quality",
+        "user": "U15J5H60P",
+        "ts": "1537369931.000100"
+    },
+    {
+        "client_msg_id": "89509cea-76ef-4671-a664-458cf3823f19",
+        "type": "message",
+        "text": "your want for a TL;DR is kind of his point",
+        "user": "U15HRTAHL",
+        "ts": "1537369952.000100"
+    },
+    {
+        "client_msg_id": "96f99fdb-31ab-4761-ab64-f37fb589b32b",
+        "type": "message",
+        "text": "developers are lazy",
+        "user": "U15HRTAHL",
+        "ts": "1537369957.000100"
+    },
+    {
+        "client_msg_id": "5e7c9065-f71c-4d67-a5c7-d1004cbaf7cd",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1537369960.000200"
+    },
+    {
+        "client_msg_id": "0fd7f4dc-a4b9-4cac-b7d5-7a8b01265aaa",
+        "type": "message",
+        "text": "are making lazy software",
+        "user": "U15HRTAHL",
+        "ts": "1537369962.000100"
+    },
+    {
+        "client_msg_id": "ca05a2ff-386d-4349-b67e-c72b59acc833",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1537370022.000100"
+    },
+    {
+        "client_msg_id": "db4e646b-50b1-4ec0-af4b-3488c2d615bc",
+        "type": "message",
+        "text": "Ain't nobody got time to make good code",
+        "user": "U15J5H60P",
+        "ts": "1537370032.000100"
+    },
+    {
+        "client_msg_id": "9cdf5292-5a90-43f0-bb2c-50cfb1662968",
+        "type": "message",
+        "text": "I have a deadline",
+        "user": "U15J5H60P",
+        "ts": "1537370035.000100"
+    },
+    {
+        "client_msg_id": "484c27a6-ee63-4f6c-8ac3-e8e23a0a7762",
+        "type": "message",
+        "text": "Gotta GSD or people gonna bitch",
+        "user": "U15J5H60P",
+        "ts": "1537370042.000100"
+    },
+    {
+        "client_msg_id": "450716aa-d087-4407-a214-633994b0f813",
+        "type": "message",
+        "text": "Gotta put the bitching off as long as possible",
+        "user": "U15J5H60P",
+        "ts": "1537370048.000100"
+    },
+    {
+        "client_msg_id": "dc1c30ac-ef44-495d-bedf-323e022c12b8",
+        "type": "message",
+        "text": "Then when everything goes to shit, you say \"Welp, let's make a new one!\"",
+        "user": "U15J5H60P",
+        "ts": "1537370063.000100"
+    },
+    {
+        "client_msg_id": "a4069a35-c272-40bc-a998-aa931137c037",
+        "type": "message",
+        "text": "Rinse and repeat the cycle",
+        "user": "U15J5H60P",
+        "ts": "1537370067.000100"
+    },
+    {
+        "client_msg_id": "0bd66ce0-7921-4629-ae99-09414fc39c04",
+        "type": "message",
+        "text": "Yeah he uses the auto and aircraft industries as examples on how other complex engineering fields make quality stuff",
+        "user": "U15HRTAHL",
+        "ts": "1537370087.000100"
+    },
+    {
+        "client_msg_id": "ad29b5d0-e415-421a-ba5e-56410dca069c",
+        "type": "message",
+        "text": "but that’s also because they have soooo much regulation",
+        "user": "U15HRTAHL",
+        "ts": "1537370095.000100"
+    },
+    {
+        "client_msg_id": "1612ab10-2fad-4a40-8a48-71aadecf4e03",
+        "type": "message",
+        "text": "software has 0",
+        "user": "U15HRTAHL",
+        "ts": "1537370099.000100"
+    },
+    {
+        "client_msg_id": "8a5e96fe-bafe-4c6f-a2a9-0c26efcd6d26",
+        "type": "message",
+        "text": "I appreciate the sentiment. But there's no way we're going to get good quality code without American culture changing",
+        "user": "U15J5H60P",
+        "ts": "1537370187.000100"
+    },
+    {
+        "client_msg_id": "e29cb39b-cfd5-4b72-b4a8-bdd5f3ff0f86",
+        "type": "message",
+        "text": "Business needs to understand that to make long term sustainable code, they're going to have to slow down",
+        "user": "U15J5H60P",
+        "ts": "1537370207.000100"
+    },
+    {
+        "client_msg_id": "8d06719f-35d5-437b-8509-a46992baec5d",
+        "type": "message",
+        "text": "A LOT",
+        "user": "U15J5H60P",
+        "ts": "1537370209.000100"
+    },
+    {
+        "client_msg_id": "657c303e-d3a3-44ea-9ba3-c531eb06e55a",
+        "type": "message",
+        "text": "There's a lot of code we don't write tests for",
+        "user": "U15J5H60P",
+        "ts": "1537370221.000100"
+    },
+    {
+        "client_msg_id": "520c73de-ea9d-4664-946c-7666c17e4ee7",
+        "type": "message",
+        "text": "Because it's either, deploy now, or write tests.",
+        "user": "U15J5H60P",
+        "ts": "1537370233.000100"
+    },
+    {
+        "client_msg_id": "1c9eda88-a8f8-4833-a0d9-bc486e167ee8",
+        "type": "message",
+        "text": "The business hits 'deploy now' every time",
+        "user": "U15J5H60P",
+        "ts": "1537370241.000100"
+    },
+    {
+        "client_msg_id": "b244a381-640e-4959-a420-8d125ea341e7",
+        "type": "message",
+        "text": "Then shit starts falling apart",
+        "user": "U15J5H60P",
+        "ts": "1537370246.000100"
+    },
+    {
+        "client_msg_id": "5324c052-41b9-4704-a12b-dbb2e0090b4c",
+        "type": "message",
+        "text": "No one knows where it's falling apart because no tests were written",
+        "user": "U15J5H60P",
+        "ts": "1537370257.000200"
+    },
+    {
+        "client_msg_id": "cb8ebad5-c7f9-4b92-a791-0fce022e49af",
+        "type": "message",
+        "text": "etc etc etc",
+        "user": "U15J5H60P",
+        "ts": "1537370267.000100"
+    },
+    {
+        "client_msg_id": "f2218f3c-3aaf-4f74-93ff-d4805fffcbb0",
+        "type": "message",
+        "text": "Yeah, it's not that developers don't want to write good, clean, efficient, well written code. It's that the business side doesn't give a fuck about the software side and how clean or well written the code is. They want results as soon as possible.",
+        "user": "U15HSHSS2",
+        "ts": "1537370857.000100"
+    },
+    {
+        "client_msg_id": "e6ffc003-f868-4bc3-a0e2-75917aaa214c",
+        "type": "message",
+        "text": "So if it basically works, you ship that shit out",
+        "user": "U15HSHSS2",
+        "ts": "1537370871.000100"
+    },
+    {
+        "client_msg_id": "645f753c-5366-4bef-806f-c9e7cb261f67",
+        "type": "message",
+        "text": "Which kind of goes back to regualtion",
+        "user": "U15HRTAHL",
+        "ts": "1537370881.000100"
+    },
+    {
+        "client_msg_id": "8f602649-4e7a-4b38-989e-fc9167dd8fba",
+        "type": "message",
+        "text": "automobile manufacturers and aircraft makers can’t do that shit",
+        "user": "U15HRTAHL",
+        "ts": "1537370894.000100"
+    },
+    {
+        "client_msg_id": "84c8aa8c-ada2-4f97-9f38-19ee151c587a",
+        "type": "message",
+        "text": "Yeah, and the majority of software will never get to that level of regulation",
+        "user": "U15HSHSS2",
+        "ts": "1537370922.000100"
+    },
+    {
+        "client_msg_id": "8b7728cd-34fb-48c4-ade6-5bce1e4f0d36",
+        "type": "message",
+        "text": "nobodies life depends on how quickly Gmail opens",
+        "user": "U15HSHSS2",
+        "ts": "1537370935.000100"
+    },
+    {
+        "client_msg_id": "3574f4b0-c4ce-44dc-989b-ccad24127ab0",
+        "type": "message",
+        "text": "not general software",
+        "user": "U15HRTAHL",
+        "ts": "1537371054.000100"
+    },
+    {
+        "client_msg_id": "9b94f733-853c-4feb-a0a7-1ebb6a0475e0",
+        "type": "message",
+        "text": "but I guess aircraft have software",
+        "user": "U15HRTAHL",
+        "ts": "1537371061.000100"
+    },
+    {
+        "client_msg_id": "bcda6308-8386-4b51-b7da-c9f8eb35938f",
+        "type": "message",
+        "text": "I wonder what kind of regulation there is on that",
+        "user": "U15HRTAHL",
+        "ts": "1537371069.000100"
+    },
+    {
+        "client_msg_id": "4313cd1f-4d64-49f4-bd86-ef3107cc8d77",
+        "type": "message",
+        "text": "That being said, I'd be super annoyed if my code was overregulated",
+        "user": "U15J5H60P",
+        "ts": "1537371076.000100"
+    },
+    {
+        "client_msg_id": "a067731f-e0ee-4cae-a2c5-8f1a4c4ec41c",
+        "type": "message",
+        "text": "Sometimes I just want to make shit and get it out without testing",
+        "user": "U15J5H60P",
+        "ts": "1537371083.000100"
+    },
+    {
+        "client_msg_id": "548f8150-93e7-4eac-a15c-cb37c315f63d",
+        "type": "message",
+        "text": "yep",
+        "user": "U15HRTAHL",
+        "ts": "1537371095.000200"
+    },
+    {
+        "client_msg_id": "9ea49860-22a5-4d98-8e2c-f8ab724894bd",
+        "type": "message",
+        "text": "I'd be super annoyed if I had great code to be pushed out but \"Is Sonarqube passing 100%? How about Clair? Is it containerized properly? How does it do with security? You're using a new Node Module. Has it been approved by the company's security team?\"",
+        "user": "U15J5H60P",
+        "ts": "1537371133.000100"
+    },
+    {
+        "client_msg_id": "ea5e67e5-e801-4594-9159-6acef119bcc8",
+        "type": "message",
+        "text": "In our OS (i think?) class the dude talked about aircraft software, and it's extensively regulated and goes through a shit ton of testing and reviews, and needs to be mathematically proven to have no deadlocks",
+        "user": "U15HSHSS2",
+        "ts": "1537371187.000100"
+    },
+    {
+        "client_msg_id": "7d365557-974f-4ea1-a921-421ace82a878",
+        "type": "message",
+        "text": "Just imagine being one of those developers",
+        "user": "U15J5H60P",
+        "ts": "1537371263.000100"
+    },
+    {
+        "client_msg_id": "8a212bf8-f74d-4b6a-9d71-bdbea5e8c073",
+        "type": "message",
+        "text": "I wouldn't want to make ANY code changes",
+        "user": "U15J5H60P",
+        "ts": "1537371267.000100"
+    },
+    {
+        "client_msg_id": "658e1421-ba65-48ed-991f-03aa13ad65c5",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1537371272.000200"
+    },
+    {
+        "client_msg_id": "af3d61f4-2f42-4cba-9551-337b4fac4943",
+        "type": "message",
+        "text": "You make one line of code. It takes 3 months to go through review",
+        "user": "U15J5H60P",
+        "ts": "1537371280.000100"
+    },
+    {
+        "client_msg_id": "0b7c7ee7-1b12-406b-beff-1813add64eda",
+        "type": "message",
+        "text": "Then it gets denied",
+        "user": "U15J5H60P",
+        "ts": "1537371302.000100"
+    },
+    {
+        "client_msg_id": "28605195-a9e5-4791-963b-f70715959786",
+        "type": "message",
+        "text": "Because you forgot a semi-colon.",
+        "user": "U15J5H60P",
+        "ts": "1537371309.000100"
+    },
+    {
+        "client_msg_id": "d00c94dd-fe92-4bae-a214-9f2b38c14edf",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1537371318.000100"
+    },
+    {
+        "client_msg_id": "b53b7952-4c0b-4439-9c92-0f2c3589c8a5",
+        "type": "message",
+        "text": "Then you submit it for review again",
+        "user": "U15J5H60P",
+        "ts": "1537371327.000100"
+    },
+    {
+        "client_msg_id": "0bf2edbc-5e5e-4aaf-ae24-f12c2fc0fe52",
+        "type": "message",
+        "text": "3 months later it comes back",
+        "user": "U15J5H60P",
+        "ts": "1537371330.000100"
+    },
+    {
+        "client_msg_id": "4c4e16ac-ad5a-4ab2-a5dc-d9601dd2dba3",
+        "type": "message",
+        "text": "Still denied",
+        "user": "U15J5H60P",
+        "ts": "1537371333.000100"
+    },
+    {
+        "client_msg_id": "90d848cd-c465-4fdf-92cc-652531198841",
+        "type": "message",
+        "text": "Because \"legacy coding practices should not be used\"",
+        "user": "U15J5H60P",
+        "ts": "1537371350.000100"
+    },
+    {
+        "client_msg_id": "749e9f8a-b5ac-484b-a717-f0da04138a64",
+        "type": "message",
+        "text": "You didn't make the variable a const",
+        "user": "U15J5H60P",
+        "ts": "1537371356.000100"
+    },
+    {
+        "client_msg_id": "4d810283-b54f-4288-a7dd-9c47a2d20f8c",
+        "type": "message",
+        "text": "You used let instead",
+        "user": "U15J5H60P",
+        "ts": "1537371359.000100"
+    },
+    {
+        "client_msg_id": "7031aae7-0dc3-407e-9e53-e95aa7f4196a",
+        "type": "message",
+        "text": "70 people die in a plane crash cuz somebody forgot a semicolon lol",
+        "user": "U15HSHSS2",
+        "ts": "1537371360.000100"
+    },
+    {
+        "client_msg_id": "c4eca8c3-de48-4ae6-a13c-b42777cd0ae2",
+        "type": "message",
+        "text": "Dang",
+        "user": "U15J5H60P",
+        "ts": "1537371366.000200"
+    },
+    {
+        "client_msg_id": "ea86cbe5-c7a6-40b8-b5f2-af5fe775a4f6",
+        "type": "message",
+        "text": "Would you put that on a resume?",
+        "user": "U15J5H60P",
+        "ts": "1537371371.000100"
+    },
+    {
+        "client_msg_id": "435D73EF-4C1B-4779-B279-D28E1527D68B",
+        "type": "message",
+        "text": "You could if you were applying for ISIS",
+        "user": "U15J5H60P",
+        "ts": "1537371404.000100"
+    },
+    {
+        "client_msg_id": "1FD23559-23FC-42F1-BF1C-E9B23B87C695",
+        "type": "message",
+        "text": "Great, now this sub has been seized",
+        "user": "U15HY5TG8",
+        "ts": "1537375122.000100"
+    },
+    {
+        "client_msg_id": "be0d853b-4167-47d2-8557-44df3cf543ae",
+        "type": "message",
+        "text": "people who use \"var\" in linq are dumbasses",
+        "user": "U15HY5TG8",
+        "ts": "1537391026.000100"
+    },
+    {
+        "client_msg_id": "e38ffff9-c3d6-4c5d-90ad-e7c23a006340",
+        "type": "message",
+        "text": "whys that?",
+        "user": "U15HRTAHL",
+        "ts": "1537391184.000100"
+    },
+    {
+        "client_msg_id": "54F1AC52-AB3B-4B7F-A639-FCF38709CB08",
+        "type": "message",
+        "text": "Because theres no error checking. Linqs job is to create a query and return results right? Well this dumbass did that but didnt return it as a list so this var object is literally a query. Then they used wanted to delete that object from the referenced entity management table. Tell me, how do you delete a query from a table?",
+        "user": "U15HY5TG8",
+        "ts": "1537391326.000100"
+    }
+]

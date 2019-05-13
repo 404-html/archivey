@@ -1,0 +1,44 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1529420791.000903",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "ecd97599-644a-44d8-94f8-dedfdd4031c3",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1529420794.000668"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Bet",
+        "user": "USLACKBOT",
+        "ts": "1529420794.000907"
+    },
+    {
+        "client_msg_id": "ce208f0e-69cb-4bac-affd-ee7cc9d13776",
+        "type": "message",
+        "text": "i bet",
+        "user": "U15J5H60P",
+        "ts": "1529420797.000757"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "Bet",
+        "user": "USLACKBOT",
+        "ts": "1529420797.000842"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1529420805.000300",
+        "text": "<@U15J5H60P> has left the channel"
+    }
+]

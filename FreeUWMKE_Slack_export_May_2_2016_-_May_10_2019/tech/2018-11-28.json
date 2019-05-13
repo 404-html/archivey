@@ -1,0 +1,265 @@
+[
+    {
+        "client_msg_id": "4f04c91f-ba71-45ce-b7b2-a58ad536c146",
+        "type": "message",
+        "text": "Project Fi support iPhones now",
+        "user": "U15J5H60P",
+        "ts": "1543428965.000200"
+    },
+    {
+        "client_msg_id": "a8d38622-e379-49a9-97fa-568953f41966",
+        "type": "message",
+        "text": "no it doesn’t",
+        "user": "U15HRTAHL",
+        "ts": "1543429117.000400"
+    },
+    {
+        "client_msg_id": "93f8e383-c91a-483d-a344-ebff13923bae",
+        "type": "message",
+        "text": "Google Fi does",
+        "user": "U15HRTAHL",
+        "ts": "1543429133.000600"
+    },
+    {
+        "client_msg_id": "2b59545f-3e0f-4f37-a2f2-81d78b68df72",
+        "type": "message",
+        "text": "Project Fi doesn’t exist anymore",
+        "user": "U15HRTAHL",
+        "ts": "1543429138.001000"
+    },
+    {
+        "client_msg_id": "d008323a-0a85-4dea-a9c8-8760d906a408",
+        "type": "message",
+        "text": ":sunglasses:",
+        "user": "U15HRTAHL",
+        "ts": "1543429140.001300"
+    },
+    {
+        "client_msg_id": "f017020b-cbb0-4829-bf36-e480514728f5",
+        "type": "message",
+        "text": "Oh whatever",
+        "user": "U15J5H60P",
+        "ts": "1543429140.001400"
+    },
+    {
+        "client_msg_id": "01a0966b-bef1-4f56-8a6c-8d9ba50b656c",
+        "type": "message",
+        "text": "\/kick joe",
+        "user": "U15J5H60P",
+        "ts": "1543429148.001600"
+    },
+    {
+        "client_msg_id": "2ee373a1-e330-4066-82b1-344d10712648",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1543429150.001800"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1543429153.002000",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "client_msg_id": "c44c7e4d-8ea1-450a-851c-7f5e2ba20929",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1543429156.002200"
+    },
+    {
+        "client_msg_id": "8da579c4-1013-403d-ac2b-1f74f4557cd9",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/2018\/11\/28\/18115264\/google-fi-iphone-android-project-official>",
+        "user": "U15J5H60P",
+        "ts": "1543429164.002400",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Project Fi is now Google Fi, and it will work with iPhones and most Android devices",
+                "title_link": "https:\/\/www.theverge.com\/2018\/11\/28\/18115264\/google-fi-iphone-android-project-official",
+                "text": "Looks like the MVNO is here to stay.",
+                "fallback": "The Verge: Project Fi is now Google Fi, and it will work with iPhones and most Android devices",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/w7nDiU-BGNJviixu_4NmomSprMQ=\/0x767:5760x3783\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/13315987\/akrales_181019_3014_0307.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1543420924,
+                "from_url": "https:\/\/www.theverge.com\/2018\/11\/28\/18115264\/google-fi-iphone-android-project-official",
+                "image_bytes": 208975,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2018\/11\/28\/18115264\/google-fi-iphone-android-project-official"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c7c6309-f282-4348-8b0a-95c19729cde4",
+        "type": "message",
+        "text": "_Disclaimer: I did not kick Joe._",
+        "user": "U15J5H60P",
+        "ts": "1543429180.003100"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1543429187.003400",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "client_msg_id": "ba752742-fe9b-4eb6-befc-a3c14781e65c",
+        "type": "message",
+        "text": "unbelievable",
+        "user": "U15HRTAHL",
+        "ts": "1543429192.003600"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1543429207.003800",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/2000s-shaggy-it-wasnt-me-CoejwVQBgdlKg",
+                "image_url": "https:\/\/media3.giphy.com\/media\/CoejwVQBgdlKg\/giphy-downsized.gif?cid=6104955e5bfedc55774d737463ca2795",
+                "image_width": 500,
+                "image_height": 353,
+                "image_bytes": 1025816,
+                "is_animated": true,
+                "title": "it wasn't me",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/2000s-shaggy-it-wasnt-me-CoejwVQBgdlKg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0eda2df0-3cf2-4382-a383-8960661210d7",
+        "type": "message",
+        "text": "It really wasn't me",
+        "user": "U15J5H60P",
+        "ts": "1543429307.004000"
+    },
+    {
+        "client_msg_id": "e4cfb03a-26c6-4357-9eeb-14c66de0baf5",
+        "type": "message",
+        "text": "$100 credit if I refer you guys ",
+        "user": "U15HRTAHL",
+        "ts": "1543429445.004400"
+    },
+    {
+        "client_msg_id": "17d28c6c-90a4-48a9-a3eb-cd5dd23d8cda",
+        "type": "message",
+        "text": "I'd switch once it's solidified",
+        "user": "U15HSHSS2",
+        "ts": "1543429536.004800"
+    },
+    {
+        "client_msg_id": "f4a330b4-a590-4ac9-a661-03daf387f036",
+        "type": "message",
+        "text": "says its still sorta in beta",
+        "user": "U15HSHSS2",
+        "ts": "1543429542.005000"
+    },
+    {
+        "client_msg_id": "DEBB678B-35E1-4BC8-B6DD-F32E42F242E2",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1543447824.000200"
+    },
+    {
+        "client_msg_id": "07DA1924-D661-4869-9B11-834CC006D3AB",
+        "type": "message",
+        "text": "Can you carry your number across from at&amp;t to fi?",
+        "user": "U15HY5TG8",
+        "ts": "1543447936.000900"
+    },
+    {
+        "client_msg_id": "467d7dfe-70fe-4db1-bfae-95988d9b5c24",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HRTAHL",
+        "ts": "1543448154.001100"
+    },
+    {
+        "client_msg_id": "595c9191-f63c-4e03-bf2b-b3195aaad34c",
+        "type": "message",
+        "text": "If you switch let me know so I can give you my referral code",
+        "user": "U15HRTAHL",
+        "ts": "1543448168.001600"
+    },
+    {
+        "client_msg_id": "36B74E00-4B79-41C1-907B-C82E73CDECF3",
+        "type": "message",
+        "text": "Ill have to read into pricing and stuff a bit more but hows the service, and whats the data usage like?",
+        "user": "U15HY5TG8",
+        "ts": "1543448317.002600"
+    },
+    {
+        "client_msg_id": "0cdf25f6-5d7e-47a6-9b24-8d7ff46d3c70",
+        "type": "message",
+        "text": "First month was high because I was in Europe and was using it for everything",
+        "user": "U15HRTAHL",
+        "ts": "1543448825.003700"
+    },
+    {
+        "client_msg_id": "81452BDB-EB9E-47DD-9CE6-7051B1059B93",
+        "type": "message",
+        "text": "So its 100% data dependent and you provide your own phone. Is that correct?",
+        "user": "U15HY5TG8",
+        "ts": "1543448918.004600"
+    },
+    {
+        "client_msg_id": "07f018fe-5c45-4134-9aa2-99cf2dd40ffa",
+        "type": "message",
+        "text": "$20 for unlimited call and text ",
+        "user": "U15HRTAHL",
+        "ts": "1543448938.005000"
+    },
+    {
+        "client_msg_id": "1db1850c-2baa-469e-85fa-04677fb79a49",
+        "type": "message",
+        "text": "Then $10\/GB data after ",
+        "user": "U15HRTAHL",
+        "ts": "1543448946.005400"
+    },
+    {
+        "client_msg_id": "483f64fb-6ec8-4b42-91c0-6f97e29682bb",
+        "type": "message",
+        "text": "You're only billed for what you use ",
+        "user": "U15HRTAHL",
+        "ts": "1543448953.005700"
+    },
+    {
+        "client_msg_id": "B5FFD5BC-216C-48F1-B92E-76134F0C6D4D",
+        "type": "message",
+        "text": "Ahh ok",
+        "user": "U15HY5TG8",
+        "ts": "1543448955.005900"
+    },
+    {
+        "client_msg_id": "c00c00aa-39fc-455f-9e09-241384afe891",
+        "type": "message",
+        "text": "Plus taxes. Which there are some weird fucking taxes add to it ",
+        "user": "U15HRTAHL",
+        "ts": "1543448972.006400"
+    },
+    {
+        "client_msg_id": "59F58E96-19F4-47CE-BACD-EC2D11A0CD37",
+        "type": "message",
+        "text": "Innnteresting",
+        "user": "U15HY5TG8",
+        "ts": "1543449895.007000"
+    },
+    {
+        "client_msg_id": "6BBF1BFA-9D14-411A-BCDF-F19645E2BD61",
+        "type": "message",
+        "text": "Commies",
+        "user": "U15HY5TG8",
+        "ts": "1543449898.007200"
+    }
+]

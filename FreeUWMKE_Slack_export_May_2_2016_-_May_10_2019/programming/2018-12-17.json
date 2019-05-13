@@ -1,0 +1,637 @@
+[
+    {
+        "client_msg_id": "d4fd82d0-7369-411a-8365-77c3e55bfcaf",
+        "type": "message",
+        "text": "just when I thought I knew IIS",
+        "user": "U15HY5TG8",
+        "ts": "1545056870.002200"
+    },
+    {
+        "client_msg_id": "4cb1171c-fd49-4d75-9e0c-bd84eec0908d",
+        "type": "message",
+        "text": "...now I need to figure out how to point <http:\/\/xxx.com|xxx.com> and <http:\/\/xxx.jobs|xxx.jobs> to the same solution",
+        "user": "U15HY5TG8",
+        "ts": "1545056894.002800"
+    },
+    {
+        "client_msg_id": "4c8d528d-d274-4dbd-ace0-9e3bd554c2bb",
+        "type": "message",
+        "text": "Why is that hard?",
+        "user": "U15J5H60P",
+        "ts": "1545056936.003000"
+    },
+    {
+        "client_msg_id": "31e5f576-444a-4f42-9f2c-ab0724077b8f",
+        "type": "message",
+        "text": "I've never used IIS",
+        "user": "U15J5H60P",
+        "ts": "1545056949.003500"
+    },
+    {
+        "client_msg_id": "3d83c30a-f555-43ef-acfc-8eb56980d274",
+        "type": "message",
+        "text": "So I'm genuinely asking",
+        "user": "U15J5H60P",
+        "ts": "1545056954.003700"
+    },
+    {
+        "client_msg_id": "66443ce4-99fa-4c12-862e-a770eca932ac",
+        "type": "message",
+        "text": "because it's not working with the setup that I'm assuming haha",
+        "user": "U15HY5TG8",
+        "ts": "1545056971.004100"
+    },
+    {
+        "client_msg_id": "acbf7983-1a1c-4053-abef-81bb965fcd9b",
+        "type": "message",
+        "text": "like usually I'm used to one url to one solution, so this is brand new, and Idk what to do",
+        "user": "U15HY5TG8",
+        "ts": "1545056997.004600"
+    },
+    {
+        "client_msg_id": "b45d2e57-44f1-4229-8623-3323d4824498",
+        "type": "message",
+        "text": "and it's annoying, because IIS is really easy to use",
+        "user": "U15HY5TG8",
+        "ts": "1545057024.005000"
+    },
+    {
+        "client_msg_id": "355c7ffa-7952-465a-ac58-9592c46895b2",
+        "type": "message",
+        "text": "can’t you just add a site?",
+        "user": "U15HRTAHL",
+        "ts": "1545057344.005300"
+    },
+    {
+        "client_msg_id": "a574b943-0575-4056-8294-a0cd97902cc0",
+        "type": "message",
+        "text": "and point that site to the same solution",
+        "user": "U15HRTAHL",
+        "ts": "1545057352.005700"
+    },
+    {
+        "client_msg_id": "a5a9862b-18c9-47bb-a972-0df2d5a2ccbf",
+        "type": "message",
+        "text": "That's what I thought, but one of two things happens when I browse it. Either I get a 404 OR it just redirects to the same homepage",
+        "user": "U15HY5TG8",
+        "ts": "1545057402.006500"
+    },
+    {
+        "client_msg_id": "cc468ec0-e20e-42c8-9b95-9555767f7637",
+        "type": "message",
+        "text": "an app config file wasn't being referenced correct",
+        "user": "U15HY5TG8",
+        "ts": "1545058778.008200"
+    },
+    {
+        "client_msg_id": "606f8022-588a-4a02-9193-baca16c66a12",
+        "type": "message",
+        "text": "that damn app config",
+        "user": "U15HRTAHL",
+        "ts": "1545059062.008600"
+    },
+    {
+        "client_msg_id": "4eea25f2-d52b-4317-8d42-339485d95e77",
+        "type": "message",
+        "text": "it’ll get you everytime",
+        "user": "U15HRTAHL",
+        "ts": "1545059067.008800"
+    },
+    {
+        "client_msg_id": "c1dd54d7-307d-43c3-a2f5-cc51d0cc6b9d",
+        "type": "message",
+        "text": "yup lol",
+        "user": "U15HY5TG8",
+        "ts": "1545059111.009000"
+    },
+    {
+        "client_msg_id": "3b32f8fd-4ab6-4295-b72f-7c846b63cbfc",
+        "type": "message",
+        "text": "God I just spent an hour on the stupidest fucking thing because I'm an idiot",
+        "user": "U15HSHSS2",
+        "ts": "1545080864.009800",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1545080878.000000"
+        }
+    },
+    {
+        "client_msg_id": "a8ae6624-08c2-46d6-b7fa-ad55f1935d13",
+        "type": "message",
+        "text": "what was that?",
+        "user": "U15HRTAHL",
+        "ts": "1545080877.010000"
+    },
+    {
+        "client_msg_id": "8000ffdb-a0aa-4817-9a9d-2056c5f5bd98",
+        "type": "message",
+        "text": "We're working on this API thing right now. and for the time being one of the devs created this thing to allow us to log in until the actual login functionality is available",
+        "user": "U15HSHSS2",
+        "ts": "1545080955.011200"
+    },
+    {
+        "client_msg_id": "e6640919-6053-4f21-882a-a2fcf910dc8f",
+        "type": "message",
+        "text": "Dude I sit next to set it up yesterday so I asked him what he all did, and he just ran something locally and plugged in 3 arguments and it logs you in",
+        "user": "U15HSHSS2",
+        "ts": "1545081021.012600"
+    },
+    {
+        "client_msg_id": "3820558a-56b5-4fd7-8f9a-7420db4b2737",
+        "type": "message",
+        "text": "3 arguments are \"ProfileId\" \"Email\" and some value that's the same for everybody",
+        "user": "U15HSHSS2",
+        "ts": "1545081071.013400"
+    },
+    {
+        "client_msg_id": "93c3344b-27b6-4b71-b77f-1daa8e66359e",
+        "type": "message",
+        "text": "so he sent me the argument that is the same for everybody it's \"urn:zywave.legacy_profile_prinical=s\"",
+        "user": "U15HSHSS2",
+        "ts": "1545081147.014600"
+    },
+    {
+        "client_msg_id": "2ff86f70-fc42-4189-a097-de356a50b02a",
+        "type": "message",
+        "text": "and he's like \"yeah so just enter the 'profileId', 'email', and that 'urn' value to get it to work\"",
+        "user": "U15HSHSS2",
+        "ts": "1545081189.015300"
+    },
+    {
+        "client_msg_id": "1a412116-bec9-4ebe-8815-ea0d60c708d1",
+        "type": "message",
+        "text": "I enter put the profileId (profileId:123456789), I put my email (email:tom.dom@zywave.com) and i put that urn thing he gave me (urn:zywave.legacy_profile_prinical=s)",
+        "user": "U15HSHSS2",
+        "ts": "1545081283.016900",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1545081309.000000"
+        }
+    },
+    {
+        "client_msg_id": "5af5990e-947a-4c8f-995e-8caf166bb2e9",
+        "type": "message",
+        "text": "Didn't work",
+        "user": "U15HSHSS2",
+        "ts": "1545081287.017100"
+    },
+    {
+        "client_msg_id": "19f40c29-b075-4f54-a329-bb476e5ae394",
+        "type": "message",
+        "text": "I spend an hour and a half making sure I have the right values and wondering why this doesn't work",
+        "user": "U15HSHSS2",
+        "ts": "1545081336.017700"
+    },
+    {
+        "client_msg_id": "8feb46c5-3922-4d74-a135-a17f4a35f5c2",
+        "type": "message",
+        "text": "so what was the issue",
+        "user": "U15HRTAHL",
+        "ts": "1545081353.017900"
+    },
+    {
+        "client_msg_id": "e2f7d0c8-42b7-4adf-b8d3-02525a281101",
+        "type": "message",
+        "text": "he didn't need the values lol",
+        "user": "U15HY5TG8",
+        "ts": "1545081388.018500"
+    },
+    {
+        "client_msg_id": "ee21038f-3a66-4f6b-b387-28d528c21b66",
+        "type": "message",
+        "text": "haha I get it",
+        "user": "U15HRTAHL",
+        "ts": "1545081403.019000"
+    },
+    {
+        "client_msg_id": "cb5c2dd0-9f74-428f-b4c5-ec5ec1bd89b7",
+        "type": "message",
+        "text": "the god damn name of this \"urn\" value is \"urn:zywave.legacy_profile_prinical\" and the value is \"s\"",
+        "user": "U15HSHSS2",
+        "ts": "1545081408.019200"
+    },
+    {
+        "client_msg_id": "1291b0f4-9c1c-4853-9189-a15033c8bc41",
+        "type": "message",
+        "text": "lololololooo]",
+        "user": "U15HRTAHL",
+        "ts": "1545081419.019700"
+    },
+    {
+        "client_msg_id": "47f3c12f-776a-4d65-918d-3199c634f752",
+        "type": "message",
+        "text": "oooo lolol",
+        "user": "U15HY5TG8",
+        "ts": "1545081423.020000"
+    },
+    {
+        "client_msg_id": "91d49457-c414-4fdf-bf2c-437c1a02f7b8",
+        "type": "message",
+        "text": "I don’t blame you",
+        "user": "U15HRTAHL",
+        "ts": "1545081423.020100"
+    },
+    {
+        "client_msg_id": "6cd31f6d-70ac-4fba-bc82-b3d5877535b0",
+        "type": "message",
+        "text": "i thought it was \"urn\" and the value was \"zywave.legacy_profile_prinical=s\"",
+        "user": "U15HSHSS2",
+        "ts": "1545081434.020300",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1545081437.000000"
+        }
+    },
+    {
+        "client_msg_id": "e8cd1b5d-7992-41e4-a9ce-bca1bebaba8a",
+        "type": "message",
+        "text": "So when I did the ProfileId and Email I put \"ProfileId:123456789\"",
+        "user": "U15HSHSS2",
+        "ts": "1545081481.021400"
+    },
+    {
+        "client_msg_id": "41d188f4-c56f-4f0d-9aed-3a1e24e48e46",
+        "type": "message",
+        "text": "when it just needed to be \"ProfileId=123456789\"",
+        "user": "U15HSHSS2",
+        "ts": "1545081496.021700"
+    },
+    {
+        "client_msg_id": "826c62ae-f35c-498b-b7ec-cbd92cd2b9f2",
+        "type": "message",
+        "text": "Whatever, glad that shit is over now",
+        "user": "U15HSHSS2",
+        "ts": "1545081538.021900"
+    },
+    {
+        "client_msg_id": "8489444a-6e41-43f3-b442-094b1285c9b0",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1545081636.022200"
+    },
+    {
+        "client_msg_id": "7a7cafe0-0c36-4800-b1bf-40d4ba7e4bcc",
+        "type": "message",
+        "text": "I was reeeaal close to asking someone to come over and check what the fuck I was doing wrong",
+        "user": "U15HSHSS2",
+        "ts": "1545081666.022600"
+    },
+    {
+        "client_msg_id": "e3b68c5c-abbb-4ec3-a9cd-2757b3bc839a",
+        "type": "message",
+        "text": "woulda been embarrassing",
+        "user": "U15HSHSS2",
+        "ts": "1545081680.022900"
+    },
+    {
+        "client_msg_id": "2973bd3a-3e9a-45e1-81d4-1493849f36fe",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1545081860.023100"
+    },
+    {
+        "client_msg_id": "0779d349-106f-4baa-9a36-15f3020d059f",
+        "type": "message",
+        "text": "those are the kinda questions I ask sometimes",
+        "user": "U15HY5TG8",
+        "ts": "1545081867.023400"
+    },
+    {
+        "client_msg_id": "a0b2e397-73f6-4059-aa01-3904a149608a",
+        "type": "message",
+        "text": "It wouldn't have been so bad if I hadn't already been asking other stupid questions today",
+        "user": "U15HSHSS2",
+        "ts": "1545081934.023900"
+    },
+    {
+        "client_msg_id": "85dd16b7-da96-4a96-b079-cf875dcfb3ea",
+        "type": "message",
+        "text": "This would have just been icing on the cake",
+        "user": "U15HSHSS2",
+        "ts": "1545081947.024200"
+    },
+    {
+        "client_msg_id": "8e846e72-6f34-4eb6-888d-ca900f2e3039",
+        "type": "message",
+        "text": "what kind of application were you typing the commands in?",
+        "user": "U15HRTAHL",
+        "ts": "1545082887.024500"
+    },
+    {
+        "client_msg_id": "bcb94b9e-dfa6-43b3-bb63-a2dc53a2fba7",
+        "type": "message",
+        "text": "obviously the command line but for what type of program?",
+        "user": "U15HRTAHL",
+        "ts": "1545082898.024800"
+    },
+    {
+        "client_msg_id": "5db5abd0-352c-463e-bd28-efc5ac69e001",
+        "type": "message",
+        "text": "it took me forever to understand passing params to ant scripts",
+        "user": "U15HRTAHL",
+        "ts": "1545082919.025300"
+    },
+    {
+        "client_msg_id": "A3DC7EFF-7FBA-4BE4-8054-50DD59F22C53",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1545083142.025500"
+    },
+    {
+        "client_msg_id": "6B723FB3-52ED-49BE-89F4-D43B76AF7436",
+        "type": "message",
+        "text": "Build arguments?",
+        "user": "U15HY5TG8",
+        "ts": "1545083156.025800"
+    },
+    {
+        "client_msg_id": "0a82208e-2434-4e7c-9bc9-1ddfd0feb427",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1545083163.026000"
+    },
+    {
+        "client_msg_id": "de493213-2089-4b67-a027-060434ad86fb",
+        "type": "message",
+        "text": "passing a $ sign to a command script is virtually impossible by the way",
+        "user": "U15HRTAHL",
+        "ts": "1545083185.026600"
+    },
+    {
+        "client_msg_id": "c32faf0b-6b91-4721-ba2c-0530d0fd9d73",
+        "type": "message",
+        "text": "Try sudoing it",
+        "user": "U15J5H60P",
+        "ts": "1545083211.027100"
+    },
+    {
+        "client_msg_id": "1E704263-90ED-4721-98F8-A057F420CA8F",
+        "type": "message",
+        "text": "Well...its a variable declaration lol",
+        "user": "U15HY5TG8",
+        "ts": "1545083214.027300"
+    },
+    {
+        "client_msg_id": "c8ce458d-8b27-4f17-8e42-9d76259c933f",
+        "type": "message",
+        "text": "SUDO TAKE THE DOLLAR SIGN, BEOTCH",
+        "user": "U15J5H60P",
+        "ts": "1545083226.027700"
+    },
+    {
+        "client_msg_id": "8621B1C3-0677-42D5-BEE8-2FDEFA15BAA9",
+        "type": "message",
+        "text": "Why tf would you pass in a $?",
+        "user": "U15HY5TG8",
+        "ts": "1545083243.028300"
+    },
+    {
+        "client_msg_id": "49ca0118-ad2b-4e03-a184-9d1e9ff4b043",
+        "type": "message",
+        "text": "password\/security token",
+        "user": "U15HRTAHL",
+        "ts": "1545083254.028800"
+    },
+    {
+        "client_msg_id": "3f0d291a-08e6-4b84-8049-647c80178cfe",
+        "type": "message",
+        "text": "Sudo is just a command so the computer understands to listen to your plain english",
+        "user": "U15J5H60P",
+        "ts": "1545083258.029000"
+    },
+    {
+        "client_msg_id": "308c7637-2857-4328-8479-20adde6379ab",
+        "type": "message",
+        "text": "Sudo = \"LISTEN UP MOTHA FUCKA\"",
+        "user": "U15J5H60P",
+        "ts": "1545083263.029200"
+    },
+    {
+        "client_msg_id": "749FA390-9F98-42E3-9058-8CC06DF0B9A4",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1545083272.029400"
+    },
+    {
+        "client_msg_id": "92CC8572-1B30-4691-BFCC-36D9DA8D30D8",
+        "type": "message",
+        "text": "Escape char",
+        "user": "U15HY5TG8",
+        "ts": "1545083285.029600"
+    },
+    {
+        "client_msg_id": "30923fb6-f96b-498a-ab75-fc2f39a7f65e",
+        "type": "message",
+        "text": "FUCKING SHIT. ctrl+c, ctrl-v FUCKED ME THE FUCK UP RIGHT NOW",
+        "user": "U15HY5TG8",
+        "ts": "1545101672.000500"
+    },
+    {
+        "client_msg_id": "85025aae-b1fc-4ce7-afab-dd0a63e5babb",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1545101704.000700"
+    },
+    {
+        "client_msg_id": "94bc2368-8286-47e7-a0e7-06faa4a48381",
+        "type": "message",
+        "text": "good thing ctrl+z exists",
+        "user": "U15HSHSS2",
+        "ts": "1545101727.001000"
+    },
+    {
+        "client_msg_id": "69137574-B8C1-4578-BA77-2A34F05FF6A3",
+        "type": "message",
+        "text": "This^",
+        "user": "U15J5H60P",
+        "ts": "1545101758.001300"
+    },
+    {
+        "client_msg_id": "e1cecd9d-31cf-4938-bd50-ec11ab3d9233",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HY5TG8",
+        "ts": "1545101785.001500"
+    },
+    {
+        "client_msg_id": "9e0c7ad8-8cb8-4048-9e89-1233170156db",
+        "type": "message",
+        "text": "I deployed to prod because that's the only way I could clean up data",
+        "user": "U15HY5TG8",
+        "ts": "1545101802.001900"
+    },
+    {
+        "client_msg_id": "25bebda8-bbb2-4d50-87e7-823a767d478e",
+        "type": "message",
+        "text": "but in cleaning up data, I wiped 50 peoples passwords",
+        "user": "U15HY5TG8",
+        "ts": "1545101815.002300"
+    },
+    {
+        "client_msg_id": "CD1A79A2-AAF4-483D-8BC5-864E0964110D",
+        "type": "message",
+        "text": "Lmaoooooo",
+        "user": "U15J5H60P",
+        "ts": "1545102062.002400"
+    },
+    {
+        "client_msg_id": "CD97076C-7EC5-4C4D-AAA8-478B4744E02B",
+        "type": "message",
+        "text": "You're fired",
+        "user": "U15J5H60P",
+        "ts": "1545102064.002500"
+    },
+    {
+        "client_msg_id": "6e42f210-9e80-4743-9653-5aea7b5aaaed",
+        "type": "message",
+        "text": "I've got a sql backup from 3 months ago.... that outta do it",
+        "user": "U15HY5TG8",
+        "ts": "1545103438.003000"
+    },
+    {
+        "client_msg_id": "5647509C-7842-4C21-8DF7-7F7C20FE20C2",
+        "type": "message",
+        "text": "First thing I said when you stated. Don’t delete prod",
+        "user": "U15HSHSS2",
+        "ts": "1545104742.003400"
+    },
+    {
+        "client_msg_id": "B1E6EEED-D4A7-4AAA-B712-2CF6509F3ED0",
+        "type": "message",
+        "text": "Hahah",
+        "user": "U15HY5TG8",
+        "ts": "1545104769.003600"
+    },
+    {
+        "client_msg_id": "411D641C-AF09-4280-9558-5AC7CF6DCB93",
+        "type": "message",
+        "text": "This is for the side project. Im still good to go on MT",
+        "user": "U15HY5TG8",
+        "ts": "1545104791.004300"
+    },
+    {
+        "client_msg_id": "7261282D-A2F4-4179-87AB-7344A2063BBB",
+        "type": "message",
+        "text": "Phheeww",
+        "user": "U15HSHSS2",
+        "ts": "1545104948.004500"
+    },
+    {
+        "client_msg_id": "525fdf0e-b366-4c00-b0e9-fa5097ab7713",
+        "type": "message",
+        "text": "means I still got time to fuck that up too",
+        "user": "U15HY5TG8",
+        "ts": "1545105052.004900"
+    },
+    {
+        "client_msg_id": "0D1CF971-8A16-4EB3-8424-A8FECBDF7728",
+        "type": "message",
+        "text": ":beers:",
+        "user": "U15HSHSS2",
+        "ts": "1545105124.005100"
+    },
+    {
+        "client_msg_id": "bbe38a31-9be7-498c-96f2-c88e352200bf",
+        "type": "message",
+        "text": "soooo this one lady's password from 3 months ago is \"Fucker123\" and I'm nervous about putting that as her current one lol",
+        "user": "U15HY5TG8",
+        "ts": "1545105216.005900"
+    },
+    {
+        "client_msg_id": "B686875C-E4A7-4EC2-8717-725FF0AA623E",
+        "type": "message",
+        "text": "lol you save plain text passwords??",
+        "user": "U15HSHSS2",
+        "ts": "1545105252.006600"
+    },
+    {
+        "client_msg_id": "229135f6-597b-4d23-b259-c01ad95383a7",
+        "type": "message",
+        "text": "the asshat who developed the database for this did, yeah",
+        "user": "U15HY5TG8",
+        "ts": "1545105474.007000"
+    },
+    {
+        "client_msg_id": "55e50277-1c43-42c7-9f5c-1477721e7de2",
+        "type": "message",
+        "text": "AND he has 5 different tables for different login types instead of just doing one table with a column that refers to the type",
+        "user": "U15HY5TG8",
+        "ts": "1545105514.007900"
+    },
+    {
+        "client_msg_id": "BA0CB0EF-C18C-4777-AE34-3013169EBD6A",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HSHSS2",
+        "ts": "1545105564.008100"
+    },
+    {
+        "client_msg_id": "61008166-6185-4552-b8d8-c86eb0a05d7e",
+        "type": "message",
+        "text": "also, like 50% of these people never change their password from the default lol",
+        "user": "U15HY5TG8",
+        "ts": "1545106019.008600"
+    },
+    {
+        "client_msg_id": "a1b561d9-86c0-4b75-b56c-80f5307d34a3",
+        "type": "message",
+        "text": "Holy shit Evan",
+        "user": "U15HRTAHL",
+        "ts": "1545106098.009000"
+    },
+    {
+        "client_msg_id": "b08ae291-049f-4947-b699-3b9f15fa4ac5",
+        "type": "message",
+        "text": "1. Backup that data after you unfuck this\n2. Hash your passwords with bcrypt ",
+        "user": "U15HRTAHL",
+        "ts": "1545106132.009900"
+    },
+    {
+        "client_msg_id": "4ff95f9b-bc02-457a-8e01-0bcb959d5960",
+        "type": "message",
+        "text": "It's too late, there's no fixing this lol",
+        "user": "U15HY5TG8",
+        "ts": "1545106168.010300"
+    },
+    {
+        "client_msg_id": "9b87d52f-bd95-4703-bb0a-aeb0d8b93259",
+        "type": "message",
+        "text": "L",
+        "user": "U15J5H60P",
+        "ts": "1545106215.010500"
+    },
+    {
+        "client_msg_id": "bbf23a1f-93b6-495d-9d63-487bebb3fbab",
+        "type": "message",
+        "text": "M",
+        "user": "U15J5H60P",
+        "ts": "1545106215.010700"
+    },
+    {
+        "client_msg_id": "12301184-e766-4894-bd16-bdfe4816972b",
+        "type": "message",
+        "text": "A",
+        "user": "U15J5H60P",
+        "ts": "1545106216.010900"
+    },
+    {
+        "client_msg_id": "861c92db-0df3-4a27-9e17-9a1007df728e",
+        "type": "message",
+        "text": "O",
+        "user": "U15J5H60P",
+        "ts": "1545106217.011100"
+    },
+    {
+        "client_msg_id": "66764971-CD0C-4EBE-8396-72AB5ED90DFC",
+        "type": "message",
+        "text": "Hahaha",
+        "user": "U15HSHSS2",
+        "ts": "1545109350.035500"
+    }
+]

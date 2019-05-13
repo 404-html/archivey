@@ -1,0 +1,233 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/worldnews\/comments\/7w4zsk\/european_parliament_approves_proposal_to_end\/>",
+        "user": "U15HRTAHL",
+        "ts": "1518117377.000003",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "European Parliament approves proposal to end 'Daylight Saving Time' • r\/worldnews",
+                "title_link": "https:\/\/www.reddit.com\/r\/worldnews\/comments\/7w4zsk\/european_parliament_approves_proposal_to_end\/",
+                "text": "23234 points and 1313 comments so far on reddit",
+                "fallback": "reddit: European Parliament approves proposal to end 'Daylight Saving Time' • r\/worldnews",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/worldnews\/comments\/7w4zsk\/european_parliament_approves_proposal_to_end\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":pray:",
+        "user": "U15HRTAHL",
+        "ts": "1518117379.000086"
+    },
+    {
+        "client_msg_id": "03A785C5-5E35-4C48-BF55-E12E19977A33",
+        "type": "message",
+        "text": "¿Por que esta aqui?",
+        "user": "U15HY5TG8",
+        "ts": "1518117758.000784"
+    },
+    {
+        "client_msg_id": "EF56BBFA-941F-43CA-83F9-F0D09CBC7D41",
+        "type": "message",
+        "text": "Im annoyed with life today",
+        "user": "U15HY5TG8",
+        "ts": "1518121715.000394"
+    },
+    {
+        "type": "message",
+        "text": "why's that",
+        "user": "U15HRTAHL",
+        "ts": "1518121747.000256"
+    },
+    {
+        "type": "message",
+        "text": "I'm sorry to hear that. Anything we can help with?",
+        "user": "U15J5H60P",
+        "ts": "1518121868.000144"
+    },
+    {
+        "client_msg_id": "7533A0AB-2FC4-4E54-9CF6-7E76F1C2AE2F",
+        "type": "message",
+        "text": "Yeah heres some bullshit lol. Ive got 4 places that use a stored procedure. 3 of those places want to see every record meeting the criteria. The 1 place only wants to see distinct values. How do i satisfy both conditions? Make an if statement in the stored procedure to see if its the outlier?",
+        "user": "U15HY5TG8",
+        "ts": "1518122488.000076"
+    },
+    {
+        "type": "message",
+        "text": "How big is the sproc?",
+        "user": "U15HSHSS2",
+        "ts": "1518123086.000643"
+    },
+    {
+        "client_msg_id": "7C66BDF6-49D2-4378-BC1F-4EC3AA2EAA86",
+        "type": "message",
+        "text": "Probably about 70 lines or so",
+        "user": "U15HY5TG8",
+        "ts": "1518123190.000527"
+    },
+    {
+        "type": "message",
+        "text": "I mean you could just make two separate sprocs. one that does distinct and what that does all of them",
+        "user": "U15HSHSS2",
+        "ts": "1518123450.000078"
+    },
+    {
+        "type": "message",
+        "text": "besides that, you'd have to have some conditional logic in an if statement",
+        "user": "U15HSHSS2",
+        "ts": "1518123472.000168"
+    },
+    {
+        "client_msg_id": "196BD839-4A23-4985-9AFA-F0536B9ED883",
+        "type": "message",
+        "text": "I suppose...hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1518123482.000314"
+    },
+    {
+        "type": "message",
+        "text": "We should all go to some software engineering conference sometime",
+        "user": "U15HSHSS2",
+        "ts": "1518125692.000129"
+    },
+    {
+        "client_msg_id": "29EDA33E-D894-491A-894E-3AE681F02A12",
+        "type": "message",
+        "text": "I'm going to Microsoft ignite in September I think",
+        "user": "U15J5H60P",
+        "ts": "1518126190.000217"
+    },
+    {
+        "client_msg_id": "4B41D437-24C0-49B4-AE2B-6AD922B4CE2D",
+        "type": "message",
+        "text": "Im down",
+        "user": "U15HY5TG8",
+        "ts": "1518126219.000018"
+    },
+    {
+        "client_msg_id": "564452D6-DBEE-4B0B-AC46-CCB5C334F5C4",
+        "type": "message",
+        "text": "Defcon?",
+        "user": "U15HY5TG8",
+        "ts": "1518126222.000241"
+    },
+    {
+        "client_msg_id": "C5284D2F-7760-4EF1-8653-F929E2E031BC",
+        "type": "message",
+        "text": "No. I can't get that paid for",
+        "user": "U15J5H60P",
+        "ts": "1518126233.000693"
+    },
+    {
+        "client_msg_id": "BD97569A-A0D8-4924-A109-811BBF152213",
+        "type": "message",
+        "text": "We should convince james to go to vegas on july 30th lol",
+        "user": "U15HY5TG8",
+        "ts": "1518126269.000149"
+    },
+    {
+        "client_msg_id": "CD42E8A3-4687-45CD-A6D8-85322AE97EE1",
+        "type": "message",
+        "text": "But thats lame",
+        "user": "U15HY5TG8",
+        "ts": "1518126277.000232"
+    },
+    {
+        "client_msg_id": "123C6908-DAD4-4162-B265-D6E31C4E796F",
+        "type": "message",
+        "text": "Why the 30th?",
+        "user": "U15J5H60P",
+        "ts": "1518126366.000177"
+    },
+    {
+        "client_msg_id": "48EBCD81-D2EB-49AE-B36A-CF9F974F422A",
+        "type": "message",
+        "text": "Why didn't you say that when he asked? Lol",
+        "user": "U15J5H60P",
+        "ts": "1518126376.000584"
+    },
+    {
+        "client_msg_id": "721C5107-545D-4A67-BDED-5E95FBC23C6C",
+        "type": "message",
+        "text": "Thats when defcon is lol and i only advised we go later towards fall or whatever",
+        "user": "U15HY5TG8",
+        "ts": "1518126413.000732"
+    },
+    {
+        "client_msg_id": "BC5AEF62-7E49-4747-B8AD-8154F0ADFEE2",
+        "type": "message",
+        "text": "Ah gotcha ",
+        "user": "U15J5H60P",
+        "ts": "1518126437.000160"
+    },
+    {
+        "client_msg_id": "2CEA7AF7-2F96-4C4B-B357-1CA9093DA9DB",
+        "type": "message",
+        "text": "My phone is having an aneurism. Its constantly vibrating because i unlocked it while your message came through",
+        "user": "U15HY5TG8",
+        "ts": "1518126458.000255"
+    },
+    {
+        "type": "message",
+        "text": "Wonder if Zywave would pay for anything like that...",
+        "user": "U15HSHSS2",
+        "ts": "1518126983.000515"
+    },
+    {
+        "type": "message",
+        "text": "~When and~ where is Microsoft Ignite?",
+        "user": "U15HSHSS2",
+        "ts": "1518126997.000602",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1518127039.000000"
+        }
+    },
+    {
+        "client_msg_id": "B31C3B8C-46CF-43F0-837D-1EAB06C8DF25",
+        "type": "message",
+        "text": "I think it's in Vegas",
+        "user": "U15J5H60P",
+        "ts": "1518127350.000286"
+    },
+    {
+        "client_msg_id": "0B92B057-CC73-4706-A50F-DA482AB98F77",
+        "type": "message",
+        "text": "Or Texas",
+        "user": "U15J5H60P",
+        "ts": "1518127354.000215"
+    },
+    {
+        "client_msg_id": "C849CCD3-EDAD-453F-8361-5DF381BBF6C3",
+        "type": "message",
+        "text": "Nope Orlando FL",
+        "user": "U15J5H60P",
+        "ts": "1518127424.000087"
+    },
+    {
+        "client_msg_id": "D432BE0C-B95B-436B-A370-E5D7068330DE",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1518127621.000471"
+    },
+    {
+        "type": "message",
+        "text": "msdn docs piss me the fuck off",
+        "user": "U15HY5TG8",
+        "ts": "1518140277.000205"
+    },
+    {
+        "type": "message",
+        "text": "whys that",
+        "user": "U15HRTAHL",
+        "ts": "1518148499.000239"
+    }
+]

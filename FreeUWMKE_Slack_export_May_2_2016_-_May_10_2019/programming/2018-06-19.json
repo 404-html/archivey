@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "f1aff763-6604-4040-80c1-eb3ae9854a94",
+        "type": "message",
+        "text": "we just got MS Teams and I'm sad",
+        "user": "U15HY5TG8",
+        "ts": "1529423141.001016"
+    },
+    {
+        "client_msg_id": "04d5cf00-7d27-4439-a55d-b19d7fa0ef9c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1529423147.000280"
+    },
+    {
+        "client_msg_id": "e210447d-f825-488e-8b61-77950d2fb63f",
+        "type": "message",
+        "text": "We have it too",
+        "user": "U15HRTAHL",
+        "ts": "1529423256.000325"
+    },
+    {
+        "client_msg_id": "c8093674-6c5a-4404-8e35-63c8a2a00dee",
+        "type": "message",
+        "text": "lol yeah we've had that for awhile",
+        "user": "U15HSHSS2",
+        "ts": "1529423404.000829"
+    },
+    {
+        "client_msg_id": "103330e0-52b4-442e-a03c-d888841a4cbe",
+        "type": "message",
+        "text": "the only thing good is that you can do your own meme generation",
+        "user": "U15HY5TG8",
+        "ts": "1529431173.000682"
+    },
+    {
+        "client_msg_id": "42b92ddf-d06a-492f-bbcc-ea805659dc00",
+        "type": "message",
+        "text": "except even with that, they don't save it as part of your local history",
+        "user": "U15HY5TG8",
+        "ts": "1529431187.000385"
+    },
+    {
+        "client_msg_id": "10e95617-f5a8-43d5-a2fd-1083fdeb92c0",
+        "type": "message",
+        "text": "Did I show you guys this?",
+        "user": "U15HRTAHL",
+        "ts": "1529440121.000014"
+    },
+    {
+        "client_msg_id": "0e4d6cc3-db07-477a-b51b-e3dd352627c9",
+        "type": "message",
+        "text": "<https:\/\/developers.google.com\/machine-learning\/crash-course\/>",
+        "user": "U15HRTAHL",
+        "ts": "1529440121.000685",
+        "attachments": [
+            {
+                "service_name": "Google Developers",
+                "title": "Machine Learning Crash Course  |  Google Developers",
+                "title_link": "https:\/\/developers.google.com\/machine-learning\/crash-course\/",
+                "text": "An intensive, practical 20-hour introduction to machine learning fundamentals, with companion TensorFlow exercises.",
+                "fallback": "Google Developers: Machine Learning Crash Course  |  Google Developers",
+                "image_url": "https:\/\/developers.google.com\/machine-learning\/crash-course\/images\/mlcc-hero.png",
+                "image_width": 452,
+                "image_height": 250,
+                "from_url": "https:\/\/developers.google.com\/machine-learning\/crash-course\/",
+                "image_bytes": 5821137,
+                "service_icon": "https:\/\/developers.google.com\/_static\/f3998f9c12\/images\/touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/developers.google.com\/machine-learning\/crash-course\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "94201a4d-557b-46cf-8555-4b910de9622c",
+        "type": "message",
+        "text": "You might've",
+        "user": "U15J5H60P",
+        "ts": "1529440836.000550"
+    },
+    {
+        "client_msg_id": "A2D49176-3607-4740-9A81-848BBD7BA0CD",
+        "type": "message",
+        "text": "Im not sure ive seen it",
+        "user": "U15HY5TG8",
+        "ts": "1529440870.000495"
+    },
+    {
+        "client_msg_id": "a44fc3ed-254f-4e8f-870f-de843e2f20f8",
+        "type": "message",
+        "text": "github’s support form allows you to use html",
+        "user": "U15HRTAHL",
+        "ts": "1529441753.000511"
+    },
+    {
+        "client_msg_id": "5959e95d-6bf7-4a63-a3fa-7e486e25b7c5",
+        "type": "message",
+        "text": "I wonder if you can xss it",
+        "user": "U15HRTAHL",
+        "ts": "1529441764.000081"
+    },
+    {
+        "client_msg_id": "c03e5648-8f2f-4e6d-ad25-5313ca0e3e19",
+        "type": "message",
+        "text": "Check out @valleyhack’s Tweet: <https:\/\/twitter.com\/valleyhack\/status\/1009271572786368512?s=09>",
+        "user": "U15HRTAHL",
+        "ts": "1529470370.000206",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/valleyhack|@valleyhack>: Look at this list of tech talent\/legends and it makes you wonder how Sun isn't still ruling the world <https:\/\/en.wikipedia.org\/wiki\/List_of_Sun_Microsystems_employees>",
+                "ts": 1529464068,
+                "author_name": "Ashlee Vance",
+                "author_link": "https:\/\/twitter.com\/valleyhack\/status\/1009271572786368512",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/961884276118687745\/VKtrw39y_normal.jpg",
+                "author_subname": "@valleyhack",
+                "text": "Look at this list of tech talent\/legends and it makes you wonder how Sun isn't still ruling the world <https:\/\/en.wikipedia.org\/wiki\/List_of_Sun_Microsystems_employees>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/valleyhack\/status\/1009271572786368512?s=09",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/valleyhack\/status\/1009271572786368512?s=09",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "client_msg_id": "4ef9aef7-8af2-40cd-aa2d-e2b24c87f216",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/x9triplll1v11.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1540819227.000200",
+        "attachments": [
+            {
+                "fallback": "720x395px image",
+                "image_url": "https:\/\/i.redd.it\/x9triplll1v11.jpg",
+                "image_width": 720,
+                "image_height": 395,
+                "image_bytes": 30182,
+                "from_url": "https:\/\/i.redd.it\/x9triplll1v11.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/x9triplll1v11.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6e97169f-a827-4366-9cd6-7c6d7abbfcec",
+        "type": "message",
+        "text": "That one made me laugh ",
+        "user": "U15HRTAHL",
+        "ts": "1540819236.000600"
+    },
+    {
+        "client_msg_id": "88835392-4B07-42CE-B036-B4811FA3E28C",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing:",
+        "user": "U15J5H60P",
+        "ts": "1540819255.000800"
+    },
+    {
+        "client_msg_id": "85E82A73-FDE3-4D41-91F0-A69A5B6EEC0B",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1540819453.001000"
+    },
+    {
+        "client_msg_id": "7d6cc3dd-7203-4e4e-b970-55594eb3dfc5",
+        "type": "message",
+        "text": "We hired a female engineer who worked on the skype product team",
+        "user": "U15HRTAHL",
+        "ts": "1540821804.001400"
+    },
+    {
+        "client_msg_id": "f62c5e80-c17c-43c1-be11-e8b72f16594c",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1540823407.001600"
+    },
+    {
+        "client_msg_id": "ae5f8ed8-cd75-4c50-9a71-26792630382f",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1540826216.001800"
+    },
+    {
+        "client_msg_id": "f3245707-bd83-40b5-9ff4-1a7c58f217bb",
+        "type": "message",
+        "text": "Do you ever do Unity work?",
+        "user": "U15J5H60P",
+        "ts": "1540826220.002000"
+    },
+    {
+        "client_msg_id": "6ff51e83-2459-4786-b8e4-5ce0d502785b",
+        "type": "message",
+        "text": "occasionally",
+        "user": "U15HSHSS2",
+        "ts": "1540826237.002200"
+    },
+    {
+        "client_msg_id": "e4a282d9-3f6b-4f6b-9b98-4fa35df6596d",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Unity-Technologies\/FPSSample>",
+        "user": "U15J5H60P",
+        "ts": "1540826239.002400",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Unity-Technologies\/FPSSample",
+                "title_link": "https:\/\/github.com\/Unity-Technologies\/FPSSample",
+                "text": "A first person multiplayer shooter example project in Unity - Unity-Technologies\/FPSSample",
+                "fallback": "GitHub: Unity-Technologies\/FPSSample",
+                "from_url": "https:\/\/github.com\/Unity-Technologies\/FPSSample",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/426196?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/Unity-Technologies\/FPSSample"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df6e3ab9-f10e-43a0-a5a5-d2360ac5767f",
+        "type": "message",
+        "text": "Looks like a cool way to screw around with FPS ideas",
+        "user": "U15J5H60P",
+        "ts": "1540826256.003000"
+    },
+    {
+        "client_msg_id": "3ff8e150-5963-4afe-b774-0bd9720741ee",
+        "type": "message",
+        "text": "<https:\/\/unity.com\/fps-sample>",
+        "user": "U15J5H60P",
+        "ts": "1540826271.003500",
+        "attachments": [
+            {
+                "service_name": "Unity",
+                "title": "FPS Sample Game Workflows | Unity",
+                "title_link": "https:\/\/unity.com\/fps-sample",
+                "text": "Unity is the ultimate game development platform. Use Unity to build high-quality 3D and 2D games, deploy them across mobile, desktop, VR\/AR, consoles or the Web, and connect with loyal and enthusiastic players and customers.",
+                "fallback": "Unity: FPS Sample Game Workflows | Unity",
+                "image_url": "https:\/\/unity3d.com\/files\/images\/ogimg.jpg",
+                "from_url": "https:\/\/unity.com\/fps-sample",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 88446,
+                "service_icon": "https:\/\/unity.com\/themes\/contrib\/unity_base\/images\/favicons\/apple-touch-icon-152x152.png",
+                "id": 1,
+                "original_url": "https:\/\/unity.com\/fps-sample"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "52c42350-6b25-4b7a-907b-57f403afdeee",
+        "type": "message",
+        "text": "Wayy more complicated than something like Gamemaker, but a lot more powerful",
+        "user": "U15HSHSS2",
+        "ts": "1540826279.003800"
+    },
+    {
+        "client_msg_id": "c7412d5d-fe95-4fd6-bf52-479825db991e",
+        "type": "message",
+        "text": "I bet!",
+        "user": "U15J5H60P",
+        "ts": "1540826293.004000"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1540826293.004100",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media0.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif?cid=6104955e5bd724b6552e4d7649f50b60",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "121236ad-edcb-4812-ba84-28511ef9ffb8",
+        "type": "message",
+        "text": "It can’t be that hard",
+        "user": "U15HRTAHL",
+        "ts": "1540826337.004800"
+    },
+    {
+        "client_msg_id": "4b7b41e4-d507-4602-9ff7-7771b494d1f4",
+        "type": "message",
+        "text": "The sample looks awesome though, looks like a great opportunity to test some ideas",
+        "user": "U15J5H60P",
+        "ts": "1540826339.005000"
+    },
+    {
+        "client_msg_id": "3ee05614-8e43-4849-9ebd-442db469face",
+        "type": "message",
+        "text": "I bet I can quit my job",
+        "user": "U15HRTAHL",
+        "ts": "1540826341.005100"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1540826342.005300"
+    },
+    {
+        "client_msg_id": "a5a54a91-25ee-4f8a-9983-22b15e5c2866",
+        "type": "message",
+        "text": "and make a fps in 6 months",
+        "user": "U15HRTAHL",
+        "ts": "1540826348.005500",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1540826352.000000"
+        }
+    },
+    {
+        "client_msg_id": "4d16f725-7f8f-4d23-a966-27976dadeef4",
+        "type": "message",
+        "text": "with 0 knowledge on game dev",
+        "user": "U15HRTAHL",
+        "ts": "1540826365.005900"
+    },
+    {
+        "client_msg_id": "d7dd252e-7770-47f0-abb0-e2a54202a6c1",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1540826378.006100"
+    },
+    {
+        "client_msg_id": "36685eb1-c97f-44ae-92f4-0e519163188b",
+        "type": "message",
+        "text": "Easy.",
+        "user": "U15HSHSS2",
+        "ts": "1540826387.006300"
+    },
+    {
+        "client_msg_id": "6d153576-a66c-4641-8d6f-87dd10094a70",
+        "type": "message",
+        "text": "Free money.",
+        "user": "U15HSHSS2",
+        "ts": "1540826392.006500"
+    },
+    {
+        "client_msg_id": "95b9b5dc-6071-4167-8ebb-acd00d482a3f",
+        "type": "message",
+        "text": "Might as well print it",
+        "user": "U15J5H60P",
+        "ts": "1540826402.006900"
+    },
+    {
+        "client_msg_id": "3b0f1347-37cf-42c6-b662-5ae2a0f0f60b",
+        "type": "message",
+        "text": "Quick make an FPS, make millions off it. Retire",
+        "user": "U15HSHSS2",
+        "ts": "1540826404.007000"
+    },
+    {
+        "client_msg_id": "dcbc17d1-ea7b-457b-932e-6dfb3fca226b",
+        "type": "message",
+        "text": "Just pull the repo and publish it to steam for $40",
+        "user": "U15J5H60P",
+        "ts": "1540826417.007300"
+    },
+    {
+        "client_msg_id": "3e155eca-2481-4012-8361-30dd91dbf7af",
+        "type": "message",
+        "text": "\"Open Beta\"",
+        "user": "U15J5H60P",
+        "ts": "1540826422.007500"
+    },
+    {
+        "client_msg_id": "aada09f1-173d-4737-b88c-4d08f752467d",
+        "type": "message",
+        "text": "Throw a few loot crates in there",
+        "user": "U15HSHSS2",
+        "ts": "1540826439.007900"
+    },
+    {
+        "client_msg_id": "92e72de3-3ee3-45b3-9a89-445041df44da",
+        "type": "message",
+        "text": "done",
+        "user": "U15HSHSS2",
+        "ts": "1540826440.008100"
+    },
+    {
+        "client_msg_id": "9428e2c4-fae5-4fa7-98aa-a5bf98ffbdbb",
+        "type": "message",
+        "text": "done",
+        "user": "U15J5H60P",
+        "ts": "1540826444.008300"
+    },
+    {
+        "client_msg_id": "A485845F-2029-4957-B2CA-DE1DDD66BDDB",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1540841955.008700"
+    }
+]

@@ -1,0 +1,1701 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462915128.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462915128.000003",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462915128.000004",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "Yo",
+        "user": "U15J5H60P",
+        "ts": "1462916262.000005"
+    },
+    {
+        "type": "message",
+        "text": "How’s everything coming along? I’m making good progress on the prototype",
+        "user": "U15J5H60P",
+        "ts": "1462916275.000006"
+    },
+    {
+        "type": "message",
+        "text": "Anyone?",
+        "user": "U15J5H60P",
+        "ts": "1462916977.000007"
+    },
+    {
+        "type": "message",
+        "text": "I just finished my phase 1 shit, adding it in now",
+        "user": "U15HSHSS2",
+        "ts": "1462917017.000008"
+    },
+    {
+        "type": "message",
+        "text": "Alright. Remember, we’re redoing MOBILE D2L not D2L in general. (There is no tab button on mobile. :wink: )",
+        "user": "U15J5H60P",
+        "ts": "1462917075.000009"
+    },
+    {
+        "type": "message",
+        "text": "phase one asks for now the current system works, not our new system",
+        "user": "U15HSHSS2",
+        "ts": "1462917106.000010"
+    },
+    {
+        "type": "message",
+        "text": "how*",
+        "user": "U15HSHSS2",
+        "ts": "1462917110.000011"
+    },
+    {
+        "type": "message",
+        "text": "Ahh gotcha",
+        "user": "U15J5H60P",
+        "ts": "1462917123.000012"
+    },
+    {
+        "type": "message",
+        "text": "Well then technically",
+        "user": "U15J5H60P",
+        "ts": "1462917134.000013"
+    },
+    {
+        "type": "message",
+        "text": "I mean",
+        "user": "U15J5H60P",
+        "ts": "1462917137.000014"
+    },
+    {
+        "type": "message",
+        "text": "If we were really to be technical",
+        "user": "U15J5H60P",
+        "ts": "1462917141.000015"
+    },
+    {
+        "type": "message",
+        "text": "You can’t take quizzes on mobile",
+        "user": "U15J5H60P",
+        "ts": "1462917147.000016"
+    },
+    {
+        "type": "message",
+        "text": "You can look at content that’s it",
+        "user": "U15J5H60P",
+        "ts": "1462917165.000017"
+    },
+    {
+        "type": "message",
+        "text": "I don’t even think you can look at grades on mobile",
+        "user": "U15J5H60P",
+        "ts": "1462917170.000018"
+    },
+    {
+        "type": "message",
+        "text": "This is why this project is not making sense.",
+        "user": "U15J5H60P",
+        "ts": "1462917179.000019"
+    },
+    {
+        "type": "message",
+        "text": "lol I mean ive been doing this whole project in terms of there is no existing mobile version of d2l, and we are creating one",
+        "user": "U15HSHSS2",
+        "ts": "1462917221.000020"
+    },
+    {
+        "type": "message",
+        "text": "so the current system is just the desktop versoin",
+        "user": "U15HSHSS2",
+        "ts": "1462917231.000021"
+    },
+    {
+        "type": "message",
+        "text": "Ah gotcha. Sounds good.",
+        "user": "U15J5H60P",
+        "ts": "1462917240.000022"
+    },
+    {
+        "type": "message",
+        "text": "i know one exists, but it can do pretty much nothing",
+        "user": "U15HSHSS2",
+        "ts": "1462917241.000023"
+    },
+    {
+        "type": "message",
+        "text": "Exactly",
+        "user": "U15J5H60P",
+        "ts": "1462917245.000024"
+    },
+    {
+        "type": "message",
+        "text": "It’s useless",
+        "user": "U15J5H60P",
+        "ts": "1462917249.000025"
+    },
+    {
+        "type": "message",
+        "text": "alright, my phase 1 shit is in there",
+        "user": "U15HSHSS2",
+        "ts": "1462917615.000026"
+    },
+    {
+        "type": "message",
+        "text": "Woo. <@U15HZ01QX> where are you at?",
+        "user": "U15J5H60P",
+        "ts": "1462917732.000027"
+    },
+    {
+        "type": "message",
+        "text": "In phase 2 try to talk a little bit about how the current MOBILE D2L site sucks",
+        "user": "U15J5H60P",
+        "ts": "1462917882.000028"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>:",
+        "user": "U15J5H60P",
+        "ts": "1462917885.000029"
+    },
+    {
+        "type": "message",
+        "text": "aight",
+        "user": "U15HSHSS2",
+        "ts": "1462917901.000030"
+    },
+    {
+        "type": "message",
+        "text": "also i guess i need some screen shots to throw in there",
+        "user": "U15HSHSS2",
+        "ts": "1462917924.000031"
+    },
+    {
+        "type": "message",
+        "text": "Screenshots of what exactly?",
+        "user": "U15J5H60P",
+        "ts": "1462917942.000032"
+    },
+    {
+        "type": "message",
+        "text": "not really sure, just the stuff I am discussing in the design explanation. like we talk about how our app uses the principle of consistency, so im assuming he wants screen shots of where its consistent and how",
+        "user": "U15HSHSS2",
+        "ts": "1462918020.000033"
+    },
+    {
+        "type": "message",
+        "text": "Okay.",
+        "user": "U15J5H60P",
+        "ts": "1462918043.000034"
+    },
+    {
+        "type": "message",
+        "text": "We keep each page consistent. For classes we use this list like system. For quizzes you’ll see the same format.",
+        "files": [
+            {
+                "id": "F17PZ9KEG",
+                "created": 1462918140,
+                "timestamp": 1462918140,
+                "name": "Pasted image at 2016_05_10 05_08 PM.png",
+                "title": "Pasted image at 2016 05 10 05 08 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 148444,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17PZ9KEG\/pasted_image_at_2016_05_10_05_08_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17PZ9KEG\/download\/pasted_image_at_2016_05_10_05_08_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 201,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 269,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 403,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 537,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17PZ9KEG-d2de4c7f89\/pasted_image_at_2016_05_10_05_08_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 573,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 734,
+                "original_h": 1312,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17PZ9KEG\/pasted_image_at_2016_05_10_05_08_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17PZ9KEG-079214361c",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462918145.000035"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F17QA37HT",
+                "created": 1462918167,
+                "timestamp": 1462918167,
+                "name": "Pasted image at 2016_05_10 05_09 PM.png",
+                "title": "Pasted image at 2016-05-10, 5:09 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 88163,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17QA37HT\/pasted_image_at_2016_05_10_05_09_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17QA37HT\/download\/pasted_image_at_2016_05_10_05_09_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 227,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 303,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 454,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 606,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QA37HT-12467f1aa1\/pasted_image_at_2016_05_10_05_09_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 646,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 738,
+                "original_h": 1170,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17QA37HT\/pasted_image_at_2016_05_10_05_09_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17QA37HT-f940437c36",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462918172.000036"
+    },
+    {
+        "type": "message",
+        "text": "Are those good?",
+        "user": "U15J5H60P",
+        "ts": "1462918593.000037"
+    },
+    {
+        "type": "message",
+        "text": "All elements look very similar",
+        "user": "U15J5H60P",
+        "ts": "1462918615.000038"
+    },
+    {
+        "type": "message",
+        "text": "Consistent colors and fonts throughout",
+        "user": "U15J5H60P",
+        "ts": "1462918630.000039"
+    },
+    {
+        "type": "message",
+        "text": "I'm gunna need a few more, but ill let you know when i have more details",
+        "user": "U15HSHSS2",
+        "ts": "1462918630.000040"
+    },
+    {
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1462918634.000041"
+    },
+    {
+        "type": "message",
+        "text": "how the fuck do i insert a text box on google docs",
+        "user": "U15HSHSS2",
+        "ts": "1462918822.000042"
+    },
+    {
+        "type": "message",
+        "text": "I don’t think you can…",
+        "user": "U15J5H60P",
+        "ts": "1462919118.000043"
+    },
+    {
+        "type": "message",
+        "text": "I found it, its dumb",
+        "user": "U15HSHSS2",
+        "ts": "1462919128.000044"
+    },
+    {
+        "type": "message",
+        "text": "andrew what happens when you click a class",
+        "user": "U15HSHSS2",
+        "ts": "1462920080.000045"
+    },
+    {
+        "type": "message",
+        "text": "I clicked on Intro to Operating Systems",
+        "files": [
+            {
+                "id": "F17QTU67L",
+                "created": 1462920108,
+                "timestamp": 1462920108,
+                "name": "Pasted image at 2016_05_10 05_41 PM.png",
+                "title": "Pasted image at 2016-05-10, 5:41 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 114377,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17QTU67L\/pasted_image_at_2016_05_10_05_41_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17QTU67L\/download\/pasted_image_at_2016_05_10_05_41_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 240,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 320,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 480,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 641,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17QTU67L-e3edd8c0dd\/pasted_image_at_2016_05_10_05_41_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 683,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 710,
+                "original_h": 1064,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17QTU67L\/pasted_image_at_2016_05_10_05_41_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17QTU67L-3f76ab8e20",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462920111.000046"
+    },
+    {
+        "type": "message",
+        "text": "so are we actually having someone evaluate this thing or  are we just bullshitting it?",
+        "user": "U15HSHSS2",
+        "ts": "1462921648.000047"
+    },
+    {
+        "type": "message",
+        "text": "In phase 3?",
+        "user": "U15HZ01QX",
+        "ts": "1462921706.000048"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1462921895.000049"
+    },
+    {
+        "type": "message",
+        "text": "Do we have a Phase 3 document started?",
+        "user": "U15J5H60P",
+        "ts": "1462921989.000050"
+    },
+    {
+        "type": "message",
+        "text": "dont think so",
+        "user": "U15HSHSS2",
+        "ts": "1462921997.000051"
+    },
+    {
+        "type": "message",
+        "text": "I gotta make some coffee. I’m about to fall asleep.",
+        "user": "U15J5H60P",
+        "ts": "1462922010.000052"
+    },
+    {
+        "type": "message",
+        "text": "same...",
+        "user": "U15HSHSS2",
+        "ts": "1462922184.000053"
+    },
+    {
+        "type": "message",
+        "text": "this blows",
+        "user": "U15HSHSS2",
+        "ts": "1462922186.000054"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15J5H60P",
+        "ts": "1462924693.000055"
+    },
+    {
+        "type": "message",
+        "text": "What Gifs do we need",
+        "user": "U15J5H60P",
+        "ts": "1462924697.000056"
+    },
+    {
+        "type": "message",
+        "text": "Whatever Tommy decides he needs in the narrative",
+        "user": "U15HZ01QX",
+        "ts": "1462926523.000057"
+    },
+    {
+        "type": "message",
+        "text": "I don't need any",
+        "user": "U15HZ01QX",
+        "ts": "1462926526.000058"
+    },
+    {
+        "type": "message",
+        "text": "The 3 we used for the task descriptions he says was fine",
+        "user": "U15HZ01QX",
+        "ts": "1462926551.000059"
+    },
+    {
+        "type": "message",
+        "text": "That’s phase 3, yes?",
+        "user": "U15J5H60P",
+        "ts": "1462926580.000060"
+    },
+    {
+        "type": "message",
+        "text": "Oh shit nvm",
+        "user": "U15HZ01QX",
+        "ts": "1462926635.000061"
+    },
+    {
+        "type": "message",
+        "text": "Idk what we need",
+        "user": "U15HZ01QX",
+        "ts": "1462926642.000062"
+    },
+    {
+        "type": "message",
+        "text": "I don't need any for anything I'm doing in  1 and 2 is what I meant to say",
+        "user": "U15HZ01QX",
+        "ts": "1462926667.000063"
+    },
+    {
+        "type": "message",
+        "text": "We just need to make sure to attach the old ones back in",
+        "user": "U15HZ01QX",
+        "ts": "1462926693.000064"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: Let me know if you need gifs. As far as I’m concerned, I’m done with my parts of Phase 1 and 2. I am looking to start my part of Phase 3.",
+        "user": "U15J5H60P",
+        "ts": "1462926767.000065"
+    },
+    {
+        "type": "message",
+        "text": "Gifs arnt part of the narrative, we used them last time to illustrate 3 of the 10 tasks",
+        "user": "U15HSHSS2",
+        "ts": "1462927086.000066"
+    },
+    {
+        "type": "message",
+        "text": "So whatever 3 tasks you guys want to show work flows for then those are the gifs we need",
+        "user": "U15HSHSS2",
+        "ts": "1462927115.000067"
+    },
+    {
+        "type": "message",
+        "text": "Still don't know what the hell systematic means",
+        "user": "U15HZ01QX",
+        "ts": "1462929589.000068"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. He hasn’t responded to my emails either...",
+        "user": "U15J5H60P",
+        "ts": "1462929741.000069"
+    },
+    {
+        "type": "message",
+        "text": "Also, he references a Rogers book in Phase 3. I have no idea what he’s talking about.",
+        "user": "U15J5H60P",
+        "ts": "1462929757.000070"
+    },
+    {
+        "type": "message",
+        "text": "Didn’t he say he was going to be lenient on the Phase 3 due date.",
+        "user": "U15J5H60P",
+        "ts": "1462929867.000071"
+    },
+    {
+        "type": "message",
+        "text": "idk it says explicitly on the phase 3 document that he will not allow the due date for phase 3 to be extended",
+        "user": "U15HSHSS2",
+        "ts": "1462930021.000072"
+    },
+    {
+        "type": "message",
+        "text": "Well shit",
+        "user": "U15J5H60P",
+        "ts": "1462930051.000073"
+    },
+    {
+        "type": "message",
+        "text": "Hey, James. Can we focus on this and get all of this shit done? Let’s just hammer it out now.",
+        "user": "U15J5H60P",
+        "ts": "1462930071.000074"
+    },
+    {
+        "type": "message",
+        "text": "also andrew can you send a screenshot of the main menu",
+        "user": "U15HSHSS2",
+        "ts": "1462930083.000075"
+    },
+    {
+        "type": "message",
+        "text": "Nathan Drake will be there tomorrow.",
+        "user": "U15J5H60P",
+        "ts": "1462930087.000076"
+    },
+    {
+        "type": "message",
+        "text": "like when you click the 3 bars in the top right",
+        "user": "U15HSHSS2",
+        "ts": "1462930105.000077"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F17RKAWCR",
+                "created": 1462930105,
+                "timestamp": 1462930105,
+                "name": "Pasted image at 2016_05_10 08_28 PM.png",
+                "title": "Pasted image at 2016-05-10, 8:28 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 55865,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RKAWCR\/pasted_image_at_2016_05_10_08_28_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RKAWCR\/download\/pasted_image_at_2016_05_10_08_28_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKAWCR-dd3c766890\/pasted_image_at_2016_05_10_08_28_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKAWCR-dd3c766890\/pasted_image_at_2016_05_10_08_28_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKAWCR-dd3c766890\/pasted_image_at_2016_05_10_08_28_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKAWCR-dd3c766890\/pasted_image_at_2016_05_10_08_28_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 269,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKAWCR-dd3c766890\/pasted_image_at_2016_05_10_08_28_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 352,
+                "original_h": 627,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17RKAWCR\/pasted_image_at_2016_05_10_08_28_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17RKAWCR-b00871e2f3",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462930107.000078"
+    },
+    {
+        "type": "message",
+        "text": "Ah shit Yeah one sec",
+        "user": "U15J5H60P",
+        "ts": "1462930112.000079"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F17RE7C87",
+                "created": 1462930125,
+                "timestamp": 1462930125,
+                "name": "Pasted image at 2016_05_10 08_28 PM.png",
+                "title": "Pasted image at 2016-05-10, 8:28 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 18974,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RE7C87\/pasted_image_at_2016_05_10_08_28_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RE7C87\/download\/pasted_image_at_2016_05_10_08_28_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RE7C87-869b4a2a6a\/pasted_image_at_2016_05_10_08_28_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RE7C87-869b4a2a6a\/pasted_image_at_2016_05_10_08_28_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RE7C87-869b4a2a6a\/pasted_image_at_2016_05_10_08_28_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 201,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RE7C87-869b4a2a6a\/pasted_image_at_2016_05_10_08_28_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 269,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RE7C87-869b4a2a6a\/pasted_image_at_2016_05_10_08_28_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 353,
+                "original_h": 631,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17RE7C87\/pasted_image_at_2016_05_10_08_28_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17RE7C87-7a1641a46f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462930127.000080"
+    },
+    {
+        "type": "message",
+        "text": "Is that what you’re looking for?",
+        "user": "U15J5H60P",
+        "ts": "1462930137.000081",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1462930209.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HSHSS2",
+        "ts": "1462930214.000083"
+    },
+    {
+        "type": "message",
+        "text": "Awesome.",
+        "user": "U15J5H60P",
+        "ts": "1462930217.000084"
+    },
+    {
+        "type": "message",
+        "text": "Does anyone know what the Rogers book is?",
+        "user": "U15J5H60P",
+        "ts": "1462930234.000085"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F17RKR1QR",
+                "created": 1462930278,
+                "timestamp": 1462930278,
+                "name": "Pasted image at 2016_05_10 08_31 PM.png",
+                "title": "This is how many animations I had to do.",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 57325,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RKR1QR\/pasted_image_at_2016_05_10_08_31_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RKR1QR\/download\/pasted_image_at_2016_05_10_08_31_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKR1QR-11385bb82b\/pasted_image_at_2016_05_10_08_31_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKR1QR-11385bb82b\/pasted_image_at_2016_05_10_08_31_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKR1QR-11385bb82b\/pasted_image_at_2016_05_10_08_31_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 227,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKR1QR-11385bb82b\/pasted_image_at_2016_05_10_08_31_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 302,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RKR1QR-11385bb82b\/pasted_image_at_2016_05_10_08_31_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 407,
+                "original_h": 646,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17RKR1QR\/pasted_image_at_2016_05_10_08_31_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17RKR1QR-2374c60925",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462930280.000086"
+    },
+    {
+        "type": "message",
+        "text": "That’s as far as I can zoom out",
+        "user": "U15J5H60P",
+        "ts": "1462930286.000087"
+    },
+    {
+        "type": "message",
+        "text": "They keep going past the top of the screen",
+        "user": "U15J5H60P",
+        "ts": "1462930292.000088"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>:   I did my phase 2 earlier and I'm adding follow up questions to the interview idk what else you want from me <https:\/\/freeuwmke.slack.com\/archives\/hci\/p1462930071000074>",
+        "user": "U15HZ01QX",
+        "ts": "1462930382.000089",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/hci\/p1462930071000074",
+                "fallback": "[May 10th, 2016 6:27 PM] andrew: Hey, James. Can we focus on this and get all of this shit done? Let’s just hammer it out now.",
+                "author_subname": "andrew",
+                "ts": "1462930071.000074",
+                "text": "Hey, James. Can we focus on this and get all of this shit done? Let’s just hammer it out now.",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/andrew",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-03\/39971243460_f0095f9f23c108782ce4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Alright. After Tom is done is it ready for submission then?",
+        "user": "U15J5H60P",
+        "ts": "1462930443.000091"
+    },
+    {
+        "type": "message",
+        "text": "About yeah, just gotta do your follow up questions",
+        "user": "U15HZ01QX",
+        "ts": "1462930472.000092"
+    },
+    {
+        "type": "message",
+        "text": "Alright.",
+        "user": "U15J5H60P",
+        "ts": "1462930483.000093"
+    },
+    {
+        "type": "message",
+        "text": "I think we should have a change log too",
+        "user": "U15HZ01QX",
+        "ts": "1462930488.000094"
+    },
+    {
+        "type": "message",
+        "text": "It can be all one paper but it would make sense so he doesn't have to reread everything looking for differences",
+        "user": "U15HZ01QX",
+        "ts": "1462930532.000095"
+    },
+    {
+        "type": "message",
+        "text": "I have no idea what the rodgers textbook is lol i just looked over everything in D2L and there's no sign of it, or in the syllabus",
+        "user": "U15HSHSS2",
+        "ts": "1462930670.000096"
+    },
+    {
+        "type": "message",
+        "text": "That’s what I did, too… Wthhhh",
+        "user": "U15J5H60P",
+        "ts": "1462930685.000097"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.amazon.com\/Interaction-Design-Beyond-Human-Computer\/dp\/0470665769>",
+        "user": "U15HZ01QX",
+        "ts": "1462930734.000098",
+        "attachments": [
+            {
+                "title": "Interaction Design: Beyond Human - Computer Interaction: 9780470665763: Computer Science Books @ Amazon.com",
+                "title_link": "http:\/\/www.amazon.com\/Interaction-Design-Beyond-Human-Computer\/dp\/0470665769",
+                "text": "Interaction Design: Beyond Human - Computer Interaction: 9780470665763: Computer Science Books @ <http:\/\/Amazon.com|Amazon.com>",
+                "fallback": "Interaction Design: Beyond Human - Computer Interaction: 9780470665763: Computer Science Books @ Amazon.com",
+                "from_url": "http:\/\/www.amazon.com\/Interaction-Design-Beyond-Human-Computer\/dp\/0470665769",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "im assuming",
+        "user": "U15HZ01QX",
+        "ts": "1462930742.000100"
+    },
+    {
+        "type": "message",
+        "text": "soo... how do we get access to that",
+        "user": "U15HSHSS2",
+        "ts": "1462930781.000101"
+    },
+    {
+        "type": "message",
+        "text": "Chapter 26",
+        "user": "U15J5H60P",
+        "ts": "1462930856.000102"
+    },
+    {
+        "type": "message",
+        "text": "Fucckkkkkk",
+        "user": "U15J5H60P",
+        "ts": "1462930878.000103"
+    },
+    {
+        "type": "message",
+        "text": "There’s so many of them.",
+        "user": "U15J5H60P",
+        "ts": "1462930883.000104"
+    },
+    {
+        "type": "message",
+        "text": "There’s 10 of them.",
+        "user": "U15J5H60P",
+        "ts": "1462930893.000105"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy God Damnit",
+        "user": "U15J5H60P",
+        "ts": "1462930905.000106",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/crying-tornado-warning-god-damnit-i-live-in-massachusetts-FdQfvNLUENZII>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/FdQfvNLUENZII\/giphy.gif",
+                "image_width": 168,
+                "image_height": 150,
+                "image_bytes": 510636,
+                "is_animated": true,
+                "title": "God Damnit",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/crying-tornado-warning-god-damnit-i-live-in-massachusetts-FdQfvNLUENZII"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Phase 3 document has been created.",
+        "user": "U15J5H60P",
+        "ts": "1462931240.000107"
+    },
+    {
+        "type": "message",
+        "text": "So should we make like a video or something showing off our whole prototype...?",
+        "user": "U15HSHSS2",
+        "ts": "1462931718.000108"
+    },
+    {
+        "type": "message",
+        "text": "It’s possible that we can do that. But that would be one of the last things we do I think. Right?",
+        "user": "U15J5H60P",
+        "ts": "1462931745.000109"
+    },
+    {
+        "type": "message",
+        "text": "I suppose",
+        "user": "U15HSHSS2",
+        "ts": "1462931797.000110"
+    },
+    {
+        "type": "message",
+        "text": "can you send a pic of the grades page",
+        "user": "U15HSHSS2",
+        "ts": "1462931808.000111"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F17RVJSH0",
+                "created": 1462931831,
+                "timestamp": 1462931831,
+                "name": "Pasted image at 2016_05_10 08_57 PM.png",
+                "title": "Pasted image at 2016-05-10, 8:57 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 104360,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RVJSH0\/pasted_image_at_2016_05_10_08_57_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RVJSH0\/download\/pasted_image_at_2016_05_10_08_57_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RVJSH0-7cfd36bda1\/pasted_image_at_2016_05_10_08_57_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RVJSH0-7cfd36bda1\/pasted_image_at_2016_05_10_08_57_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RVJSH0-7cfd36bda1\/pasted_image_at_2016_05_10_08_57_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RVJSH0-7cfd36bda1\/pasted_image_at_2016_05_10_08_57_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RVJSH0-7cfd36bda1\/pasted_image_at_2016_05_10_08_57_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 354,
+                "original_h": 629,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17RVJSH0\/pasted_image_at_2016_05_10_08_57_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17RVJSH0-a61d8e7757",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462931833.000112"
+    },
+    {
+        "type": "message",
+        "text": "What up Harry Potter",
+        "user": "U15J5H60P",
+        "ts": "1462931848.000113"
+    },
+    {
+        "type": "message",
+        "text": "Are you guys okay with the way that I set up the “See statistics\" icons?",
+        "user": "U15J5H60P",
+        "ts": "1462931868.000114",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1462931876.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "that looks good",
+        "user": "U15HZ01QX",
+        "ts": "1462931876.000116"
+    },
+    {
+        "type": "message",
+        "text": "Excellent.",
+        "user": "U15J5H60P",
+        "ts": "1462931882.000117"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F17RBGR46",
+                "created": 1462931909,
+                "timestamp": 1462931909,
+                "name": "Pasted image at 2016_05_10 08_58 PM.png",
+                "title": "This is what happens when you click on the icon.",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 37661,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RBGR46\/pasted_image_at_2016_05_10_08_58_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F17RBGR46\/download\/pasted_image_at_2016_05_10_08_58_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RBGR46-b181b2215d\/pasted_image_at_2016_05_10_08_58_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RBGR46-b181b2215d\/pasted_image_at_2016_05_10_08_58_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RBGR46-b181b2215d\/pasted_image_at_2016_05_10_08_58_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 289,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F17RBGR46-b181b2215d\/pasted_image_at_2016_05_10_08_58_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 353,
+                "original_h": 440,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F17RBGR46\/pasted_image_at_2016_05_10_08_58_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F17RBGR46-bbb7f8a307",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1462931911.000118"
+    },
+    {
+        "type": "message",
+        "text": "I guess since shit changed we should probably redo the gifs",
+        "user": "U15HSHSS2",
+        "ts": "1462931992.000119"
+    },
+    {
+        "type": "message",
+        "text": "Sure. Just let me know which ones you want me to do.",
+        "user": "U15J5H60P",
+        "ts": "1462932010.000120"
+    },
+    {
+        "type": "message",
+        "text": "some content just show the new prototype. So check grades, take a quiz",
+        "user": "U15HSHSS2",
+        "ts": "1462932037.000121"
+    },
+    {
+        "type": "message",
+        "text": "same content*",
+        "user": "U15HSHSS2",
+        "ts": "1462932043.000122"
+    },
+    {
+        "type": "message",
+        "text": "what should be our thrid one? anything that you want to show off that looks good andrew?",
+        "user": "U15HSHSS2",
+        "ts": "1462932064.000123"
+    },
+    {
+        "type": "message",
+        "text": "View document",
+        "user": "U15J5H60P",
+        "ts": "1462932077.000124"
+    },
+    {
+        "type": "message",
+        "text": "It’s like viewing a syllabus",
+        "user": "U15J5H60P",
+        "ts": "1462932091.000125"
+    },
+    {
+        "type": "message",
+        "text": "alright sounds good",
+        "user": "U15HSHSS2",
+        "ts": "1462932097.000126"
+    },
+    {
+        "type": "message",
+        "text": "that should be it then for phase 2",
+        "user": "U15HSHSS2",
+        "ts": "1462932124.000127"
+    },
+    {
+        "type": "message",
+        "text": "Awesome. Did you get a chance to look the entire thing over by any chance?",
+        "user": "U15J5H60P",
+        "ts": "1462932166.000128"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, definitely looks better than what we had, but it's probably still like 80% worthy",
+        "user": "U15HSHSS2",
+        "ts": "1462932350.000129"
+    },
+    {
+        "type": "message",
+        "text": "andy put that in phase 2",
+        "user": "U15HZ01QX",
+        "ts": "1462932358.000130"
+    },
+    {
+        "type": "message",
+        "text": "that stats one",
+        "user": "U15HZ01QX",
+        "ts": "1462932375.000132"
+    },
+    {
+        "type": "message",
+        "text": "Mother fucker",
+        "user": "U15J5H60P",
+        "ts": "1462932433.000133"
+    },
+    {
+        "type": "message",
+        "text": "My computer is frozen",
+        "user": "U15J5H60P",
+        "ts": "1462932453.000134"
+    },
+    {
+        "type": "message",
+        "text": "I hope I didn't lose anything",
+        "user": "U15J5H60P",
+        "ts": "1462932482.000135"
+    },
+    {
+        "type": "message",
+        "text": "What stats one James",
+        "user": "U15J5H60P",
+        "ts": "1462932487.000136"
+    },
+    {
+        "type": "message",
+        "text": "the picture",
+        "user": "U15HZ01QX",
+        "ts": "1462932608.000137"
+    },
+    {
+        "type": "message",
+        "text": "Where?",
+        "user": "U15J5H60P",
+        "ts": "1462932687.000138"
+    },
+    {
+        "type": "message",
+        "text": "The gif I just posted has that",
+        "user": "U15J5H60P",
+        "ts": "1462932697.000139"
+    },
+    {
+        "type": "message",
+        "text": "I got it in there",
+        "user": "U15HSHSS2",
+        "ts": "1462932714.000140"
+    },
+    {
+        "type": "message",
+        "text": "Alright. Another gif incoming",
+        "user": "U15J5H60P",
+        "ts": "1462932720.000141"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HZ01QX",
+        "ts": "1462932744.000142"
+    },
+    {
+        "type": "message",
+        "text": "the pic before that",
+        "user": "U15HZ01QX",
+        "ts": "1462932749.000143"
+    },
+    {
+        "type": "message",
+        "text": "yeah I put the pic in there",
+        "user": "U15HSHSS2",
+        "ts": "1462932766.000144"
+    },
+    {
+        "type": "message",
+        "text": "oh the one with the grades and everything?",
+        "user": "U15HSHSS2",
+        "ts": "1462932785.000145"
+    },
+    {
+        "type": "message",
+        "text": "i put the class average pic in there but not the grades page one, i think its better just shown in the gif",
+        "user": "U15HSHSS2",
+        "ts": "1462932818.000146"
+    },
+    {
+        "type": "message",
+        "text": "ah ok",
+        "user": "U15HZ01QX",
+        "ts": "1462932871.000148"
+    },
+    {
+        "type": "message",
+        "text": "Another gif Incoming",
+        "user": "U15J5H60P",
+        "ts": "1462932876.000149"
+    },
+    {
+        "type": "message",
+        "text": ":fire::fire::fire::fire::fire::fire:",
+        "user": "U15J5H60P",
+        "ts": "1462932894.000150"
+    },
+    {
+        "type": "message",
+        "text": "They’re cookin",
+        "user": "U15J5H60P",
+        "ts": "1462932902.000151"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fire",
+        "user": "U15J5H60P",
+        "ts": "1462932908.000152",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/birthday-fire-happy-birthday-cake-3o6gben1fyr2NAxAqc>",
+                "image_url": "http:\/\/media.giphy.com\/media\/3o6gben1fyr2NAxAqc\/giphy-tumblr.gif",
+                "image_width": 200,
+                "image_height": 250,
+                "image_bytes": 1298386,
+                "is_animated": true,
+                "title": "fire",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/birthday-fire-happy-birthday-cake-3o6gben1fyr2NAxAqc"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "How we think our project is going to turn out",
+        "user": "U15J5H60P",
+        "ts": "1462932928.000153"
+    },
+    {
+        "type": "message",
+        "text": "How it ends up turning out",
+        "user": "U15J5H60P",
+        "ts": "1462932932.000154"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=2OVDQ_UVpnE>",
+        "user": "U15HSHSS2",
+        "ts": "1462932982.000157",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "DJ Khaled ANOTHER ONE - 1 Hour",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=2OVDQ_UVpnE",
+                "author_name": "Mark Shark",
+                "author_link": "https:\/\/www.youtube.com\/user\/markshark55",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/2OVDQ_UVpnE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: DJ Khaled ANOTHER ONE - 1 Hour",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/2OVDQ_UVpnE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=2OVDQ_UVpnE",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lololololol",
+        "user": "U15J5H60P",
+        "ts": "1462932992.000159"
+    },
+    {
+        "type": "message",
+        "text": "I had that same pullover in middle school",
+        "user": "U15J5H60P",
+        "ts": "1462933018.000160"
+    },
+    {
+        "type": "message",
+        "text": "Whoop. There’s all three",
+        "user": "U15J5H60P",
+        "ts": "1462933072.000162"
+    },
+    {
+        "type": "message",
+        "text": "Phase 3. WTF UPPPPPPPPPPP IMMA KILL IT",
+        "user": "U15J5H60P",
+        "ts": "1462933106.000163"
+    },
+    {
+        "type": "message",
+        "text": "alright, so is everyone done making their changes to phase 2?",
+        "user": "U15HSHSS2",
+        "ts": "1462933133.000164"
+    },
+    {
+        "type": "message",
+        "text": "I am.",
+        "user": "U15J5H60P",
+        "ts": "1462933164.000165",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1462933175.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "yeah just make sure the gifs are working in phase 1",
+        "user": "U15HZ01QX",
+        "ts": "1462933180.000167"
+    },
+    {
+        "type": "message",
+        "text": "phase 1 had gifs...?",
+        "user": "U15HSHSS2",
+        "ts": "1462933195.000168"
+    },
+    {
+        "type": "message",
+        "text": "or 2",
+        "user": "U15HZ01QX",
+        "ts": "1462933200.000169"
+    },
+    {
+        "type": "message",
+        "text": "shit idr",
+        "user": "U15HZ01QX",
+        "ts": "1462933203.000170"
+    },
+    {
+        "type": "message",
+        "text": "Whichever one needed gifs. Put them there. lol",
+        "user": "U15J5H60P",
+        "ts": "1462933217.000171"
+    },
+    {
+        "type": "message",
+        "text": "got it lol",
+        "user": "U15HSHSS2",
+        "ts": "1462933222.000172"
+    },
+    {
+        "type": "message",
+        "text": "make sure they work in word lol",
+        "user": "U15HZ01QX",
+        "ts": "1462933227.000173"
+    },
+    {
+        "type": "message",
+        "text": "gifs dont work in word",
+        "user": "U15HSHSS2",
+        "ts": "1462933235.000174"
+    },
+    {
+        "type": "message",
+        "text": "Or just upload them separately.  Like we did last time.",
+        "user": "U15J5H60P",
+        "ts": "1462933242.000175"
+    },
+    {
+        "type": "message",
+        "text": "oh?",
+        "user": "U15HZ01QX",
+        "ts": "1462933249.000176"
+    },
+    {
+        "type": "message",
+        "text": "yeah thats what im gunna do",
+        "user": "U15HSHSS2",
+        "ts": "1462933250.000177"
+    },
+    {
+        "type": "message",
+        "text": "they work in word if you set certain properties up correctly, but hes not gunna have that stuff set up. Ill just upload them the way i did last time",
+        "user": "U15HSHSS2",
+        "ts": "1462933283.000178"
+    },
+    {
+        "type": "message",
+        "text": "So phase 1 and phase 2 are completed?",
+        "user": "U15HSHSS2",
+        "ts": "1462933307.000179"
+    },
+    {
+        "type": "message",
+        "text": "I think so.",
+        "user": "U15J5H60P",
+        "ts": "1462933413.000180"
+    },
+    {
+        "type": "message",
+        "text": "I can’t wait until we can archive this channel",
+        "user": "U15J5H60P",
+        "ts": "1462933554.000181"
+    },
+    {
+        "type": "message",
+        "text": "same...",
+        "user": "U15HSHSS2",
+        "ts": "1462933645.000182"
+    },
+    {
+        "type": "message",
+        "text": "so PHASE2 Revisions is where everyone has been making changes right? cuz that the one im downloading",
+        "user": "U15HSHSS2",
+        "ts": "1462933675.000183",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1462933707.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Yup",
+        "user": "U15J5H60P",
+        "ts": "1462933783.000185"
+    },
+    {
+        "type": "message",
+        "text": "Bingo",
+        "user": "U15HZ01QX",
+        "ts": "1462933800.000186"
+    },
+    {
+        "type": "message",
+        "text": "Alright guys. I’m calling it a night. I got about 40% of my part of Phase 3 done and hope to have the rest done by 5-6 tomorrow night. Just in time to start studying for Databases. :disappointed:",
+        "user": "U15J5H60P",
+        "ts": "1462934754.000187"
+    },
+    {
+        "type": "message",
+        "text": "lol databases exam is over a week away idk if you need to start sudying quite yet",
+        "user": "U15HSHSS2",
+        "ts": "1462935445.000188"
+    },
+    {
+        "type": "message",
+        "text": "also how are we handing phase 1 and 2 in? just emailing him?",
+        "user": "U15HSHSS2",
+        "ts": "1462935493.000189"
+    },
+    {
+        "type": "message",
+        "text": "the dropbox is closed",
+        "user": "U15HSHSS2",
+        "ts": "1462935499.000190"
+    },
+    {
+        "type": "message",
+        "text": "Yes. Please reply to that email he sent us",
+        "user": "U15J5H60P",
+        "ts": "1462936913.000191"
+    },
+    {
+        "type": "message",
+        "text": "lol I just realized he never actually told us to revise phase 2, he just made it clear that he was displeased with it and that he hasnt decided what grade to give it yet",
+        "user": "U15HSHSS2",
+        "ts": "1462937230.000192"
+    },
+    {
+        "type": "message",
+        "text": "here's hoping he even accepts our revised version",
+        "user": "U15HSHSS2",
+        "ts": "1462937249.000193"
+    },
+    {
+        "type": "message",
+        "text": "Shit",
+        "user": "U15HZ01QX",
+        "ts": "1462937338.000194"
+    },
+    {
+        "type": "message",
+        "text": "What",
+        "user": "U15J5H60P",
+        "ts": "1462937365.000195"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1462937445.000196"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1462937459.000197"
+    },
+    {
+        "type": "message",
+        "text": "I think he was saying",
+        "user": "U15J5H60P",
+        "ts": "1462937463.000198"
+    },
+    {
+        "type": "message",
+        "text": "Yo, here’s some feedback.",
+        "user": "U15J5H60P",
+        "ts": "1462937469.000199"
+    },
+    {
+        "type": "message",
+        "text": "You best fix it before I fuck your shit up.",
+        "user": "U15J5H60P",
+        "ts": "1462937477.000200"
+    },
+    {
+        "type": "message",
+        "text": "I mean... I hope that's what he meant. But I could see him being like \"I gave you guys a pass on phase 1 to make some changes, i cant just let you redo your whole project because you didnt like the grade you got first time around, plus it wouldn't be fair to the other students who might also want to make changes to earn points back.\"",
+        "user": "U15HSHSS2",
+        "ts": "1462937614.000201"
+    },
+    {
+        "type": "message",
+        "text": "Tom, fuck off with that logic.",
+        "user": "U15J5H60P",
+        "ts": "1462937629.000202"
+    },
+    {
+        "type": "message",
+        "text": ":cry:",
+        "user": "U15J5H60P",
+        "ts": "1462937637.000203"
+    },
+    {
+        "type": "message",
+        "text": "I really hope he helps us out",
+        "user": "U15J5H60P",
+        "ts": "1462937646.000204"
+    },
+    {
+        "type": "message",
+        "text": "To be fair, he didn’t grade our phase 1 till late so we couldn’t judge how much work we had to put into phase 2",
+        "user": "U15J5H60P",
+        "ts": "1462937665.000205"
+    },
+    {
+        "type": "message",
+        "text": "Plus he should’ve gave us a grading rubric to begin with...",
+        "user": "U15J5H60P",
+        "ts": "1462937675.000206"
+    },
+    {
+        "type": "message",
+        "text": "We had no idea what he wanted",
+        "user": "U15J5H60P",
+        "ts": "1462937682.000207"
+    },
+    {
+        "type": "message",
+        "text": "We even asked him",
+        "user": "U15J5H60P",
+        "ts": "1462937687.000208"
+    },
+    {
+        "type": "message",
+        "text": "very true",
+        "user": "U15HSHSS2",
+        "ts": "1462937690.000209"
+    },
+    {
+        "type": "message",
+        "text": "also our files are way to big to send in email",
+        "user": "U15HSHSS2",
+        "ts": "1462937714.000210"
+    },
+    {
+        "type": "message",
+        "text": "Compress them",
+        "user": "U15J5H60P",
+        "ts": "1462937748.000211"
+    },
+    {
+        "type": "message",
+        "text": "Put it in a file and compress",
+        "user": "U15J5H60P",
+        "ts": "1462937755.000212"
+    },
+    {
+        "type": "message",
+        "text": "I did",
+        "user": "U15HSHSS2",
+        "ts": "1462937941.000213"
+    },
+    {
+        "type": "message",
+        "text": "still too big",
+        "user": "U15HSHSS2",
+        "ts": "1462937943.000214"
+    },
+    {
+        "type": "message",
+        "text": "Damn.",
+        "user": "U15J5H60P",
+        "ts": "1462937961.000215"
+    },
+    {
+        "type": "message",
+        "text": "Well then",
+        "user": "U15J5H60P",
+        "ts": "1462937963.000216"
+    },
+    {
+        "type": "message",
+        "text": "I guess we fail.",
+        "user": "U15J5H60P",
+        "ts": "1462937966.000217"
+    },
+    {
+        "type": "message",
+        "text": "Upload it to Mega?",
+        "user": "U15J5H60P",
+        "ts": "1462937975.000218"
+    },
+    {
+        "type": "message",
+        "text": "hmmm...",
+        "user": "U15HSHSS2",
+        "ts": "1462938000.000219"
+    },
+    {
+        "type": "message",
+        "text": "so it lets me attach it when I start a new email",
+        "user": "U15HSHSS2",
+        "ts": "1462938013.000220"
+    },
+    {
+        "type": "message",
+        "text": "but not when i reply to his",
+        "user": "U15HSHSS2",
+        "ts": "1462938018.000221"
+    },
+    {
+        "type": "message",
+        "text": "Odd",
+        "user": "U15J5H60P",
+        "ts": "1462938030.000222"
+    }
+]

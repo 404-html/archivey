@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "376541fe-5c5d-4dac-a2ae-2fc0e40c041d",
+        "type": "message",
+        "text": "Now tell us something you like",
+        "user": "U15J5H60P",
+        "ts": "1531753755.000250"
+    },
+    {
+        "client_msg_id": "e13ba04d-f483-4f0a-8695-301c21c1129d",
+        "type": "message",
+        "text": "<@U15J5H60P> check <#C15HP1TGC|general>",
+        "user": "U15HRTAHL",
+        "ts": "1531753956.000258",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

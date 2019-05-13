@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "9bbbd668-1673-48cb-9e62-184760711e8b",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/airbnb-engineering\/react-native-at-airbnb-f95aa460be1c>",
+        "user": "U15HRTAHL",
+        "ts": "1529504015.000867",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "React Native at Airbnb – Airbnb Engineering &amp; Data Science – Medium",
+                "title_link": "https:\/\/medium.com\/airbnb-engineering\/react-native-at-airbnb-f95aa460be1c",
+                "text": "In 2016, we took a big bet on React Native. Two years later, we’re ready to share our experience with the world and show what’s next.",
+                "fallback": "Medium: React Native at Airbnb – Airbnb Engineering &amp; Data Science – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*P9Kc_EWojKpqfc1-_AhnSg.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "3 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1529425755,
+                "from_url": "https:\/\/medium.com\/airbnb-engineering\/react-native-at-airbnb-f95aa460be1c",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 268722,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*MlNQKg-sieBGW5prWoe9HQ.jpeg",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/airbnb-engineering\/react-native-at-airbnb-f95aa460be1c"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ff122690-1879-4a74-9cf4-39e8cacfeea4",
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1529505175.000648"
+    }
+]

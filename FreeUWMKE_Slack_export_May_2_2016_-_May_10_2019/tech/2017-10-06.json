@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.dailydot.com\/debug\/iphone-8-splitgate\/?fb=dd>",
+        "user": "U15HRTAHL",
+        "ts": "1507305117.000457",
+        "attachments": [
+            {
+                "service_name": "The Daily Dot",
+                "title": "Apple confirms its new iPhone 8s are splitting open",
+                "title_link": "https:\/\/www.dailydot.com\/debug\/iphone-8-splitgate\/?fb=dd",
+                "text": "Here's what you need to look out for.",
+                "fallback": "The Daily Dot: Apple confirms its new iPhone 8s are splitting open",
+                "thumb_url": "https:\/\/www.dailydot.com\/wp-content\/uploads\/e88\/3a\/e77390fe4d3cac10.png",
+                "ts": 1507051829,
+                "from_url": "https:\/\/www.dailydot.com\/debug\/iphone-8-splitgate\/?fb=dd",
+                "thumb_width": 2855,
+                "thumb_height": 1428,
+                "service_icon": "https:\/\/www.dailydot.com\/wp-content\/themes\/dailydot\/img\/apple-touch-icon-192_android-hi-res.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yay",
+        "user": "U15J5H60P",
+        "ts": "1507305130.000334"
+    },
+    {
+        "type": "message",
+        "text": "I’m about to buy AAPL too",
+        "user": "U15J5H60P",
+        "ts": "1507305136.000759"
+    },
+    {
+        "type": "message",
+        "text": "Do you guys ever use vmware?",
+        "user": "U15HY5TG8",
+        "ts": "1507312679.000120"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1507312689.000368"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HY5TG8",
+        "ts": "1507312717.000099"
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/n6cgrqt88jk01.jpg>",
+        "user": "U15HSHSS2",
+        "ts": "1520521921.000227",
+        "attachments": [
+            {
+                "fallback": "1215x916px image",
+                "image_url": "https:\/\/i.redd.it\/n6cgrqt88jk01.jpg",
+                "image_width": 1215,
+                "image_height": 916,
+                "image_bytes": 373636,
+                "from_url": "https:\/\/i.redd.it\/n6cgrqt88jk01.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1520521922.000579"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/AskReddit\/comments\/82x3w1\/what_big_thing_is_on_the_verge_of_happening\/dvdlu63\/>",
+        "user": "U15HRTAHL",
+        "ts": "1520529843.000738",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "What BIG THING is on the verge of happening? • r\/AskReddit",
+                "title_link": "https:\/\/www.reddit.com\/r\/AskReddit\/comments\/82x3w1\/what_big_thing_is_on_the_verge_of_happening\/dvdlu63\/",
+                "text": "10946 points and 9857 comments so far on reddit",
+                "fallback": "reddit: What BIG THING is on the verge of happening? • r\/AskReddit",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/AskReddit\/comments\/82x3w1\/what_big_thing_is_on_the_verge_of_happening\/dvdlu63\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "service_icon": "http:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "112E27A6-B706-4FDE-B9F0-F9AD4C350485",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1520534920.000616"
+    },
+    {
+        "client_msg_id": "F62E3844-424D-42BC-AC68-2E8864B30D0E",
+        "type": "message",
+        "text": "Also LOL at the kim jung un comment",
+        "user": "U15HY5TG8",
+        "ts": "1520534957.000010"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9LCB3AEL",
+                "created": 1520550322,
+                "timestamp": 1520550322,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Slack for iOS Upload.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 1026089,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9LCB3AEL\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9LCB3AEL\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9LCB3AEL-31e7eef263\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 2208,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F9LCB3AEL\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9LCB3AEL-f6bd804bf1",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "58B76196-EA34-4C72-9C7B-16C50E3561C6",
+        "ts": "1520550327.000023"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1520550337.000229"
+    },
+    {
+        "type": "message",
+        "text": "wtf",
+        "user": "U15HRTAHL",
+        "ts": "1520550338.000274"
+    },
+    {
+        "client_msg_id": "F2F37149-924B-4271-8283-653BC74C60B1",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15J5H60P",
+        "ts": "1520550344.000364"
+    }
+]

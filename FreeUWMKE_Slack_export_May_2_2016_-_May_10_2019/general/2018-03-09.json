@@ -1,0 +1,169 @@
+[
+    {
+        "type": "message",
+        "text": "Wowwwwww\n\n<https:\/\/twitter.com\/videogamedeals\/status\/971984185224151040?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1520600150.000009",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/videogamedeals|@videogamedeals>: 20% Off Everything via eBay w\/ Code: PSPRING20 . \n<http:\/\/ow.ly\/Uk2L30iQsjy> <https:\/\/pbs.twimg.com\/media\/DX0udurVoAAQYgt.jpg>",
+                "ts": 1520574063,
+                "author_name": "Cheap Ass Gamer",
+                "author_link": "https:\/\/twitter.com\/videogamedeals\/status\/971984185224151040",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/73653541\/cag_normal.png",
+                "author_subname": "@videogamedeals",
+                "text": "20% Off Everything via eBay w\/ Code: PSPRING20 . \n<http:\/\/ow.ly\/Uk2L30iQsjy> <https:\/\/pbs.twimg.com\/media\/DX0udurVoAAQYgt.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/videogamedeals\/status\/971984185224151040?s=12",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DX0udurVoAAQYgt.jpg",
+                "image_width": 998,
+                "image_height": 360,
+                "image_bytes": 23634,
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9NH49Y79",
+                "created": 1520617815,
+                "timestamp": 1520617815,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Slack for iOS Upload.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 5247027,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9NH49Y79\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9NH49Y79\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9NH49Y79-0ee5954624\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F9NH49Y79\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9NH49Y79-2bda024392",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "0F553442-3A08-456F-B0C4-2E84A2824C09",
+        "ts": "1520617825.000099"
+    },
+    {
+        "client_msg_id": "96EE58AC-A809-4415-BDC6-B74362C281A6",
+        "type": "message",
+        "text": "Warmed up sugar cookie topped with vanilla ice cream, caramel, and chocolate chips. ",
+        "user": "U15J5H60P",
+        "ts": "1520617838.000490"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1520291632000130>",
+        "user": "U15HRTAHL",
+        "ts": "1520617913.000574",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1520291632000130",
+                "fallback": "[March 5th, 2018 3:13 PM] andrew: This is a big moment for him.",
+                "ts": "1520291632.000130",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "This is a big moment for him.",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1520291658000157>",
+        "user": "U15HRTAHL",
+        "ts": "1520617915.000638",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1520291658000157",
+                "fallback": "[March 5th, 2018 3:14 PM] andrew: Big boy!",
+                "ts": "1520291658.000157",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Big boy!",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Good job, ~Joey~ Andrew!",
+        "user": "U15HRTAHL",
+        "ts": "1520617927.000495"
+    },
+    {
+        "client_msg_id": "5E76B02B-457E-4873-BEDD-2B2089595C6B",
+        "type": "message",
+        "text": "So good",
+        "user": "U15J5H60P",
+        "ts": "1520617928.000188"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HRTAHL",
+        "ts": "1520617937.000133"
+    }
+]

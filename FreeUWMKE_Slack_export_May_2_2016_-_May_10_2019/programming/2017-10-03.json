@@ -1,0 +1,274 @@
+[
+    {
+        "type": "message",
+        "text": "promises mind fuck the shit out of me",
+        "user": "U15HRTAHL",
+        "ts": "1507056173.000161"
+    },
+    {
+        "type": "message",
+        "text": "why?",
+        "user": "U15HY5TG8",
+        "ts": "1507056283.000440"
+    },
+    {
+        "type": "message",
+        "text": "it basically builds a useable thing out of an async process",
+        "user": "U15HRTAHL",
+        "ts": "1507056650.000454"
+    },
+    {
+        "type": "message",
+        "text": "its just crazy",
+        "user": "U15HRTAHL",
+        "ts": "1507056654.000226"
+    },
+    {
+        "type": "message",
+        "text": "then inside the promise shit is still going on",
+        "user": "U15HRTAHL",
+        "ts": "1507056662.000389"
+    },
+    {
+        "type": "message",
+        "text": "carazy",
+        "user": "U15HRTAHL",
+        "ts": "1507056670.000324"
+    },
+    {
+        "type": "message",
+        "text": "isnt it the same thing as basically saying \"Hey joe, can you do this math problem?\" \"yeah, hold on\" \"ok\" \"ok here's your answer\"",
+        "user": "U15HY5TG8",
+        "ts": "1507056857.000283"
+    },
+    {
+        "type": "message",
+        "text": "nah its like",
+        "user": "U15HRTAHL",
+        "ts": "1507056900.000528"
+    },
+    {
+        "type": "message",
+        "text": "\"hey Evan tell Joe to do this math problem then when hes done with that tell me if its successful or not\"",
+        "user": "U15HRTAHL",
+        "ts": "1507056939.000008"
+    },
+    {
+        "type": "message",
+        "text": "ahh ok interesting",
+        "user": "U15HY5TG8",
+        "ts": "1507057113.000076"
+    },
+    {
+        "type": "message",
+        "text": "joe is server, I am http right?",
+        "user": "U15HY5TG8",
+        "ts": "1507057121.000345"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1507057130.000445"
+    },
+    {
+        "type": "message",
+        "text": "You're promise I'm the async function in the promise",
+        "user": "U15HRTAHL",
+        "ts": "1507057150.000026"
+    },
+    {
+        "type": "message",
+        "text": "i think we just explained the same thing in a different way then. with my example, i was also the promise",
+        "user": "U15HY5TG8",
+        "ts": "1507057243.000692"
+    },
+    {
+        "type": "message",
+        "text": "idk man lol",
+        "user": "U15HRTAHL",
+        "ts": "1507057365.000013"
+    },
+    {
+        "type": "message",
+        "text": "just look up promises",
+        "user": "U15HRTAHL",
+        "ts": "1507057369.000327"
+    },
+    {
+        "type": "message",
+        "text": "i was just watching a tutorial on it like two days ago haha",
+        "user": "U15HY5TG8",
+        "ts": "1507057389.000261"
+    },
+    {
+        "type": "message",
+        "text": "then you can give promises multiple async functions and it will be done when all of them are complete",
+        "user": "U15HRTAHL",
+        "ts": "1507057497.000714"
+    },
+    {
+        "type": "message",
+        "text": "ITS FUCKING CRRRRRAYYYYYYYY",
+        "user": "U15HRTAHL",
+        "ts": "1507057507.000254"
+    },
+    {
+        "type": "message",
+        "text": "my understanding is that you do an http request in js. That request is sent. Now the page doesnt know what to do. So the server sends back a promise that says \"hold on bro, i got you\". so the page waits. then the server sends back the data after work is done and says \"here you go, as asked for\"",
+        "user": "U15HY5TG8",
+        "ts": "1507057532.000353"
+    },
+    {
+        "type": "message",
+        "text": "ahhhhhh",
+        "user": "U15HRTAHL",
+        "ts": "1507057545.000109"
+    },
+    {
+        "type": "message",
+        "text": "yeah I gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1507057549.000478"
+    },
+    {
+        "type": "message",
+        "text": "yeee",
+        "user": "U15HY5TG8",
+        "ts": "1507057580.000074"
+    },
+    {
+        "type": "message",
+        "text": "was that your understanding too?",
+        "user": "U15HY5TG8",
+        "ts": "1507057589.000410"
+    },
+    {
+        "type": "message",
+        "text": "yeah I fucked up",
+        "user": "U15HRTAHL",
+        "ts": "1507057714.000162"
+    },
+    {
+        "type": "message",
+        "text": "I was thinking about constructing promises",
+        "user": "U15HRTAHL",
+        "ts": "1507057720.000470",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1507057727.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Constructing promises? Is that like how loading screens are displayed?",
+        "user": "U15HY5TG8",
+        "ts": "1507057829.000334"
+    },
+    {
+        "type": "message",
+        "text": "whatcha mean by loading screen?",
+        "user": "U15HRTAHL",
+        "ts": "1507057862.000037"
+    },
+    {
+        "type": "message",
+        "text": "here I'll show you something",
+        "user": "U15HRTAHL",
+        "ts": "1507057876.000383"
+    },
+    {
+        "type": "message",
+        "text": "```\nexecuteAction: function(component, actionName, params) {\n    return new Promise(function(resolve, reject) {\n        var action = component.get(actionName);\n\n        action.setParams(params);\n        action.setCallback(this, function(response) {\n            if (component.isValid() &amp;&amp; response.getState() === 'SUCCESS') {\n                resolve(response.getReturnValue());\n            } else {\n                reject(response.getError()[0]);\n            }\n        });\n        $A.enqueueAction(action);\n    });\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1507057896.000588"
+    },
+    {
+        "type": "message",
+        "text": "Like custom promises. So like while youre waiting for a promise to be executed, you tell the promise to promise a loading screen lol",
+        "user": "U15HY5TG8",
+        "ts": "1507057943.000259"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1507057961.000537"
+    },
+    {
+        "type": "message",
+        "text": "I muted this channel like a month ago",
+        "user": "U15J5H60P",
+        "ts": "1507057969.000399"
+    },
+    {
+        "type": "message",
+        "text": "you just have something display until an object has data in it",
+        "user": "U15HRTAHL",
+        "ts": "1507057973.000384"
+    },
+    {
+        "type": "message",
+        "text": "I hate programming because of you guys",
+        "user": "U15J5H60P",
+        "ts": "1507057988.000164"
+    },
+    {
+        "type": "message",
+        "text": "Fucking A joe, thats what i just said",
+        "user": "U15HY5TG8",
+        "ts": "1507058018.000301"
+    },
+    {
+        "type": "message",
+        "text": "Why?",
+        "user": "U15HY5TG8",
+        "ts": "1507058021.000327"
+    },
+    {
+        "type": "message",
+        "text": "Yes lol",
+        "user": "U15HY5TG8",
+        "ts": "1507058031.000079"
+    },
+    {
+        "type": "message",
+        "text": "Or are you trying to tell me that that is not a loading screen lol",
+        "user": "U15HY5TG8",
+        "ts": "1507058055.000422"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1507058065.000114"
+    },
+    {
+        "type": "message",
+        "text": "I'll show you",
+        "user": "U15HRTAHL",
+        "ts": "1507058067.000117"
+    },
+    {
+        "type": "message",
+        "text": "Ok well what i meant is a spinner to represent the promise ",
+        "user": "U15HY5TG8",
+        "ts": "1507058089.000338",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1507058122.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1507058138.000143"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1507058139.000135"
+    }
+]

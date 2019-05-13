@@ -1,0 +1,53 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1509645260.000430",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1509645261.000110",
+        "text": "<@U15HRTAHL> set the channel purpose: To discuss things James will not condone",
+        "purpose": "To discuss things James will not condone"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1509645385.000491",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1509645419.000422",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1509645679.000269",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1509645866.000477",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1509646033.000331",
+        "text": "<@U15HSHSS2> has joined the channel"
+    }
+]

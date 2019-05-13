@@ -1,0 +1,95 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> how do options work?",
+        "user": "U15HRTAHL",
+        "ts": "1520606192.000022"
+    },
+    {
+        "type": "message",
+        "text": "idk if i can explain any better than i did  when i talked about them with andrew in this channel",
+        "user": "U15HZ01QX",
+        "ts": "1520606265.000017"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1518452700000466>",
+        "user": "U15HRTAHL",
+        "ts": "1520606497.000354",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1518452700000466",
+                "fallback": "[February 12th, 2018 8:25 AM] james: So in my suggestion above youd be buying a contract to buy 100 shares of apple on 4\/20 for exactly 165 dollars.  So if the price on 4\/20 is like 174 bucks youve got some apple shares 9 bucks below what theyre going for.  \n\nNow im guessing you dont have $16,500 laying around so what youd actually be looking for is for apple to go to like ~163 in the next week or so.  Then you could sell your contract early to someone else for a nice premium.  So youd get some free money.",
+                "ts": "1518452700.000466",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C6R3H2A7L",
+                "channel_name": "finance",
+                "is_msg_unfurl": true,
+                "text": "So in my suggestion above youd be buying a contract to buy 100 shares of apple on 4\/20 for exactly 165 dollars.  So if the price on 4\/20 is like 174 bucks youve got some apple shares 9 bucks below what theyre going for.  \n\nNow im guessing you dont have $16,500 laying around so what youd actually be looking for is for apple to go to like ~163 in the next week or so.  Then you could sell your contract early to someone else for a nice premium.  So youd get some free money.",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #finance"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HRTAHL",
+        "ts": "1520606501.000001"
+    },
+    {
+        "client_msg_id": "630DFDD1-994B-4562-AEB9-7B9D328D782F",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HZ01QX",
+        "ts": "1520606594.000338"
+    },
+    {
+        "client_msg_id": "EE6B9F95-1E77-4850-89EA-44F714F82471",
+        "type": "message",
+        "text": "Or read from here <https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1519140102000533>",
+        "user": "U15HZ01QX",
+        "ts": "1520606601.000639",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1519140102000533",
+                "fallback": "[February 20th, 2018 7:21 AM] andrew: I still don’t understand calls",
+                "ts": "1519140102.000533",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C6R3H2A7L",
+                "channel_name": "finance",
+                "is_msg_unfurl": true,
+                "text": "I still don’t understand calls",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #finance"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44FBCFEE-87C6-44F7-897A-30D5B6D22DC6",
+        "type": "message",
+        "text": "Or I can explain them again later",
+        "user": "U15HZ01QX",
+        "ts": "1520606617.000506"
+    },
+    {
+        "type": "message",
+        "text": "I think I just gotta watch a video on them",
+        "user": "U15HRTAHL",
+        "ts": "1520606725.000072"
+    }
+]

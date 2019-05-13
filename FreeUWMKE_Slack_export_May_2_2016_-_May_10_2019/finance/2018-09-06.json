@@ -1,0 +1,223 @@
+[
+    {
+        "client_msg_id": "c9de3e77-875f-453a-8650-0fcd6c8fc282",
+        "type": "message",
+        "text": "market is in free fall",
+        "user": "U15HRTAHL",
+        "ts": "1536246424.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus MU",
+        "user": "U15J5H60P",
+        "ts": "1536246484.000200"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               44.48               -5.06              -10.214 \n       Avg.                 ---                 ---             -10.214% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1536246484.000300",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 34752,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3cb1aa57-987c-4acf-b7c9-9cb703022ed4",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1536246485.000100"
+    },
+    {
+        "client_msg_id": "8e620b57-d810-4d80-ac17-a64c9ac4c5f8",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1536246491.000100"
+    },
+    {
+        "client_msg_id": "1815a1a3-a8cc-455c-b828-4ced5b32f1f1",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1536246492.000100"
+    },
+    {
+        "client_msg_id": "91e0dd2f-ee5d-4967-83e6-34fae073acaa",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1536246493.000100"
+    },
+    {
+        "client_msg_id": "bb215417-1870-4110-875e-d4509ff02ad0",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1536246494.000100"
+    },
+    {
+        "client_msg_id": "f644c4bc-f7c6-4a37-93c5-3416d64b5f16",
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1536246494.000300"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HSHSS2",
+        "ts": "1536246561.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/abandon-ship-3o6ZtihIv0pJqdp3H2",
+                "image_url": "https:\/\/media0.giphy.com\/media\/3o6ZtihIv0pJqdp3H2\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 106,
+                "image_bytes": 541345,
+                "is_animated": true,
+                "title": "abandon ship",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/abandon-ship-3o6ZtihIv0pJqdp3H2"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac745691-d875-4263-8d2a-e387d71d5bc1",
+        "type": "message",
+        "text": "This game trash",
+        "user": "U15J5H60P",
+        "ts": "1536246573.000100"
+    },
+    {
+        "client_msg_id": "e2de7d09-7c55-4614-8c2c-a18c307a6b6e",
+        "type": "message",
+        "text": "Down 402.73 so far...",
+        "user": "U15J5H60P",
+        "ts": "1536246597.000200"
+    },
+    {
+        "client_msg_id": "4feb9cc0-5f86-430a-815b-0a4f4b3bc583",
+        "type": "message",
+        "text": "trump doodoo",
+        "user": "U15HRTAHL",
+        "ts": "1536246715.000100"
+    },
+    {
+        "client_msg_id": "d2087082-91d9-4f8d-95db-7f61fa5232ba",
+        "type": "message",
+        "text": "So do I go balls deep in MU?",
+        "user": "U15J5H60P",
+        "ts": "1536246774.000100"
+    },
+    {
+        "client_msg_id": "58b1de41-f3c6-4367-8265-47c8daacdef0",
+        "type": "message",
+        "text": "Should I average down?",
+        "user": "U15J5H60P",
+        "ts": "1536246778.000100"
+    },
+    {
+        "client_msg_id": "e6c46b23-e733-427d-aec6-9920b1e34cff",
+        "type": "message",
+        "text": "You know it'll bounce back",
+        "user": "U15HSHSS2",
+        "ts": "1536246787.000100"
+    },
+    {
+        "client_msg_id": "b95358c6-1983-4200-88a5-9353ce658809",
+        "type": "message",
+        "text": "its gotta",
+        "user": "U15HSHSS2",
+        "ts": "1536246791.000100"
+    },
+    {
+        "client_msg_id": "9775c1d3-ab6a-4740-b94d-aee9b53bd021",
+        "type": "message",
+        "text": "Right",
+        "user": "U15J5H60P",
+        "ts": "1536246792.000100"
+    },
+    {
+        "client_msg_id": "0f14c0dd-502c-4b52-a8bf-00d29974eefb",
+        "type": "message",
+        "text": "It's gotta",
+        "user": "U15J5H60P",
+        "ts": "1536246794.000100"
+    },
+    {
+        "client_msg_id": "cdf82ad2-73f3-4888-a818-432b48280355",
+        "type": "message",
+        "text": "Free money",
+        "user": "U15J5H60P",
+        "ts": "1536246796.000100"
+    },
+    {
+        "client_msg_id": "2e26f044-72f6-457a-88f4-8709588817e7",
+        "type": "message",
+        "text": "Might as well just start printing it",
+        "user": "U15J5H60P",
+        "ts": "1536246802.000100"
+    },
+    {
+        "client_msg_id": "7cd00d96-994b-4019-9057-2e169d84aecb",
+        "type": "message",
+        "text": "literally an ATM",
+        "user": "U15HSHSS2",
+        "ts": "1536246808.000100"
+    },
+    {
+        "client_msg_id": "8852cae1-d084-4c49-a3e3-3a20d151ec36",
+        "type": "message",
+        "text": "Betting on red this time",
+        "user": "U15J5H60P",
+        "ts": "1536246821.000100"
+    },
+    {
+        "client_msg_id": "53335845-8179-4f3c-9e4b-b1a34567ce50",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1536246823.000200"
+    },
+    {
+        "client_msg_id": "f7265d5d-9c0d-4108-aab5-e640a958f972",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1536258530.000200"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1536258531.000100",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media0.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    }
+]

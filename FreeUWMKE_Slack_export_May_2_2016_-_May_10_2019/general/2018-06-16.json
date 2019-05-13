@@ -1,0 +1,325 @@
+[
+    {
+        "client_msg_id": "917FF137-8ED7-4892-B762-E6697F54DA0B",
+        "type": "message",
+        "text": "Does 2 work?",
+        "user": "U15J5H60P",
+        "ts": "1529166775.000082"
+    },
+    {
+        "client_msg_id": "A5DCC7A3-9976-4711-9E91-A535C98FBA65",
+        "type": "message",
+        "text": "Is anyone still interested?",
+        "user": "U15J5H60P",
+        "ts": "1529166780.000076"
+    },
+    {
+        "client_msg_id": "135282fd-dbfe-48ab-a64b-9aa6cd5ed03b",
+        "type": "message",
+        "text": "Do you think it's worth the $40?",
+        "user": "U15HRTAHL",
+        "ts": "1529168392.000152"
+    },
+    {
+        "client_msg_id": "0cd2de51-608d-419f-b1f1-8b46e1ae0b7a",
+        "type": "message",
+        "text": "Or are you wanting to go because \"it's something to do?\"",
+        "user": "U15HRTAHL",
+        "ts": "1529168419.000039"
+    },
+    {
+        "client_msg_id": "48b3f9af-52c1-4d3b-82e9-1a65c130c5ab",
+        "type": "message",
+        "text": "<@U15HSHSS2> are you hungover?",
+        "user": "U15HRTAHL",
+        "ts": "1529168429.000031"
+    },
+    {
+        "client_msg_id": "768a00ae-18e8-4d53-9499-a72c34afc769",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1529168528.000107"
+    },
+    {
+        "client_msg_id": "1019BD40-E1FA-4A84-9A98-872B687F1E41",
+        "type": "message",
+        "text": "It's something to do",
+        "user": "U15J5H60P",
+        "ts": "1529168570.000080"
+    },
+    {
+        "client_msg_id": "95790265-b248-4c9d-9505-5a480bc84c60",
+        "type": "message",
+        "text": "Idk if it's worth $40 lol. You guys just wanna go to Cafe Hollander and get drinks or somewhere?",
+        "user": "U15HRTAHL",
+        "ts": "1529168602.000063"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FB8NG87EF",
+                "created": 1529169767,
+                "timestamp": 1529169767,
+                "name": "Screenshot_20180616-122038.png",
+                "title": "Screenshot_20180616-122038.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 415010,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FB8NG87EF\/screenshot_20180616-122038.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FB8NG87EF\/download\/screenshot_20180616-122038.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8NG87EF-f05cb383ca\/screenshot_20180616-122038_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2560,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FB8NG87EF\/screenshot_20180616-122038.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FB8NG87EF-172c94c856",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1529169770.000093",
+        "client_msg_id": "e9605c41-5b14-4f5d-a27d-c60772dbe9f2"
+    },
+    {
+        "client_msg_id": "B590E132-36EB-4DB4-B2A7-B2462596526F",
+        "type": "message",
+        "text": "#gatekeeping",
+        "user": "U15J5H60P",
+        "ts": "1529169803.000055"
+    },
+    {
+        "client_msg_id": "21EAE1EE-615C-4ED8-BB5F-A15944EE8582",
+        "type": "message",
+        "text": "I'll ask Andrea what she wants to do",
+        "user": "U15J5H60P",
+        "ts": "1529169812.000028"
+    },
+    {
+        "client_msg_id": "06179501-fd5d-4c70-84c0-13e4b2ba421b",
+        "type": "message",
+        "text": "Did you read his reply lol",
+        "user": "U15HRTAHL",
+        "ts": "1529169969.000097"
+    },
+    {
+        "client_msg_id": "4FB6A28A-6923-4BB1-A1A8-3D41FD9E9E7B",
+        "type": "message",
+        "text": "We’re gonna go down to mil a little later. Toss up on whether we do the art thing or not",
+        "user": "U15HSHSS2",
+        "ts": "1529170601.000065"
+    },
+    {
+        "client_msg_id": "BB029E74-D080-4223-8200-2673C3E0E1A4",
+        "type": "message",
+        "text": "Cafe Hollander at 2? <@U15HRTAHL> <@U15HY5TG8> ",
+        "user": "U15J5H60P",
+        "ts": "1529172330.000030"
+    },
+    {
+        "client_msg_id": "2b6736eb-e54a-4616-882f-3e52847c716d",
+        "type": "message",
+        "text": "Yep we're down",
+        "user": "U15HRTAHL",
+        "ts": "1529172348.000093"
+    },
+    {
+        "client_msg_id": "21CC7434-57ED-431F-B0A4-2A39BF5FC756",
+        "type": "message",
+        "text": "Gucci",
+        "user": "U15J5H60P",
+        "ts": "1529172363.000068"
+    },
+    {
+        "client_msg_id": "2475863c-8fc1-4006-9895-c74eadf604f2",
+        "type": "message",
+        "text": "<@U15J5H60P> it's community day from 1-4",
+        "user": "U15HRTAHL",
+        "ts": "1529172414.000078"
+    },
+    {
+        "client_msg_id": "03e586d7-055c-4f79-8248-eef337f22d71",
+        "type": "message",
+        "text": "In Pokemon",
+        "user": "U15HRTAHL",
+        "ts": "1529172420.000045"
+    },
+    {
+        "client_msg_id": "E2E05784-D3DD-45BF-A53A-4BDF9AEFF85C",
+        "type": "message",
+        "text": "What does that mean?",
+        "user": "U15J5H60P",
+        "ts": "1529172427.000095"
+    },
+    {
+        "client_msg_id": "FC7131EC-7CAC-4C0A-BB5A-DE97A875AB1C",
+        "type": "message",
+        "text": "Prob not. I just got home from playing tennis and am gonna chillax. Let me know if you guys end up doing dinner or something though",
+        "user": "U15HY5TG8",
+        "ts": "1529172530.000132"
+    },
+    {
+        "client_msg_id": "B5B911B5-E844-428F-85EF-A19830743F93",
+        "type": "message",
+        "text": "Ok",
+        "user": "U15J5H60P",
+        "ts": "1529172595.000017"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FB85589FA",
+                "created": 1529172814,
+                "timestamp": 1529172814,
+                "name": "Screenshot_20180616-131316.png",
+                "title": "Screenshot_20180616-131316.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 1088793,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FB85589FA\/screenshot_20180616-131316.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FB85589FA\/download\/screenshot_20180616-131316.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB85589FA-edefc87676\/screenshot_20180616-131316_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2560,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FB85589FA\/screenshot_20180616-131316.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FB85589FA-e5057a3b37",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1529172817.000077",
+        "client_msg_id": "dfb45839-4212-4d70-bcd2-a0825e903065"
+    },
+    {
+        "client_msg_id": "f28ad484-8789-4346-ad57-bafa71dc25e0",
+        "type": "message",
+        "text": "We're here pretty much. Just catching Pokemon",
+        "user": "U15HRTAHL",
+        "ts": "1529175479.000108"
+    },
+    {
+        "client_msg_id": "3C7AE893-DE70-4A60-837B-053652E29F3F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1529175499.000080"
+    },
+    {
+        "client_msg_id": "585cb608-77c8-4e97-ae03-3a96132ae53a",
+        "type": "message",
+        "text": "<@U15J5H60P> we got a table",
+        "user": "U15HRTAHL",
+        "ts": "1529175707.000075"
+    },
+    {
+        "client_msg_id": "4b3406fb-3840-4b9b-a371-69c107a1e540",
+        "type": "message",
+        "text": "Outside",
+        "user": "U15HRTAHL",
+        "ts": "1529175737.000104"
+    },
+    {
+        "client_msg_id": "CBF92682-FDF7-4356-8098-A3DA3ACDB5E0",
+        "type": "message",
+        "text": "Lol thank you to whomever deleted that",
+        "user": "U15J5H60P",
+        "ts": "1529213529.000003"
+    },
+    {
+        "client_msg_id": "BC5500EE-345D-42C1-BF25-E52688C1CEDC",
+        "type": "message",
+        "text": "Anyways, I'm too old to be out this late",
+        "user": "U15J5H60P",
+        "ts": "1529213549.000048"
+    },
+    {
+        "client_msg_id": "57751F5E-6EEA-4ADB-9495-BF7B97819847",
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15J5H60P",
+        "ts": "1529213551.000011"
+    },
+    {
+        "client_msg_id": "1b587a5c-aaf8-4462-9bed-0ab0f50282de",
+        "type": "message",
+        "text": "40 year old you would whoop your ass if he ever heard you say that",
+        "user": "U15HSHSS2",
+        "ts": "1529215042.000010"
+    },
+    {
+        "client_msg_id": "ede8cb51-ced9-4af2-baef-298a7ce21e4a",
+        "type": "message",
+        "text": "Also what was deleted?",
+        "user": "U15HSHSS2",
+        "ts": "1529215109.000052"
+    }
+]

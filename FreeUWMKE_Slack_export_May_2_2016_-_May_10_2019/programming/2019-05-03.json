@@ -1,0 +1,827 @@
+[
+    {
+        "client_msg_id": "23fd677e-aa4d-4bd3-b4ea-34ee36bf6bdd",
+        "type": "message",
+        "text": "Tutorials make me seriously consider offing myself",
+        "user": "U15HY5TG8",
+        "ts": "1556888576.000300"
+    },
+    {
+        "client_msg_id": "34FAE5D7-7104-4A9B-ADE7-57E0EEAFEF0D",
+        "type": "message",
+        "text": "What tutorials are you doing?",
+        "user": "U15J5H60P",
+        "ts": "1556889601.000600"
+    },
+    {
+        "client_msg_id": "e81236db-7692-494e-84db-f4ce66dc4e64",
+        "type": "message",
+        "text": "Sitecore",
+        "user": "U15HY5TG8",
+        "ts": "1556889689.000800"
+    },
+    {
+        "client_msg_id": "4AB28080-0174-4BBE-AEAA-E017F171C9A1",
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1556889720.001000"
+    },
+    {
+        "client_msg_id": "ef2b6ec9-a495-4031-9da5-992fbe8b08f0",
+        "type": "message",
+        "text": "It's like they pick up the oldest people on the earth to present and voiceover",
+        "user": "U15HY5TG8",
+        "ts": "1556889822.001400"
+    },
+    {
+        "client_msg_id": "37be7f83-c464-43c1-8f4d-8448666677f4",
+        "type": "message",
+        "text": "\"nug-get packages\"",
+        "user": "U15HY5TG8",
+        "ts": "1556891351.001700"
+    },
+    {
+        "client_msg_id": "01d6c794-f19d-482b-9611-640939893423",
+        "type": "message",
+        "text": "fucking plebs",
+        "user": "U15HY5TG8",
+        "ts": "1556891354.001900"
+    },
+    {
+        "client_msg_id": "116aafb6-6d8f-41e3-9ef8-4323803f37ee",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1556891373.002200"
+    },
+    {
+        "client_msg_id": "a92d059f-5a6d-4250-ac94-161b2cd66120",
+        "type": "message",
+        "text": "My coworker worries me. He tends to change his connection strings to point to a prod database. I want to puke",
+        "user": "U15HY5TG8",
+        "ts": "1556895681.003500"
+    },
+    {
+        "client_msg_id": "60040ba6-1b35-4572-87d9-5e8ae2e5561e",
+        "type": "message",
+        "text": "Pro move",
+        "user": "U15J5H60P",
+        "ts": "1556895690.003700"
+    },
+    {
+        "client_msg_id": "14e923aa-f259-4c4e-b2cd-5d190edc85c7",
+        "type": "message",
+        "text": "I just told him to please don't because it worries me",
+        "user": "U15HY5TG8",
+        "ts": "1556895805.004000"
+    },
+    {
+        "client_msg_id": "4dbfbb63-2ea0-4316-b04c-7e88c17e579b",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1556895933.004200"
+    },
+    {
+        "client_msg_id": "f2764948-64d9-4e10-9591-e85a6f162758",
+        "type": "message",
+        "text": "Why does he do that?",
+        "user": "U15J5H60P",
+        "ts": "1556895937.004400"
+    },
+    {
+        "client_msg_id": "16d23153-2aaa-4983-92c2-84a3dd72d109",
+        "type": "message",
+        "text": "cause he wants real data, but doesn't want personal info on his local, so apparently altering or deleting real data is a better risk to him :nauseated_face::face_vomiting:......:grimacing::gun:",
+        "user": "U15HY5TG8",
+        "ts": "1556896275.005500"
+    },
+    {
+        "client_msg_id": "fa201e7c-93d7-4346-baca-927c9f6abba8",
+        "type": "message",
+        "text": "lololol",
+        "user": "U15J5H60P",
+        "ts": "1556898194.005700"
+    },
+    {
+        "client_msg_id": "877196f1-10e6-40a9-90f5-5989b99e9ead",
+        "type": "message",
+        "text": "Y'all should just refresh your test\/QA databases with Prod data every night",
+        "user": "U15J5H60P",
+        "ts": "1556898213.006100"
+    },
+    {
+        "client_msg_id": "B0125BF9-40D1-413B-9153-DC30409834AE",
+        "type": "message",
+        "text": "Ever release we should, yeah. Every night is a bit of overkill",
+        "user": "U15HY5TG8",
+        "ts": "1556898270.007100"
+    },
+    {
+        "client_msg_id": "c63fdd54-51a9-45f7-9721-2f5c6e4f8066",
+        "type": "message",
+        "text": "Why is it overkill?",
+        "user": "U15J5H60P",
+        "ts": "1556898282.007500"
+    },
+    {
+        "client_msg_id": "A581DBAB-0EB1-4735-89F4-991B9818644C",
+        "type": "message",
+        "text": "But seriously, i was like \"BRO WHY\"",
+        "user": "U15HY5TG8",
+        "ts": "1556898288.007900"
+    },
+    {
+        "client_msg_id": "0475b89d-2ae8-47d0-8570-675b7d579306",
+        "type": "message",
+        "text": "It could be an automated process.",
+        "user": "U15J5H60P",
+        "ts": "1556898292.008200"
+    },
+    {
+        "client_msg_id": "f892928e-34e8-4e85-883b-6728626287a7",
+        "type": "message",
+        "text": "Every night at 2AM the DBs refresh. We do that here and it's amazing",
+        "user": "U15J5H60P",
+        "ts": "1556898308.008900"
+    },
+    {
+        "client_msg_id": "76425D30-4B3E-4218-9E9F-D4CB5073344A",
+        "type": "message",
+        "text": "Yeah but theres times where i set up a decent amount of work where i can come back to it the next day as a fake user's data",
+        "user": "U15HY5TG8",
+        "ts": "1556898334.009800"
+    },
+    {
+        "client_msg_id": "9d97bfbe-6a8c-450d-88c4-29f623a5de31",
+        "type": "message",
+        "text": "You guys pull prod data into qa?",
+        "user": "U15HSHSS2",
+        "ts": "1556898338.010000"
+    },
+    {
+        "client_msg_id": "412c5ca2-06ea-4ea7-8549-ea7a76596ec2",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1556898346.010200"
+    },
+    {
+        "client_msg_id": "39f351f6-5560-438c-a988-a916a77b5598",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1556898348.010400"
+    },
+    {
+        "client_msg_id": "7b0f4b68-1920-44d0-82f9-0792c0163093",
+        "type": "message",
+        "text": "do you guys ever run into conflicts with data?",
+        "user": "U15HSHSS2",
+        "ts": "1556898358.010900"
+    },
+    {
+        "client_msg_id": "8F716D33-CD5C-4025-B70D-28D65E1CACB6",
+        "type": "message",
+        "text": "Do you scrub it?",
+        "user": "U15HY5TG8",
+        "ts": "1556898360.011200"
+    },
+    {
+        "client_msg_id": "099c3b77-99ae-4de2-a448-687e7cf648f8",
+        "type": "message",
+        "text": "What do you mean conflicts?",
+        "user": "U15J5H60P",
+        "ts": "1556898368.011500"
+    },
+    {
+        "client_msg_id": "44d8c54c-cba3-467e-af84-d02ad9484131",
+        "type": "message",
+        "text": "It pretty much drops all of our data and reloads test\/qa",
+        "user": "U15J5H60P",
+        "ts": "1556898382.012600",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1556898401.000000"
+        }
+    },
+    {
+        "client_msg_id": "DFC16781-AB5B-4E46-B5A3-1F7021852B52",
+        "type": "message",
+        "text": "Yeah there shouldnt be conflicts. It wouldnt be adding",
+        "user": "U15HY5TG8",
+        "ts": "1556898387.012900"
+    },
+    {
+        "client_msg_id": "37702e49-b549-45af-803d-a0d992afa1dc",
+        "type": "message",
+        "text": "I see",
+        "user": "U15HSHSS2",
+        "ts": "1556898395.013200"
+    },
+    {
+        "client_msg_id": "29785cbf-b44c-4c86-9abe-6090a781b747",
+        "type": "message",
+        "text": "Evan, we do not scrub it. It's not personal data, it's investment data.",
+        "user": "U15J5H60P",
+        "ts": "1556898412.013800"
+    },
+    {
+        "client_msg_id": "434A8744-A65E-4CDA-96EA-B32BCCF7DBA9",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1556898419.014100"
+    },
+    {
+        "client_msg_id": "41384322-d4a8-4afb-a2ce-e1868dd8f4a1",
+        "type": "message",
+        "text": "so it's important that we have real data to test against.",
+        "user": "U15J5H60P",
+        "ts": "1556898423.014400"
+    },
+    {
+        "client_msg_id": "B50090BB-F367-45DB-92FE-20D3513A56D0",
+        "type": "message",
+        "text": "I hear ya",
+        "user": "U15HY5TG8",
+        "ts": "1556898434.014800"
+    },
+    {
+        "client_msg_id": "d879295e-6ddc-495d-abd5-88c33fc30950",
+        "type": "message",
+        "text": "our QA's create tons of test data for specific stuff thankfully",
+        "user": "U15HSHSS2",
+        "ts": "1556898438.015000"
+    },
+    {
+        "client_msg_id": "d302723a-6576-4a6e-904c-2e7da435e07c",
+        "type": "message",
+        "text": "Ah, we don't have dedicated QA's. We're jealous. We desperately want some.",
+        "user": "U15J5H60P",
+        "ts": "1556898453.015600"
+    },
+    {
+        "client_msg_id": "99BC83D0-9E88-4194-9D8B-A5C8FD5B78E9",
+        "type": "message",
+        "text": "Yeah and thats why refreshes every night is impossible",
+        "user": "U15HY5TG8",
+        "ts": "1556898459.015800"
+    },
+    {
+        "client_msg_id": "E4E30823-F2BB-4670-86DC-FBA2704EA49A",
+        "type": "message",
+        "text": "We need QA too",
+        "user": "U15HY5TG8",
+        "ts": "1556898474.016200"
+    },
+    {
+        "client_msg_id": "f21f77a2-5a33-4dfa-a32c-663153feb4f0",
+        "type": "message",
+        "text": "So do the devs test things then?",
+        "user": "U15HSHSS2",
+        "ts": "1556898500.016800"
+    },
+    {
+        "client_msg_id": "a1a1ac2f-f042-40d3-9b1a-b694d114ca77",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15J5H60P",
+        "ts": "1556898504.017000"
+    },
+    {
+        "client_msg_id": "c8c0f54b-9848-477a-a693-440651e2904e",
+        "type": "message",
+        "text": "We're responsible for every part of the stack",
+        "user": "U15J5H60P",
+        "ts": "1556898511.017300"
+    },
+    {
+        "client_msg_id": "046bf28a-4446-439f-a083-ca27057dc610",
+        "type": "message",
+        "text": "lol damn",
+        "user": "U15HSHSS2",
+        "ts": "1556898517.017600"
+    },
+    {
+        "client_msg_id": "c7840923-3d20-4a07-ad9d-0dd842d581b7",
+        "type": "message",
+        "text": "UI\/API\/DB\/Infra",
+        "user": "U15J5H60P",
+        "ts": "1556898523.017800"
+    },
+    {
+        "client_msg_id": "82C9A6A5-D7DB-4FBD-AF87-2465796EA38E",
+        "type": "message",
+        "text": "Yup same haha",
+        "user": "U15HY5TG8",
+        "ts": "1556898528.018100"
+    },
+    {
+        "client_msg_id": "3ADC6457-647E-4C4B-B82B-EA402E7026EB",
+        "type": "message",
+        "text": "It sucks",
+        "user": "U15HY5TG8",
+        "ts": "1556898532.018400"
+    },
+    {
+        "client_msg_id": "39e078b9-124d-478e-bacc-b459dba5d7f5",
+        "type": "message",
+        "text": "We have to maintain, test, and develop all of it",
+        "user": "U15J5H60P",
+        "ts": "1556898533.018500"
+    },
+    {
+        "client_msg_id": "a578ff7a-dba3-4021-8a4f-8ea6f93682e0",
+        "type": "message",
+        "text": "I like it",
+        "user": "U15J5H60P",
+        "ts": "1556898535.018700"
+    },
+    {
+        "client_msg_id": "dcf08694-2891-43ea-954d-97c8f67d4370",
+        "type": "message",
+        "text": "Well, maybe not the testing part",
+        "user": "U15J5H60P",
+        "ts": "1556898542.018900"
+    },
+    {
+        "client_msg_id": "172d0bd8-3ac4-4020-8542-b35b2416b276",
+        "type": "message",
+        "text": "But I don't mind the full stack.",
+        "user": "U15J5H60P",
+        "ts": "1556898549.019500"
+    },
+    {
+        "client_msg_id": "15c31246-70d0-48a6-a0cf-96b884fe60c3",
+        "type": "message",
+        "text": "I would hate the UI part lol",
+        "user": "U15HSHSS2",
+        "ts": "1556898552.019600"
+    },
+    {
+        "client_msg_id": "005c75fe-11d5-4446-9692-c7584aae4a7c",
+        "type": "message",
+        "text": "fuck CSS",
+        "user": "U15HSHSS2",
+        "ts": "1556898563.020100"
+    },
+    {
+        "client_msg_id": "5F5CD416-A6F5-48B8-B514-863B9152CFE7",
+        "type": "message",
+        "text": "UI and testing make me want to die",
+        "user": "U15HY5TG8",
+        "ts": "1556898566.020300"
+    },
+    {
+        "client_msg_id": "d38992a4-05c2-4e73-a6f2-ef6b23a7bd89",
+        "type": "message",
+        "text": "Is all of NM development like that? or just your department?",
+        "user": "U15HSHSS2",
+        "ts": "1556898611.020800"
+    },
+    {
+        "client_msg_id": "793e942c-959e-4b48-a5be-e1a4aa4a3838",
+        "type": "message",
+        "text": "It's different everywhere around the company. It's really not that bad though. You learn to learn things quickly.",
+        "user": "U15J5H60P",
+        "ts": "1556898660.021300"
+    },
+    {
+        "client_msg_id": "937fb9b7-df04-42af-8bd2-6bb24bf7de15",
+        "type": "message",
+        "text": "Yeah, I suppose I wouldn't really mind being in control of the whole process",
+        "user": "U15HSHSS2",
+        "ts": "1556898712.021800"
+    },
+    {
+        "client_msg_id": "48f5e34b-660c-4e14-90f6-4f1d2bb3443d",
+        "type": "message",
+        "text": "Putting in a ticket for the API people to fix\/update\/develop something would be obnoxious to me.",
+        "user": "U15J5H60P",
+        "ts": "1556898732.022500"
+    },
+    {
+        "client_msg_id": "abbbe2d1-5755-4767-8a2b-8e08ac4476ad",
+        "type": "message",
+        "text": "but it is nice finishing my shit, an being like \"okay you people take care of the rest\"",
+        "user": "U15HSHSS2",
+        "ts": "1556898741.022900"
+    },
+    {
+        "client_msg_id": "a51220b6-cee3-42c2-889d-a06de23842b8",
+        "type": "message",
+        "text": "Especially if it's something small",
+        "user": "U15J5H60P",
+        "ts": "1556898741.023000"
+    },
+    {
+        "client_msg_id": "dbadd61d-37b4-4d3c-8e44-615069ca0347",
+        "type": "message",
+        "text": "For sure.",
+        "user": "U15J5H60P",
+        "ts": "1556898752.023300"
+    },
+    {
+        "client_msg_id": "2e4587ba-516f-44c9-b653-01c0d4796b8d",
+        "type": "message",
+        "text": "How we do it is \"thin-slicing\". It's pretty much taking a feature, thin slicing it in such a way where a single person can do the API\/UI pretty easily, then you say, \"Alright, I'm done with my part, I'll wait for y'all to finish your shit\".",
+        "user": "U15J5H60P",
+        "ts": "1556898798.024200"
+    },
+    {
+        "client_msg_id": "97e1f23b-3ab4-4de9-bc47-36c2db8fbd46",
+        "type": "message",
+        "text": "Do you develop solely the API\/Services, <@U15HSHSS2>?",
+        "user": "U15J5H60P",
+        "ts": "1556898815.024700"
+    },
+    {
+        "client_msg_id": "8a76e2ff-943e-4afa-8a64-7156ea3779bd",
+        "type": "message",
+        "text": "I do the HTML\/JS front end, C# back end (API\/SERVICE), and the DB work (assuming it's not something really in depth like a big data migration or something)",
+        "user": "U15HSHSS2",
+        "ts": "1556898960.026400"
+    },
+    {
+        "client_msg_id": "e5cba835-ce1c-49cb-92e3-b1856aa3b2e2",
+        "type": "message",
+        "text": "So you do pretty much full-stack.",
+        "user": "U15J5H60P",
+        "ts": "1556898977.026800"
+    },
+    {
+        "client_msg_id": "ebf17584-a227-4ae5-8b46-e8265c4d2089",
+        "type": "message",
+        "text": "then design does the CSS shit",
+        "user": "U15HSHSS2",
+        "ts": "1556898980.027000"
+    },
+    {
+        "client_msg_id": "3710ba83-f5c1-4248-8421-1943533c7bb7",
+        "type": "message",
+        "text": "and QA does the testing",
+        "user": "U15HSHSS2",
+        "ts": "1556898983.027200"
+    },
+    {
+        "client_msg_id": "81fd1ec2-840c-401c-8728-192d4d50fe16",
+        "type": "message",
+        "text": "Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1556898991.027400"
+    },
+    {
+        "client_msg_id": "a142b3d3-9838-4a4d-849d-23d013e4ce80",
+        "type": "message",
+        "text": "yeah almost full-stack",
+        "user": "U15HSHSS2",
+        "ts": "1556899003.027700"
+    },
+    {
+        "client_msg_id": "34f0523e-1570-4a9f-87f0-3c34efece02c",
+        "type": "message",
+        "text": "So do you have to come up with test plans and shit? I know our QA's have all sorts of things they have to do. or do you just run unit\/integration tests?",
+        "user": "U15HSHSS2",
+        "ts": "1556899040.028600"
+    },
+    {
+        "client_msg_id": "ffe7daf9-50e3-484b-9805-16194bb72324",
+        "type": "message",
+        "text": "lol our test plan is 15 items long",
+        "user": "U15HY5TG8",
+        "ts": "1556899458.028900"
+    },
+    {
+        "client_msg_id": "c1d35d91-c3de-4769-895c-c7fb021859a8",
+        "type": "message",
+        "text": "We kind of have it",
+        "user": "U15J5H60P",
+        "ts": "1556899471.029300"
+    },
+    {
+        "client_msg_id": "e2d48d82-108e-4b39-a454-89b62b014e4c",
+        "type": "message",
+        "text": "We have a regression testing list",
+        "user": "U15J5H60P",
+        "ts": "1556899479.029600"
+    },
+    {
+        "client_msg_id": "f7bebbbd-0276-495e-a38a-891e775c4218",
+        "type": "message",
+        "text": "We run unit tests",
+        "user": "U15J5H60P",
+        "ts": "1556899489.029900"
+    },
+    {
+        "client_msg_id": "aa3c489c-9530-47b0-adb7-4d9f32da50bc",
+        "type": "message",
+        "text": "Then we do a checkout for regression",
+        "user": "U15J5H60P",
+        "ts": "1556899496.030200"
+    },
+    {
+        "client_msg_id": "12fd67c0-5518-45f0-82d6-80323b077e20",
+        "type": "message",
+        "text": "We do not use integration tests at this time but it's something we're interested in",
+        "user": "U15J5H60P",
+        "ts": "1556899508.030600"
+    },
+    {
+        "client_msg_id": "8c2912b0-1ebb-442b-a8b0-5033f86c08ca",
+        "type": "message",
+        "text": "We just finished our project we've been working on for a few months of adding some functionality to one of our oldest products lol",
+        "user": "U15HSHSS2",
+        "ts": "1556899606.031300"
+    },
+    {
+        "client_msg_id": "6e62d54a-07e9-405e-ab5a-50562cb16c17",
+        "type": "message",
+        "text": "there's code in there from over 20 years ago",
+        "user": "U15HSHSS2",
+        "ts": "1556899618.031600"
+    },
+    {
+        "client_msg_id": "4777e5df-cda2-4054-8f2f-269758fa87bb",
+        "type": "message",
+        "text": "comments from fucking 1998 lol",
+        "user": "U15HSHSS2",
+        "ts": "1556899639.031900"
+    },
+    {
+        "client_msg_id": "64549120-6d1d-42a9-9400-5386863e6458",
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HY5TG8",
+        "ts": "1556899659.032100"
+    },
+    {
+        "client_msg_id": "83235557-bdcb-46be-8ae7-bbcba07a8a27",
+        "type": "message",
+        "text": "now we're moving on to a brand new product with brand new technology lol",
+        "user": "U15HSHSS2",
+        "ts": "1556899685.032500"
+    },
+    {
+        "client_msg_id": "09ad5285-d455-4c14-8a60-ea1c9eea0f13",
+        "type": "message",
+        "text": "I have to learn VueJS",
+        "user": "U15HSHSS2",
+        "ts": "1556899691.032700"
+    },
+    {
+        "client_msg_id": "d614074a-0054-4380-8570-7f13b3d6f249",
+        "type": "message",
+        "text": "whatever that is",
+        "user": "U15HSHSS2",
+        "ts": "1556899694.032900"
+    },
+    {
+        "client_msg_id": "69ca28e4-d3fd-41cc-9dba-ec6f2a883d61",
+        "type": "message",
+        "text": "VueJs is neat",
+        "user": "U15HY5TG8",
+        "ts": "1556899730.033100"
+    },
+    {
+        "client_msg_id": "9b656cce-5eea-4082-a362-def094fed00e",
+        "type": "message",
+        "text": "it's like angular but less instense",
+        "user": "U15HY5TG8",
+        "ts": "1556899745.033500"
+    },
+    {
+        "client_msg_id": "75b55ce8-376c-432f-badf-af9e78ebad4a",
+        "type": "message",
+        "text": "DUDE",
+        "user": "U15J5H60P",
+        "ts": "1556899913.033900"
+    },
+    {
+        "client_msg_id": "b2abe385-d9eb-4ff1-ab0a-807e31be1eff",
+        "type": "message",
+        "text": "Vue is awesome",
+        "user": "U15J5H60P",
+        "ts": "1556899915.034100"
+    },
+    {
+        "client_msg_id": "8c993916-3511-43f8-980e-e6810a800b7e",
+        "type": "message",
+        "text": "So I need recipes for my project so I scraped some from <http:\/\/foodnetwork.com|foodnetwork.com>. Except they were in a shitty format",
+        "user": "U15HRTAHL",
+        "ts": "1556902631.034800"
+    },
+    {
+        "client_msg_id": "ecc61953-bfea-4da2-bbac-a140aa34d7fd",
+        "type": "message",
+        "text": "I found a pretty cool ML program to convert it to useable info",
+        "user": "U15HRTAHL",
+        "ts": "1556902646.035200"
+    },
+    {
+        "client_msg_id": "0eb75ad2-224d-4a72-9724-151ea00b7567",
+        "type": "message",
+        "text": "so instead of something like this\n`2 tablespoons good olive oil, plus extra for serving`",
+        "user": "U15HRTAHL",
+        "ts": "1556902668.035500"
+    },
+    {
+        "client_msg_id": "f1c42a31-a1a9-4062-9b27-40e9ea128ce9",
+        "type": "message",
+        "text": "I get a json object like this\n```\n{\n        \"comment\": \"good, plus extra for serving\", \n        \"name\": \"olive oil\", \n        \"qty\": \"2\", \n        \"input\": \"2 tablespoons good olive oil, plus extra for serving\", \n        \"display\": \"&lt;span class='qty'&gt;2&lt;\/span&gt;&lt;span class='unit'&gt;tablespoons&lt;\/span&gt;&lt;span class='comment'&gt;good&lt;\/span&gt;&lt;span class='name'&gt;olive oil&lt;\/span&gt;&lt;span class='comment'&gt;, plus extra for serving&lt;\/span&gt;\", \n        \"unit\": \"tablespoon\"\n    }\n```",
+        "user": "U15HRTAHL",
+        "ts": "1556902691.035800"
+    },
+    {
+        "client_msg_id": "b59e7452-2bda-48d1-9731-853b1629a1c8",
+        "type": "message",
+        "text": "noicee",
+        "user": "U15HY5TG8",
+        "ts": "1556902725.036100"
+    },
+    {
+        "client_msg_id": "cd07aa5a-dcb9-4033-8269-24890514fd95",
+        "type": "message",
+        "text": "<https:\/\/github.com\/nytimes\/ingredient-phrase-tagger>",
+        "user": "U15HRTAHL",
+        "ts": "1556902727.036300",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "nytimes\/ingredient-phrase-tagger",
+                "title_link": "https:\/\/github.com\/nytimes\/ingredient-phrase-tagger",
+                "text": "Extract structured data from ingredient phrases using conditional random fields - nytimes\/ingredient-phrase-tagger",
+                "fallback": "GitHub: nytimes\/ingredient-phrase-tagger",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/221409?s=400&v=4",
+                "from_url": "https:\/\/github.com\/nytimes\/ingredient-phrase-tagger",
+                "thumb_width": 285,
+                "thumb_height": 285,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/nytimes\/ingredient-phrase-tagger"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae89242f-9f15-4498-a1a3-a5eef6be3715",
+        "type": "message",
+        "text": "interesting, interesting",
+        "user": "U15HY5TG8",
+        "ts": "1556902847.036600"
+    },
+    {
+        "client_msg_id": "0cc6dee8-bab7-4151-b1f1-94fc24f86145",
+        "type": "message",
+        "text": "Very nice!",
+        "user": "U15J5H60P",
+        "ts": "1556905032.036800"
+    },
+    {
+        "client_msg_id": "6096bf48-88d2-4042-8572-1fe0340b4dfd",
+        "type": "message",
+        "text": "Think I mentioned I switched managers awhile back. Tech lead for our team became my new manager, and old manager went off to manage other people or something. That was right during the time the guys I got hired with got their promotions (~2 months ago). I just had a 1 on 1 with my tech lead\/manager and he brought up that my promotion kind of got lost in translation somewhere between the manager transfer lol and he talked to our dev department director and I should expect to see the promotion in the next few weeks :slightly_smiling_face:",
+        "user": "U15HSHSS2",
+        "ts": "1556909382.040800"
+    },
+    {
+        "client_msg_id": "1FB463CE-2A9B-47A8-B2C4-F5ADF99669D9",
+        "type": "message",
+        "text": "YYAAASSSSS",
+        "user": "U15J5H60P",
+        "ts": "1556909569.041000"
+    },
+    {
+        "client_msg_id": "AB35161F-F057-4CC9-AF93-EE4F43D4300F",
+        "type": "message",
+        "text": "CONGRATS!",
+        "user": "U15J5H60P",
+        "ts": "1556909573.041200"
+    },
+    {
+        "client_msg_id": "F097732F-1853-4234-89F6-0E47B71969A2",
+        "type": "message",
+        "text": "Ayyyy",
+        "user": "U15HY5TG8",
+        "ts": "1556909642.041400"
+    },
+    {
+        "client_msg_id": "972911FA-2737-40DC-910E-15F959900558",
+        "type": "message",
+        "text": "Let's go get fucked up!",
+        "user": "U15J5H60P",
+        "ts": "1556909658.041700"
+    },
+    {
+        "client_msg_id": "25d9d03d-dc70-4ff8-be19-65e86fa9e0ca",
+        "type": "message",
+        "text": "Doesn't that worry you Tom?",
+        "user": "U15HRTAHL",
+        "ts": "1556909733.042100"
+    },
+    {
+        "client_msg_id": "d8b96447-bf68-4df1-82e7-8cd87a3f2e66",
+        "type": "message",
+        "text": "Lost in translation?",
+        "user": "U15HRTAHL",
+        "ts": "1556909738.042300"
+    },
+    {
+        "client_msg_id": "05505b43-3645-4eff-91ad-03ed075ead80",
+        "type": "message",
+        "text": "Your firing could also be lost in translation",
+        "user": "U15HRTAHL",
+        "ts": "1556909749.042700"
+    },
+    {
+        "client_msg_id": "5b31b57e-5d21-4cc1-8eda-dca3f921c7b4",
+        "type": "message",
+        "text": "Maybe tim got a promotion",
+        "user": "U15HRTAHL",
+        "ts": "1556909768.043400"
+    },
+    {
+        "client_msg_id": "ab0c76e4-d281-489d-b9ed-25212e20a8fa",
+        "type": "message",
+        "text": "Not Tom",
+        "user": "U15HRTAHL",
+        "ts": "1556909770.043500"
+    },
+    {
+        "client_msg_id": "3e85a61b-e11c-4dfb-bbd1-4f5c9a9eb810",
+        "type": "message",
+        "text": "It probably is, and imma make sure it stays lost",
+        "user": "U15HSHSS2",
+        "ts": "1556909780.043800"
+    },
+    {
+        "client_msg_id": "5abc04d8-8690-4c48-abf5-66578c961b24",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HRTAHL",
+        "ts": "1556909791.044100"
+    },
+    {
+        "client_msg_id": "DAD73E6D-A26B-41D5-9F5C-DC1347E6A681",
+        "type": "message",
+        "text": "Turns out he actually meant termination",
+        "user": "U15J5H60P",
+        "ts": "1556909795.044200"
+    },
+    {
+        "client_msg_id": "1EB5C5E4-AD4A-405D-8520-E9AC96E52582",
+        "type": "message",
+        "text": "Pol",
+        "user": "U15HY5TG8",
+        "ts": "1556909796.044600"
+    },
+    {
+        "client_msg_id": "D57DDC17-AEBD-4122-AA54-9F0BB8B9B77E",
+        "type": "message",
+        "text": "Not promotion",
+        "user": "U15J5H60P",
+        "ts": "1556909798.044700"
+    },
+    {
+        "client_msg_id": "A2559EAB-468E-4BFD-8C8B-948691933937",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1556909798.044800"
+    },
+    {
+        "client_msg_id": "66fe1c56-60cc-4598-a10c-4f62b58de2a9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1556909803.045000"
+    },
+    {
+        "client_msg_id": "7132347F-F744-4A75-92F7-A518B5B1FFBE",
+        "type": "message",
+        "text": "They both end in tion",
+        "user": "U15J5H60P",
+        "ts": "1556909823.045300"
+    },
+    {
+        "client_msg_id": "F21F6A24-F2C0-4C44-9372-60BDAE979712",
+        "type": "message",
+        "text": "Totally understandable mistake",
+        "user": "U15J5H60P",
+        "ts": "1556909829.045600"
+    },
+    {
+        "client_msg_id": "21bbb2a5-825d-4dd6-a5df-8304b8737ce5",
+        "type": "message",
+        "text": "getting one of those prominations",
+        "user": "U15HSHSS2",
+        "ts": "1556909847.045900"
+    },
+    {
+        "client_msg_id": "6f09786b-f809-4f27-88fc-58b1742daf0c",
+        "type": "message",
+        "text": "they are promoting me out of the company",
+        "user": "U15HSHSS2",
+        "ts": "1556909853.046200"
+    }
+]

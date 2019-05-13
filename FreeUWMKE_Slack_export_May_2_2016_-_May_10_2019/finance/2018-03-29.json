@@ -1,0 +1,33 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus mu",
+        "user": "U15J5H60P",
+        "ts": "1522341208.000271"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               51.48                0.07                0.136 \n       Avg.                 ---                 ---               0.136% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1522341208.000278",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 28173,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8E388AA2-7348-4013-9E25-E03103EC3AC7",
+        "type": "message",
+        "text": "Fuckin MU",
+        "user": "U15J5H60P",
+        "ts": "1522341214.000478"
+    }
+]

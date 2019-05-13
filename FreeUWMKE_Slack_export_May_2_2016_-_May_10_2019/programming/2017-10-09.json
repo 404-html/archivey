@@ -1,0 +1,227 @@
+[
+    {
+        "type": "message",
+        "text": "It looks like we are going to be using angular 1.5 with focus on components now instead",
+        "user": "U15HY5TG8",
+        "ts": "1507555780.000169"
+    },
+    {
+        "type": "message",
+        "text": "components?",
+        "user": "U15HRTAHL",
+        "ts": "1507556295.000192"
+    },
+    {
+        "type": "message",
+        "text": "or directives?",
+        "user": "U15HRTAHL",
+        "ts": "1507556301.000470"
+    },
+    {
+        "type": "message",
+        "text": "Components",
+        "user": "U15HY5TG8",
+        "ts": "1507556317.000554"
+    },
+    {
+        "type": "message",
+        "text": "```\nIn AngularJS, a Component is a special kind of directive that uses a simpler configuration which is suitable for a component-based application structure.\n```",
+        "user": "U15HRTAHL",
+        "ts": "1507556343.000441"
+    },
+    {
+        "type": "message",
+        "text": "Nice",
+        "user": "U15HRTAHL",
+        "ts": "1507556345.000351"
+    },
+    {
+        "type": "message",
+        "text": "I've never heard of this",
+        "user": "U15HRTAHL",
+        "ts": "1507556349.000294"
+    },
+    {
+        "type": "message",
+        "text": "Have you looked at reactjs?",
+        "user": "U15HY5TG8",
+        "ts": "1507556406.000195"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1507556413.000013"
+    },
+    {
+        "type": "message",
+        "text": "Same shit",
+        "user": "U15HY5TG8",
+        "ts": "1507556417.000223"
+    },
+    {
+        "type": "message",
+        "text": "To be honest i dont know what mime is either",
+        "user": "U15HY5TG8",
+        "ts": "1507564428.000259"
+    },
+    {
+        "type": "message",
+        "text": "Unless youre talking about a guy in a striped shirt inside an invisible box",
+        "user": "U15HY5TG8",
+        "ts": "1507564461.000666"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Basics_of_HTTP\/MIME_types>",
+        "user": "U15HRTAHL",
+        "ts": "1507564568.000158",
+        "attachments": [
+            {
+                "service_name": "Mozilla Developer Network",
+                "title": "MIME types",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Basics_of_HTTP\/MIME_types",
+                "text": "The MIME type is the mechanism to tell the client the variety of document transmitted: the extension of a file name has no meaning on the web. It is, therefore, important that the server is correctly set up, so that the correct MIME type is transmitted with each document. Browsers often use the MIME-type to determine what default action to do when a resource is fetched.",
+                "fallback": "Mozilla Developer Network: MIME types",
+                "thumb_url": "https:\/\/developer.cdn.mozilla.net\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/HTTP\/Basics_of_HTTP\/MIME_types",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.cdn.mozilla.net\/static\/img\/favicon144.0d89fc050967.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yea i looked it up. Idk how it plays into your scenario though i guess",
+        "user": "U15HY5TG8",
+        "ts": "1507564621.000098"
+    },
+    {
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1507564634.000467"
+    },
+    {
+        "type": "message",
+        "text": "they're sending us files",
+        "user": "U15HRTAHL",
+        "ts": "1507564640.000156"
+    },
+    {
+        "type": "message",
+        "text": "and they want to download them",
+        "user": "U15HRTAHL",
+        "ts": "1507564644.000580"
+    },
+    {
+        "type": "message",
+        "text": "chrome will only open the documents when it knows the mime type",
+        "user": "U15HRTAHL",
+        "ts": "1507564660.000123"
+    },
+    {
+        "type": "message",
+        "text": "Ahh gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1507564673.000389"
+    },
+    {
+        "type": "message",
+        "text": "otherwise it downloads it to the computer",
+        "user": "U15HRTAHL",
+        "ts": "1507564678.000192"
+    },
+    {
+        "type": "message",
+        "text": "And thats specified in json?",
+        "user": "U15HY5TG8",
+        "ts": "1507564684.000282"
+    },
+    {
+        "type": "message",
+        "text": "Ahh i see. I didnt know why just knowing the file extension was a problem",
+        "user": "U15HY5TG8",
+        "ts": "1507564710.000675"
+    },
+    {
+        "type": "message",
+        "text": "I can work with it",
+        "user": "U15HRTAHL",
+        "ts": "1507564729.000164"
+    },
+    {
+        "type": "message",
+        "text": "So knowing the mime type is why youre able to open a pdf in the browser sometimes",
+        "user": "U15HY5TG8",
+        "ts": "1507564733.000460"
+    },
+    {
+        "type": "message",
+        "text": "but then I have to make a map of file extension and mime type",
+        "user": "U15HRTAHL",
+        "ts": "1507564745.000165"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1507564749.000023"
+    },
+    {
+        "type": "message",
+        "text": "Ok gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1507564757.000048"
+    },
+    {
+        "type": "message",
+        "text": "The music i listen to while programming makes me want to play battlefield lol",
+        "user": "U15HY5TG8",
+        "ts": "1507565627.000495"
+    },
+    {
+        "type": "message",
+        "text": "Now im listening to the sound track",
+        "user": "U15HRTAHL",
+        "ts": "1507565869.000470"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1507565879.000580"
+    },
+    {
+        "type": "message",
+        "text": "code fights as sql in it now",
+        "user": "U15HRTAHL",
+        "ts": "1507600059.000204"
+    },
+    {
+        "type": "message",
+        "text": "I like sql",
+        "user": "U15HRTAHL",
+        "ts": "1507600065.000117"
+    },
+    {
+        "type": "message",
+        "text": "Thats pretty interesting actually",
+        "user": "U15HY5TG8",
+        "ts": "1507600086.000131"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> you should know that",
+        "user": "U15HRTAHL",
+        "ts": "1507600099.000006"
+    },
+    {
+        "type": "message",
+        "text": "I should know what?",
+        "user": "U15J5H60P",
+        "ts": "1507604311.000090"
+    }
+]

@@ -1,0 +1,1514 @@
+[
+    {
+        "client_msg_id": "3F80D21D-B502-43B4-96D0-496D72F4F750",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1546950164.004600"
+    },
+    {
+        "client_msg_id": "D67C7ABF-F89E-4543-9608-502B5E07D23B",
+        "type": "message",
+        "text": "What shell do y'all use?",
+        "user": "U15J5H60P",
+        "ts": "1547001592.000700"
+    },
+    {
+        "client_msg_id": "674373B5-3A2F-4DC6-B08A-7CC578BA2617",
+        "type": "message",
+        "text": "Shell?",
+        "user": "U15HY5TG8",
+        "ts": "1547001649.000900"
+    },
+    {
+        "client_msg_id": "92855784-1a14-4b8f-956c-5f62ecde12e0",
+        "type": "message",
+        "text": "Terminal, Zsh, Powershell, etc",
+        "user": "U15J5H60P",
+        "ts": "1547001659.001200"
+    },
+    {
+        "client_msg_id": "3ED84DA2-D261-4990-A784-D194CA1C40EE",
+        "type": "message",
+        "text": "Yeah just terminal",
+        "user": "U15HY5TG8",
+        "ts": "1547001677.001500"
+    },
+    {
+        "client_msg_id": "5D899AD3-3B66-40ED-A781-0BBE0401F9B3",
+        "type": "message",
+        "text": "On windows its a mix of cmd, powershell and vs cmd",
+        "user": "U15HY5TG8",
+        "ts": "1547001699.002200"
+    },
+    {
+        "client_msg_id": "5edfc191-d49d-4228-a5d5-e02121b059dc",
+        "type": "message",
+        "text": "vanilla terminal",
+        "user": "U15HRTAHL",
+        "ts": "1547001982.002400"
+    },
+    {
+        "client_msg_id": "f4905233-5b23-4e01-b832-ca254ee0c284",
+        "type": "message",
+        "text": "Noice noice",
+        "user": "U15J5H60P",
+        "ts": "1547002260.002600"
+    },
+    {
+        "client_msg_id": "5af4bc23-7524-4e86-a067-48a05137b7f1",
+        "type": "message",
+        "text": "I’m making a mysql db for this lil project I’m working on",
+        "user": "U15J5H60P",
+        "ts": "1547003200.003100"
+    },
+    {
+        "client_msg_id": "fdd4d83c-3081-4504-b0d7-1de12dba30d6",
+        "type": "message",
+        "text": "I was doing EVERYTHING on the command line",
+        "user": "U15J5H60P",
+        "ts": "1547003209.003400"
+    },
+    {
+        "client_msg_id": "22ad19bd-4cd4-41dc-ae65-084ff71907bd",
+        "type": "message",
+        "text": "Then I realized my dumb butt could’ve been doing all of this in MySQL workbench",
+        "user": "U15J5H60P",
+        "ts": "1547003229.003800"
+    },
+    {
+        "client_msg_id": "6a56e02b-7b89-41f9-94c2-03fc8f12b2db",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1547003230.004000"
+    },
+    {
+        "client_msg_id": "55d0b260-5e9e-4761-8cfd-c6a5e14e95c4",
+        "type": "message",
+        "text": "Oh well",
+        "user": "U15J5H60P",
+        "ts": "1547003237.004200"
+    },
+    {
+        "client_msg_id": "615e1361-1cbf-4baa-9dc6-8c481a0ac018",
+        "type": "message",
+        "text": "It was good practice",
+        "user": "U15J5H60P",
+        "ts": "1547003240.004400"
+    },
+    {
+        "client_msg_id": "7C7EE051-F160-4679-B5B6-B05F63040FBE",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1547003244.004600"
+    },
+    {
+        "client_msg_id": "9B24C003-D8C0-4FE9-A9ED-8FF1AFE2A667",
+        "type": "message",
+        "text": "Use SqlPro",
+        "user": "U15HY5TG8",
+        "ts": "1547003256.005000"
+    },
+    {
+        "client_msg_id": "246e7108-1a36-45ef-b6d8-fddb25061157",
+        "type": "message",
+        "text": "Does that support MySQL?",
+        "user": "U15J5H60P",
+        "ts": "1547003264.005300"
+    },
+    {
+        "client_msg_id": "c08c9a28-3912-40db-b4e3-b412480e90cc",
+        "type": "message",
+        "text": "yeahhhhhhhh I wouldn't even know where to start using the cli for that",
+        "user": "U15HRTAHL",
+        "ts": "1547003268.005600"
+    },
+    {
+        "client_msg_id": "0cc7e201-161b-4f8b-8e42-7476169d1f01",
+        "type": "message",
+        "text": "where are you hosting your instance?",
+        "user": "U15HRTAHL",
+        "ts": "1547003278.006100"
+    },
+    {
+        "client_msg_id": "6FA673DD-E41B-442A-9136-ABD7D138497F",
+        "type": "message",
+        "text": "Thats what we use for the side project",
+        "user": "U15HY5TG8",
+        "ts": "1547003280.006300"
+    },
+    {
+        "client_msg_id": "df15e5bb-2942-4398-8520-339070ff610e",
+        "type": "message",
+        "text": "My computer right now",
+        "user": "U15J5H60P",
+        "ts": "1547003283.006500"
+    },
+    {
+        "client_msg_id": "daf270ef-cd0f-41ec-9795-2aba3b1ec738",
+        "type": "message",
+        "text": "dude",
+        "user": "U15HRTAHL",
+        "ts": "1547003286.006800"
+    },
+    {
+        "client_msg_id": "fa0ea47e-929a-4a9c-97ca-66b973b41d69",
+        "type": "message",
+        "text": "Is it free, Evan?",
+        "user": "U15J5H60P",
+        "ts": "1547003287.007000"
+    },
+    {
+        "client_msg_id": "b136309f-22d2-435b-9291-d1a289ae3115",
+        "type": "message",
+        "text": "put that into rds",
+        "user": "U15HRTAHL",
+        "ts": "1547003290.007100"
+    },
+    {
+        "client_msg_id": "68bb92cd-dc2f-4bfa-b345-332b646f3901",
+        "type": "message",
+        "text": "That costs money",
+        "user": "U15J5H60P",
+        "ts": "1547003295.007300"
+    },
+    {
+        "client_msg_id": "45907b9b-acf3-4e57-a5cd-236571c6b15a",
+        "type": "message",
+        "text": "nuh uh",
+        "user": "U15HRTAHL",
+        "ts": "1547003298.007700"
+    },
+    {
+        "client_msg_id": "49FD4FBB-616A-47B8-99D9-DB51715C4D95",
+        "type": "message",
+        "text": "I think so",
+        "user": "U15HY5TG8",
+        "ts": "1547003300.007900"
+    },
+    {
+        "client_msg_id": "4110d93c-abe5-4817-91e0-55379bf100e2",
+        "type": "message",
+        "text": "It’s only three tables right now lol",
+        "user": "U15J5H60P",
+        "ts": "1547003301.008000"
+    },
+    {
+        "client_msg_id": "81c3eeb7-6cfd-474c-af3e-6561b738a5c7",
+        "type": "message",
+        "text": "not for the first year",
+        "user": "U15HRTAHL",
+        "ts": "1547003303.008200"
+    },
+    {
+        "client_msg_id": "bf907b0c-4602-41c2-9d52-e2ac3ec1f11d",
+        "type": "message",
+        "text": "Wait, really?",
+        "user": "U15J5H60P",
+        "ts": "1547003303.008300"
+    },
+    {
+        "client_msg_id": "4e828e8d-0556-48c8-8020-bd3970d68318",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1547003305.008500"
+    },
+    {
+        "client_msg_id": "f2c10688-6193-47f5-80fd-985eb45c8a79",
+        "type": "message",
+        "text": "Hmmmmmm",
+        "user": "U15J5H60P",
+        "ts": "1547003308.008700"
+    },
+    {
+        "client_msg_id": "376600b9-be5d-46ce-9b1d-7854a44f9b7a",
+        "type": "message",
+        "text": "I’ll have to look into that",
+        "user": "U15J5H60P",
+        "ts": "1547003312.008900"
+    },
+    {
+        "client_msg_id": "744262e8-485e-4e7d-b7b8-d9bf322bbc3c",
+        "type": "message",
+        "text": "I’d rather do that",
+        "user": "U15J5H60P",
+        "ts": "1547003315.009200"
+    },
+    {
+        "client_msg_id": "c2146ff8-a9e0-4735-b075-18a34557e08c",
+        "type": "message",
+        "text": "It’s better practice",
+        "user": "U15J5H60P",
+        "ts": "1547003317.009400"
+    },
+    {
+        "client_msg_id": "50f61384-09a4-4a25-b846-67e0f34b8371",
+        "type": "message",
+        "text": "if you want to be really brave you can try using aurora",
+        "user": "U15HRTAHL",
+        "ts": "1547003324.009600"
+    },
+    {
+        "client_msg_id": "ece286a1-42a7-4f9d-ab68-73e6a75b34bb",
+        "type": "message",
+        "text": "that you'll have to pay for but it's super cheap",
+        "user": "U15HRTAHL",
+        "ts": "1547003333.009900"
+    },
+    {
+        "client_msg_id": "3a91c379-2920-4047-bad1-00f9cb4df92e",
+        "type": "message",
+        "text": "Why is that brave?",
+        "user": "U15J5H60P",
+        "ts": "1547003367.010100"
+    },
+    {
+        "client_msg_id": "2aae04b4-87dc-4edc-b474-5273c785c1a0",
+        "type": "message",
+        "text": "Is it new?",
+        "user": "U15J5H60P",
+        "ts": "1547003372.010300"
+    },
+    {
+        "client_msg_id": "a99257cb-3f43-4a2e-9658-ff16e52190c7",
+        "type": "message",
+        "text": "yeah super new",
+        "user": "U15HRTAHL",
+        "ts": "1547003387.010500"
+    },
+    {
+        "client_msg_id": "ad744859-e89a-41e4-8ef5-2aa2bf542e92",
+        "type": "message",
+        "text": "and brave because you have to pay for it",
+        "user": "U15HRTAHL",
+        "ts": "1547003394.010900"
+    },
+    {
+        "client_msg_id": "629070e5-3952-4b6c-b831-87892edbac12",
+        "type": "message",
+        "text": "What’s the difference between that and RDS?",
+        "user": "U15J5H60P",
+        "ts": "1547003396.011000"
+    },
+    {
+        "client_msg_id": "d71b6218-ed21-4526-bb59-5a0d0e63f5f1",
+        "type": "message",
+        "text": "rds is running 24\/7",
+        "user": "U15HRTAHL",
+        "ts": "1547003404.011200"
+    },
+    {
+        "client_msg_id": "125296d3-e2d4-4eb0-b7d7-cec253a16518",
+        "type": "message",
+        "text": "aurora is serverless",
+        "user": "U15HRTAHL",
+        "ts": "1547003408.011400"
+    },
+    {
+        "client_msg_id": "d0106e7a-63f1-45c1-af60-5b59986ba7df",
+        "type": "message",
+        "text": "Oooooh",
+        "user": "U15J5H60P",
+        "ts": "1547003412.011700"
+    },
+    {
+        "client_msg_id": "c4306200-f517-4e49-84af-8c92ca0b2ef1",
+        "type": "message",
+        "text": "comes up when you need it",
+        "user": "U15HRTAHL",
+        "ts": "1547003413.011900"
+    },
+    {
+        "client_msg_id": "e5503663-e94b-4095-a521-0dbe2706eef8",
+        "type": "message",
+        "text": "Neat!",
+        "user": "U15J5H60P",
+        "ts": "1547003415.012100"
+    },
+    {
+        "client_msg_id": "d73ffc8d-8706-47ef-9456-79074b332cde",
+        "type": "message",
+        "text": "I have to imagine that the speed is super slow",
+        "user": "U15J5H60P",
+        "ts": "1547003424.012400"
+    },
+    {
+        "client_msg_id": "b181cb5c-5b4f-4247-a8b9-cae769008ac5",
+        "type": "message",
+        "text": "idk",
+        "user": "U15HRTAHL",
+        "ts": "1547003430.012600"
+    },
+    {
+        "client_msg_id": "b8afb9d0-033c-458a-b325-22c8c6f8f108",
+        "type": "message",
+        "text": "I honestly think they just wrote a transpilier to store it all into a dynamo db",
+        "user": "U15HRTAHL",
+        "ts": "1547003450.013100"
+    },
+    {
+        "client_msg_id": "355efadb-1c99-46a9-8710-c2c31f770e02",
+        "type": "message",
+        "text": "then you can just access that shit with sql commands",
+        "user": "U15HRTAHL",
+        "ts": "1547003467.013400"
+    },
+    {
+        "client_msg_id": "6b0210cb-984e-43be-9791-d7d0d01441b7",
+        "type": "message",
+        "text": "I wonder if I can get pkware to comp my aws costs",
+        "user": "U15HRTAHL",
+        "ts": "1547003544.013700"
+    },
+    {
+        "client_msg_id": "13589ddd-d319-4873-b554-1fa3e6f4278c",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15J5H60P",
+        "ts": "1547003612.014000"
+    },
+    {
+        "client_msg_id": "40e6837e-56cc-4aee-b6c4-19a0f2f45ebb",
+        "type": "message",
+        "text": "I wonder why Aurora isn’t free",
+        "user": "U15J5H60P",
+        "ts": "1547003626.014400"
+    },
+    {
+        "client_msg_id": "639a08c6-adb7-403f-84ac-d94422b04e42",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1547003629.014600"
+    },
+    {
+        "client_msg_id": "ea337856-1320-4954-8706-43e4decd9af8",
+        "type": "message",
+        "text": "It’s higher performance",
+        "user": "U15J5H60P",
+        "ts": "1547003632.014800"
+    },
+    {
+        "client_msg_id": "37469dd1-5db3-4558-b01a-9d06aa1a02bd",
+        "type": "message",
+        "text": "duh",
+        "user": "U15J5H60P",
+        "ts": "1547003633.015000"
+    },
+    {
+        "client_msg_id": "c9cb085e-e59d-4b7a-8ea1-25ebc4027e0a",
+        "type": "message",
+        "text": "so I think when my free tier is up rds will cost me about $13\/month",
+        "user": "U15HRTAHL",
+        "ts": "1547003668.015400"
+    },
+    {
+        "client_msg_id": "76e8b8be-d1cd-4ad2-919f-47254465b513",
+        "type": "message",
+        "text": "I plan on switching over there and paying like $5",
+        "user": "U15HRTAHL",
+        "ts": "1547003682.015700"
+    },
+    {
+        "client_msg_id": "0b8a72d9-6718-4bcd-bf8a-a0560b939c8d",
+        "type": "message",
+        "text": "Aurora is .081\/hr",
+        "user": "U15J5H60P",
+        "ts": "1547003717.016000"
+    },
+    {
+        "client_msg_id": "8d82b2b9-62de-4993-9285-5bd2b5ea6741",
+        "type": "message",
+        "text": ".082*",
+        "user": "U15J5H60P",
+        "ts": "1547003724.016200"
+    },
+    {
+        "client_msg_id": "54fd5a12-f6df-4d20-a199-699ea5abbd9e",
+        "type": "message",
+        "text": "Or $60\/month",
+        "user": "U15J5H60P",
+        "ts": "1547003728.016500"
+    },
+    {
+        "client_msg_id": "9747bdeb-cab0-4dca-845e-3c85ef51a7c0",
+        "type": "message",
+        "text": "if it's running 24\/7",
+        "user": "U15HRTAHL",
+        "ts": "1547003737.016700"
+    },
+    {
+        "client_msg_id": "e98eacf8-c7e4-400a-bd38-5d68c220157e",
+        "type": "message",
+        "text": "which it won't be",
+        "user": "U15HRTAHL",
+        "ts": "1547003743.016900"
+    },
+    {
+        "client_msg_id": "9c72cdf6-eec2-4b3c-9c5e-f5341be346bc",
+        "type": "message",
+        "text": "I’m always scared I’m accidentally going to accumulate a 1000000 bill",
+        "user": "U15J5H60P",
+        "ts": "1547003858.017300"
+    },
+    {
+        "client_msg_id": "fd87d118-e712-4d7d-a327-0f3ea546544e",
+        "type": "message",
+        "text": "I was worried about that",
+        "user": "U15HRTAHL",
+        "ts": "1547003875.017500"
+    },
+    {
+        "client_msg_id": "615432ed-b8e1-4a37-a3e2-59f26d85f4ed",
+        "type": "message",
+        "text": "but",
+        "user": "U15HRTAHL",
+        "ts": "1547003877.017700"
+    },
+    {
+        "client_msg_id": "549ddb2f-26ce-4e5a-8511-19fac61272ba",
+        "type": "message",
+        "text": "1. setup alerts",
+        "user": "U15HRTAHL",
+        "ts": "1547003881.017900"
+    },
+    {
+        "client_msg_id": "3183db81-3bc9-4a6d-9d5e-eef776f88040",
+        "type": "message",
+        "text": "I have mine set to alert me when i get charged .01",
+        "user": "U15HRTAHL",
+        "ts": "1547003892.018200"
+    },
+    {
+        "client_msg_id": "80aebae5-f223-4651-9e5e-3a5392640c74",
+        "type": "message",
+        "text": "2. if you contact aws and play dumb they'll waive the fees",
+        "user": "U15HRTAHL",
+        "ts": "1547003908.018600"
+    },
+    {
+        "client_msg_id": "37455104-3ab6-4527-81b8-75354a9fbbd7",
+        "type": "message",
+        "text": "3. nothing actually happens if you don't pay",
+        "user": "U15HRTAHL",
+        "ts": "1547003916.018900"
+    },
+    {
+        "client_msg_id": "7eb5cc9b-8031-4376-a344-03946ce6d445",
+        "type": "message",
+        "text": "they just close your account",
+        "user": "U15HRTAHL",
+        "ts": "1547003921.019100"
+    },
+    {
+        "client_msg_id": "3b36d53e-eacb-4c8a-9448-931f6b6b4f34",
+        "type": "message",
+        "text": "They won’t hit your credit?",
+        "user": "U15J5H60P",
+        "ts": "1547004141.019500"
+    },
+    {
+        "client_msg_id": "e84a0f0e-cb59-451d-9ee0-f4b4f685b4c9",
+        "type": "message",
+        "text": "Cool",
+        "user": "U15J5H60P",
+        "ts": "1547004154.019700"
+    },
+    {
+        "client_msg_id": "2409b449-7dd7-4017-975e-8eede98b1832",
+        "type": "message",
+        "text": "I just set up an Aurora instance",
+        "user": "U15J5H60P",
+        "ts": "1547004159.019900"
+    },
+    {
+        "client_msg_id": "422d6565-7677-426f-b43c-86c6d1c5cd75",
+        "type": "message",
+        "text": "Man AWS is neat",
+        "user": "U15J5H60P",
+        "ts": "1547004162.020100"
+    },
+    {
+        "client_msg_id": "e55f55a4-2312-4131-b7c9-84b9a6d4d839",
+        "type": "message",
+        "text": "Does Aurora spin up and down?",
+        "user": "U15J5H60P",
+        "ts": "1547004493.020500"
+    },
+    {
+        "client_msg_id": "f3fedb93-f773-401e-ac6f-76374ed54f7f",
+        "type": "message",
+        "text": "By itself?",
+        "user": "U15J5H60P",
+        "ts": "1547004496.020700"
+    },
+    {
+        "client_msg_id": "547036c5-2ac6-43bf-a763-7f220ca5b042",
+        "type": "message",
+        "text": "Whaaaa",
+        "user": "U15J5H60P",
+        "ts": "1547004635.020900"
+    },
+    {
+        "client_msg_id": "91052d26-68c0-4b77-8a72-7f07be8469f1",
+        "type": "message",
+        "text": "They have a blockchain service",
+        "user": "U15J5H60P",
+        "ts": "1547004640.021100"
+    },
+    {
+        "client_msg_id": "c12ce7d5-9e79-406e-a09d-2d508343aa40",
+        "type": "message",
+        "text": "It’s in limited preview right now",
+        "user": "U15J5H60P",
+        "ts": "1547004650.021300"
+    },
+    {
+        "client_msg_id": "7cfca259-1961-45d8-8d16-9430005bed6d",
+        "type": "message",
+        "text": "(invite only)",
+        "user": "U15J5H60P",
+        "ts": "1547004657.021600"
+    },
+    {
+        "client_msg_id": "58668e14-15d0-4d01-b6e4-c594e49c25b0",
+        "type": "message",
+        "text": "Shit",
+        "user": "U15J5H60P",
+        "ts": "1547004846.021800"
+    },
+    {
+        "client_msg_id": "79761786-981f-4585-af25-84bd6144d9ac",
+        "type": "message",
+        "text": "I don’t think I made it serverless",
+        "user": "U15J5H60P",
+        "ts": "1547004850.022000"
+    },
+    {
+        "client_msg_id": "8e6d125e-2257-47f2-b589-292593512c15",
+        "type": "message",
+        "text": "I can’t remember",
+        "user": "U15J5H60P",
+        "ts": "1547004852.022200"
+    },
+    {
+        "client_msg_id": "f44af2d4-cd1f-4ad3-85bf-4eebbc868677",
+        "type": "message",
+        "text": "Imma do this again",
+        "user": "U15J5H60P",
+        "ts": "1547005055.022400"
+    },
+    {
+        "client_msg_id": "0e8a2c6d-f226-48d7-82db-36ebafd4f1b9",
+        "type": "message",
+        "text": "You should use Sam templates too ",
+        "user": "U15HRTAHL",
+        "ts": "1547005070.023200"
+    },
+    {
+        "client_msg_id": "594846d7-f1c6-4f64-93eb-de6c4e726cc3",
+        "type": "message",
+        "text": "Go serverless ",
+        "user": "U15HRTAHL",
+        "ts": "1547005070.023300"
+    },
+    {
+        "client_msg_id": "8c89f803-e154-4a46-9dad-4f40eee818ad",
+        "type": "message",
+        "text": "I’m going to use this tutorial instead of just going quick lol <https:\/\/aws.amazon.com\/getting-started\/tutorials\/configure-connect-serverless-mysql-database-aurora\/>",
+        "user": "U15J5H60P",
+        "ts": "1547005072.023400",
+        "attachments": [
+            {
+                "service_name": "Amazon Web Services, Inc.",
+                "title": "How to Configure and Connect to Serverless MySQL Database | AWS",
+                "title_link": "https:\/\/aws.amazon.com\/getting-started\/tutorials\/configure-connect-serverless-mysql-database-aurora\/",
+                "text": "Want to learn how to configure and connect to Serverless MySQL database with Amazon Aurora Serverless? Learn how to configure and connect to Serverless MySQL database with Amazon Aurora Serverless in 10 minutes.",
+                "fallback": "Amazon Web Services, Inc.: How to Configure and Connect to Serverless MySQL Database | AWS",
+                "thumb_url": "https:\/\/a0.awsstatic.com\/libra-css\/images\/logos\/aws_logo_smile_179x109.png",
+                "from_url": "https:\/\/aws.amazon.com\/getting-started\/tutorials\/configure-connect-serverless-mysql-database-aurora\/",
+                "thumb_width": 179,
+                "thumb_height": 109,
+                "service_icon": "https:\/\/a0.awsstatic.com\/libra-css\/images\/site\/touch-icon-iphone-114-smile.png",
+                "id": 1,
+                "original_url": "https:\/\/aws.amazon.com\/getting-started\/tutorials\/configure-connect-serverless-mysql-database-aurora\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c85712d7-0e87-42c0-ac43-fb37c6b9fadf",
+        "type": "message",
+        "text": "What’s Sam templates?",
+        "user": "U15J5H60P",
+        "ts": "1547005078.023700"
+    },
+    {
+        "client_msg_id": "f176a0f0-f957-4ca0-97c2-93e2784e0108",
+        "type": "message",
+        "text": "So instead of going through the aws console to configure everything you setup your configuration with a Sam\/cooud formation file",
+        "user": "U15HRTAHL",
+        "ts": "1547005113.024800"
+    },
+    {
+        "client_msg_id": "9b668bd4-836f-4202-baf8-90d55d35a3c5",
+        "type": "message",
+        "text": "Then you push that out to aws",
+        "user": "U15HRTAHL",
+        "ts": "1547005120.025100"
+    },
+    {
+        "client_msg_id": "95617029-c093-4844-b8ce-5a12b319ac7a",
+        "type": "message",
+        "text": "And aws creates all the resources",
+        "user": "U15HRTAHL",
+        "ts": "1547005128.025500"
+    },
+    {
+        "client_msg_id": "3868a66b-4a70-4f78-acef-e5d321a6305f",
+        "type": "message",
+        "text": "It also allows you to develop lambda locally ",
+        "user": "U15HRTAHL",
+        "ts": "1547005140.025900"
+    },
+    {
+        "client_msg_id": "e2b8447a-1291-43e3-85b3-b656369542d0",
+        "type": "message",
+        "text": "Where do I find that?",
+        "user": "U15J5H60P",
+        "ts": "1547005146.026100"
+    },
+    {
+        "client_msg_id": "bb76d912-68f9-4ce1-81e3-dce2f30ca441",
+        "type": "message",
+        "text": "Search Sam cli",
+        "user": "U15HRTAHL",
+        "ts": "1547005154.026400"
+    },
+    {
+        "client_msg_id": "17949bc6-fb22-4c3d-8f3a-2c3830034903",
+        "type": "message",
+        "text": "And there's a good GitHub readme on using Sam ",
+        "user": "U15HRTAHL",
+        "ts": "1547005168.026800"
+    },
+    {
+        "client_msg_id": "a4f8a8d2-146b-444d-be37-9e16223d65f8",
+        "type": "message",
+        "text": "<https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md>",
+        "user": "U15HRTAHL",
+        "ts": "1547005271.027000",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "awslabs\/serverless-application-model",
+                "title_link": "https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md",
+                "text": "AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS. - awslabs\/serverless-application-model",
+                "fallback": "GitHub: awslabs\/serverless-application-model",
+                "from_url": "https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3299148?s=400&v=4",
+                "thumb_width": 210,
+                "thumb_height": 210,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "647de5b4-2454-47e9-a923-539f6895bade",
+        "type": "message",
+        "text": "Once you get the hand of this it's tits ",
+        "user": "U15HRTAHL",
+        "ts": "1547005283.027500"
+    },
+    {
+        "client_msg_id": "cf6757c2-8c59-438e-9b29-50c8905030ae",
+        "type": "message",
+        "text": "It's so fucking easy ",
+        "user": "U15HRTAHL",
+        "ts": "1547005286.027700"
+    },
+    {
+        "client_msg_id": "7a75a035-9cd8-4015-b8cc-e979b5beab1a",
+        "type": "message",
+        "text": "If you thought Express was easy",
+        "user": "U15HRTAHL",
+        "ts": "1547005303.028000"
+    },
+    {
+        "client_msg_id": "b39066ba-b9d2-42fe-aaa5-1dee00a40f51",
+        "type": "message",
+        "text": "lol That sounds terrifying",
+        "user": "U15J5H60P",
+        "ts": "1547005309.028400"
+    },
+    {
+        "client_msg_id": "bce7c574-badc-4294-989c-208473445e82",
+        "type": "message",
+        "text": "End up creating 3000 EC2 instances somehow",
+        "user": "U15J5H60P",
+        "ts": "1547005317.028700"
+    },
+    {
+        "client_msg_id": "c2fccf97-05c7-45c1-910f-ac2ffbc22c60",
+        "type": "message",
+        "text": "This makes express look scary",
+        "user": "U15HRTAHL",
+        "ts": "1547005319.028900"
+    },
+    {
+        "client_msg_id": "1cf63ef3-83ab-4c6a-8638-bab6bdc89ca3",
+        "type": "message",
+        "text": "I’ll have to check that out",
+        "user": "U15J5H60P",
+        "ts": "1547005351.029200"
+    },
+    {
+        "client_msg_id": "98762f37-9891-4a65-aff1-f0ec9124d736",
+        "type": "message",
+        "text": "Alright, now I made a serverless one",
+        "user": "U15J5H60P",
+        "ts": "1547005361.029400"
+    },
+    {
+        "client_msg_id": "e797cd5d-7623-4d12-b091-c4e60a9a2d56",
+        "type": "message",
+        "text": "Whew lol",
+        "user": "U15J5H60P",
+        "ts": "1547005363.029600"
+    },
+    {
+        "client_msg_id": "e5d41b4f-d7cd-4cc6-ae80-7bcb5953ce60",
+        "type": "message",
+        "text": "I wish it would give me a cost estimate up front",
+        "user": "U15J5H60P",
+        "ts": "1547005381.029900"
+    },
+    {
+        "client_msg_id": "4225819f-d365-44f1-bb9e-47a4a1a6bdea",
+        "type": "message",
+        "text": "They do have cost calculators ",
+        "user": "U15HRTAHL",
+        "ts": "1547005406.030200"
+    },
+    {
+        "client_msg_id": "ea2523ce-7289-4e54-9157-8987e58d75d7",
+        "type": "message",
+        "text": "Well, I mean right next to the “Create this resource” button",
+        "user": "U15J5H60P",
+        "ts": "1547005428.030600"
+    },
+    {
+        "client_msg_id": "0cf66e49-bca1-450b-a370-8e847a05af5c",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1547005437.030900"
+    },
+    {
+        "client_msg_id": "1a44266d-6488-4a46-8377-a401899e3f6a",
+        "type": "message",
+        "text": "I’ll check in the cost management thing tomorrow",
+        "user": "U15J5H60P",
+        "ts": "1547005444.031300"
+    },
+    {
+        "client_msg_id": "ba3177c7-c4c0-4546-b8bf-9d5de3b1fcbd",
+        "type": "message",
+        "text": "I set a budget up",
+        "user": "U15J5H60P",
+        "ts": "1547005446.031600"
+    },
+    {
+        "client_msg_id": "44f186a1-bd03-473f-8de8-13b215e402da",
+        "type": "message",
+        "text": "There should be a pricing tab on every service ",
+        "user": "U15HRTAHL",
+        "ts": "1547005456.032200"
+    },
+    {
+        "client_msg_id": "70ccd036-9cc9-4c6f-a7ec-ccd9acd1f811",
+        "type": "message",
+        "text": "So hopefully that’ll alert me if something heinous goes wrong lol",
+        "user": "U15J5H60P",
+        "ts": "1547005457.032300"
+    },
+    {
+        "client_msg_id": "cb6a05df-1d22-4a44-91b2-d6f1cf305250",
+        "type": "message",
+        "text": "I agree",
+        "user": "U15J5H60P",
+        "ts": "1547005461.032500"
+    },
+    {
+        "client_msg_id": "09110f9c-3e92-4c08-b1ad-ef166f393c9e",
+        "type": "message",
+        "text": "I mean there is ",
+        "user": "U15HRTAHL",
+        "ts": "1547005469.033000"
+    },
+    {
+        "client_msg_id": "4879db33-2c97-40a9-94a8-1739b0364b88",
+        "type": "message",
+        "text": "I had a $.08 bill from amazon that was waived one month",
+        "user": "U15J5H60P",
+        "ts": "1547005480.033300"
+    },
+    {
+        "client_msg_id": "f7b4ab8a-b37a-4909-bf46-decede3b06b9",
+        "type": "message",
+        "text": "I think I accidentally left an EC2 instance running",
+        "user": "U15J5H60P",
+        "ts": "1547005491.033600"
+    },
+    {
+        "client_msg_id": "37c1ab54-e2a2-4d70-ad15-74f1c80fa29f",
+        "type": "message",
+        "text": "Did you see aws has a satellite service?",
+        "user": "U15HRTAHL",
+        "ts": "1547005541.034000"
+    },
+    {
+        "client_msg_id": "f792f5d4-8e54-42b6-974d-eb7dec64048d",
+        "type": "message",
+        "text": "I have no idea what that's used for",
+        "user": "U15HRTAHL",
+        "ts": "1547005553.034500"
+    },
+    {
+        "client_msg_id": "a9313484-5c4a-4a2c-83fc-040993605e20",
+        "type": "message",
+        "text": "But they made it seem like you typically have to sign government contracts across the globe to access satellites and their service eliminates all that ",
+        "user": "U15HRTAHL",
+        "ts": "1547005588.035600"
+    },
+    {
+        "client_msg_id": "c941b7f0-388b-45e2-bba0-852054f66513",
+        "type": "message",
+        "text": "So that's pretty neat ",
+        "user": "U15HRTAHL",
+        "ts": "1547005592.035800"
+    },
+    {
+        "client_msg_id": "9bca4c68-6a67-48d1-b83a-0f50531d7ab7",
+        "type": "message",
+        "text": "<https:\/\/aws.amazon.com\/ground-station\/>",
+        "user": "U15HRTAHL",
+        "ts": "1547005652.036000",
+        "attachments": [
+            {
+                "service_name": "Amazon Web Services, Inc.",
+                "title": "AWS Ground Station",
+                "title_link": "https:\/\/aws.amazon.com\/ground-station\/",
+                "text": "AWS Ground Station is a fully managed service that lets you control satellite communications, downlink and process satellite data, and scale your satellite operations quickly, easily and cost-effectively without having to worry about building or managing your own ground station infrastructure",
+                "fallback": "Amazon Web Services, Inc.: AWS Ground Station",
+                "thumb_url": "https:\/\/a0.awsstatic.com\/libra-css\/images\/logos\/aws_logo_smile_179x109.png",
+                "from_url": "https:\/\/aws.amazon.com\/ground-station\/",
+                "thumb_width": 179,
+                "thumb_height": 109,
+                "service_icon": "https:\/\/a0.awsstatic.com\/libra-css\/images\/site\/touch-icon-iphone-114-smile.png",
+                "id": 1,
+                "original_url": "https:\/\/aws.amazon.com\/ground-station\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fcd8e1bc-36b0-4952-98ff-8213f4b313f7",
+        "type": "message",
+        "text": "Neat. I know they have a special government division",
+        "user": "U15J5H60P",
+        "ts": "1547005820.036600"
+    },
+    {
+        "client_msg_id": "e7d6243d-b95b-40ed-bfdf-eba412c9b6d0",
+        "type": "message",
+        "text": "I can’t connect to my Aurora instance via GUI",
+        "user": "U15J5H60P",
+        "ts": "1547005834.036900"
+    },
+    {
+        "client_msg_id": "88e371b9-a3d6-484d-a102-5b377db6ba13",
+        "type": "message",
+        "text": "Amazon documentation is ALWAYS out of date",
+        "user": "U15J5H60P",
+        "ts": "1547005992.037200"
+    },
+    {
+        "client_msg_id": "0c7a9f6f-bd0d-400e-b83b-9e082e35cdc0",
+        "type": "message",
+        "text": "Ohhhhh",
+        "user": "U15J5H60P",
+        "ts": "1547006023.037400"
+    },
+    {
+        "client_msg_id": "002fda74-6cec-4c7a-8d0f-08d33a26aceb",
+        "type": "message",
+        "text": "Yeah you have to change your security policy ",
+        "user": "U15HRTAHL",
+        "ts": "1547006056.037900"
+    },
+    {
+        "client_msg_id": "cd9cd861-0cf2-4954-ba28-7b087b17cf5b",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1547006064.038200"
+    },
+    {
+        "client_msg_id": "4cfe181a-ce4a-4861-9880-bdc1d87aa54f",
+        "type": "message",
+        "text": "You can’t connect to them",
+        "user": "U15J5H60P",
+        "ts": "1547006068.038500"
+    },
+    {
+        "client_msg_id": "14f909d9-b81f-44a6-b7d6-6a5f6f04e8d1",
+        "type": "message",
+        "text": "from outside of AWS VPC",
+        "user": "U15J5H60P",
+        "ts": "1547006073.038800",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1547006080.000000"
+        }
+    },
+    {
+        "client_msg_id": "b697052f-be01-46e7-82a4-73f0b84a84f0",
+        "type": "message",
+        "text": "Really?",
+        "user": "U15HRTAHL",
+        "ts": "1547006078.039000"
+    },
+    {
+        "client_msg_id": "144abae7-5baf-4a50-a3cd-397035b4b855",
+        "type": "message",
+        "text": "Huh ",
+        "user": "U15HRTAHL",
+        "ts": "1547006080.039200"
+    },
+    {
+        "client_msg_id": "a1d2de51-aa90-4566-ac59-474d54e3f465",
+        "type": "message",
+        "text": "<https:\/\/docs.aws.amazon.com\/AmazonRDS\/latest\/AuroraUserGuide\/aurora-serverless.html>",
+        "user": "U15J5H60P",
+        "ts": "1547006083.039500",
+        "attachments": [
+            {
+                "title": "Using Amazon Aurora Serverless - Amazon Aurora",
+                "title_link": "https:\/\/docs.aws.amazon.com\/AmazonRDS\/latest\/AuroraUserGuide\/aurora-serverless.html",
+                "text": "Work with Amazon Aurora Serverless, an on-demand, autoscaling configuration for Amazon Aurora.",
+                "fallback": "Using Amazon Aurora Serverless - Amazon Aurora",
+                "from_url": "https:\/\/docs.aws.amazon.com\/AmazonRDS\/latest\/AuroraUserGuide\/aurora-serverless.html",
+                "service_icon": "https:\/\/docs.aws.amazon.com\/images\/favicon.ico",
+                "service_name": "docs.aws.amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.aws.amazon.com\/AmazonRDS\/latest\/AuroraUserGuide\/aurora-serverless.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f751098-9520-41fc-bf44-be55377eccd8",
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1547006122.039800"
+    },
+    {
+        "client_msg_id": "d24771fe-633a-4934-9a93-68fa56dc094a",
+        "type": "message",
+        "text": "Nevermind",
+        "user": "U15J5H60P",
+        "ts": "1547006123.040000"
+    },
+    {
+        "client_msg_id": "ff25012a-3a90-4306-aafc-f98c533a4db0",
+        "type": "message",
+        "text": "You can",
+        "user": "U15J5H60P",
+        "ts": "1547006124.040200"
+    },
+    {
+        "client_msg_id": "c7e13f4c-af92-44b6-b2c4-b8ed9d5ee54a",
+        "type": "message",
+        "text": "SSL only",
+        "user": "U15J5H60P",
+        "ts": "1547006127.040400"
+    },
+    {
+        "client_msg_id": "4199b52d-5d93-4240-9aae-ea8a3aed9fba",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1547006131.040600"
+    },
+    {
+        "client_msg_id": "7900cffd-fc8b-4b86-81aa-1e6f30f44748",
+        "type": "message",
+        "text": "FFS",
+        "user": "U15J5H60P",
+        "ts": "1547006140.040800"
+    },
+    {
+        "client_msg_id": "20847a0b-76ef-4d71-8e00-b8be5c51c927",
+        "type": "message",
+        "text": "I don’t know how to do any of this",
+        "user": "U15J5H60P",
+        "ts": "1547006143.041000"
+    },
+    {
+        "client_msg_id": "d4512d74-2962-4c2a-bbc7-d823aa5aab06",
+        "type": "message",
+        "text": "Lol ditch mysql",
+        "user": "U15HRTAHL",
+        "ts": "1547006157.041400"
+    },
+    {
+        "client_msg_id": "fc5a2bdc-9984-4785-b5c9-d535724405a7",
+        "type": "message",
+        "text": "Spin up postgres ",
+        "user": "U15HRTAHL",
+        "ts": "1547006163.041800"
+    },
+    {
+        "client_msg_id": "6d9017a9-9d38-45a1-aab9-1eec2d4d2bf8",
+        "type": "message",
+        "text": "Why?",
+        "user": "U15J5H60P",
+        "ts": "1547006165.041900"
+    },
+    {
+        "client_msg_id": "9ac3070a-bd62-42db-b072-14c87ca25dab",
+        "type": "message",
+        "text": "Isn’t MySQL up and coming?",
+        "user": "U15J5H60P",
+        "ts": "1547006172.042400"
+    },
+    {
+        "client_msg_id": "1fe4fd4e-6fde-4f21-ba45-82954605069c",
+        "type": "message",
+        "text": "Noon",
+        "user": "U15HRTAHL",
+        "ts": "1547006180.042900"
+    },
+    {
+        "client_msg_id": "4efb6a77-34ac-4c59-94ff-4876aaded49f",
+        "type": "message",
+        "text": "I though tit’s super popular",
+        "user": "U15J5H60P",
+        "ts": "1547006182.043000"
+    },
+    {
+        "client_msg_id": "507e18bc-7782-4e82-98a7-4809a2c33e58",
+        "type": "message",
+        "text": "Mysql is really old ",
+        "user": "U15HRTAHL",
+        "ts": "1547006189.043300"
+    },
+    {
+        "client_msg_id": "ed1c512a-1acc-4c14-abd4-2089b16352c6",
+        "type": "message",
+        "text": "It's like what traditional php developers use ",
+        "user": "U15HRTAHL",
+        "ts": "1547006201.043800"
+    },
+    {
+        "client_msg_id": "642c1919-df9f-4f5d-8be9-fd89ca10dc2e",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1547006247.044100"
+    },
+    {
+        "client_msg_id": "45f0fd20-51fd-468b-a6e0-0d49acbc5b1a",
+        "type": "message",
+        "text": "I have a postgres rds db that I have pgadmin 4 hooked up to ",
+        "user": "U15HRTAHL",
+        "ts": "1547006288.044900"
+    },
+    {
+        "client_msg_id": "7e0398b7-0847-4e55-bd97-9a6792ed484f",
+        "type": "message",
+        "text": "All I had to do was whitelist my IP to access it ",
+        "user": "U15HRTAHL",
+        "ts": "1547006307.045500"
+    },
+    {
+        "client_msg_id": "95a45dca-8fc6-461a-a7dd-1be70b218ea9",
+        "type": "message",
+        "text": "Hmm Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1547006344.045800"
+    },
+    {
+        "client_msg_id": "fd9156d0-f181-4f9c-9320-82adf6c0b17a",
+        "type": "message",
+        "text": "It’s aurora serverless that requires SSL",
+        "user": "U15J5H60P",
+        "ts": "1547006355.046100"
+    },
+    {
+        "client_msg_id": "8babc98f-17a4-47a1-a1de-b6597985d57a",
+        "type": "message",
+        "text": "I'm pretty sure everything requires ssl ",
+        "user": "U15HRTAHL",
+        "ts": "1547006380.046700"
+    },
+    {
+        "client_msg_id": "a1c29edb-d453-48fe-9227-d0cbbe6920d7",
+        "type": "message",
+        "text": "How much does that RDS cost?",
+        "user": "U15J5H60P",
+        "ts": "1547006382.046800"
+    },
+    {
+        "client_msg_id": "1e7241ec-cbcb-4192-a100-31f5959efc67",
+        "type": "message",
+        "text": "Free for the first 12 months ",
+        "user": "U15HRTAHL",
+        "ts": "1547006391.047100"
+    },
+    {
+        "client_msg_id": "72deb3c7-a8e1-4d80-b8cc-b65d89af2a15",
+        "type": "message",
+        "text": "Ssl is just https ",
+        "user": "U15HRTAHL",
+        "ts": "1547006412.047700"
+    },
+    {
+        "client_msg_id": "3eec5aed-fee8-4d1d-bd94-6c991431a82d",
+        "type": "message",
+        "text": "Do you stop yours?",
+        "user": "U15J5H60P",
+        "ts": "1547006510.047900"
+    },
+    {
+        "client_msg_id": "8a0f4153-5e81-4c20-ad74-dd26956da196",
+        "type": "message",
+        "text": "Your instances",
+        "user": "U15J5H60P",
+        "ts": "1547006514.048200"
+    },
+    {
+        "client_msg_id": "9a4125f1-f631-4525-997d-156d857e9d55",
+        "type": "message",
+        "text": "For example, I’d like it to automatically stop after 1 hour of not being used",
+        "user": "U15J5H60P",
+        "ts": "1547006564.048500"
+    },
+    {
+        "client_msg_id": "b03af8a4-8a52-43db-90ff-d46cb540c676",
+        "type": "message",
+        "text": "Yeah I stop mine after working with it ",
+        "user": "U15HRTAHL",
+        "ts": "1547006655.048900"
+    },
+    {
+        "client_msg_id": "8cf1ae73-75e9-4375-92f2-e1dc448c3a77",
+        "type": "message",
+        "text": "Not that you need to",
+        "user": "U15HRTAHL",
+        "ts": "1547006660.049100"
+    },
+    {
+        "client_msg_id": "76919e32-80fc-4826-9d5f-27050701df34",
+        "type": "message",
+        "text": "But I want to get into the habit of it ",
+        "user": "U15HRTAHL",
+        "ts": "1547006670.049500"
+    },
+    {
+        "client_msg_id": "137b1144-a764-4570-8f02-e57af3787e59",
+        "type": "message",
+        "text": "But be aware that if you turn it off it automatically starts back up a week later ",
+        "user": "U15HRTAHL",
+        "ts": "1547006693.050300"
+    },
+    {
+        "client_msg_id": "7fbd12ad-acb2-4647-bade-0dc2a3a14975",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1547006722.050500"
+    },
+    {
+        "client_msg_id": "b67f736c-75dc-4daa-a3f5-615f86d30af7",
+        "type": "message",
+        "text": "I read that",
+        "user": "U15J5H60P",
+        "ts": "1547006724.050700"
+    },
+    {
+        "client_msg_id": "e8abfc79-8c3a-4983-af08-97a8343dd944",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1547006725.050900"
+    },
+    {
+        "client_msg_id": "d69275b9-b6f7-4e6f-8ac4-665c08444bfc",
+        "type": "message",
+        "text": "Okie dokie. Thanks for answering all of my questions and suggesting it!",
+        "user": "U15J5H60P",
+        "ts": "1547006749.051300"
+    },
+    {
+        "client_msg_id": "1bea2c8b-3f22-49bf-89b8-aab1d224c0ca",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1547007172.051500"
+    },
+    {
+        "client_msg_id": "2c977e46-c21d-40de-802b-c388bc579076",
+        "type": "message",
+        "text": "Andrew",
+        "user": "U15HRTAHL",
+        "ts": "1547007179.051900"
+    },
+    {
+        "client_msg_id": "1eb0e791-5f8a-4db2-8473-9d5e972244e5",
+        "type": "message",
+        "text": "What do you use for a db tool",
+        "user": "U15J5H60P",
+        "ts": "1547007180.052000"
+    },
+    {
+        "client_msg_id": "796eef03-d18f-4c41-92d4-1305d8fb0de8",
+        "type": "message",
+        "text": "To connect",
+        "user": "U15J5H60P",
+        "ts": "1547007184.052300"
+    },
+    {
+        "client_msg_id": "98be9679-05f5-4c76-93a2-12868304b1c5",
+        "type": "message",
+        "text": "Pgadmin4",
+        "user": "U15HRTAHL",
+        "ts": "1547007188.052500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3315faf-ffb2-4af6-b034-a46a54b7402b",
+        "type": "message",
+        "text": "Where are the tables????",
+        "user": "U15J5H60P",
+        "ts": "1547007377.052900"
+    },
+    {
+        "client_msg_id": "3e5ae8b4-1ac8-4b49-97cc-58328b33cfb7",
+        "type": "message",
+        "text": "WTFFFFF",
+        "user": "U15J5H60P",
+        "ts": "1547007380.053100"
+    },
+    {
+        "client_msg_id": "0e03c181-c731-4f88-8fbc-dbc1be3af5f5",
+        "type": "message",
+        "text": "I NEED TO LEARN SOMETHING NEW?!",
+        "user": "U15J5H60P",
+        "ts": "1547007384.053300"
+    },
+    {
+        "client_msg_id": "e6380e25-bf41-4d0f-81c5-a3f577d80ad1",
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1547007386.053500"
+    },
+    {
+        "client_msg_id": "62027814-c505-4e2c-a59e-cf3468ea0915",
+        "type": "message",
+        "text": "The fuck are casts",
+        "user": "U15J5H60P",
+        "ts": "1547007389.053800"
+    },
+    {
+        "client_msg_id": "4cbc4111-de24-4390-aa75-1710794e240f",
+        "type": "message",
+        "text": "Found it lol",
+        "user": "U15J5H60P",
+        "ts": "1547007668.054000"
+    },
+    {
+        "client_msg_id": "95666a9d-8e00-44cf-9a22-774af08b43d8",
+        "type": "message",
+        "text": "Lol yeah schemas ",
+        "user": "U15HRTAHL",
+        "ts": "1547007721.054300"
+    },
+    {
+        "client_msg_id": "f30fce4e-0ad5-48ff-9b9d-101fb2af26cf",
+        "type": "message",
+        "text": "Is there anything in particular about Postgres that you like?",
+        "user": "U15J5H60P",
+        "ts": "1547007838.054600"
+    },
+    {
+        "client_msg_id": "a38cf079-7a52-46f7-96aa-c5f4c15314b4",
+        "type": "message",
+        "text": "I haven't noticed anything different from sql server ",
+        "user": "U15HRTAHL",
+        "ts": "1547008205.055400"
+    },
+    {
+        "client_msg_id": "c816d6f0-99a2-416f-a4b6-c39c4ef6d05b",
+        "type": "message",
+        "text": "One thing I noticed is that postgres auto converts your queries to lowercase though ",
+        "user": "U15HRTAHL",
+        "ts": "1547008236.056300"
+    },
+    {
+        "client_msg_id": "98f449c7-b6d3-4590-9d69-dd92ea2cb264",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1547008320.056500"
+    },
+    {
+        "client_msg_id": "20d2cc2d-afd0-413e-a3dc-3f2075da135c",
+        "type": "message",
+        "text": "I decided to try DBGlass",
+        "user": "U15J5H60P",
+        "ts": "1547008329.056800"
+    },
+    {
+        "client_msg_id": "61f269ba-c175-4f00-9922-c1264d1c4122",
+        "type": "message",
+        "text": "It’s pretty sweet",
+        "user": "U15J5H60P",
+        "ts": "1547008331.057000"
+    },
+    {
+        "client_msg_id": "62228d1c-1826-473a-801b-289f48b34442",
+        "type": "message",
+        "text": "<http:\/\/dbglass.web-pal.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1547008342.057200"
+    },
+    {
+        "client_msg_id": "345c5332-0f6a-4b2c-8a60-e04c1984d186",
+        "type": "message",
+        "text": "So far",
+        "user": "U15J5H60P",
+        "ts": "1547008344.057400"
+    },
+    {
+        "client_msg_id": "a4157141-0fa1-40e1-90a0-1a46c7761882",
+        "type": "message",
+        "text": "Just basic table editing right now",
+        "user": "U15J5H60P",
+        "ts": "1547008348.057600"
+    },
+    {
+        "client_msg_id": "6a0c3799-2d54-4ac5-99df-8591d09812a9",
+        "type": "message",
+        "text": "That looks nice",
+        "user": "U15HRTAHL",
+        "ts": "1547008400.057800"
+    },
+    {
+        "client_msg_id": "a52b7bab-3316-4022-a26a-1d51f392f0ca",
+        "type": "message",
+        "text": "I'll have to try that",
+        "user": "U15HRTAHL",
+        "ts": "1547008404.058000"
+    },
+    {
+        "client_msg_id": "e2b0c0f4-f905-45f1-b80b-deaa50aaa4ea",
+        "type": "message",
+        "text": "Do you know how to default time?",
+        "user": "U15J5H60P",
+        "ts": "1547008743.058400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FF900BGPK",
+                "created": 1547008814,
+                "timestamp": 1547008814,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-08, 10:40 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 76583,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF900BGPK\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF900BGPK\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 95,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 127,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 190,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 211,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 253,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF900BGPK-4ceed3c503\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 270,
+                "image_exif_rotation": 1,
+                "original_w": 2404,
+                "original_h": 634,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FF900BGPK\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FF900BGPK-6e8524cfe6",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1547008818.058500"
+    },
+    {
+        "client_msg_id": "e2b9d0a1-7387-4fcd-bc23-17aa6779c5db",
+        "type": "message",
+        "text": "got it",
+        "user": "U15J5H60P",
+        "ts": "1547008875.058900"
+    },
+    {
+        "client_msg_id": "5239edfb-706a-4ec4-acf9-a429de98df6f",
+        "type": "message",
+        "text": "That was fun",
+        "user": "U15J5H60P",
+        "ts": "1547009140.059100"
+    },
+    {
+        "client_msg_id": "6217beda-09ca-419e-98ca-eb4dedf6fd48",
+        "type": "message",
+        "text": "THanks",
+        "user": "U15J5H60P",
+        "ts": "1547009142.059300"
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "type": "message",
+        "text": "^",
+        "user": "U15HRTAHL",
+        "ts": "1505828640.000035"
+    },
+    {
+        "type": "message",
+        "text": "Not in today's day and age",
+        "user": "U15J5H60P",
+        "ts": "1505828998.000154"
+    },
+    {
+        "type": "message",
+        "text": "Oo yes",
+        "user": "U15HY5TG8",
+        "ts": "1505829834.000379"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.lg.com\/us\/mobile-phones\/v30>",
+        "user": "U15J5H60P",
+        "ts": "1505842738.000273",
+        "attachments": [
+            {
+                "title": "LG V30: Release Dates, Specs &amp; News – Sign Up Today | LG USA",
+                "title_link": "http:\/\/www.lg.com\/us\/mobile-phones\/v30",
+                "text": "A true masterpiece in-hand—the LG V30™ is almost here! Connect with LG now to get info about the release date, impressive specs, and important LG V30™ news.",
+                "fallback": "LG V30: Release Dates, Specs &amp; News – Sign Up Today | LG USA",
+                "from_url": "http:\/\/www.lg.com\/us\/mobile-phones\/v30",
+                "service_icon": "http:\/\/www.lg.com\/lg4-common\/favicons\/152x152.png",
+                "service_name": "lg.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Why doesn't iPhone have IP68 rating yet.",
+        "user": "U15J5H60P",
+        "ts": "1505842763.000366"
+    },
+    {
+        "type": "message",
+        "text": "S8 and V30 has it",
+        "user": "U15J5H60P",
+        "ts": "1505842771.000133"
+    },
+    {
+        "type": "message",
+        "text": "Deal",
+        "user": "U15HY5TG8",
+        "ts": "1505842807.000572"
+    },
+    {
+        "type": "message",
+        "text": "Deal",
+        "user": "U15J5H60P",
+        "ts": "1505842821.000405"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HY5TG8",
+        "ts": "1505843010.000326",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/colbertlateshow-dance-fail-3oz8xRRHMwoQF1Z5wA",
+                "image_url": "https:\/\/media0.giphy.com\/media\/3oz8xRRHMwoQF1Z5wA\/giphy-downsized.gif",
+                "image_width": 400,
+                "image_height": 225,
+                "image_bytes": 1861302,
+                "is_animated": true,
+                "title": "apple is failing",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/colbertlateshow\/|The Late Show With Stephen Colbert>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/colbertlateshow-dance-fail-3oz8xRRHMwoQF1Z5wA"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1505870612.000152"
+    },
+    {
+        "type": "message",
+        "text": "Can I use a single HDD in a synology?",
+        "user": "U15J5H60P",
+        "ts": "1505870620.000085"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HSHSS2",
+        "ts": "1505871353.000019"
+    },
+    {
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "U15J5H60P",
+        "ts": "1505871358.000284"
+    },
+    {
+        "type": "message",
+        "text": "well i mean i guess it depends on what kind you get",
+        "user": "U15HSHSS2",
+        "ts": "1505871371.000041"
+    },
+    {
+        "type": "message",
+        "text": "The same one you have",
+        "user": "U15J5H60P",
+        "ts": "1505871376.000264"
+    },
+    {
+        "type": "message",
+        "text": "Yeah one would work",
+        "user": "U15HSHSS2",
+        "ts": "1505871397.000098"
+    },
+    {
+        "type": "message",
+        "text": "Cool. Thanks",
+        "user": "U15J5H60P",
+        "ts": "1505871403.000092"
+    },
+    {
+        "type": "message",
+        "text": "Getting one soon?",
+        "user": "U15HSHSS2",
+        "ts": "1505871510.000239"
+    },
+    {
+        "type": "message",
+        "text": "Thinking about it! I’m down to 400GB on my 2TB drive so it’s starting to slow down…",
+        "user": "U15J5H60P",
+        "ts": "1505871703.000031"
+    },
+    {
+        "type": "message",
+        "text": "Well I've been thinking about upgrading mine, so if you're interested that might be on option lol",
+        "user": "U15HSHSS2",
+        "ts": "1505872105.000079"
+    },
+    {
+        "type": "message",
+        "text": "Why are you upgrading already?",
+        "user": "U15J5H60P",
+        "ts": "1505872119.000190"
+    },
+    {
+        "type": "message",
+        "text": "Haven't completely decided on it yet, but I'm trying to figure out my best options as to being able to store all my stuff without really ever having to worry about running out, and trying to figure out how I want to back everything up",
+        "user": "U15HSHSS2",
+        "ts": "1505872230.000236"
+    },
+    {
+        "type": "message",
+        "text": "Back up services are just too expensive",
+        "user": "U15HSHSS2",
+        "ts": "1505872240.000180"
+    },
+    {
+        "type": "message",
+        "text": "when I can just buy another set of harddrives myself and store the data twice",
+        "user": "U15HSHSS2",
+        "ts": "1505872258.000233"
+    },
+    {
+        "type": "message",
+        "text": "Ah gotcha. So you are thinking about getting one with more bays?",
+        "user": "U15J5H60P",
+        "ts": "1505872276.000266"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HSHSS2",
+        "ts": "1505872282.000144"
+    },
+    {
+        "type": "message",
+        "text": "I have 500GB left of my 6TB",
+        "user": "U15HSHSS2",
+        "ts": "1505872305.000010"
+    },
+    {
+        "type": "message",
+        "text": "Holy shit",
+        "user": "U15J5H60P",
+        "ts": "1505872310.000052"
+    },
+    {
+        "type": "message",
+        "text": "so im getting close here",
+        "user": "U15HSHSS2",
+        "ts": "1505872310.000091"
+    },
+    {
+        "type": "message",
+        "text": "You could just build a computer",
+        "user": "U15J5H60P",
+        "ts": "1505872321.000146"
+    },
+    {
+        "type": "message",
+        "text": "Use it as gaming\/storage compute",
+        "user": "U15J5H60P",
+        "ts": "1505872330.000072"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I thought about that too",
+        "user": "U15HSHSS2",
+        "ts": "1505872337.000065"
+    },
+    {
+        "type": "message",
+        "text": "Do they make mobos with like 8 SATA connections? lol",
+        "user": "U15J5H60P",
+        "ts": "1505872354.000004"
+    },
+    {
+        "type": "message",
+        "text": "haha im sure somebody does",
+        "user": "U15HSHSS2",
+        "ts": "1505872369.000121"
+    },
+    {
+        "type": "message",
+        "text": "This one has 6 - <https:\/\/www.newegg.com\/Product\/Product.aspx?Item=9SIA2F86258158&amp;cm_re=motherboard_with_8_sata_ports-_-13-132-990-_-Product>",
+        "user": "U15J5H60P",
+        "ts": "1505872443.000090",
+        "attachments": [
+            {
+                "title": "ASUS Prime X299-Deluxe LGA 2066 Intel X299 SATA 6Gb&amp;#47;s USB 3.1 ATX Intel Motherboard - Newegg.com",
+                "title_link": "https:\/\/www.newegg.com\/Product\/Product.aspx?Item=9SIA2F86258158&cm_re=motherboard_with_8_sata_ports-_-13-132-990-_-Product",
+                "text": "Buy ASUS Prime X299-Deluxe LGA 2066 Intel X299 SATA 6Gb&amp;#47;s USB 3.1 ATX Intel Motherboard with fast shipping and top-rated customer service. Once you know, you Newegg!",
+                "fallback": "ASUS Prime X299-Deluxe LGA 2066 Intel X299 SATA 6Gb&amp;#47;s USB 3.1 ATX Intel Motherboard - Newegg.com",
+                "thumb_url": "https:\/\/images10.newegg.com\/NeweggImage\/ProductImage\/13-132-990-V01.jpg",
+                "from_url": "https:\/\/www.newegg.com\/Product\/Product.aspx?Item=9SIA2F86258158&cm_re=motherboard_with_8_sata_ports-_-13-132-990-_-Product",
+                "thumb_width": 640,
+                "thumb_height": 480,
+                "service_icon": "http:\/\/images10.newegg.com\/WebResource\/Themes\/2005\/Nest\/Newegg.ico",
+                "service_name": "newegg.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1505872445.000163"
+    },
+    {
+        "type": "message",
+        "text": "It’s also $500",
+        "user": "U15J5H60P",
+        "ts": "1505872449.000021"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.newegg.com\/Product\/Product.aspx?Item=N82E16813132998&amp;cm_re=motherboard_with_8_sata_ports-_-13-132-998-_-Product>",
+        "user": "U15J5H60P",
+        "ts": "1505872511.000178",
+        "attachments": [
+            {
+                "title": "ASUS PRIME A320M-A AM4 AMD A320 SATA 6Gb&amp;#47;s USB 3.1 HDMI uATX AMD Motherboard - Newegg.com",
+                "title_link": "https:\/\/www.newegg.com\/Product\/Product.aspx?Item=N82E16813132998&cm_re=motherboard_with_8_sata_ports-_-13-132-998-_-Product",
+                "text": "Buy ASUS PRIME A320M-A AM4 AMD A320 SATA 6Gb&amp;#47;s USB 3.1 HDMI uATX AMD Motherboard with fast shipping and top-rated customer service. Once you know, you Newegg!",
+                "fallback": "ASUS PRIME A320M-A AM4 AMD A320 SATA 6Gb&amp;#47;s USB 3.1 HDMI uATX AMD Motherboard - Newegg.com",
+                "thumb_url": "https:\/\/images10.newegg.com\/NeweggImage\/ProductImage\/13-132-998-V01.jpg",
+                "from_url": "https:\/\/www.newegg.com\/Product\/Product.aspx?Item=N82E16813132998&cm_re=motherboard_with_8_sata_ports-_-13-132-998-_-Product",
+                "thumb_width": 640,
+                "thumb_height": 480,
+                "service_icon": "http:\/\/images10.newegg.com\/WebResource\/Themes\/2005\/Nest\/Newegg.ico",
+                "service_name": "newegg.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "6",
+        "user": "U15J5H60P",
+        "ts": "1505872513.000261"
+    },
+    {
+        "type": "message",
+        "text": "If I get a 4 bay synology where each bay can hold 8TB that will be about 32 TB of space which I want to believe will hold me over for quite awhile",
+        "user": "U15HSHSS2",
+        "ts": "1505872516.000065"
+    },
+    {
+        "type": "message",
+        "text": "$75",
+        "user": "U15J5H60P",
+        "ts": "1505872516.000229"
+    },
+    {
+        "type": "message",
+        "text": "Jeez",
+        "user": "U15J5H60P",
+        "ts": "1505872572.000130"
+    },
+    {
+        "type": "message",
+        "text": "That would be hella expensive",
+        "user": "U15J5H60P",
+        "ts": "1505872577.000118"
+    },
+    {
+        "type": "message",
+        "text": "yeah i know",
+        "user": "U15HSHSS2",
+        "ts": "1505872582.000156"
+    },
+    {
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1505872585.000207"
+    },
+    {
+        "type": "message",
+        "text": "probably around a grand",
+        "user": "U15HSHSS2",
+        "ts": "1505872590.000106"
+    },
+    {
+        "type": "message",
+        "text": "Skip the new phone, get a diskstation :joy:",
+        "user": "U15J5H60P",
+        "ts": "1505872610.000108"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1505872615.000074"
+    },
+    {
+        "type": "message",
+        "text": "I want to get some hard drives on black friday",
+        "user": "U15HSHSS2",
+        "ts": "1505872635.000186"
+    },
+    {
+        "type": "message",
+        "text": "im pretty positive there will be good deals",
+        "user": "U15HSHSS2",
+        "ts": "1505872643.000077"
+    },
+    {
+        "type": "message",
+        "text": "the other day 8TBs were on sale for like 120",
+        "user": "U15HSHSS2",
+        "ts": "1505872665.000077"
+    },
+    {
+        "type": "message",
+        "text": "Where???",
+        "user": "U15J5H60P",
+        "ts": "1505872673.000151"
+    },
+    {
+        "type": "message",
+        "text": "I saw it on datahoarders subredit",
+        "user": "U15HSHSS2",
+        "ts": "1505872691.000091"
+    },
+    {
+        "type": "message",
+        "text": "Those must’ve been gone in a second",
+        "user": "U15J5H60P",
+        "ts": "1505872701.000191"
+    },
+    {
+        "type": "message",
+        "text": "i think it was 120, might be wrong, but it was less than 200",
+        "user": "U15HSHSS2",
+        "ts": "1505872709.000162"
+    },
+    {
+        "type": "message",
+        "text": "it was one you had to shuck",
+        "user": "U15HSHSS2",
+        "ts": "1505872728.000018"
+    },
+    {
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1505872737.000009"
+    },
+    {
+        "type": "message",
+        "text": "Probably the WD MyStore",
+        "user": "U15J5H60P",
+        "ts": "1505872740.000097"
+    },
+    {
+        "type": "message",
+        "text": "or whatever its called",
+        "user": "U15J5H60P",
+        "ts": "1505872745.000108"
+    },
+    {
+        "type": "message",
+        "text": "By the time I get to best buy those are all gone lol",
+        "user": "U15J5H60P",
+        "ts": "1505872753.000027"
+    },
+    {
+        "type": "message",
+        "text": "which still makes no sense to me how those are cheaper than non shucked ones but the exact same hardrive",
+        "user": "U15HSHSS2",
+        "ts": "1505872753.000215",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1505872772.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "I agree",
+        "user": "U15J5H60P",
+        "ts": "1505872841.000089"
+    },
+    {
+        "type": "message",
+        "text": "The idea of doubling the size of storage I have just to store all the same shit twice sucks lol",
+        "user": "U15HSHSS2",
+        "ts": "1505872904.000087"
+    },
+    {
+        "type": "message",
+        "text": "but the price of backup services suck too",
+        "user": "U15HSHSS2",
+        "ts": "1505872915.000201"
+    },
+    {
+        "type": "message",
+        "text": "for big data atleast",
+        "user": "U15HSHSS2",
+        "ts": "1505872923.000033"
+    },
+    {
+        "type": "message",
+        "text": "What happens when your house burns down?",
+        "user": "U15J5H60P",
+        "ts": "1505873037.000083"
+    },
+    {
+        "type": "message",
+        "text": "kill myself",
+        "user": "U15HSHSS2",
+        "ts": "1505873046.000095"
+    },
+    {
+        "type": "message",
+        "text": "^ That’s what those services are really for",
+        "user": "U15J5H60P",
+        "ts": "1505873047.000146"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1505873049.000050"
+    },
+    {
+        "type": "message",
+        "text": "I see those services as insurance more than anything",
+        "user": "U15J5H60P",
+        "ts": "1505873065.000131"
+    },
+    {
+        "type": "message",
+        "text": "Yeah...",
+        "user": "U15HSHSS2",
+        "ts": "1505873073.000173"
+    },
+    {
+        "type": "message",
+        "text": "damn",
+        "user": "U15HSHSS2",
+        "ts": "1505873077.000058"
+    },
+    {
+        "type": "message",
+        "text": "Although something like that is the extreme case",
+        "user": "U15HSHSS2",
+        "ts": "1505873101.000039"
+    },
+    {
+        "type": "message",
+        "text": "If you build a PC\/NAS, you can use Backblaze for $50\/year for unlimited offsite backup",
+        "user": "U15J5H60P",
+        "ts": "1505873117.000167"
+    },
+    {
+        "type": "message",
+        "text": "im sure my drives will never fail to begin with, but if one does, ill have that data saved somewhere else",
+        "user": "U15HSHSS2",
+        "ts": "1505873122.000063"
+    },
+    {
+        "type": "message",
+        "text": "I was looking into that... but it's weird",
+        "user": "U15HSHSS2",
+        "ts": "1505873148.000089"
+    },
+    {
+        "type": "message",
+        "text": "NASs don't fall under that $50\/year category",
+        "user": "U15HSHSS2",
+        "ts": "1505873177.000157"
+    },
+    {
+        "type": "message",
+        "text": "atleast from what i saw when i looked",
+        "user": "U15HSHSS2",
+        "ts": "1505873186.000190"
+    },
+    {
+        "type": "message",
+        "text": "Which is why I was looking into docks and shit",
+        "user": "U15HSHSS2",
+        "ts": "1505873197.000008"
+    },
+    {
+        "type": "message",
+        "text": "Right, that’s why you’d have to build the “NAS”",
+        "user": "U15J5H60P",
+        "ts": "1505873197.000140"
+    },
+    {
+        "type": "message",
+        "text": "ohh i see what you're saying",
+        "user": "U15HSHSS2",
+        "ts": "1505873211.000085"
+    },
+    {
+        "type": "message",
+        "text": "If you just build it as a computer, then it’s just a computer with an ass ton of storage",
+        "user": "U15J5H60P",
+        "ts": "1505873213.000144"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1505873220.000210"
+    },
+    {
+        "type": "message",
+        "text": "Connect it to your network, then it’s a NAS.",
+        "user": "U15J5H60P",
+        "ts": "1505873229.000141"
+    },
+    {
+        "type": "message",
+        "text": "I think I’m just going to build a gaming rig with an ass ton of storage.",
+        "user": "U15J5H60P",
+        "ts": "1505873270.000143"
+    },
+    {
+        "type": "message",
+        "text": "I have a shitton of Steam games that are useless to me right now lol",
+        "user": "U15J5H60P",
+        "ts": "1505873298.000166"
+    },
+    {
+        "type": "message",
+        "text": "Yeah idk what the fuck I wanna do...",
+        "user": "U15HSHSS2",
+        "ts": "1505873394.000108"
+    },
+    {
+        "type": "message",
+        "text": "If I just conservatively download stuff here and there i can make what I have last another year",
+        "user": "U15HSHSS2",
+        "ts": "1505873422.000136"
+    },
+    {
+        "type": "message",
+        "text": "Starting at $850",
+        "user": "U15J5H60P",
+        "ts": "1505885615.000051"
+    }
+]

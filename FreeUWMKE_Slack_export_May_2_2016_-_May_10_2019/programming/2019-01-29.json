@@ -1,0 +1,447 @@
+[
+    {
+        "client_msg_id": "1e8f1459-f64e-46ef-a655-f78465aef7e5",
+        "type": "message",
+        "text": "I do not get how MVC views get rendered",
+        "user": "U15HY5TG8",
+        "ts": "1548780015.000500"
+    },
+    {
+        "client_msg_id": "6993c95c-645d-4266-ac07-1c643d483d6f",
+        "type": "message",
+        "text": "Magic View Controller",
+        "user": "U15HSHSS2",
+        "ts": "1548780045.000700"
+    },
+    {
+        "client_msg_id": "1ae3a606-2dde-43e6-988b-853fe7d442ea",
+        "type": "message",
+        "text": "lolololol",
+        "user": "U15HRTAHL",
+        "ts": "1548780050.000900"
+    },
+    {
+        "client_msg_id": "5e7341e2-ead0-481f-aaec-7091a50e3f54",
+        "type": "message",
+        "text": "that's literally it",
+        "user": "U15HY5TG8",
+        "ts": "1548780083.001100"
+    },
+    {
+        "client_msg_id": "eb57bf68-9105-4b76-bbd5-764005f99bc5",
+        "type": "message",
+        "text": "I'm so frustrated with this shit",
+        "user": "U15HY5TG8",
+        "ts": "1548780112.001300"
+    },
+    {
+        "client_msg_id": "d98fb2ae-dfa2-426a-830d-740b7a0b74d8",
+        "type": "message",
+        "text": "I just want a view to get rendered and then return the whole html string back to me",
+        "user": "U15HY5TG8",
+        "ts": "1548780128.001800"
+    },
+    {
+        "client_msg_id": "5cc5ff34-9506-4080-b38f-5fb5b456b435",
+        "type": "message",
+        "text": "What exactly isn't working?",
+        "user": "U15HSHSS2",
+        "ts": "1548780148.002100"
+    },
+    {
+        "client_msg_id": "7fc0ea37-39d9-40e1-8e10-12d57cb5e7e6",
+        "type": "message",
+        "text": "ControllerContext isn't being set for whatever reason",
+        "user": "U15HY5TG8",
+        "ts": "1548780176.002400"
+    },
+    {
+        "client_msg_id": "f0aece1e-aefb-461e-bfa7-f87ef2f8dcf1",
+        "type": "message",
+        "text": "Idk wtf ControllerContext is even",
+        "user": "U15HY5TG8",
+        "ts": "1548780187.002700"
+    },
+    {
+        "client_msg_id": "64a69e88-2eb4-46bc-938f-25932b5ff540",
+        "type": "message",
+        "text": "is this razor pages?",
+        "user": "U15HRTAHL",
+        "ts": "1548780221.003000"
+    },
+    {
+        "client_msg_id": "5815e7d6-fb62-47b0-9aeb-23baafe38487",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1548780237.003500"
+    },
+    {
+        "client_msg_id": "338b683e-b516-43e3-a682-74938a8a6686",
+        "type": "message",
+        "text": "Controller context binds your controller to your page im pretty sure",
+        "user": "U15HRTAHL",
+        "ts": "1548780238.003600"
+    },
+    {
+        "client_msg_id": "8d88309b-af36-4c9c-a180-6bf00d933ec1",
+        "type": "message",
+        "text": "right, but how is that set",
+        "user": "U15HY5TG8",
+        "ts": "1548780245.003800"
+    },
+    {
+        "client_msg_id": "5baac568-e0b9-4e8c-b9db-a4a74354a9ed",
+        "type": "message",
+        "text": "in the razor page definition",
+        "user": "U15HRTAHL",
+        "ts": "1548780253.004000"
+    },
+    {
+        "client_msg_id": "faf6cc3a-646f-4af5-8850-29daa06e0651",
+        "type": "message",
+        "text": "i remember doing this",
+        "user": "U15HRTAHL",
+        "ts": "1548780259.004200"
+    },
+    {
+        "client_msg_id": "5b501caa-6836-4a36-98c8-70acb40ac377",
+        "type": "message",
+        "text": "what's the razor page definition lol",
+        "user": "U15HY5TG8",
+        "ts": "1548780280.004500"
+    },
+    {
+        "client_msg_id": "f640302e-e805-433c-895a-93e1fe16566e",
+        "type": "message",
+        "text": "lol just the razor page",
+        "user": "U15HRTAHL",
+        "ts": "1548780289.004700"
+    },
+    {
+        "client_msg_id": "e1d659e1-26c8-46ab-a592-6aebd82ab20c",
+        "type": "message",
+        "text": "I'm so confused",
+        "user": "U15HY5TG8",
+        "ts": "1548780306.004900"
+    },
+    {
+        "client_msg_id": "646e9aa9-ced4-4555-86c8-a2ec9a947c00",
+        "type": "message",
+        "text": "do you have an @model on your razor page on the top?",
+        "user": "U15HRTAHL",
+        "ts": "1548780345.005300"
+    },
+    {
+        "client_msg_id": "e41f2475-cf4f-4b66-97e3-861bf4ea5141",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1548780371.005500"
+    },
+    {
+        "client_msg_id": "9939f504-5643-4f24-a6cf-45684b2c1473",
+        "type": "message",
+        "text": "what does that say?",
+        "user": "U15HRTAHL",
+        "ts": "1548780377.005700"
+    },
+    {
+        "client_msg_id": "caafe43e-705f-4648-b3b7-7389af095e25",
+        "type": "message",
+        "text": "it points to the namespace.ItemModel",
+        "user": "U15HY5TG8",
+        "ts": "1548780403.006100"
+    },
+    {
+        "client_msg_id": "28b08613-5f0d-47c8-a929-58c72a858008",
+        "type": "message",
+        "text": "and your c# class says this?\n\n`public class ItemModel : PageModel`",
+        "user": "U15HRTAHL",
+        "ts": "1548780471.006800"
+    },
+    {
+        "client_msg_id": "fd1d6221-30f5-4328-8394-07934ddd7248",
+        "type": "message",
+        "text": "and it’s using the correct namespace",
+        "user": "U15HRTAHL",
+        "ts": "1548780482.007100"
+    },
+    {
+        "client_msg_id": "d54ffaaf-fca8-4c6e-b778-fb8a10f93a3a",
+        "type": "message",
+        "text": "the hell is pagemodel",
+        "user": "U15HY5TG8",
+        "ts": "1548780513.007300"
+    },
+    {
+        "client_msg_id": "ef28ec3a-3949-4930-b44d-40d4e205099b",
+        "type": "message",
+        "text": "the razor page name",
+        "user": "U15HRTAHL",
+        "ts": "1548780572.007500"
+    },
+    {
+        "client_msg_id": "7db87a75-05c2-4178-a6bf-ebd1ab88ef29",
+        "type": "message",
+        "text": "I don't think that's real",
+        "user": "U15HY5TG8",
+        "ts": "1548780580.007700"
+    },
+    {
+        "client_msg_id": "c7751d87-6283-4b7c-bcf8-2611f5e315fb",
+        "type": "message",
+        "text": "<https:\/\/docs.microsoft.com\/en-us\/aspnet\/core\/razor-pages\/?view=aspnetcore-2.2&amp;tabs=visual-studio>",
+        "user": "U15HRTAHL",
+        "ts": "1548780587.007900",
+        "attachments": [
+            {
+                "title": "Introduction to Razor Pages in ASP.NET Core",
+                "title_link": "https:\/\/docs.microsoft.com\/en-us\/aspnet\/core\/razor-pages\/?view=aspnetcore-2.2&tabs=visual-studio",
+                "text": "Learn how Razor Pages in <http:\/\/ASP.NET|ASP.NET> Core makes coding page-focused scenarios easier and more productive than using MVC.",
+                "fallback": "Introduction to Razor Pages in ASP.NET Core",
+                "thumb_url": "https:\/\/docs.microsoft.com\/en-us\/media\/logos\/logo-ms-social.png",
+                "from_url": "https:\/\/docs.microsoft.com\/en-us\/aspnet\/core\/razor-pages\/?view=aspnetcore-2.2&tabs=visual-studio",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/docs.microsoft.com\/favicon.ico",
+                "service_name": "docs.microsoft.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.microsoft.com\/en-us\/aspnet\/core\/razor-pages\/?view=aspnetcore-2.2&amp;tabs=visual-studio"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98ac5d27-218e-4c17-bc7c-ab9d3fda50a9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1548780627.008200"
+    },
+    {
+        "client_msg_id": "4049b575-14af-4bbf-b6df-dd5e27df295a",
+        "type": "message",
+        "text": "twat in tha hail",
+        "user": "U15HY5TG8",
+        "ts": "1548780639.008400"
+    },
+    {
+        "client_msg_id": "21ddedad-ae36-4d35-9ce3-15b9329f3620",
+        "type": "message",
+        "text": "I shouldn't have to do any of that nonsense",
+        "user": "U15HY5TG8",
+        "ts": "1548780713.008700"
+    },
+    {
+        "client_msg_id": "e97878bb-661d-4463-aac5-9644a4144d77",
+        "type": "message",
+        "text": "if the documentation says you gotta do it, im pretty sure you gotta do it",
+        "user": "U15HRTAHL",
+        "ts": "1548780889.009100"
+    },
+    {
+        "client_msg_id": "fec7c614-3237-4fb0-93e3-2708d0279e60",
+        "type": "message",
+        "text": "Microsoft Docs aren't real",
+        "user": "U15HY5TG8",
+        "ts": "1548780930.009400"
+    },
+    {
+        "client_msg_id": "8598f8c8-e0fb-4aaa-a69e-c4013c79de34",
+        "type": "message",
+        "text": "Microsoft isn’t real",
+        "user": "U15HRTAHL",
+        "ts": "1548780938.009600"
+    },
+    {
+        "client_msg_id": "af64b68e-7895-4c28-89b9-7706ef595e42",
+        "type": "message",
+        "text": "exactly",
+        "user": "U15HY5TG8",
+        "ts": "1548781058.009800"
+    },
+    {
+        "client_msg_id": "98721f5e-2658-46cc-ab67-967f01a9b33a",
+        "type": "message",
+        "text": "ITS NOT REAL",
+        "user": "U15HY5TG8",
+        "ts": "1548781375.010000"
+    },
+    {
+        "client_msg_id": "a0dda852-d92f-40fe-b22a-dabedd8bb02c",
+        "type": "message",
+        "text": "I'm at the point of cluelessness and frustration that I want to puke and go home",
+        "user": "U15HY5TG8",
+        "ts": "1548782240.010500"
+    },
+    {
+        "client_msg_id": "f16f5b54-87f1-4bdd-a1ed-36301976bef2",
+        "type": "message",
+        "text": "snap your keyboard in half and ship it to microsoft saying this is what they did",
+        "user": "U15HRTAHL",
+        "ts": "1548782260.010900"
+    },
+    {
+        "client_msg_id": "4a4cc781-f8c4-4fff-81b3-a3464a256018",
+        "type": "message",
+        "text": "Don't give me crazy ideas like that",
+        "user": "U15HY5TG8",
+        "ts": "1548782278.011200"
+    },
+    {
+        "client_msg_id": "7853767a-4cc6-44da-ab83-a161c63590a5",
+        "type": "message",
+        "text": "I want to die",
+        "user": "U15HY5TG8",
+        "ts": "1548784212.011400"
+    },
+    {
+        "client_msg_id": "c181ae18-e8fa-4723-9321-d564123e4d74",
+        "type": "message",
+        "text": "it makes no sense",
+        "user": "U15HY5TG8",
+        "ts": "1548784221.011600"
+    },
+    {
+        "client_msg_id": "fb696c0e-dc77-4307-9f59-81144c37e29b",
+        "type": "message",
+        "text": "I said fuck the view and went with ol trusty",
+        "user": "U15HY5TG8",
+        "ts": "1548788731.012000"
+    },
+    {
+        "client_msg_id": "e8cc5f3c-74a7-4fb6-8ea6-97b4f466d43a",
+        "type": "message",
+        "text": "```var body = \"&lt;div&gt;&lt;b&gt;Item Creation&lt;\/b&gt;&lt;\/div&gt;&lt;br\/&gt;&lt;br\/&gt;&lt;div&gt;\"+ itemCreated.Message + itemCreated.Language + \": \" + itemCreated.Sku + \"&lt;\/div&gt;\";```",
+        "user": "U15HY5TG8",
+        "ts": "1548788741.012200"
+    },
+    {
+        "client_msg_id": "a7cf67fb-6bbd-492f-8046-0972e8cb49d0",
+        "type": "message",
+        "text": "mmmm",
+        "user": "U15HRTAHL",
+        "ts": "1548788764.012400"
+    },
+    {
+        "client_msg_id": "40b36a1c-bced-4ff0-8b64-e4f574fda92c",
+        "type": "message",
+        "text": "dirty",
+        "user": "U15HRTAHL",
+        "ts": "1548788766.012600"
+    },
+    {
+        "client_msg_id": "42ad4159-ad03-437a-9390-8add03b6d657",
+        "type": "message",
+        "text": "I like it",
+        "user": "U15HRTAHL",
+        "ts": "1548788768.012800"
+    },
+    {
+        "client_msg_id": "d9ca48b4-44bf-4fca-98fc-579826c5e74c",
+        "type": "message",
+        "text": "oooo yeah",
+        "user": "U15HY5TG8",
+        "ts": "1548788775.013000"
+    },
+    {
+        "type": "message",
+        "text": "B-e-a-utiful",
+        "files": [
+            {
+                "id": "FFTR1K6GN",
+                "created": 1548788824,
+                "timestamp": 1548788824,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-29, 1:07 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 6994,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFTR1K6GN\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFTR1K6GN\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFTR1K6GN-6f8bff7963\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFTR1K6GN-6f8bff7963\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFTR1K6GN-6f8bff7963\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 123,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFTR1K6GN-6f8bff7963\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 451,
+                "original_h": 154,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FFTR1K6GN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFTR1K6GN-f726dad820",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1548788827.013100"
+    },
+    {
+        "client_msg_id": "05bfd0d0-c832-423e-ac57-37a32d306a8e",
+        "type": "message",
+        "text": "Does that need to go through a code review? lol",
+        "user": "U15HSHSS2",
+        "ts": "1548788931.013700"
+    },
+    {
+        "client_msg_id": "5570a551-3070-4b04-a66e-52ba2b4f4ba3",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HY5TG8",
+        "ts": "1548789000.013900"
+    },
+    {
+        "client_msg_id": "b85f4c81-1288-4ee7-bc80-02c95752eafe",
+        "type": "message",
+        "text": "but don't worry about it",
+        "user": "U15HY5TG8",
+        "ts": "1548789018.014200"
+    },
+    {
+        "client_msg_id": "50a68a71-7556-4c2a-b4c8-f7e5a29cc7cc",
+        "type": "message",
+        "text": "it'll pass",
+        "user": "U15HY5TG8",
+        "ts": "1548789023.014400"
+    },
+    {
+        "client_msg_id": "7069746d-068c-4db7-a890-4dd4823c70de",
+        "type": "message",
+        "text": "oh it'll pass... :smirk: I know a guy",
+        "user": "U15HSHSS2",
+        "ts": "1548789047.014800"
+    },
+    {
+        "client_msg_id": "d33d2e22-dc78-4e68-89d4-61f0ed454074",
+        "type": "message",
+        "text": "exaaaactly",
+        "user": "U15HY5TG8",
+        "ts": "1548789057.015100"
+    },
+    {
+        "client_msg_id": "5b39a309-6d05-46a2-9168-53d04a208c44",
+        "type": "message",
+        "text": "it actually has to go through the senior dev",
+        "user": "U15HY5TG8",
+        "ts": "1548789072.015400"
+    },
+    {
+        "client_msg_id": "3c737504-9256-47c5-940b-0fb9c7c86bb3",
+        "type": "message",
+        "text": "it'll be great",
+        "user": "U15HY5TG8",
+        "ts": "1548789075.015600"
+    }
+]

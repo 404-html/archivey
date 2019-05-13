@@ -1,0 +1,909 @@
+[
+    {
+        "client_msg_id": "d5711586-8105-4980-acb5-1a031ed2ec24",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/circuitbreaker\/2019\/2\/20\/18233218\/samsung-galaxy-s10-vs-iphone-google-pixel-comparison-specs-features-camera>",
+        "user": "U15J5H60P",
+        "ts": "1550757703.000200",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "How the Samsung Galaxy S10 measures up against the iPhone XS and the Pixel 3",
+                "title_link": "https:\/\/www.theverge.com\/circuitbreaker\/2019\/2\/20\/18233218\/samsung-galaxy-s10-vs-iphone-google-pixel-comparison-specs-features-camera",
+                "text": "The latest S10 flagship phones are packing a punch",
+                "fallback": "The Verge: How the Samsung Galaxy S10 measures up against the iPhone XS and the Pixel 3",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/x0__Frd08Sw_zKnvDIUrOhjg0_w=\/0x292:2040x1360\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/14058505\/jbareham_190213_3183_0081_comp_03.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1550701138,
+                "from_url": "https:\/\/www.theverge.com\/circuitbreaker\/2019\/2\/20\/18233218\/samsung-galaxy-s10-vs-iphone-google-pixel-comparison-specs-features-camera",
+                "image_bytes": 123778,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/circuitbreaker\/2019\/2\/20\/18233218\/samsung-galaxy-s10-vs-iphone-google-pixel-comparison-specs-features-camera"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fddd774-c99b-4d98-9894-390fcc1cbad3",
+        "type": "message",
+        "text": "On paper, the iPhone looks like a dunce",
+        "user": "U15J5H60P",
+        "ts": "1550757721.000700"
+    },
+    {
+        "client_msg_id": "cf30f6a6-68d4-4ec2-8362-9210d693ddc0",
+        "type": "message",
+        "text": "That's also because this year's iPhone isn't until September",
+        "user": "U15J5H60P",
+        "ts": "1550757753.001000"
+    },
+    {
+        "client_msg_id": "4D82D443-99C7-4DAF-AD97-3A77AE45D8ED",
+        "type": "message",
+        "text": "It is a dunce",
+        "user": "U15HY5TG8",
+        "ts": "1550757788.001200"
+    },
+    {
+        "client_msg_id": "9e0043a6-7fb3-4096-bc3e-925c0ec1d48c",
+        "type": "message",
+        "text": "Yeet",
+        "user": "U15J5H60P",
+        "ts": "1550757794.001400"
+    },
+    {
+        "client_msg_id": "5D1D4E8A-CC88-402D-9A5D-D4646A97AAD2",
+        "type": "message",
+        "text": "Pixel ftw",
+        "user": "U15HY5TG8",
+        "ts": "1550758484.001700",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U15HRTAHL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "facfc806-342d-40fe-8537-a60c96df42a8",
+        "type": "message",
+        "text": "S10 FTW",
+        "user": "U15J5H60P",
+        "ts": "1550758849.001900"
+    },
+    {
+        "client_msg_id": "ab111faf-dd64-41c9-8c36-459afbc31495",
+        "type": "message",
+        "text": "You get it <@U15HY5TG8>?",
+        "user": "U15HRTAHL",
+        "ts": "1550759112.002400"
+    },
+    {
+        "client_msg_id": "E55EB49F-FF8C-42AF-854F-F4545726DF93",
+        "type": "message",
+        "text": "Not physically in possession yet but it will be delivered within the next month",
+        "user": "U15HY5TG8",
+        "ts": "1550759153.003200"
+    },
+    {
+        "client_msg_id": "a219adb5-c341-4b7e-b014-6ba2f56a06d7",
+        "type": "message",
+        "text": "Whoop whoop",
+        "user": "U15HRTAHL",
+        "ts": "1550759165.003500"
+    },
+    {
+        "client_msg_id": "1be97871-a0af-4645-b10b-b32cac924914",
+        "type": "message",
+        "text": "Very nice!",
+        "user": "U15J5H60P",
+        "ts": "1550759175.003700"
+    },
+    {
+        "client_msg_id": "aa14e89d-983c-4f14-83e1-05a0114e7989",
+        "type": "message",
+        "text": "You were just done with iPhone?",
+        "user": "U15J5H60P",
+        "ts": "1550759190.003900"
+    },
+    {
+        "client_msg_id": "b345876f-d525-438e-8519-de0084f95696",
+        "type": "message",
+        "text": "Or what?",
+        "user": "U15J5H60P",
+        "ts": "1550759191.004200"
+    },
+    {
+        "client_msg_id": "FABDCD23-7657-48B5-9A1E-751FEEC7163F",
+        "type": "message",
+        "text": "Yee ",
+        "user": "U15HY5TG8",
+        "ts": "1550759192.004300"
+    },
+    {
+        "client_msg_id": "E55FAA2F-92D2-46EB-BD44-37310642B08C",
+        "type": "message",
+        "text": "Umm idk",
+        "user": "U15HY5TG8",
+        "ts": "1550759196.004500"
+    },
+    {
+        "client_msg_id": "e0d9c8b2-8911-45fd-a9da-6c1b72135221",
+        "type": "message",
+        "text": "Just wanted some change in your life?",
+        "user": "U15J5H60P",
+        "ts": "1550759203.004900"
+    },
+    {
+        "client_msg_id": "E1FC15C4-E115-4229-8827-FB4D7650C96A",
+        "type": "message",
+        "text": "Just wanted to try something else",
+        "user": "U15HY5TG8",
+        "ts": "1550759203.005000"
+    },
+    {
+        "client_msg_id": "a3f748ad-fcf2-4a75-a7fe-cae1f9a6bc12",
+        "type": "message",
+        "text": "Cool cool",
+        "user": "U15J5H60P",
+        "ts": "1550759206.005300"
+    },
+    {
+        "client_msg_id": "14BBD1D4-056A-4879-825E-0239AA5E1FAE",
+        "type": "message",
+        "text": "I hate white backgrounds too",
+        "user": "U15HY5TG8",
+        "ts": "1550759212.005600"
+    },
+    {
+        "client_msg_id": "e3b2a213-0e7b-4a13-99c9-6a5120703f01",
+        "type": "message",
+        "text": "Wut",
+        "user": "U15J5H60P",
+        "ts": "1550759217.005900"
+    },
+    {
+        "client_msg_id": "3382C53A-117B-4A76-9C91-B759E1DC5F09",
+        "type": "message",
+        "text": "I wanna customize my text messages",
+        "user": "U15HY5TG8",
+        "ts": "1550759230.006400"
+    },
+    {
+        "client_msg_id": "6c5d9055-7e64-48d7-b0cd-2ad05159248a",
+        "type": "message",
+        "text": "Ohhhh",
+        "user": "U15J5H60P",
+        "ts": "1550759236.006600"
+    },
+    {
+        "client_msg_id": "d5a0a680-93a8-4268-9bd3-47fd3686bf59",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1550759237.006800"
+    },
+    {
+        "client_msg_id": "621994D4-4D2C-4D7A-B737-6753089BD557",
+        "type": "message",
+        "text": "Also, im not fully immersed in an apple ecosystem. I just have my phone and then the macs. But on the otherhand i also have the google home, so nothing really meshes anyways",
+        "user": "U15HY5TG8",
+        "ts": "1550759323.008500"
+    },
+    {
+        "client_msg_id": "78831be4-ca72-4af9-8a94-350eda5ad8d5",
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15J5H60P",
+        "ts": "1550759364.008800"
+    },
+    {
+        "client_msg_id": "2EFAEE01-C94A-4065-B67A-B33EAD11F922",
+        "type": "message",
+        "text": "The only thing that sounds like it might be a problem are imessage and itunes",
+        "user": "U15HY5TG8",
+        "ts": "1550759392.009600"
+    },
+    {
+        "client_msg_id": "84831ddb-0101-4978-aa95-d4e2d650a9cf",
+        "type": "message",
+        "text": "Yeah, iMessage is pretty nice",
+        "user": "U15J5H60P",
+        "ts": "1550759408.009900"
+    },
+    {
+        "client_msg_id": "bd1d041c-ef21-45c0-8140-aa5d8e97e378",
+        "type": "message",
+        "text": "It's hard to get out of it",
+        "user": "U15J5H60P",
+        "ts": "1550759422.010400"
+    },
+    {
+        "client_msg_id": "07A92FBF-E67B-4A03-95F3-17FF962D19EB",
+        "type": "message",
+        "text": "Yeah its nice to have on the computer",
+        "user": "U15HY5TG8",
+        "ts": "1550759423.010500"
+    },
+    {
+        "client_msg_id": "3f1b8095-c529-4826-a2ca-61b3b15488a7",
+        "type": "message",
+        "text": "I think you can get something similar for Android",
+        "user": "U15J5H60P",
+        "ts": "1550759434.010800"
+    },
+    {
+        "client_msg_id": "5112a118-740d-42f8-9083-119ed18ef13a",
+        "type": "message",
+        "text": "using Pushbullet",
+        "user": "U15J5H60P",
+        "ts": "1550759437.011000"
+    },
+    {
+        "client_msg_id": "4256eba0-6fd6-4067-bd5f-0d81cf589ff9",
+        "type": "message",
+        "text": "or something like that",
+        "user": "U15J5H60P",
+        "ts": "1550759440.011200"
+    },
+    {
+        "client_msg_id": "c2c3858f-3b82-4301-85cd-2f20afe6aca7",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1550759441.011400"
+    },
+    {
+        "client_msg_id": "ff7cbeb1-ab45-449f-a834-e7a8a10eddb3",
+        "type": "message",
+        "text": "Would know",
+        "user": "U15J5H60P",
+        "ts": "1550759443.011600"
+    },
+    {
+        "client_msg_id": "9C002824-CA36-4845-A3FA-15F5265899BD",
+        "type": "message",
+        "text": "Yeah i hope so",
+        "user": "U15HY5TG8",
+        "ts": "1550759448.011800"
+    },
+    {
+        "client_msg_id": "0c8ab4b8-7b4e-4fa0-b2d6-86068e6b5a74",
+        "type": "message",
+        "text": "The message app works on PC and Mac ",
+        "user": "U15HRTAHL",
+        "ts": "1550759507.012100"
+    },
+    {
+        "client_msg_id": "67c276b0-3864-47c1-8549-b501e558c511",
+        "type": "message",
+        "text": "With pixel ",
+        "user": "U15HRTAHL",
+        "ts": "1550759517.012400"
+    },
+    {
+        "client_msg_id": "D5BAE1F7-8C69-4F65-88A0-3F03B7830E8D",
+        "type": "message",
+        "text": "The imessage app?",
+        "user": "U15HY5TG8",
+        "ts": "1550759551.012900"
+    },
+    {
+        "client_msg_id": "D6D34488-750A-4020-A530-13E48FC3E929",
+        "type": "message",
+        "text": "Thats dope",
+        "user": "U15HY5TG8",
+        "ts": "1550759558.013100"
+    },
+    {
+        "client_msg_id": "08ec9e03-e5af-4b18-8e82-2f8610d31a62",
+        "type": "message",
+        "text": "No",
+        "user": "U15HRTAHL",
+        "ts": "1550759561.013300"
+    },
+    {
+        "client_msg_id": "4840ee4f-31f7-42a4-b50d-cb4b3783a04c",
+        "type": "message",
+        "text": "The Android message app ",
+        "user": "U15HRTAHL",
+        "ts": "1550759567.013500"
+    },
+    {
+        "client_msg_id": "629AD00A-02BC-4C04-A313-C4C35F3A6E29",
+        "type": "message",
+        "text": "Oooo",
+        "user": "U15HY5TG8",
+        "ts": "1550759573.013700"
+    },
+    {
+        "client_msg_id": "E47F6F51-A2C4-4329-8ECD-F672493CF933",
+        "type": "message",
+        "text": "Boooooooo",
+        "user": "U15HY5TG8",
+        "ts": "1550759576.013900"
+    },
+    {
+        "client_msg_id": "c5c189ab-2f85-4ac2-b69f-82ae50861773",
+        "type": "message",
+        "text": "?",
+        "user": "U15HRTAHL",
+        "ts": "1550759595.014700"
+    },
+    {
+        "client_msg_id": "ADF6499C-DC9D-4E3A-B7AA-834442ADFFEC",
+        "type": "message",
+        "text": "Can i delete the imessage app from mac?",
+        "user": "U15HY5TG8",
+        "ts": "1550759598.014900"
+    },
+    {
+        "client_msg_id": "a33bbcab-fdbf-4603-979e-82a4e4587a5c",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1550759602.015300"
+    },
+    {
+        "client_msg_id": "31fc155d-5aae-4ef5-b351-cf0cd880e84f",
+        "type": "message",
+        "text": "Idk",
+        "user": "U15HRTAHL",
+        "ts": "1550759603.015500"
+    },
+    {
+        "client_msg_id": "B5AD2FA4-108A-46B2-88B2-527754346A85",
+        "type": "message",
+        "text": "I need space on my mac",
+        "user": "U15HY5TG8",
+        "ts": "1550759605.015600"
+    },
+    {
+        "client_msg_id": "45F53617-2BB4-427F-A54A-C2468E22D076",
+        "type": "message",
+        "text": "BULLSHIT",
+        "user": "U15HY5TG8",
+        "ts": "1550759609.015800"
+    },
+    {
+        "client_msg_id": "36d6d017-3f8b-4326-b7a5-017704ea1b6a",
+        "type": "message",
+        "text": "Messages won't do anything for you lol",
+        "user": "U15J5H60P",
+        "ts": "1550759615.016100",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9138AB75-E717-4992-8F5D-486A9ABFFC07",
+        "type": "message",
+        "text": "this is why apple sucks",
+        "user": "U15HY5TG8",
+        "ts": "1550759618.016300"
+    },
+    {
+        "client_msg_id": "45CD4C16-F9A7-4C64-9177-EB9762DC320A",
+        "type": "message",
+        "text": "Cant even delete a core program from apple",
+        "user": "U15HY5TG8",
+        "ts": "1550759633.017100"
+    },
+    {
+        "client_msg_id": "FBE31DF4-206E-4B17-9454-4C0A153CF843",
+        "type": "message",
+        "text": "Cuz you ran out of space lol",
+        "user": "U15HZ01QX",
+        "ts": "1550759635.017200"
+    },
+    {
+        "client_msg_id": "5C2FE133-314E-495A-8CCC-0406A11F2624",
+        "type": "message",
+        "text": "Run clean my Mac or whatever ",
+        "user": "U15HZ01QX",
+        "ts": "1550759654.017900"
+    },
+    {
+        "client_msg_id": "145A9C68-B8B6-467E-B88A-084326861DDF",
+        "type": "message",
+        "text": "Windows you can delete sys32 and then you have all the space you need",
+        "user": "U15HY5TG8",
+        "ts": "1550759669.018400"
+    },
+    {
+        "client_msg_id": "30F368E7-B67F-4C2E-BA20-7E68AAB8DA7B",
+        "type": "message",
+        "text": "I just need to move pictures and apps to an external hd",
+        "user": "U15HY5TG8",
+        "ts": "1550759705.019100"
+    },
+    {
+        "client_msg_id": "dd1f8baa-2a84-4ea6-8112-55d2bbc80607",
+        "type": "message",
+        "text": "<@U15HY5TG8> you don't need more space ",
+        "user": "U15HRTAHL",
+        "ts": "1550759887.019400"
+    },
+    {
+        "client_msg_id": "36d8964e-4b5d-4575-9d90-bf213a3ef718",
+        "type": "message",
+        "text": "Android messages runs on a browser ",
+        "user": "U15HRTAHL",
+        "ts": "1550759896.019800"
+    },
+    {
+        "client_msg_id": "1C579F43-84CB-4B30-8B8A-F6C839DA6E12",
+        "type": "message",
+        "text": "Booooooo",
+        "user": "U15HY5TG8",
+        "ts": "1550759913.020000"
+    },
+    {
+        "client_msg_id": "7210D28C-63E7-4347-B8E1-32EBA956AC0A",
+        "type": "message",
+        "text": "Im returning it",
+        "user": "U15HY5TG8",
+        "ts": "1550759935.020600"
+    },
+    {
+        "client_msg_id": "354409ec-6259-4765-938e-345cc27a523c",
+        "type": "message",
+        "text": "Ev: bicthes about not having space on his Mac\nMe: you don't need more space \nEv: booooo",
+        "user": "U15HRTAHL",
+        "ts": "1550759991.021500"
+    },
+    {
+        "client_msg_id": "dfb81f98-26b9-493e-8371-37b4549dc650",
+        "type": "message",
+        "text": "me:<https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png>",
+        "user": "U15HRTAHL",
+        "ts": "1550759997.021700",
+        "attachments": [
+            {
+                "fallback": "1354x784px image",
+                "image_url": "https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png",
+                "image_width": 1354,
+                "image_height": 784,
+                "image_bytes": 889608,
+                "from_url": "https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png",
+                "id": 1,
+                "original_url": "https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "69D8D66D-318A-4143-B60B-81B4751ED075",
+        "type": "message",
+        "text": "I want an app that doesnt take up space",
+        "user": "U15HY5TG8",
+        "ts": "1550760014.022200"
+    },
+    {
+        "client_msg_id": "8a59e4a0-61e5-4ae4-9ca2-6c41f3321b36",
+        "type": "message",
+        "text": "you’re getting close to a kick",
+        "user": "U15HRTAHL",
+        "ts": "1550760023.022400"
+    },
+    {
+        "client_msg_id": "9E8DA5E1-F6F9-49F2-9B9F-6926A1506F25",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1550759997021700>",
+        "user": "U15HY5TG8",
+        "ts": "1550760044.022600",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1550759997021700",
+                "fallback": "[February 21st, 2019 6:39 AM] joeythomaschaske: me:<https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png>",
+                "ts": "1550759997.021700",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "me:<https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png>",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1550759997021700",
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2344b0b8-ff39-4acf-8a02-6481f9ef196c",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HRTAHL",
+        "ts": "1550760053.022900"
+    },
+    {
+        "client_msg_id": "CDE54378-D580-4704-80A4-0CC04A71E359",
+        "type": "message",
+        "text": "Shame on your for copying the link to the picture instead of just the picture",
+        "user": "U15HY5TG8",
+        "ts": "1550760085.023500"
+    },
+    {
+        "client_msg_id": "a51eeb1b-3d99-4e5b-9ad2-93a941691c91",
+        "type": "message",
+        "text": "shame on your?",
+        "user": "U15HRTAHL",
+        "ts": "1550760108.023800"
+    },
+    {
+        "client_msg_id": "59e0b360-ff2c-44e7-abc2-d7877e0ecefd",
+        "type": "message",
+        "text": "ajyour",
+        "user": "U15HRTAHL",
+        "ts": "1550760119.024100"
+    },
+    {
+        "client_msg_id": "72ecc9f3-4878-4790-b8f9-cbd53f9b346c",
+        "type": "message",
+        "text": "Your fault for buying the cheapest version",
+        "user": "U15J5H60P",
+        "ts": "1550760121.024300"
+    },
+    {
+        "client_msg_id": "412d1c17-fa9e-4ca0-b54a-7f74d5c83aaf",
+        "type": "message",
+        "text": "I'm pretty sure we told you you need more space than you bought",
+        "user": "U15J5H60P",
+        "ts": "1550760129.024600"
+    },
+    {
+        "client_msg_id": "9EBAB0CC-9FF2-4DC8-883D-88B11B661D45",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1550759997021700>",
+        "user": "U15HY5TG8",
+        "ts": "1550760131.024900",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1550759997021700",
+                "fallback": "[February 21st, 2019 6:39 AM] joeythomaschaske: me:<https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png>",
+                "ts": "1550759997.021700",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "me:<https:\/\/i.kym-cdn.com\/entries\/icons\/original\/000\/027\/475\/Screen_Shot_2018-10-25_at_11.02.15_AM.png>",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1550759997021700",
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "54c0585a-40de-48d3-9908-558d7e04e867",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550760145.025200",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1550760159.000000"
+        }
+    },
+    {
+        "client_msg_id": "50F34DB2-3A95-438C-8904-172E6C96B8A4",
+        "type": "message",
+        "text": "I wasnt willing to spend $600 more for a porn computer",
+        "user": "U15HY5TG8",
+        "ts": "1550760193.026200"
+    },
+    {
+        "client_msg_id": "f76ef27c-1a20-4e14-9056-84a25e0281d4",
+        "type": "message",
+        "text": "That's fair",
+        "user": "U15J5H60P",
+        "ts": "1550760199.026400"
+    },
+    {
+        "client_msg_id": "aa5d388b-f5ca-4c8f-9036-725712bdf789",
+        "type": "message",
+        "text": "\"I want to delete iMessage so I can download more porn pictures!\"",
+        "user": "U15J5H60P",
+        "ts": "1550760223.027200"
+    },
+    {
+        "client_msg_id": "e28b4536-c918-42eb-822a-3c2613ff95fd",
+        "type": "message",
+        "text": "idiot",
+        "user": "U15J5H60P",
+        "ts": "1550760225.027400"
+    },
+    {
+        "client_msg_id": "3CC3E995-DE36-4AC8-9542-58BDA34C7D69",
+        "type": "message",
+        "text": "Im actually just glad i revived and upgraded the 2012 model ",
+        "user": "U15HY5TG8",
+        "ts": "1550760225.027500"
+    },
+    {
+        "client_msg_id": "db4f1e28-b28a-48bc-b8fc-32182696d29e",
+        "type": "message",
+        "text": ":pikachu:",
+        "user": "U15HRTAHL",
+        "ts": "1550760252.027800"
+    },
+    {
+        "client_msg_id": "0372F363-62A3-4940-A7A8-41E4EAF83DDE",
+        "type": "message",
+        "text": "I dont download then",
+        "user": "U15HY5TG8",
+        "ts": "1550760256.028000"
+    },
+    {
+        "client_msg_id": "E8AA8F18-2198-4D9E-92B7-D490CDD1C470",
+        "type": "message",
+        "text": "Oooo make that a picture",
+        "user": "U15HY5TG8",
+        "ts": "1550760264.028300"
+    },
+    {
+        "client_msg_id": "aa363478-e194-4efd-ad4e-cc811ba61633",
+        "type": "message",
+        "text": ":thonking:",
+        "user": "U15HRTAHL",
+        "ts": "1550760271.028600"
+    },
+    {
+        "client_msg_id": "0ccb8d8c-f38f-41ce-b2a9-b2537fe5d389",
+        "type": "message",
+        "text": "Man",
+        "user": "U15J5H60P",
+        "ts": "1550760324.028900"
+    },
+    {
+        "client_msg_id": "37536d12-dc9a-4010-9ea6-4bfcd85a2a78",
+        "type": "message",
+        "text": "I just want USB-C on everything",
+        "user": "U15J5H60P",
+        "ts": "1550760331.029200"
+    },
+    {
+        "client_msg_id": "aaf3d93d-b87b-4c4c-80f2-f4a5a07c2506",
+        "type": "message",
+        "text": "Why can't my phone be USB-C",
+        "user": "U15J5H60P",
+        "ts": "1550760337.029400"
+    },
+    {
+        "client_msg_id": "899cb236-0302-42de-a9c0-45d9513e41c5",
+        "type": "message",
+        "text": "I use a Galaxy S8 at work",
+        "user": "U15J5H60P",
+        "ts": "1550760341.029600"
+    },
+    {
+        "client_msg_id": "711b4d36-841c-49eb-b591-e476be847df7",
+        "type": "message",
+        "text": "This thing is neat",
+        "user": "U15J5H60P",
+        "ts": "1550760344.029800"
+    },
+    {
+        "client_msg_id": "05a4ac06-e104-4e56-b676-1a3aed9f4f15",
+        "type": "message",
+        "text": "I appreciate the LEDs",
+        "user": "U15J5H60P",
+        "ts": "1550760571.030100"
+    },
+    {
+        "client_msg_id": "193a7479-76e2-48fd-b995-ee5d807bbb7f",
+        "type": "message",
+        "text": "for notifications",
+        "user": "U15J5H60P",
+        "ts": "1550760574.030300"
+    },
+    {
+        "client_msg_id": "af3951f3-160c-457e-8890-c1c02a2e9b5d",
+        "type": "message",
+        "text": "That would've been cool if you got the Galaxy S9 or the OnePlus 6T",
+        "user": "U15J5H60P",
+        "ts": "1550760598.030900"
+    },
+    {
+        "client_msg_id": "ba964823-0283-4197-81a7-e1f1e9038be9",
+        "type": "message",
+        "text": "instead of the Pixel",
+        "user": "U15J5H60P",
+        "ts": "1550760601.031100"
+    },
+    {
+        "client_msg_id": "59dc07e8-797e-4947-8722-a6c2d3117a86",
+        "type": "message",
+        "text": "But :shrug:",
+        "user": "U15J5H60P",
+        "ts": "1550760614.031400"
+    },
+    {
+        "client_msg_id": "5d985e68-9783-4505-81ec-c61fcfd6d3db",
+        "type": "message",
+        "text": "My pokeball plus has USB C",
+        "user": "U15J5H60P",
+        "ts": "1550760700.031600"
+    },
+    {
+        "client_msg_id": "5ffc9a1f-e7ec-472f-aff5-53ba55d5529b",
+        "type": "message",
+        "text": "C'mon Apple",
+        "user": "U15J5H60P",
+        "ts": "1550760702.031800"
+    },
+    {
+        "client_msg_id": "82165bff-e4fe-4f37-baae-87c9a938d956",
+        "type": "message",
+        "text": "They've been so disappointing lately",
+        "user": "U15J5H60P",
+        "ts": "1550760710.032000"
+    },
+    {
+        "client_msg_id": "215036f4-ad9e-4ca4-a9ee-71bb67dd1269",
+        "type": "message",
+        "text": "Y'all are great to talk to",
+        "user": "U15J5H60P",
+        "ts": "1550760732.032300"
+    },
+    {
+        "client_msg_id": "103077CD-E613-4945-85A5-B77C0ABE392D",
+        "type": "message",
+        "text": "EXACTLY",
+        "user": "U15HY5TG8",
+        "ts": "1550760736.032500"
+    },
+    {
+        "client_msg_id": "5CAE15D9-1E18-4817-B4BA-6B632F5960ED",
+        "type": "message",
+        "text": "and some of us have to work you pleb",
+        "user": "U15HY5TG8",
+        "ts": "1550760748.032900"
+    },
+    {
+        "client_msg_id": "05a5de96-9f66-4d4d-91ac-4526cd611f03",
+        "type": "message",
+        "text": "Y tho",
+        "user": "U15J5H60P",
+        "ts": "1550760752.033100"
+    },
+    {
+        "client_msg_id": "69649e9e-3456-45f8-8d29-aff39e48ec78",
+        "type": "message",
+        "text": "<@U15HRTAHL> when did you add pikachu?",
+        "user": "U15HY5TG8",
+        "ts": "1550760826.033400"
+    },
+    {
+        "client_msg_id": "c41fc61f-46f5-4f13-b94c-1ce2768ac80e",
+        "type": "message",
+        "text": ":pikachu:",
+        "user": "U15HY5TG8",
+        "ts": "1550760831.033600"
+    },
+    {
+        "client_msg_id": "d02d5316-6d80-4f8f-b604-9397715e5075",
+        "type": "message",
+        "text": "ta ta taday junior",
+        "user": "U15HRTAHL",
+        "ts": "1550760848.034100"
+    },
+    {
+        "client_msg_id": "2C496A28-BE26-42AC-989E-3896BF9493D1",
+        "type": "message",
+        "text": "What the hell. It doesnt show up on my phone",
+        "user": "U15HY5TG8",
+        "ts": "1550760854.034400"
+    },
+    {
+        "client_msg_id": "AF804B72-5520-47B0-AA44-C274B15E8721",
+        "type": "message",
+        "text": ":pikachu: ",
+        "user": "U15HY5TG8",
+        "ts": "1550760860.034600"
+    },
+    {
+        "client_msg_id": "B050BBE4-81DC-4DA9-A28B-5BBF08C178EC",
+        "type": "message",
+        "text": "Thereeee we go",
+        "user": "U15HY5TG8",
+        "ts": "1550760866.034900"
+    },
+    {
+        "client_msg_id": "3703F1A9-B30F-438C-B86D-92B7A0127864",
+        "type": "message",
+        "text": "I wish it could be the full rectangle",
+        "user": "U15HY5TG8",
+        "ts": "1550760883.035300"
+    },
+    {
+        "client_msg_id": "5EC9F448-E0CE-4914-B0F1-E02F534E08AA",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/gadgets\/comments\/at793k\/nike_selflacing_sneakers_brick_after_bad_firmware\/>",
+        "user": "U15HSHSS2",
+        "ts": "1550795352.000300",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/gadgets - Nike self-lacing sneakers brick after bad firmware upgrade",
+                "title_link": "https:\/\/www.reddit.com\/r\/gadgets\/comments\/at793k\/nike_selflacing_sneakers_brick_after_bad_firmware\/",
+                "text": "8,142 votes and 610 comments so far on Reddit",
+                "fallback": "reddit: r\/gadgets - Nike self-lacing sneakers brick after bad firmware upgrade",
+                "thumb_url": "https:\/\/external-preview.redd.it\/GhrwS8OJFfn9pLtevNN1ewZ5w55Le5BEkcXcuXQwQLg.jpg?auto=webp&s=757811bcd5d4058687a657c7c7233b1f5ac54014",
+                "from_url": "https:\/\/www.reddit.com\/r\/gadgets\/comments\/at793k\/nike_selflacing_sneakers_brick_after_bad_firmware\/",
+                "thumb_width": 760,
+                "thumb_height": 380,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/gadgets\/comments\/at793k\/nike_selflacing_sneakers_brick_after_bad_firmware\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60C56CAF-71EC-4E70-8C83-A9E17C146D64",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/realdonaldtrump\/status\/1098581869233344512?s=21>",
+        "user": "U15HSHSS2",
+        "ts": "1550795839.000600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/realDonaldTrump|@realDonaldTrump>: I want 5G, and even 6G, technology in the United States as soon as possible. It is far more powerful, faster, and smarter than the current standard. American companies must step up their efforts, or get left behind. There is no reason that we should be lagging behind on.........",
+                "ts": 1550757302,
+                "author_name": "Donald J. Trump",
+                "author_link": "https:\/\/twitter.com\/realDonaldTrump\/status\/1098581869233344512",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+                "author_subname": "@realDonaldTrump",
+                "text": "I want 5G, and even 6G, technology in the United States as soon as possible. It is far more powerful, faster, and smarter than the current standard. American companies must step up their efforts, or get left behind. There is no reason that we should be lagging behind on.........",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/realdonaldtrump\/status\/1098581869233344512?s=21",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/realdonaldtrump\/status\/1098581869233344512?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "421EB7C1-409A-4C29-BE20-DBE02E538CE6",
+        "type": "message",
+        "text": "Man...",
+        "user": "U15HSHSS2",
+        "ts": "1550795847.000900"
+    },
+    {
+        "client_msg_id": "84B7D80D-00EE-4E63-AE44-6795FEE0982B",
+        "type": "message",
+        "text": "Why not 7 or 8G while we’re at it",
+        "user": "U15HSHSS2",
+        "ts": "1550795863.001500"
+    },
+    {
+        "client_msg_id": "94F66022-DB2B-498D-A9DC-296E9E1A82DD",
+        "type": "message",
+        "text": "Fuck it. 100G",
+        "user": "U15HSHSS2",
+        "ts": "1550795874.001800"
+    }
+]

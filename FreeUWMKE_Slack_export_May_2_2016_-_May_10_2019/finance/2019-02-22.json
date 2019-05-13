@@ -1,0 +1,252 @@
+[
+    {
+        "client_msg_id": "7cc60a56-f8e8-4083-81d1-67a52d7c943d",
+        "type": "message",
+        "text": "<@U15HZ01QX> good time to buy nike?",
+        "user": "U15HRTAHL",
+        "ts": "1550847365.000200"
+    },
+    {
+        "client_msg_id": "710797d0-27fa-4a8c-bf3e-498ae0295770",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1550847376.000400"
+    },
+    {
+        "client_msg_id": "784e0dea-d24c-44fc-9898-a1f570aeceaf",
+        "type": "message",
+        "text": "It's over",
+        "user": "U15J5H60P",
+        "ts": "1550847377.000600"
+    },
+    {
+        "client_msg_id": "36ec332e-f549-4aa4-a45f-5146cfe87374",
+        "type": "message",
+        "text": "What's the new stock thing?",
+        "user": "U15J5H60P",
+        "ts": "1550847386.000900"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1550847412.001100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "NKE - Nike, Inc.",
+                "title": "NKE - Nike, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=NKE&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=NKE|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=NKE|Finviz> | <http:\/\/stocktwits.com\/symbol\/NKE|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1550847393,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "84.29",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.34 (+0.41%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "533,308",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,410,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.6\/5 (22 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "86.42 (+2.53%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "7783",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "7783",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "7783",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "7783",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=NKE&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33097,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=NKE",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4321ca88-9ff4-4102-9b12-628611edffee",
+        "type": "message",
+        "text": "lol They were barely affected by the news",
+        "user": "U15J5H60P",
+        "ts": "1550847432.001400"
+    },
+    {
+        "client_msg_id": "22f8727c-9eaf-4300-a135-3c50a5fc9ba6",
+        "type": "message",
+        "text": "wtf happened in december tho",
+        "user": "U15J5H60P",
+        "ts": "1550847441.001800"
+    },
+    {
+        "client_msg_id": "01160192-fb19-416f-84b0-9d2462948eba",
+        "type": "message",
+        "text": "1.1b doesn’t seem like that much",
+        "user": "U15HRTAHL",
+        "ts": "1550847443.001900"
+    },
+    {
+        "client_msg_id": "14b6c339-614f-4aa5-9d84-1d840dea02ce",
+        "type": "message",
+        "text": "that’s colin kapernick",
+        "user": "U15HRTAHL",
+        "ts": "1550847449.002100"
+    },
+    {
+        "client_msg_id": "0668f2b8-834c-43d9-b950-0c316e2b9e90",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1550847452.002300"
+    },
+    {
+        "client_msg_id": "32BA267C-33E5-4C46-9E05-33056CF244E7",
+        "type": "message",
+        "text": "<@U15HRTAHL> yeah. Good rule of thumb is anytime a premium brand has a random slump you can probably make some long term money off it",
+        "user": "U15HZ01QX",
+        "ts": "1550849442.003400"
+    },
+    {
+        "client_msg_id": "57F026AC-908C-4125-9326-9A6D9AD509EC",
+        "type": "message",
+        "text": "If you’re talking about options though idk",
+        "user": "U15HZ01QX",
+        "ts": "1550849452.003800"
+    },
+    {
+        "client_msg_id": "4c40090d-a64a-451d-87d0-323224f62c32",
+        "type": "message",
+        "text": "NIke is up today",
+        "user": "U15J5H60P",
+        "ts": "1550849510.004000"
+    },
+    {
+        "client_msg_id": "265af9b0-d2a3-496a-99b5-919f2d580e85",
+        "type": "message",
+        "text": "Only has a 2.5% price target",
+        "user": "U15J5H60P",
+        "ts": "1550849522.004300"
+    },
+    {
+        "client_msg_id": "7e27dbb7-2997-4457-ae03-4665bd5ef324",
+        "type": "message",
+        "text": "Why would you buy that?",
+        "user": "U15J5H60P",
+        "ts": "1550849529.004600"
+    },
+    {
+        "client_msg_id": "7f2d2fee-791b-4386-8f4d-98a8ab9cb41a",
+        "type": "message",
+        "text": "You missed it by a day or two I think. Right?",
+        "user": "U15J5H60P",
+        "ts": "1550849541.005000"
+    },
+    {
+        "client_msg_id": "A16FBD41-7B54-4C1D-BB93-445D5C85F6CD",
+        "type": "message",
+        "text": "Eh yeah you’re absolutely right",
+        "user": "U15HZ01QX",
+        "ts": "1550849574.005400"
+    },
+    {
+        "client_msg_id": "6DA56FB1-2A5F-463F-9E9E-22C7E67FDBBD",
+        "type": "message",
+        "text": "I didn’t notice it had recovered that quickly",
+        "user": "U15HZ01QX",
+        "ts": "1550849599.005800"
+    },
+    {
+        "client_msg_id": "a5d8dab6-fc8d-4920-9da1-3d6e193746a4",
+        "type": "message",
+        "text": "Do you guys follow any analysts\/brokerages in general for guidance?",
+        "user": "U15J5H60P",
+        "ts": "1550849624.006200"
+    },
+    {
+        "client_msg_id": "FFBBD1DC-DE27-4FD7-A652-65344152036D",
+        "type": "message",
+        "text": "Not really",
+        "user": "U15HZ01QX",
+        "ts": "1550849636.006400"
+    },
+    {
+        "client_msg_id": "64f8f3ae-88ba-4524-8c08-320692f578d8",
+        "type": "message",
+        "text": "I get an email from seeking alpha",
+        "user": "U15HRTAHL",
+        "ts": "1550849651.006800"
+    },
+    {
+        "client_msg_id": "7923EA33-78F4-44BF-A604-CDF4A58D329B",
+        "type": "message",
+        "text": "If I’m holding long term I’ll just look at the general analyst consensus on cnn money or whatever",
+        "user": "U15HZ01QX",
+        "ts": "1550849669.007500"
+    },
+    {
+        "client_msg_id": "F2B60740-42D5-4076-8A9B-9B53B6A4FD2B",
+        "type": "message",
+        "text": "If I’m doing options it’s just wild gambling that sometimes works out",
+        "user": "U15HZ01QX",
+        "ts": "1550849685.008000"
+    }
+]

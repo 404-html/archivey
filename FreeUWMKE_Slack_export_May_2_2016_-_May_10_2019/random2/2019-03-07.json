@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "7C9A7DB2-8BA3-4A3F-8580-239D949B7A68",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1551960492.000200"
+    },
+    {
+        "client_msg_id": "bdaea364-8688-4443-97c0-b0b572266f04",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=5DaVnriHhPc>",
+        "user": "U15HSHSS2",
+        "ts": "1551977577.000200",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Deeply Artificial Trees (excerpt)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=5DaVnriHhPc",
+                "author_name": "Alexander Reben",
+                "author_link": "https:\/\/www.youtube.com\/user\/shoeblade",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/5DaVnriHhPc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Deeply Artificial Trees (excerpt)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/5DaVnriHhPc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=5DaVnriHhPc",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=5DaVnriHhPc"
+            }
+        ]
+    }
+]

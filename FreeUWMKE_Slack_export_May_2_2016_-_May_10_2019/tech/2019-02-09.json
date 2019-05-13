@@ -1,0 +1,38 @@
+[
+    {
+        "client_msg_id": "A5C6A9BA-C636-488A-9087-93F27A32F19C",
+        "type": "message",
+        "text": "Bot <https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1549690556008900>",
+        "user": "U15HZ01QX",
+        "ts": "1549727089.000200",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1549690556008900",
+                "fallback": "[February 8th, 2019 9:35 PM] andrew: AM sucks",
+                "ts": "1549690556.008900",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "AM sucks",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/476971610272_c7b7e69ed939f91c37dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1549690556008900",
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C464EE36-60D0-4D52-A81D-DE080D1EE691",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1549727830.000200"
+    }
+]

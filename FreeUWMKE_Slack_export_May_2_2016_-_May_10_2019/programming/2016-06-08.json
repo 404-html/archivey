@@ -1,0 +1,231 @@
+[
+    {
+        "type": "message",
+        "text": "so you guys use visual studio at work?",
+        "user": "U15HY5TG8",
+        "ts": "1465413998.000002"
+    },
+    {
+        "type": "message",
+        "text": "or <@U15J5H60P> at least",
+        "user": "U15HY5TG8",
+        "ts": "1465414003.000003"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1465414044.000004"
+    },
+    {
+        "type": "message",
+        "text": "do you have it at home too?",
+        "user": "U15HY5TG8",
+        "ts": "1465414081.000005"
+    },
+    {
+        "type": "message",
+        "text": "evan",
+        "user": "U15HRTAHL",
+        "ts": "1465414096.000006"
+    },
+    {
+        "type": "message",
+        "text": "windows vm",
+        "user": "U15HRTAHL",
+        "ts": "1465414111.000007"
+    },
+    {
+        "type": "message",
+        "text": "yea ik",
+        "user": "U15HY5TG8",
+        "ts": "1465414122.000008"
+    },
+    {
+        "type": "message",
+        "text": "download visual studio",
+        "user": "U15HRTAHL",
+        "ts": "1465414125.000009"
+    },
+    {
+        "type": "message",
+        "text": "don’t do these roundabout ways",
+        "user": "U15HRTAHL",
+        "ts": "1465414138.000010"
+    },
+    {
+        "type": "message",
+        "text": "did you use boot camp assistant for downloading windows vm?",
+        "user": "U15HY5TG8",
+        "ts": "1465414162.000011"
+    },
+    {
+        "type": "message",
+        "text": "boot camp is not a windows vm",
+        "user": "U15HRTAHL",
+        "ts": "1465414224.000012"
+    },
+    {
+        "type": "message",
+        "text": "a vm",
+        "user": "U15HRTAHL",
+        "ts": "1465414230.000013"
+    },
+    {
+        "type": "message",
+        "text": "is a program",
+        "user": "U15HRTAHL",
+        "ts": "1465414232.000014"
+    },
+    {
+        "type": "message",
+        "text": "First you have to setup a VM server with admin permissions using the command line on your mac",
+        "user": "U15J5H60P",
+        "ts": "1465414270.000015"
+    },
+    {
+        "type": "message",
+        "text": "Which is pretty easy",
+        "user": "U15J5H60P",
+        "ts": "1465414274.000016"
+    },
+    {
+        "type": "message",
+        "text": "Then boot into VM modd",
+        "user": "U15J5H60P",
+        "ts": "1465414280.000017"
+    },
+    {
+        "type": "message",
+        "text": "Just download Cold Fusion",
+        "user": "U15HRTAHL",
+        "ts": "1465414288.000018"
+    },
+    {
+        "type": "message",
+        "text": "By holding control+v+B upon restarting your mac",
+        "user": "U15J5H60P",
+        "ts": "1465414315.000019"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.vmware.com\/>",
+        "user": "U15HRTAHL",
+        "ts": "1465414335.000020",
+        "attachments": [
+            {
+                "title": "VMware Virtualization for Desktop &amp; Server, Application, Public &amp; Hybrid Clouds | United States",
+                "title_link": "http:\/\/www.vmware.com\/",
+                "text": "VMware virtualizes computing, from the data center to the cloud to mobile devices, to help our customers be more agile, responsive, and profitable.",
+                "fallback": "VMware Virtualization for Desktop &amp; Server, Application, Public &amp; Hybrid Clouds | United States",
+                "from_url": "http:\/\/www.vmware.com\/",
+                "service_icon": "http:\/\/www.vmware.com\/favicon.ico",
+                "service_name": "vmware.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "After that, a window will come up asking which version of Windows you would like to download and install",
+        "user": "U15J5H60P",
+        "ts": "1465414338.000022"
+    },
+    {
+        "type": "message",
+        "text": "The wizard will finish everything up for you and then you can download Visual Studio on your Mac ",
+        "user": "U15J5H60P",
+        "ts": "1465414369.000023"
+    },
+    {
+        "type": "message",
+        "text": "Just make sure you have a spare floppy disk sitting around just incase you need extra ram memory",
+        "user": "U15J5H60P",
+        "ts": "1465414391.000024"
+    },
+    {
+        "type": "message",
+        "text": "lolz",
+        "user": "U15HRTAHL",
+        "ts": "1465414400.000025"
+    },
+    {
+        "type": "message",
+        "text": "i want to know how you guys became so good at knowing that",
+        "user": "U15HY5TG8",
+        "ts": "1465414431.000026"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/bfy.tw\/1Ek>",
+        "user": "U15HRTAHL",
+        "ts": "1465414466.000027"
+    },
+    {
+        "type": "message",
+        "text": "i mean what possessed you to set these things up before and explore them?",
+        "user": "U15HY5TG8",
+        "ts": "1465414501.000028"
+    },
+    {
+        "type": "message",
+        "text": "well",
+        "user": "U15HRTAHL",
+        "ts": "1465414513.000029"
+    },
+    {
+        "type": "message",
+        "text": "I wanted to game on my mac",
+        "user": "U15HRTAHL",
+        "ts": "1465414517.000030"
+    },
+    {
+        "type": "message",
+        "text": "windows is better for gaming",
+        "user": "U15HRTAHL",
+        "ts": "1465414521.000031"
+    },
+    {
+        "type": "message",
+        "text": "gotcha. was that freshman year that i remember you having windows on your mac or did you do it sooner than that",
+        "user": "U15HY5TG8",
+        "ts": "1465414555.000032"
+    },
+    {
+        "type": "message",
+        "text": "it was then",
+        "user": "U15HRTAHL",
+        "ts": "1465414737.000033"
+    },
+    {
+        "type": "message",
+        "text": "I was playing",
+        "user": "U15HRTAHL",
+        "ts": "1465414739.000034"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy world of tanks",
+        "user": "U15HRTAHL",
+        "ts": "1465414744.000035",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/world-learning-cartwheels-Y85y0AcZNMgAo>",
+                "image_url": "http:\/\/media.giphy.com\/media\/Y85y0AcZNMgAo\/giphy-tumblr.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1990059,
+                "is_animated": true,
+                "title": "world of tanks",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/world-learning-cartwheels-Y85y0AcZNMgAo"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1465414859.000036"
+    }
+]

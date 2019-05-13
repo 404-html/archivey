@@ -1,0 +1,342 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/media.giphy.com\/media\/26BRxjQXtmOyU8rcI\/giphy-downsized-large.gif>",
+        "user": "U15HRTAHL",
+        "ts": "1470323928.000002",
+        "attachments": [
+            {
+                "fallback": "576x576px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/26BRxjQXtmOyU8rcI\/giphy-downsized-large.gif",
+                "image_width": 576,
+                "image_height": 576,
+                "image_bytes": 6805493,
+                "is_animated": true,
+                "from_url": "https:\/\/media.giphy.com\/media\/26BRxjQXtmOyU8rcI\/giphy-downsized-large.gif",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "hilliarious",
+        "user": "U15HRTAHL",
+        "ts": "1470323931.000004"
+    },
+    {
+        "type": "message",
+        "text": "Ik i saw lol",
+        "user": "U15HY5TG8",
+        "ts": "1470324060.000005"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: ",
+        "user": "U15HY5TG8",
+        "ts": "1470332121.000006"
+    },
+    {
+        "type": "message",
+        "text": "So i have to disable a link on a page by javascript but i have to check to see if a users id number exists on a certain table of the database. Any idea how that would all happen?",
+        "user": "U15HY5TG8",
+        "ts": "1470333230.000007"
+    },
+    {
+        "type": "message",
+        "text": "Depends on your ideologic views on that database",
+        "user": "U15HRTAHL",
+        "ts": "1470333296.000008"
+    },
+    {
+        "type": "message",
+        "text": "Should it be state sponsored or private company?",
+        "user": "U15HRTAHL",
+        "ts": "1470333306.000009"
+    },
+    {
+        "type": "message",
+        "text": "Sorry didnt realize i was in politics",
+        "user": "U15HY5TG8",
+        "ts": "1470333375.000010"
+    },
+    {
+        "type": "message",
+        "text": "lolololol",
+        "user": "U15HRTAHL",
+        "ts": "1470333380.000011"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: did you figure it out?",
+        "user": "U15HRTAHL",
+        "ts": "1470340405.000012"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1470340425.000013"
+    },
+    {
+        "type": "message",
+        "text": "I kind of asked you how you do this like 2 weeks ago",
+        "user": "U15HRTAHL",
+        "ts": "1470340439.000014"
+    },
+    {
+        "type": "message",
+        "text": "Yea ik haha i didnt know if you had ideas though",
+        "user": "U15HY5TG8",
+        "ts": "1470340470.000015"
+    },
+    {
+        "type": "message",
+        "text": "well I only know the high level answer cause idk your system",
+        "user": "U15HRTAHL",
+        "ts": "1470340489.000016"
+    },
+    {
+        "type": "message",
+        "text": "but usually theres a webservice written in your backend language",
+        "user": "U15HRTAHL",
+        "ts": "1470340503.000017"
+    },
+    {
+        "type": "message",
+        "text": "c#",
+        "user": "U15HRTAHL",
+        "ts": "1470340507.000018"
+    },
+    {
+        "type": "message",
+        "text": "probably if you’re using visual studio",
+        "user": "U15HRTAHL",
+        "ts": "1470340517.000019"
+    },
+    {
+        "type": "message",
+        "text": "now depending on whether youre using rest or soap",
+        "user": "U15HRTAHL",
+        "ts": "1470340531.000020"
+    },
+    {
+        "type": "message",
+        "text": "you call out to that webservice via http",
+        "user": "U15HRTAHL",
+        "ts": "1470340542.000021"
+    },
+    {
+        "type": "message",
+        "text": "`$q`",
+        "user": "U15HRTAHL",
+        "ts": "1470340556.000022"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh ok",
+        "user": "U15HY5TG8",
+        "ts": "1470340556.000023"
+    },
+    {
+        "type": "message",
+        "text": "since you’re using angular",
+        "user": "U15HRTAHL",
+        "ts": "1470340562.000024"
+    },
+    {
+        "type": "message",
+        "text": "then the webservice calls the respected class that queries the database",
+        "user": "U15HRTAHL",
+        "ts": "1470340582.000025"
+    },
+    {
+        "type": "message",
+        "text": "and the webservice returns your results in a JSON string",
+        "user": "U15HRTAHL",
+        "ts": "1470340597.000026"
+    },
+    {
+        "type": "message",
+        "text": "it will look something like this",
+        "user": "U15HRTAHL",
+        "ts": "1470340607.000027"
+    },
+    {
+        "type": "message",
+        "text": "```\n$http({\n  method: 'GET',\n  url: ‘\/someUrlThatLetsYouAccessTheC#'\n}).then(function successCallback(response) {\n    \/\/ this callback will be called asynchronously\n    \/\/ when the response is available\n  }, function errorCallback(response) {\n    \/\/ called asynchronously if an error occurs\n    \/\/ or server returns response with an error status.\n  });\n```",
+        "user": "U15HRTAHL",
+        "ts": "1470340724.000028"
+    },
+    {
+        "type": "message",
+        "text": "Idkkkkk lol i cant find this shit",
+        "user": "U15HY5TG8",
+        "ts": "1470340810.000029"
+    },
+    {
+        "type": "message",
+        "text": "like I said, thats very high level",
+        "user": "U15HRTAHL",
+        "ts": "1470340845.000030"
+    },
+    {
+        "type": "message",
+        "text": "Yes. Yes it is lol",
+        "user": "U15HY5TG8",
+        "ts": "1470340859.000031"
+    },
+    {
+        "type": "message",
+        "text": "Are you using Rest or soap?",
+        "user": "U15HRTAHL",
+        "ts": "1470340865.000032"
+    },
+    {
+        "type": "message",
+        "text": "wait",
+        "user": "U15HRTAHL",
+        "ts": "1470340870.000033"
+    },
+    {
+        "type": "message",
+        "text": "No idea",
+        "user": "U15HY5TG8",
+        "ts": "1470340871.000034"
+    },
+    {
+        "type": "message",
+        "text": "are you using asp?",
+        "user": "U15HRTAHL",
+        "ts": "1470340882.000035"
+    },
+    {
+        "type": "message",
+        "text": "Yea",
+        "user": "U15HY5TG8",
+        "ts": "1470340889.000036"
+    },
+    {
+        "type": "message",
+        "text": "oh",
+        "user": "U15HRTAHL",
+        "ts": "1470340894.000037"
+    },
+    {
+        "type": "message",
+        "text": "well that makes it a shit ton easier",
+        "user": "U15HRTAHL",
+        "ts": "1470340900.000038"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/blog.mariusschulz.com\/2014\/02\/05\/passing-net-server-side-data-to-javascript>",
+        "user": "U15HRTAHL",
+        "ts": "1470340961.000039",
+        "attachments": [
+            {
+                "service_name": "Marius Schulz",
+                "title": "Passing .NET Server-Side Data to JavaScript",
+                "title_link": "https:\/\/blog.mariusschulz.com\/2014\/02\/05\/passing-net-server-side-data-to-javascript",
+                "text": "This post lists various methodologies to pass server-side C# data from an <http:\/\/ASP.NET|ASP.NET> back-end to a JavaScript front-end.",
+                "fallback": "Marius Schulz: Passing .NET Server-Side Data to JavaScript",
+                "thumb_url": "https:\/\/blog.mariusschulz.com\/content\/images\/default-post-preview-image.png",
+                "ts": 1391644033,
+                "from_url": "https:\/\/blog.mariusschulz.com\/2014\/02\/05\/passing-net-server-side-data-to-javascript",
+                "thumb_width": 288,
+                "thumb_height": 288,
+                "service_icon": "https:\/\/blog.mariusschulz.com\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "its basically what I told you",
+        "user": "U15HRTAHL",
+        "ts": "1470340972.000041"
+    },
+    {
+        "type": "message",
+        "text": "just use the URL of the page you’re on",
+        "user": "U15HRTAHL",
+        "ts": "1470340983.000042"
+    },
+    {
+        "type": "message",
+        "text": "I shall check it out",
+        "user": "U15HY5TG8",
+        "ts": "1470341192.000043"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: figure it out?",
+        "user": "U15HRTAHL",
+        "ts": "1470344734.000044"
+    },
+    {
+        "type": "message",
+        "text": "Nooooope",
+        "user": "U15HY5TG8",
+        "ts": "1470344752.000045"
+    },
+    {
+        "type": "message",
+        "text": "Just let joe remote in",
+        "user": "U15HZ01QX",
+        "ts": "1470344802.000046"
+    },
+    {
+        "type": "message",
+        "text": "Deal",
+        "user": "U15HY5TG8",
+        "ts": "1470344857.000047"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: i found the $http in what we call apibasefactory",
+        "user": "U15HY5TG8",
+        "ts": "1470345238.000048"
+    },
+    {
+        "type": "message",
+        "text": "So a factory call",
+        "user": "U15HY5TG8",
+        "ts": "1470345253.000049"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1470345344.000050"
+    },
+    {
+        "type": "message",
+        "text": "you’ll want to use that probably",
+        "user": "U15HRTAHL",
+        "ts": "1470345350.000051"
+    },
+    {
+        "type": "message",
+        "text": "api base factory sounds like your place to go for calling the backend",
+        "user": "U15HRTAHL",
+        "ts": "1470345375.000052"
+    },
+    {
+        "type": "message",
+        "text": "Yea but it still doesnt make sense how lol ill have to research how factory calls work",
+        "user": "U15HY5TG8",
+        "ts": "1470345415.000053"
+    },
+    {
+        "type": "message",
+        "text": "Yeah idk the specifics of your code base",
+        "user": "U15HRTAHL",
+        "ts": "1470345485.000054"
+    },
+    {
+        "type": "message",
+        "text": "I DONT GET THIS",
+        "user": "U15HY5TG8",
+        "ts": "1470345595.000055"
+    }
+]

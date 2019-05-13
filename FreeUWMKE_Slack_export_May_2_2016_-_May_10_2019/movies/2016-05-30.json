@@ -1,0 +1,24 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464656303.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464656304.000003",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1464656308.000004",
+        "text": "<@U15J5H60P> has left the channel"
+    }
+]

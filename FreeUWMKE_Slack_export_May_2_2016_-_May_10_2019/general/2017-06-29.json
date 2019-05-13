@@ -1,0 +1,567 @@
+[
+    {
+        "type": "message",
+        "text": " Ahh. The guy that works at Penrod who used to work at wonderbox his wife still works there ",
+        "user": "U15HRTAHL",
+        "ts": "1498728362.559870"
+    },
+    {
+        "type": "message",
+        "text": "Ahh gotcha. So apparently she still likes it?",
+        "user": "U15HY5TG8",
+        "ts": "1498736350.362104"
+    },
+    {
+        "type": "message",
+        "text": ":poop:",
+        "user": "U15J5H60P",
+        "ts": "1498749308.823296"
+    },
+    {
+        "type": "message",
+        "text": "Do you guys ever wonder what in the actual fuck is the guy in the stall next to you doing?",
+        "user": "U15HY5TG8",
+        "ts": "1498758139.340067"
+    },
+    {
+        "type": "message",
+        "text": "No because I don't poop at work.",
+        "user": "U15J5H60P",
+        "ts": "1498758664.543343"
+    },
+    {
+        "type": "message",
+        "text": "Weird",
+        "user": "U15HY5TG8",
+        "ts": "1498758683.550887"
+    },
+    {
+        "type": "message",
+        "text": "I found an XSS vulnerability in one of the rocket league state tracking sites I use lol",
+        "user": "U15HSHSS2",
+        "ts": "1498761228.543924"
+    },
+    {
+        "type": "message",
+        "text": "Which one ",
+        "user": "U15HRTAHL",
+        "ts": "1498766553.432297"
+    },
+    {
+        "type": "message",
+        "text": "I dont really understand how that stuff works",
+        "user": "U15HY5TG8",
+        "ts": "1498766856.536952"
+    },
+    {
+        "type": "message",
+        "text": "You use user input in your code ",
+        "user": "U15HRTAHL",
+        "ts": "1498766919.557770"
+    },
+    {
+        "type": "message",
+        "text": "And if you don't check it ",
+        "user": "U15HRTAHL",
+        "ts": "1498766923.559091"
+    },
+    {
+        "type": "message",
+        "text": "They can insert snippets ",
+        "user": "U15HRTAHL",
+        "ts": "1498766940.564777"
+    },
+    {
+        "type": "message",
+        "text": "And Jack yo shit ",
+        "user": "U15HRTAHL",
+        "ts": "1498766947.566851"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/rocketleague.tracker.network\/>",
+        "user": "U15HSHSS2",
+        "ts": "1498766955.569749",
+        "attachments": [
+            {
+                "title": " Rocket League Stats, MMR, Leaderboards, &amp; More! ",
+                "title_link": "https:\/\/rocketleague.tracker.network\/",
+                "text": "Rocket League Stats, Tracking, Leaderboards, profiles, ranks and more! Look up your profile, view your stats, where you rank in the world, your top percentile, and historical progression.",
+                "fallback": " Rocket League Stats, MMR, Leaderboards, &amp; More! ",
+                "from_url": "https:\/\/rocketleague.tracker.network\/",
+                "service_icon": "https:\/\/rocketleague.tracker.network\/images\/rl\/favicon\/apple-touch-icon-57x57.png",
+                "service_name": "Rocket League Tracker",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ahhh ok gotcha. I guess this is because idk what rocket league is",
+        "user": "U15HY5TG8",
+        "ts": "1498766965.572950"
+    },
+    {
+        "type": "message",
+        "text": "It's actually a pretty popular site too",
+        "user": "U15HSHSS2",
+        "ts": "1498766970.574961"
+    },
+    {
+        "type": "message",
+        "text": "search for: &lt;script&gt;alert(\"test\")&lt;\/script&gt;",
+        "user": "U15HSHSS2",
+        "ts": "1498766990.581374"
+    },
+    {
+        "type": "message",
+        "text": "That's awesome ",
+        "user": "U15HRTAHL",
+        "ts": "1498767011.588520"
+    },
+    {
+        "type": "message",
+        "text": "Weird thing is the site is ran by company that does tracking for a lot of other games too, and the all use the same format and the sites all look really similar, but none of the other ones have this vulnerability",
+        "user": "U15HSHSS2",
+        "ts": "1498767071.608781"
+    },
+    {
+        "type": "message",
+        "text": "just rocket league's",
+        "user": "U15HSHSS2",
+        "ts": "1498767076.610543"
+    },
+    {
+        "type": "message",
+        "text": "I can't find that.",
+        "user": "U15J5H60P",
+        "ts": "1498767088.614726"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F61T56RA8",
+                "created": 1498767099,
+                "timestamp": 1498767099,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 377945,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F61T56RA8\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F61T56RA8\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F61T56RA8-15d10b0bc6\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F61T56RA8\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F61T56RA8-fd231519ff",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "D612AF66-AC34-4BC0-886C-46A6D7B00423",
+        "ts": "1498767102.619225"
+    },
+    {
+        "type": "message",
+        "text": "Can't do it on mobile ",
+        "user": "U15HRTAHL",
+        "ts": "1498767102.619346"
+    },
+    {
+        "type": "message",
+        "text": "Ahh",
+        "user": "U15HY5TG8",
+        "ts": "1498767108.621280"
+    },
+    {
+        "type": "message",
+        "text": "I can't find it on desktop",
+        "user": "U15J5H60P",
+        "ts": "1498767148.634956"
+    },
+    {
+        "type": "message",
+        "text": "Can't find what?",
+        "user": "U15HSHSS2",
+        "ts": "1498767179.645674",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1498767188.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "`&lt;script&gt;alert(\"test\")&lt;\/script&gt;`",
+        "user": "U15J5H60P",
+        "ts": "1498767206.655194"
+    },
+    {
+        "type": "message",
+        "text": "Search for it in the search bar on the site",
+        "user": "U15HSHSS2",
+        "ts": "1498767224.661303"
+    },
+    {
+        "type": "message",
+        "text": "and it runs the alert in the browser",
+        "user": "U15HSHSS2",
+        "ts": "1498767237.665867"
+    },
+    {
+        "type": "message",
+        "text": "which means it's susceptible to certain attacks because it's runing user entered code",
+        "user": "U15HSHSS2",
+        "ts": "1498767277.679403"
+    },
+    {
+        "type": "message",
+        "text": "NICE!",
+        "user": "U15J5H60P",
+        "ts": "1498767288.683209"
+    },
+    {
+        "type": "message",
+        "text": "DROP ALL THE TABLES",
+        "user": "U15J5H60P",
+        "ts": "1498767298.686592"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1498767302.687829"
+    },
+    {
+        "bot_id": "B15GLPCLT",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1498767304.688571",
+        "attachments": [
+            {
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/battlestar-galactica-edward-james-olmos-michael-hogan-1bH66mzAvJuIo",
+                "image_url": "http:\/\/media1.giphy.com\/media\/1bH66mzAvJuIo\/giphy-downsized.gif",
+                "image_width": 245,
+                "image_height": 145,
+                "image_bytes": 738781,
+                "is_animated": true,
+                "title": "all the things",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/battlestar-galactica-edward-james-olmos-michael-hogan-1bH66mzAvJuIo"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Dooo itttt lol youll be famous",
+        "user": "U15HY5TG8",
+        "ts": "1498767323.695361"
+    },
+    {
+        "type": "message",
+        "text": "or make yourself number 1 on that list",
+        "user": "U15J5H60P",
+        "ts": "1498767325.696222"
+    },
+    {
+        "type": "message",
+        "text": "Hahaha",
+        "user": "U15HY5TG8",
+        "ts": "1498767333.698898"
+    },
+    {
+        "type": "message",
+        "text": "lol unfortunatly this isn't an sql injection attack so I don't think that's possible",
+        "user": "U15HSHSS2",
+        "ts": "1498767355.706327"
+    },
+    {
+        "type": "message",
+        "text": "look through their JS and see if they're dumb enough to use functions that will directly add\/remove users",
+        "user": "U15J5H60P",
+        "ts": "1498767377.714075"
+    },
+    {
+        "type": "message",
+        "text": "I don't really know a lot about this shit, but i'm not sure if you can actually access their javascript code",
+        "user": "U15HSHSS2",
+        "ts": "1498767436.734289"
+    },
+    {
+        "type": "message",
+        "text": "you can only write your own and run it",
+        "user": "U15HSHSS2",
+        "ts": "1498767446.737339"
+    },
+    {
+        "type": "message",
+        "text": "I bet you can access it",
+        "user": "U15HY5TG8",
+        "ts": "1498767455.740401"
+    },
+    {
+        "type": "message",
+        "text": "but if you can somehow get your code on the site and the site runs it, it will run it for every user on the site",
+        "user": "U15HSHSS2",
+        "ts": "1498767467.744440"
+    },
+    {
+        "type": "message",
+        "text": "like this",
+        "user": "U15HSHSS2",
+        "ts": "1498767482.749310"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/rocketleague.tracker.network\/profile\/steam\/%3Cscript%3Ewindow.location.replace(%22http:\/\/stackoverflow.com%22)%3C\/script%3E>",
+        "user": "U15HSHSS2",
+        "ts": "1498767484.750049"
+    },
+    {
+        "type": "message",
+        "text": "go to that site, and then try going back to the main site",
+        "user": "U15HSHSS2",
+        "ts": "1498767496.753963"
+    },
+    {
+        "type": "message",
+        "text": "Thats where i get lost. I dont get how your code gets put on the site ",
+        "user": "U15HY5TG8",
+        "ts": "1498767525.763631"
+    },
+    {
+        "type": "message",
+        "text": "Think of a forum or something",
+        "user": "U15HSHSS2",
+        "ts": "1498767538.768364"
+    },
+    {
+        "type": "message",
+        "text": "Ok thats all i could think of that would allow it",
+        "user": "U15HY5TG8",
+        "ts": "1498767553.772824"
+    },
+    {
+        "type": "message",
+        "text": "you post a script in the forum, then anytime the site loads it, it will run",
+        "user": "U15HSHSS2",
+        "ts": "1498767563.775924"
+    },
+    {
+        "type": "message",
+        "text": "Or in this case",
+        "user": "U15HSHSS2",
+        "ts": "1498767568.777915"
+    },
+    {
+        "type": "message",
+        "text": "But wouldnt someone notice it lol",
+        "user": "U15HY5TG8",
+        "ts": "1498767579.781547"
+    },
+    {
+        "type": "message",
+        "text": "rocket league tracker keeps the 5 most recent searches and displayes them",
+        "user": "U15HSHSS2",
+        "ts": "1498767591.785724"
+    },
+    {
+        "type": "message",
+        "text": "the link i sent is a search for the script",
+        "user": "U15HSHSS2",
+        "ts": "1498767601.788843"
+    },
+    {
+        "type": "message",
+        "text": "so it will put that search on your screen (not on mobile) and then everytime you go to the site it will try to display it but run it instead",
+        "user": "U15HSHSS2",
+        "ts": "1498767633.799867"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1498767657.808112"
+    },
+    {
+        "type": "message",
+        "text": "XSS isn't a huugge vulnerability, but it's still an exploit",
+        "user": "U15HSHSS2",
+        "ts": "1498767709.825394"
+    },
+    {
+        "type": "message",
+        "text": "Howd you come up with that little test though?",
+        "user": "U15HY5TG8",
+        "ts": "1498767715.827344"
+    },
+    {
+        "type": "message",
+        "text": "I bet it could if you decided to do a script that got the users email and password and sent it to you though lol",
+        "user": "U15HY5TG8",
+        "ts": "1498767759.842017"
+    },
+    {
+        "type": "message",
+        "text": "Somebody at zywave sent an email saying we should test all our table input boxes to make sure xss attacks arn't possible and just gave us that test script to run",
+        "user": "U15HSHSS2",
+        "ts": "1498767764.844080"
+    },
+    {
+        "type": "message",
+        "text": "So I've been trying it on other sites for awhile lol",
+        "user": "U15HSHSS2",
+        "ts": "1498767775.847833"
+    },
+    {
+        "type": "message",
+        "text": "this was the only one I found that worked",
+        "user": "U15HSHSS2",
+        "ts": "1498767782.849943"
+    },
+    {
+        "type": "message",
+        "text": "Haha thats awesome",
+        "user": "U15HY5TG8",
+        "ts": "1498767794.853903"
+    },
+    {
+        "type": "message",
+        "text": "Would that be only if they have an alert box\/function named alert though?",
+        "user": "U15HY5TG8",
+        "ts": "1498767860.876258"
+    },
+    {
+        "type": "message",
+        "text": "No, it's built into pretty much every modern day browser",
+        "user": "U15HSHSS2",
+        "ts": "1498767912.894340"
+    },
+    {
+        "type": "message",
+        "text": "press F12 and go to the console and just type in 'alert(\"test\")'",
+        "user": "U15HSHSS2",
+        "ts": "1498767957.910008"
+    },
+    {
+        "type": "message",
+        "text": "should run the alert in the browser",
+        "user": "U15HSHSS2",
+        "ts": "1498767968.913380"
+    },
+    {
+        "type": "message",
+        "text": "the '&lt;script&gt;' part juts inserts it into the html to be ran",
+        "user": "U15HSHSS2",
+        "ts": "1498767992.921873"
+    },
+    {
+        "type": "message",
+        "text": "Ahhhh gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1498768099.958487"
+    },
+    {
+        "type": "message",
+        "text": "if you type `this` into the console you can see all of the available functions",
+        "user": "U15J5H60P",
+        "ts": "1498768182.987082"
+    },
+    {
+        "type": "message",
+        "text": "They're using React\/Redux",
+        "user": "U15J5H60P",
+        "ts": "1498768211.997304"
+    },
+    {
+        "type": "message",
+        "text": "JK those are just my tools :joy:",
+        "user": "U15J5H60P",
+        "ts": "1498768366.051692"
+    },
+    {
+        "type": "message",
+        "text": "I tried getting a script inserted somewhere on their site like a forum or profile info, but they don't accept it because it can tell it's trying to insert html",
+        "user": "U15HSHSS2",
+        "ts": "1498768436.075513"
+    },
+    {
+        "type": "message",
+        "text": "the search bar on the main site is the only place that works it seems",
+        "user": "U15HSHSS2",
+        "ts": "1498768449.080104"
+    },
+    {
+        "type": "message",
+        "text": "Try to get a printout of everyone logged in right now",
+        "user": "U15HY5TG8",
+        "ts": "1498769318.375118"
+    },
+    {
+        "type": "message",
+        "text": "I wouldn't know the first place to start with something like that lol",
+        "user": "U15HSHSS2",
+        "ts": "1498769354.387230"
+    },
+    {
+        "type": "message",
+        "text": "Function(){console.print(domainsources.loggedIn=1);} lol",
+        "user": "U15HY5TG8",
+        "ts": "1498769459.423227"
+    },
+    {
+        "type": "message",
+        "text": "i just got home and tried the script. pretty cool",
+        "user": "U15HY5TG8",
+        "ts": "1498778209.560144"
+    },
+    {
+        "type": "message",
+        "text": "You should try going to the site with the link I posted a few messages above and then go to the main site home page again and see if it does anything",
+        "user": "U15HSHSS2",
+        "ts": "1498778609.627096"
+    },
+    {
+        "type": "message",
+        "text": "Yea i tried both ",
+        "user": "U15HY5TG8",
+        "ts": "1498778694.640873"
+    }
+]

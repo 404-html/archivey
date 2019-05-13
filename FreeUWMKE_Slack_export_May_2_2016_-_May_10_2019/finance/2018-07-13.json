@@ -1,0 +1,1770 @@
+[
+    {
+        "client_msg_id": "48fdd472-7c79-4a99-981e-5e410ba72eb3",
+        "type": "message",
+        "text": "<@U15J5H60P> how much do you add to your stocks each month outside of your 401k?",
+        "user": "U15HRTAHL",
+        "ts": "1531489316.000098"
+    },
+    {
+        "client_msg_id": "6F3CEF26-B4B8-4CED-A735-8E49FE0B6517",
+        "type": "message",
+        "text": "About 10% of my salary",
+        "user": "U15J5H60P",
+        "ts": "1531501910.000306"
+    },
+    {
+        "client_msg_id": "70f90cf5-bfa0-4427-bd6a-cb9fdfe6278b",
+        "type": "message",
+        "text": "Annually you mean?",
+        "user": "U15HRTAHL",
+        "ts": "1531502035.000317"
+    },
+    {
+        "client_msg_id": "3ACE01B2-8D29-4464-BF36-72F26F68978E",
+        "type": "message",
+        "text": "10% of my monthly take-home",
+        "user": "U15J5H60P",
+        "ts": "1531502051.000149"
+    },
+    {
+        "client_msg_id": "5003a583-a605-40cb-b5c2-157e9e85d3a5",
+        "type": "message",
+        "text": "Ok cool",
+        "user": "U15HRTAHL",
+        "ts": "1531502060.000189"
+    },
+    {
+        "client_msg_id": "0a173a81-08a6-4554-ad44-280d9509dcbd",
+        "type": "message",
+        "text": "do you reinvest into the same ones or change it up everytime?",
+        "user": "U15HRTAHL",
+        "ts": "1531502078.000225"
+    },
+    {
+        "client_msg_id": "F9E8E351-1097-44F6-BF01-949C1B68417F",
+        "type": "message",
+        "text": "It depends. I'll buy something new if I find something otherwise I'm pretty heavy in MSFT and AAPL which is bound to bite me in the ass one day, but looking good so far. I just bought WH since we were talking about it. It looked pretty good. ",
+        "user": "U15J5H60P",
+        "ts": "1531502136.000134"
+    },
+    {
+        "client_msg_id": "4c8a23fc-e8ab-41ad-b86f-70a53d815c92",
+        "type": "message",
+        "text": "oh wow, they JUST had an IPO",
+        "user": "U15HRTAHL",
+        "ts": "1531502181.000440"
+    },
+    {
+        "client_msg_id": "33F32ACF-2CD7-4FBD-9428-C67253DDD98E",
+        "type": "message",
+        "text": "Eh, WH did, however I think it was some sort of transfer from their old Symbol, some sort of business restructuring or something. ",
+        "user": "U15J5H60P",
+        "ts": "1531502227.000346"
+    },
+    {
+        "client_msg_id": "2A5A8925-47BE-4DA2-8C75-F723ED986590",
+        "type": "message",
+        "text": "The symbol used to be something like WHST",
+        "user": "U15J5H60P",
+        "ts": "1531502243.000173"
+    },
+    {
+        "client_msg_id": "B528A1A8-98C9-4453-A0FC-CA37EA68B99F",
+        "type": "message",
+        "text": "WYND**",
+        "user": "U15J5H60P",
+        "ts": "1531502260.000040"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus wynd",
+        "user": "U15J5H60P",
+        "ts": "1531502269.000554"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       WYND                  45                0.04                0.089 \n       Avg.                 ---                 ---               0.089% \n```\n<http:\/\/finviz.com\/chart.ashx?t=WYND&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531502269.000561",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=WYND&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32286,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=WYND&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=WYND&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus wh",
+        "user": "U15J5H60P",
+        "ts": "1531502281.000138"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         WH              58.855               0.145                0.247 \n       Avg.                 ---                 ---               0.247% \n```\n<http:\/\/finviz.com\/chart.ashx?t=WH&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531502281.000150",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=WH&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 17129,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=WH&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=WH&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus WYNN",
+        "user": "U15HRTAHL",
+        "ts": "1531502296.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       WYNN              165.32                0.79                0.480 \n       Avg.                 ---                 ---               0.480% \n```\n<http:\/\/finviz.com\/chart.ashx?t=WYNN&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531502296.000105",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=WYNN&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 30230,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=WYNN&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=WYNN&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b26a0563-ce42-4bbc-a010-9f6b25b45d4e",
+        "type": "message",
+        "text": "I love how companies in the same industry have slightly similar charts",
+        "user": "U15HRTAHL",
+        "ts": "1531502334.000241"
+    },
+    {
+        "client_msg_id": "02c0a4aa-95f7-4fb6-baca-e2130415e29a",
+        "type": "message",
+        "text": "Do you guys think you are making more money by investing in stocks you choose rather than taking that money and adding it to your 401k?",
+        "user": "U15HSHSS2",
+        "ts": "1531503566.000348"
+    },
+    {
+        "client_msg_id": "859ac309-cddc-4461-b615-2ae066b22f8b",
+        "type": "message",
+        "text": "or are you guys putting money in stocks for short\/mid term?",
+        "user": "U15HSHSS2",
+        "ts": "1531503588.000096"
+    },
+    {
+        "client_msg_id": "64A18359-3749-46E0-A6BC-FBE0DD813DCC",
+        "type": "message",
+        "text": "I think my 401k has performed better than my long term holdings",
+        "user": "U15HZ01QX",
+        "ts": "1531503611.000474"
+    },
+    {
+        "client_msg_id": "769C2CC6-58F8-4D8C-B011-C5FEF4956C10",
+        "type": "message",
+        "text": "Besides like Netflix lol",
+        "user": "U15HZ01QX",
+        "ts": "1531503615.000296"
+    },
+    {
+        "client_msg_id": "a6ce8918-db43-43ab-a6a9-68d70dc20d7f",
+        "type": "message",
+        "text": "My stocks are doing much better than my 401k",
+        "user": "U15J5H60P",
+        "ts": "1531503694.000077"
+    },
+    {
+        "client_msg_id": "7ed36fbb-f8b4-462c-92c1-a2676b4954af",
+        "type": "message",
+        "text": "I feel like in the long term my 401k would preform better than me just putting money into stuff",
+        "user": "U15HSHSS2",
+        "ts": "1531503703.000374"
+    },
+    {
+        "client_msg_id": "54a9a568-518a-42bc-a244-bc3fb97e454d",
+        "type": "message",
+        "text": "Short term",
+        "user": "U15J5H60P",
+        "ts": "1531503704.000167"
+    },
+    {
+        "client_msg_id": "fbeac5e3-7f22-49f7-8b52-8e4db7a8c3b7",
+        "type": "message",
+        "text": "Probably",
+        "user": "U15J5H60P",
+        "ts": "1531503713.000025"
+    },
+    {
+        "client_msg_id": "dc10e360-aed5-45c4-a629-79f14672b377",
+        "type": "message",
+        "text": "But I'm doing it more for the liquidity",
+        "user": "U15J5H60P",
+        "ts": "1531503718.000348"
+    },
+    {
+        "client_msg_id": "2ab70c19-5f34-4aca-897a-31bb4d018e0f",
+        "type": "message",
+        "text": "I'd like to use some of it for a down payment on a house",
+        "user": "U15J5H60P",
+        "ts": "1531503736.000115"
+    },
+    {
+        "client_msg_id": "5ba3469a-d434-4f97-8bb5-03043e2e18b9",
+        "type": "message",
+        "text": "401k is my nest egg, I plan to take out what I earn in stocks 5 - 10 years from now",
+        "user": "U15HRTAHL",
+        "ts": "1531503791.000358"
+    },
+    {
+        "client_msg_id": "aa97b986-3640-4fc6-be9c-e17bf4559323",
+        "type": "message",
+        "text": "gotch ya",
+        "user": "U15HSHSS2",
+        "ts": "1531503806.000409"
+    },
+    {
+        "client_msg_id": "E52DA246-07DD-48A2-BB35-8D5A6D3D3963",
+        "type": "message",
+        "text": "Just do options for all your short term needs",
+        "user": "U15HZ01QX",
+        "ts": "1531503877.000035"
+    },
+    {
+        "client_msg_id": "a7dc9db9-ec06-473f-b2ea-89ccba8624b8",
+        "type": "message",
+        "text": "too much risk",
+        "user": "U15HRTAHL",
+        "ts": "1531503887.000001"
+    },
+    {
+        "client_msg_id": "B8165F98-CA78-48FE-8F7D-F9CA6D5E973F",
+        "type": "message",
+        "text": "No it’s not",
+        "user": "U15HZ01QX",
+        "ts": "1531503904.000081"
+    },
+    {
+        "client_msg_id": "70295983-E46A-4D64-855C-C9149406BE64",
+        "type": "message",
+        "text": "Unless you’re being cheap",
+        "user": "U15HZ01QX",
+        "ts": "1531503909.000098"
+    },
+    {
+        "client_msg_id": "5920596c-c595-45ba-a5d1-4cc6cf0bcbec",
+        "type": "message",
+        "text": "I don't understand them enough to do it",
+        "user": "U15J5H60P",
+        "ts": "1531503915.000009"
+    },
+    {
+        "client_msg_id": "a6d72aa1-bd30-4422-bc66-af4895c6322f",
+        "type": "message",
+        "text": "lol Unless you're being cheap",
+        "user": "U15J5H60P",
+        "ts": "1531503921.000033"
+    },
+    {
+        "client_msg_id": "cde062ac-9bb7-4052-b256-8fe31be7b8ce",
+        "type": "message",
+        "text": "Might as well be spinning for black",
+        "user": "U15J5H60P",
+        "ts": "1531503926.000346"
+    },
+    {
+        "client_msg_id": "1b07a159-d117-4e15-af28-ace3792dfa5f",
+        "type": "message",
+        "text": "So if there were some sort of market crash you could lose money in 5 - 10 years if you invested in the wrong shit right?",
+        "user": "U15HSHSS2",
+        "ts": "1531503928.000421"
+    },
+    {
+        "client_msg_id": "104c4e60-36c9-49ee-abd1-59f78a66fa93",
+        "type": "message",
+        "text": "james is doing martengale on options I see :eyes:",
+        "user": "U15HRTAHL",
+        "ts": "1531503934.000233"
+    },
+    {
+        "client_msg_id": "772AA0C4-D426-4451-B58B-3BA03856F068",
+        "type": "message",
+        "text": "The risky options are the cheap ones",
+        "user": "U15HZ01QX",
+        "ts": "1531503937.000420"
+    },
+    {
+        "client_msg_id": "08e547ba-c49e-4c86-aac7-e4e974a76877",
+        "type": "message",
+        "text": "Hopefully not all of it, Tom.",
+        "user": "U15J5H60P",
+        "ts": "1531503950.000077"
+    },
+    {
+        "client_msg_id": "6a8e290c-4ae3-4faf-9d62-fe017510d9fd",
+        "type": "message",
+        "text": "<@U15HSHSS2> I want a market crash",
+        "user": "U15HRTAHL",
+        "ts": "1531503954.000394"
+    },
+    {
+        "client_msg_id": "c16da226-ef74-4016-819a-218a844918fe",
+        "type": "message",
+        "text": "I’ll buy more",
+        "user": "U15HRTAHL",
+        "ts": "1531503957.000115"
+    },
+    {
+        "client_msg_id": "d93df6d5-a7eb-40df-a45f-6120bafaea3b",
+        "type": "message",
+        "text": "and then wait 3 years more for the market to bounce back",
+        "user": "U15HRTAHL",
+        "ts": "1531503971.000437"
+    },
+    {
+        "client_msg_id": "95FA4FED-01F7-4A84-8AB2-9CD40520B1BE",
+        "type": "message",
+        "text": "<@U15HSHSS2> 08 was really really bad for a lot of people",
+        "user": "U15HZ01QX",
+        "ts": "1531503986.000341"
+    },
+    {
+        "client_msg_id": "CC19388B-5230-4C1F-B559-9C5641D06066",
+        "type": "message",
+        "text": "But that hit 401ks too",
+        "user": "U15HZ01QX",
+        "ts": "1531503995.000471"
+    },
+    {
+        "client_msg_id": "7887AEF2-E08D-4100-A21D-31ECA0C62474",
+        "type": "message",
+        "text": "Not just peoples manual holdings",
+        "user": "U15HZ01QX",
+        "ts": "1531504016.000289"
+    },
+    {
+        "client_msg_id": "5c1bc040-f910-4f2a-8dbc-3f84981f4c88",
+        "type": "message",
+        "text": "So if you had to retire in '08 you were kinda fucked?",
+        "user": "U15HSHSS2",
+        "ts": "1531504044.000315"
+    },
+    {
+        "client_msg_id": "7750d0bf-d7a1-4cf3-8586-09098a9cd346",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1531504075.000256"
+    },
+    {
+        "client_msg_id": "D99343C6-CDAA-41E6-BC39-D6939822029A",
+        "type": "message",
+        "text": "Well 401ks are managed so that as you approach retirement they’re putting your money in more conservative things.",
+        "user": "U15HZ01QX",
+        "ts": "1531504086.000244"
+    },
+    {
+        "client_msg_id": "7D7AB1DB-A3AA-49A6-AD83-C7B753562338",
+        "type": "message",
+        "text": "So you probably took a beating but you could still retire",
+        "user": "U15HZ01QX",
+        "ts": "1531504102.000394"
+    },
+    {
+        "client_msg_id": "B838996E-CB2A-4068-951C-02BAEC0A4E9F",
+        "type": "message",
+        "text": "But like if you were 45 and just decided to randomly retire.",
+        "user": "U15HZ01QX",
+        "ts": "1531504127.000538"
+    },
+    {
+        "client_msg_id": "07A32DBD-340B-477D-B7F9-0C41CFA1F33A",
+        "type": "message",
+        "text": "Fucked probably",
+        "user": "U15HZ01QX",
+        "ts": "1531504132.000013"
+    },
+    {
+        "client_msg_id": "f8130f78-6c71-4a5a-a8cd-289997a8aab0",
+        "type": "message",
+        "text": "And they also should move those over to stocks that pay dividends. So even if the stocks tank you still have shares and make money on each one",
+        "user": "U15HRTAHL",
+        "ts": "1531504153.000014"
+    },
+    {
+        "client_msg_id": "b23cda0f-086b-44db-bca2-40d979c585dc",
+        "type": "message",
+        "text": "What kind of return does a typical \"safe\" company to invest in see in a year?",
+        "user": "U15HSHSS2",
+        "ts": "1531504167.000117"
+    },
+    {
+        "client_msg_id": "8d2cfbdf-21a6-4c60-a7fb-ad08fa29ae83",
+        "type": "message",
+        "text": "6%",
+        "user": "U15HRTAHL",
+        "ts": "1531504172.000075"
+    },
+    {
+        "client_msg_id": "7f38bef4-d803-4619-ad76-b612163817af",
+        "type": "message",
+        "text": "if that question even makes sense",
+        "user": "U15HSHSS2",
+        "ts": "1531504172.000501"
+    },
+    {
+        "client_msg_id": "0d202ee5-1494-4dbb-b1a0-c01f20d693df",
+        "type": "message",
+        "text": "6% - 8%",
+        "user": "U15HRTAHL",
+        "ts": "1531504208.000249"
+    },
+    {
+        "client_msg_id": "3101a95c-0fa0-4e0f-818f-570c9dfb75be",
+        "type": "message",
+        "text": "Are there any special type of bank accounts that have anywhere near that kind of interest?",
+        "user": "U15HSHSS2",
+        "ts": "1531504269.000355"
+    },
+    {
+        "client_msg_id": "1170bf10-5683-4913-bcbb-91ba3b31adda",
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1531504279.000150"
+    },
+    {
+        "client_msg_id": "8bb6ae53-2edd-49a1-a313-da04bdfc4d65",
+        "type": "message",
+        "text": "CDs will give you like 1 maybe 2%",
+        "user": "U15HRTAHL",
+        "ts": "1531504291.000343"
+    },
+    {
+        "client_msg_id": "4D9C619C-9F5F-45E7-8489-94788A07B287",
+        "type": "message",
+        "text": "Ally has 1.5 that’s the highest anywhere I think",
+        "user": "U15HZ01QX",
+        "ts": "1531504293.000521"
+    },
+    {
+        "client_msg_id": "91BB3A6E-17D5-4E17-B14D-245C1521A131",
+        "type": "message",
+        "text": "And then like joe said. There’s special accounts that if you commit for awhile they’ll give you good rates",
+        "user": "U15HZ01QX",
+        "ts": "1531504327.000504"
+    },
+    {
+        "client_msg_id": "e9854ac2-5ed8-4347-9e5a-47cdc62a5e4a",
+        "type": "message",
+        "text": "If you want liquid, but safe, investments you can look into mutual funds or index funds",
+        "user": "U15J5H60P",
+        "ts": "1531504581.000194"
+    },
+    {
+        "client_msg_id": "f52a08fe-6455-46dd-96c8-265ae9950bfa",
+        "type": "message",
+        "text": "SPY is an example of an index fund",
+        "user": "U15J5H60P",
+        "ts": "1531504590.000371"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus spy",
+        "user": "U15J5H60P",
+        "ts": "1531504596.000145"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n        SPY              279.67                 0.3                0.107 \n       Avg.                 ---                 ---               0.107% \n```\n<http:\/\/finviz.com\/chart.ashx?t=SPY&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531504596.000156",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=SPY&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 34502,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=SPY&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=SPY&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "90C0DE0F-F56B-43BC-8DCD-415B0C502FB3",
+        "type": "message",
+        "text": "He’s right",
+        "user": "U15HZ01QX",
+        "ts": "1531504597.000311"
+    },
+    {
+        "client_msg_id": "8b4c64fd-9668-41e8-ab44-cdb898b6f516",
+        "type": "message",
+        "text": "Don’t do SPY. It costs too much and ITOT is the same thing for less",
+        "user": "U15HRTAHL",
+        "ts": "1531504615.000568"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus ITOT",
+        "user": "U15HRTAHL",
+        "ts": "1531504621.000172"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       ITOT               64.44                0.05                0.078 \n       Avg.                 ---                 ---               0.078% \n```\n<http:\/\/finviz.com\/chart.ashx?t=ITOT&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531504621.000187",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=ITOT&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 35367,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=ITOT&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=ITOT&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8A528272-DC57-46EE-88E1-884F597AC4F2",
+        "type": "message",
+        "text": "Do both",
+        "user": "U15HZ01QX",
+        "ts": "1531504628.000189"
+    },
+    {
+        "client_msg_id": "85CBDECD-301A-4511-9F30-258B447061A6",
+        "type": "message",
+        "text": "I have both",
+        "user": "U15HZ01QX",
+        "ts": "1531504631.000348"
+    },
+    {
+        "client_msg_id": "13ad48c9-3436-4a7a-8661-7b47f43ee151",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1531504637.000046"
+    },
+    {
+        "client_msg_id": "61aea2af-97d0-42ef-874e-e74df2dbca29",
+        "type": "message",
+        "text": "Why",
+        "user": "U15HRTAHL",
+        "ts": "1531504638.000436"
+    },
+    {
+        "client_msg_id": "296fb68e-12f8-4a11-8f6d-d56f81c3bbac",
+        "type": "message",
+        "text": "they cover the same thing",
+        "user": "U15HRTAHL",
+        "ts": "1531504643.000415"
+    },
+    {
+        "client_msg_id": "6830a76e-a620-49b7-b1e0-6500b9bdcd27",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1531504655.000009"
+    },
+    {
+        "client_msg_id": "42d26ed8-f72b-47d2-adec-ee77150b8da6",
+        "type": "message",
+        "text": "Like exactly the same",
+        "user": "U15J5H60P",
+        "ts": "1531504657.000497"
+    },
+    {
+        "client_msg_id": "4D61DBF5-2A47-457B-8876-0A5BDFD05CBE",
+        "type": "message",
+        "text": "Because I had left over money ",
+        "user": "U15HZ01QX",
+        "ts": "1531504658.000128"
+    },
+    {
+        "client_msg_id": "DC0FB403-5E73-400A-BF56-B84604C13D34",
+        "type": "message",
+        "text": "Sorry I’m mostly in spy.",
+        "user": "U15HZ01QX",
+        "ts": "1531504671.000491"
+    },
+    {
+        "client_msg_id": "46e1d9df-ba60-469a-9ccd-ea480b96c3c0",
+        "type": "message",
+        "text": "you could have bought 4 shares of ITOT with the price SPY offers",
+        "user": "U15HRTAHL",
+        "ts": "1531504674.000081"
+    },
+    {
+        "client_msg_id": "C80B363A-2368-4DD0-B83F-D4724C509B62",
+        "type": "message",
+        "text": "Why would you ?",
+        "user": "U15HZ01QX",
+        "ts": "1531504685.000537"
+    },
+    {
+        "client_msg_id": "67f29907-d9ab-4962-9c00-52b4c4363621",
+        "type": "message",
+        "text": "You get the same amount of return tho",
+        "user": "U15J5H60P",
+        "ts": "1531504688.000212"
+    },
+    {
+        "client_msg_id": "7246e7a0-164e-4bab-9415-c1c9404e8af5",
+        "type": "message",
+        "text": "…",
+        "user": "U15HRTAHL",
+        "ts": "1531504689.000012"
+    },
+    {
+        "client_msg_id": "7ec1a9fa-dc57-41ea-994f-220b238b6774",
+        "type": "message",
+        "text": "So it doesn't matter",
+        "user": "U15J5H60P",
+        "ts": "1531504697.000231"
+    },
+    {
+        "client_msg_id": "15565cac-d4fc-46fc-a9df-f598ece4aef6",
+        "type": "message",
+        "text": "right?",
+        "user": "U15J5H60P",
+        "ts": "1531504698.000307"
+    },
+    {
+        "client_msg_id": "984d546b-eb38-4073-a66c-f9c41865092d",
+        "type": "message",
+        "text": "# of shares",
+        "user": "U15HRTAHL",
+        "ts": "1531504700.000278"
+    },
+    {
+        "client_msg_id": "1608b024-a13d-44fb-8208-0efe21b1aa7f",
+        "type": "message",
+        "text": "it does matter",
+        "user": "U15HRTAHL",
+        "ts": "1531504703.000039"
+    },
+    {
+        "client_msg_id": "fc814af4-aef2-4900-9688-09276aaba9b7",
+        "type": "message",
+        "text": "Does ITOT pay dividend?",
+        "user": "U15J5H60P",
+        "ts": "1531504708.000460"
+    },
+    {
+        "client_msg_id": "5fbf6cbe-c36d-4216-8de5-dad59c86b515",
+        "type": "message",
+        "text": "ooo let me check that",
+        "user": "U15HRTAHL",
+        "ts": "1531504714.000113"
+    },
+    {
+        "client_msg_id": "7c56445d-3ddf-4c27-bee4-16409e4196d1",
+        "type": "message",
+        "text": "Why would number of shares matter?",
+        "user": "U15J5H60P",
+        "ts": "1531504720.000059"
+    },
+    {
+        "client_msg_id": "DA2FDFE5-0329-4C8E-A1BD-B4B0DD547603",
+        "type": "message",
+        "text": "Joe",
+        "user": "U15HZ01QX",
+        "ts": "1531504723.000463"
+    },
+    {
+        "client_msg_id": "06E43B1C-42AC-4CB4-8456-C609FFC4A573",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1531504725.000069"
+    },
+    {
+        "client_msg_id": "640ee885-15ac-4cf7-8445-3b1fde590a79",
+        "type": "message",
+        "text": "volume",
+        "user": "U15HRTAHL",
+        "ts": "1531504729.000104"
+    },
+    {
+        "client_msg_id": "BEC38EFE-B3E9-4B16-A5D1-A37D142D9276",
+        "type": "message",
+        "text": "?????",
+        "user": "U15HZ01QX",
+        "ts": "1531504732.000370"
+    },
+    {
+        "client_msg_id": "91623dca-7188-4f59-a7ed-04cd60211514",
+        "type": "message",
+        "text": "If I buy 8 shares for a total of $400 and it goes up 6%",
+        "user": "U15J5H60P",
+        "ts": "1531504734.000018",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1531504797.000000"
+        }
+    },
+    {
+        "client_msg_id": "e22b578b-d73d-46e7-a225-74971bac9ac8",
+        "type": "message",
+        "text": "Or buy 1 share for a total of $400 and it goes up 6%",
+        "user": "U15J5H60P",
+        "ts": "1531504741.000357",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1531504806.000000"
+        }
+    },
+    {
+        "client_msg_id": "10267960-38f3-46c2-8167-01228f85853f",
+        "type": "message",
+        "text": "I still make the same amount",
+        "user": "U15J5H60P",
+        "ts": "1531504747.000511"
+    },
+    {
+        "client_msg_id": "8e1a197c-a9ac-471a-8419-c2d7ef523c25",
+        "type": "message",
+        "text": "I don’t think you. the first example you have 3200 invested, second one you only have 400 invested",
+        "user": "U15HRTAHL",
+        "ts": "1531504780.000521"
+    },
+    {
+        "client_msg_id": "D49A9109-1596-4BC5-A000-D2A5172287A4",
+        "type": "message",
+        "text": "I’ve gotten itot divendends",
+        "user": "U15HZ01QX",
+        "ts": "1531504789.000129"
+    },
+    {
+        "client_msg_id": "7F1252C6-EEC8-4598-9EBC-15B69B0853A7",
+        "type": "message",
+        "text": "But you want to have more invested",
+        "user": "U15HZ01QX",
+        "ts": "1531504798.000193"
+    },
+    {
+        "client_msg_id": "058F78AB-B7D9-4C34-BFBD-562B67AEFD2F",
+        "type": "message",
+        "text": "Not more shares",
+        "user": "U15HZ01QX",
+        "ts": "1531504806.000181"
+    },
+    {
+        "client_msg_id": "486DE23F-D0AA-4726-B39D-7A02C34C5665",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1531504807.000440"
+    },
+    {
+        "client_msg_id": "e1be6d59-986d-4c02-b143-abf185901b86",
+        "type": "message",
+        "text": "edited",
+        "user": "U15J5H60P",
+        "ts": "1531504808.000479"
+    },
+    {
+        "client_msg_id": "8865a704-175d-4ccd-87c2-21f5e0436a4b",
+        "type": "message",
+        "text": "Not necessarily more shares*",
+        "user": "U15J5H60P",
+        "ts": "1531504832.000053"
+    },
+    {
+        "client_msg_id": "1e780fe0-4252-4781-b2bb-e699372f15af",
+        "type": "message",
+        "text": "It's the amount of money",
+        "user": "U15J5H60P",
+        "ts": "1531504838.000150"
+    },
+    {
+        "client_msg_id": "50ddb637-f7e0-44c5-97a9-700d743e0696",
+        "type": "message",
+        "text": "not the number of shares",
+        "user": "U15J5H60P",
+        "ts": "1531504840.000518"
+    },
+    {
+        "client_msg_id": "e14a32c9-bc68-4d27-b05c-f0c40ad7031d",
+        "type": "message",
+        "text": "Unless they both pay the same dividend",
+        "user": "U15J5H60P",
+        "ts": "1531504848.000276"
+    },
+    {
+        "client_msg_id": "48698601-f8a5-44b9-a250-dd1db4060089",
+        "type": "message",
+        "text": "Then you'd want ITOT",
+        "user": "U15J5H60P",
+        "ts": "1531504851.000538"
+    },
+    {
+        "client_msg_id": "0c81733b-a796-460e-9dde-1ae11990892b",
+        "type": "message",
+        "text": "ITOT ~25 cents",
+        "user": "U15J5H60P",
+        "ts": "1531504879.000096"
+    },
+    {
+        "client_msg_id": "b28d6614-8d8a-46a0-a08e-ad3bb14ed887",
+        "type": "message",
+        "text": "Ok I get what you’re saying",
+        "user": "U15HRTAHL",
+        "ts": "1531504891.000064"
+    },
+    {
+        "client_msg_id": "7a7351fd-138e-45a2-af61-59271b1751d7",
+        "type": "message",
+        "text": "SPY is 1.25",
+        "user": "U15J5H60P",
+        "ts": "1531504893.000408"
+    },
+    {
+        "client_msg_id": "222FFBED-617C-40C1-AA66-248E88200EBD",
+        "type": "message",
+        "text": "Spy divendends are nice",
+        "user": "U15HZ01QX",
+        "ts": "1531505029.000163"
+    },
+    {
+        "client_msg_id": "31918ffb-6e9a-485f-b3df-b300fe121bb2",
+        "type": "message",
+        "text": "It’s amazing how money works",
+        "user": "U15HRTAHL",
+        "ts": "1531505153.000023"
+    },
+    {
+        "client_msg_id": "809b055a-3629-4f04-a524-32c66bbb49b0",
+        "type": "message",
+        "text": "Yeah, you put some into a roulette machine, and it spits double back.",
+        "user": "U15J5H60P",
+        "ts": "1531505173.000055"
+    },
+    {
+        "client_msg_id": "efd3b23e-c1d2-4c15-9bfe-aa7b44847cd3",
+        "type": "message",
+        "text": "Free money",
+        "user": "U15J5H60P",
+        "ts": "1531505182.000132"
+    },
+    {
+        "client_msg_id": "b5d0e89e-bfde-49ab-a3e2-ccd8aeaaa6ab",
+        "type": "message",
+        "text": "Alrighty",
+        "user": "U15J5H60P",
+        "ts": "1531505189.000255"
+    },
+    {
+        "client_msg_id": "64ae1888-949d-458e-960f-ee567c9e9616",
+        "type": "message",
+        "text": "here we go again",
+        "user": "U15HRTAHL",
+        "ts": "1531505191.000156"
+    },
+    {
+        "client_msg_id": "96335aaf-8f9f-41c3-bf27-7c013b6e57fa",
+        "type": "message",
+        "text": "I'm done with roulette jokes lol",
+        "user": "U15J5H60P",
+        "ts": "1531505194.000321",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1531505201.000000"
+        }
+    },
+    {
+        "client_msg_id": "00092584-9298-4211-bd46-f111ef7964b4",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1531505199.000004"
+    },
+    {
+        "client_msg_id": "b2a9067a-63f8-481c-951e-7662ee77d47c",
+        "type": "message",
+        "text": "Everyone goes to work and does their job",
+        "user": "U15HRTAHL",
+        "ts": "1531505232.000038"
+    },
+    {
+        "client_msg_id": "435f94a9-0dbc-496b-a376-20f6eb3efbe6",
+        "type": "message",
+        "text": "and all you have to do is throw money at a company",
+        "user": "U15HRTAHL",
+        "ts": "1531505241.000162"
+    },
+    {
+        "client_msg_id": "c9d33474-b785-4ca9-8201-094811ecd213",
+        "type": "message",
+        "text": "and hope everyone does their job correctly",
+        "user": "U15HRTAHL",
+        "ts": "1531505248.000245"
+    },
+    {
+        "client_msg_id": "5d6662d9-5f80-4948-b68e-ca5b7f6d534a",
+        "type": "message",
+        "text": "and you make money",
+        "user": "U15HRTAHL",
+        "ts": "1531505251.000056"
+    },
+    {
+        "client_msg_id": "d95a894f-819a-4eaa-ac6f-c4eb114d75e4",
+        "type": "message",
+        "text": "Free money",
+        "user": "U15J5H60P",
+        "ts": "1531505254.000444"
+    },
+    {
+        "client_msg_id": "b1ad03ce-395f-43a6-b5c1-7504c85fd44f",
+        "type": "message",
+        "text": "FREE MONEY",
+        "user": "U15HRTAHL",
+        "ts": "1531505261.000487"
+    },
+    {
+        "client_msg_id": "60c22c6b-21d2-42a2-8994-47856fbb35e8",
+        "type": "message",
+        "text": "#Enron",
+        "user": "U15J5H60P",
+        "ts": "1531505269.000344"
+    },
+    {
+        "client_msg_id": "0d169863-ae9e-48a1-95c4-fafd981de51e",
+        "type": "message",
+        "text": "Then the damn govment comes in and cleans house",
+        "user": "U15HRTAHL",
+        "ts": "1531505285.000417"
+    },
+    {
+        "client_msg_id": "291e1c3b-ac1d-4463-a968-a09a1846d8be",
+        "type": "message",
+        "text": "What companies do you guys invest in?",
+        "user": "U15HSHSS2",
+        "ts": "1531505301.000261"
+    },
+    {
+        "client_msg_id": "4a6b79d9-666a-4b68-b918-3ae885550dd2",
+        "type": "message",
+        "text": "AAPL, MSFT, MU, FDC, WH",
+        "user": "U15J5H60P",
+        "ts": "1531505321.000311"
+    },
+    {
+        "client_msg_id": "05468cc4-09dc-44c5-8134-46128273b4d5",
+        "type": "message",
+        "text": "Apple, Microsoft, Micron Technologies, First Data Corp, Wyndham Resorts",
+        "user": "U15J5H60P",
+        "ts": "1531505347.000260"
+    },
+    {
+        "client_msg_id": "8816fb57-d0b3-44ce-b75c-a0c52d6c957a",
+        "type": "message",
+        "text": "This is my first time investing into individual stocks, I’ve always done index funds",
+        "user": "U15HRTAHL",
+        "ts": "1531505351.000151"
+    },
+    {
+        "client_msg_id": "9fe64e94-1504-4ec6-8006-8d8bf26b0544",
+        "type": "message",
+        "text": "So a lotttt of AAPL",
+        "user": "U15J5H60P",
+        "ts": "1531505400.000381"
+    },
+    {
+        "client_msg_id": "b91a27ac-9d9a-4f5a-b7d8-077b942e232e",
+        "type": "message",
+        "text": "A regrettable amount maybe",
+        "user": "U15J5H60P",
+        "ts": "1531505409.000015"
+    },
+    {
+        "client_msg_id": "FAC2ADA1-9386-4C7A-A5AD-D65863742A09",
+        "type": "message",
+        "text": "Mu, nflx, spy, itot, aapl, msft,intc, ttwo,nke sbux this week",
+        "user": "U15HZ01QX",
+        "ts": "1531505426.000438"
+    },
+    {
+        "client_msg_id": "bdf694c4-d04e-415e-a8f6-a272bdbeb8c1",
+        "type": "message",
+        "text": "TTWO lol",
+        "user": "U15J5H60P",
+        "ts": "1531505436.000205"
+    },
+    {
+        "client_msg_id": "c7da1ebb-1ee8-4f3d-bc19-ca3b596f83e4",
+        "type": "message",
+        "text": "<@U15HZ01QX> what was that one I told you to invest in that was under $15",
+        "user": "U15HRTAHL",
+        "ts": "1531505453.000010"
+    },
+    {
+        "client_msg_id": "d412a751-c137-49e3-8b8b-4742839f7603",
+        "type": "message",
+        "text": "Oh they're actually doing not bad",
+        "user": "U15J5H60P",
+        "ts": "1531505455.000347"
+    },
+    {
+        "client_msg_id": "74F466C9-20B1-46FB-A34F-5C103BFC4B24",
+        "type": "message",
+        "text": "I run options on aapl, Mu, twtr, facebook and whatever the hell else I see on Wall Street bets",
+        "user": "U15HZ01QX",
+        "ts": "1531505472.000139"
+    },
+    {
+        "client_msg_id": "BF776C5C-3110-4C93-B79A-AB71815CCFE2",
+        "type": "message",
+        "text": "<@U15HRTAHL> 3D printing",
+        "user": "U15HZ01QX",
+        "ts": "1531505496.000439"
+    },
+    {
+        "client_msg_id": "8212bb63-fe6a-4d3e-9ebf-163cf44649e5",
+        "type": "message",
+        "text": "Isn't that a parody site?",
+        "user": "U15J5H60P",
+        "ts": "1531505498.000101"
+    },
+    {
+        "client_msg_id": "d398b2b6-7cb8-455f-90d6-bbee0750e2da",
+        "type": "message",
+        "text": "lol wallstreet bets",
+        "user": "U15HSHSS2",
+        "ts": "1531505504.000082"
+    },
+    {
+        "client_msg_id": "21ccbf88-dbcf-45e5-b343-c45adf13e963",
+        "type": "message",
+        "text": "<@U15HZ01QX> thank you",
+        "user": "U15HRTAHL",
+        "ts": "1531505513.000205"
+    },
+    {
+        "client_msg_id": "02DC2E20-0C09-40F0-B518-C1ADEA9C4B39",
+        "type": "message",
+        "text": "They’re just rich ass hats. But they know what to do",
+        "user": "U15HZ01QX",
+        "ts": "1531505522.000394"
+    },
+    {
+        "client_msg_id": "07215659-96BB-46C7-8C45-6EBE96C88972",
+        "type": "message",
+        "text": "<@U15HRTAHL> sorry I meant is that the company?",
+        "user": "U15HZ01QX",
+        "ts": "1531505532.000232"
+    },
+    {
+        "client_msg_id": "2a297696-d9f3-40db-8b9c-657ffed5c06a",
+        "type": "message",
+        "text": "yeah ddd",
+        "user": "U15HRTAHL",
+        "ts": "1531505537.000376"
+    },
+    {
+        "client_msg_id": "38521835-C9EF-4BB5-8EFE-BBF2AC627AB7",
+        "type": "message",
+        "text": "Then it’s DDD",
+        "user": "U15HZ01QX",
+        "ts": "1531505541.000198"
+    },
+    {
+        "client_msg_id": "dea997e0-f5dc-4c12-b34a-5c37e0af62ab",
+        "type": "message",
+        "text": "I'm refusing to buy twitter",
+        "user": "U15J5H60P",
+        "ts": "1531505576.000372"
+    },
+    {
+        "client_msg_id": "2d70fe5b-ed37-421a-bd74-b1d0ae97b983",
+        "type": "message",
+        "text": "Did you lose on anything yet James?",
+        "user": "U15J5H60P",
+        "ts": "1531505590.000459"
+    },
+    {
+        "client_msg_id": "1EF15236-085F-42FD-AFC2-DA3A36A72EF3",
+        "type": "message",
+        "text": "Oh I’m sure lol",
+        "user": "U15HZ01QX",
+        "ts": "1531505603.000384"
+    },
+    {
+        "client_msg_id": "cd7a230a-78bd-4bb5-a7d3-5d78ea9faa1d",
+        "type": "message",
+        "text": "is Movie Pass publicly traded lol?",
+        "user": "U15HSHSS2",
+        "ts": "1531505608.000032"
+    },
+    {
+        "client_msg_id": "b36f4b03-49ee-4f79-a6c4-41cb4d6a7d8b",
+        "type": "message",
+        "text": "Why would you want to buy Movie Pass? Aren't they about to go under",
+        "user": "U15J5H60P",
+        "ts": "1531505623.000471"
+    },
+    {
+        "client_msg_id": "6BC2C516-0C6F-487C-9C6B-406050324DD9",
+        "type": "message",
+        "text": "Biggest loss probably came when I was trying to ride that US steel mess",
+        "user": "U15HZ01QX",
+        "ts": "1531505627.000054"
+    },
+    {
+        "client_msg_id": "2e88e51f-f8b5-460d-9258-db0cadde026a",
+        "type": "message",
+        "text": "Whoops",
+        "user": "U15J5H60P",
+        "ts": "1531505633.000076"
+    },
+    {
+        "client_msg_id": "656af3b1-68b4-47be-a93d-15f926711872",
+        "type": "message",
+        "text": "about to go under, or about to blow uppp",
+        "user": "U15HSHSS2",
+        "ts": "1531505643.000083"
+    },
+    {
+        "client_msg_id": "8bacae59-e94e-4324-b0d8-85470e8471cd",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1531505651.000241"
+    },
+    {
+        "client_msg_id": "3940591a-f078-43df-839d-3c6c2493a4e4",
+        "type": "message",
+        "text": "I won't",
+        "user": "U15HSHSS2",
+        "ts": "1531505657.000308"
+    },
+    {
+        "client_msg_id": "5a948b56-fa95-430f-a7f1-aaa01792d364",
+        "type": "message",
+        "text": "does it cost money to buy stock?",
+        "user": "U15HSHSS2",
+        "ts": "1531505699.000477"
+    },
+    {
+        "client_msg_id": "3473ede2-a824-4c20-b9c4-ef9db04b9681",
+        "type": "message",
+        "text": "other than the cost of the stock obviously",
+        "user": "U15HSHSS2",
+        "ts": "1531505709.000159"
+    },
+    {
+        "client_msg_id": "4B684234-5FD0-4D28-8D69-C07DE959998A",
+        "type": "message",
+        "text": "Not in Robinhood ",
+        "user": "U15HZ01QX",
+        "ts": "1531505711.000040"
+    },
+    {
+        "client_msg_id": "ED3E0C8E-5838-40EA-A1CF-35C297228981",
+        "type": "message",
+        "text": "If you go with that use my invite code and we both get a free shit stock",
+        "user": "U15HZ01QX",
+        "ts": "1531505731.000515"
+    },
+    {
+        "client_msg_id": "4aaef953-df08-4a3c-882c-96c0084a518b",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1531505744.000139"
+    },
+    {
+        "client_msg_id": "8166f78c-76fe-427a-9244-b52c9dcbd2d4",
+        "type": "message",
+        "text": "dont do it",
+        "user": "U15HRTAHL",
+        "ts": "1531505746.000382"
+    },
+    {
+        "client_msg_id": "d48a08e4-f16f-4ed8-b48c-cfb27f476f68",
+        "type": "message",
+        "text": "what other options are there?",
+        "user": "U15HSHSS2",
+        "ts": "1531505752.000136",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1531505757.000000"
+        }
+    },
+    {
+        "client_msg_id": "8ba524d7-4527-445a-a4d6-d638af1c071d",
+        "type": "message",
+        "text": "James is tricking you",
+        "user": "U15HRTAHL",
+        "ts": "1531505753.000320"
+    },
+    {
+        "client_msg_id": "db1c3a79-d1d2-43a7-a619-2340cc9d23f7",
+        "type": "message",
+        "text": "its a pyramid scheme",
+        "user": "U15HRTAHL",
+        "ts": "1531505756.000477"
+    },
+    {
+        "client_msg_id": "41dda25f-dc58-470a-adea-354fe7e17168",
+        "type": "message",
+        "text": "“Recruit your friends”",
+        "user": "U15HRTAHL",
+        "ts": "1531505762.000175"
+    },
+    {
+        "client_msg_id": "818f2240-24fb-4730-8e10-59570f7e3a49",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1531505764.000482"
+    },
+    {
+        "client_msg_id": "82735D30-6ACA-43A4-B473-F7E11DEC742C",
+        "type": "message",
+        "text": "Andrews place charges like 5 bucks a trade",
+        "user": "U15HZ01QX",
+        "ts": "1531505768.000321"
+    },
+    {
+        "client_msg_id": "2e101ad6-be96-4f19-b50c-76b86633a2e0",
+        "type": "message",
+        "text": "I pay $6\/trade",
+        "user": "U15J5H60P",
+        "ts": "1531505773.000466"
+    },
+    {
+        "client_msg_id": "E14A4E86-9961-4225-ABC6-3175A52C0E1D",
+        "type": "message",
+        "text": "Joe is off the grid",
+        "user": "U15HZ01QX",
+        "ts": "1531505775.000116"
+    },
+    {
+        "client_msg_id": "1342b1e4-1d1e-4d42-8ea3-39dc32770074",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1531505778.000190"
+    },
+    {
+        "client_msg_id": "acd5c296-d962-427b-b443-faa7d053e794",
+        "type": "message",
+        "text": "I use robinhood",
+        "user": "U15HRTAHL",
+        "ts": "1531505781.000157"
+    },
+    {
+        "client_msg_id": "adfa268b-8303-4ad9-835c-488e187929f5",
+        "type": "message",
+        "text": "Joe goes to NY to get a paper certificate",
+        "user": "U15J5H60P",
+        "ts": "1531505782.000484"
+    },
+    {
+        "client_msg_id": "7e55111c-2b47-418d-b5e7-d0ecf673ae50",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1531505787.000389"
+    },
+    {
+        "client_msg_id": "51ab7006-1119-4ddc-b76d-97186c092034",
+        "type": "message",
+        "text": "I also use acorns",
+        "user": "U15HRTAHL",
+        "ts": "1531505796.000024"
+    },
+    {
+        "client_msg_id": "43FF84B7-3679-4440-833D-695E5FBD5C43",
+        "type": "message",
+        "text": "Boooo",
+        "user": "U15HZ01QX",
+        "ts": "1531505800.000379"
+    },
+    {
+        "client_msg_id": "1ca247c2-f52a-45e4-97f3-c2a8ab98dca9",
+        "type": "message",
+        "text": "Boo acorns booo",
+        "user": "U15J5H60P",
+        "ts": "1531505803.000055"
+    },
+    {
+        "client_msg_id": "24EC2E31-390E-437D-A05E-A8D67FC0DCF9",
+        "type": "message",
+        "text": "That does not count",
+        "user": "U15HZ01QX",
+        "ts": "1531505807.000208"
+    },
+    {
+        "client_msg_id": "55c32db6-857c-4df9-8f50-ce9c779b49f0",
+        "type": "message",
+        "text": "Why wouldn't everyone use Robinhood?",
+        "user": "U15HSHSS2",
+        "ts": "1531505810.000470"
+    },
+    {
+        "client_msg_id": "8b8ee08d-1513-4b58-9293-24745f3bb565",
+        "type": "message",
+        "text": "how doesn’t it?",
+        "user": "U15HRTAHL",
+        "ts": "1531505811.000454",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1531505816.000000"
+        }
+    },
+    {
+        "client_msg_id": "00666c9b-9008-4c94-a756-1bfa0065dfbe",
+        "type": "message",
+        "text": "I can't",
+        "user": "U15J5H60P",
+        "ts": "1531505814.000151"
+    },
+    {
+        "client_msg_id": "20dc14d8-0269-4c1c-a390-9ad9e073e89a",
+        "type": "message",
+        "text": "It's not allowed at NM",
+        "user": "U15J5H60P",
+        "ts": "1531505818.000172"
+    },
+    {
+        "client_msg_id": "30ea001b-b1a2-446d-87b3-146ee3a3dc30",
+        "type": "message",
+        "text": "I have to use a certified broker since I work in Managed Investments",
+        "user": "U15J5H60P",
+        "ts": "1531505832.000239"
+    },
+    {
+        "client_msg_id": "6E41B434-DF8C-4244-A016-BB75756F6883",
+        "type": "message",
+        "text": "Really?",
+        "user": "U15HZ01QX",
+        "ts": "1531505833.000042"
+    },
+    {
+        "client_msg_id": "5da55357-4feb-45de-8bdb-1df26d2083c1",
+        "type": "message",
+        "text": "You can use it if you work here, just not the specific area I'm in.",
+        "user": "U15J5H60P",
+        "ts": "1531505846.000295"
+    },
+    {
+        "client_msg_id": "4b36579a-7abe-4cdc-b265-cc87e60452ee",
+        "type": "message",
+        "text": "You should get reimbursed those trade costs then",
+        "user": "U15HRTAHL",
+        "ts": "1531505856.000341"
+    },
+    {
+        "client_msg_id": "d2974ce0-5d88-4734-bc43-6dfcdb3e3c0f",
+        "type": "message",
+        "text": "Because of federal regulation",
+        "user": "U15J5H60P",
+        "ts": "1531505858.000098"
+    },
+    {
+        "client_msg_id": "efe74ad2-c563-4f03-bde9-e8d103aa60f0",
+        "type": "message",
+        "text": "thats some baby back bullshit",
+        "user": "U15HRTAHL",
+        "ts": "1531505861.000226"
+    },
+    {
+        "client_msg_id": "fbb92be1-48ae-4378-be29-b220b8d63629",
+        "type": "message",
+        "text": "does robinhood take a portion of your earnings or something?",
+        "user": "U15HSHSS2",
+        "ts": "1531506005.000071"
+    },
+    {
+        "client_msg_id": "6c40d990-0753-4f57-8f04-e9afc5a5fdcd",
+        "type": "message",
+        "text": "why is it free to invest?",
+        "user": "U15HSHSS2",
+        "ts": "1531506014.000010"
+    },
+    {
+        "client_msg_id": "30ea4409-81c0-4027-84db-b0e2d658c36b",
+        "type": "message",
+        "text": "They collect interest on the cash left in your brokerage account that is not invested",
+        "user": "U15J5H60P",
+        "ts": "1531506033.000357"
+    },
+    {
+        "client_msg_id": "c41565e9-432d-4b96-bdaa-3e84c2e807fb",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1531506085.000350"
+    },
+    {
+        "client_msg_id": "b637f30b-81c7-49f6-beae-1b4912b7f4f4",
+        "type": "message",
+        "text": "When you make a purchase you have to have an additional 5% in your account incase the price goes up at time of purchase",
+        "user": "U15HRTAHL",
+        "ts": "1531506119.000327"
+    },
+    {
+        "client_msg_id": "52684423-f6a4-4568-974e-ff02506a22bf",
+        "type": "message",
+        "text": "so you’ll have a bit left over",
+        "user": "U15HRTAHL",
+        "ts": "1531506124.000082"
+    },
+    {
+        "client_msg_id": "b7bd6dfb-8cee-47b5-9d6d-a1c3c9b29fd5",
+        "type": "message",
+        "text": "The reason I asked <@U15HZ01QX> for the stock I told him about that was under $15 is because I had $30 left over in my account from my last trade",
+        "user": "U15HRTAHL",
+        "ts": "1531506158.000212"
+    },
+    {
+        "client_msg_id": "e7d94074-e6e5-42e8-b248-5a5f5a79b013",
+        "type": "message",
+        "text": "and now I have $1.32 left",
+        "user": "U15HRTAHL",
+        "ts": "1531506163.000195"
+    },
+    {
+        "client_msg_id": "7e55b5f9-f04a-436e-8186-fa4625ee1fb7",
+        "type": "message",
+        "text": "hmm... interesting",
+        "user": "U15HSHSS2",
+        "ts": "1531506205.000451"
+    },
+    {
+        "client_msg_id": "68278bce-4480-4f40-be5e-79f813d1bbda",
+        "type": "message",
+        "text": "you can put that money back into your account but most people are just too lazy to",
+        "user": "U15HRTAHL",
+        "ts": "1531506223.000117"
+    },
+    {
+        "client_msg_id": "826b6a1e-2d01-4240-8a44-5a4106776586",
+        "type": "message",
+        "text": "how do they make money off of your left over money?",
+        "user": "U15HSHSS2",
+        "ts": "1531506252.000491"
+    },
+    {
+        "client_msg_id": "7e7c9eea-4950-43e1-a922-66a80ab2af92",
+        "type": "message",
+        "text": "the same way your bank makes money off of you putting money into a savings account",
+        "user": "U15HRTAHL",
+        "ts": "1531506284.000319"
+    },
+    {
+        "client_msg_id": "32a2eb24-ac7c-49bd-af6a-8038fb2bbf4a",
+        "type": "message",
+        "text": "they give out loans",
+        "user": "U15HRTAHL",
+        "ts": "1531506288.000202"
+    },
+    {
+        "client_msg_id": "1da7e1ea-181b-44fb-850c-ddf1e46e8565",
+        "type": "message",
+        "text": "and they give you interest",
+        "user": "U15HRTAHL",
+        "ts": "1531506295.000347"
+    },
+    {
+        "client_msg_id": "247fb31b-592d-4031-b247-f84d32478b4a",
+        "type": "message",
+        "text": "I see",
+        "user": "U15HSHSS2",
+        "ts": "1531506309.000374"
+    },
+    {
+        "client_msg_id": "b9b353e8-12cc-456f-bef5-025f6a343187",
+        "type": "message",
+        "text": "I wish I bought more AAPL at $154",
+        "user": "U15J5H60P",
+        "ts": "1531507177.000293"
+    },
+    {
+        "client_msg_id": "d246ffd3-154c-4f22-92de-2f0f03134237",
+        "type": "message",
+        "text": "I guess I might have to dabble a little bit in investopedia next week and see what's up",
+        "user": "U15HSHSS2",
+        "ts": "1531507217.000445"
+    },
+    {
+        "client_msg_id": "88a6b08b-7fad-4a08-b8ea-9460b459d735",
+        "type": "message",
+        "text": "<@U15HSHSS2> download this app, I found it very informative",
+        "user": "U15HRTAHL",
+        "ts": "1531507295.000487"
+    },
+    {
+        "client_msg_id": "2ce02ec9-a6cc-470c-a0e8-813cee90879b",
+        "type": "message",
+        "text": "<https:\/\/rubicoin.com\/learn\/>",
+        "user": "U15HRTAHL",
+        "ts": "1531507297.000094",
+        "attachments": [
+            {
+                "service_name": "Rubicoin",
+                "title": "Learn by Rubicoin - Available for iOS &amp; Android",
+                "title_link": "https:\/\/rubicoin.com\/learn\/",
+                "text": "Learn by Rubicoin is our free teaching app that helps you demystify the market. Get simple and straightforward advice on investing in bite-sized lessons.",
+                "fallback": "Rubicoin: Learn by Rubicoin - Available for iOS &amp; Android",
+                "from_url": "https:\/\/rubicoin.com\/learn\/",
+                "service_icon": "https:\/\/rubicoin.com\/wp-content\/uploads\/2018\/04\/cropped-social-symbol@2x-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/rubicoin.com\/learn\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "18f02a20-ec7d-47dc-b338-d27bfdaa9f20",
+        "type": "message",
+        "text": "Investopedia is fun",
+        "user": "U15J5H60P",
+        "ts": "1531507680.000216"
+    },
+    {
+        "client_msg_id": "bc5c600c-577d-49d6-8e0f-5b9eaa0f65a3",
+        "type": "message",
+        "text": "And super disappointing",
+        "user": "U15J5H60P",
+        "ts": "1531507683.000137"
+    },
+    {
+        "client_msg_id": "5235c4d4-b2e0-4231-b52a-1635eb437b72",
+        "type": "message",
+        "text": "To see how much money you could've made",
+        "user": "U15J5H60P",
+        "ts": "1531507688.000170"
+    },
+    {
+        "client_msg_id": "31a82072-e176-42fc-80f9-633037de1545",
+        "type": "message",
+        "text": "If you just nutted up and did it yourself",
+        "user": "U15J5H60P",
+        "ts": "1531507700.000465"
+    },
+    {
+        "client_msg_id": "2adafd0a-fbe6-4bee-a45c-e75b9bf57cce",
+        "type": "message",
+        "text": "That being said",
+        "user": "U15J5H60P",
+        "ts": "1531507710.000011"
+    },
+    {
+        "client_msg_id": "b56049fd-1804-45de-bf1f-6540763ff75e",
+        "type": "message",
+        "text": "I'm creating a simulator right now",
+        "user": "U15J5H60P",
+        "ts": "1531507714.000479"
+    },
+    {
+        "client_msg_id": "0301864f-424c-47cd-97ec-2073788a3e2a",
+        "type": "message",
+        "text": "I know you guys like to re-invent the wheel",
+        "user": "U15J5H60P",
+        "ts": "1531507729.000378"
+    },
+    {
+        "client_msg_id": "e6e47c62-e17b-4fb2-b972-1426749464a6",
+        "type": "message",
+        "text": "So let me know if you'd like to contribute",
+        "user": "U15J5H60P",
+        "ts": "1531507735.000423"
+    },
+    {
+        "client_msg_id": "b149777d-ed45-4b8e-8351-cbbc1916a251",
+        "type": "message",
+        "text": "I just started on the UI",
+        "user": "U15J5H60P",
+        "ts": "1531507738.000172"
+    },
+    {
+        "client_msg_id": "56db87fb-f606-4234-badc-812e3466a69f",
+        "type": "message",
+        "text": "API is barebones rn but the foundation is there",
+        "user": "U15J5H60P",
+        "ts": "1531507772.000136"
+    },
+    {
+        "client_msg_id": "44a7c0b5-2769-4864-ac52-fa8b1e73a85c",
+        "type": "message",
+        "text": "I need someone that knows Swagger UI",
+        "user": "U15J5H60P",
+        "ts": "1531507782.000314"
+    },
+    {
+        "client_msg_id": "27521b32-8565-4bd3-926e-96ec42b09f07",
+        "type": "message",
+        "text": "How is your thing going to be different than investopedia?",
+        "user": "U15HSHSS2",
+        "ts": "1531507921.000252"
+    },
+    {
+        "client_msg_id": "9e67e0d1-8393-43fa-957a-8598aeb4df2d",
+        "type": "message",
+        "text": "It's going to have a lot less functionality",
+        "user": "U15J5H60P",
+        "ts": "1531508040.000413"
+    },
+    {
+        "client_msg_id": "b38a945a-4320-4eb1-b451-bf2bfb18d0a4",
+        "type": "message",
+        "text": "And be a mobile app",
+        "user": "U15J5H60P",
+        "ts": "1531508049.000506"
+    },
+    {
+        "client_msg_id": "163bc5ec-d87e-45a7-9eee-de156440a85d",
+        "type": "message",
+        "text": "Instead of just web",
+        "user": "U15J5H60P",
+        "ts": "1531508052.000349"
+    },
+    {
+        "client_msg_id": "7ea21253-b95f-4706-b021-05c7117057aa",
+        "type": "message",
+        "text": "A LOT less functionality",
+        "user": "U15J5H60P",
+        "ts": "1531508059.000255"
+    },
+    {
+        "client_msg_id": "8542c91a-0b24-4abb-98ec-87c88da0ff73",
+        "type": "message",
+        "text": "Buy sells only",
+        "user": "U15J5H60P",
+        "ts": "1531508061.000290"
+    },
+    {
+        "client_msg_id": "b8945f92-59a6-42a2-8b8a-6d556bf87d1c",
+        "type": "message",
+        "text": "ah",
+        "user": "U15HSHSS2",
+        "ts": "1531508065.000464"
+    },
+    {
+        "client_msg_id": "9a9ae415-4ee2-46a4-8c00-e72185cf03fa",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1531508070.000068"
+    },
+    {
+        "client_msg_id": "8c84fce4-694f-4f36-b854-20df2e2dd844",
+        "type": "message",
+        "text": "investopedia doesn't have mobile?",
+        "user": "U15HSHSS2",
+        "ts": "1531508075.000059"
+    },
+    {
+        "client_msg_id": "4dc64b31-7534-4191-b1d0-484f4124c529",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1531508078.000053"
+    },
+    {
+        "client_msg_id": "bde22a35-1024-4f0e-94d0-aae4b2775041",
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HSHSS2",
+        "ts": "1531508082.000053"
+    },
+    {
+        "client_msg_id": "cc7f515f-3455-4626-8451-5a19ea268c63",
+        "type": "message",
+        "text": "But you use safari anyways",
+        "user": "U15J5H60P",
+        "ts": "1531508082.000322"
+    },
+    {
+        "client_msg_id": "4148f59e-1479-4fda-912a-7dfb49cfd35e",
+        "type": "message",
+        "text": "I've never used Safari",
+        "user": "U15HSHSS2",
+        "ts": "1531508100.000300"
+    },
+    {
+        "client_msg_id": "558b1791-8388-476c-a3a4-38dc7fd31cf7",
+        "type": "message",
+        "text": "Chrome whatever lol",
+        "user": "U15J5H60P",
+        "ts": "1531508198.000266"
+    },
+    {
+        "client_msg_id": "add09887-ac71-4919-ad11-84206ccd61ce",
+        "type": "message",
+        "text": "BIG difference",
+        "user": "U15HSHSS2",
+        "ts": "1531508213.000437"
+    },
+    {
+        "client_msg_id": "23efaec3-d8ed-40b6-a63e-ccba8d9198ff",
+        "type": "message",
+        "text": "Yeah, chrome is clunkier and slower",
+        "user": "U15J5H60P",
+        "ts": "1531508271.000108"
+    },
+    {
+        "client_msg_id": "87409d0b-21b0-4420-94be-2b76b92bd263",
+        "type": "message",
+        "text": "On iPhone",
+        "user": "U15J5H60P",
+        "ts": "1531508277.000119"
+    },
+    {
+        "client_msg_id": "a3a86f2e-9ead-44b8-8fa5-87a5a94406e0",
+        "type": "message",
+        "text": "You can take as many jabs at me as you want. But don't you dare talk bad about Chrome.",
+        "user": "U15HSHSS2",
+        "ts": "1531508313.000074"
+    },
+    {
+        "client_msg_id": "05f16132-e228-4d9e-afd7-63decfd8a90c",
+        "type": "message",
+        "text": "Do you have this project on git anywhere?",
+        "user": "U15HSHSS2",
+        "ts": "1531508356.000358"
+    },
+    {
+        "client_msg_id": "870b5e79-fbab-49bd-9565-182d90d42173",
+        "type": "message",
+        "text": "It's in bitbucket",
+        "user": "U15J5H60P",
+        "ts": "1531508378.000363"
+    },
+    {
+        "client_msg_id": "baa1998f-4e4c-44a2-a2f8-7b12efc57a00",
+        "type": "message",
+        "text": "link? or is it private?",
+        "user": "U15HSHSS2",
+        "ts": "1531508414.000049"
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "type": "message",
+        "text": "I need some help",
+        "user": "U15HY5TG8",
+        "ts": "1523740700.000029"
+    },
+    {
+        "type": "message",
+        "text": "I keep getting this error but not sure why",
+        "user": "U15HY5TG8",
+        "ts": "1523740721.000013"
+    },
+    {
+        "type": "message",
+        "text": "```Error: [ng:areq] Argument 'ArasDocsController' is not a function, got undefined\n<http:\/\/errors.angularjs.org\/1.4.7\/ng\/areq?p0=ArasDocsController&amp;p1=not%20aNaNunction%2C%20got%20undefined>\n    at <http:\/\/localhost:8000\/js\/araspro.js:31458:12>\n    at assertArg (<http:\/\/localhost:8000\/js\/araspro.js:33186:11>)\n    at assertArgFn (<http:\/\/localhost:8000\/js\/araspro.js:33196:3>)\n    at <http:\/\/localhost:8000\/js\/araspro.js:40502:9>\n    at <http:\/\/localhost:8000\/js\/araspro.js:64392:28>\n    at invokeLinkFn (<http:\/\/localhost:8000\/js\/araspro.js:40179:9>)\n    at nodeLinkFn (<http:\/\/localhost:8000\/js\/araspro.js:39679:11>)\n    at compositeLinkFn (<http:\/\/localhost:8000\/js\/araspro.js:39070:13>)\n    at publicLinkFn (<http:\/\/localhost:8000\/js\/araspro.js:38945:30>)\n    at updateView (<http:\/\/localhost:8000\/js\/araspro.js:64332:23>)\n```",
+        "user": "U15HY5TG8",
+        "ts": "1523740725.000023",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1523740741.000000"
+        }
+    },
+    {
+        "client_msg_id": "986E6DF1-66C7-4FF4-9578-B7925DB15963",
+        "type": "message",
+        "text": "npm install",
+        "user": "U15J5H60P",
+        "ts": "1523740754.000024"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1523740758.000106"
+    },
+    {
+        "client_msg_id": "7522889C-A522-4604-9364-893B68658807",
+        "type": "message",
+        "text": "I'm serious",
+        "user": "U15J5H60P",
+        "ts": "1523740818.000062"
+    },
+    {
+        "client_msg_id": "1D8650CE-0F2B-4D93-B81C-889EFE5CB1DA",
+        "type": "message",
+        "text": "Is it not a node project?",
+        "user": "U15J5H60P",
+        "ts": "1523740823.000001"
+    },
+    {
+        "type": "message",
+        "text": "so background is that we have 1 huuuge controller (controller.js), and I'm trying to break controllers out into their own files now. so this controller is recognized in the controller.js but when it's outside, it doesn't work",
+        "user": "U15HY5TG8",
+        "ts": "1523740823.000038"
+    },
+    {
+        "type": "message",
+        "text": "I already have that installed",
+        "user": "U15HY5TG8",
+        "ts": "1523740833.000030"
+    },
+    {
+        "client_msg_id": "16B7569B-08CE-43DF-9B3B-440328C4336A",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1523740837.000064"
+    },
+    {
+        "client_msg_id": "96FBAE30-5B71-449D-85CE-636D26B80860",
+        "type": "message",
+        "text": "Did you import the package in your new file?",
+        "user": "U15J5H60P",
+        "ts": "1523740853.000025"
+    },
+    {
+        "type": "message",
+        "text": "import the package?",
+        "user": "U15HY5TG8",
+        "ts": "1523740868.000002"
+    },
+    {
+        "client_msg_id": "FE981DCF-2496-4144-96A7-A0F8ABD87859",
+        "type": "message",
+        "text": "Oh I see",
+        "user": "U15J5H60P",
+        "ts": "1523740889.000044"
+    },
+    {
+        "client_msg_id": "74A6711C-C9ED-4FB1-B6B5-7C36E1262038",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1523740894.000066"
+    },
+    {
+        "type": "message",
+        "text": "this was added to gulpfile.js\n```            'resources\/assets\/js\/ArasDocsCtrl.js'```",
+        "user": "U15HY5TG8",
+        "ts": "1523740900.000057"
+    },
+    {
+        "type": "message",
+        "text": "which I think is like the equivalence of referencing the js file in the index.html that most people do or whatever",
+        "user": "U15HY5TG8",
+        "ts": "1523740952.000016"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> any ideas?",
+        "user": "U15HY5TG8",
+        "ts": "1523741067.000057"
+    },
+    {
+        "client_msg_id": "02713a68-72f5-4118-a9a1-728b3aac0c02",
+        "type": "message",
+        "text": "Yeah you have to add that to your dependencies in your controller definition",
+        "user": "U15HRTAHL",
+        "ts": "1523741408.000037"
+    },
+    {
+        "type": "message",
+        "text": "I'll paste the code I have",
+        "user": "U15HY5TG8",
+        "ts": "1523741448.000122"
+    },
+    {
+        "type": "message",
+        "text": "config\n```.state('aras-docs', {\n            url: \"\/aras-docs\",\n            templateUrl: \"partials\/ambassador-docs.html\",\n            controller: \"ArasDocsController\"\n        })```",
+        "user": "U15HY5TG8",
+        "ts": "1523741493.000025"
+    },
+    {
+        "client_msg_id": "48c991b8-6ea4-4644-a231-b73afff10257",
+        "type": "message",
+        "text": "Just show me the controller definition",
+        "user": "U15HRTAHL",
+        "ts": "1523741499.000030"
+    },
+    {
+        "type": "message",
+        "text": "```aras.controller('ArasDocsController', ['$scope', 'API', 'DataService', '$state', function ($scope, API, DataService, $state) {\n\n}]);```",
+        "user": "U15HY5TG8",
+        "ts": "1523741527.000107"
+    },
+    {
+        "client_msg_id": "2bbfbe39-d312-4da2-a26b-9aa76ba5ac5a",
+        "type": "message",
+        "text": "And where is your function you're using? Defined in a dependency or the controller?",
+        "user": "U15HRTAHL",
+        "ts": "1523741579.000004"
+    },
+    {
+        "type": "message",
+        "text": "not even calling a function yet. Just trying to get it to recognize the controller",
+        "user": "U15HY5TG8",
+        "ts": "1523741615.000087"
+    },
+    {
+        "client_msg_id": "b4aac6b2-a2ba-4175-a0fc-72468f1dafb5",
+        "type": "message",
+        "text": "Your ng-app is called aras?",
+        "user": "U15HRTAHL",
+        "ts": "1523741680.000109"
+    },
+    {
+        "client_msg_id": "0896a0a3-7baa-4e0f-ae03-c1b02b727b5e",
+        "type": "message",
+        "text": "Are you importing that js controller in the index header?",
+        "user": "U15HRTAHL",
+        "ts": "1523741703.000160"
+    },
+    {
+        "type": "message",
+        "text": "yes and it's imported in gulpfile.js with the others",
+        "user": "U15HY5TG8",
+        "ts": "1523741775.000109"
+    },
+    {
+        "type": "message",
+        "text": "this is where the others are referenced\n```'resources\/assets\/js\/app.js',\n            'resources\/assets\/js\/controller.js',\n            'resources\/assets\/js\/LocationUserCtrl.js',\n            'resources\/assets\/js\/ArasDocsCtrl.js'```",
+        "user": "U15HY5TG8",
+        "ts": "1523741795.000100"
+    },
+    {
+        "type": "message",
+        "text": "the name of my file I just added is the last one",
+        "user": "U15HY5TG8",
+        "ts": "1523741803.000103"
+    },
+    {
+        "client_msg_id": "463257cc-75d7-4bbb-bbce-2731bcbd72fa",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1523741842.000073"
+    },
+    {
+        "client_msg_id": "9106437a-b5cb-4f7d-b008-c737f35c0a59",
+        "type": "message",
+        "text": "Did you run gulp install?",
+        "user": "U15HRTAHL",
+        "ts": "1523741854.000094"
+    },
+    {
+        "type": "message",
+        "text": "ooo that might be it! I have a gulp watch command that I have running but might need to restart it to pick up the new change",
+        "user": "U15HY5TG8",
+        "ts": "1523741954.000084"
+    },
+    {
+        "type": "message",
+        "text": "ehhh maybe not lol",
+        "user": "U15HY5TG8",
+        "ts": "1523741977.000030"
+    },
+    {
+        "client_msg_id": "b25010ea-776c-4ffb-b3a0-54557563a368",
+        "type": "message",
+        "text": "Yeah I'm beat",
+        "user": "U15HRTAHL",
+        "ts": "1523741993.000018"
+    },
+    {
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1523742019.000006"
+    },
+    {
+        "type": "message",
+        "text": "not sure wtf i did, but I got it to work I guess",
+        "user": "U15HY5TG8",
+        "ts": "1523742917.000036"
+    },
+    {
+        "client_msg_id": "ad7d7e96-b9fd-438d-9df0-0d416fdc763b",
+        "type": "message",
+        "text": "Fascinating",
+        "user": "U15HRTAHL",
+        "ts": "1523744351.000045"
+    },
+    {
+        "client_msg_id": "1a6cf6ab-e015-497d-99c4-19b442d785a7",
+        "type": "message",
+        "text": "Maybe it was gulp?",
+        "user": "U15HRTAHL",
+        "ts": "1523744359.000074"
+    },
+    {
+        "type": "message",
+        "text": "not too sure",
+        "user": "U15HY5TG8",
+        "ts": "1523744368.000061"
+    },
+    {
+        "client_msg_id": "0a1d50d7-1484-47cb-995d-98a3dc4ce48c",
+        "type": "message",
+        "text": "Maybe the file wasn't saved?",
+        "user": "U15HRTAHL",
+        "ts": "1523744370.000026"
+    },
+    {
+        "type": "message",
+        "text": "no it was all saved. I just ran the php commands to clear the cache and reset the routes like 3 times",
+        "user": "U15HY5TG8",
+        "ts": "1523744396.000003"
+    }
+]

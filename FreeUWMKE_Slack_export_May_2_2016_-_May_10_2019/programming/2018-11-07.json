@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "EB5AA89F-0C51-48AC-907A-A1565E00B58C",
+        "type": "message",
+        "text": "<@U15HRTAHL> are you going to pkwares thing tomorrow night?",
+        "user": "U15HY5TG8",
+        "ts": "1541618261.000600"
+    },
+    {
+        "client_msg_id": "865e9bb2-26ba-4ef3-9745-bfb20767cdb0",
+        "type": "message",
+        "text": "perhaps",
+        "user": "U15HRTAHL",
+        "ts": "1541618331.000900"
+    },
+    {
+        "client_msg_id": "2d93df20-ba0e-4a07-b02e-d9a929f8fe86",
+        "type": "message",
+        "text": "I have to come in early for a company meeting which makes me not want to stay late",
+        "user": "U15HRTAHL",
+        "ts": "1541618347.001300"
+    },
+    {
+        "client_msg_id": "07181ADF-DCB8-4475-A216-49A04D8B9F80",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1541619174.001600"
+    },
+    {
+        "client_msg_id": "a18fe9c2-cf1f-4450-8e80-96ad808654b3",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=ed8SzALpx1Q&amp;t>",
+        "user": "U15J5H60P",
+        "ts": "1541650000.001800",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "GraphQL Full Course - Novice to Expert",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ed8SzALpx1Q&amp;t",
+                "author_name": "freeCodeCamp.org",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC8butISFwT-Wl7EV0hUK0BQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ed8SzALpx1Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: GraphQL Full Course - Novice to Expert",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ed8SzALpx1Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ed8SzALpx1Q&amp;t",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ed8SzALpx1Q&amp;t"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93a90d4d-4393-4019-9760-7bb5c9f5cf85",
+        "type": "message",
+        "text": "GraphQL is neat",
+        "user": "U15J5H60P",
+        "ts": "1541650005.002100"
+    },
+    {
+        "client_msg_id": "5da3061d-b058-41df-9b87-f81aa4dc5978",
+        "type": "message",
+        "text": "that being said",
+        "user": "U15J5H60P",
+        "ts": "1541650011.002300"
+    },
+    {
+        "client_msg_id": "a0ca90f6-adcc-43f6-bbda-36f20d95cad2",
+        "type": "message",
+        "text": "It’s dumb",
+        "user": "U15J5H60P",
+        "ts": "1541650018.002600"
+    },
+    {
+        "client_msg_id": "7f0b5218-aaf9-431f-aa20-5b43a7de32eb",
+        "type": "message",
+        "text": "If y’all are interested in trying it out - <https:\/\/github.com\/SonnyBrooks\/GraphQLPlayground>",
+        "user": "U15J5H60P",
+        "ts": "1541650934.002900",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "SonnyBrooks\/GraphQLPlayground",
+                "title_link": "https:\/\/github.com\/SonnyBrooks\/GraphQLPlayground",
+                "text": "Experimenting with GraphQL. Contribute to SonnyBrooks\/GraphQLPlayground development by creating an account on GitHub.",
+                "fallback": "GitHub: SonnyBrooks\/GraphQLPlayground",
+                "from_url": "https:\/\/github.com\/SonnyBrooks\/GraphQLPlayground",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/8484828?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/SonnyBrooks\/GraphQLPlayground"
+            }
+        ]
+    }
+]

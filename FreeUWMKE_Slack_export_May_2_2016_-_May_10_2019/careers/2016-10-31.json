@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "Yeah Joe!",
+        "user": "U15J5H60P",
+        "ts": "1477940508.000002"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: what was the salary you accepted?",
+        "user": "U15J5H60P",
+        "ts": "1477940532.000003"
+    },
+    {
+        "type": "message",
+        "text": "I remember you were going back and forth.",
+        "user": "U15J5H60P",
+        "ts": "1477940551.000004"
+    },
+    {
+        "type": "message",
+        "text": "55k",
+        "user": "U15HSHSS2",
+        "ts": "1477943989.000002"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha. Did you get a signing bonus?",
+        "user": "U15J5H60P",
+        "ts": "1477944407.000003"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HSHSS2",
+        "ts": "1477944761.000004"
+    },
+    {
+        "type": "message",
+        "text": "Aiight aiight",
+        "user": "U15J5H60P",
+        "ts": "1477950502.000002"
+    },
+    {
+        "type": "message",
+        "text": "Just took a coding interview for EatStreet",
+        "user": "U15J5H60P",
+        "ts": "1477950519.000003"
+    },
+    {
+        "type": "message",
+        "text": "```import java.io.*;\n\npublic class Main {\n\n    public static void main(String[] args) throws Exception{\n\n\n        while(true) {\n            int[] countArray = new int[26];\n\n            BufferedReader reader = new BufferedReader(new InputStreamReader(<http:\/\/System.in|System.in>));\n            String input = reader.readLine();\n\n            input = input.toLowerCase();\n            input = input.replaceAll(\"[^A-Za-z]\", \"\");\n\n            for (int i = 0; i &lt; input.length(); i++) {\n                char letter = input.charAt(i);\n                int arrPosition = letter - 'a';\n                countArray[arrPosition] += 1;\n            }\n\n            boolean isMultiPanagram = true;\n            for (int i = 1; i &lt; countArray.length; i++) {\n                if(countArray[i] != countArray[i - 1]){\n                    isMultiPanagram = false;\n                }\n            }\n            if(isMultiPanagram &amp;&amp; countArray[0] != 0) {\n                System.out.println(\"multiple panagram \" + countArray[0]);\n            } else {\n                boolean isPanagram = true;\n                for (int i = 0; i &lt; countArray.length; i++) {\n                    if(countArray[i] == 0) {\n                        isPanagram = false;\n                        break;\n                    }\n                }\n                if(isPanagram) {\n                    System.out.println(\"panagram\");\n                } else{\n                    System.out.println(\"not panagram\");\n                }\n            }\n        }\n    }\n\n}```",
+        "user": "U15J5H60P",
+        "ts": "1477950525.000004",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1477950548.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "They made you use BufferedReader instead of a Scanner.",
+        "user": "U15J5H60P",
+        "ts": "1477950577.000006"
+    },
+    {
+        "type": "message",
+        "text": "Nice",
+        "user": "U15HY5TG8",
+        "ts": "1477952370.000007"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497709644.878413",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1497709648.878639"
+    },
+    {
+        "type": "message",
+        "text": "What are your thoughts on the switch? Worth getting?",
+        "user": "U15J5H60P",
+        "ts": "1497709663.879502"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1497709666.879674",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "How are you liking the games so far, are you looking forward to any?",
+        "user": "U15J5H60P",
+        "ts": "1497709732.883890"
+    }
+]

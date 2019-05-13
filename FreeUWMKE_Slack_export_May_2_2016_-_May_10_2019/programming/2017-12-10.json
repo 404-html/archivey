@@ -1,0 +1,562 @@
+[
+    {
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1512918769.000053"
+    },
+    {
+        "type": "message",
+        "text": "yup react native can suck my left testicle",
+        "user": "U15HRTAHL",
+        "ts": "1512936610.000047"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512936626.000062"
+    },
+    {
+        "type": "message",
+        "text": "There's absolutely 0 documentation on defining an entry point to your application",
+        "user": "U15HRTAHL",
+        "ts": "1512936634.000086"
+    },
+    {
+        "type": "message",
+        "text": "What do you mean? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512936835.000064"
+    },
+    {
+        "type": "message",
+        "text": "entry point",
+        "user": "U15HRTAHL",
+        "ts": "1512936867.000055"
+    },
+    {
+        "type": "message",
+        "text": "the thing that starts the entire application",
+        "user": "U15HRTAHL",
+        "ts": "1512936884.000047"
+    },
+    {
+        "type": "message",
+        "text": "the beginning",
+        "user": "U15HRTAHL",
+        "ts": "1512936887.000012"
+    },
+    {
+        "type": "message",
+        "text": "Like...npm start?",
+        "user": "U15HY5TG8",
+        "ts": "1512936897.000041"
+    },
+    {
+        "type": "message",
+        "text": "like genesis in the bible",
+        "user": "U15HRTAHL",
+        "ts": "1512936902.000061"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1512936904.000068"
+    },
+    {
+        "type": "message",
+        "text": "the first page to serve",
+        "user": "U15HRTAHL",
+        "ts": "1512936909.000089",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1512936911.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Its not like index.html? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512936927.000067"
+    },
+    {
+        "type": "message",
+        "text": "nooo",
+        "user": "U15HRTAHL",
+        "ts": "1512936931.000116"
+    },
+    {
+        "type": "message",
+        "text": "there's no html in react",
+        "user": "U15HRTAHL",
+        "ts": "1512936939.000049"
+    },
+    {
+        "type": "message",
+        "text": "Unless react native is that much different, ik i had an index.html",
+        "user": "U15HY5TG8",
+        "ts": "1512936987.000026"
+    },
+    {
+        "type": "message",
+        "text": "Ooo wait no im wrong",
+        "user": "U15HY5TG8",
+        "ts": "1512937044.000076"
+    },
+    {
+        "type": "message",
+        "text": "You have to use index.js",
+        "user": "U15HY5TG8",
+        "ts": "1512937052.000060"
+    },
+    {
+        "type": "message",
+        "text": "yeah react native doesn't have that",
+        "user": "U15HRTAHL",
+        "ts": "1512937064.000025"
+    },
+    {
+        "type": "message",
+        "text": "And then write the html in the returned render",
+        "user": "U15HY5TG8",
+        "ts": "1512937067.000021"
+    },
+    {
+        "type": "message",
+        "text": "Ahh weird",
+        "user": "U15HY5TG8",
+        "ts": "1512937073.000027"
+    },
+    {
+        "type": "message",
+        "text": "not at least with their piece of shit boiler tempalte",
+        "user": "U15HRTAHL",
+        "ts": "1512937075.000025"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/medium.com\/the-react-native-log\/organizing-a-react-native-project-9514dfadaa0>",
+        "user": "U15HY5TG8",
+        "ts": "1512937104.000049",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Organizing a React Native Project – The React Native Log – Medium",
+                "title_link": "https:\/\/medium.com\/the-react-native-log\/organizing-a-react-native-project-9514dfadaa0",
+                "text": "One of the great things about React Native is the flexibility. You can do just about anything — including organize the project however you…",
+                "fallback": "Medium: Organizing a React Native Project – The React Native Log – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*KURD1UVbOPmhHl9mOXTH8A.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1469657969,
+                "from_url": "https:\/\/medium.com\/the-react-native-log\/organizing-a-react-native-project-9514dfadaa0",
+                "image_width": 675,
+                "image_height": 250,
+                "image_bytes": 175177,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*lKN9xV1YEin-2wfAiGySBA.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Cool wheres the entry point definition?",
+        "user": "U15HRTAHL",
+        "ts": "1512937127.000006"
+    },
+    {
+        "type": "message",
+        "text": "that does not work with their template",
+        "user": "U15HRTAHL",
+        "ts": "1512937144.000003"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/react-community\/create-react-native-app\/issues\/152>",
+        "user": "U15HRTAHL",
+        "ts": "1512937181.000070",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "entryPoint key in app.json is not respected · Issue #152 · react-community\/create-react-native-app",
+                "title_link": "https:\/\/github.com\/react-community\/create-react-native-app\/issues\/152",
+                "text": "Description entryPoint in app.json does not work or I have made some assumptions that are not correct. Based on the documentation I assumed that I can setup app.json in the same way as I can with a...",
+                "fallback": "GitHub: entryPoint key in app.json is not respected · Issue #152 · react-community\/create-react-native-app",
+                "from_url": "https:\/\/github.com\/react-community\/create-react-native-app\/issues\/152",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/441023?s=400&v=4",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "It enters in the index.js with whatever html you render",
+        "user": "U15HY5TG8",
+        "ts": "1512937182.000108"
+    },
+    {
+        "type": "message",
+        "text": "no evan",
+        "user": "U15HRTAHL",
+        "ts": "1512937187.000104",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1512937191.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "you can't just google and click on the first thing and say it works",
+        "user": "U15HRTAHL",
+        "ts": "1512937208.000069"
+    },
+    {
+        "type": "message",
+        "text": "I have been at this for hours",
+        "user": "U15HRTAHL",
+        "ts": "1512937216.000076"
+    },
+    {
+        "type": "message",
+        "text": "I did a mini react project at home just to understand components",
+        "user": "U15HY5TG8",
+        "ts": "1512937231.000131"
+    },
+    {
+        "type": "message",
+        "text": "this is react native",
+        "user": "U15HRTAHL",
+        "ts": "1512937258.000087"
+    },
+    {
+        "type": "message",
+        "text": "I cant imagine its thaaaat much different. You write your component in index.js then register your component in a similarly named project file",
+        "user": "U15HY5TG8",
+        "ts": "1512937366.000011"
+    },
+    {
+        "type": "message",
+        "text": "you have no idea",
+        "user": "U15HRTAHL",
+        "ts": "1512937382.000038"
+    },
+    {
+        "type": "message",
+        "text": "I want you to try",
+        "user": "U15HRTAHL",
+        "ts": "1512937392.000005"
+    },
+    {
+        "type": "message",
+        "text": "let me know how it goes",
+        "user": "U15HRTAHL",
+        "ts": "1512937399.000072"
+    },
+    {
+        "type": "message",
+        "text": "Im not home right now but ill try when i do get home",
+        "user": "U15HY5TG8",
+        "ts": "1512937425.000016"
+    },
+    {
+        "type": "message",
+        "text": "Sweet",
+        "user": "U15HRTAHL",
+        "ts": "1512937430.000095"
+    },
+    {
+        "type": "message",
+        "text": "let me know when you give up",
+        "user": "U15HRTAHL",
+        "ts": "1512937434.000064"
+    },
+    {
+        "type": "message",
+        "text": "So you cant launch at all?",
+        "user": "U15HY5TG8",
+        "ts": "1512937435.000064"
+    },
+    {
+        "type": "message",
+        "text": "Not after restructuring it",
+        "user": "U15HRTAHL",
+        "ts": "1512937454.000161"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1512937472.000103"
+    },
+    {
+        "type": "message",
+        "text": "Send me a zip",
+        "user": "U15HY5TG8",
+        "ts": "1512937481.000022"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1512937486.000076"
+    },
+    {
+        "type": "message",
+        "text": "I deleted it",
+        "user": "U15HRTAHL",
+        "ts": "1512937488.000047"
+    },
+    {
+        "type": "message",
+        "text": "I made a stackoverflow post",
+        "user": "U15HRTAHL",
+        "ts": "1512937504.000133"
+    },
+    {
+        "type": "message",
+        "text": "Lol well let me know how you structured it",
+        "user": "U15HY5TG8",
+        "ts": "1512937508.000031"
+    },
+    {
+        "type": "message",
+        "text": "tweeted at 2 people",
+        "user": "U15HRTAHL",
+        "ts": "1512937509.000033"
+    },
+    {
+        "type": "message",
+        "text": "and nothing",
+        "user": "U15HRTAHL",
+        "ts": "1512937510.000103"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512937514.000016"
+    },
+    {
+        "type": "message",
+        "text": "its like nobody knows how the fuck it works",
+        "user": "U15HRTAHL",
+        "ts": "1512937516.000127"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1512937522.000092"
+    },
+    {
+        "type": "message",
+        "text": "I still need to know how you structured it though",
+        "user": "U15HY5TG8",
+        "ts": "1512937545.000083"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/47742280\/define-entry-point-for-react-native-app>",
+        "user": "U15HRTAHL",
+        "ts": "1512937547.000019",
+        "attachments": [
+            {
+                "title": "Define entry point for react native app",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/47742280\/define-entry-point-for-react-native-app",
+                "text": "I'm just getting started with react native and have created a base app with create-react-native-app. I did some restructuring and made a few new folders and renamed the App.js to Home.js. I modifi...",
+                "fallback": "Define entry point for react native app",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/47742280\/define-entry-point-for-react-native-app",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Bruh you left it as app.json",
+        "user": "U15HY5TG8",
+        "ts": "1512937643.000071"
+    },
+    {
+        "type": "message",
+        "text": "...?",
+        "user": "U15HRTAHL",
+        "ts": "1512937652.000114"
+    },
+    {
+        "type": "message",
+        "text": "Home.json",
+        "user": "U15HY5TG8",
+        "ts": "1512937663.000033"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1512937666.000087"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512937682.000035"
+    },
+    {
+        "type": "message",
+        "text": "you have no idea what you're talking about lol",
+        "user": "U15HRTAHL",
+        "ts": "1512937696.000090"
+    },
+    {
+        "type": "message",
+        "text": "you're literally just pulling shit out of your ass",
+        "user": "U15HRTAHL",
+        "ts": "1512937704.000013"
+    },
+    {
+        "type": "message",
+        "text": "Ik lol ",
+        "user": "U15HY5TG8",
+        "ts": "1512937707.000118"
+    },
+    {
+        "type": "message",
+        "text": "I've been at this for HOURS",
+        "user": "U15HRTAHL",
+        "ts": "1512937710.000018"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1512937726.000023"
+    },
+    {
+        "type": "message",
+        "text": "Thats cause i have no computer in front of me so im just spewing garbage hoping something will click for you",
+        "user": "U15HY5TG8",
+        "ts": "1512937738.000120"
+    },
+    {
+        "type": "message",
+        "text": "When are you gonna try it out <@U15HY5TG8> ",
+        "user": "U15HRTAHL",
+        "ts": "1512948971.000082"
+    },
+    {
+        "type": "message",
+        "text": "Bout a half hour",
+        "user": "U15HY5TG8",
+        "ts": "1512948999.000139"
+    },
+    {
+        "type": "message",
+        "text": "I figured out the issue",
+        "user": "U15HRTAHL",
+        "ts": "1512949012.000019"
+    },
+    {
+        "type": "message",
+        "text": "Well not as much figure it out but now I understand why it is the way it is ",
+        "user": "U15HRTAHL",
+        "ts": "1512949033.000030"
+    },
+    {
+        "type": "message",
+        "text": "So then i shouldnt try it out?",
+        "user": "U15HY5TG8",
+        "ts": "1512949049.000062"
+    },
+    {
+        "type": "message",
+        "text": "Lol if you want to beat your head on the wall you can ",
+        "user": "U15HRTAHL",
+        "ts": "1512949073.000029"
+    },
+    {
+        "type": "message",
+        "text": "Lol i mean did you get it working or what was the deal?",
+        "user": "U15HY5TG8",
+        "ts": "1512949282.000077"
+    },
+    {
+        "type": "message",
+        "text": "There's two ways to create a project ",
+        "user": "U15HRTAHL",
+        "ts": "1512950779.000088"
+    },
+    {
+        "type": "message",
+        "text": "One way creates an index.js file ",
+        "user": "U15HRTAHL",
+        "ts": "1512950793.000071"
+    },
+    {
+        "type": "message",
+        "text": "The other creates an app.js file ",
+        "user": "U15HRTAHL",
+        "ts": "1512950804.000034"
+    },
+    {
+        "type": "message",
+        "text": "Smh did i tell ya or did i tell ya",
+        "user": "U15HY5TG8",
+        "ts": "1512950822.000017"
+    },
+    {
+        "type": "message",
+        "text": "Well the other way is not located on their site at all ",
+        "user": "U15HRTAHL",
+        "ts": "1512950838.000138"
+    },
+    {
+        "type": "message",
+        "text": "Looks like it was updated 18 days ago with this new way ",
+        "user": "U15HRTAHL",
+        "ts": "1512950852.000123"
+    },
+    {
+        "type": "message",
+        "text": "So it's probably pretty buggy ",
+        "user": "U15HRTAHL",
+        "ts": "1512950858.000121"
+    },
+    {
+        "type": "message",
+        "text": "Ahh weird",
+        "user": "U15HY5TG8",
+        "ts": "1512950868.000010"
+    },
+    {
+        "type": "message",
+        "text": "React native is cool once you get the file structure in place",
+        "user": "U15HRTAHL",
+        "ts": "1512956268.000074"
+    },
+    {
+        "type": "message",
+        "text": "Thats good haha",
+        "user": "U15HY5TG8",
+        "ts": "1512957412.000055"
+    },
+    {
+        "type": "message",
+        "text": "You should make a blank template",
+        "user": "U15J5H60P",
+        "ts": "1512965098.000194"
+    }
+]

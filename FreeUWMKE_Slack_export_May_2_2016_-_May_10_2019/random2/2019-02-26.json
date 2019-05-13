@@ -1,0 +1,119 @@
+[
+    {
+        "client_msg_id": "42cf19f5-394a-441d-b1ee-ee59a17b7348",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/WTF\/comments\/auwsfm\/just_gonna_take_a_seat_here\/>",
+        "user": "U15HSHSS2",
+        "ts": "1551195061.000200",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/WTF - Just gonna take a seat here",
+                "title_link": "https:\/\/www.reddit.com\/r\/WTF\/comments\/auwsfm\/just_gonna_take_a_seat_here\/",
+                "text": "3,967 votes and 392 comments so far on Reddit",
+                "fallback": "reddit: r\/WTF - Just gonna take a seat here",
+                "thumb_url": "https:\/\/external-preview.redd.it\/g6UZ6ankmIgD29cJrud7IZjwPmmiJozisHlpOeK-IcA.png?format=pjpg&auto=webp&s=a552adb7a5d93197b1cbee4662b54796d805393d",
+                "from_url": "https:\/\/www.reddit.com\/r\/WTF\/comments\/auwsfm\/just_gonna_take_a_seat_here\/",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/WTF\/comments\/auwsfm\/just_gonna_take_a_seat_here\/"
+            }
+        ]
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HSHSS2",
+        "ts": "1551195089.000500",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/kenan-and-kel-its-true-ZmNEGGIB9mkH6",
+                "image_url": "https:\/\/media1.giphy.com\/media\/ZmNEGGIB9mkH6\/giphy-downsized.gif?cid=6104955e5c755bc8683233456b272801",
+                "image_width": 240,
+                "image_height": 180,
+                "image_bytes": 835644,
+                "is_animated": true,
+                "title": "trash",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/kenan-and-kel-its-true-ZmNEGGIB9mkH6"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40DE8BA3-631B-428F-A14B-12BA79228093",
+        "type": "message",
+        "text": "I felt the same as the first comment",
+        "user": "U15HY5TG8",
+        "ts": "1551195151.000900"
+    },
+    {
+        "client_msg_id": "55cd0cf8-2266-4b61-8bbd-9955477c0e54",
+        "type": "message",
+        "text": "seriously lol I was waiting for one of them to take a shit right there",
+        "user": "U15HSHSS2",
+        "ts": "1551195168.001200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGH7JLXU0",
+                "created": 1551249812,
+                "timestamp": 1551249812,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 218506,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGH7JLXU0\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGH7JLXU0\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGH7JLXU0-04cc32d1b8\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1536,
+                "original_h": 2048,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FGH7JLXU0\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGH7JLXU0-e74b2c9844",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1551249815.000100"
+    }
+]

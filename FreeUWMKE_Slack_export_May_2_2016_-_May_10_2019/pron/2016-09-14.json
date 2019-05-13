@@ -1,0 +1,105 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/i.imgur.com\/CXPCjJG.jpg>",
+        "user": "U15J5H60P",
+        "ts": "1473869456.000002",
+        "attachments": [
+            {
+                "fallback": "1080x720px image",
+                "image_url": "http:\/\/i.imgur.com\/CXPCjJG.jpg",
+                "image_width": 1080,
+                "image_height": 720,
+                "image_bytes": 104774,
+                "from_url": "http:\/\/i.imgur.com\/CXPCjJG.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This is <#C15T666TA|pron>",
+        "user": "U15HY5TG8",
+        "ts": "1473869654.000004"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/w0TnN3S.png>",
+        "user": "U15J5H60P",
+        "ts": "1473869795.000008",
+        "attachments": [
+            {
+                "fallback": "1280x800px image",
+                "image_url": "https:\/\/i.imgur.com\/w0TnN3S.png",
+                "image_width": 1280,
+                "image_height": 800,
+                "image_bytes": 88744,
+                "from_url": "https:\/\/i.imgur.com\/w0TnN3S.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Thats better",
+        "user": "U15HY5TG8",
+        "ts": "1473869832.000010"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2BJKKPLK",
+                "created": 1473869991,
+                "timestamp": 1473869991,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 328649,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2BJKKPLK\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2BJKKPLK\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2BJKKPLK-c04e891bfb\/slack_for_ios_upload_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2BJKKPLK-c04e891bfb\/slack_for_ios_upload_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2BJKKPLK-c04e891bfb\/slack_for_ios_upload_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 194,
+                "thumb_360_h": 131,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2BJKKPLK-c04e891bfb\/slack_for_ios_upload_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 194,
+                "original_h": 131,
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2BJKKPLK-c04e891bfb\/slack_for_ios_upload_deanimate_gif.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F2BJKKPLK\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F2BJKKPLK-8f68e5a928",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1473869993.000011"
+    },
+    {
+        "type": "message",
+        "text": "Smh",
+        "user": "U15HY5TG8",
+        "ts": "1473870057.000012"
+    },
+    {
+        "type": "message",
+        "text": "Smd*",
+        "user": "U15J5H60P",
+        "ts": "1473870069.000013"
+    }
+]

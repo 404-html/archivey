@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "so I've got a component, and a child controller",
+        "user": "U15HY5TG8",
+        "ts": "1527254433.000457"
+    },
+    {
+        "type": "message",
+        "text": "how do I call the parent function from a child controller in angular js?",
+        "user": "U15HY5TG8",
+        "ts": "1527254452.000002"
+    },
+    {
+        "type": "message",
+        "text": "this is in the parent\n```\nangular\n        .module('mainApp')\n        .component('emailConfiguration', {\n            templateUrl: '\/PMM\/ContactUs',\n            controller: emailConfiguration,\n            controllerAs: 'vm',\n            bindings: {\n                portalId: \"=\",\n                getContactSubjectList: \"&amp;\"\n            }\n        });\n\nfunction getContactSubjectList(portalId) {\n            contactUsService.getContactSubjectList(portalId)\n                .then(function (response) {\n                    debugger;\n                    if (response != null) {\n                        vm.contactSubjectList = response;\n                        (vm.contactSubjectList === undefined || vm.contactSubjectList.length == 0) ? vm.isContactSubjectListEmpty = false : vm.isContactSubjectListEmpty = true;\n                    }\n                }).catch(function (error) {\n                    console.log(error);\n                }).finally(function () {\n                    vm.isLoading = false; usSpinnerService.stop(\"spinner-portal-settings\");\n                });\n        }```",
+        "user": "U15HY5TG8",
+        "ts": "1527254562.000680"
+    },
+    {
+        "type": "message",
+        "text": "and then just this in child controller",
+        "user": "U15HY5TG8",
+        "ts": "1527254574.000146"
+    },
+    {
+        "type": "message",
+        "text": "```vm.getContactSubjectList(vm.portalId)```",
+        "user": "U15HY5TG8",
+        "ts": "1527254590.000446",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1527254601.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "extract the method and make it into a service",
+        "user": "U15HRTAHL",
+        "ts": "1527256486.000230"
+    },
+    {
+        "type": "message",
+        "text": "that's what contactUsService is buuuuut I still needed to call it from somewhere",
+        "user": "U15HY5TG8",
+        "ts": "1527256644.000705"
+    },
+    {
+        "type": "message",
+        "text": "but it's alright, i figured it out",
+        "user": "U15HY5TG8",
+        "ts": "1527256653.000045"
+    },
+    {
+        "type": "message",
+        "text": "cool",
+        "user": "U15HRTAHL",
+        "ts": "1527256657.000781"
+    },
+    {
+        "type": "message",
+        "text": "Basically just got lucky that the child controller was a modal and so there was a return function on modal close that I could trigger off of",
+        "user": "U15HY5TG8",
+        "ts": "1527256714.000416"
+    }
+]

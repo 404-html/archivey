@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> did you fux wit heroku",
+        "user": "U15HRTAHL",
+        "ts": "1476455937.000002"
+    },
+    {
+        "type": "message",
+        "text": "Not yet. I probably won't any time soon unless I want to migrate what I already have. Which are static so it wouldn't matter anyeayd",
+        "user": "U15J5H60P",
+        "ts": "1476455977.000003"
+    },
+    {
+        "type": "message",
+        "text": "Anyway",
+        "user": "U15J5H60P",
+        "ts": "1476455980.000004"
+    },
+    {
+        "type": "message",
+        "text": "if you ever want to get away from the datastore as a backend i’d highly recommend it",
+        "user": "U15HRTAHL",
+        "ts": "1476456065.000005"
+    },
+    {
+        "type": "message",
+        "text": "I have a rest api and its literally like 10 lines of code",
+        "user": "U15HRTAHL",
+        "ts": "1476456078.000006"
+    },
+    {
+        "type": "message",
+        "text": "and push to production is cool",
+        "user": "U15HRTAHL",
+        "ts": "1476456088.000007"
+    },
+    {
+        "type": "message",
+        "text": "you just push to the master branch on giithub",
+        "user": "U15HRTAHL",
+        "ts": "1476456097.000008"
+    },
+    {
+        "type": "message",
+        "text": "and heroku deploys it for you",
+        "user": "U15HRTAHL",
+        "ts": "1476456105.000009"
+    },
+    {
+        "type": "message",
+        "text": "I don't use the data store. But that pushing to master branch sounds heeellllllaaaaa awesome",
+        "user": "U15J5H60P",
+        "ts": "1476456179.000010"
+    },
+    {
+        "type": "message",
+        "text": "You just convinced me to migrate",
+        "user": "U15J5H60P",
+        "ts": "1476456186.000011"
+    }
+]

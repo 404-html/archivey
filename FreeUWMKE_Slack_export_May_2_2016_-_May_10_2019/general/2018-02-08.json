@@ -1,0 +1,934 @@
+[
+    {
+        "client_msg_id": "FE0AFF98-2164-4235-A47E-5EB75606BCDD",
+        "type": "message",
+        "text": "No idea what Snapchat was aiming for with this update",
+        "user": "U15HZ01QX",
+        "ts": "1518093658.000255"
+    },
+    {
+        "client_msg_id": "406C9EB6-5355-499B-B851-09AAB5E684D6",
+        "type": "message",
+        "text": "It hasn't pushed to my phone. ",
+        "user": "U15J5H60P",
+        "ts": "1518095182.000176"
+    },
+    {
+        "client_msg_id": "DA6A983A-06EE-4C35-B169-250F0B71A27D",
+        "type": "message",
+        "text": "So I’m in class for the rest of the week, I thought it would be in lubar and I could take it easy in the back.",
+        "user": "U15HZ01QX",
+        "ts": "1518097643.000214"
+    },
+    {
+        "client_msg_id": "B153F863-8ED0-4191-A94B-69E96A9DB9B3",
+        "type": "message",
+        "text": "But it’s in UWMs school of continuing education in grand avenue. I didn’t even know they had a set up like this",
+        "user": "U15HZ01QX",
+        "ts": "1518097673.000346"
+    },
+    {
+        "type": "message",
+        "text": "Starting your master's?",
+        "user": "U15J5H60P",
+        "ts": "1518098476.000624"
+    },
+    {
+        "client_msg_id": "288182AA-73F1-417E-9BDC-00959A85801A",
+        "type": "message",
+        "text": "No",
+        "user": "U15HZ01QX",
+        "ts": "1518098504.000536"
+    },
+    {
+        "type": "message",
+        "text": "What class are you taking?",
+        "user": "U15J5H60P",
+        "ts": "1518098512.000535"
+    },
+    {
+        "client_msg_id": "23B21040-A627-4732-8B18-30D2CF8F5A96",
+        "type": "message",
+        "text": "A project management one",
+        "user": "U15HZ01QX",
+        "ts": "1518098526.000261"
+    },
+    {
+        "type": "message",
+        "text": "Very nice.",
+        "user": "U15J5H60P",
+        "ts": "1518098532.000492"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F95DT36KT",
+                "created": 1518099143,
+                "timestamp": 1518099143,
+                "name": ".png",
+                "title": "Boyyy oh boyyy",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 465855,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F95DT36KT\/.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F95DT36KT\/download\/.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 251,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 334,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 502,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1148,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 669,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F95DT36KT-b6d40962ea\/_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 713,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 1615,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F95DT36KT\/.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F95DT36KT-f9256cea72",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1518099146.000613"
+    },
+    {
+        "client_msg_id": "CBFBC3AC-3839-42F9-BA53-0B01BA1AA518",
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15J5H60P",
+        "ts": "1518100831.000012"
+    },
+    {
+        "client_msg_id": "ED1D3D4C-44FB-4F52-B773-533F3F5382C2",
+        "type": "message",
+        "text": "I’m actually across the street from my wedding venue. ",
+        "user": "U15HZ01QX",
+        "ts": "1518106819.000915"
+    },
+    {
+        "client_msg_id": "B885EAD6-7844-4D5B-99D5-D95A5CDE5465",
+        "type": "message",
+        "text": "I gotta say working downtown is probably worth it just for the views alone",
+        "user": "U15HZ01QX",
+        "ts": "1518106838.000800"
+    },
+    {
+        "type": "message",
+        "text": "What floors do you guys work on?",
+        "user": "U15HSHSS2",
+        "ts": "1518110576.000079"
+    },
+    {
+        "client_msg_id": "8ABA1CAE-2527-4009-9C95-0D879E003C43",
+        "type": "message",
+        "text": "I'm technically on the 14th floor but I'm frequently on the 30th floor. ",
+        "user": "U15J5H60P",
+        "ts": "1518110654.000060"
+    },
+    {
+        "type": "message",
+        "text": "carpeted floors",
+        "user": "U15HRTAHL",
+        "ts": "1518111121.000477",
+        "reactions": [
+            {
+                "name": "smh",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Domen has really nice hard wood floors",
+        "user": "U15HRTAHL",
+        "ts": "1518111136.000135"
+    },
+    {
+        "client_msg_id": "B63A43B7-5378-42D1-A2EF-6D1D6C19040D",
+        "type": "message",
+        "text": "\n7th <@U15HSHSS2> ",
+        "user": "U15HZ01QX",
+        "ts": "1518111759.000673"
+    },
+    {
+        "type": "message",
+        "text": "Went down a hell of a rabbit hole at work today lol",
+        "user": "U15HSHSS2",
+        "ts": "1518115095.000688"
+    },
+    {
+        "client_msg_id": "2B45BC93-0647-489A-B2DE-1B8673D35FD8",
+        "type": "message",
+        "text": "My break ends in 7 minutes so let’s hear it",
+        "user": "U15HZ01QX",
+        "ts": "1518115118.000321"
+    },
+    {
+        "type": "message",
+        "text": "Started off with Sandy Hook Conspiracy theorist, then transferred to flat earth conspiracy theorist, then holocaust conspiracy theorist, then somehow took a left turn to the civil rights movement, and ended on transgenders",
+        "user": "U15HSHSS2",
+        "ts": "1518115216.000296"
+    },
+    {
+        "client_msg_id": "D7819F75-F081-41C6-9CF2-B6A2E1024992",
+        "type": "message",
+        "text": "Oh yeah you’re fired as soon as they do a security audit",
+        "user": "U15HZ01QX",
+        "ts": "1518115292.000428"
+    },
+    {
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HSHSS2",
+        "ts": "1518115298.000119"
+    },
+    {
+        "type": "message",
+        "text": "Some of these people talking about conspiracies seem like totally normal intellegent rational humans, but then you hear the stuff they are saing its like wtf dude how can you possibly think that",
+        "user": "U15HSHSS2",
+        "ts": "1518115505.000603"
+    },
+    {
+        "type": "message",
+        "text": "Also wtf happend to spell check in the slack desktop app?",
+        "user": "U15HSHSS2",
+        "ts": "1518115520.000225"
+    },
+    {
+        "type": "message",
+        "text": "mines off",
+        "user": "U15HSHSS2",
+        "ts": "1518115523.000468"
+    },
+    {
+        "type": "message",
+        "text": "well it's on, but not working",
+        "user": "U15HSHSS2",
+        "ts": "1518115689.000558"
+    },
+    {
+        "client_msg_id": "13649EC7-69ED-4CF2-82FD-559C79FC6D34",
+        "type": "message",
+        "text": "Lindsey called again since i updated my work on linkedin",
+        "user": "U15HY5TG8",
+        "ts": "1518115724.000087"
+    },
+    {
+        "client_msg_id": "B754BAB6-1182-499A-944C-4E39B9065BF8",
+        "type": "message",
+        "text": "Wonderbox changed names? Lol",
+        "user": "U15HZ01QX",
+        "ts": "1518115761.000553"
+    },
+    {
+        "client_msg_id": "6496BC80-0077-4BF4-939B-48A57A48607B",
+        "type": "message",
+        "text": "When was this",
+        "user": "U15HZ01QX",
+        "ts": "1518115766.000086"
+    },
+    {
+        "client_msg_id": "FEE31B75-22C1-438C-A914-8C6491424B95",
+        "type": "message",
+        "text": "Man she is tenacious ",
+        "user": "U15HZ01QX",
+        "ts": "1518115790.000347"
+    },
+    {
+        "client_msg_id": "FFA09228-D760-4E86-A0E1-19DA49F2E73E",
+        "type": "message",
+        "text": "Ive known about it for about 2 months, but officially merged to the parent company (in view of the public) as of yesterday",
+        "user": "U15HY5TG8",
+        "ts": "1518115814.000560"
+    },
+    {
+        "client_msg_id": "3CD7DFA4-FE38-4F1A-9BD0-E9EEB467441E",
+        "type": "message",
+        "text": "Nice congrats",
+        "user": "U15HZ01QX",
+        "ts": "1518115830.000495"
+    },
+    {
+        "client_msg_id": "D079B36C-A12B-46B2-AD8E-24CB30EEA686",
+        "type": "message",
+        "text": "I think lol",
+        "user": "U15HZ01QX",
+        "ts": "1518115834.000154"
+    },
+    {
+        "client_msg_id": "E8746C84-6761-4EA1-9466-DB1BE651069B",
+        "type": "message",
+        "text": "It makes no difference to me lol",
+        "user": "U15HY5TG8",
+        "ts": "1518115844.000550"
+    },
+    {
+        "client_msg_id": "56E32B26-26F1-402B-A28D-ED62261BD6B7",
+        "type": "message",
+        "text": "It just makes the company look better",
+        "user": "U15HY5TG8",
+        "ts": "1518115852.000447"
+    },
+    {
+        "type": "message",
+        "text": "fixed it :sunglasses: had to change a language preference",
+        "user": "U15HSHSS2",
+        "ts": "1518115912.000326"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/63emmfio30f01.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1518117729.000389",
+        "attachments": [
+            {
+                "fallback": "768x768px image",
+                "image_url": "https:\/\/i.redd.it\/63emmfio30f01.jpg",
+                "image_width": 768,
+                "image_height": 768,
+                "image_bytes": 81421,
+                "from_url": "https:\/\/i.redd.it\/63emmfio30f01.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolololol",
+        "user": "U15J5H60P",
+        "ts": "1518117970.000526"
+    },
+    {
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HSHSS2",
+        "ts": "1518118087.000519"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> did you ever confirm if your coworkers think you're the scum of the earth for cheating on lakshmi?",
+        "user": "U15HRTAHL",
+        "ts": "1518118395.000548"
+    },
+    {
+        "type": "message",
+        "text": "apparently Justin Treadue is in the same building as one of my coworkers",
+        "user": "U15HRTAHL",
+        "ts": "1518120849.000497"
+    },
+    {
+        "type": "message",
+        "text": "he said security is nuts",
+        "user": "U15HRTAHL",
+        "ts": "1518120853.000350"
+    },
+    {
+        "client_msg_id": "26686F55-F60E-4EBA-99E9-8DE4E38761AB",
+        "type": "message",
+        "text": "My entire team is working from home tomorrow cuz I guess there is supposed to be a big snow storm?",
+        "user": "U15HSHSS2",
+        "ts": "1518122619.000323"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F968T1YJE",
+                "created": 1518122649,
+                "timestamp": 1518122649,
+                "name": ".png",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 769124,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F968T1YJE\/.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F968T1YJE\/download\/.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F968T1YJE-974ebba974\/_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F968T1YJE\/.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F968T1YJE-5cb41bf77c",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1518122655.000671"
+    },
+    {
+        "client_msg_id": "094CCFCA-3C08-44B0-B19D-D84D77395015",
+        "type": "message",
+        "text": "They said they won’t cancel my class unless uwm cancels. Which won’t happen lol",
+        "user": "U15HZ01QX",
+        "ts": "1518122674.000293"
+    },
+    {
+        "client_msg_id": "54A62768-0D48-4145-AD4F-2C99D4C26A81",
+        "type": "message",
+        "text": "Ooo yeaaa",
+        "user": "U15HY5TG8",
+        "ts": "1518122675.000289"
+    },
+    {
+        "client_msg_id": "60E9BC8C-E58F-440D-BF48-8142127436C1",
+        "type": "message",
+        "text": "You have a class?",
+        "user": "U15HY5TG8",
+        "ts": "1518122693.000556"
+    },
+    {
+        "client_msg_id": "E6BFE6FA-54FC-4AC2-A698-9165E0B0DAEE",
+        "type": "message",
+        "text": "See above",
+        "user": "U15HZ01QX",
+        "ts": "1518122738.000648"
+    },
+    {
+        "client_msg_id": "3DC672ED-9F10-48F0-9651-1E63D3CCC85B",
+        "type": "message",
+        "text": "How far above?",
+        "user": "U15HY5TG8",
+        "ts": "1518122844.000277"
+    },
+    {
+        "client_msg_id": "F28BE703-2EC3-4AA0-97CA-3E13FA9943C2",
+        "type": "message",
+        "text": "Yeah I’m in class",
+        "user": "U15HZ01QX",
+        "ts": "1518122866.000500"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518097643000214>",
+        "user": "U15HSHSS2",
+        "ts": "1518122867.000349",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518097643000214",
+                "fallback": "[February 8th, 2018 5:47 AM] james: So I’m in class for the rest of the week, I thought it would be in lubar and I could take it easy in the back.",
+                "ts": "1518097643.000214",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "So I’m in class for the rest of the week, I thought it would be in lubar and I could take it easy in the back.",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AC02CA22-FB4C-4248-AF84-C659AF230DEB",
+        "type": "message",
+        "text": "Why are you in class?",
+        "user": "U15HY5TG8",
+        "ts": "1518122887.000092"
+    },
+    {
+        "client_msg_id": "66E24C1E-4172-4BF3-956F-B31DB8B165E6",
+        "type": "message",
+        "text": "Cause youre paid to?",
+        "user": "U15HY5TG8",
+        "ts": "1518122896.000582"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518098476000624>",
+        "user": "U15HSHSS2",
+        "ts": "1518122904.000285",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518098476000624",
+                "fallback": "[February 8th, 2018 6:01 AM] andrew: Starting your master's?",
+                "ts": "1518098476.000624",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Starting your master's?",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F68E40CB-A414-4071-B1C0-EAC44FF2A922",
+        "type": "message",
+        "text": "Fuck that",
+        "user": "U15HY5TG8",
+        "ts": "1518122913.000424"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518098504000536>",
+        "user": "U15HSHSS2",
+        "ts": "1518122914.000006",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518098504000536",
+                "fallback": "[February 8th, 2018 6:01 AM] james: No",
+                "ts": "1518098504.000536",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "No",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "78DB33DA-AEF4-4003-AD2D-496660D9912C",
+        "type": "message",
+        "text": "Cuz I’m paid to ",
+        "user": "U15HZ01QX",
+        "ts": "1518122917.000418"
+    },
+    {
+        "client_msg_id": "0F2B466A-12BE-40DF-84B6-1B701D6A77D5",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1518122917.000602"
+    },
+    {
+        "client_msg_id": "F3EE7970-C9A5-4F09-8E70-FF7D0C244963",
+        "type": "message",
+        "text": "Ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1518122922.000074"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518098526000261>",
+        "user": "U15HSHSS2",
+        "ts": "1518122926.000513",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1518098526000261",
+                "fallback": "[February 8th, 2018 6:02 AM] james: A project management one",
+                "ts": "1518098526.000261",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "A project management one",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FAD9C861-E55D-4B30-A00A-4EB4DB08FF4A",
+        "type": "message",
+        "text": "I got a thirst for knowledge",
+        "user": "U15HZ01QX",
+        "ts": "1518122931.000649"
+    },
+    {
+        "client_msg_id": "B79E19FF-C938-47DA-BDF4-D76A45A70046",
+        "type": "message",
+        "text": "Damn i wouldve start job searching",
+        "user": "U15HY5TG8",
+        "ts": "1518122942.000441"
+    },
+    {
+        "client_msg_id": "0CE37C00-C66D-470A-8855-6B82D24F42B8",
+        "type": "message",
+        "text": "If you had to take a class?",
+        "user": "U15HZ01QX",
+        "ts": "1518123018.000569"
+    },
+    {
+        "client_msg_id": "40C337B4-B828-4853-9C33-012580617CBD",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1518123038.000628"
+    },
+    {
+        "client_msg_id": "22BF14A5-6897-4D4B-8914-E5E681E8CB41",
+        "type": "message",
+        "text": "Thats how much i dont like class",
+        "user": "U15HY5TG8",
+        "ts": "1518123047.000117"
+    },
+    {
+        "client_msg_id": "A4DCB4D9-2ED6-43F2-A261-5D4024496E89",
+        "type": "message",
+        "text": "Is there any point in college where you remember me trying?",
+        "user": "U15HY5TG8",
+        "ts": "1518123072.000589"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1518123098.000199"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> yeah you tried really hard getting the assignments from us",
+        "user": "U15HRTAHL",
+        "ts": "1518123122.000108"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1518123133.000011"
+    },
+    {
+        "client_msg_id": "1F24E82B-E84B-49AE-80D4-A7EE5FDB8086",
+        "type": "message",
+        "text": "That is accurate",
+        "user": "U15HY5TG8",
+        "ts": "1518123169.000335"
+    },
+    {
+        "client_msg_id": "C8098BA1-171D-4C5A-8C1F-4EE7B74D81DE",
+        "type": "message",
+        "text": "These classes are like 40% networking. There’s nothing intensive about them it seems",
+        "user": "U15HZ01QX",
+        "ts": "1518126118.000496"
+    },
+    {
+        "type": "message",
+        "text": "that'd piss me off",
+        "user": "U15HRTAHL",
+        "ts": "1518128473.000011"
+    },
+    {
+        "type": "message",
+        "text": "such a waste of time",
+        "user": "U15HRTAHL",
+        "ts": "1518128475.000504"
+    },
+    {
+        "client_msg_id": "AFED0B24-3460-4253-86BB-1A87497D3016",
+        "type": "message",
+        "text": "I could use that",
+        "user": "U15J5H60P",
+        "ts": "1518129169.000487"
+    },
+    {
+        "client_msg_id": "3DCC1563-A0AB-4B20-8B78-67491AA31F89",
+        "type": "message",
+        "text": "Being forced to socialize",
+        "user": "U15J5H60P",
+        "ts": "1518129174.000338"
+    },
+    {
+        "client_msg_id": "EAE3857D-791C-4EE8-B9A3-648A2C39B885",
+        "type": "message",
+        "text": ":face_with_rolling_eyes: <@U15HRTAHL> ",
+        "user": "U15HZ01QX",
+        "ts": "1518129809.000040"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HRTAHL",
+        "ts": "1518129905.000027"
+    },
+    {
+        "client_msg_id": "6ED2AF20-4B09-4ED8-91C4-4BDD84D56784",
+        "type": "message",
+        "text": "He’s eye rolling you cuz you don’t see the value in networking\/having a non intensive work load",
+        "user": "U15HSHSS2",
+        "ts": "1518130248.000144"
+    },
+    {
+        "client_msg_id": "59948D58-DCC4-47BA-A3FC-0E0A902A3A00",
+        "type": "message",
+        "text": "Tommy’s been on fire today ",
+        "user": "U15HZ01QX",
+        "ts": "1518130278.000416"
+    },
+    {
+        "client_msg_id": "a80fe0a9-8f9c-4749-b135-baec0e7dbe4b",
+        "type": "message",
+        "text": "I don't think any of us have intensive workloads ",
+        "user": "U15HRTAHL",
+        "ts": "1518130487.000274"
+    },
+    {
+        "client_msg_id": "EDBAD0D7-E9A6-4842-97B2-A5F653B5ACF4",
+        "type": "message",
+        "text": "I didn’t know anyone else was taking classes",
+        "user": "U15HZ01QX",
+        "ts": "1518130526.000320"
+    },
+    {
+        "type": "message",
+        "text": "Anything could be worse. Shoveling coal for 10.50 an hour 12 hours a day is bad",
+        "user": "U15HRTAHL",
+        "ts": "1518130564.000197"
+    },
+    {
+        "client_msg_id": "414E1CAC-F6C2-4F64-9282-5EDE699E030F",
+        "type": "message",
+        "text": "I’m not sure what we’re talking about anymore",
+        "user": "U15HZ01QX",
+        "ts": "1518130684.000299"
+    },
+    {
+        "client_msg_id": "460B8CCE-598F-4511-B4B9-D795D899F1DB",
+        "type": "message",
+        "text": "I was just saying networking is cool",
+        "user": "U15HZ01QX",
+        "ts": "1518130694.000451"
+    },
+    {
+        "type": "message",
+        "text": "Networking is cool. There's events for just that. I'm just saying if you're paying for credit (which you're not but other people do) would piss me off",
+        "user": "U15HRTAHL",
+        "ts": "1518130807.000242"
+    },
+    {
+        "client_msg_id": "1F3DF45F-8914-444D-9470-20CBEEA03A25",
+        "type": "message",
+        "text": "<@U15HRTAHL> ",
+        "user": "U15HY5TG8",
+        "ts": "1518135001.000048"
+    },
+    {
+        "client_msg_id": "e51b29d3-b3f6-42ca-bb2f-7fed8ab96014",
+        "type": "message",
+        "text": "<@U15HY5TG8> ",
+        "user": "U15HRTAHL",
+        "ts": "1518135127.000173"
+    },
+    {
+        "client_msg_id": "5D9AD0D3-987A-4AB6-B473-D31C10B5E60B",
+        "type": "message",
+        "text": "How do you prefer to cook steak if a grill is not an option?",
+        "user": "U15HY5TG8",
+        "ts": "1518135168.000312"
+    },
+    {
+        "client_msg_id": "b15f088a-b21d-4f4c-885a-1ebed0f9d282",
+        "type": "message",
+        "text": "Lol funny you ask. I'm making some tonight",
+        "user": "U15HRTAHL",
+        "ts": "1518135182.000018"
+    },
+    {
+        "client_msg_id": "211ce132-33d6-425b-8f21-965509598eba",
+        "type": "message",
+        "text": "I'll send you a video ",
+        "user": "U15HRTAHL",
+        "ts": "1518135193.000195"
+    },
+    {
+        "client_msg_id": "AB0F8DDC-E0EE-4A98-A18A-AC6C51FE0A36",
+        "type": "message",
+        "text": "Me too lol i picked up some ny strip",
+        "user": "U15HY5TG8",
+        "ts": "1518135204.000022"
+    },
+    {
+        "client_msg_id": "a328bb08-08ea-4911-8586-161b6cdf142f",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/AmC9SmCBUj4>",
+        "user": "U15HRTAHL",
+        "ts": "1518135257.000221",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Gordon Ramsay's ULTIMATE COOKERY COURSE: How to Cook the Perfect Steak",
+                "title_link": "https:\/\/youtu.be\/AmC9SmCBUj4",
+                "author_name": "Hodder Books",
+                "author_link": "https:\/\/www.youtube.com\/user\/HodderBooks",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/AmC9SmCBUj4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Gordon Ramsay's ULTIMATE COOKERY COURSE: How to Cook the Perfect Steak",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/AmC9SmCBUj4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/AmC9SmCBUj4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "sweeet thanks",
+        "user": "U15HY5TG8",
+        "ts": "1518135396.000185"
+    },
+    {
+        "type": "message",
+        "text": "there is zero chance i can do things as fast as him lol",
+        "user": "U15HY5TG8",
+        "ts": "1518135562.000075"
+    },
+    {
+        "type": "message",
+        "text": "and what does he mean by the wrist and the correlation between rare, medium rare, etc",
+        "user": "U15HY5TG8",
+        "ts": "1518135592.000221"
+    },
+    {
+        "client_msg_id": "76ece818-679e-412f-87bc-67c146fe9bad",
+        "type": "message",
+        "text": "Feel those parts ",
+        "user": "U15HRTAHL",
+        "ts": "1518136497.000355"
+    },
+    {
+        "client_msg_id": "03c4063d-a489-41ca-9a8a-12fdc5cb3014",
+        "type": "message",
+        "text": "<http:\/\/www.scottrobertsweb.com\/wp-content\/uploads\/2016\/06\/grilled-bbq-meat-wellness-doneness-hand-test.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1518136553.000183",
+        "attachments": [
+            {
+                "fallback": "625x1250px image",
+                "image_url": "http:\/\/www.scottrobertsweb.com\/wp-content\/uploads\/2016\/06\/grilled-bbq-meat-wellness-doneness-hand-test.jpg",
+                "image_width": 625,
+                "image_height": 1250,
+                "image_bytes": 166716,
+                "from_url": "http:\/\/www.scottrobertsweb.com\/wp-content\/uploads\/2016\/06\/grilled-bbq-meat-wellness-doneness-hand-test.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88E7FEBD-BBE8-4B9B-927A-4A1BB58904FA",
+        "type": "message",
+        "text": "Ahhh interesting!",
+        "user": "U15HY5TG8",
+        "ts": "1518136650.000131"
+    },
+    {
+        "client_msg_id": "870ec498-87df-47a1-9215-aa576ae8da35",
+        "type": "message",
+        "text": "And he's doing out takes. 1 minute per side ",
+        "user": "U15HRTAHL",
+        "ts": "1518136826.000214"
+    },
+    {
+        "client_msg_id": "65510eb7-322b-46a3-9565-ac3fc6f0da91",
+        "type": "message",
+        "text": "Flip for like 7 minutes",
+        "user": "U15HRTAHL",
+        "ts": "1518136836.000285"
+    },
+    {
+        "client_msg_id": "969f79fa-a70f-4642-a8fc-8f559c199dce",
+        "type": "message",
+        "text": "After you spent the first 2 minutes add Butter ",
+        "user": "U15HRTAHL",
+        "ts": "1518136861.000277"
+    },
+    {
+        "client_msg_id": "83B16E86-346E-4843-B1B5-71E025BE75FD",
+        "type": "message",
+        "text": "Ooo i did alright",
+        "user": "U15HY5TG8",
+        "ts": "1518137589.000137"
+    },
+    {
+        "client_msg_id": "4FE673C7-4E9B-498E-B1E5-D886B3275767",
+        "type": "message",
+        "text": "Luckily i did exactly what you said because i wasnt looking at my phone",
+        "user": "U15HY5TG8",
+        "ts": "1518137610.000306"
+    }
+]

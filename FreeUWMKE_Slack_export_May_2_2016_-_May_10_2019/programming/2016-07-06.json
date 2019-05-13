@@ -1,0 +1,140 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: <@U15J5H60P> so ive got a text-area that displays like shit in firefox and i cant figure out why. It interacts with a panel but rolls off the edge. Ive tried containers\/rows. Any other ideas from you?",
+        "user": "U15HY5TG8",
+        "ts": "1467823342.000002"
+    },
+    {
+        "type": "message",
+        "text": "What html framework are you guys using, or do you guys not use one",
+        "user": "U15HRTAHL",
+        "ts": "1467823377.000003"
+    },
+    {
+        "type": "message",
+        "text": "Bootstrap",
+        "user": "U15HY5TG8",
+        "ts": "1467823401.000004"
+    },
+    {
+        "type": "message",
+        "text": "checkout the bootstrap css",
+        "user": "U15HRTAHL",
+        "ts": "1467823417.000005"
+    },
+    {
+        "type": "message",
+        "text": "look into the grid stuff",
+        "user": "U15HRTAHL",
+        "ts": "1467823425.000006"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/getbootstrap.com\/css\/#grid>",
+        "user": "U15HRTAHL",
+        "ts": "1467823448.000007",
+        "attachments": [
+            {
+                "title": " CSS · Bootstrap ",
+                "title_link": "http:\/\/getbootstrap.com\/css\/#grid",
+                "text": "Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+                "fallback": " CSS · Bootstrap ",
+                "from_url": "http:\/\/getbootstrap.com\/css\/#grid",
+                "service_icon": "http:\/\/getbootstrap.com\/favicon.ico",
+                "service_name": "getbootstrap.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "It works fine on other pages but the css looks exactly the same when comparing and works fine in IE and chrome",
+        "user": "U15HY5TG8",
+        "ts": "1467823472.000009"
+    },
+    {
+        "type": "message",
+        "text": "And yea i was already looking at that",
+        "user": "U15HY5TG8",
+        "ts": "1467823483.000010"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/getbootstrap.com\/browser-bugs\/>",
+        "user": "U15HRTAHL",
+        "ts": "1467823728.000011",
+        "attachments": [
+            {
+                "title": " Wall of browser bugs · Bootstrap ",
+                "title_link": "http:\/\/getbootstrap.com\/browser-bugs\/",
+                "text": "Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+                "fallback": " Wall of browser bugs · Bootstrap ",
+                "from_url": "http:\/\/getbootstrap.com\/browser-bugs\/",
+                "service_icon": "http:\/\/getbootstrap.com\/favicon.ico",
+                "service_name": "getbootstrap.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "see if you’re using any of the ones listed for firefox",
+        "user": "U15HRTAHL",
+        "ts": "1467823738.000013"
+    },
+    {
+        "type": "message",
+        "text": "Negative",
+        "user": "U15HY5TG8",
+        "ts": "1467823832.000014"
+    },
+    {
+        "type": "message",
+        "text": "welp then its just shit code",
+        "user": "U15HRTAHL",
+        "ts": "1467823841.000015"
+    },
+    {
+        "type": "message",
+        "text": "Ik lol thats why im askin for ideas of where to look",
+        "user": "U15HY5TG8",
+        "ts": "1467823914.000016"
+    },
+    {
+        "type": "message",
+        "text": "in the html",
+        "user": "U15HRTAHL",
+        "ts": "1467823962.000017"
+    },
+    {
+        "type": "message",
+        "text": "Turns out it was because they were using div class=\"col-xs-12\" instead of div class=\"form-group\"",
+        "user": "U15HY5TG8",
+        "ts": "1467830152.000018"
+    },
+    {
+        "type": "message",
+        "text": "you would have known that had you read <http:\/\/getbootstrap.com\/css\/#grid>",
+        "user": "U15HRTAHL",
+        "ts": "1467830211.000019",
+        "attachments": [
+            {
+                "title": " CSS · Bootstrap ",
+                "title_link": "http:\/\/getbootstrap.com\/css\/#grid",
+                "text": "Bootstrap, a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+                "fallback": " CSS · Bootstrap ",
+                "from_url": "http:\/\/getbootstrap.com\/css\/#grid",
+                "service_icon": "http:\/\/getbootstrap.com\/favicon.ico",
+                "service_name": "getbootstrap.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I was reading in depth with the col and rows since other similar pages seemed to rely heavily on them. Theeeen i got to form-group and realized it",
+        "user": "U15HY5TG8",
+        "ts": "1467830298.000021"
+    }
+]

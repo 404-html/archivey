@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "7276EFD0-F22F-4FAB-9BA7-B91E9C066757",
+        "type": "message",
+        "text": "Where are we staying again?",
+        "user": "U15HY5TG8",
+        "ts": "1522345547.000444"
+    },
+    {
+        "client_msg_id": "71DA972C-0AD6-4F5F-B6D0-616C6D4966CE",
+        "type": "message",
+        "text": "Palazzo",
+        "user": "U15HZ01QX",
+        "ts": "1522345642.000318"
+    },
+    {
+        "client_msg_id": "F560BDB9-8010-4C27-8325-8AE8983BB06A",
+        "type": "message",
+        "text": "Alright coool",
+        "user": "U15HY5TG8",
+        "ts": "1522345761.000343"
+    },
+    {
+        "type": "message",
+        "text": "Woooooowwwww\n<https:\/\/clips.twitch.tv\/LuckyCautiousChickpeaHoneyBadger>",
+        "user": "U15HZ01QX",
+        "ts": "1522347758.000182",
+        "attachments": [
+            {
+                "service_name": "Twitch",
+                "title": "TSM_Myth Playing Fortnite - Twitch Clips",
+                "title_link": "https:\/\/clips.twitch.tv\/LuckyCautiousChickpeaHoneyBadger",
+                "text": "Self Rocket Ride - Clipped by MrPopoTFS",
+                "fallback": "Twitch: TSM_Myth Playing Fortnite - Twitch Clips",
+                "thumb_url": "https:\/\/clips-media-assets.twitch.tv\/216083286-social-preview.jpg",
+                "from_url": "https:\/\/clips.twitch.tv\/LuckyCautiousChickpeaHoneyBadger",
+                "thumb_width": 1280,
+                "thumb_height": 720,
+                "service_icon": "https:\/\/www.twitch.tv\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Inappropriate channel",
+        "user": "U15J5H60P",
+        "ts": "1522347766.000611"
+    },
+    {
+        "client_msg_id": "5EEF37A7-8212-48D7-9BE2-942C3FCD0E41",
+        "type": "message",
+        "text": "Oops",
+        "user": "U15HZ01QX",
+        "ts": "1522347792.000527"
+    },
+    {
+        "type": "message",
+        "text": "lol Just bustin' your chops",
+        "user": "U15J5H60P",
+        "ts": "1522347804.000101"
+    }
+]

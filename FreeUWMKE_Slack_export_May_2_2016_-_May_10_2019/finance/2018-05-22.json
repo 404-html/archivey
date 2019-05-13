@@ -1,0 +1,167 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus MU",
+        "user": "U15J5H60P",
+        "ts": "1527001420.000388"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               59.37                3.89                7.012 \n       Avg.                 ---                 ---               7.012% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1527001420.000402",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31441,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "MU having a good day",
+        "user": "U15J5H60P",
+        "ts": "1527001442.000039"
+    },
+    {
+        "type": "message",
+        "text": "Up 7%",
+        "user": "U15J5H60P",
+        "ts": "1527001448.000419"
+    },
+    {
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1527001520.000688"
+    },
+    {
+        "type": "message",
+        "text": "That's because Micron is buying back shares",
+        "user": "U15J5H60P",
+        "ts": "1527001530.000340"
+    },
+    {
+        "client_msg_id": "CD8BB07F-DAD9-43B1-8887-B269CF7A585C",
+        "type": "message",
+        "text": "Still have no idea wtf MU is",
+        "user": "U15HY5TG8",
+        "ts": "1527011633.000638"
+    },
+    {
+        "type": "message",
+        "text": "Marquette University",
+        "user": "U15HRTAHL",
+        "ts": "1527011849.000721"
+    },
+    {
+        "type": "message",
+        "text": "also a greek letter in the alphabet",
+        "user": "U15HRTAHL",
+        "ts": "1527011876.000713"
+    },
+    {
+        "type": "message",
+        "text": "You guys are insufferable",
+        "user": "U15J5H60P",
+        "ts": "1527011884.000479"
+    },
+    {
+        "type": "message",
+        "text": "I'm quite sorry you feel that way",
+        "user": "U15HRTAHL",
+        "ts": "1527011913.000711"
+    },
+    {
+        "type": "message",
+        "text": "Good.",
+        "user": "U15J5H60P",
+        "ts": "1527011919.000059"
+    },
+    {
+        "client_msg_id": "CC98AC3B-2B58-498C-9E2B-813C9148918B",
+        "type": "message",
+        "text": "Thats all i could think of when you mentioned MU",
+        "user": "U15HY5TG8",
+        "ts": "1527011933.000178"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/bulbapedia.bulbagarden.net\/wiki\/Mew_(Pok%C3%A9mon)>",
+        "user": "U15HRTAHL",
+        "ts": "1527011965.000079",
+        "attachments": [
+            {
+                "title": "Mew (Pokémon) - Bulbapedia, the community-driven Pokémon encyclopedia",
+                "title_link": "https:\/\/bulbapedia.bulbagarden.net\/wiki\/Mew_(Pok%C3%A9mon)",
+                "fallback": "Mew (Pokémon) - Bulbapedia, the community-driven Pokémon encyclopedia",
+                "image_url": "https:\/\/cdn.bulbagarden.net\/upload\/thumb\/b\/b1\/151Mew.png\/1200px-151Mew.png",
+                "from_url": "https:\/\/bulbapedia.bulbagarden.net\/wiki\/Mew_(Pok%C3%A9mon)",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 452660,
+                "service_icon": "https:\/\/bulbapedia.bulbagarden.net\/favicon.ico",
+                "service_name": "bulbapedia.bulbagarden.net",
+                "id": 1,
+                "original_url": "https:\/\/bulbapedia.bulbagarden.net\/wiki\/Mew_(Pok%C3%A9mon)"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1527011972.000190"
+    },
+    {
+        "client_msg_id": "D7BFB673-944C-4E44-B731-E9583A75026F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1527011990.000411"
+    },
+    {
+        "type": "message",
+        "text": "Marquette University is a publicly traded company",
+        "user": "U15J5H60P",
+        "ts": "1527011991.000391"
+    },
+    {
+        "type": "message",
+        "text": "That's why I posted about it here",
+        "user": "U15J5H60P",
+        "ts": "1527011996.000013"
+    },
+    {
+        "type": "message",
+        "text": "So is Mew",
+        "user": "U15J5H60P",
+        "ts": "1527011999.000584"
+    },
+    {
+        "type": "message",
+        "text": "they ought to be with profits like that",
+        "user": "U15HRTAHL",
+        "ts": "1527012000.000791"
+    },
+    {
+        "client_msg_id": "76650628-2A6E-44FC-A617-3D5AA82258AF",
+        "type": "message",
+        "text": "But you actually meant micron i see",
+        "user": "U15HY5TG8",
+        "ts": "1527012013.000783"
+    },
+    {
+        "type": "message",
+        "text": "el oh el",
+        "user": "U15HRTAHL",
+        "ts": "1527014551.000343"
+    }
+]

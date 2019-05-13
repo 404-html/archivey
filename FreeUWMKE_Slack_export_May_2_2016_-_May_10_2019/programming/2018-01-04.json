@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1515073429.000100"
+    },
+    {
+        "type": "message",
+        "text": "Interesting though",
+        "user": "U15HY5TG8",
+        "ts": "1515073554.000157"
+    },
+    {
+        "type": "message",
+        "text": "Yeah Zywave IT just sent out an email saying they are going to be doing server maintenance and patches to protect against a recently found exploit in Intel's processors",
+        "user": "U15HSHSS2",
+        "ts": "1515079726.000041"
+    },
+    {
+        "type": "message",
+        "text": "I don't understand how people find exploits like this",
+        "user": "U15HSHSS2",
+        "ts": "1515079752.000348"
+    },
+    {
+        "type": "message",
+        "text": "crazy",
+        "user": "U15HSHSS2",
+        "ts": "1515079754.000838"
+    },
+    {
+        "type": "message",
+        "text": "Damn google has a team specifically for finding exploits in stuff <https:\/\/en.wikipedia.org\/wiki\/Project_Zero>",
+        "user": "U15HSHSS2",
+        "ts": "1515080597.000682",
+        "attachments": [
+            {
+                "title": "Project Zero",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Project_Zero",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "Project Zero is the name of a team of security analysts employed by Google tasked with finding zero-day vulnerabilities. It was announced on 15 July 2014.",
+                "fallback": "wikipedia: Project Zero",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "They are the ones who found these intel exploits",
+        "user": "U15HSHSS2",
+        "ts": "1515080635.000298"
+    },
+    {
+        "type": "message",
+        "text": "and Heartbleed",
+        "user": "U15HSHSS2",
+        "ts": "1515080648.000336"
+    },
+    {
+        "type": "message",
+        "text": "hmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1515080759.000181"
+    },
+    {
+        "type": "message",
+        "text": "``` fits into the larger trend of Google's counter-surveillance initiatives in the wake of the 2013 global surveillance disclosures by Edward Snowden```",
+        "user": "U15HRTAHL",
+        "ts": "1515080782.000381"
+    },
+    {
+        "type": "message",
+        "text": "Google was part of the PRISM program",
+        "user": "U15HRTAHL",
+        "ts": "1515080791.000064"
+    },
+    {
+        "type": "message",
+        "text": "Huh",
+        "user": "U15HY5TG8",
+        "ts": "1515089523.000227"
+    },
+    {
+        "type": "message",
+        "text": "they're bitching its too big",
+        "user": "U15HRTAHL",
+        "ts": "1515089534.000461"
+    },
+    {
+        "type": "message",
+        "text": "What is? A merge to main?",
+        "user": "U15HY5TG8",
+        "ts": "1515089558.000108"
+    },
+    {
+        "type": "message",
+        "text": "merge to dev which holds all the stuff going to main",
+        "user": "U15HRTAHL",
+        "ts": "1515089580.000591"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1515089650.000343"
+    }
+]

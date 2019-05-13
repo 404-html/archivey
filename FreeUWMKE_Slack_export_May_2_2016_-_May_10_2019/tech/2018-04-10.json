@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=mZaec_mlq9M>",
+        "user": "U15HSHSS2",
+        "ts": "1523396605.000299",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mark Zuckerberg testifies before Congress - watch live",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=mZaec_mlq9M",
+                "author_name": "Guardian News",
+                "author_link": "https:\/\/www.youtube.com\/user\/guardianwires",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/mZaec_mlq9M\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mark Zuckerberg testifies before Congress - watch live",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/mZaec_mlq9M?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=mZaec_mlq9M",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

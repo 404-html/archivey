@@ -1,0 +1,136 @@
+[
+    {
+        "client_msg_id": "03727579-3fad-4235-ba69-9504222cc29b",
+        "type": "message",
+        "text": "Have you guys heard of 1Password?",
+        "user": "U15HSHSS2",
+        "ts": "1533157706.000245"
+    },
+    {
+        "client_msg_id": "cdd6df60-4fce-4ee3-8b85-ad0126c98daf",
+        "type": "message",
+        "text": "<https:\/\/1password.com\/>",
+        "user": "U15HSHSS2",
+        "ts": "1533157709.000424",
+        "attachments": [
+            {
+                "service_name": "1Password",
+                "title": "The best password manager | 1Password",
+                "title_link": "https:\/\/1password.com\/",
+                "text": "A password manager, digital vault, random password generator, form filler and secure digital wallet. 1Password remembers all your passwords for you, and keeps you safe behind the one password that only you know.",
+                "fallback": "1Password: The best password manager | 1Password",
+                "from_url": "https:\/\/1password.com\/",
+                "service_icon": "https:\/\/1password.com\/icons\/apple-touch-icon-180x180-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/1password.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5464f6e2-795f-4b22-8b98-0ff6b1433944",
+        "type": "message",
+        "text": "considering using it",
+        "user": "U15HSHSS2",
+        "ts": "1533157715.000068"
+    },
+    {
+        "client_msg_id": "eda8d65b-7da8-4a3c-ba74-463bcff2dfb6",
+        "type": "message",
+        "text": "I use LastPass",
+        "user": "U15J5H60P",
+        "ts": "1533157727.000296"
+    },
+    {
+        "client_msg_id": "CA51B85F-D9EA-4F22-96E9-4C4D247D446A",
+        "type": "message",
+        "text": "I use it",
+        "user": "U15HZ01QX",
+        "ts": "1533157729.000195"
+    },
+    {
+        "client_msg_id": "9aa9bb53-7c4e-4bdb-86f0-d51606b3afa9",
+        "type": "message",
+        "text": "What's LastPass?",
+        "user": "U15HSHSS2",
+        "ts": "1533157738.000196"
+    },
+    {
+        "client_msg_id": "E8FD702B-29DF-488F-9926-4363A0B9C97C",
+        "type": "message",
+        "text": "Same idea",
+        "user": "U15J5H60P",
+        "ts": "1533157755.000201"
+    },
+    {
+        "client_msg_id": "db7ddf80-c70e-4564-babe-4209d62bfe14",
+        "type": "message",
+        "text": "Have you heard of keeping all your passwords with me?",
+        "user": "U15HRTAHL",
+        "ts": "1533157776.000037"
+    },
+    {
+        "client_msg_id": "04cf95bc-d5b6-4566-a88f-c7b2f2482edf",
+        "type": "message",
+        "text": "I won’t share them",
+        "user": "U15HRTAHL",
+        "ts": "1533157781.000109"
+    },
+    {
+        "client_msg_id": "48ac7296-5e4b-49c0-8cd5-758c1ffc81a5",
+        "type": "message",
+        "text": "and I’ll keep them mentally so no one can hack the DB",
+        "user": "U15HRTAHL",
+        "ts": "1533157791.000480"
+    },
+    {
+        "client_msg_id": "1D63A76D-86F5-4016-A651-7E884FAA4899",
+        "type": "message",
+        "text": "I write them on post its",
+        "user": "U15J5H60P",
+        "ts": "1533157808.000387"
+    },
+    {
+        "client_msg_id": "3adf8d47-eab1-4da9-8cbc-dc081bcd42dd",
+        "type": "message",
+        "text": "I will break under water boarding though",
+        "user": "U15HRTAHL",
+        "ts": "1533157808.000495",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0a2eebde-c2fa-4cab-9a66-a8879973d4c4",
+        "type": "message",
+        "text": "<@U15HZ01QX> how do you like it?",
+        "user": "U15HSHSS2",
+        "ts": "1533157894.000272"
+    },
+    {
+        "client_msg_id": "B9FD0821-4E3B-4FD7-9004-831CAF1DEC0A",
+        "type": "message",
+        "text": "It’s fine. It stores passwords. I use iPhone password stuff more often but it’s whatever ",
+        "user": "U15HZ01QX",
+        "ts": "1533157957.000014"
+    },
+    {
+        "client_msg_id": "1937c24a-1f77-4bf6-808f-cc0fd6331139",
+        "type": "message",
+        "text": "<@U15J5H60P> do you pay for LastPass?",
+        "user": "U15HSHSS2",
+        "ts": "1533158444.000376"
+    },
+    {
+        "client_msg_id": "3F404262-8D62-4544-AD6D-6528D8A3D64E",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1533158460.000200"
+    }
+]

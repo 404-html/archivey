@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1497923035.955548"
+    },
+    {
+        "type": "message",
+        "text": "When was the last time you wiped your Mac?",
+        "user": "U15J5H60P",
+        "ts": "1497923043.956582"
+    },
+    {
+        "type": "message",
+        "text": "End of the semester. Why?",
+        "user": "U15HRTAHL",
+        "ts": "1497923098.963858"
+    },
+    {
+        "type": "message",
+        "text": "Mine is just about ready for another wipe. J curious if you recently had to.",
+        "user": "U15J5H60P",
+        "ts": "1497923135.968805"
+    },
+    {
+        "type": "message",
+        "text": "I haven't used mine much tbh lol",
+        "user": "U15HRTAHL",
+        "ts": "1497923153.971167"
+    },
+    {
+        "type": "message",
+        "text": "Ah gotcha. lol Well if any of y’all need to provision your Macs ever, I made a script to install all the basics",
+        "user": "U15J5H60P",
+        "ts": "1497923198.977030"
+    },
+    {
+        "type": "message",
+        "text": "```#!\/bin\/bash\nVERSION=\"v0.0.1\"\n\n# Clean Mac setup\n# \n\n\n# Check for Homebrew,\n# Install if we don't have it\n\nif test ! $(which brew); then\n  echo \"Installing homebrew...\"\n  ruby -e \"$(curl -fsSL <https:\/\/raw.githubusercontent.com\/Homebrew\/install\/master\/install>)\"\nfi\n\n# Update Homebrew Recipes\nbrew update\n\nbinaries=(\n    node\n    git\n    python\n)\n\necho \"Installing binaries...\"\nbrew install ${binaries[@]}\n\nbrew cleanup\n\necho \"Installing Cask...\"\nbrew install caskroom\/cask\n\napps=(\n    google-chrome\n    slack\n    spotify\n    visual-studio-code\n    vlc\n)\n\n#Install apps\necho \"Installing apps...\"\nbrew cask install ${apps[@]}\n\n\n#Install fonts\nfonts=(\n    font-clear-sans\n    font-roboto\n)\n\necho \"Installing fonts...\"\nbrew cask install ${fonts[@]}```",
+        "user": "U15J5H60P",
+        "ts": "1497923201.977371"
+    },
+    {
+        "type": "message",
+        "text": "I guess I should probably have that install Java as well…",
+        "user": "U15J5H60P",
+        "ts": "1497923224.980355"
+    },
+    {
+        "type": "message",
+        "text": "It’s a work in progress as I prepare to wipe my Macbook lol",
+        "user": "U15J5H60P",
+        "ts": "1497923235.981661"
+    },
+    {
+        "type": "message",
+        "text": "Whyd you guys wipe your macs?",
+        "user": "U15HY5TG8",
+        "ts": "1497923242.982675"
+    },
+    {
+        "type": "message",
+        "text": "Too much shit on it",
+        "user": "U15J5H60P",
+        "ts": "1497923250.983692"
+    },
+    {
+        "type": "message",
+        "text": "My Macbook came with 128GB of storage. Shit gets eaten up quick…",
+        "user": "U15J5H60P",
+        "ts": "1497923266.985905"
+    },
+    {
+        "type": "message",
+        "text": "Macbook “Pro”",
+        "user": "U15J5H60P",
+        "ts": "1497923274.987029"
+    },
+    {
+        "type": "message",
+        "text": "With 128GB of storage.",
+        "user": "U15J5H60P",
+        "ts": "1497923280.987816"
+    },
+    {
+        "type": "message",
+        "text": "That’s what I call some :poop:",
+        "user": "U15J5H60P",
+        "ts": "1497923286.988576"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1497923293.989595"
+    },
+    {
+        "type": "message",
+        "text": "Wait 128? Am i reading the storage wrong when it says my macintosh hd has 750? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1497923375.000836"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, the old Macbook Pros came with a shitton more storage because they were Laptop HDDs",
+        "user": "U15J5H60P",
+        "ts": "1497923402.004538"
+    },
+    {
+        "type": "message",
+        "text": "Now there’s solid state storage in them I think that’s soldered onto the board.",
+        "user": "U15J5H60P",
+        "ts": "1497923416.006425"
+    },
+    {
+        "type": "message",
+        "text": "When is yours from?",
+        "user": "U15HY5TG8",
+        "ts": "1497923428.008062"
+    },
+    {
+        "type": "message",
+        "text": "I have the Early 2015 model",
+        "user": "U15J5H60P",
+        "ts": "1497923448.010869"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1497923486.016045"
+    }
+]

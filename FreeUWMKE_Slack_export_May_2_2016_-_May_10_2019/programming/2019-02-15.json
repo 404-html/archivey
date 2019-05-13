@@ -1,0 +1,679 @@
+[
+    {
+        "client_msg_id": "2a40578c-7b0c-4431-94bc-194fbbee9b12",
+        "type": "message",
+        "text": "<@U15J5H60P> can you log into aws console and see if you have any rds snapshots",
+        "user": "U15HRTAHL",
+        "ts": "1550243274.000400"
+    },
+    {
+        "client_msg_id": "46c63df0-7cd2-4ce4-b1ab-c64f82a1d304",
+        "type": "message",
+        "text": "Where are they?",
+        "user": "U15J5H60P",
+        "ts": "1550243904.000600"
+    },
+    {
+        "client_msg_id": "c9fa8291-112e-4a45-b5f7-3e8ab0aa95fd",
+        "type": "message",
+        "text": "Under RDS?",
+        "user": "U15J5H60P",
+        "ts": "1550243906.000800"
+    },
+    {
+        "client_msg_id": "8e8ee391-a4fb-4ed0-968b-40203147b1b8",
+        "type": "message",
+        "text": "Dude",
+        "user": "U15J5H60P",
+        "ts": "1550243990.001000"
+    },
+    {
+        "client_msg_id": "21bc6dd6-837a-4194-bfbb-6d04d112b802",
+        "type": "message",
+        "text": "No Snapshots",
+        "user": "U15J5H60P",
+        "ts": "1550243992.001200"
+    },
+    {
+        "client_msg_id": "6df28c5c-842b-494f-bfe9-a198cb3263e9",
+        "type": "message",
+        "text": "No RDS",
+        "user": "U15J5H60P",
+        "ts": "1550243994.001500"
+    },
+    {
+        "client_msg_id": "928b2406-ddc3-4a0e-907f-ede065a9fc40",
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15J5H60P",
+        "ts": "1550243995.001700"
+    },
+    {
+        "client_msg_id": "be8e2222-ba71-41ab-871c-732e11f73517",
+        "type": "message",
+        "text": "All of my dbs are gone",
+        "user": "U15J5H60P",
+        "ts": "1550244008.001900"
+    },
+    {
+        "client_msg_id": "44BD5C65-CEF0-4820-B639-BE6C88B1C92B",
+        "type": "message",
+        "text": "All because you didnt want to pay $.11",
+        "user": "U15HY5TG8",
+        "ts": "1550244037.002300"
+    },
+    {
+        "client_msg_id": "85a6b5d8-c70c-4b88-b1d7-6a699a47e56a",
+        "type": "message",
+        "text": "My co-worker says snapshots don't cost anything",
+        "user": "U15J5H60P",
+        "ts": "1550244083.002600"
+    },
+    {
+        "client_msg_id": "14324D0E-2407-4F6A-A978-D7FB3395F804",
+        "type": "message",
+        "text": "I was just fucking with you",
+        "user": "U15HY5TG8",
+        "ts": "1550244201.003100"
+    },
+    {
+        "client_msg_id": "6a68f16a-3543-4a9d-b918-28f558bf3c3d",
+        "type": "message",
+        "text": "```\nHi there,\n\nI trust this email finds you well!\n\nSincerest apologies for any concerns caused by the unexpected charges.\n\nI have reviewed your account and found several other resources remaining idle on the account. Please rest assured, I'll gladly look into a possible billing adjustment, you'll need to terminate these excess resources first. I also want to apologize up front for the long email, I just want to ensure nothing gets overlooked.\n\nTo delete the RDS snapshots still remaining on the account. You can delete your snapshots from the following page in your Management Console: \n\n1. Log in to the AWS Management Console: <https:\/\/us-east-2.console.aws.amazon.com\/rds\/home?region=us-east-2#db-snapshots>: \n2. Choose a Snapshot and click the Delete button. A confirmation dialog box will appear. \n3. Click Yes, Delete. \n\nOnce you've terminated the charging resources, please reply to this case and we'd be happy to proceed with a billing adjustment for the unexpected charges.\n\nLooking forward to hearing back from you soon.\n\nHave a lovely day further!\n\nBest regards,\n\nLK\nAmazon Web Services\n```",
+        "user": "U15HRTAHL",
+        "ts": "1550244202.003300"
+    },
+    {
+        "client_msg_id": "3245d72f-019f-4968-b03d-87079843b5ec",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15J5H60P",
+        "ts": "1550244209.003500"
+    },
+    {
+        "client_msg_id": "83fef9c3-cc96-44d3-9cab-fa34e4c7810d",
+        "type": "message",
+        "text": "I also checked their pricing and it says snapshots don’t cost anything less than 20gb",
+        "user": "U15HRTAHL",
+        "ts": "1550244234.003900"
+    },
+    {
+        "client_msg_id": "024f8bc5-9e62-4c35-af32-3ce07d87ed0a",
+        "type": "message",
+        "text": "sooo I’m guessing it’s just a fuck up",
+        "user": "U15HRTAHL",
+        "ts": "1550244243.004200"
+    },
+    {
+        "client_msg_id": "98daa1f5-583a-4aac-a500-56541c23033d",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15J5H60P",
+        "ts": "1550244274.004500"
+    },
+    {
+        "client_msg_id": "26146663-2e8d-4741-9d66-524a8ba5fe09",
+        "type": "message",
+        "text": "I can't see any of my assets",
+        "user": "U15J5H60P",
+        "ts": "1550244278.004700"
+    },
+    {
+        "client_msg_id": "255e18d9-b20a-4097-a32e-cc708a76b53f",
+        "type": "message",
+        "text": "RDS dbs aren't showing up",
+        "user": "U15J5H60P",
+        "ts": "1550244286.005000"
+    },
+    {
+        "client_msg_id": "3df927c2-36c4-475a-a9f7-6d675435774e",
+        "type": "message",
+        "text": "don’t you have 2 aws accounts?",
+        "user": "U15HRTAHL",
+        "ts": "1550244301.005400"
+    },
+    {
+        "client_msg_id": "22409007-a139-46e3-b2f8-9c9ba67867b3",
+        "type": "message",
+        "text": "are you in the right one?",
+        "user": "U15HRTAHL",
+        "ts": "1550244306.005600"
+    },
+    {
+        "client_msg_id": "69475c1d-25a7-4c59-94d8-cdcf23b0819c",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1550244359.005900"
+    },
+    {
+        "client_msg_id": "aefadb65-0902-4414-83fc-725b1fc3e0b0",
+        "type": "message",
+        "text": "Maybe work is blocking it",
+        "user": "U15J5H60P",
+        "ts": "1550244370.006100"
+    },
+    {
+        "client_msg_id": "3e87d66f-4eb8-4523-b4b4-cf5277f86aa0",
+        "type": "message",
+        "text": "My app is still working",
+        "user": "U15J5H60P",
+        "ts": "1550244374.006300"
+    },
+    {
+        "client_msg_id": "9c3c388b-8c5f-4525-be43-9f7d8bc8f410",
+        "type": "message",
+        "text": "I can't see my lambdas either",
+        "user": "U15J5H60P",
+        "ts": "1550244379.006500"
+    },
+    {
+        "client_msg_id": "622c36a0-8617-4673-9ed9-8af9d44e0b73",
+        "type": "message",
+        "text": "fascinating",
+        "user": "U15HRTAHL",
+        "ts": "1550244384.006700"
+    },
+    {
+        "client_msg_id": "5342490b-aab4-470a-ac06-5865863f70c1",
+        "type": "message",
+        "text": "check cloudformation",
+        "user": "U15HRTAHL",
+        "ts": "1550244390.006900"
+    },
+    {
+        "client_msg_id": "d963a26a-e9d6-4852-9915-88d9182e94d8",
+        "type": "message",
+        "text": "I don't use cloudformation",
+        "user": "U15J5H60P",
+        "ts": "1550244448.007100"
+    },
+    {
+        "client_msg_id": "1a32dd69-029e-4fe6-a172-e08c18f2b8d5",
+        "type": "message",
+        "text": "serverless framework converts it to cloudformation",
+        "user": "U15HRTAHL",
+        "ts": "1550244462.007500"
+    },
+    {
+        "client_msg_id": "ec995bd4-96de-47c8-9fa9-501f481796d9",
+        "type": "message",
+        "text": "But nothign is there either",
+        "user": "U15J5H60P",
+        "ts": "1550244464.007600"
+    },
+    {
+        "client_msg_id": "2da1535f-4f45-4807-8d99-7b88f8b9b8ad",
+        "type": "message",
+        "text": "I don't use serverless",
+        "user": "U15J5H60P",
+        "ts": "1550244469.007800"
+    },
+    {
+        "client_msg_id": "938bea86-33c9-45c0-bab5-4f9614b1f538",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550244470.008000"
+    },
+    {
+        "client_msg_id": "733f104d-33cf-453e-ae40-dd8e0d60a92b",
+        "type": "message",
+        "text": "oooh I thought you were",
+        "user": "U15HRTAHL",
+        "ts": "1550244476.008200"
+    },
+    {
+        "client_msg_id": "bc12bdcd-31c7-427f-aeef-b5ccb05e4a35",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1550244478.008400"
+    },
+    {
+        "client_msg_id": "817b5a9f-f2ed-4aec-94c6-8d6089eb6d23",
+        "type": "message",
+        "text": "there’s no way in aws to see what you’re actually getting billed for and it’s annoying",
+        "user": "U15HRTAHL",
+        "ts": "1550244656.009000"
+    },
+    {
+        "client_msg_id": "bb783473-d50a-42a5-874d-3dc467d91906",
+        "type": "message",
+        "text": "like it doesn’t breakdown any further than the service itself(RDS)",
+        "user": "U15HRTAHL",
+        "ts": "1550244684.009500"
+    },
+    {
+        "client_msg_id": "931f8614-7e46-4dee-816b-03f39f3d6d53",
+        "type": "message",
+        "text": "nvm found the page where you can see the details",
+        "user": "U15HRTAHL",
+        "ts": "1550245130.009800"
+    },
+    {
+        "client_msg_id": "f266177d-ef9c-4487-b53e-8c994b31402c",
+        "type": "message",
+        "text": "<@U15J5H60P> if you delete an RDS instance make sure you delete the backup with it",
+        "user": "U15HRTAHL",
+        "ts": "1550245182.010500"
+    },
+    {
+        "client_msg_id": "7fa27b66-42b6-41c6-8458-05fc75068870",
+        "type": "message",
+        "text": "I guess it automatically snapshots it when you delete it",
+        "user": "U15HRTAHL",
+        "ts": "1550245193.010800"
+    },
+    {
+        "client_msg_id": "4613419a-a884-4afd-bba0-327ec78e7dc8",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1550245330.011000"
+    },
+    {
+        "client_msg_id": "36b73efe-c155-4ed8-925a-63be5b63ce91",
+        "type": "message",
+        "text": "Is that what you were being charged for?",
+        "user": "U15J5H60P",
+        "ts": "1550245342.011200"
+    },
+    {
+        "client_msg_id": "539ab5d0-5390-46d4-9bcf-77c98f12e466",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1550245372.011400"
+    },
+    {
+        "client_msg_id": "a5986429-19c3-4c5d-90c6-4d7bf645507d",
+        "type": "message",
+        "text": "Did they waive it?",
+        "user": "U15J5H60P",
+        "ts": "1550245378.011700"
+    },
+    {
+        "client_msg_id": "1057aaed-fe17-4581-9c3b-bb6563d7d5eb",
+        "type": "message",
+        "text": "I had 2 snapshots",
+        "user": "U15HRTAHL",
+        "ts": "1550245378.011800"
+    },
+    {
+        "client_msg_id": "c464a110-06be-45b8-b9fd-08d74b12ed35",
+        "type": "message",
+        "text": "1 is free",
+        "user": "U15HRTAHL",
+        "ts": "1550245380.012000"
+    },
+    {
+        "client_msg_id": "5c67f54a-7058-439e-9319-a9aff94c438f",
+        "type": "message",
+        "text": "the other is not",
+        "user": "U15HRTAHL",
+        "ts": "1550245382.012200"
+    },
+    {
+        "client_msg_id": "e5ec6793-7a91-4c83-8b05-66ad70ce7f63",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1550245391.012500"
+    },
+    {
+        "client_msg_id": "0b5dab6d-8669-4ff1-93c4-4bdfe346b985",
+        "type": "message",
+        "text": "yeah they waived it",
+        "user": "U15HRTAHL",
+        "ts": "1550245394.012600"
+    },
+    {
+        "client_msg_id": "27a3eb9c-10bf-476d-9ab4-6b5d0f29fc56",
+        "type": "message",
+        "text": "Saweet",
+        "user": "U15J5H60P",
+        "ts": "1550245401.012900"
+    },
+    {
+        "client_msg_id": "87bb5574-4a6f-4b6f-9ce2-c81107f29d29",
+        "type": "message",
+        "text": "so dumb",
+        "user": "U15HRTAHL",
+        "ts": "1550245404.013000"
+    },
+    {
+        "client_msg_id": "7431386d-c928-4655-8515-07887a95f16b",
+        "type": "message",
+        "text": "I agre",
+        "user": "U15J5H60P",
+        "ts": "1550245415.013200"
+    },
+    {
+        "client_msg_id": "c6faf510-9c15-4003-b83f-2a61d2e4e71f",
+        "type": "message",
+        "text": "e",
+        "user": "U15J5H60P",
+        "ts": "1550245416.013400"
+    },
+    {
+        "client_msg_id": "00076be9-b396-4d53-b868-80a0ff6fe273",
+        "type": "message",
+        "text": "I think it's dumb that you only get 1 year of free tier",
+        "user": "U15J5H60P",
+        "ts": "1550245423.013700"
+    },
+    {
+        "client_msg_id": "039e895a-75e2-4d55-bd46-322bcb37e532",
+        "type": "message",
+        "text": "It should honestly be unliimited",
+        "user": "U15J5H60P",
+        "ts": "1550245427.013900"
+    },
+    {
+        "client_msg_id": "3840fa89-71ca-4279-960b-219c454af0f9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1550245435.014100"
+    },
+    {
+        "client_msg_id": "a21bb1e0-37fd-4762-90f7-1410a0d91635",
+        "type": "message",
+        "text": "some services are free forever",
+        "user": "U15HRTAHL",
+        "ts": "1550245441.014300"
+    },
+    {
+        "client_msg_id": "c4ed718d-7856-427f-97e3-1e1cfde6f730",
+        "type": "message",
+        "text": "within a range",
+        "user": "U15HRTAHL",
+        "ts": "1550245449.014700"
+    },
+    {
+        "client_msg_id": "eaf7eed9-9b7f-447e-9656-73aec612699b",
+        "type": "message",
+        "text": "This is why Google cloud is better",
+        "user": "U15HRTAHL",
+        "ts": "1550245456.015000"
+    },
+    {
+        "client_msg_id": "63690ec1-e933-4ca0-8679-bdaa70f04076",
+        "type": "message",
+        "text": "they give you $300 to experiment with",
+        "user": "U15HRTAHL",
+        "ts": "1550245464.015300"
+    },
+    {
+        "client_msg_id": "56b64318-4689-4496-b716-d1b6da24898e",
+        "type": "message",
+        "text": "and get used to surprise charges",
+        "user": "U15HRTAHL",
+        "ts": "1550245470.015600"
+    },
+    {
+        "client_msg_id": "3a7298ae-96b9-4dae-bef4-cfdf83edf8f3",
+        "type": "message",
+        "text": "That's like 3 years of an RDS",
+        "user": "U15J5H60P",
+        "ts": "1550245506.016300"
+    },
+    {
+        "client_msg_id": "fc86f4ad-4f24-4df4-abd1-1d9b935221da",
+        "type": "message",
+        "text": "What's GCP's equivalent of a RDS",
+        "user": "U15J5H60P",
+        "ts": "1550245519.016600"
+    },
+    {
+        "client_msg_id": "b51ca677-3e00-4e35-9c7c-9f01e6c32ddb",
+        "type": "message",
+        "text": "Cloud SQL",
+        "user": "U15HRTAHL",
+        "ts": "1550245526.016900"
+    },
+    {
+        "client_msg_id": "15b5d160-e333-4702-8afc-c6cb68d9291f",
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HRTAHL",
+        "ts": "1550245568.017100"
+    },
+    {
+        "client_msg_id": "86f6d621-2128-4282-9171-4f7c691e3ce4",
+        "type": "message",
+        "text": "it’s so much cheaper",
+        "user": "U15HRTAHL",
+        "ts": "1550245571.017300"
+    },
+    {
+        "client_msg_id": "632517ac-b38b-4642-9cc9-0c2e84c70e38",
+        "type": "message",
+        "text": "```db-f1-micro*\tShared\t0.6\t3,062 GB\t250\tN\/A\t$7.67```",
+        "user": "U15HRTAHL",
+        "ts": "1550245574.017500"
+    },
+    {
+        "client_msg_id": "7f76be42-43ba-4813-a19f-db140b1e94a0",
+        "type": "message",
+        "text": "```\nMachine Type\tVirtual CPUs\tRAM (GB)\tMaximum Storage Capacity\tMaximum Connections\tPrice (USD)\tSustained Use Price (USD)\ndb-f1-micro*\tShared\t0.6\t3,062 GB\t250\tN\/A\t\n```",
+        "user": "U15HRTAHL",
+        "ts": "1550245587.017700"
+    },
+    {
+        "client_msg_id": "87fb3462-cc48-494c-9795-4015b02227b7",
+        "type": "message",
+        "text": "3k gb",
+        "user": "U15HRTAHL",
+        "ts": "1550245598.018000"
+    },
+    {
+        "client_msg_id": "9b753930-c6b7-48a3-ba09-3e212bab536e",
+        "type": "message",
+        "text": "rds is 20gb",
+        "user": "U15HRTAHL",
+        "ts": "1550245602.018200"
+    },
+    {
+        "client_msg_id": "c325d04d-9b63-4cb6-919d-218ac906bda7",
+        "type": "message",
+        "text": "and double the price",
+        "user": "U15HRTAHL",
+        "ts": "1550245610.018400"
+    },
+    {
+        "client_msg_id": "cacf83ea-949c-4115-b4a6-dda3d1b91b5d",
+        "type": "message",
+        "text": "You should switch to GCP!",
+        "user": "U15J5H60P",
+        "ts": "1550245634.018600"
+    },
+    {
+        "client_msg_id": "bbe56dd0-8299-4186-a8d7-455f2e45fa72",
+        "type": "message",
+        "text": "Jeez",
+        "user": "U15J5H60P",
+        "ts": "1550245640.018800"
+    },
+    {
+        "client_msg_id": "3babf622-6e54-41c3-b765-37a68db7ae5f",
+        "type": "message",
+        "text": "I wonder if I owe google money",
+        "user": "U15J5H60P",
+        "ts": "1550245644.019000"
+    },
+    {
+        "client_msg_id": "6522aae8-1181-4df6-90ae-cced4270726b",
+        "type": "message",
+        "text": "I have my website running on Google App Engine",
+        "user": "U15J5H60P",
+        "ts": "1550245654.019300"
+    },
+    {
+        "client_msg_id": "e77a4c31-a9f6-4d1a-9ae2-d995808ffe15",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1550245634018600>",
+        "user": "U15HRTAHL",
+        "ts": "1550245682.019600",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1550245634018600",
+                "fallback": "[February 15th, 2019 7:47 AM] andrew: You should switch to GCP!",
+                "ts": "1550245634.018600",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "You should switch to GCP!",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/476971610272_c7b7e69ed939f91c37dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1550245634018600",
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2a1a463-5c9e-47b4-a315-f9dd3c25e4f8",
+        "type": "message",
+        "text": "I want to",
+        "user": "U15HRTAHL",
+        "ts": "1550245683.019900"
+    },
+    {
+        "client_msg_id": "a2fda162-5cb7-40ac-a727-f38153d16bf8",
+        "type": "message",
+        "text": "but everyone is using aws",
+        "user": "U15HRTAHL",
+        "ts": "1550245688.020100"
+    },
+    {
+        "client_msg_id": "788a41c6-37ef-4aae-835d-17a0cab97c5c",
+        "type": "message",
+        "text": "you can’t learn these things no one is using and be marketable",
+        "user": "U15HRTAHL",
+        "ts": "1550245710.020500"
+    },
+    {
+        "client_msg_id": "eaaa860f-ee74-47d0-a5c0-6ae08bc97e04",
+        "type": "message",
+        "text": "<https:\/\/sonnybrooks22.appspot.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1550246270.020700",
+        "attachments": [
+            {
+                "title": "Sonny Brooks Studios",
+                "title_link": "https:\/\/sonnybrooks22.appspot.com\/",
+                "text": "A Milwaukee based web design and marketing firm specializing in web and mobile application development.",
+                "fallback": "Sonny Brooks Studios",
+                "from_url": "https:\/\/sonnybrooks22.appspot.com\/",
+                "service_icon": "https:\/\/sonnybrooks22.appspot.com\/favicon.ico",
+                "service_name": "sonnybrooks22.appspot.com",
+                "id": 1,
+                "original_url": "https:\/\/sonnybrooks22.appspot.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4622785-2a3d-4800-acdc-8b2b62ac52d4",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550246271.021000"
+    },
+    {
+        "client_msg_id": "18ef3b11-2894-43ca-9b4e-987a992d3044",
+        "type": "message",
+        "text": "Found it",
+        "user": "U15J5H60P",
+        "ts": "1550246273.021200"
+    },
+    {
+        "client_msg_id": "9a6d8b09-c6b2-40ff-9dc0-0baa523bac74",
+        "type": "message",
+        "text": "Costs nothing",
+        "user": "U15J5H60P",
+        "ts": "1550246275.021400"
+    },
+    {
+        "client_msg_id": "5d51a6fc-80c0-4538-9ad2-73e09370df46",
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HRTAHL",
+        "ts": "1550246302.021600"
+    },
+    {
+        "client_msg_id": "368735ab-6274-49e3-98e8-756ce20a6bc7",
+        "type": "message",
+        "text": "that vlocity cases domain is 2k",
+        "user": "U15HRTAHL",
+        "ts": "1550246308.021800"
+    },
+    {
+        "client_msg_id": "d058bfee-c3e3-4d2f-9c56-48badae52438",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550246315.022100"
+    },
+    {
+        "client_msg_id": "484b830d-77e6-4630-a753-e24104dfadae",
+        "type": "message",
+        "text": "<https:\/\/cs395ethics.appspot.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1550246445.022300"
+    },
+    {
+        "client_msg_id": "8b23125c-80e1-4d1f-b961-f16fa7021aa0",
+        "type": "message",
+        "text": "<https:\/\/portsidepercussionsbs.appspot.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1550246489.022500",
+        "attachments": [
+            {
+                "title": "Stolfe's Portside Percussion",
+                "title_link": "https:\/\/portsidepercussionsbs.appspot.com\/",
+                "text": "Stolfe's Portside Percussion Studio",
+                "fallback": "Stolfe's Portside Percussion",
+                "from_url": "https:\/\/portsidepercussionsbs.appspot.com\/",
+                "service_name": "portsidepercussionsbs.appspot.com",
+                "id": 1,
+                "original_url": "https:\/\/portsidepercussionsbs.appspot.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7ef4c197-84b4-4e4e-b54c-80a25a7ac453",
+        "type": "message",
+        "text": "<https:\/\/abudziszek-dev.appspot.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1550246500.022800"
+    },
+    {
+        "client_msg_id": "9b7952bf-6881-47dc-bf82-fc493ef62a31",
+        "type": "message",
+        "text": "WTF",
+        "user": "U15J5H60P",
+        "ts": "1550246501.023000"
+    },
+    {
+        "client_msg_id": "b70fcd07-9492-4222-90ba-30db6988b74a",
+        "type": "message",
+        "text": "lmao I’m sending that to adam",
+        "user": "U15HRTAHL",
+        "ts": "1550246532.023300"
+    },
+    {
+        "client_msg_id": "ff695b1a-036d-4d36-881f-528032b71166",
+        "type": "message",
+        "text": "I have 4 sites up",
+        "user": "U15J5H60P",
+        "ts": "1550246533.023400"
+    }
+]

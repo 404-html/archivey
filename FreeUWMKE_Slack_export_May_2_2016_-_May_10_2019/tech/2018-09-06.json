@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "991e1008-e01b-413c-969d-542b28eff752",
+        "type": "message",
+        "text": "What do you guys think is the best game you guys have played that you really got immersed into?",
+        "user": "U15HRTAHL",
+        "ts": "1536244758.000100"
+    },
+    {
+        "client_msg_id": "4ae5cc6f-5d5d-482b-949e-eaac84dcd472",
+        "type": "message",
+        "text": "For ev that’s gotta be gta",
+        "user": "U15HRTAHL",
+        "ts": "1536244770.000100"
+    },
+    {
+        "client_msg_id": "B705843D-4C4B-4B81-A7AF-8A22F5C69D10",
+        "type": "message",
+        "text": "Yeah for sure lol",
+        "user": "U15HY5TG8",
+        "ts": "1536244790.000100"
+    },
+    {
+        "client_msg_id": "459323BA-4E06-4224-B50D-2923A826F3F0",
+        "type": "message",
+        "text": "The only game ive done a story for",
+        "user": "U15HY5TG8",
+        "ts": "1536244799.000300"
+    },
+    {
+        "client_msg_id": "3bf9cf2e-0262-4d2e-be48-64e07d662252",
+        "type": "message",
+        "text": "Let's take this to #video-gaming",
+        "user": "U15J5H60P",
+        "ts": "1536244807.000100"
+    },
+    {
+        "client_msg_id": "7ed991c6-faad-4f2d-93ee-beb275ddd84f",
+        "type": "message",
+        "text": "whoops",
+        "user": "U15HRTAHL",
+        "ts": "1536244814.000100"
+    },
+    {
+        "client_msg_id": "55b88965-c0ee-4d63-a537-dc2041a43b31",
+        "type": "message",
+        "text": "I thought you might've gone to the wrong channel by accident :slightly_smiling_face:",
+        "user": "U15J5H60P",
+        "ts": "1536244835.000100"
+    },
+    {
+        "client_msg_id": "e527546d-f63e-4db5-b22e-9aa9ade0fde5",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1536258535.000200"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1536258535.000300",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media0.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    }
+]

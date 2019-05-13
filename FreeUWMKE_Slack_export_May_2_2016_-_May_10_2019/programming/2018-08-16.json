@@ -1,0 +1,532 @@
+[
+    {
+        "client_msg_id": "d094556d-5cfc-44c1-b811-754ae0537549",
+        "type": "message",
+        "text": "<@U15J5H60P> is app background processing possible with ios?",
+        "user": "U15HRTAHL",
+        "ts": "1534445170.000100"
+    },
+    {
+        "client_msg_id": "65dfafa0-f38f-486c-8785-df143a088977",
+        "type": "message",
+        "text": "Like when the app isn’t even open it can still process stuff periodically in the background?",
+        "user": "U15HRTAHL",
+        "ts": "1534445191.000100"
+    },
+    {
+        "client_msg_id": "f686b005-1b3a-4097-a5b4-92d571093beb",
+        "type": "message",
+        "text": "Yes - but there are limitations",
+        "user": "U15J5H60P",
+        "ts": "1534445264.000100"
+    },
+    {
+        "client_msg_id": "eb8d0993-f674-4fd0-a70a-96fb7ed1fab9",
+        "type": "message",
+        "text": "You can fetch data",
+        "user": "U15J5H60P",
+        "ts": "1534445268.000100"
+    },
+    {
+        "client_msg_id": "4b8c5887-6aaf-435a-bc02-babe2007e928",
+        "type": "message",
+        "text": "You can communicate with external bluetooth devices",
+        "user": "U15J5H60P",
+        "ts": "1534445293.000100"
+    },
+    {
+        "client_msg_id": "2ad8069c-6691-43f1-9455-4d8f01869f49",
+        "type": "message",
+        "text": "Update location",
+        "user": "U15J5H60P",
+        "ts": "1534445296.000100"
+    },
+    {
+        "client_msg_id": "593a76c6-188f-4cca-aa22-ecff44870c70",
+        "type": "message",
+        "text": "What about getting current location and posting that to a server?",
+        "user": "U15HRTAHL",
+        "ts": "1534445302.000100"
+    },
+    {
+        "client_msg_id": "61ff7bee-58ca-4845-a71f-d1f5530e89d6",
+        "type": "message",
+        "text": "Cool",
+        "user": "U15HRTAHL",
+        "ts": "1534445306.000100"
+    },
+    {
+        "client_msg_id": "34d85ea0-7848-488b-aadd-3e8d0a5a0682",
+        "type": "message",
+        "text": "Not sure if you can post it to a server.",
+        "user": "U15J5H60P",
+        "ts": "1534445311.000100"
+    },
+    {
+        "client_msg_id": "3953eb71-31b4-424b-a713-3d62ceac35b3",
+        "type": "message",
+        "text": "It might be possible.",
+        "user": "U15J5H60P",
+        "ts": "1534445317.000100"
+    },
+    {
+        "client_msg_id": "65e98b8f-16b7-4e3d-9561-4861bcca12b5",
+        "type": "message",
+        "text": "it’s essentially the same thing as fetching data",
+        "user": "U15HRTAHL",
+        "ts": "1534445325.000200"
+    },
+    {
+        "client_msg_id": "1f340abf-9191-438e-b733-24e2a4b4da1c",
+        "type": "message",
+        "text": "You can fetch, so I'd have to imagine you can do something",
+        "user": "U15J5H60P",
+        "ts": "1534445338.000100"
+    },
+    {
+        "client_msg_id": "e92f0fc7-4a28-4b98-8800-09a7de4b0aee",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1534445340.000100"
+    },
+    {
+        "client_msg_id": "35f65e23-79b8-4668-b345-1ac02a94ef30",
+        "type": "message",
+        "text": "For a while I know they were pretty strict on background processing",
+        "user": "U15J5H60P",
+        "ts": "1534445353.000100"
+    },
+    {
+        "client_msg_id": "b3edd2ed-64c7-49be-83e2-7afe064b4128",
+        "type": "message",
+        "text": "Yeah which is why I’m curious",
+        "user": "U15HRTAHL",
+        "ts": "1534445363.000100"
+    },
+    {
+        "client_msg_id": "3c611034-40f1-44b5-afa7-9f48af7803f0",
+        "type": "message",
+        "text": "now I’m curious what “background” means",
+        "user": "U15HRTAHL",
+        "ts": "1534445804.000100"
+    },
+    {
+        "client_msg_id": "1b681c7d-46a5-49a6-a801-03ca63144c24",
+        "type": "message",
+        "text": "<https:\/\/developer.apple.com\/documentation\/uikit\/core_app\/managing_your_app_s_life_cycle\/preparing_your_app_to_run_in_the_background\/about_the_background_execution_sequence>",
+        "user": "U15J5H60P",
+        "ts": "1534446986.000200"
+    },
+    {
+        "client_msg_id": "7289fb3a-d5cf-490e-b903-fce4ef0ad5b0",
+        "type": "message",
+        "text": "More or less taking just making the app available to switch to quickly. That way you don't have to wait for your app to load again",
+        "user": "U15J5H60P",
+        "ts": "1534447023.000100"
+    },
+    {
+        "client_msg_id": "c11aa59e-8b32-4c8f-9451-7745b01df105",
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HRTAHL",
+        "ts": "1534447044.000100"
+    },
+    {
+        "client_msg_id": "3aeea8d9-9a67-4780-bdfa-7a6cb39f053a",
+        "type": "message",
+        "text": "It looks like you can pretty much do anything.",
+        "user": "U15J5H60P",
+        "ts": "1534447055.000100"
+    },
+    {
+        "client_msg_id": "ab3e3ced-e667-45ca-974e-2871c4abfde5",
+        "type": "message",
+        "text": "So I’m guessing if the app is not even opened this won’t work",
+        "user": "U15HRTAHL",
+        "ts": "1534447057.000200"
+    },
+    {
+        "client_msg_id": "3a1a6b38-0152-4456-bca6-d92f3c3dcdb0",
+        "type": "message",
+        "text": "it either needs to be int he foreground or behind another app that’s open",
+        "user": "U15HRTAHL",
+        "ts": "1534447070.000100"
+    },
+    {
+        "client_msg_id": "21489626-b3ea-40c2-9416-d14a30d0a77c",
+        "type": "message",
+        "text": "But it'll be a bad UX if the battery is draining",
+        "user": "U15J5H60P",
+        "ts": "1534447074.000100"
+    },
+    {
+        "client_msg_id": "44661218-922f-4c65-8780-e6d99158fa74",
+        "type": "message",
+        "text": "What're you trying to do?",
+        "user": "U15J5H60P",
+        "ts": "1534447082.000100"
+    },
+    {
+        "client_msg_id": "c08b59cf-cca9-4701-bcab-eaf31198b191",
+        "type": "message",
+        "text": "I want to create a “picture frame” map. Essentially I want to put an arduino\/raspberry pi with an lcd screen into a picture frame that polls a server that has the gps coordinates of mine and lilly’s location that updates periodically",
+        "user": "U15HRTAHL",
+        "ts": "1534447272.000200"
+    },
+    {
+        "client_msg_id": "6c9971c4-efe9-403b-ae58-09a1ad2bace9",
+        "type": "message",
+        "text": "the lcd screen will be a google maps view with our icons on it",
+        "user": "U15HRTAHL",
+        "ts": "1534447292.000100"
+    },
+    {
+        "client_msg_id": "5dbc367a-c895-4740-817e-161e830aa457",
+        "type": "message",
+        "text": "So basically find my friends",
+        "user": "U15J5H60P",
+        "ts": "1534447303.000200"
+    },
+    {
+        "client_msg_id": "cc6f4ad6-f064-4a50-be72-972b6c4ee8a0",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1534447307.000100"
+    },
+    {
+        "client_msg_id": "fb202df1-c37f-49f7-9c7e-db683dfbe8c1",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1534447311.000100"
+    },
+    {
+        "client_msg_id": "c5482b19-51eb-4143-b160-35d293d2b515",
+        "type": "message",
+        "text": "but in a picture frame so it’s kind of like a decoration",
+        "user": "U15HRTAHL",
+        "ts": "1534447316.000100"
+    },
+    {
+        "client_msg_id": "557c6a82-19e2-4e1a-8f21-b3726f7524c1",
+        "type": "message",
+        "text": "with android you can periodically run a task in the background even if your app hasn’t been open",
+        "user": "U15HRTAHL",
+        "ts": "1534447433.000100"
+    },
+    {
+        "client_msg_id": "c61f1a3e-c962-4fea-9ce4-12a6783849b9",
+        "type": "message",
+        "text": "stupid androids and their inferior technology",
+        "user": "U15HRTAHL",
+        "ts": "1534447444.000100"
+    },
+    {
+        "client_msg_id": "28362366-4a82-4bd5-ad33-f47a5d947003",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1534447450.000200"
+    },
+    {
+        "client_msg_id": "9de9d18d-eb51-405c-a12e-672a92230fbc",
+        "type": "message",
+        "text": "So if I download an app, never open it - it still can start work?",
+        "user": "U15J5H60P",
+        "ts": "1534447483.000100"
+    },
+    {
+        "client_msg_id": "7b5db5bf-f853-4a5f-8880-cab9ffae57d1",
+        "type": "message",
+        "text": "False, you have to accept the permissions first",
+        "user": "U15HRTAHL",
+        "ts": "1534447513.000100"
+    },
+    {
+        "client_msg_id": "4a1e33b8-8f15-485a-8297-f8bc5aba7156",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1534447518.000100"
+    },
+    {
+        "client_msg_id": "5c2ad7a6-7707-4db9-ab05-9e4f6d81082d",
+        "type": "message",
+        "text": "I mean post closing the app and clearing it from the recent apps",
+        "user": "U15HRTAHL",
+        "ts": "1534447531.000100"
+    },
+    {
+        "client_msg_id": "68c011a2-356d-408a-85a5-26f8a748afb3",
+        "type": "message",
+        "text": "Ah. Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1534447543.000100"
+    },
+    {
+        "client_msg_id": "96fe8edd-7456-43fc-88a6-9e04c44a78fa",
+        "type": "message",
+        "text": "That still sounds sketchy. But I can see how that could be useful for some apps.",
+        "user": "U15J5H60P",
+        "ts": "1534447559.000100"
+    },
+    {
+        "client_msg_id": "1e10ae2b-3277-44e0-98f6-5a938b5de92d",
+        "type": "message",
+        "text": "<https:\/\/developer.android.com\/reference\/android\/app\/AlarmManager>",
+        "user": "U15HRTAHL",
+        "ts": "1534447773.000200"
+    },
+    {
+        "client_msg_id": "f1e391ef-ee00-4cb8-b103-e1265a6c7558",
+        "type": "message",
+        "text": "oh man you can do something really fucking dirty with ios to make this work",
+        "user": "U15HRTAHL",
+        "ts": "1534450117.000100"
+    },
+    {
+        "client_msg_id": "920bd2dc-50b4-4d1a-a44f-92258407b5c0",
+        "type": "message",
+        "text": "that background fetch can be triggered whenever a push notification is recieved",
+        "user": "U15HRTAHL",
+        "ts": "1534450136.000100"
+    },
+    {
+        "client_msg_id": "2548a8fb-6735-4a13-9f79-00ba960da4ec",
+        "type": "message",
+        "text": "just spam push notifications",
+        "user": "U15HRTAHL",
+        "ts": "1534450150.000100"
+    },
+    {
+        "client_msg_id": "81075f76-8b38-46c2-9e1a-e73f01b1a5dc",
+        "type": "message",
+        "text": "#GreatUX",
+        "user": "U15HRTAHL",
+        "ts": "1534450159.000100"
+    },
+    {
+        "client_msg_id": "3FB6A0E3-779B-4EBC-8A4A-9C439F95FA16",
+        "type": "message",
+        "text": "Why couldn't you just make it work without doing that?",
+        "user": "U15J5H60P",
+        "ts": "1534450210.000100"
+    },
+    {
+        "client_msg_id": "7026ad2c-7a75-4894-92a2-0bcebccce0b8",
+        "type": "message",
+        "text": "Because apple won’t let you?",
+        "user": "U15HRTAHL",
+        "ts": "1534450231.000100"
+    },
+    {
+        "client_msg_id": "5ff85b34-8dd7-4881-bc27-a3e7ffd7ba2d",
+        "type": "message",
+        "text": "or without doing it in the background?",
+        "user": "U15HRTAHL",
+        "ts": "1534450281.000100"
+    },
+    {
+        "client_msg_id": "65ee28a5-8e10-4839-b3c5-d2d4670ffc5c",
+        "type": "message",
+        "text": "Oh, it says you can't do that? I didn't know Apple doesn't allow that.",
+        "user": "U15J5H60P",
+        "ts": "1534450335.000100"
+    },
+    {
+        "client_msg_id": "90f2e991-bf5d-49cc-a304-8341638b3d97",
+        "type": "message",
+        "text": "It looks like you can based on this thread - <https:\/\/forums.developer.apple.com\/thread\/20550>",
+        "user": "U15J5H60P",
+        "ts": "1534450429.000200",
+        "attachments": [
+            {
+                "title": "Sending location to a server in the background? |Apple Developer Forums",
+                "title_link": "https:\/\/forums.developer.apple.com\/thread\/20550",
+                "text": "Hi, My app is configured to receive location updates while running in the background. I need to send these updates to a server. I'd like to do it as",
+                "fallback": "Sending location to a server in the background? |Apple Developer Forums",
+                "from_url": "https:\/\/forums.developer.apple.com\/thread\/20550",
+                "service_icon": "https:\/\/www.apple.com\/favicon.ico",
+                "service_name": "forums.developer.apple.com",
+                "id": 1,
+                "original_url": "https:\/\/forums.developer.apple.com\/thread\/20550"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58dd9b21-927c-423f-a74d-9d524388d59a",
+        "type": "message",
+        "text": "We’re back to the “What does background mean”",
+        "user": "U15HRTAHL",
+        "ts": "1534450451.000100"
+    },
+    {
+        "client_msg_id": "85e1f78e-6061-49ea-9567-2c079e01c6a2",
+        "type": "message",
+        "text": "I don’t want the app open at all",
+        "user": "U15HRTAHL",
+        "ts": "1534450459.000100"
+    },
+    {
+        "client_msg_id": "a3bd3001-97f6-497f-9889-4862640f3266",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/35943191\/ios-alternative-for-android-alarmmanager>",
+        "user": "U15HRTAHL",
+        "ts": "1534450466.000100",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "iOS alternative for Android AlarmManager",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/35943191\/ios-alternative-for-android-alarmmanager",
+                "text": "What is iOS Swift 2 alternative to Android AlarmManager. So far the closes thing that I found is NSTimer. But that works only when your application is up, once it goes to the background it won't w...",
+                "fallback": "Stack Overflow: iOS alternative for Android AlarmManager",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/35943191\/ios-alternative-for-android-alarmmanager",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/35943191\/ios-alternative-for-android-alarmmanager"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08038f92-4ff3-4cae-8b82-6ad80de15a50",
+        "type": "message",
+        "text": "Oh.",
+        "user": "U15J5H60P",
+        "ts": "1534450467.000100"
+    },
+    {
+        "client_msg_id": "e991006f-f4ed-4e82-8c30-e35d3b8edbcc",
+        "type": "message",
+        "text": "So when you close an app, you still want it to run.",
+        "user": "U15J5H60P",
+        "ts": "1534450487.000100"
+    },
+    {
+        "client_msg_id": "5d76a2e2-9601-4b4b-80ac-c29d1b99a65c",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1534450489.000200"
+    },
+    {
+        "client_msg_id": "029b0eaf-d78d-405d-b296-15aa560b8332",
+        "type": "message",
+        "text": "Everywhere is saying to use the push notification",
+        "user": "U15HRTAHL",
+        "ts": "1534450502.000100"
+    },
+    {
+        "client_msg_id": "dfa458d2-8551-4fe0-bf44-972fa9180aed",
+        "type": "message",
+        "text": "Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1534450518.000100"
+    },
+    {
+        "client_msg_id": "bd194120-bcc6-4b86-96fd-2449d3741906",
+        "type": "message",
+        "text": "I wonder how many apps use this",
+        "user": "U15HRTAHL",
+        "ts": "1534450542.000100"
+    },
+    {
+        "client_msg_id": "01545ca1-1d0c-493a-a5bc-a707c458272d",
+        "type": "message",
+        "text": "facebook has to if they’re listening in on conversations lol",
+        "user": "U15HRTAHL",
+        "ts": "1534450556.000100"
+    },
+    {
+        "client_msg_id": "9f623f07-387b-4a84-8f23-80e8b0602502",
+        "type": "message",
+        "text": "I wonder how many people close out of their apps",
+        "user": "U15J5H60P",
+        "ts": "1534450609.000200"
+    },
+    {
+        "client_msg_id": "d7eaa23e-0f3e-49d3-a423-d8943e7dd0a2",
+        "type": "message",
+        "text": "You don’t?",
+        "user": "U15HRTAHL",
+        "ts": "1534450625.000100"
+    },
+    {
+        "client_msg_id": "f02e0662-6919-45e1-90e5-c7c6cf079007",
+        "type": "message",
+        "text": "Nope. Almost never.",
+        "user": "U15J5H60P",
+        "ts": "1534450687.000100"
+    },
+    {
+        "client_msg_id": "1353cdc0-01d4-4828-93cb-629614be6765",
+        "type": "message",
+        "text": "Closing your apps does absolutely nothing to improve your battery life according to Apple and Google - <https:\/\/www.wired.com\/2016\/03\/closing-apps-save-battery-makes-things-worse\/>",
+        "user": "U15J5H60P",
+        "ts": "1534450706.000200",
+        "attachments": [
+            {
+                "service_name": "WIRED",
+                "title": "Closing Apps to Save Your Battery Only Makes Things Worse",
+                "title_link": "https:\/\/www.wired.com\/2016\/03\/closing-apps-save-battery-makes-things-worse\/",
+                "text": "Every time you close or swipe an app away on your iPhone, you only make your phone work harder.",
+                "fallback": "WIRED: Closing Apps to Save Your Battery Only Makes Things Worse",
+                "image_url": "https:\/\/media.wired.com\/photos\/59268c1df3e2356fd8009a6a\/2:1\/w_2500,c_limit\/battery_life-01.jpg",
+                "image_width": 499,
+                "image_height": 250,
+                "from_url": "https:\/\/www.wired.com\/2016\/03\/closing-apps-save-battery-makes-things-worse\/",
+                "image_bytes": 8092,
+                "service_icon": "https:\/\/www.wired.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.wired.com\/2016\/03\/closing-apps-save-battery-makes-things-worse\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50bad040-edb7-4134-bc6d-58ebe43e5abb",
+        "type": "message",
+        "text": "&gt;  In fact, says Hiroshi Lockheimer, the VP of Engineering for Android, it might make things worse.",
+        "user": "U15J5H60P",
+        "ts": "1534450720.000200"
+    },
+    {
+        "client_msg_id": "15aaf0db-50e8-4679-bf54-4db0b051a4f1",
+        "type": "message",
+        "text": "The only time I close out of apps is if they freeze up.",
+        "user": "U15J5H60P",
+        "ts": "1534450762.000100"
+    },
+    {
+        "client_msg_id": "c6b692e3-c4a6-4f58-8c78-4decc2d3bd74",
+        "type": "message",
+        "text": "Fascinating",
+        "user": "U15HRTAHL",
+        "ts": "1534450767.000100"
+    },
+    {
+        "type": "message",
+        "text": "I even have an option to close them all at once",
+        "files": [
+            {
+                "id": "FC9TU9TFD",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": null,
+        "ts": "1534450894.000100",
+        "client_msg_id": "7325bc0f-05df-4765-88fb-73d9b4abeed8"
+    },
+    {
+        "client_msg_id": "22cc94c5-b22a-45da-92bb-cb095a3fdc3d",
+        "type": "message",
+        "text": "Nice.",
+        "user": "U15J5H60P",
+        "ts": "1534450913.000100"
+    }
+]

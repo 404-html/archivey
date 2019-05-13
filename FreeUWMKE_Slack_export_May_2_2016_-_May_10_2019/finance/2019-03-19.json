@@ -1,0 +1,405 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15HRTAHL> fetched a quote with: `\/quote`",
+        "ts": "1553009518.000100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1553027332,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "373.43",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+1.15 (+0.31%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Extended Hours",
+                        "value": "-0.98 (-0.26%)",
+                        "short": false
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "9,549,269",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "6,500,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (14 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "433.35 (+16.05%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31638,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Being self employed is ass",
+        "files": [
+            {
+                "id": "FH1KH960G",
+                "created": 1553027250,
+                "timestamp": 1553027250,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 8107,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH1KH960G\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH1KH960G\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1KH960G-99dca738a2\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1KH960G-99dca738a2\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1KH960G-99dca738a2\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 61,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1KH960G-99dca738a2\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 82,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH1KH960G-99dca738a2\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 622,
+                "original_h": 106,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FH1KH960G\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FH1KH960G-d26e0ebe76",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1553027252.000200"
+    },
+    {
+        "client_msg_id": "0003e4c3-128e-4738-b712-65677a187e41",
+        "type": "message",
+        "text": "Who is that.",
+        "user": "U15J5H60P",
+        "ts": "1553027281.000600"
+    },
+    {
+        "client_msg_id": "C5EF5101-4BC3-41BE-9CA9-55136CABB40B",
+        "type": "message",
+        "text": "Guy who runs a jig account",
+        "user": "U15HZ01QX",
+        "ts": "1553027295.000800"
+    },
+    {
+        "client_msg_id": "140dbf73-7dad-49df-ace4-0d26ac7e60a4",
+        "type": "message",
+        "text": "What a jig account",
+        "user": "U15J5H60P",
+        "ts": "1553027301.001000"
+    },
+    {
+        "client_msg_id": "043D82EF-4311-48FF-B15D-C6165F6F6051",
+        "type": "message",
+        "text": "It’s like 50% amazon paid partnership links and 50% finding pricing errors and mistakes and either giving them away or selling them",
+        "user": "U15HZ01QX",
+        "ts": "1553027339.002100"
+    },
+    {
+        "client_msg_id": "154f9c1a-2d0b-4cb7-ba96-579fa5cd161d",
+        "type": "message",
+        "text": "Oh. Nice flex.",
+        "user": "U15J5H60P",
+        "ts": "1553027352.002500"
+    },
+    {
+        "client_msg_id": "32b1fd44-24fe-4967-ae5f-61e71f9ce9b4",
+        "type": "message",
+        "text": "so hes making 6 figs doing that",
+        "user": "U15HRTAHL",
+        "ts": "1553027355.002600"
+    },
+    {
+        "client_msg_id": "8313f8cf-897c-4946-9083-8f7a92cf575b",
+        "type": "message",
+        "text": "jesus christ",
+        "user": "U15HRTAHL",
+        "ts": "1553027361.002800"
+    },
+    {
+        "client_msg_id": "D2EA0C56-72A1-461B-BDBD-2AEED4A415F3",
+        "type": "message",
+        "text": "Who’s flexing",
+        "user": "U15HZ01QX",
+        "ts": "1553027361.003000"
+    },
+    {
+        "client_msg_id": "beefb903-c948-4506-bd9a-f08904f12684",
+        "type": "message",
+        "text": "The dude posting his taxes",
+        "user": "U15J5H60P",
+        "ts": "1553027369.003300"
+    },
+    {
+        "client_msg_id": "0B9CC62C-8A9F-4873-B31A-D3C112B6E106",
+        "type": "message",
+        "text": "This was before deductions",
+        "user": "U15HZ01QX",
+        "ts": "1553027375.003600"
+    },
+    {
+        "client_msg_id": "9002d507-8a72-4116-800d-788c84d7ef93",
+        "type": "message",
+        "text": "Yeah.",
+        "user": "U15J5H60P",
+        "ts": "1553027381.003800"
+    },
+    {
+        "client_msg_id": "304005ca-9162-48b7-ab2b-7171b2f2e6b2",
+        "type": "message",
+        "text": "No bueno.",
+        "user": "U15J5H60P",
+        "ts": "1553027385.004000"
+    },
+    {
+        "client_msg_id": "dfd4411d-1845-4db2-8667-7656779dc576",
+        "type": "message",
+        "text": "Taxes are dumb",
+        "user": "U15J5H60P",
+        "ts": "1553027398.004200"
+    },
+    {
+        "client_msg_id": "212f2002-60de-492c-bee4-109b3d014874",
+        "type": "message",
+        "text": "MKE doesn't even fix pot holes",
+        "user": "U15J5H60P",
+        "ts": "1553027411.004400"
+    },
+    {
+        "client_msg_id": "7e6883dc-ab15-4350-85db-4112e4894020",
+        "type": "message",
+        "text": "im 90% sure there’s a sinkhole by my apartment that hasn’t caved in yet",
+        "user": "U15HRTAHL",
+        "ts": "1553027440.005100"
+    },
+    {
+        "client_msg_id": "9E1681A6-B3D6-46C7-B97A-38BF3E6E49A1",
+        "type": "message",
+        "text": "We have Foxconn to pay for. Get better tires ",
+        "user": "U15HZ01QX",
+        "ts": "1553027441.005400"
+    },
+    {
+        "client_msg_id": "9d6751db-3870-4bc5-9de9-e1222cea4f41",
+        "type": "message",
+        "text": "I’ll take a pic when I walk past it on my way home",
+        "user": "U15HRTAHL",
+        "ts": "1553027454.005700"
+    },
+    {
+        "client_msg_id": "5d45f3a6-36fa-425f-93e1-2d6dbfb12d5e",
+        "type": "message",
+        "text": "I'm so upset that I can't use Robinhood freely",
+        "user": "U15J5H60P",
+        "ts": "1553027475.006200"
+    },
+    {
+        "client_msg_id": "1B83E37B-0399-46AA-890A-B80FD79760F5",
+        "type": "message",
+        "text": "They had Uber memberships in Miami <@U15HRTAHL> ",
+        "user": "U15HZ01QX",
+        "ts": "1553027480.006500"
+    },
+    {
+        "client_msg_id": "763e2e56-05ef-4787-a1f8-b0fdab37a5d1",
+        "type": "message",
+        "text": "I would be too",
+        "user": "U15HRTAHL",
+        "ts": "1553027482.006600"
+    },
+    {
+        "client_msg_id": "6C18798F-1FCE-46C9-9437-D8053A75CD4D",
+        "type": "message",
+        "text": "I think you’d benefit from them",
+        "user": "U15HZ01QX",
+        "ts": "1553027489.007000"
+    },
+    {
+        "client_msg_id": "0a9a52cb-75ed-4690-b6ea-94f3b65d4df7",
+        "type": "message",
+        "text": "hmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1553027500.007200"
+    },
+    {
+        "client_msg_id": "4930c441-65c6-4abf-8a59-7d13d0bc884e",
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1553027506.007600"
+    },
+    {
+        "client_msg_id": "c083fa5b-4264-4018-b6d4-86289d74b9b2",
+        "type": "message",
+        "text": "home much per month?",
+        "user": "U15HRTAHL",
+        "ts": "1553027508.007900"
+    },
+    {
+        "client_msg_id": "47C6AB3D-F4D1-423E-A6C5-4C3A26C1FBD6",
+        "type": "message",
+        "text": "They basically give you a flat rate ride every day. Idk I’ll have to look it up again",
+        "user": "U15HZ01QX",
+        "ts": "1553027520.008400"
+    },
+    {
+        "client_msg_id": "88043FF4-773D-4D72-9474-A924085D51D5",
+        "type": "message",
+        "text": "But during rush hour it can save a ton",
+        "user": "U15HZ01QX",
+        "ts": "1553027529.008900"
+    },
+    {
+        "client_msg_id": "B2CB0034-D512-4D11-BA1D-7BE83BE07BE3",
+        "type": "message",
+        "text": "And you won’t have to ride a bus",
+        "user": "U15HZ01QX",
+        "ts": "1553027537.009200"
+    },
+    {
+        "client_msg_id": "137462a9-8cdb-41eb-94f7-931cd8d9dee5",
+        "type": "message",
+        "text": "30 rides for $300",
+        "user": "U15J5H60P",
+        "ts": "1553027568.009600"
+    },
+    {
+        "client_msg_id": "420265ce-5e37-4275-86b9-44c212f5469a",
+        "type": "message",
+        "text": "Which is reasonable.",
+        "user": "U15J5H60P",
+        "ts": "1553027578.009800"
+    },
+    {
+        "client_msg_id": "2e035b61-5cd9-490b-8f46-7879aaa5b0bb",
+        "type": "message",
+        "text": "<https:\/\/www.usatoday.com\/story\/money\/business\/2018\/10\/31\/uber-ride-pass-2018-monthly-subscription-discount-flat-rates\/1830339002\/>",
+        "user": "U15HZ01QX",
+        "ts": "1553027584.010000",
+        "attachments": [
+            {
+                "service_name": "USA TODAY",
+                "title": "Uber offers up Ride Pass monthly subscription service for discounted rates on rides",
+                "title_link": "https:\/\/www.usatoday.com\/story\/money\/business\/2018\/10\/31\/uber-ride-pass-2018-monthly-subscription-discount-flat-rates\/1830339002\/",
+                "text": "With Ride Pass, customers pay a monthly fee for discounted rates and to avoid surge pricing for UberX, Uber Pool and Uber Express Pool rides.",
+                "fallback": "USA TODAY: Uber offers up Ride Pass monthly subscription service for discounted rates on rides",
+                "image_url": "https:\/\/www.gannett-cdn.com\/presto\/2018\/10\/25\/USAT\/b765f209-4153-4134-9269-4c8087dcb471-AP_Uber_Data_Breach_Settlement.jpg?crop=2468,1384,x0,y0&width=3200&height=1680&fit=bounds",
+                "image_width": 446,
+                "image_height": 250,
+                "from_url": "https:\/\/www.usatoday.com\/story\/money\/business\/2018\/10\/31\/uber-ride-pass-2018-monthly-subscription-discount-flat-rates\/1830339002\/",
+                "image_bytes": 491704,
+                "service_icon": "https:\/\/www.gannett-cdn.com\/sites\/usatoday\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.usatoday.com\/story\/money\/business\/2018\/10\/31\/uber-ride-pass-2018-monthly-subscription-discount-flat-rates\/1830339002\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f06eaf06-bc41-40c2-8d9f-b549fc62901a",
+        "type": "message",
+        "text": "15 bucks a month",
+        "user": "U15HZ01QX",
+        "ts": "1553027590.010300"
+    },
+    {
+        "client_msg_id": "429fb27f-3d6a-420d-89bd-1cc9b1a99887",
+        "type": "message",
+        "text": "For discounted rates",
+        "user": "U15J5H60P",
+        "ts": "1553027597.010600"
+    },
+    {
+        "client_msg_id": "21621bcc-ee6a-4745-b5a7-0d32cc391207",
+        "type": "message",
+        "text": "Lyft is $300 for 30 rides",
+        "user": "U15J5H60P",
+        "ts": "1553027608.011200"
+    },
+    {
+        "client_msg_id": "25e1fe91-5087-4875-8c01-809ecc510ca9",
+        "type": "message",
+        "text": "and protection from surges",
+        "user": "U15HZ01QX",
+        "ts": "1553027617.011500"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1524247600.000655"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              166.11               -6.89               -3.987 \n       Avg.                 ---                 ---              -3.987% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1524247600.000682",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 36091,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "BUY BUY BUYYYYY",
+        "user": "U15J5H60P",
+        "ts": "1524247606.000301"
+    },
+    {
+        "type": "message",
+        "text": "Jesus",
+        "user": "U15J5H60P",
+        "ts": "1524247679.000692"
+    },
+    {
+        "type": "message",
+        "text": "Down more than $11",
+        "user": "U15J5H60P",
+        "ts": "1524247685.000218"
+    },
+    {
+        "type": "message",
+        "text": "why?",
+        "user": "U15HZ01QX",
+        "ts": "1524247844.000495"
+    },
+    {
+        "type": "message",
+        "text": "Jk",
+        "user": "U15J5H60P",
+        "ts": "1524247850.000600"
+    },
+    {
+        "type": "message",
+        "text": "Don't do it",
+        "user": "U15J5H60P",
+        "ts": "1524247852.000148"
+    },
+    {
+        "type": "message",
+        "text": "Uh",
+        "user": "U15J5H60P",
+        "ts": "1524247858.000297"
+    },
+    {
+        "type": "message",
+        "text": "One sec",
+        "user": "U15J5H60P",
+        "ts": "1524247863.000068"
+    },
+    {
+        "type": "message",
+        "text": "A chip maker said they expecting to have a much lower demand for their chips next quarter",
+        "user": "U15J5H60P",
+        "ts": "1524247877.000539"
+    },
+    {
+        "type": "message",
+        "text": "(Apple's supplier of iPhone chips)",
+        "user": "U15J5H60P",
+        "ts": "1524247886.000558"
+    },
+    {
+        "type": "message",
+        "text": "Also",
+        "user": "U15J5H60P",
+        "ts": "1524247887.000648"
+    },
+    {
+        "type": "message",
+        "text": "Morgan Stanley reported that they expect Apple's May 1st earnings report to be bad",
+        "user": "U15J5H60P",
+        "ts": "1524247905.000452",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1524247911.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Or not meet expectations",
+        "user": "U15J5H60P",
+        "ts": "1524247917.000103"
+    },
+    {
+        "type": "message",
+        "text": "Put some calls out for 157",
+        "user": "U15J5H60P",
+        "ts": "1524247935.000292"
+    },
+    {
+        "type": "message",
+        "text": "oh ill just WAIT FOR earnings then",
+        "user": "U15HZ01QX",
+        "ts": "1524247945.000053"
+    },
+    {
+        "type": "message",
+        "text": "Puts*",
+        "user": "U15HZ01QX",
+        "ts": "1524247956.000536"
+    },
+    {
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1524247971.000054"
+    },
+    {
+        "type": "message",
+        "text": "Or buy now",
+        "user": "U15J5H60P",
+        "ts": "1524247980.000034"
+    },
+    {
+        "type": "message",
+        "text": "It's a sale",
+        "user": "U15J5H60P",
+        "ts": "1524247985.000104"
+    },
+    {
+        "type": "message",
+        "text": "It's fine",
+        "user": "U15J5H60P",
+        "ts": "1524248116.000305"
+    },
+    {
+        "type": "message",
+        "text": "I'm still up",
+        "user": "U15J5H60P",
+        "ts": "1524248118.000101"
+    }
+]

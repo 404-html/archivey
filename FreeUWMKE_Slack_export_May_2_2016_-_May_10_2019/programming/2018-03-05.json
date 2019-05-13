@@ -1,0 +1,178 @@
+[
+    {
+        "type": "message",
+        "text": "so say you have data coming in. something like \n```someData = {\n             needstobechecked: true \n}```",
+        "user": "U15HY5TG8",
+        "ts": "1520269922.000024"
+    },
+    {
+        "type": "message",
+        "text": "how would you use this to preselect a checkbox in the UI",
+        "user": "U15HY5TG8",
+        "ts": "1520269933.000320"
+    },
+    {
+        "type": "message",
+        "text": "ng-checked ?",
+        "user": "U15HRTAHL",
+        "ts": "1520270038.000341",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1520270042.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "also check your phone",
+        "user": "U15HRTAHL",
+        "ts": "1520270047.000204"
+    },
+    {
+        "type": "message",
+        "text": "jk i got it",
+        "user": "U15HY5TG8",
+        "ts": "1520270300.000075"
+    },
+    {
+        "type": "message",
+        "text": "i was missing part of the data coming back",
+        "user": "U15HY5TG8",
+        "ts": "1520270309.000304"
+    },
+    {
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U15HRTAHL",
+        "ts": "1520271216.000233"
+    },
+    {
+        "type": "message",
+        "text": "Check",
+        "user": "U15HRTAHL",
+        "ts": "1520271221.000339"
+    },
+    {
+        "type": "message",
+        "text": "your",
+        "user": "U15HRTAHL",
+        "ts": "1520271222.000707"
+    },
+    {
+        "type": "message",
+        "text": "phone",
+        "user": "U15HRTAHL",
+        "ts": "1520271224.000001"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1520271225.000256"
+    },
+    {
+        "client_msg_id": "C44EDDBA-D784-408A-A7CA-4EB3A19E33ED",
+        "type": "message",
+        "text": "Shh",
+        "user": "U15HY5TG8",
+        "ts": "1520275458.000536"
+    },
+    {
+        "client_msg_id": "A8EAB99C-E1BA-48F2-B8EF-06BB670B14D9",
+        "type": "message",
+        "text": "<@U15HRTAHL> i need some help with git",
+        "user": "U15HY5TG8",
+        "ts": "1520296873.000308"
+    },
+    {
+        "client_msg_id": "2fb7da68-df7d-40c4-9b36-34484fa25fab",
+        "type": "message",
+        "text": "Sup",
+        "user": "U15HRTAHL",
+        "ts": "1520297337.000339"
+    },
+    {
+        "type": "message",
+        "text": "so im trying to merge\/commit and i get this error",
+        "user": "U15HY5TG8",
+        "ts": "1520297453.000271"
+    },
+    {
+        "type": "message",
+        "text": "```error: Your local changes to the following files would be overwritten by merge:\n\t_ide_helper.php\n\tbower.json\nPlease commit your changes or stash them before you merge.\nAborting\n```",
+        "user": "U15HY5TG8",
+        "ts": "1520297457.000126"
+    },
+    {
+        "type": "message",
+        "text": "i feel like its bad to commit before merging",
+        "user": "U15HY5TG8",
+        "ts": "1520297476.000298"
+    },
+    {
+        "type": "message",
+        "text": "to get this error i did ```git merge origin\/master```",
+        "user": "U15HY5TG8",
+        "ts": "1520297512.000004"
+    },
+    {
+        "client_msg_id": "93f59232-fa48-4d51-b0ac-bc17b009b789",
+        "type": "message",
+        "text": "So you have changes that aren't setup with git",
+        "user": "U15HRTAHL",
+        "ts": "1520297658.000112"
+    },
+    {
+        "client_msg_id": "b727d777-2432-4785-92a5-0f029f1d23e8",
+        "type": "message",
+        "text": "You either need to add them or stash them like it says",
+        "user": "U15HRTAHL",
+        "ts": "1520297671.000218"
+    },
+    {
+        "client_msg_id": "224439BC-60CA-427B-9F4C-F940437F08B8",
+        "type": "message",
+        "text": "Basicaly yet",
+        "user": "U15HY5TG8",
+        "ts": "1520297674.000146"
+    },
+    {
+        "client_msg_id": "AB827FDA-8830-4D8D-84F2-41747B921B5B",
+        "type": "message",
+        "text": "Ok i wasnt sure if commit acted like merge. To me, commit seems like the final step",
+        "user": "U15HY5TG8",
+        "ts": "1520297716.000418"
+    },
+    {
+        "client_msg_id": "da49a333-28d9-4d35-abf1-136e36102b27",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HRTAHL",
+        "ts": "1520297756.000212"
+    },
+    {
+        "type": "message",
+        "text": "alrighty cool thanks",
+        "user": "U15HY5TG8",
+        "ts": "1520297840.000042"
+    },
+    {
+        "type": "message",
+        "text": "where does .gitignore live?",
+        "user": "U15HY5TG8",
+        "ts": "1520298106.000317"
+    },
+    {
+        "client_msg_id": "9525C4D3-6439-4A2D-AA6E-6A1C76EDEA3C",
+        "type": "message",
+        "text": "It's a hidden folder in the root directory",
+        "user": "U15J5H60P",
+        "ts": "1520299239.000280"
+    },
+    {
+        "client_msg_id": "0BF31554-747B-4F2D-AF1E-8F63685AEC37",
+        "type": "message",
+        "text": "Ahh ok gotcha. Thanks",
+        "user": "U15HY5TG8",
+        "ts": "1520299269.000224"
+    }
+]

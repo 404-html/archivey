@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> hows your watch",
+        "user": "U15HZ01QX",
+        "ts": "1520520901.000855"
+    },
+    {
+        "type": "message",
+        "text": "Great.",
+        "user": "U15J5H60P",
+        "ts": "1520520908.000533"
+    },
+    {
+        "type": "message",
+        "text": "I think mine is starting to slow down, i might have to replace it soon",
+        "user": "U15HZ01QX",
+        "ts": "1520520927.000363",
+        "thread_ts": "1520520927.000363",
+        "reply_count": 13,
+        "reply_users_count": 2,
+        "latest_reply": "1520956467.000771",
+        "reply_users": [
+            "U15J5H60P",
+            "U15HZ01QX"
+        ],
+        "replies": [
+            {
+                "user": "U15J5H60P",
+                "ts": "1520955642.000754"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1520955701.000604"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1520955729.000484"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1520955795.000863"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1520955851.000986"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1520956325.000899"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1520956336.000516"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1520956361.000644"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1520956375.000818"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1520956385.000212"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1520956400.001047"
+            },
+            {
+                "user": "U15HZ01QX",
+                "ts": "1520956459.000821"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1520956467.000771"
+            }
+        ]
+    }
+]

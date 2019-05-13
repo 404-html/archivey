@@ -1,0 +1,532 @@
+[
+    {
+        "client_msg_id": "b1822373-a84c-40f7-b367-18c180597d86",
+        "type": "message",
+        "text": "I don't see a brand name anywhere",
+        "user": "U15HRTAHL",
+        "ts": "1536757707.000100"
+    },
+    {
+        "client_msg_id": "B1075985-5751-40C9-BB67-FA590FD6ACFC",
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1536758412.000100"
+    },
+    {
+        "client_msg_id": "82ffabda-c9ac-4647-9e89-d770a9db6b2c",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/gfybbwk3hsl11.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1536763414.000100",
+        "attachments": [
+            {
+                "fallback": "1200x905px image",
+                "image_url": "https:\/\/i.redd.it\/gfybbwk3hsl11.jpg",
+                "image_width": 1200,
+                "image_height": 905,
+                "image_bytes": 159843,
+                "from_url": "https:\/\/i.redd.it\/gfybbwk3hsl11.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/gfybbwk3hsl11.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99390347-9692-446d-982c-0385f9d381e5",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1536763436.000100"
+    },
+    {
+        "client_msg_id": "f4dc79da-0bc1-45b1-8372-1eb88329c30e",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1536763525.000100"
+    },
+    {
+        "client_msg_id": "bcc578c4-94f6-446b-a738-236bbc3c3bcb",
+        "type": "message",
+        "text": "What're y'all doing tonight",
+        "user": "U15J5H60P",
+        "ts": "1536779019.000100"
+    },
+    {
+        "client_msg_id": "0aba04c3-8e0e-42f3-86d4-04e77f806a01",
+        "type": "message",
+        "text": "Just asking",
+        "user": "U15J5H60P",
+        "ts": "1536779027.000100"
+    },
+    {
+        "client_msg_id": "2d27d05f-b11c-4d72-9550-b293204abc6a",
+        "type": "message",
+        "text": "Not interrogating",
+        "user": "U15J5H60P",
+        "ts": "1536779037.000200"
+    },
+    {
+        "client_msg_id": "580c64a2-4809-4c43-9220-a4e1cb3340ad",
+        "type": "message",
+        "text": "Lakshmi wants to go to the newaukee thing...",
+        "user": "U15HSHSS2",
+        "ts": "1536779126.000100"
+    },
+    {
+        "client_msg_id": "3119075b-bcc3-4754-b1cc-df078903ee0a",
+        "type": "message",
+        "text": "Noice!",
+        "user": "U15J5H60P",
+        "ts": "1536779210.000100"
+    },
+    {
+        "client_msg_id": "e226c383-3784-4421-966d-02ee9d6c6a1a",
+        "type": "message",
+        "text": "That's actually a solid idea",
+        "user": "U15J5H60P",
+        "ts": "1536779223.000100"
+    },
+    {
+        "client_msg_id": "8bd8000d-824d-49f0-81b8-21480215dae3",
+        "type": "message",
+        "text": "I haven't been",
+        "user": "U15J5H60P",
+        "ts": "1536779227.000100"
+    },
+    {
+        "client_msg_id": "1542f600-cd67-4f87-9eef-b9cc680efc97",
+        "type": "message",
+        "text": "You'll have to let me know how it is",
+        "user": "U15J5H60P",
+        "ts": "1536779234.000100"
+    },
+    {
+        "client_msg_id": "0578A66D-08ED-4565-8C07-C367172FF708",
+        "type": "message",
+        "text": "Go andrew lol",
+        "user": "U15HY5TG8",
+        "ts": "1536779382.000100"
+    },
+    {
+        "client_msg_id": "1736aad3-fbc8-42f3-94e3-ad60deb065e8",
+        "type": "message",
+        "text": "I have HH to attend",
+        "user": "U15J5H60P",
+        "ts": "1536779416.000100"
+    },
+    {
+        "client_msg_id": "93e1ccbd-27b2-414d-88d7-02a6e8f3c07d",
+        "type": "message",
+        "text": "What's HH?",
+        "user": "U15HSHSS2",
+        "ts": "1536779866.000100"
+    },
+    {
+        "client_msg_id": "d1493cd0-710f-4488-bc21-b7fbc75591fb",
+        "type": "message",
+        "text": "Happy Hour",
+        "user": "U15J5H60P",
+        "ts": "1536779881.000100"
+    },
+    {
+        "client_msg_id": "4ee42a9e-8dd8-4a36-9053-6c5f71675fbe",
+        "type": "message",
+        "text": ":beers:",
+        "user": "U15HSHSS2",
+        "ts": "1536779892.000100"
+    },
+    {
+        "client_msg_id": "ed2a2ab8-bada-4543-bb6a-4b8f98da695e",
+        "type": "message",
+        "text": "Maybe I'll go to Newaukee",
+        "user": "U15J5H60P",
+        "ts": "1536779905.000100"
+    },
+    {
+        "client_msg_id": "f096b5bf-24d5-461e-a4ae-cc61d1dcbdfb",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15J5H60P",
+        "ts": "1536785426.000100"
+    },
+    {
+        "client_msg_id": "df19f811-22dc-4ddf-8ae3-3a9239d9fe56",
+        "type": "message",
+        "text": "Are you going to Newaukee",
+        "user": "U15J5H60P",
+        "ts": "1536785429.000100"
+    },
+    {
+        "client_msg_id": "3fb5e976-82ba-4d6a-abd9-f37c71eecfe5",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1536785431.000100"
+    },
+    {
+        "client_msg_id": "81218874-7f7b-4d1e-a9b6-7b56536fe02b",
+        "type": "message",
+        "text": "Are you going to Newaukee",
+        "user": "U15J5H60P",
+        "ts": "1536785434.000100"
+    },
+    {
+        "client_msg_id": "4f82c822-6553-44fd-a420-c00fa26de828",
+        "type": "message",
+        "text": "Would you like to?",
+        "user": "U15J5H60P",
+        "ts": "1536785467.000100"
+    },
+    {
+        "client_msg_id": "74ace756-3661-4be1-991f-c504454b62cb",
+        "type": "message",
+        "text": "I honestly have no idea how to say no to you without you freaking out",
+        "user": "U15HRTAHL",
+        "ts": "1536785582.000100"
+    },
+    {
+        "client_msg_id": "85b82327-4313-4311-bc8a-1eb3d4adc4b4",
+        "type": "message",
+        "text": "I could say just “No”",
+        "user": "U15HRTAHL",
+        "ts": "1536785589.000100"
+    },
+    {
+        "client_msg_id": "2fc0a759-6613-446f-8df0-8572974aae2a",
+        "type": "message",
+        "text": "or I could say “No - with my reason which you don’t care to hear”",
+        "user": "U15HRTAHL",
+        "ts": "1536785607.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1536785611.000000"
+        }
+    },
+    {
+        "client_msg_id": "F26D99A3-3438-479C-9F48-7BF9F69C4390",
+        "type": "message",
+        "text": "I’m fighting off a flu and gotta get some stuff ready for Ciera’s birthday ",
+        "user": "U15HZ01QX",
+        "ts": "1536785735.000100"
+    },
+    {
+        "client_msg_id": "F2A18842-2382-4F92-A043-61415E1FE688",
+        "type": "message",
+        "text": "Okie dokie, Joe. ",
+        "user": "U15J5H60P",
+        "ts": "1536785771.000100"
+    },
+    {
+        "client_msg_id": "B5900802-734D-465B-A795-53FB2F049426",
+        "type": "message",
+        "text": "You lying son of a bitch.",
+        "user": "U15J5H60P",
+        "ts": "1536785778.000100"
+    },
+    {
+        "client_msg_id": "A1DEBD4A-E6E5-4457-BB52-6383D2A78D7A",
+        "type": "message",
+        "text": "James, do you need help with anything?",
+        "user": "U15J5H60P",
+        "ts": "1536785789.000100"
+    },
+    {
+        "client_msg_id": "57ae9b0c-928e-412e-8b22-0173cc198496",
+        "type": "message",
+        "text": "I wasn’t trying to be brazen, but whenever I say no to you I get blasted in this slack so I have no idea how to decline requests anymore",
+        "user": "U15HRTAHL",
+        "ts": "1536785861.000100"
+    },
+    {
+        "client_msg_id": "1448487E-1919-48C4-B558-F6EDE6AD5615",
+        "type": "message",
+        "text": "By saying yes",
+        "user": "U15J5H60P",
+        "ts": "1536785894.000100"
+    },
+    {
+        "client_msg_id": "A5FF4E52-4B64-4F09-A4D8-44FE678EA7D3",
+        "type": "message",
+        "text": "Nah just need to rest up. ",
+        "user": "U15HZ01QX",
+        "ts": "1536785898.000100"
+    },
+    {
+        "client_msg_id": "AE14841C-E04F-4FDE-BC72-AF2CCE84D992",
+        "type": "message",
+        "text": "Okie dokie. Good luck getting better",
+        "user": "U15J5H60P",
+        "ts": "1536785909.000200"
+    },
+    {
+        "client_msg_id": "40AAC426-A293-44E2-938A-881049F161DB",
+        "type": "message",
+        "text": "I hear what you’re saying joe. But it’s probably not the way you’re saying no it’s just that I don’t think you say yes at all",
+        "user": "U15HZ01QX",
+        "ts": "1536785933.000200"
+    },
+    {
+        "client_msg_id": "8E343D25-F932-433F-84C2-1D2E063BF139",
+        "type": "message",
+        "text": "Joe is a busy guy",
+        "user": "U15J5H60P",
+        "ts": "1536785957.000200"
+    },
+    {
+        "client_msg_id": "2E84774B-F6CA-4624-B3AF-52DA1AA6B5C0",
+        "type": "message",
+        "text": "He has work happy hours to get to",
+        "user": "U15J5H60P",
+        "ts": "1536785963.000300"
+    },
+    {
+        "client_msg_id": "1883b821-37ea-4744-9acb-3adcebffc717",
+        "type": "message",
+        "text": "I see your guys point but you guys don’t see mine\n\n1.) I’m paying off a substantial amount of debt\n2.) Lilly doesn’t have an income\n3.) I started a new job and wanted to help out when I first started and be part of the team",
+        "user": "U15HRTAHL",
+        "ts": "1536786003.000100"
+    },
+    {
+        "client_msg_id": "203BBB2B-99DE-419F-8B00-36941D0392C2",
+        "type": "message",
+        "text": "Lmaoooool",
+        "user": "U15J5H60P",
+        "ts": "1536786010.000100"
+    },
+    {
+        "client_msg_id": "3056e992-1ee6-4ab2-8fb8-65790e4bfe08",
+        "type": "message",
+        "text": "^",
+        "user": "U15HRTAHL",
+        "ts": "1536786013.000100"
+    },
+    {
+        "client_msg_id": "61242EF4-D16E-4EF8-B0F0-83F3002F5A48",
+        "type": "message",
+        "text": "Yeah you’re right",
+        "user": "U15J5H60P",
+        "ts": "1536786013.000300"
+    },
+    {
+        "client_msg_id": "34e9d122-5ce1-4688-bb24-19c561580e43",
+        "type": "message",
+        "text": "my point exactly",
+        "user": "U15HRTAHL",
+        "ts": "1536786018.000100"
+    },
+    {
+        "client_msg_id": "6D265436-9625-405C-801F-FBF8073F605D",
+        "type": "message",
+        "text": "You shouldn’t give reasons",
+        "user": "U15J5H60P",
+        "ts": "1536786018.000200"
+    },
+    {
+        "client_msg_id": "e651eec9-9060-44fc-9620-1438b25f38ab",
+        "type": "message",
+        "text": "because I went from 52k in debt -&gt; 10k? you’re right fuck me",
+        "user": "U15HRTAHL",
+        "ts": "1536786043.000100"
+    },
+    {
+        "client_msg_id": "1240007d-c8fe-46db-a86c-b00af01ee569",
+        "type": "message",
+        "text": "sorry I make sacrifices so I’m not in debt",
+        "user": "U15HRTAHL",
+        "ts": "1536786053.000200"
+    },
+    {
+        "client_msg_id": "f864fd14-c16a-4fa6-a109-6f081c48ed7c",
+        "type": "message",
+        "text": "my bad",
+        "user": "U15HRTAHL",
+        "ts": "1536786055.000100"
+    },
+    {
+        "client_msg_id": "C7D233A0-0A38-4FE6-8B58-C03AD6AA8F5B",
+        "type": "message",
+        "text": "Yeah, so it makes sense why you can’t go to a free event",
+        "user": "U15J5H60P",
+        "ts": "1536786060.000100"
+    },
+    {
+        "client_msg_id": "3df3661f-1f65-4f6c-a7fc-bb0725036018",
+        "type": "message",
+        "text": "I had no idea it was free",
+        "user": "U15HRTAHL",
+        "ts": "1536786071.000100"
+    },
+    {
+        "client_msg_id": "7f86bc63-fafa-4e33-9076-26f936264bbb",
+        "type": "message",
+        "text": "and you go there and buy drinks",
+        "user": "U15HRTAHL",
+        "ts": "1536786088.000100"
+    },
+    {
+        "client_msg_id": "9462BB43-BF5A-48C8-8ADB-056DC3FAB0D5",
+        "type": "message",
+        "text": "No worries\n",
+        "user": "U15J5H60P",
+        "ts": "1536786089.000100"
+    },
+    {
+        "client_msg_id": "958c9cc5-b08d-4021-8117-20d78afc2612",
+        "type": "message",
+        "text": "so it’s “free”",
+        "user": "U15HRTAHL",
+        "ts": "1536786094.000100"
+    },
+    {
+        "client_msg_id": "A87A88C2-6DEB-453E-948C-239D785F8079",
+        "type": "message",
+        "text": "You make sacrifices by not drinking ",
+        "user": "U15J5H60P",
+        "ts": "1536786123.000100"
+    },
+    {
+        "client_msg_id": "68224DF6-4556-4788-87AB-9650D97F218C",
+        "type": "message",
+        "text": "It’s fine though. No need to argue about it.",
+        "user": "U15J5H60P",
+        "ts": "1536786146.000100"
+    },
+    {
+        "client_msg_id": "6949C22C-9B0D-4A19-B294-BB69E41C91B1",
+        "type": "message",
+        "text": "Can’t wait to hear why you can’t hang out when you’re debt free",
+        "user": "U15J5H60P",
+        "ts": "1536786148.000100"
+    },
+    {
+        "client_msg_id": "c1bea751-302c-421f-aa79-b6711483efe9",
+        "type": "message",
+        "text": "it’ll be because you’re just a dick by then",
+        "user": "U15HRTAHL",
+        "ts": "1536786161.000100"
+    },
+    {
+        "client_msg_id": "b1d90182-a033-4f68-a8f6-acbd75a1aafc",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1536786171.000100"
+    },
+    {
+        "client_msg_id": "023949C2-F48B-4932-867C-C9FAD4D1DD2B",
+        "type": "message",
+        "text": "That’s fair ",
+        "user": "U15J5H60P",
+        "ts": "1536786189.000100"
+    },
+    {
+        "client_msg_id": "B95A5254-9362-47DC-BA49-90DC83A8F94E",
+        "type": "message",
+        "text": "At least your excuse is somewhat pallateable",
+        "user": "U15J5H60P",
+        "ts": "1536786219.000100"
+    },
+    {
+        "client_msg_id": "5D45D3E6-716B-4834-BB08-F95D1C45AD23",
+        "type": "message",
+        "text": "Evans is - “I’m meeting Lindsey for happy hour”",
+        "user": "U15J5H60P",
+        "ts": "1536786234.000100"
+    },
+    {
+        "type": "message",
+        "text": "That’s now. So that’s still a more palatable response.",
+        "user": "U15J5H60P",
+        "ts": "1536786812.000100",
+        "attachments": [
+            {
+                "fallback": "[September 12th, 2018 4:02 PM] joeythomaschaske: it’ll be because you’re just a dick by then",
+                "ts": "1536786161.000100",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "it’ll be because you’re just a dick by then",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1536786161000100",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0CA99178-ECA7-4404-ABF5-51530EA8EC23",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1536787116.000100"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> ",
+        "files": [
+            {
+                "id": "FCRSRFFFT",
+                "created": 1536788992,
+                "timestamp": 1536788992,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 84352,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCRSRFFFT\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCRSRFFFT\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCRSRFFFT-9c26ac18d0\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCRSRFFFT-9c26ac18d0\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCRSRFFFT-9c26ac18d0\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 288,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCRSRFFFT-9c26ac18d0\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 312,
+                "original_h": 390,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FCRSRFFFT\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FCRSRFFFT-cff00bb19c",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "B516EA15-3D0F-4A7F-B4A8-AD87F704C4D1",
+        "ts": "1536788992.000100"
+    },
+    {
+        "client_msg_id": "71A50183-1548-4CD5-A254-2B3FE3D945C6",
+        "type": "message",
+        "text": "My watch says I’m usually at Izzy Hops right now :joy:",
+        "user": "U15J5H60P",
+        "ts": "1536789014.000200"
+    },
+    {
+        "client_msg_id": "3BC396CB-E0B0-4B42-ABA2-3C7B12C8F870",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1536789302.000100"
+    }
+]

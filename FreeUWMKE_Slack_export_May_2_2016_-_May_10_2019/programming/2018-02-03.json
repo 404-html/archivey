@@ -1,0 +1,461 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> do you remember how you sent the text message from python? like what api?",
+        "user": "U15HY5TG8",
+        "ts": "1517678429.000006"
+    },
+    {
+        "client_msg_id": "5EE7B356-C2E9-48A7-BDF7-421411AE5A2A",
+        "type": "message",
+        "text": "I never said I made anything with it. I said that I would've chose python",
+        "user": "U15J5H60P",
+        "ts": "1517678467.000104",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1517678477.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "o i thought you said that one of your programs sent text messages",
+        "user": "U15HY5TG8",
+        "ts": "1517678574.000046"
+    },
+    {
+        "client_msg_id": "2D97BC86-70F6-4750-B275-5A51F07CACCB",
+        "type": "message",
+        "text": "Just pay for twilio",
+        "user": "U15J5H60P",
+        "ts": "1517678638.000134"
+    },
+    {
+        "client_msg_id": "06F4CD1A-6638-4398-9D47-EF466796524A",
+        "type": "message",
+        "text": "You'll pay like ten cents per month",
+        "user": "U15J5H60P",
+        "ts": "1517678653.000128"
+    },
+    {
+        "type": "message",
+        "text": "ehhh",
+        "user": "U15HY5TG8",
+        "ts": "1517678672.000075"
+    },
+    {
+        "client_msg_id": "2089b725-c5f9-402b-9c5e-07ad227a849f",
+        "type": "message",
+        "text": "I'm pretty impressed with <@U15HY5TG8>. He used to be a shit head bumming off our homework but now he's hacking shit together learning python and bash",
+        "user": "U15HRTAHL",
+        "ts": "1517681613.000097"
+    },
+    {
+        "client_msg_id": "A13EEA6E-4B3E-4EF9-81F5-241777F95C23",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1517681632.000067"
+    },
+    {
+        "client_msg_id": "49F5B118-93CF-4881-A0BD-125C3CC9166F",
+        "type": "message",
+        "text": "It all has to do with what im interested in",
+        "user": "U15HY5TG8",
+        "ts": "1517681661.000042"
+    },
+    {
+        "client_msg_id": "C8E50306-8D8A-4510-BE9C-9251340DEFF1",
+        "type": "message",
+        "text": "I was not interested in homework",
+        "user": "U15HY5TG8",
+        "ts": "1517681668.000122",
+        "reactions": [
+            {
+                "name": "star",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Imma start on that Sim app.",
+        "user": "U15J5H60P",
+        "ts": "1517692592.000020"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> Do you have any recommendations on X-platform tools?",
+        "user": "U15J5H60P",
+        "ts": "1517692607.000038"
+    },
+    {
+        "type": "message",
+        "text": "Otherwise I’m just going to go with Swift.",
+        "user": "U15J5H60P",
+        "ts": "1517692616.000006"
+    },
+    {
+        "type": "message",
+        "text": "Orrrr. I could try making a mac app",
+        "user": "U15J5H60P",
+        "ts": "1517692624.000034"
+    },
+    {
+        "type": "message",
+        "text": "Hmmmm….",
+        "user": "U15J5H60P",
+        "ts": "1517692631.000047"
+    },
+    {
+        "type": "message",
+        "text": "What do you guys think?",
+        "user": "U15J5H60P",
+        "ts": "1517692640.000098"
+    },
+    {
+        "type": "message",
+        "text": "Are any of you good at data modeling?",
+        "user": "U15J5H60P",
+        "ts": "1517692649.000060"
+    },
+    {
+        "client_msg_id": "E039F522-8420-4F65-AEE5-D4857BC8077E",
+        "type": "message",
+        "text": "Noope",
+        "user": "U15HY5TG8",
+        "ts": "1517692666.000032"
+    },
+    {
+        "client_msg_id": "1b33df00-dd08-4e58-b432-0aeb5273167e",
+        "type": "message",
+        "text": "I like data modeling. What are you making?",
+        "user": "U15HRTAHL",
+        "ts": "1517692695.000056"
+    },
+    {
+        "client_msg_id": "39721d2d-717d-4b43-aa9a-da177215cd8a",
+        "type": "message",
+        "text": "<@U15J5H60P> ",
+        "user": "U15HRTAHL",
+        "ts": "1517692698.000053"
+    },
+    {
+        "type": "message",
+        "text": "The simulator",
+        "user": "U15J5H60P",
+        "ts": "1517692700.000121"
+    },
+    {
+        "type": "message",
+        "text": "Do you want to create the data model?",
+        "user": "U15J5H60P",
+        "ts": "1517692719.000075"
+    },
+    {
+        "type": "message",
+        "text": "Disclaimer - I’m not trying to make this to sell. I just want it for us and friends. Investopedia kinda sucks and I’d love to do it via an app.",
+        "user": "U15J5H60P",
+        "ts": "1517692794.000061"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> do you know how to make APIs?",
+        "user": "U15J5H60P",
+        "ts": "1517692824.000001"
+    },
+    {
+        "type": "message",
+        "text": "Like a node API?",
+        "user": "U15J5H60P",
+        "ts": "1517692826.000115"
+    },
+    {
+        "type": "message",
+        "text": "idk if i can confidently say ik what data modeling is and i do not",
+        "user": "U15HY5TG8",
+        "ts": "1517692839.000033"
+    },
+    {
+        "type": "message",
+        "text": "Alrighty",
+        "user": "U15J5H60P",
+        "ts": "1517692863.000052"
+    },
+    {
+        "type": "message",
+        "text": "What’s your favorite part of software development?",
+        "user": "U15J5H60P",
+        "ts": "1517692873.000022"
+    },
+    {
+        "type": "message",
+        "text": "when shit works",
+        "user": "U15HY5TG8",
+        "ts": "1517692891.000007"
+    },
+    {
+        "type": "message",
+        "text": "lol Fair enough",
+        "user": "U15J5H60P",
+        "ts": "1517692898.000018"
+    },
+    {
+        "type": "message",
+        "text": "Do you like writing tests?",
+        "user": "U15J5H60P",
+        "ts": "1517692907.000015"
+    },
+    {
+        "type": "message",
+        "text": "Theyre relatively easy and i can do them haha but idk if like is the word i would use",
+        "user": "U15HY5TG8",
+        "ts": "1517692955.000030"
+    },
+    {
+        "type": "message",
+        "text": "Hmm. Alrighty.",
+        "user": "U15J5H60P",
+        "ts": "1517692967.000042"
+    },
+    {
+        "type": "message",
+        "text": "why?",
+        "user": "U15HY5TG8",
+        "ts": "1517692970.000122"
+    },
+    {
+        "type": "message",
+        "text": "Just was wondering if you wanted in on this.",
+        "user": "U15J5H60P",
+        "ts": "1517692983.000108"
+    },
+    {
+        "type": "message",
+        "text": "Do you do TDD at work?",
+        "user": "U15J5H60P",
+        "ts": "1517692992.000102"
+    },
+    {
+        "type": "message",
+        "text": "id get in on it.",
+        "user": "U15HY5TG8",
+        "ts": "1517692994.000040"
+    },
+    {
+        "type": "message",
+        "text": "we are just starting to do TDD",
+        "user": "U15HY5TG8",
+        "ts": "1517693005.000035"
+    },
+    {
+        "type": "message",
+        "text": "Who writes the tests for that?",
+        "user": "U15J5H60P",
+        "ts": "1517693014.000052"
+    },
+    {
+        "type": "message",
+        "text": "we all will be, so i need to learn it regardless",
+        "user": "U15HY5TG8",
+        "ts": "1517693049.000002"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1517693215.000106"
+    },
+    {
+        "type": "message",
+        "text": "Do any of you want to see my code for the blockchain I created?",
+        "user": "U15J5H60P",
+        "ts": "1517693287.000138"
+    },
+    {
+        "client_msg_id": "7E154B20-89DC-4A8A-B2BC-40E249834C72",
+        "type": "message",
+        "text": "Lets see it",
+        "user": "U15HY5TG8",
+        "ts": "1517693324.000068"
+    },
+    {
+        "client_msg_id": "72e71153-0210-4949-b71e-238125e083e4",
+        "type": "message",
+        "text": "We should use yahoos API ",
+        "user": "U15HRTAHL",
+        "ts": "1517693409.000062"
+    },
+    {
+        "type": "message",
+        "text": "It’s in Swift FYI",
+        "user": "U15J5H60P",
+        "ts": "1517693410.000071"
+    },
+    {
+        "client_msg_id": "3313bd61-7976-4b84-9d80-83b7dac356cb",
+        "type": "message",
+        "text": "<@U15J5H60P> go on my GitHub and dowblaod my stock repo",
+        "user": "U15HRTAHL",
+        "ts": "1517693427.000011"
+    },
+    {
+        "client_msg_id": "83b37d98-fc13-4236-aeea-6f2db8c233ed",
+        "type": "message",
+        "text": "It has some basic functionality built out with accounts and what not ",
+        "user": "U15HRTAHL",
+        "ts": "1517693443.000011"
+    },
+    {
+        "client_msg_id": "cf7b8a6a-57ab-42f8-a2d0-0dfb360ade24",
+        "type": "message",
+        "text": "Oooo NVM in swift ",
+        "user": "U15HRTAHL",
+        "ts": "1517693460.000095"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> <https:\/\/SonBrooks@bitbucket.org\/SonBrooks\/brookscoin.git>",
+        "user": "U15J5H60P",
+        "ts": "1517693462.000097"
+    },
+    {
+        "type": "message",
+        "text": "I’ll look at your project for an idea of a data model",
+        "user": "U15J5H60P",
+        "ts": "1517693485.000043"
+    },
+    {
+        "type": "message",
+        "text": "Do you have the link handy?",
+        "user": "U15J5H60P",
+        "ts": "1517693495.000094"
+    },
+    {
+        "type": "message",
+        "text": "Also, <@U15HRTAHL> do you have any good data modeling tool suggestions?",
+        "user": "U15J5H60P",
+        "ts": "1517693624.000003"
+    },
+    {
+        "type": "message",
+        "text": "Ah I found the repo, Joe.",
+        "user": "U15J5H60P",
+        "ts": "1517693967.000023"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> What’s your favorite part of development?",
+        "user": "U15J5H60P",
+        "ts": "1517693974.000049"
+    },
+    {
+        "client_msg_id": "99861D12-FF68-426C-9A2B-7ABD43BEE6C5",
+        "type": "message",
+        "text": "Coming up with algorithms :grimacing:",
+        "user": "U15HSHSS2",
+        "ts": "1517694029.000131"
+    },
+    {
+        "client_msg_id": "4D44F535-B18B-42DD-956B-998BB4B1B947",
+        "type": "message",
+        "text": "Why I like those Euler challenges so much",
+        "user": "U15HSHSS2",
+        "ts": "1517694043.000099"
+    },
+    {
+        "type": "message",
+        "text": "Ah nice nice! How far along with those are you now?",
+        "user": "U15J5H60P",
+        "ts": "1517694065.000090"
+    },
+    {
+        "client_msg_id": "0E74BB01-D631-4BD3-BE84-0B31C7D1214F",
+        "type": "message",
+        "text": "Around 70",
+        "user": "U15HSHSS2",
+        "ts": "1517694079.000047"
+    },
+    {
+        "type": "message",
+        "text": "Dannnnggggg",
+        "user": "U15J5H60P",
+        "ts": "1517694087.000032"
+    },
+    {
+        "client_msg_id": "7CF2046B-92D8-47C0-BB5B-D1D48D24FF15",
+        "type": "message",
+        "text": "Significant difficulty increase after 50 lol",
+        "user": "U15HSHSS2",
+        "ts": "1517694100.000069"
+    },
+    {
+        "client_msg_id": "B1CC7E44-B5DE-4638-BEA8-8A89DDC2F622",
+        "type": "message",
+        "text": "What exactly are you trying to make?",
+        "user": "U15HSHSS2",
+        "ts": "1517694126.000008",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1517694173.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pretty much Investopedia’s stock simulator except as an app.",
+        "user": "U15J5H60P",
+        "ts": "1517694166.000066"
+    },
+    {
+        "type": "message",
+        "text": "MVP would just be, you start with $10,000. With that you buy\/sell stock.",
+        "user": "U15J5H60P",
+        "ts": "1517694220.000018"
+    },
+    {
+        "type": "message",
+        "text": "BUT, I’d like to have a Node API that does keeps track of all of the transactions and account info. That way, I can create the UI in Swift and then whoever could create the Android UI using the same data\/api",
+        "user": "U15J5H60P",
+        "ts": "1517694282.000012"
+    },
+    {
+        "type": "message",
+        "text": "So I guess MVP would be getting a Node API working…",
+        "user": "U15J5H60P",
+        "ts": "1517694294.000113"
+    },
+    {
+        "client_msg_id": "FE7B690E-8ECD-427F-A2A6-2CDAF470CE66",
+        "type": "message",
+        "text": "Niice",
+        "user": "U15HSHSS2",
+        "ts": "1517694486.000018"
+    },
+    {
+        "client_msg_id": "52901F7E-91AC-4E3C-B041-144B41DC2F34",
+        "type": "message",
+        "text": "Sounds fun",
+        "user": "U15HSHSS2",
+        "ts": "1517694489.000038"
+    },
+    {
+        "type": "message",
+        "text": "what is mvp again?",
+        "user": "U15HY5TG8",
+        "ts": "1517694626.000092"
+    },
+    {
+        "type": "message",
+        "text": "Minimum Viable Product. Pretty much, what is the least you can do to deliver a working product\/feature.",
+        "user": "U15J5H60P",
+        "ts": "1517694664.000001"
+    },
+    {
+        "type": "message",
+        "text": "thats right ha",
+        "user": "U15HY5TG8",
+        "ts": "1517694686.000122"
+    }
+]

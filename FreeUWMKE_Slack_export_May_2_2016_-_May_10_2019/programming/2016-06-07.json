@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "text": "I hate javascript",
+        "user": "U15HRTAHL",
+        "ts": "1465308813.000002"
+    },
+    {
+        "type": "message",
+        "text": "I hate programming ",
+        "user": "U15J5H60P",
+        "ts": "1465309145.000003"
+    },
+    {
+        "type": "message",
+        "text": "I need to get good at it lol",
+        "user": "U15HY5TG8",
+        "ts": "1465309248.000004"
+    },
+    {
+        "type": "message",
+        "text": "you can’t do this in java script",
+        "user": "U15HRTAHL",
+        "ts": "1465312924.000005"
+    },
+    {
+        "type": "message",
+        "text": "```\nfor (var i = 0 i &lt; 10; ++i) {\n    \/\/do something\n}\nfor (var i = 0 i &lt; 10; ++i) {\n    \/\/do this after something is done\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1465312928.000006"
+    },
+    {
+        "type": "message",
+        "text": "because it compiles to this\n\n```\nvar i;\nvar i;\n\nfor (i = 0 i &lt; 10; ++i) {\n    \/\/do something\n}\nfor (i = 0 i &lt; 10; ++i) {\n    \/\/do this after something is done\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1465312950.000007"
+    },
+    {
+        "type": "message",
+        "text": "I hate javascript",
+        "user": "U15HRTAHL",
+        "ts": "1465312960.000008"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/JavaScript_syntax#Scoping_and_hoisting>",
+        "user": "U15HRTAHL",
+        "ts": "1465312980.000009"
+    }
+]

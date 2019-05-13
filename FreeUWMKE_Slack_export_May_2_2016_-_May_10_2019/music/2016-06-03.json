@@ -1,0 +1,47 @@
+[
+    {
+        "type": "message",
+        "text": " <https:\/\/soundcloud.com\/nightsinoctober\/champions-good-music>",
+        "user": "U15J5H60P",
+        "ts": "1464975827.000002",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Champions - Kanye West feat. Travis, Quavo, Big Sean, Yo Gotti, Gucci, 2 Chainz &amp; Desiigner by nightsinoctober",
+                "title_link": "https:\/\/soundcloud.com\/nightsinoctober\/champions-good-music",
+                "author_name": "nightsinoctober",
+                "author_link": "https:\/\/soundcloud.com\/nightsinoctober",
+                "thumb_url": "http:\/\/a1.sndcdn.com\/images\/fb_placeholder.png?1464880459",
+                "text": "DOWNLOAD: <https:\/\/dbr.ee\/YCJK>",
+                "fallback": "SoundCloud Audio: Link: Champions - Kanye West feat. Travis, Quavo, Big Sean, Yo Gotti, Gucci, 2 Chainz & Desiigner by nightsinoctober",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F267274609&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/nightsinoctober\/champions-good-music",
+                "thumb_width": 130,
+                "thumb_height": 130,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "New Kanye track",
+        "user": "U15J5H60P",
+        "ts": "1464975833.000004"
+    },
+    {
+        "type": "message",
+        "text": "God that was awful",
+        "user": "U15HY5TG8",
+        "ts": "1464977626.000005"
+    },
+    {
+        "type": "message",
+        "text": "A lot of Kanye's new shit is trash",
+        "user": "U15J5H60P",
+        "ts": "1464977668.000006"
+    }
+]

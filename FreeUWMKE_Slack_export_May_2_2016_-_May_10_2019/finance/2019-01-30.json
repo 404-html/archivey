@@ -1,0 +1,76 @@
+[
+    {
+        "client_msg_id": "614ceae0-724b-49a4-9441-36bb04b86cc6",
+        "type": "message",
+        "text": "Apple is up $11 today",
+        "user": "U15J5H60P",
+        "ts": "1548879375.000200"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1548879380.000300"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              165.62               10.94                7.073 \n       Avg.                 ---                 ---               7.073% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1548879380.000400",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31192,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "179104fd-c9d8-4f1f-8b9a-97991d110b76",
+        "type": "message",
+        "text": "It’s a good day",
+        "user": "U15J5H60P",
+        "ts": "1548879388.000700"
+    },
+    {
+        "client_msg_id": "178a2059-9a87-4437-be17-dc334ae69bd1",
+        "type": "message",
+        "text": "This is the first time my portfolio has been in the green for like a month and a half",
+        "user": "U15J5H60P",
+        "ts": "1548879435.001100"
+    },
+    {
+        "client_msg_id": "4de2986e-b9c8-4544-88d9-4897afed8c06",
+        "type": "message",
+        "text": "your portfolio could always be in the green if you invested in canabis",
+        "user": "U15HRTAHL",
+        "ts": "1548879553.001500"
+    },
+    {
+        "client_msg_id": "acf43d53-79fd-42aa-93f7-0c72d1336365",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1548879562.001800"
+    },
+    {
+        "client_msg_id": "0b359bb0-13af-45fa-85e9-7686d7548c68",
+        "type": "message",
+        "text": "alright im done with the wise cracks",
+        "user": "U15HRTAHL",
+        "ts": "1548879569.002100"
+    },
+    {
+        "client_msg_id": "1f10fedf-0a0c-4df6-bdd7-426d0ce814d4",
+        "type": "message",
+        "text": "Killin’ it today",
+        "user": "U15J5H60P",
+        "ts": "1548879575.002300"
+    }
+]

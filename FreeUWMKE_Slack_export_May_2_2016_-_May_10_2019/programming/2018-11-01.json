@@ -1,0 +1,1873 @@
+[
+    {
+        "client_msg_id": "f9a8910c-2f99-4b55-a732-214e49b71360",
+        "type": "message",
+        "text": "I need some help",
+        "user": "U15HY5TG8",
+        "ts": "1541077245.000200"
+    },
+    {
+        "client_msg_id": "26ae64d9-0f4c-4856-a401-d6d989024837",
+        "type": "message",
+        "text": "We know",
+        "user": "U15J5H60P",
+        "ts": "1541077251.000500"
+    },
+    {
+        "client_msg_id": "8204468b-7306-4f40-8f69-3bf9b01a8002",
+        "type": "message",
+        "text": "I'm creating a new table",
+        "user": "U15HY5TG8",
+        "ts": "1541077253.000600"
+    },
+    {
+        "client_msg_id": "5f098ac5-40ec-48c9-8ea7-efc7a014a3d0",
+        "type": "message",
+        "text": "<https:\/\/www.thisoldhouse.com\/ideas\/17-ways-to-build-table>",
+        "user": "U15J5H60P",
+        "ts": "1541077284.001300",
+        "attachments": [
+            {
+                "title": "17 Ways to Build a Table",
+                "title_link": "https:\/\/www.thisoldhouse.com\/ideas\/17-ways-to-build-table",
+                "text": "Pick a DIY table project! Everything you need to know to build the perfect table this weekend TIP: Give a table an eye-catching new look by painting its base a bold hue, like the zesty orange shown above. For more on this idea, see our Kitchen Upgrades article.",
+                "fallback": "17 Ways to Build a Table",
+                "image_url": "https:\/\/www.thisoldhouse.com\/sites\/default\/files\/styles\/social_share\/public\/images\/cloned\/table-may2014-p81-promo.jpg?itok=iKzwD6lY",
+                "ts": 1487024820,
+                "from_url": "https:\/\/www.thisoldhouse.com\/ideas\/17-ways-to-build-table",
+                "image_width": 390,
+                "image_height": 250,
+                "image_bytes": 201314,
+                "service_icon": "https:\/\/www.thisoldhouse.com\/favicon.ico",
+                "service_name": "thisoldhouse.com",
+                "id": 1,
+                "original_url": "https:\/\/www.thisoldhouse.com\/ideas\/17-ways-to-build-table"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc67b62e-a98f-4255-ad22-70076acf5b4a",
+        "type": "message",
+        "text": "the name that describes it perfectly is API_EXCEPTIONS, but we don't want to use API or Exceptions in the name",
+        "user": "U15HY5TG8",
+        "ts": "1541077294.001700"
+    },
+    {
+        "client_msg_id": "104fb73f-b144-44ef-a571-beb5557ab69a",
+        "type": "message",
+        "text": "I need some programming synonyms",
+        "user": "U15HY5TG8",
+        "ts": "1541077302.002000"
+    },
+    {
+        "client_msg_id": "b018540a-0e33-42a5-96cf-50772789096c",
+        "type": "message",
+        "text": "SERVICE_ERRORS",
+        "user": "U15J5H60P",
+        "ts": "1541077313.002200"
+    },
+    {
+        "client_msg_id": "4b72fa1e-e5c3-428d-aff4-26bcf1f24f4e",
+        "type": "message",
+        "text": "SERVICE_MESSAGES",
+        "user": "U15J5H60P",
+        "ts": "1541077341.002400"
+    },
+    {
+        "client_msg_id": "646cc58b-db6b-459b-9736-ab1100cf44e7",
+        "type": "message",
+        "text": "hmmm I like service",
+        "user": "U15HY5TG8",
+        "ts": "1541077358.002800"
+    },
+    {
+        "client_msg_id": "e03920c8-7cff-4c23-9343-a24ee916ce3f",
+        "type": "message",
+        "text": "APPLICATION_PROGRAM_INTERFACE_DISRUPTION",
+        "user": "U15J5H60P",
+        "ts": "1541077382.003100"
+    },
+    {
+        "client_msg_id": "d5a692ce-dc6b-46d6-bc8a-ada138b9c4cf",
+        "type": "message",
+        "text": "What is this table going to hold?",
+        "user": "U15J5H60P",
+        "ts": "1541077387.003300"
+    },
+    {
+        "client_msg_id": "fc69a23f-bb66-42ed-a63b-f6a3419f02c4",
+        "type": "message",
+        "text": "What is an exception in this context?",
+        "user": "U15J5H60P",
+        "ts": "1541077398.003700"
+    },
+    {
+        "client_msg_id": "9fb0b7ba-3fb2-4db7-a631-1f55ef14275a",
+        "type": "message",
+        "text": "custom error responses from an API endpoint",
+        "user": "U15HY5TG8",
+        "ts": "1541077406.004000"
+    },
+    {
+        "client_msg_id": "6561a01b-2fe6-45e1-a890-f392a76a6c83",
+        "type": "message",
+        "text": "but they want it table driven",
+        "user": "U15HY5TG8",
+        "ts": "1541077428.004400"
+    },
+    {
+        "client_msg_id": "96ab5273-7519-42d8-b825-4bb973710379",
+        "type": "message",
+        "text": "Dumb",
+        "user": "U15J5H60P",
+        "ts": "1541077457.004600"
+    },
+    {
+        "client_msg_id": "6ac57941-904a-48ea-b473-bc67490bde78",
+        "type": "message",
+        "text": "It will only house errors?",
+        "user": "U15J5H60P",
+        "ts": "1541077477.004900"
+    },
+    {
+        "client_msg_id": "faf9c459-ee13-4a7a-b177-5d1743eab130",
+        "type": "message",
+        "text": "Why not all possible messages?",
+        "user": "U15J5H60P",
+        "ts": "1541077484.005200"
+    },
+    {
+        "client_msg_id": "cc1053cb-5e4c-4323-b819-c5680fd95dab",
+        "type": "message",
+        "text": "SERVICE_DESCRIPTION_MESSAGES",
+        "user": "U15J5H60P",
+        "ts": "1541077494.005500"
+    },
+    {
+        "client_msg_id": "ed4d9303-6553-45f3-853e-711634242739",
+        "type": "message",
+        "text": "Then you could have errors, info, and warnings.",
+        "user": "U15J5H60P",
+        "ts": "1541077504.005800"
+    },
+    {
+        "client_msg_id": "b700962f-827f-4deb-b94f-558430754540",
+        "type": "message",
+        "text": "it's actually going to stem into two tables. it's going to be something like client_id, client_name as one table and then client_id, description, message as table #2",
+        "user": "U15HY5TG8",
+        "ts": "1541077891.007100"
+    },
+    {
+        "client_msg_id": "4bcaee65-23b3-4bfe-8e28-f896a8853b37",
+        "type": "message",
+        "text": "wow",
+        "user": "U15HRTAHL",
+        "ts": "1541079476.007300"
+    },
+    {
+        "client_msg_id": "C42DFBAA-3B05-458F-9329-CFB1A24DCC20",
+        "type": "message",
+        "text": "What",
+        "user": "U15HY5TG8",
+        "ts": "1541079495.007800"
+    },
+    {
+        "client_msg_id": "4021b3ad-06bd-4f86-af75-66cba93a2a8e",
+        "type": "message",
+        "text": "I was so confused when I saw\n&gt;the name that describes it perfectly is API_EXCEPTIONS",
+        "user": "U15HRTAHL",
+        "ts": "1541079503.008000"
+    },
+    {
+        "client_msg_id": "831148d0-0acd-40fa-b4e5-d0cedc9e528c",
+        "type": "message",
+        "text": "I thought we were talking about tables like andrew linked",
+        "user": "U15HRTAHL",
+        "ts": "1541079523.008500"
+    },
+    {
+        "client_msg_id": "56323091-260a-4cc9-98c5-1127417eadb5",
+        "type": "message",
+        "text": "threw me off",
+        "user": "U15HRTAHL",
+        "ts": "1541079526.008700"
+    },
+    {
+        "client_msg_id": "D9B8DC1B-CAFE-479F-96C4-26251281B046",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1541079537.008900"
+    },
+    {
+        "client_msg_id": "5FD7CAFC-26A2-4206-B2ED-1A8D8F0B1431",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541081500.009100"
+    },
+    {
+        "client_msg_id": "0cb65f62-c966-4aa9-a07e-e75bb82460a2",
+        "type": "message",
+        "text": "so I thought I’d try writing my own email validation regex. Sounds simple right? just a little\n`(\\w*)@(\\w*)\\.(\\w){3}`",
+        "user": "U15HRTAHL",
+        "ts": "1541081845.009700"
+    },
+    {
+        "client_msg_id": "e7fb2a95-2270-40da-a29e-d4c7d9354dfa",
+        "type": "message",
+        "text": "go and see the “right” solution",
+        "user": "U15HRTAHL",
+        "ts": "1541081854.010000"
+    },
+    {
+        "client_msg_id": "eeff86c2-0d23-40e1-8e7d-73187b58f640",
+        "type": "message",
+        "text": "```\n(?:[a-z0-9!#$%&amp;'*+\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&amp;'*+\/=?^_`{|}~-]+)*|\"(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21\\x23-\\x5b\\x5d-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])*\")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\\[(?:(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9]))\\.){3}(?:(2(5[0-5]|[0-4][0-9])|1[0-9][0-9]|[1-9]?[0-9])|[a-z0-9-]*[a-z0-9]:(?:[\\x01-\\x08\\x0b\\x0c\\x0e-\\x1f\\x21-\\x5a\\x53-\\x7f]|\\\\[\\x01-\\x09\\x0b\\x0c\\x0e-\\x7f])+)\\])\n```",
+        "user": "U15HRTAHL",
+        "ts": "1541081865.010300"
+    },
+    {
+        "client_msg_id": "d4deb997-a4c2-4dde-bf61-269b38401728",
+        "type": "message",
+        "text": "And I’m done programming",
+        "user": "U15HRTAHL",
+        "ts": "1541081869.010500"
+    },
+    {
+        "client_msg_id": "e4b0f2dd-c0a5-4d11-92a7-ee7a68f23017",
+        "type": "message",
+        "text": "see ya",
+        "user": "U15HRTAHL",
+        "ts": "1541081870.010700"
+    },
+    {
+        "client_msg_id": "c40f0d0c-392e-4a29-b807-5735a3dc1baf",
+        "type": "message",
+        "text": "lol I tried that once for something I was working on",
+        "user": "U15HSHSS2",
+        "ts": "1541081880.010900"
+    },
+    {
+        "client_msg_id": "e451a823-ce3c-40a2-8e4a-819aab2aa35d",
+        "type": "message",
+        "text": "We have a separate file for email validation regex that I didn't know about, and somebody in the code review told me to use that instead, so i went to it and mine wasn't anywhere near what was in that file lol",
+        "user": "U15HSHSS2",
+        "ts": "1541081935.011900"
+    },
+    {
+        "client_msg_id": "c6856eb9-909a-4260-8baf-24d661feeb66",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1541081969.012100"
+    },
+    {
+        "client_msg_id": "c2fba812-0204-41df-811f-69b1cf6beb30",
+        "type": "message",
+        "text": "Well one of these are lying",
+        "user": "U15HRTAHL",
+        "ts": "1541082029.013000"
+    },
+    {
+        "client_msg_id": "6b72b891-0388-42b3-8ada-7461987120bf",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541082078.013200"
+    },
+    {
+        "client_msg_id": "785fca24-8e3f-40f7-ba94-e29a0f71944e",
+        "type": "message",
+        "text": "In my case it was javascript, so I wouldn't have been able to use MailAddress",
+        "user": "U15HSHSS2",
+        "ts": "1541082151.013700"
+    },
+    {
+        "client_msg_id": "4D939324-620A-4ED2-B36A-9F4679A3E649",
+        "type": "message",
+        "text": "Lol yeahhh regex is sweet. Im sure ive told you this before but i had to write a regex for an 8 character numerical value with a ton of pipes. I stretched visual studio across both screens and zoomed out to 10% and still couldnt fit it on the whole screen",
+        "user": "U15HY5TG8",
+        "ts": "1541083494.016600"
+    },
+    {
+        "client_msg_id": "FC98B8D7-31F3-42B5-89ED-938B7CB6538F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HSHSS2",
+        "ts": "1541083694.016800"
+    },
+    {
+        "client_msg_id": "f1c9b536-a4d9-419e-8494-b79a4df1d25a",
+        "type": "message",
+        "text": "I remember that",
+        "user": "U15HRTAHL",
+        "ts": "1541083855.017000"
+    },
+    {
+        "client_msg_id": "AF0595ED-79B7-4AD1-86D8-C84FDF2DF5E9",
+        "type": "message",
+        "text": "Email is wayyy more complex though as youve shown lol",
+        "user": "U15HY5TG8",
+        "ts": "1541084697.017600"
+    },
+    {
+        "client_msg_id": "57027dab-cb92-44c2-8d75-432c8060c230",
+        "type": "message",
+        "text": "apparently input type=“email” does validation for you but it does’t work lol",
+        "user": "U15HRTAHL",
+        "ts": "1541084744.018000"
+    },
+    {
+        "client_msg_id": "877a8e18-b420-415c-a1a7-4094092c6ab2",
+        "type": "message",
+        "text": "```\nif (email) {\n    let parts = email.split('@');\n    if (parts.length == 2 &amp;&amp; parts[0].length &gt; 0 &amp;&amp; parts[1].length &gt; 3) {\n        let domain = parts[1].split('.');\n        if (domain.length &gt; 1 &amp;&amp; domain[0].length &gt; 0 &amp;&amp; domain[1].length &gt; 0) {\n            this.setState({\n                emailValid : true\n            });\n        }\n    }\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1541084782.018200"
+    },
+    {
+        "client_msg_id": "43c9e9ba-949c-42d8-b90d-0a61eed4482d",
+        "type": "message",
+        "text": "easier than torturing myself with regex",
+        "user": "U15HRTAHL",
+        "ts": "1541084791.018500"
+    },
+    {
+        "client_msg_id": "B74AA5D9-43CA-4E16-953F-4DDD05304B61",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1541084859.018800"
+    },
+    {
+        "client_msg_id": "E8A3EF3B-9365-4DDA-84D9-641FE9495620",
+        "type": "message",
+        "text": "You may need to add a check for a plus sign if you want to exclude that",
+        "user": "U15HY5TG8",
+        "ts": "1541084895.019500"
+    },
+    {
+        "client_msg_id": "c8e9ef77-4937-4b9d-b8ba-8acb23ea11ba",
+        "type": "message",
+        "text": "<https:\/\/vimeo.com\/283777731>",
+        "user": "U15HSHSS2",
+        "ts": "1541092327.019700",
+        "attachments": [
+            {
+                "service_name": "Vimeo",
+                "service_url": "https:\/\/vimeo.com\/",
+                "title": "TERMINAL",
+                "title_link": "https:\/\/vimeo.com\/283777731",
+                "author_name": "CorrelationOne",
+                "author_link": "https:\/\/vimeo.com\/user86518607",
+                "thumb_url": "https:\/\/i.vimeocdn.com\/video\/735212424_295x166.jpg",
+                "thumb_width": 295,
+                "thumb_height": 166,
+                "fallback": "Vimeo Video: TERMINAL",
+                "video_html": "<iframe src=\"https:\/\/player.vimeo.com\/video\/283777731?autoplay=1&app_id=122963\" width=\"400\" height=\"225\" frameborder=\"0\" title=\"TERMINAL\" allow=\"autoplay; fullscreen\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/vimeo.com\/283777731",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/vimeo.png",
+                "id": 1,
+                "original_url": "https:\/\/vimeo.com\/283777731"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a2b2fac-7497-4208-a38e-66125647aa2f",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1541092334.020000"
+    },
+    {
+        "client_msg_id": "ed374679-2f34-450f-907f-d61956d5a4f6",
+        "type": "message",
+        "text": "that explained nothing",
+        "user": "U15HRTAHL",
+        "ts": "1541092545.020300"
+    },
+    {
+        "client_msg_id": "f5963377-5134-4f1d-aa4f-f68512994851",
+        "type": "message",
+        "text": "good job marketing team",
+        "user": "U15HRTAHL",
+        "ts": "1541092549.020500"
+    },
+    {
+        "client_msg_id": "ff75827c-d3d7-4039-9df1-9fa667a0d3ac",
+        "type": "message",
+        "text": "lol yeah I couldn't for the life of me find out exactly what it was or how it worked. You have to sign up on their site be able to get to the pages that describe what it is exactly",
+        "user": "U15HSHSS2",
+        "ts": "1541092645.022200"
+    },
+    {
+        "client_msg_id": "cc82b1d8-79ae-4870-bff6-7e3784bfbefc",
+        "type": "message",
+        "text": "dumb as shit",
+        "user": "U15HSHSS2",
+        "ts": "1541092648.022400"
+    },
+    {
+        "client_msg_id": "37bb17d5-58d3-42f1-95d4-defabb3647f4",
+        "type": "message",
+        "text": "but the game seems cool",
+        "user": "U15HSHSS2",
+        "ts": "1541092652.022600"
+    },
+    {
+        "client_msg_id": "5b74a3ea-b5da-4d5b-9406-e4e1a93f6be2",
+        "type": "message",
+        "text": "basically your A.I. vs somebody elses A.I.",
+        "user": "U15HSHSS2",
+        "ts": "1541092672.022900"
+    },
+    {
+        "client_msg_id": "240c5b7a-a962-40ea-ae3a-a17d8f7399dd",
+        "type": "message",
+        "text": "my if vs their ifs",
+        "user": "U15HRTAHL",
+        "ts": "1541092814.023200"
+    },
+    {
+        "client_msg_id": "d1a14c7d-150a-4acf-bb76-94978d1ae577",
+        "type": "message",
+        "text": "sounds like a game for lawyers",
+        "user": "U15HRTAHL",
+        "ts": "1541092824.023500"
+    },
+    {
+        "client_msg_id": "86ea61f1-addd-4a71-9e2d-0d89458f6760",
+        "type": "message",
+        "text": "Alright guys",
+        "user": "U15HRTAHL",
+        "ts": "1541092834.023700"
+    },
+    {
+        "client_msg_id": "a8ff9586-7206-403d-81a4-73283646f8ef",
+        "type": "message",
+        "text": "lets steal this idea",
+        "user": "U15HRTAHL",
+        "ts": "1541092837.023900"
+    },
+    {
+        "client_msg_id": "a14f7bf5-7d9c-46cd-be74-b95ac86cb0aa",
+        "type": "message",
+        "text": "and market it towards lawyers",
+        "user": "U15HRTAHL",
+        "ts": "1541092843.024200"
+    },
+    {
+        "client_msg_id": "8460b5b6-8e44-46df-bb45-ba7cb967ae6c",
+        "type": "message",
+        "text": "if we all quit our jobs when can probably get it done in about 6 weeks",
+        "user": "U15HRTAHL",
+        "ts": "1541092859.024600"
+    },
+    {
+        "client_msg_id": "e34d0e31-b3e2-47f7-9397-671f248fd06c",
+        "type": "message",
+        "text": "Gunna get my Law degree first to make the process a little easier. Should probably have it in 2 - 3 weeks",
+        "user": "U15HSHSS2",
+        "ts": "1541092965.025200"
+    },
+    {
+        "client_msg_id": "25216209-D944-41AC-A3A2-D17768E6CDA7",
+        "type": "message",
+        "text": "C# is pissing me off right now",
+        "user": "U15HY5TG8",
+        "ts": "1541094455.025600"
+    },
+    {
+        "client_msg_id": "79A1E702-47CC-478D-9AA5-5E15DC205974",
+        "type": "message",
+        "text": "I have a custom exception",
+        "user": "U15HY5TG8",
+        "ts": "1541094465.025900"
+    },
+    {
+        "client_msg_id": "2088C50F-4D2E-49A4-AE7C-3E9B1F434BE2",
+        "type": "message",
+        "text": "And did\nTry{ blah()}\nCatch(Exception){\nthrow new CustomException;\n}",
+        "user": "U15HY5TG8",
+        "ts": "1541094546.027800"
+    },
+    {
+        "client_msg_id": "F06BDB95-473B-4CCE-B4F6-A48663DA3DB5",
+        "type": "message",
+        "text": "What does it do? Goes to the parent function and drops into the parent Exception class",
+        "user": "U15HY5TG8",
+        "ts": "1541094583.028700"
+    },
+    {
+        "client_msg_id": "B9BD874E-3565-4816-8A3F-19E17BDE7258",
+        "type": "message",
+        "text": "So then what did I do? I just decided to do the single line throw new CustomException; still goes into Exception",
+        "user": "U15HY5TG8",
+        "ts": "1541094620.029900"
+    },
+    {
+        "client_msg_id": "b3a6a4ff-0b63-430d-9f50-8ca0afc6848d",
+        "type": "message",
+        "text": "wat",
+        "user": "U15HRTAHL",
+        "ts": "1541094638.030100"
+    },
+    {
+        "client_msg_id": "ddc6a0c2-a57c-4927-acbc-4fb6aaf0776c",
+        "type": "message",
+        "text": "parent?",
+        "user": "U15HRTAHL",
+        "ts": "1541094641.030300"
+    },
+    {
+        "client_msg_id": "a0231edf-744a-4d24-b277-aa3fd3a4f56b",
+        "type": "message",
+        "text": "wat",
+        "user": "U15HRTAHL",
+        "ts": "1541094643.030600",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1541094645.000000"
+        }
+    },
+    {
+        "client_msg_id": "54b97469-ba34-4743-a6f7-988416f7dd69",
+        "type": "message",
+        "text": "I have a method surrounded with a try catch",
+        "user": "U15HY5TG8",
+        "ts": "1541094668.031300"
+    },
+    {
+        "client_msg_id": "a9b8037a-fbab-4b7f-b0e3-cec61607bab2",
+        "type": "message",
+        "text": "that method throws my custom exception",
+        "user": "U15HY5TG8",
+        "ts": "1541094675.031700"
+    },
+    {
+        "client_msg_id": "4efcb4d9-c85b-4e30-99ea-4a6a6f671f77",
+        "type": "message",
+        "text": "you’re catching an exception just to throw a new exception :face_vomiting:",
+        "user": "U15HRTAHL",
+        "ts": "1541094676.031900"
+    },
+    {
+        "client_msg_id": "65f6c50f-7d4b-4920-aa3c-c9aa6df15f8a",
+        "type": "message",
+        "text": "no, that's just an attempt I made to try to get it into the right one",
+        "user": "U15HY5TG8",
+        "ts": "1541094695.032400"
+    },
+    {
+        "client_msg_id": "e685c270-e548-4462-9170-06032371e5f6",
+        "type": "message",
+        "text": "```if (accountDataEndpoint.postResult.postOutput.output.statusCode != \"400\")\n            {\n                throw new EssilorResponseException(\"Web service could not complete the request.\", accountDataEndpoint.postResult.postOutput.output.statusCode);\n            }```",
+        "user": "U15HY5TG8",
+        "ts": "1541094713.032600",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1541094717.000000"
+        }
+    },
+    {
+        "client_msg_id": "db974a9c-bf18-4d28-b3d4-f8560b972afd",
+        "type": "message",
+        "text": "exception inception",
+        "user": "U15HRTAHL",
+        "ts": "1541094718.032900"
+    },
+    {
+        "client_msg_id": "b82b8542-9ec7-41e4-91e5-5cf5a2ec569a",
+        "type": "message",
+        "text": "that's how it actually works",
+        "user": "U15HY5TG8",
+        "ts": "1541094723.033100"
+    },
+    {
+        "client_msg_id": "e6b1b733-bf72-438a-a8fd-e3201288c686",
+        "type": "message",
+        "text": "then in the parent, it's\n```try{ blah()}\ncatch(EssilorResponseException){}```",
+        "user": "U15HY5TG8",
+        "ts": "1541094759.034000"
+    },
+    {
+        "client_msg_id": "0932cc37-aace-4d30-9cd5-3d51def4f6c5",
+        "type": "message",
+        "text": "but then never enters that",
+        "user": "U15HY5TG8",
+        "ts": "1541094765.034200"
+    },
+    {
+        "client_msg_id": "4041e472-8f3a-49e6-9a63-1cc45d5695dd",
+        "type": "message",
+        "text": "ya feel?",
+        "user": "U15HY5TG8",
+        "ts": "1541094968.034400"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1541095018.034700",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/chris-christie-rand-paul-attacks-GfAD7Bl016Gfm",
+                "image_url": "https:\/\/media0.giphy.com\/media\/GfAD7Bl016Gfm\/giphy.gif?cid=6104955e5bdb3e67576d6e492ef292d8",
+                "image_width": 500,
+                "image_height": 239,
+                "image_bytes": 958032,
+                "is_animated": true,
+                "title": "facepalm",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/chris-christie-rand-paul-attacks-GfAD7Bl016Gfm"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B800E981-5795-48EC-BFA3-5F5F8B2B9437",
+        "type": "message",
+        "text": "Theres nothing wrong with my code you fools",
+        "user": "U15HY5TG8",
+        "ts": "1541095049.035100"
+    },
+    {
+        "client_msg_id": "f5a98587-7243-4620-a878-7a51a91c9d12",
+        "type": "message",
+        "text": "blah() throws the exception?",
+        "user": "U15J5H60P",
+        "ts": "1541095062.035500"
+    },
+    {
+        "client_msg_id": "DB1CBDAD-39EF-44BE-AF12-D0059C7DEDB7",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1541095067.035800"
+    },
+    {
+        "client_msg_id": "020872df-e711-4f23-bd7e-14c9a25ab09a",
+        "type": "message",
+        "text": "i don’t understand what you’re doing",
+        "user": "U15HRTAHL",
+        "ts": "1541095068.035900"
+    },
+    {
+        "client_msg_id": "9a391dd8-db86-460c-aee8-6513885480c1",
+        "type": "message",
+        "text": "So what happens after the exception is thrown?",
+        "user": "U15J5H60P",
+        "ts": "1541095082.036600"
+    },
+    {
+        "client_msg_id": "3817f341-0d57-42d9-9f3a-9f9de8f1d72b",
+        "type": "message",
+        "text": "It just crashes?",
+        "user": "U15J5H60P",
+        "ts": "1541095090.037300"
+    },
+    {
+        "client_msg_id": "75afe1d7-891b-4a83-b69a-99ccafb83b4d",
+        "type": "message",
+        "text": "&gt; What does it do? Goes to the parent function and drops into the parent Exception class\nI don’t know what this means",
+        "user": "U15HRTAHL",
+        "ts": "1541095095.037700"
+    },
+    {
+        "client_msg_id": "ff89f810-c0db-4961-aad5-e3337017f338",
+        "type": "message",
+        "text": "I think you need to start from the top",
+        "user": "U15HRTAHL",
+        "ts": "1541095121.038300"
+    },
+    {
+        "client_msg_id": "761FF91E-7AA0-4928-9BE3-5BFFB53D95E3",
+        "type": "message",
+        "text": "The parent (method) holds the try catch",
+        "user": "U15HY5TG8",
+        "ts": "1541095124.038500"
+    },
+    {
+        "client_msg_id": "A35B3BD4-09B6-4F38-9FE9-980A6B511B00",
+        "type": "message",
+        "text": "Blah is the child and throws the custom exception",
+        "user": "U15HY5TG8",
+        "ts": "1541095143.039200"
+    },
+    {
+        "client_msg_id": "DEA00F48-CD5B-4F09-8A20-FCE433A11254",
+        "type": "message",
+        "text": "The parent should catch that custom exception but doesnt",
+        "user": "U15HY5TG8",
+        "ts": "1541095155.039900"
+    },
+    {
+        "client_msg_id": "0B9ACB18-B114-4F61-8B2D-5965D3DC0EEA",
+        "type": "message",
+        "text": "It goes into just the Exception block",
+        "user": "U15HY5TG8",
+        "ts": "1541095172.040800"
+    },
+    {
+        "client_msg_id": "467d5787-44c2-48fe-b58f-2b6e39f09f3d",
+        "type": "message",
+        "text": "```\nparent() {\n    try {\n       child()\n    } catch(Exception e) {\n    }\n}\n\nchild() {\n    throw exception;\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1541095213.041200"
+    },
+    {
+        "client_msg_id": "d3c7a631-d924-480c-8ab6-8c59c6da2e59",
+        "type": "message",
+        "text": "&gt; It goes into just the Exception block",
+        "user": "U15HRTAHL",
+        "ts": "1541095222.041600"
+    },
+    {
+        "client_msg_id": "68379DC9-4228-45F9-B2BB-B7CA586C0262",
+        "type": "message",
+        "text": "Yup like that",
+        "user": "U15HY5TG8",
+        "ts": "1541095224.041800"
+    },
+    {
+        "client_msg_id": "590fd28a-9ae5-4a1b-84d8-d690e564edb3",
+        "type": "message",
+        "text": "where is that in this model?",
+        "user": "U15HRTAHL",
+        "ts": "1541095225.041900"
+    },
+    {
+        "client_msg_id": "467D8F42-343C-4165-81E3-F4565131DBEB",
+        "type": "message",
+        "text": "But add a custom exception block",
+        "user": "U15HY5TG8",
+        "ts": "1541095241.042300"
+    },
+    {
+        "client_msg_id": "134ea680-e79f-4a46-8785-048334c8ca67",
+        "type": "message",
+        "text": "you lost me there",
+        "user": "U15HRTAHL",
+        "ts": "1541095262.042900"
+    },
+    {
+        "client_msg_id": "3ba3e1aa-c11d-4ccb-bc42-9e92118c3aee",
+        "type": "message",
+        "text": "idk what that means",
+        "user": "U15HRTAHL",
+        "ts": "1541095265.043200"
+    },
+    {
+        "client_msg_id": "88084A65-2E04-49AD-A2D6-4E9ADB7524BB",
+        "type": "message",
+        "text": "Hold on ive got a meeting. Ill draw it out better after",
+        "user": "U15HY5TG8",
+        "ts": "1541095279.043500"
+    },
+    {
+        "client_msg_id": "ddba546e-c37a-4fe6-bf17-226e3640bb7b",
+        "type": "message",
+        "text": "ok",
+        "user": "U15HRTAHL",
+        "ts": "1541095282.043700"
+    },
+    {
+        "client_msg_id": "88f0a9c2-88a0-46b3-a609-46fe5f1a9f18",
+        "type": "message",
+        "text": "```public function parent() {\n  try {\n    child();\n  }\n  catch(CustomException e)\n  {\n    it doesn't\n    enter here\n  }\n  catch(Exception e)\n  {\n    it enters\n    here\n  }\n} \n\npublic function child() {\n  throw new CustomException();\n}```",
+        "user": "U15HY5TG8",
+        "ts": "1541095945.043900"
+    },
+    {
+        "client_msg_id": "ccd27faa-228f-406a-9352-847267e23e40",
+        "type": "message",
+        "text": "Are you sure there's not another exception being thrown before your custom one?",
+        "user": "U15HSHSS2",
+        "ts": "1541096016.044400"
+    },
+    {
+        "client_msg_id": "474AA2C5-ACFC-4483-86EC-A43014F8F36D",
+        "type": "message",
+        "text": "Yeah because i stepped through it. Unless the custom exception is throwing an exception itself lol",
+        "user": "U15HY5TG8",
+        "ts": "1541096052.045400"
+    },
+    {
+        "client_msg_id": "8dd6cad7-c7f4-45da-9f62-8033b316f789",
+        "type": "message",
+        "text": "What is the exception message when you enter the catch block?",
+        "user": "U15HSHSS2",
+        "ts": "1541096375.046100"
+    },
+    {
+        "client_msg_id": "17E0E9C6-87EA-4425-A365-2EB8598B5352",
+        "type": "message",
+        "text": "Checking again now, hold on",
+        "user": "U15HY5TG8",
+        "ts": "1541096393.046500"
+    },
+    {
+        "client_msg_id": "074e0978-7a49-4c45-84fb-21d09d0be1f8",
+        "type": "message",
+        "text": "I can't win. this time it just returned 500 due to timeout",
+        "user": "U15HY5TG8",
+        "ts": "1541096602.046900"
+    },
+    {
+        "client_msg_id": "3d5919db-84f3-47c4-85f5-84f5d452f95c",
+        "type": "message",
+        "text": "It timed out before the catch block? or the exception thrown was a 500 timeout exception?",
+        "user": "U15HSHSS2",
+        "ts": "1541096695.048100"
+    },
+    {
+        "client_msg_id": "530e15e6-965a-4e32-9120-36330fbc5965",
+        "type": "message",
+        "text": "the exception thrown was a 500, which is legitimately going into the Exception block",
+        "user": "U15HY5TG8",
+        "ts": "1541096732.048600"
+    },
+    {
+        "client_msg_id": "f93493c4-4868-477d-ab81-7553eb757390",
+        "type": "message",
+        "text": "I need to get a valid response first before I can explain more",
+        "user": "U15HY5TG8",
+        "ts": "1541096751.049100",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1541096753.000000"
+        }
+    },
+    {
+        "client_msg_id": "6178b196-7059-4dbf-af62-c15b05197ab7",
+        "type": "message",
+        "text": "And do you know if the 500 is being thrown before your custom exception? or sometime in the process of throwing your custom exception?",
+        "user": "U15HSHSS2",
+        "ts": "1541096805.050200"
+    },
+    {
+        "client_msg_id": "287C70DC-E54E-4CC6-9A9D-8ECA6C66BB7D",
+        "type": "message",
+        "text": "The api im calling was throwing 412 before, so now theyre server must be like down or something",
+        "user": "U15HY5TG8",
+        "ts": "1541096876.051700"
+    },
+    {
+        "client_msg_id": "dea6b0d6-d2c7-4c12-ad60-312c443f417f",
+        "type": "message",
+        "text": "ah",
+        "user": "U15HSHSS2",
+        "ts": "1541096888.051900"
+    },
+    {
+        "client_msg_id": "2e6863e5-832c-4c85-9bd6-5ef285c1b2f0",
+        "type": "message",
+        "text": "I really think you’re doing something wrong",
+        "user": "U15HRTAHL",
+        "ts": "1541099395.052500"
+    },
+    {
+        "client_msg_id": "7e17353a-2b72-4210-856f-e9cfe8fa3a46",
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1541099496.052700"
+    },
+    {
+        "client_msg_id": "49d3f8ea-cc39-4bc0-9e88-cd15b6fe5491",
+        "type": "message",
+        "text": "I think I got it",
+        "user": "U15HRTAHL",
+        "ts": "1541099498.052900"
+    },
+    {
+        "client_msg_id": "8704277d-9a9a-434c-8c2e-784cb4f7c404",
+        "type": "message",
+        "text": "add your caught exception to your custom exception",
+        "user": "U15HRTAHL",
+        "ts": "1541099526.053600"
+    },
+    {
+        "client_msg_id": "0433e242-b99b-45d6-9377-1beca4de7e36",
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1541099548.053800"
+    },
+    {
+        "client_msg_id": "b594b4a3-b7f4-4c9d-91af-193d8148b385",
+        "type": "message",
+        "text": "<@U15HY5TG8> answer me",
+        "user": "U15HRTAHL",
+        "ts": "1541099551.054000"
+    },
+    {
+        "client_msg_id": "0bc47f5f-1740-43ad-8249-dec31fae39aa",
+        "type": "message",
+        "text": "meow",
+        "user": "U15HRTAHL",
+        "ts": "1541099553.054200"
+    },
+    {
+        "client_msg_id": "38350ba7-559f-419d-b5bd-b846cf86b30c",
+        "type": "message",
+        "text": ":cat:",
+        "user": "U15HRTAHL",
+        "ts": "1541099555.054400"
+    },
+    {
+        "client_msg_id": "0eacebca-254a-460e-8bf0-600d0ab05df5",
+        "type": "message",
+        "text": "I guess we’ll never find out guys",
+        "user": "U15HRTAHL",
+        "ts": "1541100811.054600"
+    },
+    {
+        "client_msg_id": "1124795D-3D1B-49A3-A9C2-B798D924189A",
+        "type": "message",
+        "text": "I did",
+        "user": "U15HY5TG8",
+        "ts": "1541100912.054800"
+    },
+    {
+        "client_msg_id": "3F32EF07-0A54-4D02-8EE7-C0D3A8E70A3F",
+        "type": "message",
+        "text": "I tried both",
+        "user": "U15HY5TG8",
+        "ts": "1541100915.055000"
+    },
+    {
+        "client_msg_id": "69170F24-56A0-40F4-ABD5-A4948C3BF9E3",
+        "type": "message",
+        "text": "I put the custom exception in the first block",
+        "user": "U15HY5TG8",
+        "ts": "1541100926.055400"
+    },
+    {
+        "client_msg_id": "56782BFE-3B8D-4D7F-B777-D24741AC405E",
+        "type": "message",
+        "text": "So it shouldve caught it",
+        "user": "U15HY5TG8",
+        "ts": "1541100933.055700"
+    },
+    {
+        "client_msg_id": "C321A71F-5D26-4C43-94CB-3DD52861CE20",
+        "type": "message",
+        "text": "Then i tried to do a nested exception to throw my custom exception",
+        "user": "U15HY5TG8",
+        "ts": "1541100949.056300"
+    },
+    {
+        "client_msg_id": "2BDB9D5D-6663-46BA-9305-A9CB05BE04FA",
+        "type": "message",
+        "text": "That was where you did the puking face",
+        "user": "U15HY5TG8",
+        "ts": "1541100959.056700"
+    },
+    {
+        "client_msg_id": "06cf67d1-aeb1-4442-af65-2af2e0f5895e",
+        "type": "message",
+        "text": "yes butdid you add the caught exception to the custom exception?",
+        "user": "U15HRTAHL",
+        "ts": "1541101191.057400",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1541101195.000000"
+        }
+    },
+    {
+        "client_msg_id": "D60DB5C5-3D11-49F2-80BF-86710548EA03",
+        "type": "message",
+        "text": "That doesnt make sense",
+        "user": "U15HY5TG8",
+        "ts": "1541101384.057900"
+    },
+    {
+        "client_msg_id": "cc06641d-7fc7-4ad1-925a-ed4d8cdd417d",
+        "type": "message",
+        "text": "it’s right there in the second picture",
+        "user": "U15HRTAHL",
+        "ts": "1541101400.058300"
+    },
+    {
+        "client_msg_id": "16eded57-0275-4a02-8ea3-1974ddde65d9",
+        "type": "message",
+        "text": "What ev has should work",
+        "user": "U15HSHSS2",
+        "ts": "1541101451.058600"
+    },
+    {
+        "client_msg_id": "3022a5a5-88c1-4c93-853b-c87089e13ae3",
+        "type": "message",
+        "text": "Should vs is",
+        "user": "U15HRTAHL",
+        "ts": "1541101475.059200"
+    },
+    {
+        "client_msg_id": "fbef9059-ceaa-4c9c-8b2d-929b85ff8465",
+        "type": "message",
+        "text": "I'm curious to know what the exception actually is that is being caught if its not the custom one",
+        "user": "U15HSHSS2",
+        "ts": "1541101489.059800"
+    },
+    {
+        "client_msg_id": "4c95c81d-caaa-4884-b974-50147a46a30d",
+        "type": "message",
+        "text": "That second picture won't actually catch the custom exception though will it?",
+        "user": "U15HSHSS2",
+        "ts": "1541101583.060800"
+    },
+    {
+        "client_msg_id": "587e30e2-a39a-421f-a76b-329b224fc563",
+        "type": "message",
+        "text": "all it does is throw it",
+        "user": "U15HSHSS2",
+        "ts": "1541101592.061300"
+    },
+    {
+        "client_msg_id": "F8781FEB-3288-40D1-96FB-90CCBB404DCD",
+        "type": "message",
+        "text": "Yeah i have no idea",
+        "user": "U15HY5TG8",
+        "ts": "1541101603.061400"
+    },
+    {
+        "client_msg_id": "cd9ec5c2-cd46-4239-a5bf-90d4a0ed8dbd",
+        "type": "message",
+        "text": "omg",
+        "user": "U15HRTAHL",
+        "ts": "1541101606.061600"
+    },
+    {
+        "client_msg_id": "feee2fb4-affd-43d0-92e7-ce4544e953c6",
+        "type": "message",
+        "text": "you guys",
+        "user": "U15HRTAHL",
+        "ts": "1541101607.061800"
+    },
+    {
+        "client_msg_id": "81574f2f-8439-449a-93a7-85a8cde7ad53",
+        "type": "message",
+        "text": "read",
+        "user": "U15HRTAHL",
+        "ts": "1541101608.062000"
+    },
+    {
+        "client_msg_id": "B53AC08C-F0CC-4BEA-8E78-F9A93C14D256",
+        "type": "message",
+        "text": "RTDP",
+        "user": "U15HY5TG8",
+        "ts": "1541101614.062300"
+    },
+    {
+        "client_msg_id": "59b00071-95ae-4974-af1e-a0debb1555e7",
+        "type": "message",
+        "text": "RTDP",
+        "user": "U15HSHSS2",
+        "ts": "1541101615.062400"
+    },
+    {
+        "client_msg_id": "0f0b2c46-c3ae-47e0-959c-299eb02c6253",
+        "type": "message",
+        "text": "&gt; You can catch one exception and throw a different exception. When you do this, specify the exception that you caught as the inner exception, as shown in the following example.",
+        "user": "U15HRTAHL",
+        "ts": "1541101634.062800"
+    },
+    {
+        "client_msg_id": "E2997B10-EFEA-4968-B10A-A6046DB6AF15",
+        "type": "message",
+        "text": "YOU READ. I told you i did that lol",
+        "user": "U15HY5TG8",
+        "ts": "1541101639.063100"
+    },
+    {
+        "client_msg_id": "f5c2a501-d65e-4737-a527-028122bbd4bb",
+        "type": "message",
+        "text": "no you said that doesn’t make sense",
+        "user": "U15HRTAHL",
+        "ts": "1541101646.063500"
+    },
+    {
+        "client_msg_id": "1ba1e409-d2b7-439e-883f-c04d43362ba8",
+        "type": "message",
+        "text": "&gt; When you do this, *specify the exception that you caught as the inner exception*",
+        "user": "U15HRTAHL",
+        "ts": "1541101653.063900"
+    },
+    {
+        "client_msg_id": "f72c1c7f-6b83-4eec-9c85-5027667541b2",
+        "type": "message",
+        "text": "RTDP",
+        "user": "U15J5H60P",
+        "ts": "1541101678.064100"
+    },
+    {
+        "client_msg_id": "ED009951-700C-43DE-94AD-02DA34F753A2",
+        "type": "message",
+        "text": "Wait",
+        "user": "U15HY5TG8",
+        "ts": "1541101683.064300"
+    },
+    {
+        "client_msg_id": "F84166BE-CB13-42E2-B537-715D025CDC86",
+        "type": "message",
+        "text": "Inner exception you say",
+        "user": "U15HY5TG8",
+        "ts": "1541101690.064700"
+    },
+    {
+        "client_msg_id": "0613B3D7-E9CD-45F5-A604-B51E4D3791B4",
+        "type": "message",
+        "text": "That might be the key",
+        "user": "U15HY5TG8",
+        "ts": "1541101698.065100"
+    },
+    {
+        "client_msg_id": "1a364e4a-1e12-4869-8b6e-3effd1dbced9",
+        "type": "message",
+        "text": "catch(exception){\n   catch(YourExceptoin){}\n}",
+        "user": "U15J5H60P",
+        "ts": "1541101704.065400"
+    },
+    {
+        "client_msg_id": "2caa076a-b6e1-4a4f-b531-4b4eab940a42",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541101712.066000"
+    },
+    {
+        "client_msg_id": "2ac2226c-edeb-4ccd-9b5b-195762f96fda",
+        "type": "message",
+        "text": "like that?",
+        "user": "U15J5H60P",
+        "ts": "1541101714.066100"
+    },
+    {
+        "client_msg_id": "BBE51678-3F45-4C46-BC7E-24FBF1C28E59",
+        "type": "message",
+        "text": "I did that part <@U15J5H60P> ",
+        "user": "U15HY5TG8",
+        "ts": "1541101714.066200"
+    },
+    {
+        "client_msg_id": "8d556609-bf41-414e-a136-49c4262bcd0c",
+        "type": "message",
+        "text": "oh",
+        "user": "U15J5H60P",
+        "ts": "1541101716.066500"
+    },
+    {
+        "client_msg_id": "22e0ab67-98ae-4251-9d68-0991a77dba34",
+        "type": "message",
+        "text": "```\npublic function parent() {\n  try {\n    child();\n  }\n  catch(CustomException e)\n  {\n    it doesn't\n    enter here\n  }\n  catch(Exception e)\n  {\n    it enters\n    here\n  }\n} \n\npublic function child() {\n    try {\n    } catch(Exception e) {\n        throw new CustomException(e);\n    }\n  \n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1541101776.068300"
+    },
+    {
+        "client_msg_id": "45bbaeec-7f1c-4604-bb5d-ee014cb477ea",
+        "type": "message",
+        "text": "Hmm...",
+        "user": "U15J5H60P",
+        "ts": "1541101817.068700"
+    },
+    {
+        "client_msg_id": "77972623-0a23-4ab9-ae48-4252cd9cbb32",
+        "type": "message",
+        "text": "taken from the docs",
+        "user": "U15HRTAHL",
+        "ts": "1541101822.069100"
+    },
+    {
+        "client_msg_id": "26429b5e-537c-406b-bcf0-413f5a592a21",
+        "type": "message",
+        "text": "copy pasta",
+        "user": "U15HRTAHL",
+        "ts": "1541101824.069400"
+    },
+    {
+        "client_msg_id": "20b5b6bc-afbb-4848-8c89-c43a54a8399b",
+        "type": "message",
+        "text": "So throw a random exceptoin?",
+        "user": "U15J5H60P",
+        "ts": "1541101825.069500"
+    },
+    {
+        "client_msg_id": "fd8a20f4-dadb-458a-8030-8a7fcb098188",
+        "type": "message",
+        "text": "Then it'll get to the CustomExceptoin",
+        "user": "U15J5H60P",
+        "ts": "1541101831.070000"
+    },
+    {
+        "client_msg_id": "8d7321ba-67ae-45a8-a272-01dfa2c59db8",
+        "type": "message",
+        "text": "That seems a lil hacky",
+        "user": "U15J5H60P",
+        "ts": "1541101837.070200"
+    },
+    {
+        "client_msg_id": "60fa8787-eefb-4c90-ab4c-edebfdd80431",
+        "type": "message",
+        "text": "that should literally do the same thing ev has...",
+        "user": "U15HSHSS2",
+        "ts": "1541101839.070400"
+    },
+    {
+        "client_msg_id": "ed6c76d4-c26a-4cd2-a676-ee8d8e71de24",
+        "type": "message",
+        "text": "sorry",
+        "user": "U15HRTAHL",
+        "ts": "1541101846.070900"
+    },
+    {
+        "client_msg_id": "e914c94c-0cd0-4d3c-9949-7d8e1f9da634",
+        "type": "message",
+        "text": "Evan's should work",
+        "user": "U15J5H60P",
+        "ts": "1541101846.071100"
+    },
+    {
+        "client_msg_id": "725c891d-8c12-4f6b-9d35-794a741f1e7e",
+        "type": "message",
+        "text": "let me redo this",
+        "user": "U15HRTAHL",
+        "ts": "1541101848.071400"
+    },
+    {
+        "client_msg_id": "c71f5e96-c9bf-4fe8-a33d-22ffbcad7bb5",
+        "type": "message",
+        "text": "Why doesn't it",
+        "user": "U15J5H60P",
+        "ts": "1541101849.071500"
+    },
+    {
+        "client_msg_id": "950de7f4-11cf-495f-84bf-24b849919092",
+        "type": "message",
+        "text": "Fucking trash ass language",
+        "user": "U15J5H60P",
+        "ts": "1541101853.072000"
+    },
+    {
+        "client_msg_id": "93993aab-cde8-4574-8f51-87e35151f403",
+        "type": "message",
+        "text": "instead of throwing it right away its going through a catch and then throwing it",
+        "user": "U15HSHSS2",
+        "ts": "1541101856.072300"
+    },
+    {
+        "client_msg_id": "c3acd4c3-fd29-4cd5-8b0b-0f14c248c208",
+        "type": "message",
+        "text": "Stop using it",
+        "user": "U15J5H60P",
+        "ts": "1541101857.072500"
+    },
+    {
+        "client_msg_id": "1509f0ab-db24-40a0-96d2-81e54918dec7",
+        "type": "message",
+        "text": "Go to scala",
+        "user": "U15J5H60P",
+        "ts": "1541101858.072700"
+    },
+    {
+        "client_msg_id": "115DC7D1-306D-4DF8-BC96-4B0241BC67AE",
+        "type": "message",
+        "text": "<@U15HRTAHL> im telling you i did that before too",
+        "user": "U15HY5TG8",
+        "ts": "1541101864.073100"
+    },
+    {
+        "client_msg_id": "f0fccc1e-e8a0-4b7c-96e3-84c0eccc503a",
+        "type": "message",
+        "text": "```\npublic function parent() {\n  try {\n    child();\n  }\n  catch(CustomException e)\n  {\n    it doesn't\n    enter here\n  }\n  catch(Exception e)\n  {\n    it enters\n    here\n  }\n} \n\npublic function child() {\n    try {\n         \/\/your shit code that is throwing the exception you want to catch\n    } catch(Exception e) {\n        throw new CustomException(e); &lt;---- you added the exception here?\n    }\n  \n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1541101867.073300",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1541101886.000000"
+        }
+    },
+    {
+        "client_msg_id": "b4ae9d5e-316c-49ce-aa30-533473da5999",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541101877.073500"
+    },
+    {
+        "client_msg_id": "35eb6046-ac9a-4194-9948-0511ba2720b9",
+        "type": "message",
+        "text": "That's throwing two exceptions of the same type",
+        "user": "U15J5H60P",
+        "ts": "1541101885.073800"
+    },
+    {
+        "client_msg_id": "cb37b453-7a39-46bb-be68-0234afc35f62",
+        "type": "message",
+        "text": "that's dumb",
+        "user": "U15J5H60P",
+        "ts": "1541101886.074100"
+    },
+    {
+        "client_msg_id": "FA966480-8026-4976-988B-784D5973ACD5",
+        "type": "message",
+        "text": "<@U15HRTAHL> it aint my shit code",
+        "user": "U15HY5TG8",
+        "ts": "1541101893.074600"
+    },
+    {
+        "client_msg_id": "4f3586e0-eef0-4df2-97a4-388a64eb252e",
+        "type": "message",
+        "text": "```",
+        "user": "U15J5H60P",
+        "ts": "1541101897.074800"
+    },
+    {
+        "client_msg_id": "0e248888-c64b-4860-9a0c-13739d195400",
+        "type": "message",
+        "text": "```\npublic function parent() {\n  try {\n    child();\n  }\n  catch(CustomException e)\n  {\n    it doesn't\n    enter here\n  }\n  catch(Exception e)\n  {\n    it enters\n    here\n  }\n} \n\npublic function child() {\ntry{\nif(ass) { throw exception }\n}catch(exception e) {\n  throw new CustomException();\n}\n}\n```",
+        "user": "U15J5H60P",
+        "ts": "1541101908.075300",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1541101961.000000"
+        }
+    },
+    {
+        "client_msg_id": "57bd673c-45b6-46ec-92bf-589bde1cf59c",
+        "type": "message",
+        "text": "wtfff",
+        "user": "U15J5H60P",
+        "ts": "1541101910.075600"
+    },
+    {
+        "client_msg_id": "888f3b73-d707-478c-a289-7cc0e63c0269",
+        "type": "message",
+        "text": "Why can't i shift enter",
+        "user": "U15J5H60P",
+        "ts": "1541101914.075800"
+    },
+    {
+        "client_msg_id": "0B75E2E4-2D54-4FD5-9E1E-AFEDD03C47E5",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1541101917.076100"
+    },
+    {
+        "client_msg_id": "2ba24282-9f89-4b24-83b1-ef687968db74",
+        "type": "message",
+        "text": "The issue is that when the exception is thrown, its not being caught as the custom one",
+        "user": "U15HSHSS2",
+        "ts": "1541101920.076200"
+    },
+    {
+        "client_msg_id": "114B9C47-CF3B-4049-8459-B2BBEE2AD683",
+        "type": "message",
+        "text": "Correct",
+        "user": "U15HY5TG8",
+        "ts": "1541101928.076800"
+    },
+    {
+        "client_msg_id": "77f2fe0c-0896-4e5d-821a-b7a7c64e4c78",
+        "type": "message",
+        "text": "so the code joe posted would result in the same issue",
+        "user": "U15HSHSS2",
+        "ts": "1541101931.077000"
+    },
+    {
+        "client_msg_id": "E957D33B-6D31-47F5-BAE6-EF72A119C9C5",
+        "type": "message",
+        "text": "I tried both ways <@U15HRTAHL> ",
+        "user": "U15HY5TG8",
+        "ts": "1541101940.077400"
+    },
+    {
+        "client_msg_id": "ea7bc9d6-b54d-4306-bc73-270d33b05c13",
+        "type": "message",
+        "text": "show me your code",
+        "user": "U15HRTAHL",
+        "ts": "1541101947.077700"
+    },
+    {
+        "client_msg_id": "e2077b57-a7a0-44de-b56d-22b31dbcc927",
+        "type": "message",
+        "text": "What does the custom exception class look like?",
+        "user": "U15HSHSS2",
+        "ts": "1541101969.078500"
+    },
+    {
+        "client_msg_id": "EED63893-171F-4C8A-85A4-8AC848EE87E2",
+        "type": "message",
+        "text": "Hold on",
+        "user": "U15HY5TG8",
+        "ts": "1541101978.078900"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1541102200.080300",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/filmeditor-the-princess-bride-xT9KVmZwJl7fnigeAg",
+                "image_url": "https:\/\/media3.giphy.com\/media\/xT9KVmZwJl7fnigeAg\/giphy-downsized.gif?cid=6104955e5bdb5a763247503532ffa360",
+                "image_width": 480,
+                "image_height": 260,
+                "image_bytes": 965941,
+                "is_animated": true,
+                "title": "holding",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/filmeditor-the-princess-bride-xT9KVmZwJl7fnigeAg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dc13d0a7-b576-4f1d-bb3d-9be40e7e124c",
+        "type": "message",
+        "text": "^ evan rn",
+        "user": "U15HRTAHL",
+        "ts": "1541102209.080500"
+    },
+    {
+        "client_msg_id": "ae4537c3-55e5-4b41-8db2-526db7a9e205",
+        "type": "message",
+        "text": "<@U15HY5TG8> I’m getting blue balls",
+        "user": "U15HRTAHL",
+        "ts": "1541102572.080800"
+    },
+    {
+        "client_msg_id": "8e17a7fa-8229-420d-9fba-c665445d561a",
+        "type": "message",
+        "text": "the slowest copy paster in the west",
+        "user": "U15HRTAHL",
+        "ts": "1541102583.081100"
+    },
+    {
+        "client_msg_id": "39d393d7-18e3-43c5-a4bb-1e2c7afdcb6f",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541102590.081300"
+    },
+    {
+        "client_msg_id": "94355872-0D64-4539-B92C-341B39DCA5F1",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1541102609.081500"
+    },
+    {
+        "client_msg_id": "ED9087EF-CC34-47CE-B338-3DE314403746",
+        "type": "message",
+        "text": "Dude copy pasting between VM and host is hit or miss",
+        "user": "U15HY5TG8",
+        "ts": "1541102625.082100"
+    },
+    {
+        "client_msg_id": "e11b60d8-93a0-4a32-a6bc-c90573b492ac",
+        "type": "message",
+        "text": "```public class MyCustomException: Exception{\n             public MyCustomException( string code, string message): base(message){}\n}```",
+        "user": "U15HY5TG8",
+        "ts": "1541102651.082800"
+    },
+    {
+        "client_msg_id": "3ba7e156-8aaf-4555-9504-23ecc9c38b95",
+        "type": "message",
+        "text": "there we have it",
+        "user": "U15HRTAHL",
+        "ts": "1541102664.083100"
+    },
+    {
+        "client_msg_id": "cb72d3d9-2c9e-4126-9e0c-20e3dfc25157",
+        "type": "message",
+        "text": "that proves it",
+        "user": "U15HRTAHL",
+        "ts": "1541102667.083300"
+    },
+    {
+        "client_msg_id": "d6d278c2-6144-4322-a8ce-a9f03b157685",
+        "type": "message",
+        "text": "omg",
+        "user": "U15J5H60P",
+        "ts": "1541102672.083600"
+    },
+    {
+        "client_msg_id": "e0a9a063-a442-49d9-ab53-f28ae2821d67",
+        "type": "message",
+        "text": "you are not passing it an exception",
+        "user": "U15HRTAHL",
+        "ts": "1541102674.083800"
+    },
+    {
+        "client_msg_id": "4e593e98-9d12-4b37-91eb-80933f84f773",
+        "type": "message",
+        "text": "unbelievable",
+        "user": "U15J5H60P",
+        "ts": "1541102680.084000"
+    },
+    {
+        "client_msg_id": "a3ac4831-1f56-47f6-8543-46d5b7962bd6",
+        "type": "message",
+        "text": "Wat",
+        "user": "U15HY5TG8",
+        "ts": "1541102688.084200"
+    },
+    {
+        "client_msg_id": "a5dfb3d5-a60b-43a8-9ced-756201dd6521",
+        "type": "message",
+        "text": "what do you mean",
+        "user": "U15HY5TG8",
+        "ts": "1541102704.084400"
+    },
+    {
+        "client_msg_id": "f39b1189-9654-4300-8abe-3f77bf485f4e",
+        "type": "message",
+        "text": "this is the exception",
+        "user": "U15HY5TG8",
+        "ts": "1541102708.084600"
+    },
+    {
+        "client_msg_id": "4b689709-c8a5-4e14-8a00-8325a5db383a",
+        "type": "message",
+        "text": "what exception do you pass",
+        "user": "U15HY5TG8",
+        "ts": "1541102712.084800"
+    },
+    {
+        "client_msg_id": "61ecd2b5-c9f8-4b38-9c39-1b1131832ccf",
+        "type": "message",
+        "text": "the one you’re catching",
+        "user": "U15HRTAHL",
+        "ts": "1541102718.085100"
+    },
+    {
+        "client_msg_id": "1553f8d5-e260-4bf0-b8e4-7ae001a929b4",
+        "type": "message",
+        "text": "you’re catching an exception and throwing a new one",
+        "user": "U15HRTAHL",
+        "ts": "1541102726.085500"
+    },
+    {
+        "client_msg_id": "ecaa8e7d-09b5-4536-98e4-4b14885881b7",
+        "type": "message",
+        "text": "you need to pass the one you’re throwing the one you’re catching",
+        "user": "U15HRTAHL",
+        "ts": "1541102737.085900"
+    },
+    {
+        "client_msg_id": "2db83bcf-90ae-4a20-829e-c114c6a54049",
+        "type": "message",
+        "text": "wat",
+        "user": "U15HY5TG8",
+        "ts": "1541102753.086400"
+    },
+    {
+        "client_msg_id": "74da054e-1101-440d-bddc-e363d665f1d2",
+        "type": "message",
+        "text": "Also,  Exception  doesn't have a String,String constructor",
+        "user": "U15J5H60P",
+        "ts": "1541102759.086600"
+    },
+    {
+        "client_msg_id": "7b5dda0f-4184-43d1-adef-11f7f9143f94",
+        "type": "message",
+        "text": "It has a String, Exception constructor",
+        "user": "U15J5H60P",
+        "ts": "1541102767.087000"
+    },
+    {
+        "client_msg_id": "3ed89818-88cf-43d9-9739-c46193c3d3ed",
+        "type": "message",
+        "text": "that's why it's custom",
+        "user": "U15HY5TG8",
+        "ts": "1541102768.087100"
+    },
+    {
+        "client_msg_id": "5737807d-67d3-4007-bba1-bb68ff858946",
+        "type": "message",
+        "text": "^^ this",
+        "user": "U15HRTAHL",
+        "ts": "1541102776.087400"
+    },
+    {
+        "client_msg_id": "2260d320-9442-4c64-9518-7ae32db4b263",
+        "type": "message",
+        "text": "thank you andrew",
+        "user": "U15HRTAHL",
+        "ts": "1541102780.087700"
+    },
+    {
+        "client_msg_id": "1a62ae50-26f1-4b39-8231-940a0f35648a",
+        "type": "message",
+        "text": "...............",
+        "user": "U15J5H60P",
+        "ts": "1541102781.087800"
+    },
+    {
+        "client_msg_id": "8220851e-900a-4ee4-9587-861ea381bd1b",
+        "type": "message",
+        "text": "\\",
+        "user": "U15J5H60P",
+        "ts": "1541102781.087900"
+    },
+    {
+        "client_msg_id": "9d1536f9-4d98-4717-859f-943ceedf60f2",
+        "type": "message",
+        "text": "map it out please",
+        "user": "U15HY5TG8",
+        "ts": "1541102785.088100"
+    },
+    {
+        "client_msg_id": "1762a011-e0f7-441e-ad00-dcf4faee1c73",
+        "type": "message",
+        "text": "I'm lost",
+        "user": "U15HY5TG8",
+        "ts": "1541102788.088400"
+    },
+    {
+        "client_msg_id": "acfe3004-7288-42f4-9ee5-4b04ba25ef55",
+        "type": "message",
+        "text": "You are overriding the Exception class",
+        "user": "U15J5H60P",
+        "ts": "1541102792.088500"
+    },
+    {
+        "client_msg_id": "363eeb6a-eb52-4fa1-9d1d-48711532fc44",
+        "type": "message",
+        "text": "<https:\/\/docs.microsoft.com\/en-us\/dotnet\/standard\/exceptions\/how-to-create-user-defined-exceptions>",
+        "user": "U15HSHSS2",
+        "ts": "1541102796.088900",
+        "attachments": [
+            {
+                "title": "How to: Create User-Defined Exceptions",
+                "title_link": "https:\/\/docs.microsoft.com\/en-us\/dotnet\/standard\/exceptions\/how-to-create-user-defined-exceptions",
+                "fallback": "How to: Create User-Defined Exceptions",
+                "image_url": "https:\/\/docs.microsoft.com\/_themes\/docs.theme\/master\/en-us\/_themes\/images\/microsoft-header.png",
+                "from_url": "https:\/\/docs.microsoft.com\/en-us\/dotnet\/standard\/exceptions\/how-to-create-user-defined-exceptions",
+                "image_width": 128,
+                "image_height": 128,
+                "image_bytes": 802,
+                "service_icon": "https:\/\/docs.microsoft.com\/favicon.ico",
+                "service_name": "docs.microsoft.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.microsoft.com\/en-us\/dotnet\/standard\/exceptions\/how-to-create-user-defined-exceptions"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c6b6bc67-bad7-4079-ba59-12ef42193b76",
+        "type": "message",
+        "text": "Not overriding",
+        "user": "U15J5H60P",
+        "ts": "1541102797.089000"
+    },
+    {
+        "client_msg_id": "187e1f01-5391-4c0e-98e2-be10f6a453c0",
+        "type": "message",
+        "text": "Interfacing?",
+        "user": "U15J5H60P",
+        "ts": "1541102802.089400"
+    },
+    {
+        "client_msg_id": "634b934d-c127-47ef-8f50-5b734463f018",
+        "type": "message",
+        "text": "Whatever",
+        "user": "U15J5H60P",
+        "ts": "1541102804.089600"
+    },
+    {
+        "client_msg_id": "b89bce4a-47f5-46dc-a03b-57c3198557dd",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1541102805.089900"
+    },
+    {
+        "client_msg_id": "285dff78-8778-4c59-ae5a-b032f9dbdefd",
+        "type": "message",
+        "text": "Look at that link Tom sent",
+        "user": "U15J5H60P",
+        "ts": "1541102811.090300"
+    },
+    {
+        "client_msg_id": "9dd2e3b6-7ca0-45a4-88b7-3ee6feee19d3",
+        "type": "message",
+        "text": "```",
+        "user": "U15J5H60P",
+        "ts": "1541102830.090500"
+    },
+    {
+        "client_msg_id": "04d6103d-0422-4355-9090-780bda57f10f",
+        "type": "message",
+        "text": "```\npublic class EmployeeListNotFoundException : Exception\n{\n    public EmployeeListNotFoundException()\n    {\n    }\n\n    public EmployeeListNotFoundException(string message)\n        : base(message)\n    {\n    }\n\n    public EmployeeListNotFoundException(string message, Exception inner)\n        : base(message, inner)\n    {\n    }\n}```",
+        "user": "U15J5H60P",
+        "ts": "1541102835.090700"
+    },
+    {
+        "client_msg_id": "2264f6dd-3fc1-48b6-957e-aae9b9d732ce",
+        "type": "message",
+        "text": "Those are the constructors you can use",
+        "user": "U15J5H60P",
+        "ts": "1541102841.090900"
+    },
+    {
+        "client_msg_id": "40bb635b-9332-4a08-bc6d-43ec048fdfe9",
+        "type": "message",
+        "text": "Those are the ones available to you",
+        "user": "U15J5H60P",
+        "ts": "1541102845.091100"
+    },
+    {
+        "client_msg_id": "6610a179-26b5-4a49-b846-6eba5db1e821",
+        "type": "message",
+        "text": "An exception isn't a custom object that you're making",
+        "user": "U15J5H60P",
+        "ts": "1541102857.091500"
+    },
+    {
+        "client_msg_id": "fe064f20-240c-47da-addb-a1df982f9f40",
+        "type": "message",
+        "text": "You're extending\/interfacing it",
+        "user": "U15J5H60P",
+        "ts": "1541102870.091900"
+    },
+    {
+        "client_msg_id": "060ae60c-a019-4de8-b1be-9c10ce39a568",
+        "type": "message",
+        "text": "What're the right terms here, guys?",
+        "user": "U15J5H60P",
+        "ts": "1541102876.092300"
+    },
+    {
+        "client_msg_id": "42b0bed9-98f0-4468-90b5-122aa10ea62e",
+        "type": "message",
+        "text": "I can't remember",
+        "user": "U15J5H60P",
+        "ts": "1541102878.092500"
+    },
+    {
+        "client_msg_id": "f3bc7312-125d-46b0-8859-2a097a244cbd",
+        "type": "message",
+        "text": "Someone take this kid's raise away and give it to James",
+        "user": "U15J5H60P",
+        "ts": "1541102897.093200"
+    },
+    {
+        "client_msg_id": "1bf2790d-8fc6-4fba-9d5b-f7887a8d3972",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1541102904.093400"
+    },
+    {
+        "client_msg_id": "1f0f15b7-f92a-4885-aef0-ef2b38fd03e2",
+        "type": "message",
+        "text": "jk everyone has those moment",
+        "user": "U15J5H60P",
+        "ts": "1541102912.093700"
+    },
+    {
+        "client_msg_id": "f8816a09-b48a-4e04-88be-e3408a6ae236",
+        "type": "message",
+        "text": "s",
+        "user": "U15J5H60P",
+        "ts": "1541102913.093900"
+    },
+    {
+        "client_msg_id": "09707dc5-4edb-41bd-8f30-3fbd4dbba120",
+        "type": "message",
+        "text": "Yeah I had a feeling that if the debugger was making it to the throw exception code, then the issue must have been something with creating the actual custom exception lol",
+        "user": "U15HSHSS2",
+        "ts": "1541102930.094200"
+    },
+    {
+        "client_msg_id": "c0edecd6-8938-4fdd-b343-7e2933c512ad",
+        "type": "message",
+        "text": "ok ok ok I see, thank you all",
+        "user": "U15HY5TG8",
+        "ts": "1541102972.094400"
+    },
+    {
+        "client_msg_id": "b4073666-8efb-4afb-8220-cf603eaa4d9b",
+        "type": "message",
+        "text": "except <@U15J5H60P> fuck you. I disregard that 'jk'",
+        "user": "U15HY5TG8",
+        "ts": "1541102996.095000"
+    },
+    {
+        "client_msg_id": "55cbab71-cfa6-4591-8bc5-1a2f4f329b77",
+        "type": "message",
+        "text": "Alrighty",
+        "user": "U15J5H60P",
+        "ts": "1541103002.095300"
+    },
+    {
+        "client_msg_id": "fc0efee5-9f5f-41c2-92fe-a1bbd3bb2c50",
+        "type": "message",
+        "text": "I assumed he had the exception class right, and just wasn’t using the second constructor",
+        "user": "U15HRTAHL",
+        "ts": "1541103017.096000"
+    },
+    {
+        "client_msg_id": "9b675d6f-61a9-4b09-8d86-a33ff8b6db3a",
+        "type": "message",
+        "text": "So is the correct exception being caught now?",
+        "user": "U15HSHSS2",
+        "ts": "1541103017.096100"
+    },
+    {
+        "client_msg_id": "3F3E0709-FC9C-400C-9160-C5D58AC75E11",
+        "type": "message",
+        "text": "Not sure. Their API is shit",
+        "user": "U15HY5TG8",
+        "ts": "1541104922.096700"
+    },
+    {
+        "client_msg_id": "db814d5a-8037-43d5-8e9c-e9ec614dd77a",
+        "type": "message",
+        "text": "Evan used up all his API allowance today",
+        "user": "U15HRTAHL",
+        "ts": "1541108104.097100"
+    },
+    {
+        "client_msg_id": "00EE26DF-1FB3-4533-A09B-DE61C0139322",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541108119.097400"
+    },
+    {
+        "client_msg_id": "6eba4b08-38ee-4383-a545-78eb93dfcbfd",
+        "type": "message",
+        "text": "<@U15HY5TG8> what API are you trying to hit",
+        "user": "U15HRTAHL",
+        "ts": "1541108132.097800"
+    },
+    {
+        "client_msg_id": "950E725C-0C0E-4FF6-B01F-CD391733FC48",
+        "type": "message",
+        "text": "Its a custom client api",
+        "user": "U15HY5TG8",
+        "ts": "1541108741.098100"
+    },
+    {
+        "client_msg_id": "FEC599CC-2BDC-41BC-9F28-68DD5DC3A9B6",
+        "type": "message",
+        "text": "Written by them...so its ass",
+        "user": "U15HY5TG8",
+        "ts": "1541108752.098500"
+    },
+    {
+        "client_msg_id": "CE4CA01F-B5D0-42B4-A093-C2CBC8AD646F",
+        "type": "message",
+        "text": "Total ass",
+        "user": "U15HY5TG8",
+        "ts": "1541108754.098700"
+    }
+]

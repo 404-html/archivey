@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476068348.000002",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476068348.000003",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1476068348.000004",
+        "text": "<@U15HY5TG8> set the channel purpose: All the crude memes",
+        "purpose": "All the crude memes"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476068348.000005",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2M8Y0B97",
+                "created": 1476068369,
+                "timestamp": 1476068369,
+                "name": "Pasted image at 2016_10_09 09_59 PM.png",
+                "title": "Just came across this",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 145427,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2M8Y0B97\/pasted_image_at_2016_10_09_09_59_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2M8Y0B97\/download\/pasted_image_at_2016_10_09_09_59_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2M8Y0B97-514a8b26f3\/pasted_image_at_2016_10_09_09_59_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2M8Y0B97-514a8b26f3\/pasted_image_at_2016_10_09_09_59_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2M8Y0B97-514a8b26f3\/pasted_image_at_2016_10_09_09_59_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 247,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2M8Y0B97-514a8b26f3\/pasted_image_at_2016_10_09_09_59_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 329,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2M8Y0B97-514a8b26f3\/pasted_image_at_2016_10_09_09_59_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 670,
+                "original_h": 459,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F2M8Y0B97\/pasted_image_at_2016_10_09_09_59_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F2M8Y0B97-b6b98cb4c9",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1476068372.000006"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1476068515.000007"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1476068524.000008",
+        "text": "<@U15J5H60P> archived the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476069151.000002",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476069506.000003",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476069520.000004",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1476069952.000005"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1476069955.000006",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476070061.000007",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    }
+]

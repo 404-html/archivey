@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "text": "shoutout to <@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1498053402.329102"
+    },
+    {
+        "type": "message",
+        "text": "<@U5WL8KMU1>",
+        "user": "U15HRTAHL",
+        "ts": "1498053406.330407"
+    },
+    {
+        "user": "U5WL8KMU1",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498053408.331404",
+        "text": "<@U5WL8KMU1> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "shoutout to <@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1498053412.332912",
+        "reactions": [
+            {
+                "name": "basketball",
+                "users": [
+                    "U5WL8KMU1",
+                    "U15HRTAHL"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "bot_id": "B5Y2ACSQP",
+        "type": "message",
+        "text": "`1` reaction :blush: — <https:\/\/freeuwmke.growbot.io\/kudos\/|:basketball: You're really on the ball today!>  @ev `2`.",
+        "user": "U5WL8KMU1",
+        "ts": "1498053412.333105",
+        "edited": {
+            "user": "U5WL8KMU1",
+            "ts": "1498053439.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U5VC3HJBY> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1498054884.968892"
+    },
+    {
+        "user": "U5VC3HJBY",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1498054890.971289",
+        "text": "<@U5VC3HJBY> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "<@U5VC3HJBY> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1498054897.974210"
+    },
+    {
+        "user": "U5VC3HJBY",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1498055183.098716",
+        "text": "<@U5VC3HJBY> has left the channel"
+    }
+]

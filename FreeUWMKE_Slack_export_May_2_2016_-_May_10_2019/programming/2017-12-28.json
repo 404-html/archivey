@@ -1,0 +1,402 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> have i asked you how you do datagrids before?",
+        "user": "U15HY5TG8",
+        "ts": "1514476696.000186"
+    },
+    {
+        "type": "message",
+        "text": "no, but I'm not sure what a datagrid is",
+        "user": "U15HRTAHL",
+        "ts": "1514476712.000079"
+    },
+    {
+        "type": "message",
+        "text": "Just a grid for displaying a bunch of info",
+        "user": "U15HY5TG8",
+        "ts": "1514476734.000246"
+    },
+    {
+        "type": "message",
+        "text": "is it a c#\/aspx specific thing?",
+        "user": "U15HRTAHL",
+        "ts": "1514476765.000208"
+    },
+    {
+        "type": "message",
+        "text": "Nope. Just curious how you layout your tables using js\/css\/html",
+        "user": "U15HY5TG8",
+        "ts": "1514476800.000254"
+    },
+    {
+        "type": "message",
+        "text": "in angular?",
+        "user": "U15HRTAHL",
+        "ts": "1514476962.000229"
+    },
+    {
+        "type": "message",
+        "text": "Yezzir",
+        "user": "U15HY5TG8",
+        "ts": "1514477222.000059"
+    },
+    {
+        "type": "message",
+        "text": "Not component angular though",
+        "user": "U15HY5TG8",
+        "ts": "1514477235.000066"
+    },
+    {
+        "type": "message",
+        "text": "yeah you just make a table with a header and body",
+        "user": "U15HRTAHL",
+        "ts": "1514477307.000121"
+    },
+    {
+        "type": "message",
+        "text": "and in the body you do",
+        "user": "U15HRTAHL",
+        "ts": "1514477312.000203"
+    },
+    {
+        "type": "message",
+        "text": "&lt;ng-repeat&gt;\n&lt;tr\/&gt;",
+        "user": "U15HRTAHL",
+        "ts": "1514477331.000071"
+    },
+    {
+        "type": "message",
+        "text": "I mean ik how to, im just curious how you take care of the column sizes and stuff",
+        "user": "U15HY5TG8",
+        "ts": "1514477354.000322"
+    },
+    {
+        "type": "message",
+        "text": "Like do you put inline styles in the headers and then match it with the same inline styles for the body?",
+        "user": "U15HY5TG8",
+        "ts": "1514477400.000288"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1514477487.000032",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/nArBQosm5nXdm",
+                "image_url": "https:\/\/media0.giphy.com\/media\/nArBQosm5nXdm\/giphy-downsized.gif",
+                "image_width": 460,
+                "image_height": 345,
+                "image_bytes": 1407373,
+                "is_animated": true,
+                "title": "bootstrap css",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/nArBQosm5nXdm"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1514477750.000293"
+    },
+    {
+        "type": "message",
+        "text": "Super helpful",
+        "user": "U15HY5TG8",
+        "ts": "1514477812.000247"
+    },
+    {
+        "type": "message",
+        "text": "idk I don't fuck with css",
+        "user": "U15HRTAHL",
+        "ts": "1514477854.000253"
+    },
+    {
+        "type": "message",
+        "text": "I bitch about it every single time i have to do it",
+        "user": "U15HRTAHL",
+        "ts": "1514477865.000055"
+    },
+    {
+        "type": "message",
+        "text": "I absolutely hate it",
+        "user": "U15HRTAHL",
+        "ts": "1514477869.000449"
+    },
+    {
+        "type": "message",
+        "text": "Sooo your tables just display like 90s html orrrrr ",
+        "user": "U15HY5TG8",
+        "ts": "1514477878.000232"
+    },
+    {
+        "type": "message",
+        "text": "I just use the css framework",
+        "user": "U15HRTAHL",
+        "ts": "1514477899.000292"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1514478285.000128"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> what do you guys use for your location api?",
+        "user": "U15HRTAHL",
+        "ts": "1514486640.000186"
+    },
+    {
+        "type": "message",
+        "text": "I imagine theres some geolocation stuff going on",
+        "user": "U15HRTAHL",
+        "ts": "1514486652.000148"
+    },
+    {
+        "type": "message",
+        "text": "```\n\/**\n         * Determine the distance in miles between to sets of coordinates using\n         * the haversine formula.\n         *\n         * <https:\/\/en.wikipedia.org\/wiki\/Haversine_formula>\n         *\n         * @param  {Number} lat1 Latitude of the first coordinate.\n         * @param  {Number} lon1 Longitude of the first coordinate.\n         * @param  {Number} lat2 Latitude of the second coordinate.\n         * @param  {Number} lon2 Longitured of the second coordinate.\n         * @return {Number}      Distance (in miles) between the two coordinates\n         *\/\n        function calculateDistance(lat1, lon1, lat2, lon2) {\n            var diffLat = degreesToRadians(lat2 - lat1),\n                diffLon = degreesToRadians(lon2 - lon1);\n\n            var a = Math.sin(diffLat \/ 2) * Math.sin(diffLat \/ 2) +\n                    Math.cos(degreesToRadians(lat1)) * Math.cos(degreesToRadians(lat2)) *\n                    Math.sin(diffLon \/ 2) * Math.sin(diffLon \/ 2);\n            var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));\n\n            return EARTH_RADIUS_MILES * c;\n        }\n```",
+        "user": "U15HRTAHL",
+        "ts": "1514488011.000188"
+    },
+    {
+        "type": "message",
+        "text": "proof the earth isn't flat",
+        "user": "U15HRTAHL",
+        "ts": "1514488016.000362"
+    },
+    {
+        "type": "message",
+        "text": "if it was you wouldn't need all them Socahtoas",
+        "user": "U15HRTAHL",
+        "ts": "1514488036.000227"
+    },
+    {
+        "type": "message",
+        "text": "We use Google Earth Pro",
+        "user": "U15J5H60P",
+        "ts": "1514488666.000312"
+    },
+    {
+        "type": "message",
+        "text": "I don’t think it has an API. We just export a CSV with all of our investments with their coordinates from our database",
+        "user": "U15J5H60P",
+        "ts": "1514488719.000027"
+    },
+    {
+        "type": "message",
+        "text": "Then Google Earth Pro takes it in and displays them",
+        "user": "U15J5H60P",
+        "ts": "1514488729.000418"
+    },
+    {
+        "type": "message",
+        "text": "You can even customize it by putting in different parameters so it shows additional information, icons, and other cool things",
+        "user": "U15J5H60P",
+        "ts": "1514488748.000186"
+    },
+    {
+        "type": "message",
+        "text": "thats cool",
+        "user": "U15HRTAHL",
+        "ts": "1514488755.000257"
+    },
+    {
+        "type": "message",
+        "text": "Yup! Why build a custom solution if you don’t need to?! :slightly_smiling_face:",
+        "user": "U15J5H60P",
+        "ts": "1514488782.000021"
+    },
+    {
+        "type": "message",
+        "text": "OMG",
+        "user": "U15J5H60P",
+        "ts": "1514488863.000269"
+    },
+    {
+        "type": "message",
+        "text": "PIXEL MEANS SOMETHING",
+        "user": "U15J5H60P",
+        "ts": "1514488868.000327"
+    },
+    {
+        "type": "message",
+        "text": "PIX - EL",
+        "user": "U15J5H60P",
+        "ts": "1514488872.000131"
+    },
+    {
+        "type": "message",
+        "text": "PICTURE ELEMENT",
+        "user": "U15J5H60P",
+        "ts": "1514488875.000264"
+    },
+    {
+        "type": "message",
+        "text": "I HAD NO IDEA",
+        "user": "U15J5H60P",
+        "ts": "1514488879.000077"
+    },
+    {
+        "type": "message",
+        "text": "I never knew that",
+        "user": "U15HRTAHL",
+        "ts": "1514489187.000092"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1514489249.000139",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/newyorkcomiccon-mind-blown-nycc-3o7TKSjRrfIPjeiVyM",
+                "image_url": "https:\/\/media0.giphy.com\/media\/3o7TKSjRrfIPjeiVyM\/giphy-downsized.gif",
+                "image_width": 320,
+                "image_height": 320,
+                "image_bytes": 1972461,
+                "is_animated": true,
+                "title": "mind blown",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/newyorkcomiccon\/|New York Comic Con>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/newyorkcomiccon-mind-blown-nycc-3o7TKSjRrfIPjeiVyM"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I have an idea",
+        "user": "U15J5H60P",
+        "ts": "1514490585.000288"
+    },
+    {
+        "type": "message",
+        "text": "So lineage is a really important concept in law",
+        "user": "U15J5H60P",
+        "ts": "1514490604.000106"
+    },
+    {
+        "type": "message",
+        "text": "It’s really helpful to see all changes that happen to a certain case at any point in time",
+        "user": "U15J5H60P",
+        "ts": "1514490626.000417"
+    },
+    {
+        "type": "message",
+        "text": "When files were added, removed, what a case looked like 3 months ago, what a case looked like last week, etc.",
+        "user": "U15J5H60P",
+        "ts": "1514490650.000001"
+    },
+    {
+        "type": "message",
+        "text": "What does this sound like?",
+        "user": "U15J5H60P",
+        "ts": "1514490654.000144"
+    },
+    {
+        "type": "message",
+        "text": "GIT",
+        "user": "U15J5H60P",
+        "ts": "1514490677.000408"
+    },
+    {
+        "type": "message",
+        "text": "It sounds like GIT",
+        "user": "U15J5H60P",
+        "ts": "1514490682.000072"
+    },
+    {
+        "type": "message",
+        "text": "But people don’t understand git",
+        "user": "U15J5H60P",
+        "ts": "1514490692.000008"
+    },
+    {
+        "type": "message",
+        "text": "They just don’t git it.",
+        "user": "U15J5H60P",
+        "ts": "1514490699.000230"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1514490714.000234"
+    },
+    {
+        "type": "message",
+        "text": "What if they had an interface that is exactly git, but with terminology that they can understand.",
+        "user": "U15J5H60P",
+        "ts": "1514490730.000179"
+    },
+    {
+        "type": "message",
+        "text": "Every time a file is changed, added, or deleted a snapshot is taken of the entire “case”. Then they can go back to any point in time to see what had changed.",
+        "user": "U15J5H60P",
+        "ts": "1514490780.000236"
+    },
+    {
+        "type": "message",
+        "text": "The technology is already there. All it needs is an interface.",
+        "user": "U15J5H60P",
+        "ts": "1514490808.000175"
+    },
+    {
+        "type": "message",
+        "text": "Quick win.",
+        "user": "U15J5H60P",
+        "ts": "1514490825.000137"
+    },
+    {
+        "type": "message",
+        "text": "Email comes in from a client? Automatically add that to the case.",
+        "user": "U15J5H60P",
+        "ts": "1514490887.000194"
+    },
+    {
+        "type": "message",
+        "text": "`12\/25\/17(18:49:33) - Andrew sent you an Email. SUBJECT: She found my Ashley Madison account - HELP\"`",
+        "user": "U15J5H60P",
+        "ts": "1514490933.000339",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1514490982.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "^ That would be the change note",
+        "user": "U15J5H60P",
+        "ts": "1514490947.000110"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1514491056.000173"
+    },
+    {
+        "type": "message",
+        "text": "Do y’all use Udemy at all?",
+        "user": "U15J5H60P",
+        "ts": "1514492008.000083"
+    },
+    {
+        "type": "message",
+        "text": "I’ve looked into it a bit",
+        "user": "U15HSHSS2",
+        "ts": "1514492054.000052"
+    },
+    {
+        "type": "message",
+        "text": "I want to learn more about AI and machine learning. Always fascinated me",
+        "user": "U15HSHSS2",
+        "ts": "1514492094.000070"
+    }
+]

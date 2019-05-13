@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/unusualvideos\/status\/1097758495426850816?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1551625791.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/UnusualVideos|@UnusualVideos>: <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1097758431627210752\/pu\/img\/_Iyqyx3wWT69-DZt.jpg>",
+                "ts": 1550560995,
+                "author_name": "Unusual Videos 🤔",
+                "author_link": "https:\/\/twitter.com\/UnusualVideos\/status\/1097758495426850816",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/928731422361309184\/6S9yatHt_normal.jpg",
+                "author_subname": "@UnusualVideos",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/unusualvideos\/status\/1097758495426850816?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1097758431627210752\/pu\/img\/_Iyqyx3wWT69-DZt.jpg",
+                "thumb_width": 360,
+                "thumb_height": 360,
+                "video_html_width": 360,
+                "video_html_height": 360,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1097758431627210752\/pu\/img\/_Iyqyx3wWT69-DZt.jpg\" width=\"360\" height=\"360\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1097758431627210752\/pu\/vid\/360x360\/mwk2w4Wc904iNW_W.mp4?tag=6\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/unusualvideos\/status\/1097758495426850816?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

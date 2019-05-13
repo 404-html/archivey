@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "58d3ba3a-051a-426a-bb01-ce9c6171070d",
+        "type": "message",
+        "text": "Did you ever figure out that issue?",
+        "user": "U15HRTAHL",
+        "ts": "1536176697.000100"
+    },
+    {
+        "client_msg_id": "3C19D1F3-8A05-43A1-B4DC-6644F76F5766",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1536176781.000100"
+    },
+    {
+        "client_msg_id": "E27E98D1-3818-4456-B576-9A06B7417324",
+        "type": "message",
+        "text": "Still looking into it",
+        "user": "U15HY5TG8",
+        "ts": "1536176792.000100"
+    },
+    {
+        "client_msg_id": "a8be22c6-f302-4b50-b79a-24cb44bd56a2",
+        "type": "message",
+        "text": "lolz",
+        "user": "U15HRTAHL",
+        "ts": "1536176794.000100"
+    },
+    {
+        "client_msg_id": "14f76a9e-d81f-4e43-b286-2544e78aff2b",
+        "type": "message",
+        "text": "math is hard",
+        "user": "U15HRTAHL",
+        "ts": "1536176801.000200"
+    },
+    {
+        "client_msg_id": "E88CB28B-6B10-4953-B576-1683AD13B9EC",
+        "type": "message",
+        "text": "Its not even math though, its just rules on a textbox to help with people who are stupid",
+        "user": "U15HY5TG8",
+        "ts": "1536176829.000100"
+    },
+    {
+        "client_msg_id": "42F446A0-4A29-4208-BC63-B09F10678D2B",
+        "type": "message",
+        "text": "So like, ive been on other sites that should be currency to 2 decimal places and they just seem to trust their users more",
+        "user": "U15HY5TG8",
+        "ts": "1536176875.000100"
+    },
+    {
+        "client_msg_id": "6C87F61A-EEFA-41D1-835E-8169890C671F",
+        "type": "message",
+        "text": "And have no masks",
+        "user": "U15HY5TG8",
+        "ts": "1536176898.000100"
+    },
+    {
+        "client_msg_id": "45F6368F-012B-4D20-89AA-040029E746FF",
+        "type": "message",
+        "text": "They just use the type=number and a step of .01",
+        "user": "U15HY5TG8",
+        "ts": "1536176917.000100"
+    },
+    {
+        "client_msg_id": "0aff0ba9-332e-4854-8fa1-fa47c5e2ef53",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=HluANRwPyNo>",
+        "user": "U15HSHSS2",
+        "ts": "1536211338.000100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "What people think programming is vs. how it actually is",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HluANRwPyNo",
+                "author_name": "Jombo",
+                "author_link": "https:\/\/www.youtube.com\/user\/jomboeric386",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HluANRwPyNo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: What people think programming is vs. how it actually is",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/HluANRwPyNo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HluANRwPyNo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=HluANRwPyNo"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cfdd99a0-ff27-4fa1-8d4b-b46555e76d84",
+        "type": "message",
+        "text": "I wish it was the first lol",
+        "user": "U15HY5TG8",
+        "ts": "1536213031.000100"
+    }
+]

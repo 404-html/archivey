@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "text": "I love JavaScript ",
+        "user": "U15J5H60P",
+        "ts": "1486045581.000002"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: what JS are you guys using?",
+        "user": "U15J5H60P",
+        "ts": "1486045613.000003"
+    },
+    {
+        "type": "message",
+        "text": "React? Angular?",
+        "user": "U15J5H60P",
+        "ts": "1486045620.000004"
+    },
+    {
+        "type": "message",
+        "text": "We use a few, the product I'm on uses knockoutJS, but we're moving to Aurelia I think",
+        "user": "U15HSHSS2",
+        "ts": "1486087996.000002"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1486088058.000003"
+    }
+]

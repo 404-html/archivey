@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468208802.000002",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468208802.000003",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468208802.000004",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468208802.000005",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468208802.000006",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1468208898.000007",
+        "text": "<@U15J5H60P> has renamed the channel from \"pokemon\" to \"pokemongo\"",
+        "old_name": "pokemon",
+        "name": "pokemongo"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1468208923.000008",
+        "text": "<@U15J5H60P> has renamed the channel from \"pokemongo\" to \"pokemon\"",
+        "old_name": "pokemongo",
+        "name": "pokemon"
+    }
+]

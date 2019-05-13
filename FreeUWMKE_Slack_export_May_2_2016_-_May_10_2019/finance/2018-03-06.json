@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "text": "MU is keeping my portfolio in the green today",
+        "user": "U15J5H60P",
+        "ts": "1520355153.000217"
+    },
+    {
+        "type": "message",
+        "text": "All of my stock is down except MU",
+        "user": "U15J5H60P",
+        "ts": "1520355159.000756"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus MU",
+        "user": "U15J5H60P",
+        "ts": "1520355167.000604"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU              53.871                 2.1                4.036 \n       Avg.                 ---                 ---               4.036% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1520355167.000618",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29498,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "KILLIN IT",
+        "user": "U15J5H60P",
+        "ts": "1520355174.000541"
+    },
+    {
+        "type": "message",
+        "text": "Sad I only bought 8 shares",
+        "user": "U15J5H60P",
+        "ts": "1520355183.000511"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.marketwatch.com\/story\/theres-no-stopping-it-warns-ron-paul-a-calamity-could-cut-this-market-in-half-2018-03-06>",
+        "user": "U15J5H60P",
+        "ts": "1520355491.000026",
+        "attachments": [
+            {
+                "service_name": "MarketWatch",
+                "title": "‘There’s no stopping it,’ warns Ron Paul: A ‘calamity’ could cut this market in half",
+                "title_link": "https:\/\/www.marketwatch.com\/story\/theres-no-stopping-it-warns-ron-paul-a-calamity-could-cut-this-market-in-half-2018-03-06",
+                "text": "Such a “calamity” could very well lead to a 50% drop in the stock market, Paul warns.",
+                "fallback": "MarketWatch: ‘There’s no stopping it,’ warns Ron Paul: A ‘calamity’ could cut this market in half",
+                "image_url": "http:\/\/s.marketwatch.com\/public\/resources\/MWimages\/MW-FP572_Ron_Pa_ZG_20170703090103.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/www.marketwatch.com\/story\/theres-no-stopping-it-warns-ron-paul-a-calamity-could-cut-this-market-in-half-2018-03-06",
+                "image_bytes": 149362,
+                "service_icon": "https:\/\/www.marketwatch.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ron Paul saying that the Dow has the potential to drop 12,500",
+        "user": "U15J5H60P",
+        "ts": "1520355516.000542"
+    },
+    {
+        "type": "message",
+        "text": "Because the market is rigged",
+        "user": "U15J5H60P",
+        "ts": "1520355523.000824"
+    },
+    {
+        "client_msg_id": "6711764E-2AD2-449A-9D4A-88FA70ED8F35",
+        "type": "message",
+        "text": "Crypto FTW",
+        "user": "U15HY5TG8",
+        "ts": "1520362446.000781"
+    }
+]

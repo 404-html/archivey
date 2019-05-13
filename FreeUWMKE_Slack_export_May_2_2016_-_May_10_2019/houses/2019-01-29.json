@@ -1,0 +1,31 @@
+[
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548786190.000200",
+        "text": "<@U15HZ01QX> has left the channel"
+    },
+    {
+        "client_msg_id": "c1364e17-ca55-4ed1-a089-ca9b5d4f0b9d",
+        "type": "message",
+        "text": "@jimbo",
+        "user": "U15J5H60P",
+        "ts": "1548786661.000400"
+    },
+    {
+        "client_msg_id": "3d046610-c15c-465d-b37b-2dcadbc4a58b",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15J5H60P",
+        "ts": "1548786663.000600"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548786665.000800",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    }
+]

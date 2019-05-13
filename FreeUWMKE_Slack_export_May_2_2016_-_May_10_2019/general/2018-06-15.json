@@ -1,0 +1,446 @@
+[
+    {
+        "client_msg_id": "d0bf335b-0149-4f80-87d7-d4bcf20a8e4c",
+        "type": "message",
+        "text": "I woke up to 100 tweets from trump",
+        "user": "U15HRTAHL",
+        "ts": "1529067345.000469"
+    },
+    {
+        "client_msg_id": "44ad1896-9d5c-400b-bd07-15321c54554e",
+        "type": "message",
+        "text": "<@U15J5H60P> was there an email that went out at nm about an employee who died recently?",
+        "user": "U15HRTAHL",
+        "ts": "1529067749.000365",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1529067763.000000"
+        }
+    },
+    {
+        "client_msg_id": "362fe5af-f5a6-4e5f-bb48-94a3f718cc00",
+        "type": "message",
+        "text": "They don't send emails, they post it on our internal website. Why?",
+        "user": "U15J5H60P",
+        "ts": "1529068102.000397"
+    },
+    {
+        "client_msg_id": "8b2c28ea-30a1-4ad1-86eb-745e6e057917",
+        "type": "message",
+        "text": "Lilly’s “aunt” worked at nm for 40 years and she died a few days ago. She was her uncle’s ex wife",
+        "user": "U15HRTAHL",
+        "ts": "1529068682.000692",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1529070878.000000"
+        }
+    },
+    {
+        "client_msg_id": "711380dc-5fcf-44e2-8b92-e139b21f2258",
+        "type": "message",
+        "text": "What's her name?",
+        "user": "U15J5H60P",
+        "ts": "1529068745.000341"
+    },
+    {
+        "client_msg_id": "3fbe3483-e713-48d2-b708-0b5fa4f35688",
+        "type": "message",
+        "text": "Trish",
+        "user": "U15J5H60P",
+        "ts": "1529068768.000499"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FB8E0UX37",
+                "created": 1529068769,
+                "timestamp": 1529068769,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 78376,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FB8E0UX37\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FB8E0UX37\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 98,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 130,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 196,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 217,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 261,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FB8E0UX37-dd9eeae7dc\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 278,
+                "image_exif_rotation": 1,
+                "original_w": 1082,
+                "original_h": 294,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FB8E0UX37\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FB8E0UX37-926d985da3",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1529068772.000114"
+    },
+    {
+        "client_msg_id": "bff669d8-f07d-4924-9fa1-bd2071ed4cc7",
+        "type": "message",
+        "text": "Yep that's her",
+        "user": "U15HRTAHL",
+        "ts": "1529068987.000362"
+    },
+    {
+        "client_msg_id": "70FB7D19-D57D-47DF-851D-1453C74B5E0F",
+        "type": "message",
+        "text": "Why did you put aunt in quotes?",
+        "user": "U15HY5TG8",
+        "ts": "1529070712.000482"
+    },
+    {
+        "client_msg_id": "4bcee0d4-57f1-4d9f-aa42-7a0b96aa70f7",
+        "type": "message",
+        "text": "&gt;She was her uncle’s ex wife",
+        "user": "U15HRTAHL",
+        "ts": "1529070741.000691",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1529070869.000000"
+        }
+    },
+    {
+        "client_msg_id": "8EAD02B1-A80E-45A6-8F75-7B1229B20473",
+        "type": "message",
+        "text": "He explained it in the same message",
+        "user": "U15HZ01QX",
+        "ts": "1529070743.000483"
+    },
+    {
+        "client_msg_id": "8DA655B5-5E20-4C83-9A09-8F71F0AA23EC",
+        "type": "message",
+        "text": "Am sorry",
+        "user": "U15HY5TG8",
+        "ts": "1529071038.000514"
+    },
+    {
+        "client_msg_id": "47A9BAD8-A136-4C7E-8785-500E07741778",
+        "type": "message",
+        "text": "<@U15HSHSS2> are you going to the good City thing?",
+        "user": "U15J5H60P",
+        "ts": "1529073512.000811"
+    },
+    {
+        "client_msg_id": "A579E8D1-61DD-4BBD-9DCE-87509002708E",
+        "type": "message",
+        "text": "Andrea wants to either go there or the art festival",
+        "user": "U15J5H60P",
+        "ts": "1529073525.000716"
+    },
+    {
+        "client_msg_id": "70d02683-7d58-48a3-8815-3133b0009ee2",
+        "type": "message",
+        "text": "Yeah we'll probably be going to one or the other, ill have to double check with lakshmi",
+        "user": "U15HSHSS2",
+        "ts": "1529073619.000633"
+    },
+    {
+        "client_msg_id": "60CB872D-B674-4234-B104-D7FBAC075377",
+        "type": "message",
+        "text": ":+1::skin-tone-2:",
+        "user": "U15J5H60P",
+        "ts": "1529073633.000058"
+    },
+    {
+        "client_msg_id": "38ddcc58-fc52-4a62-9738-aa5fe6e97d94",
+        "type": "message",
+        "text": "Are you guys going during the day or at night?",
+        "user": "U15HRTAHL",
+        "ts": "1529073785.000708"
+    },
+    {
+        "client_msg_id": "b3b18e4d-ac67-421d-b8a0-524d24a96e8d",
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15HSHSS2",
+        "ts": "1529073838.000710"
+    },
+    {
+        "client_msg_id": "63564308-b2bb-4c60-8390-a82b1076af5f",
+        "type": "message",
+        "text": "you free?",
+        "user": "U15HSHSS2",
+        "ts": "1529073844.000079"
+    },
+    {
+        "client_msg_id": "5db1877c-fe33-41ea-9759-18af83a92000",
+        "type": "message",
+        "text": "During the day I most likely am, at night we’ve got reservations for anniversary dinner",
+        "user": "U15HRTAHL",
+        "ts": "1529073868.000076"
+    },
+    {
+        "client_msg_id": "0094c8a7-caa5-4738-976d-132ec7e5c609",
+        "type": "message",
+        "text": "Let's go to the art fest during the day",
+        "user": "U15J5H60P",
+        "ts": "1529073948.000219"
+    },
+    {
+        "client_msg_id": "035af007-c8ca-4cb9-81b5-0706e3eb74cc",
+        "type": "message",
+        "text": "Ok, let me double check we’re not doing anything with her dad for father’s day",
+        "user": "U15HRTAHL",
+        "ts": "1529074021.000228"
+    },
+    {
+        "client_msg_id": "94933b9c-9638-45ca-9ba1-623693af94e7",
+        "type": "message",
+        "text": "On Saturday",
+        "user": "U15J5H60P",
+        "ts": "1529074064.000585"
+    },
+    {
+        "client_msg_id": "11820567-42fc-4e66-aa62-ab667f1642e6",
+        "type": "message",
+        "text": "Okie dokie",
+        "user": "U15J5H60P",
+        "ts": "1529074068.000719"
+    },
+    {
+        "client_msg_id": "655b99cf-a710-4614-9ad6-d755d8164afa",
+        "type": "message",
+        "text": "Yeah it should be good, what time?",
+        "user": "U15HRTAHL",
+        "ts": "1529074080.000252"
+    },
+    {
+        "client_msg_id": "47dbb1bc-5422-43a8-b1d2-092e74cb8ebb",
+        "type": "message",
+        "text": "jesus $20 for looking at shitty art",
+        "user": "U15HRTAHL",
+        "ts": "1529074444.000358"
+    },
+    {
+        "client_msg_id": "95da21c9-9749-421c-8434-c4db21367645",
+        "type": "message",
+        "text": "Only $20 for looking at amazing art *",
+        "user": "U15HSHSS2",
+        "ts": "1529074925.000156"
+    },
+    {
+        "client_msg_id": "1f9958de-655e-470a-9e6a-8865170e5097",
+        "type": "message",
+        "text": "positivity",
+        "user": "U15HSHSS2",
+        "ts": "1529074942.000504"
+    },
+    {
+        "client_msg_id": "e1b049cc-b2a4-49b3-b27c-2ddf9934218d",
+        "type": "message",
+        "text": "if there’s not naked people painted I’m going to be disappointed",
+        "user": "U15HRTAHL",
+        "ts": "1529075212.000302"
+    },
+    {
+        "client_msg_id": "22ddb4a3-ebd2-4ae6-aed4-09b278a52c99",
+        "type": "message",
+        "text": "What's the over\/under trump pardons manafort",
+        "user": "U15HRTAHL",
+        "ts": "1529082652.000415"
+    },
+    {
+        "client_msg_id": "48BA032B-E2F0-4A13-9F61-7FDE3A837E5C",
+        "type": "message",
+        "text": "I'm thinking 1? 2?",
+        "user": "U15J5H60P",
+        "ts": "1529082681.000573"
+    },
+    {
+        "client_msg_id": "de63cf0e-c101-4e62-b05e-08c3d736ea83",
+        "type": "message",
+        "text": "<https:\/\/developers.snapchat.com\/>",
+        "user": "U15HRTAHL",
+        "ts": "1529083723.000532",
+        "attachments": [
+            {
+                "title": "Snapchat Developers",
+                "title_link": "https:\/\/developers.snapchat.com\/",
+                "text": "Life's more fun when you live in the moment! :) Download Snapchat for iOS and Android, and start Snapping with friends today.",
+                "fallback": "Snapchat Developers",
+                "from_url": "https:\/\/developers.snapchat.com\/",
+                "service_name": "developers.snapchat.com",
+                "id": 1,
+                "original_url": "https:\/\/developers.snapchat.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aeb6d0d2-1902-4053-bfa8-67f9d86b6419",
+        "type": "message",
+        "text": "I can't get to the link for some reason",
+        "user": "U15J5H60P",
+        "ts": "1529083867.000481"
+    },
+    {
+        "client_msg_id": "8ca09437-d341-427d-9194-a46edbb3e1ce",
+        "type": "message",
+        "text": "tl;dr they have their own sdk for making AR stickers\/lenses",
+        "user": "U15HRTAHL",
+        "ts": "1529083917.000123"
+    },
+    {
+        "client_msg_id": "62dad2b0-1df0-4357-a298-2aabbc4bc7e4",
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1529083933.000586"
+    },
+    {
+        "client_msg_id": "d5b8234d-533a-4829-ba0e-79d6b6cf1f84",
+        "type": "message",
+        "text": "Does 1 or 2 work for everyone?",
+        "user": "U15J5H60P",
+        "ts": "1529084638.000511"
+    },
+    {
+        "client_msg_id": "6c4a5647-5042-40eb-8606-a591d3a50a0d",
+        "type": "message",
+        "text": "Depends how hungover I am from tonight",
+        "user": "U15HSHSS2",
+        "ts": "1529084663.000232"
+    },
+    {
+        "client_msg_id": "8e0e2575-08a7-4986-8ec5-72dbdc968a5a",
+        "type": "message",
+        "text": "Doesn't matter",
+        "user": "U15HRTAHL",
+        "ts": "1529084665.000264"
+    },
+    {
+        "client_msg_id": "d29f4336-b88b-4872-91ff-c45bcdef9c27",
+        "type": "message",
+        "text": "It begins <https:\/\/twitter.com\/realDonaldTrump\/status\/1007679422865006593?s=09>",
+        "user": "U15HRTAHL",
+        "ts": "1529084678.000265",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/realDonaldTrump|@realDonaldTrump>: Wow, what a tough sentence for Paul Manafort, who has represented Ronald Reagan, Bob Dole and many other top political people and campaigns. Didn’t know Manafort was the head of the Mob. What about Comey and Crooked Hillary and all of the others? Very unfair!",
+                "ts": 1529084470,
+                "author_name": "Donald J. Trump",
+                "author_link": "https:\/\/twitter.com\/realDonaldTrump\/status\/1007679422865006593",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+                "author_subname": "@realDonaldTrump",
+                "text": "Wow, what a tough sentence for Paul Manafort, who has represented Ronald Reagan, Bob Dole and many other top political people and campaigns. Didn’t know Manafort was the head of the Mob. What about Comey and Crooked Hillary and all of the others? Very unfair!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/realDonaldTrump\/status\/1007679422865006593?s=09",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/realDonaldTrump\/status\/1007679422865006593?s=09",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02f44c27-437f-44c2-a035-265b85566987",
+        "type": "message",
+        "text": "BUT HER EMAILS",
+        "user": "U15J5H60P",
+        "ts": "1529084978.000685"
+    },
+    {
+        "client_msg_id": "36795904-5fd1-4c9c-8340-6dc5ff1fa412",
+        "type": "message",
+        "text": "Very unfair!",
+        "user": "U15HRTAHL",
+        "ts": "1529084986.000307"
+    },
+    {
+        "client_msg_id": "7331574a-2f21-4bc1-a543-60d73fe5bfbb",
+        "type": "message",
+        "text": "I honestly want to know how Hillary and Obama put up being called out by him everyday",
+        "user": "U15HRTAHL",
+        "ts": "1529085028.000330"
+    },
+    {
+        "client_msg_id": "905e3d2d-ee10-4d08-821b-78feb9642c2a",
+        "type": "message",
+        "text": "Obama could write an amazing tweet that would probably be #1 of all on r\/MurderedByWords",
+        "user": "U15HRTAHL",
+        "ts": "1529085069.000545"
+    },
+    {
+        "client_msg_id": "7ab85996-2053-45fd-bd71-92636d331c14",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1529085087.000570"
+    },
+    {
+        "client_msg_id": "f20ecd7a-9e78-426d-b012-2fb3acaa6262",
+        "type": "message",
+        "text": "The mute button",
+        "user": "U15J5H60P",
+        "ts": "1529085154.000530"
+    },
+    {
+        "client_msg_id": "8524e1ad-bf53-447a-af94-ab9653bf8d54",
+        "type": "message",
+        "text": "wow",
+        "user": "U15HRTAHL",
+        "ts": "1529090026.000120"
+    },
+    {
+        "client_msg_id": "0818cfda-5efc-4ec1-a6f2-948cf4f7ed2d",
+        "type": "message",
+        "text": "did you guys see what Ohio did?",
+        "user": "U15HRTAHL",
+        "ts": "1529090031.000551"
+    },
+    {
+        "client_msg_id": "4e2100c5-ebea-4fab-9f83-b6457d6fb21b",
+        "type": "message",
+        "text": "if you miss 2 elections you can’t vote anymore",
+        "user": "U15HRTAHL",
+        "ts": "1529090048.000429"
+    },
+    {
+        "client_msg_id": "88fabdee-fab3-4e1b-a352-29fa23c52176",
+        "type": "message",
+        "text": "well you can",
+        "user": "U15HRTAHL",
+        "ts": "1529090062.000493"
+    },
+    {
+        "client_msg_id": "9a5209a2-1164-4765-99e1-25b11f92dae5",
+        "type": "message",
+        "text": "but you have to reregister",
+        "user": "U15HRTAHL",
+        "ts": "1529090069.000076"
+    }
+]

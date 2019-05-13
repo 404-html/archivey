@@ -1,0 +1,580 @@
+[
+    {
+        "client_msg_id": "9980430d-3b33-4bf6-a15f-f690a8849d64",
+        "type": "message",
+        "text": "Good morning! I hope y'all have a wonderful day.",
+        "user": "U15J5H60P",
+        "ts": "1537882786.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1537882795.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/kristen-stewart-lol-celebs-2bJWG8k0HAktq",
+                "image_url": "https:\/\/media2.giphy.com\/media\/2bJWG8k0HAktq\/giphy-downsized.gif",
+                "image_width": 268,
+                "image_height": 268,
+                "image_bytes": 498732,
+                "is_animated": true,
+                "title": "good morning",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/kristen-stewart-lol-celebs-2bJWG8k0HAktq"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E7DF4107-4919-4A99-9938-CC117D74364B",
+        "type": "message",
+        "text": "Prob wont but thanks",
+        "user": "U15HY5TG8",
+        "ts": "1537882993.000100"
+    },
+    {
+        "client_msg_id": "d61d0f32-4225-4893-a8f8-8cf79c545860",
+        "type": "message",
+        "text": "Anything I can do to help it be better?",
+        "user": "U15J5H60P",
+        "ts": "1537883108.000100"
+    },
+    {
+        "client_msg_id": "379213C2-9529-4F27-A7DB-3640EF251C1C",
+        "type": "message",
+        "text": "$1mil and a trip to france",
+        "user": "U15HY5TG8",
+        "ts": "1537883133.000100"
+    },
+    {
+        "client_msg_id": "a237558a-4f19-429d-8539-ed187c49d926",
+        "type": "message",
+        "text": "x2 please",
+        "user": "U15HRTAHL",
+        "ts": "1537883141.000100"
+    },
+    {
+        "client_msg_id": "e622d938-1e6a-484f-bb40-f9e2e441c1c8",
+        "type": "message",
+        "text": "Ah dang. Sorry, can't help ya with that one.",
+        "user": "U15J5H60P",
+        "ts": "1537883143.000100"
+    },
+    {
+        "client_msg_id": "04f52300-bccf-47d9-a738-0f5ff7eb511e",
+        "type": "message",
+        "text": "If there's anything reasonable I can do, let me know.",
+        "user": "U15J5H60P",
+        "ts": "1537883153.000100"
+    },
+    {
+        "client_msg_id": "024e9759-88f7-428c-9311-0e599737ca51",
+        "type": "message",
+        "text": "Make red dead redemption come out today",
+        "user": "U15HRTAHL",
+        "ts": "1537883188.000100"
+    },
+    {
+        "client_msg_id": "26e3c368-4fc6-4ec3-be6a-1a0485ec2c56",
+        "type": "message",
+        "text": "Keyword was 'reasonable'. I guess I should also mention - within my control.",
+        "user": "U15J5H60P",
+        "ts": "1537883240.000200"
+    },
+    {
+        "client_msg_id": "3e498032-8330-4250-b2ef-b1e8cf5eda8b",
+        "type": "message",
+        "text": "you can get cancer and beg the developers to let you play it before you die",
+        "user": "U15HRTAHL",
+        "ts": "1537883256.000100"
+    },
+    {
+        "client_msg_id": "bbe004e3-5599-441f-93a6-9120e340f6f4",
+        "type": "message",
+        "text": "Within my control",
+        "user": "U15J5H60P",
+        "ts": "1537883265.000100"
+    },
+    {
+        "client_msg_id": "d5651861-9d6d-4b56-8fac-45dfca55db64",
+        "type": "message",
+        "text": "pretty reasonable if you ask me",
+        "user": "U15HRTAHL",
+        "ts": "1537883268.000100"
+    },
+    {
+        "client_msg_id": "86061B8B-3A47-4E97-8466-28F6411A5426",
+        "type": "message",
+        "text": "I agree",
+        "user": "U15HY5TG8",
+        "ts": "1537883333.000100"
+    },
+    {
+        "client_msg_id": "a1a755dc-aa55-497e-90b7-43d265d41599",
+        "type": "message",
+        "text": "Not within my control tho",
+        "user": "U15J5H60P",
+        "ts": "1537883345.000100"
+    },
+    {
+        "client_msg_id": "093F41AE-9429-4E0D-B850-7A50A70D0E4F",
+        "type": "message",
+        "text": "Find me a girl to date",
+        "user": "U15HY5TG8",
+        "ts": "1537883349.000100"
+    },
+    {
+        "client_msg_id": "dd29051f-05da-4a3a-9c65-3927ab128395",
+        "type": "message",
+        "text": "I can do that!",
+        "user": "U15J5H60P",
+        "ts": "1537883357.000100"
+    },
+    {
+        "client_msg_id": "0D946330-A7D4-4D06-BDC7-82884CF1605F",
+        "type": "message",
+        "text": "Not Aimees friends though",
+        "user": "U15HY5TG8",
+        "ts": "1537883368.000100"
+    },
+    {
+        "client_msg_id": "65e8dd22-a970-4679-88c4-91ac5d307b82",
+        "type": "message",
+        "text": "My mom can be picked up at 7PM tonight.",
+        "user": "U15J5H60P",
+        "ts": "1537883374.000100"
+    },
+    {
+        "client_msg_id": "8ae51fb4-2a0b-424a-b527-3289d1383c1e",
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HRTAHL",
+        "ts": "1537883378.000100"
+    },
+    {
+        "client_msg_id": "11B5A8EF-0E2A-4756-93AE-8689C95C9AFE",
+        "type": "message",
+        "text": "She hot?",
+        "user": "U15HY5TG8",
+        "ts": "1537883381.000100"
+    },
+    {
+        "client_msg_id": "139d00a5-2319-454b-930c-9aad6d1e309c",
+        "type": "message",
+        "text": "Hey man, you said find you a girl. I did.",
+        "user": "U15J5H60P",
+        "ts": "1537883403.000100"
+    },
+    {
+        "client_msg_id": "0058573d-4e94-419d-9dfd-19829c1f5710",
+        "type": "message",
+        "text": "She likes any restaurants. You can take her to applebees",
+        "user": "U15J5H60P",
+        "ts": "1537883415.000100"
+    },
+    {
+        "client_msg_id": "BD58984C-425B-4739-AEC6-6E807ABCEE93",
+        "type": "message",
+        "text": "I asked if shes hot",
+        "user": "U15HY5TG8",
+        "ts": "1537883422.000200"
+    },
+    {
+        "client_msg_id": "998fab83-ab3f-41dd-90a3-25f68c4cd1a3",
+        "type": "message",
+        "text": "Joe, is my mom hot?",
+        "user": "U15J5H60P",
+        "ts": "1537883431.000100"
+    },
+    {
+        "client_msg_id": "e4731066-3609-47a4-8510-80cd063d2358",
+        "type": "message",
+        "text": "uhhh",
+        "user": "U15HRTAHL",
+        "ts": "1537883441.000100"
+    },
+    {
+        "client_msg_id": "B9EBD877-DEC4-4796-89AA-C58A94BD0607",
+        "type": "message",
+        "text": "Alright next",
+        "user": "U15HY5TG8",
+        "ts": "1537883449.000100"
+    },
+    {
+        "client_msg_id": "763e7f33-ff2d-44d7-b6a4-31ac488fa79b",
+        "type": "message",
+        "text": "Unbelievable. Beggars can't be choosers, Evan.",
+        "user": "U15J5H60P",
+        "ts": "1537883464.000100"
+    },
+    {
+        "client_msg_id": "6DF08DF3-F27B-4B9B-87D4-F0AD6D1DD39D",
+        "type": "message",
+        "text": "Fine fine",
+        "user": "U15HY5TG8",
+        "ts": "1537883571.000100"
+    },
+    {
+        "client_msg_id": "AFAE6160-DC11-48D4-8217-6BAE66C1C6D7",
+        "type": "message",
+        "text": "I guess tinder banned me ",
+        "user": "U15HY5TG8",
+        "ts": "1537886517.000100"
+    },
+    {
+        "client_msg_id": "DED1F123-3B32-4676-8488-05DD9363B9FD",
+        "type": "message",
+        "text": "Lmaooo",
+        "user": "U15J5H60P",
+        "ts": "1537886526.000100"
+    },
+    {
+        "client_msg_id": "EE55CA5D-0813-4066-8052-FCA51F3388D5",
+        "type": "message",
+        "text": "Why?",
+        "user": "U15J5H60P",
+        "ts": "1537886528.000100"
+    },
+    {
+        "client_msg_id": "03782970-BEB6-4483-A868-2A33FC6255A5",
+        "type": "message",
+        "text": "No idea",
+        "user": "U15HY5TG8",
+        "ts": "1537886534.000100"
+    },
+    {
+        "client_msg_id": "D0DF04F2-0235-4696-8E33-B33677C20638",
+        "type": "message",
+        "text": "I didnt even talk to anyone really",
+        "user": "U15HY5TG8",
+        "ts": "1537886541.000200"
+    },
+    {
+        "client_msg_id": "DEDEBA9C-47D8-4C86-8C26-F29C5EA5FB1C",
+        "type": "message",
+        "text": "People are saying its a big",
+        "user": "U15HY5TG8",
+        "ts": "1537886558.000100"
+    },
+    {
+        "client_msg_id": "2391E2E9-2F5E-4748-B8EE-5FD479A53C1B",
+        "type": "message",
+        "text": "Bug",
+        "user": "U15HY5TG8",
+        "ts": "1537886559.000100"
+    },
+    {
+        "client_msg_id": "B3AA68E6-B102-468D-BB77-FB7E95F7F0B9",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1537886620.000100"
+    },
+    {
+        "client_msg_id": "c139d9af-ec3c-45c7-b075-c50cb529a028",
+        "type": "message",
+        "text": "Are you guys going to the expo friday or next thursday for recruiting or anything?",
+        "user": "U15HZ01QX",
+        "ts": "1537896105.000100"
+    },
+    {
+        "client_msg_id": "9a45d18d-5258-40a8-979c-c135beca92de",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1537896210.000100"
+    },
+    {
+        "client_msg_id": "1C02F6A0-5385-4785-8264-95820E8D9C71",
+        "type": "message",
+        "text": "Nah",
+        "user": "U15HY5TG8",
+        "ts": "1537896986.000200"
+    },
+    {
+        "client_msg_id": "36e554be-7c62-40f5-a5f0-bcaeb9a20a46",
+        "type": "message",
+        "text": "I had no idea that there was an expo even going on",
+        "user": "U15J5H60P",
+        "ts": "1537897521.000100"
+    },
+    {
+        "client_msg_id": "70e329a6-87aa-4ea6-8e85-cedf3ce0bdac",
+        "type": "message",
+        "text": "the uwm expos",
+        "user": "U15HZ01QX",
+        "ts": "1537897548.000100"
+    },
+    {
+        "client_msg_id": "9ab3314f-9fb2-4980-9f2f-7e0f9c9a12e8",
+        "type": "message",
+        "text": "career fairs",
+        "user": "U15HZ01QX",
+        "ts": "1537897552.000100"
+    },
+    {
+        "client_msg_id": "7a70d927-9e0f-4cca-ac70-c7ecdc0c938c",
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1537897555.000200"
+    },
+    {
+        "client_msg_id": "7e980e58-2843-4014-9edf-82cb7339cea0",
+        "type": "message",
+        "text": "Nope, I'm not doing any of that. That's below me in the HR department",
+        "user": "U15J5H60P",
+        "ts": "1537897566.000200"
+    },
+    {
+        "client_msg_id": "978961c3-6764-4363-8778-f800860187a3",
+        "type": "message",
+        "text": "I can ask them if they are though if you'd like me to",
+        "user": "U15J5H60P",
+        "ts": "1537897588.000100"
+    },
+    {
+        "client_msg_id": "52db8377-70d4-4649-b0fc-034ddee1fe42",
+        "type": "message",
+        "text": "headass",
+        "user": "U15HZ01QX",
+        "ts": "1537897589.000100"
+    },
+    {
+        "client_msg_id": "79765f15-6b2d-46c8-8d54-5e3e56acdd25",
+        "type": "message",
+        "text": "you were interviewing a few months ago",
+        "user": "U15HZ01QX",
+        "ts": "1537897599.000100"
+    },
+    {
+        "client_msg_id": "0cca1544-efad-4bae-b245-4fd00b1ec77a",
+        "type": "message",
+        "text": "below me in hr",
+        "user": "U15HZ01QX",
+        "ts": "1537897610.000100"
+    },
+    {
+        "client_msg_id": "bac2c370-7ba6-45ae-a490-f92b6b0ac302",
+        "type": "message",
+        "text": "Yeah, I was interviewing people that I had HR find for us.",
+        "user": "U15J5H60P",
+        "ts": "1537897631.000100"
+    },
+    {
+        "client_msg_id": "e1ef92d8-4bc2-41af-862c-b2a805091a68",
+        "type": "message",
+        "text": "HR does the initial interview, then if they're okay, they send them up to us.",
+        "user": "U15J5H60P",
+        "ts": "1537897649.000100"
+    },
+    {
+        "client_msg_id": "3d030304-8cfe-4856-bcef-2bf7a54bce44",
+        "type": "message",
+        "text": "We don't go do all the dirty work. We've got real work to do.",
+        "user": "U15J5H60P",
+        "ts": "1537897658.000100"
+    },
+    {
+        "client_msg_id": "9A9FB007-7BFC-4E6F-9613-FB4285D326AF",
+        "type": "message",
+        "text": "It makes me sad how much I don't like being around my family",
+        "user": "U15J5H60P",
+        "ts": "1537914537.000100"
+    },
+    {
+        "client_msg_id": "6E9AFF74-CBB3-4F81-90DC-EAA2332F45D5",
+        "type": "message",
+        "text": "I swear, every time I see my dad he makes me feel bad about how much I make. Then he bitches about healthcare",
+        "user": "U15J5H60P",
+        "ts": "1537914599.000100"
+    },
+    {
+        "client_msg_id": "DE83A250-E76B-4434-A4AA-5E8F5BC5C6BB",
+        "type": "message",
+        "text": "Retirement ",
+        "user": "U15J5H60P",
+        "ts": "1537914603.000100"
+    },
+    {
+        "client_msg_id": "19DF87D7-F2D5-4BA8-80B3-85C9BB163B08",
+        "type": "message",
+        "text": "Everything",
+        "user": "U15J5H60P",
+        "ts": "1537914608.000100"
+    },
+    {
+        "client_msg_id": "E7645378-F6A1-4492-ACCE-4ED11B12E178",
+        "type": "message",
+        "text": "Then bitches about Greendale going in the shitter",
+        "user": "U15J5H60P",
+        "ts": "1537914640.000100"
+    },
+    {
+        "client_msg_id": "D1B58CF2-06BB-4D47-AC13-659F7C33450D",
+        "type": "message",
+        "text": "Man",
+        "user": "U15J5H60P",
+        "ts": "1537914645.000100"
+    },
+    {
+        "client_msg_id": "23650929-4775-4A79-BB7C-30C33477C1DF",
+        "type": "message",
+        "text": "I just wanted to say hi",
+        "user": "U15J5H60P",
+        "ts": "1537914652.000100"
+    },
+    {
+        "client_msg_id": "53747232-D8F4-480B-85F5-A44E6FCF5F31",
+        "type": "message",
+        "text": "No matter what I do to try making better conversation he'll turn it around",
+        "user": "U15J5H60P",
+        "ts": "1537914672.000100"
+    },
+    {
+        "client_msg_id": "6118DEA4-F937-4087-A255-74375F31DC78",
+        "type": "message",
+        "text": "Then girlfriends wonder why I never bring them around family",
+        "user": "U15J5H60P",
+        "ts": "1537914766.000100"
+    },
+    {
+        "client_msg_id": "A6467491-C292-4500-81A1-64F67FE73E3D",
+        "type": "message",
+        "text": "\"are you embarrassed of me?\"",
+        "user": "U15J5H60P",
+        "ts": "1537914783.000100"
+    },
+    {
+        "client_msg_id": "F62EFCA4-5763-4AA7-BB25-183FE81BFF08",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1537914788.000100"
+    },
+    {
+        "client_msg_id": "9704CB83-1479-4FF3-9056-E0730A6BB7A1",
+        "type": "message",
+        "text": "I'm embarrassed of my family",
+        "user": "U15J5H60P",
+        "ts": "1537914796.000100"
+    },
+    {
+        "client_msg_id": "B24F2B80-93AD-468B-8C4E-A95999F6D526",
+        "type": "message",
+        "text": "Thanks for letting me vent",
+        "user": "U15J5H60P",
+        "ts": "1537914894.000100"
+    },
+    {
+        "client_msg_id": "A3DBF96D-DAAE-4D92-B9F8-0A5D886CCC59",
+        "type": "message",
+        "text": "Youre not welcome, but im sorry to hear that. One of our families might be more accepting",
+        "user": "U15HY5TG8",
+        "ts": "1537919368.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FD0DG23S5",
+                "created": 1537919482,
+                "timestamp": 1537919482,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 1431447,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD0DG23S5\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD0DG23S5\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD0DG23S5-b75762bd45\/image_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FD0DG23S5\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FD0DG23S5-77853a0bd7",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "5D8C288C-C960-4A6B-BC81-C7EF1C46215A",
+        "ts": "1537919486.000100"
+    },
+    {
+        "client_msg_id": "B08469F6-F68F-4DAC-80CA-B915C70A2EA6",
+        "type": "message",
+        "text": "Builds plant outside milwaukee, gives money to madison",
+        "user": "U15HY5TG8",
+        "ts": "1537919497.000100"
+    },
+    {
+        "client_msg_id": "60E6FB39-C019-4025-ABE0-E86D2AB01DEC",
+        "type": "message",
+        "text": "Yeah, it's infuriating. Thanks, Scotty.",
+        "user": "U15J5H60P",
+        "ts": "1537919517.000100"
+    },
+    {
+        "client_msg_id": "84D62795-247A-4A70-8BAC-27BCA474AC8B",
+        "type": "message",
+        "text": "\"let's fuck up lake Michigan over by Milwaukee, but keep building up Madison because they're already struggling so badly with all of their nice schools, sports, lakes, and parks.\"",
+        "user": "U15J5H60P",
+        "ts": "1537919571.000100"
+    },
+    {
+        "client_msg_id": "F89058F3-5567-43F1-9EE0-1469F3A5DBC4",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1537919583.000100"
+    },
+    {
+        "client_msg_id": "63BBE7AE-DDFE-4417-80B2-401A1F3A5F05",
+        "type": "message",
+        "text": "Assholes",
+        "user": "U15HY5TG8",
+        "ts": "1537919586.000100"
+    },
+    {
+        "client_msg_id": "0E2EB196-B886-4647-8FA9-D60DA154A3D1",
+        "type": "message",
+        "text": "This is why the world is out of balance",
+        "user": "U15HY5TG8",
+        "ts": "1537919602.000100"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "client_msg_id": "0c8e9461-8c2a-4e29-9d16-3d3c2c3ce5af",
+        "type": "message",
+        "text": "So I’ve got this task to pump 2.5k records that contain Company Names into google places API to get back their City and State",
+        "user": "U15HRTAHL",
+        "ts": "1532614741.000532"
+    },
+    {
+        "client_msg_id": "b5f2dd9d-09fd-4a08-8084-e792b6ad152d",
+        "type": "message",
+        "text": "I tried it on a few test cases and the API is dog shit",
+        "user": "U15HRTAHL",
+        "ts": "1532614752.000023"
+    },
+    {
+        "client_msg_id": "f29a1030-d068-4f07-98e7-e6b836f2e33d",
+        "type": "message",
+        "text": "if you put in Northwestern you’ll get back Northwestern University",
+        "user": "U15HRTAHL",
+        "ts": "1532614767.000179"
+    },
+    {
+        "client_msg_id": "6fa56c88-aa66-4bd4-8c08-0105ac8cbe5a",
+        "type": "message",
+        "text": "if you put in Northwestern Mutual you’ll get 0 results",
+        "user": "U15HRTAHL",
+        "ts": "1532614780.000511"
+    },
+    {
+        "client_msg_id": "96015e9a-30e3-4293-b570-6f6324f0ea1c",
+        "type": "message",
+        "text": "if you put in Northwestern Mutual Milwaukee you’ll get back 6 results",
+        "user": "U15HRTAHL",
+        "ts": "1532614794.000193"
+    },
+    {
+        "client_msg_id": "6cbd4654-9043-4be1-8e61-6a6e5165bb16",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1532614966.000105"
+    },
+    {
+        "client_msg_id": "f63e6225-d005-4c67-9f65-7179adb5b583",
+        "type": "message",
+        "text": "All of these job postings are looking for \"Rockstar Developers\"",
+        "user": "U15J5H60P",
+        "ts": "1532615329.000216"
+    },
+    {
+        "client_msg_id": "4e301864-21ec-4d24-bf36-154eb9ae393f",
+        "type": "message",
+        "text": "It seems like that's going to be important for the future",
+        "user": "U15J5H60P",
+        "ts": "1532615346.000290"
+    },
+    {
+        "client_msg_id": "eeecef44-a101-4fb6-945b-0346de0afcfc",
+        "type": "message",
+        "text": "So I'm learning Rockstar - <https:\/\/github.com\/dylanbeattie\/rockstar>",
+        "user": "U15J5H60P",
+        "ts": "1532615350.000243",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "dylanbeattie\/rockstar",
+                "title_link": "https:\/\/github.com\/dylanbeattie\/rockstar",
+                "text": "rockstar - The Rockstar programming language specification",
+                "fallback": "GitHub: dylanbeattie\/rockstar",
+                "from_url": "https:\/\/github.com\/dylanbeattie\/rockstar",
+                "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/106178?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/dylanbeattie\/rockstar"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8116707b-7806-41d5-a2b6-b02347c9909b",
+        "type": "message",
+        "text": "To become a certified Rockstar developer, you must write one line of Rockstar",
+        "user": "U15J5H60P",
+        "ts": "1532615372.000123"
+    },
+    {
+        "client_msg_id": "F800F049-3E55-4F3B-AAFF-67AB4C240590",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1532615420.000254"
+    },
+    {
+        "client_msg_id": "f8e0159d-7e58-4059-a309-fb2bc007927c",
+        "type": "message",
+        "text": "Fucking yellowpages has a better api",
+        "user": "U15HRTAHL",
+        "ts": "1532615525.000321"
+    },
+    {
+        "client_msg_id": "89d2659f-a6aa-4c3e-a467-94e44124731a",
+        "type": "message",
+        "text": "I am officially a certified Rockstar developer",
+        "user": "U15J5H60P",
+        "ts": "1532615780.000189"
+    },
+    {
+        "client_msg_id": "63FFE637-048F-43CE-82A3-F4D5A9B2E236",
+        "type": "message",
+        "text": "Any of you plebs ever done dynamic sql in sql server?",
+        "user": "U15HY5TG8",
+        "ts": "1532626605.000502"
+    },
+    {
+        "client_msg_id": "b95ab3da-0925-4c63-92d2-7e5c704d6d2a",
+        "type": "message",
+        "text": "Nope but you probably can ",
+        "user": "U15HRTAHL",
+        "ts": "1532626704.000422"
+    },
+    {
+        "client_msg_id": "7ab939e8-3bd3-4dc3-b6f8-b859fad06bac",
+        "type": "message",
+        "text": "Stored proc",
+        "user": "U15HRTAHL",
+        "ts": "1532626736.000188"
+    },
+    {
+        "client_msg_id": "40acb567-57b4-4720-a877-b82cb00df8ff",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1532626808.000295"
+    },
+    {
+        "client_msg_id": "64a15eed-fb87-4232-ab2b-ddc7575ba97e",
+        "type": "message",
+        "text": "I added my Rockstar cert to LinkedIN",
+        "user": "U15J5H60P",
+        "ts": "1532626819.000468"
+    },
+    {
+        "client_msg_id": "93AF8C17-D4B8-48CF-A48C-BC71253BCB03",
+        "type": "message",
+        "text": "Ik you can",
+        "user": "U15HY5TG8",
+        "ts": "1532626880.000327"
+    },
+    {
+        "client_msg_id": "d5f1e591-d997-4b97-95ff-2b3ffb603f1a",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1532627096.000075"
+    }
+]

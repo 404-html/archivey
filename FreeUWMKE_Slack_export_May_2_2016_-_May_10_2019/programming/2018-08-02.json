@@ -1,0 +1,140 @@
+[
+    {
+        "client_msg_id": "dadacfe8-e384-4329-baee-a51eb278504e",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/carterwickstrom\/status\/1014165500056596481\/photo\/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1014165500056596481&amp;ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2Fcd1a13a769b866c4d04d47b4c497f0a8%3FpostId%3Dabd99103c45a>",
+        "user": "U15HSHSS2",
+        "ts": "1533226781.000144",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/carterwickstrom|@carterwickstrom>: 90% of all code comments: <https:\/\/pbs.twimg.com\/media\/DhMKJVoUwAAZWmw.jpg>",
+                "ts": 1530630872,
+                "author_name": "Carter Wickstrom",
+                "author_link": "https:\/\/twitter.com\/carterwickstrom\/status\/1014165500056596481",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/532693381344808960\/JjhASM5-_normal.jpeg",
+                "author_subname": "@carterwickstrom",
+                "text": "90% of all code comments: <https:\/\/pbs.twimg.com\/media\/DhMKJVoUwAAZWmw.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/carterwickstrom\/status\/1014165500056596481\/photo\/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1014165500056596481&amp;ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2Fcd1a13a769b866c4d04d47b4c497f0a8%3FpostId%3Dabd99103c45a",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DhMKJVoUwAAZWmw.jpg",
+                "image_width": 567,
+                "image_height": 756,
+                "image_bytes": 81000,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/carterwickstrom\/status\/1014165500056596481\/photo\/1?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1014165500056596481&amp;ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2Fcd1a13a769b866c4d04d47b4c497f0a8%3FpostId%3Dabd99103c45a",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9f1eb80-b076-44fe-877d-9c4f99f237cf",
+        "type": "message",
+        "text": "lol true",
+        "user": "U15HSHSS2",
+        "ts": "1533226788.000224"
+    },
+    {
+        "client_msg_id": "01971e16-955d-40eb-aba6-abe106275f20",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1533226880.000152"
+    },
+    {
+        "client_msg_id": "ae5f94c9-0deb-41be-ab58-bd66017ec0a9",
+        "type": "message",
+        "text": "I was just discussing this",
+        "user": "U15HRTAHL",
+        "ts": "1533226888.000238"
+    },
+    {
+        "client_msg_id": "ca79faa8-2c04-4a94-85b3-03d957af4007",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/@samuel.fare\/do-code-comments-suck-abd99103c45a>",
+        "user": "U15HSHSS2",
+        "ts": "1533226905.000373",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Do code comments suck? – Sam Fare – Medium",
+                "title_link": "https:\/\/medium.com\/@samuel.fare\/do-code-comments-suck-abd99103c45a",
+                "text": "A conversation about comments.",
+                "fallback": "Medium: Do code comments suck? – Sam Fare – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/0*Biqyt6ckfgQiJKFM",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "4 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1533213105,
+                "from_url": "https:\/\/medium.com\/@samuel.fare\/do-code-comments-suck-abd99103c45a",
+                "image_width": 376,
+                "image_height": 250,
+                "image_bytes": 111082,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*6HbFjrPeeKRa_2NgcppQIg.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/@samuel.fare\/do-code-comments-suck-abd99103c45a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "350eb61e-4bfc-426f-abbb-b90e341d1047",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1533226977.000442"
+    },
+    {
+        "client_msg_id": "8f433b0e-1ac1-4fe6-a49d-1699d82b2641",
+        "type": "message",
+        "text": "Yeah we have plenty of that",
+        "user": "U15HSHSS2",
+        "ts": "1533226997.000610"
+    },
+    {
+        "client_msg_id": "7c335561-5822-4d61-886b-139d68e9ab0a",
+        "type": "message",
+        "text": "\/\/Gets the election cost amount\nfunction GetElectionCostAmount(){...}",
+        "user": "U15HSHSS2",
+        "ts": "1533227031.000237"
+    },
+    {
+        "client_msg_id": "d5626251-f45e-4c70-b40b-d6d09e5866e3",
+        "type": "message",
+        "text": "WHY",
+        "user": "U15HRTAHL",
+        "ts": "1533227188.000520"
+    },
+    {
+        "client_msg_id": "dce94a5f-20f0-482b-815e-7daab9bc6a2b",
+        "type": "message",
+        "text": "I’m reading that article btw",
+        "user": "U15HRTAHL",
+        "ts": "1533227195.000268"
+    },
+    {
+        "client_msg_id": "BAE4D7FE-A8C0-45C0-9285-4DA697504295",
+        "type": "message",
+        "text": "When you get paid by the line",
+        "user": "U15J5H60P",
+        "ts": "1533227252.000212"
+    },
+    {
+        "client_msg_id": "FEADB6A8-B2B6-44B2-B13A-196A1F2E4861",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1533227289.000019"
+    },
+    {
+        "client_msg_id": "266EC443-234B-4E3A-B0F3-5A31AA57D273",
+        "type": "message",
+        "text": "\"We have 1 million lines of well tested comments in our software\"",
+        "user": "U15HY5TG8",
+        "ts": "1533227318.000384"
+    }
+]

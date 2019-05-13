@@ -1,0 +1,233 @@
+[
+    {
+        "type": "message",
+        "text": "Lol i forgot to tell you guys this the other day. So we have our hackathon going on right? Well we had a meeting that included everyone: devs, qa, dbas, etc",
+        "user": "U15HY5TG8",
+        "ts": "1516800919.000172"
+    },
+    {
+        "type": "message",
+        "text": "The software director asks whos not enjoying it and thinks that their time could be better used doing something else? Well this one QA lady raises her hand. The software director is like \"what do you mean? Youre QA and dont want to break the system? Thats like what QA is all about\"....QA -\"ummm welll idk....\" ",
+        "user": "U15HY5TG8",
+        "ts": "1516801065.000407"
+    },
+    {
+        "client_msg_id": "9bf4176c-3cd5-44eb-bfc8-984f965b9ef8",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1516803268.000826"
+    },
+    {
+        "client_msg_id": "70f3a775-93b9-4f0b-92e3-fe6ee17f0131",
+        "type": "message",
+        "text": "What an idiot",
+        "user": "U15HRTAHL",
+        "ts": "1516803277.000180"
+    },
+    {
+        "type": "message",
+        "text": "It was the same QA lady from a while ago that i complained about lol",
+        "user": "U15HY5TG8",
+        "ts": "1516803307.000128"
+    },
+    {
+        "type": "message",
+        "text": "every time I submit a PR no one reviews it",
+        "user": "U15HRTAHL",
+        "ts": "1516811159.000710"
+    },
+    {
+        "type": "message",
+        "text": "so I started slapping memes on them so people review them",
+        "user": "U15HRTAHL",
+        "ts": "1516811168.001013"
+    },
+    {
+        "type": "message",
+        "text": "it works",
+        "user": "U15HRTAHL",
+        "ts": "1516811170.001090"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1516811309.000243"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> did you guys program at all in your machine learning class?",
+        "user": "U15HRTAHL",
+        "ts": "1516819253.000039"
+    },
+    {
+        "type": "message",
+        "text": "I still dont understand primary key and foreign key. I get the foreign key means its a key in one table that is a primary key in another table but whats the purpose? To ensure that theres no duplicates?",
+        "user": "U15HY5TG8",
+        "ts": "1516820264.000319"
+    },
+    {
+        "type": "message",
+        "text": "Like we just made a date field a third primary key for one of our tables",
+        "user": "U15HY5TG8",
+        "ts": "1516820285.000571"
+    },
+    {
+        "type": "message",
+        "text": "keys are \"indexed\"",
+        "user": "U15HRTAHL",
+        "ts": "1516820323.000488"
+    },
+    {
+        "type": "message",
+        "text": "which means they don't have to do a full table scan",
+        "user": "U15HRTAHL",
+        "ts": "1516820335.000532"
+    },
+    {
+        "type": "message",
+        "text": "databases are crazy with how they perform efficiently",
+        "user": "U15HRTAHL",
+        "ts": "1516820351.000628"
+    },
+    {
+        "type": "message",
+        "text": "What is a full table scan?",
+        "user": "U15HY5TG8",
+        "ts": "1516820355.000635"
+    },
+    {
+        "type": "message",
+        "text": "basically you want to have a field indexed if you're filitering by it",
+        "user": "U15HRTAHL",
+        "ts": "1516820370.000480"
+    },
+    {
+        "type": "message",
+        "text": "So you mean that it looks at those columns primarily when trying to search for things?",
+        "user": "U15HY5TG8",
+        "ts": "1516820383.000408"
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok",
+        "user": "U15HY5TG8",
+        "ts": "1516820388.000598"
+    },
+    {
+        "type": "message",
+        "text": "```Full Table Scan (also known as Sequential Scan) is a scan made on a database where each row of the table under scan is read in a sequential (serial) order and the columns encountered are checked for the validity of a condition.```",
+        "user": "U15HRTAHL",
+        "ts": "1516820390.000556"
+    },
+    {
+        "type": "message",
+        "text": "then theres things called skinny tables",
+        "user": "U15HRTAHL",
+        "ts": "1516820408.000315"
+    },
+    {
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1516820426.000332"
+    },
+    {
+        "type": "message",
+        "text": "I think when something is indexed it creates a map so its search time is O(1) instead of O(n)",
+        "user": "U15HRTAHL",
+        "ts": "1516821289.000056"
+    },
+    {
+        "type": "message",
+        "text": "Ahh thats pretty cool then",
+        "user": "U15HY5TG8",
+        "ts": "1516821314.000507"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1516819253000039>",
+        "user": "U15HSHSS2",
+        "ts": "1516821336.000750",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1516819253000039",
+                "fallback": "[January 24th, 2018 10:40 AM] joeythomaschaske: <@U15HSHSS2> did you guys program at all in your machine learning class?",
+                "ts": "1516819253.000039",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "<@U15HSHSS2> did you guys program at all in your machine learning class?",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I don't remember taking a machine learning class lol...",
+        "user": "U15HSHSS2",
+        "ts": "1516821351.000336"
+    },
+    {
+        "type": "message",
+        "text": "Mips lol",
+        "user": "U15HY5TG8",
+        "ts": "1516821367.000515"
+    },
+    {
+        "type": "message",
+        "text": "that's machine language",
+        "user": "U15HSHSS2",
+        "ts": "1516821376.000568"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> ai",
+        "user": "U15HRTAHL",
+        "ts": "1516821378.000356"
+    },
+    {
+        "type": "message",
+        "text": "whatever",
+        "user": "U15HRTAHL",
+        "ts": "1516821380.000441"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh yea i didnt read",
+        "user": "U15HY5TG8",
+        "ts": "1516821422.000459"
+    },
+    {
+        "type": "message",
+        "text": "Yeah we did some programming but not much, and it was in some shit language",
+        "user": "U15HSHSS2",
+        "ts": "1516821442.000306",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1516821490.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Lisp",
+        "user": "U15HSHSS2",
+        "ts": "1516821444.000639"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1516833246.000659"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "CFC4A9B6-FDCF-425F-83A5-67F5F304246C",
+        "type": "message",
+        "text": "Just played dice for the first time in like 4 years. Oh I miss it",
+        "user": "U15HZ01QX",
+        "ts": "1538324536.000100"
+    },
+    {
+        "client_msg_id": "1E1D0CC8-DC1B-4B50-9940-AF954B804784",
+        "type": "message",
+        "text": "How do you play dice?",
+        "user": "U15HY5TG8",
+        "ts": "1538324572.000100"
+    },
+    {
+        "client_msg_id": "4F6D5164-5335-451E-829B-2B57075F93CA",
+        "type": "message",
+        "text": "Bar dice",
+        "user": "U15HZ01QX",
+        "ts": "1538324583.000100"
+    },
+    {
+        "client_msg_id": "4BCA7E37-4FA1-48FC-8C0F-BC6C0070B95E",
+        "type": "message",
+        "text": "Oooo",
+        "user": "U15HY5TG8",
+        "ts": "1538324592.000100"
+    },
+    {
+        "client_msg_id": "04C4DB8C-48DC-4D82-9CBD-01987F1F6BF9",
+        "type": "message",
+        "text": "Are you somewhere for the game?",
+        "user": "U15HY5TG8",
+        "ts": "1538324608.000100"
+    },
+    {
+        "client_msg_id": "9819F121-E12A-4093-8C5F-7F814D3D36B9",
+        "type": "message",
+        "text": "I’m at who’s on third for our friends birthday. I’m gonna leave around half time though. I like watching games in bed",
+        "user": "U15HZ01QX",
+        "ts": "1538324645.000100"
+    },
+    {
+        "client_msg_id": "F4D4B000-8FED-4B65-9B55-C45D3487B5B5",
+        "type": "message",
+        "text": "Haha i can agree with that",
+        "user": "U15HY5TG8",
+        "ts": "1538324665.000100"
+    },
+    {
+        "client_msg_id": "C068CB36-CE31-4828-8B31-8384181FA4F6",
+        "type": "message",
+        "text": "Jesus, 4 years... ",
+        "user": "U15HSHSS2",
+        "ts": "1538325686.000100"
+    },
+    {
+        "client_msg_id": "0A8D0C4F-C995-44F5-9F85-5D7F5A936986",
+        "type": "message",
+        "text": "lol I play every weekend",
+        "user": "U15HSHSS2",
+        "ts": "1538325692.000100"
+    },
+    {
+        "client_msg_id": "59DA8B93-D8CB-475E-A536-542D43C72C5A",
+        "type": "message",
+        "text": "Actually I played at your birthday last year ",
+        "user": "U15HZ01QX",
+        "ts": "1538325805.000100"
+    },
+    {
+        "client_msg_id": "CF052C3D-6A0F-4493-A5D6-DC3DBDC00343",
+        "type": "message",
+        "text": "But you get the point",
+        "user": "U15HZ01QX",
+        "ts": "1538325809.000200"
+    },
+    {
+        "client_msg_id": "9b669ca5-1898-4463-bc5a-168185cc8099",
+        "type": "message",
+        "text": "omg if you watched the Kavanaugh hearing this is fucking hilarious",
+        "user": "U15HSHSS2",
+        "ts": "1538368017.000100"
+    },
+    {
+        "client_msg_id": "e9d5adef-f2e4-4400-b4d3-d5247bb858a1",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=VRJecfRxbr8>",
+        "user": "U15HSHSS2",
+        "ts": "1538368020.000100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Kavanaugh Hearing Cold Open - SNL",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VRJecfRxbr8",
+                "author_name": "Saturday Night Live",
+                "author_link": "https:\/\/www.youtube.com\/user\/SaturdayNightLive",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VRJecfRxbr8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Kavanaugh Hearing Cold Open - SNL",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VRJecfRxbr8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VRJecfRxbr8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VRJecfRxbr8"
+            }
+        ]
+    }
+]

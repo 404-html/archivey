@@ -1,0 +1,924 @@
+[
+    {
+        "client_msg_id": "1a98e433-8520-4f64-829d-1f5a10b8dbb3",
+        "type": "message",
+        "text": "Costco has $35 off on an instant pot",
+        "user": "U15HRTAHL",
+        "ts": "1541165609.000400"
+    },
+    {
+        "client_msg_id": "9824cd87-57d7-47a4-8b68-a4e7e7c7bd0d",
+        "type": "message",
+        "text": "that’s a pretty good deal",
+        "user": "U15HRTAHL",
+        "ts": "1541165613.000600"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HY5TG8",
+        "ts": "1541167177.000800",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/steve-bannon-y5ytpOoizg1mU",
+                "image_url": "https:\/\/media3.giphy.com\/media\/y5ytpOoizg1mU\/giphy-downsized.gif?cid=6104955e5bdc584842476f41514258b9",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 634089,
+                "is_animated": true,
+                "title": "trump train",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/steve-bannon-y5ytpOoizg1mU"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EA377F00-9C66-443C-96B5-0B9E16B0652A",
+        "type": "message",
+        "text": "So i just got done with my milwaukee tool phone interview",
+        "user": "U15HY5TG8",
+        "ts": "1541167231.001400"
+    },
+    {
+        "client_msg_id": "a56c985a-26fd-4b05-ae29-467982542cf9",
+        "type": "message",
+        "text": "How'd it go?",
+        "user": "U15J5H60P",
+        "ts": "1541167304.001700"
+    },
+    {
+        "client_msg_id": "51EF8AEF-4EE6-4D18-9507-2AD347E9E4EB",
+        "type": "message",
+        "text": "DO THEY GIVE YOU THE JACKET???",
+        "user": "U15HZ01QX",
+        "ts": "1541167336.002200"
+    },
+    {
+        "client_msg_id": "362004cf-2eb6-413f-9b94-fb5f1e31e21c",
+        "type": "message",
+        "text": "Dude",
+        "user": "U15J5H60P",
+        "ts": "1541167398.002400"
+    },
+    {
+        "client_msg_id": "d1d2947e-4fc8-4741-b251-670610a5070a",
+        "type": "message",
+        "text": "I want that Jacket",
+        "user": "U15J5H60P",
+        "ts": "1541167401.002600"
+    },
+    {
+        "client_msg_id": "67F17CEA-8DF3-4A25-9789-0AF963F7EA1D",
+        "type": "message",
+        "text": "It went good. Scared by \"sink or swim\" environment though",
+        "user": "U15HY5TG8",
+        "ts": "1541167443.003200"
+    },
+    {
+        "client_msg_id": "748B87F2-2F31-4AD8-9E2B-C002CEAC0D69",
+        "type": "message",
+        "text": "And what jacket",
+        "user": "U15HY5TG8",
+        "ts": "1541167447.003400"
+    },
+    {
+        "client_msg_id": "ef134e04-4970-4d97-941a-ba5e56e148e8",
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1541167454.003600"
+    },
+    {
+        "client_msg_id": "7fae0bf1-a092-4879-9842-719df9e5ac90",
+        "type": "message",
+        "text": "You don't deserve that job",
+        "user": "U15J5H60P",
+        "ts": "1541167467.004100"
+    },
+    {
+        "client_msg_id": "12A0CAB6-8478-4B71-A9F1-322B8E29439E",
+        "type": "message",
+        "text": "Ok",
+        "user": "U15HY5TG8",
+        "ts": "1541167476.004500"
+    },
+    {
+        "client_msg_id": "790d820b-19fa-415d-bed2-305d354a0749",
+        "type": "message",
+        "text": "Just because you don't know what the jacket is",
+        "user": "U15J5H60P",
+        "ts": "1541167476.004600"
+    },
+    {
+        "client_msg_id": "924c359d-5714-409c-b59e-c8c86f048b71",
+        "type": "message",
+        "text": "That's their thing",
+        "user": "U15J5H60P",
+        "ts": "1541167485.004800"
+    },
+    {
+        "client_msg_id": "761e26d0-d5aa-4c38-b51e-2f91047e2ba3",
+        "type": "message",
+        "text": "You'd be developing software for heated jackets",
+        "user": "U15J5H60P",
+        "ts": "1541167492.005100"
+    },
+    {
+        "client_msg_id": "B8DE111F-E339-4D7A-B1BB-09CF765A6A4D",
+        "type": "message",
+        "text": "Badasssss",
+        "user": "U15HY5TG8",
+        "ts": "1541167512.005600"
+    },
+    {
+        "client_msg_id": "d8f8272e-9edb-480e-986d-91600db0b509",
+        "type": "message",
+        "text": "I hope you get the job, mayne!",
+        "user": "U15J5H60P",
+        "ts": "1541167520.005800"
+    },
+    {
+        "client_msg_id": "BC41773F-8815-4B47-BCEA-C51BCC444A52",
+        "type": "message",
+        "text": "Im scurrrred",
+        "user": "U15HY5TG8",
+        "ts": "1541167528.006000"
+    },
+    {
+        "client_msg_id": "41682993-6f5d-4ee3-9e75-475882613c34",
+        "type": "message",
+        "text": "<https:\/\/www.homedepot.com\/p\/Milwaukee-Men-s-Large-M12-12-Volt-Lithium-Ion-Cordless-Black-Heated-Jacket-Kit-with-1-2-0Ah-Battery-and-Charger-202B-21L\/305322057>",
+        "user": "U15J5H60P",
+        "ts": "1541167540.006300",
+        "attachments": [
+            {
+                "service_name": "The Home Depot",
+                "title": "Milwaukee Men's Large M12 12-Volt Lithium-Ion Cordless Black Heated Jacket Kit with (1) 2.0Ah Battery and Charger-202B-21L - The Home Depot",
+                "title_link": "https:\/\/www.homedepot.com\/p\/Milwaukee-Men-s-Large-M12-12-Volt-Lithium-Ion-Cordless-Black-Heated-Jacket-Kit-with-1-2-0Ah-Battery-and-Charger-202B-21L\/305322057",
+                "text": "The large black heated TOUGHSHELL jacket kit is powered by the M12 REDLITHIUM battery. The heated jacket's carbon fiber heating elements create and distribute heat to the chest, back and front hand pockets.",
+                "fallback": "The Home Depot: Milwaukee Men's Large M12 12-Volt Lithium-Ion Cordless Black Heated Jacket Kit with (1) 2.0Ah Battery and Charger-202B-21L - The Home Depot",
+                "thumb_url": "https:\/\/images.homedepot-static.com\/productImages\/ac0d7fd0-d13f-48d7-bd18-ee2f3864093e\/svn\/black-milwaukee-camo-jackets-coats-202b-21l-64_300.jpg",
+                "from_url": "https:\/\/www.homedepot.com\/p\/Milwaukee-Men-s-Large-M12-12-Volt-Lithium-Ion-Cordless-Black-Heated-Jacket-Kit-with-1-2-0Ah-Battery-and-Charger-202B-21L\/305322057",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/www.homedepot.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.homedepot.com\/p\/Milwaukee-Men-s-Large-M12-12-Volt-Lithium-Ion-Cordless-Black-Heated-Jacket-Kit-with-1-2-0Ah-Battery-and-Charger-202B-21L\/305322057"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fbf3977-ef62-43d0-9a12-8f0d2f5f814d",
+        "type": "message",
+        "text": "Maybe you should vote incase you get fired and need to file for unemployment",
+        "user": "U15HRTAHL",
+        "ts": "1541167565.007000"
+    },
+    {
+        "client_msg_id": "07ae4d5c-280b-45e1-bfc9-3e0ab17d6bfb",
+        "type": "message",
+        "text": "scotty might take it away",
+        "user": "U15HRTAHL",
+        "ts": "1541167569.007200"
+    },
+    {
+        "client_msg_id": "311AAE41-A5CA-414A-B664-0666F1D2223E",
+        "type": "message",
+        "text": "Imma get that",
+        "user": "U15HY5TG8",
+        "ts": "1541167580.007400"
+    },
+    {
+        "client_msg_id": "95313978-DC4E-4507-9948-A575431A30CB",
+        "type": "message",
+        "text": "Relax. Im going today you plebs",
+        "user": "U15HY5TG8",
+        "ts": "1541167594.007800"
+    },
+    {
+        "client_msg_id": "fe6367f8-2362-45bc-a3a0-c94320e133b1",
+        "type": "message",
+        "text": "That's honestly the best idea ever",
+        "user": "U15J5H60P",
+        "ts": "1541167628.008000"
+    },
+    {
+        "client_msg_id": "3ed38e7f-7fba-4da3-a33f-852b6c659c54",
+        "type": "message",
+        "text": "I want one",
+        "user": "U15J5H60P",
+        "ts": "1541167629.008200"
+    },
+    {
+        "client_msg_id": "53E9CBBF-2391-4C8F-8B98-841D233ADEAF",
+        "type": "message",
+        "text": "Until the heating element casing cracks and then the copper wire just melts your skin and saws through the bone",
+        "user": "U15HY5TG8",
+        "ts": "1541168010.009600"
+    },
+    {
+        "client_msg_id": "a8222853-e466-4d64-8835-ac0a7aad0652",
+        "type": "message",
+        "text": "even better",
+        "user": "U15J5H60P",
+        "ts": "1541168682.009900"
+    },
+    {
+        "client_msg_id": "8d2c579e-3c6b-49ee-b47b-5eaf4f107329",
+        "type": "message",
+        "text": "completely forgot house of cards drops today",
+        "user": "U15HZ01QX",
+        "ts": "1541173424.010200"
+    },
+    {
+        "client_msg_id": "9421676E-375F-4AC4-A4A3-8D1752B134AA",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15HY5TG8",
+        "ts": "1541173446.010400"
+    },
+    {
+        "client_msg_id": "e30847e5-7514-4029-9640-42fa885b130b",
+        "type": "message",
+        "text": "Yeah I saw it got added to plex, didn't realize it was already out",
+        "user": "U15HSHSS2",
+        "ts": "1541173499.010900"
+    },
+    {
+        "client_msg_id": "e562c65e-4ea3-4f37-983a-404ef4892dca",
+        "type": "message",
+        "text": "House of Cards is trash",
+        "user": "U15J5H60P",
+        "ts": "1541173602.011100"
+    },
+    {
+        "client_msg_id": "31a723d3-1a15-464b-a12e-b5779e3c84ef",
+        "type": "message",
+        "text": "its the last season im just gonna grit through it",
+        "user": "U15HZ01QX",
+        "ts": "1541173627.011500"
+    },
+    {
+        "client_msg_id": "6CB71DC1-D96E-49EA-A616-7425868DD498",
+        "type": "message",
+        "text": "Same",
+        "user": "U15HY5TG8",
+        "ts": "1541174541.011700"
+    },
+    {
+        "client_msg_id": "204E1CA5-7296-4963-A813-36F906EDC629",
+        "type": "message",
+        "text": "Just curbed my fucking wheels",
+        "user": "U15HY5TG8",
+        "ts": "1541177035.012000"
+    },
+    {
+        "client_msg_id": "E2EFA784-CE8E-439F-AB8A-F7C7C6FD8188",
+        "type": "message",
+        "text": "Unbelievable",
+        "user": "U15HY5TG8",
+        "ts": "1541177040.012300"
+    },
+    {
+        "client_msg_id": "82a5015c-c36a-48a2-a91f-28fd9f8a0671",
+        "type": "message",
+        "text": "on the new car?",
+        "user": "U15HRTAHL",
+        "ts": "1541177241.012500"
+    },
+    {
+        "client_msg_id": "D132F472-2A7D-44F0-A98B-3B73227886EB",
+        "type": "message",
+        "text": "Naw",
+        "user": "U15HY5TG8",
+        "ts": "1541177276.012700"
+    },
+    {
+        "client_msg_id": "0ebae0f0-22fd-42bb-bcd5-dc42fefa6c11",
+        "type": "message",
+        "text": "psh you’re fine then",
+        "user": "U15HRTAHL",
+        "ts": "1541177306.012900"
+    },
+    {
+        "client_msg_id": "0C4A65FD-ACD0-476D-84D6-30E451B3E29F",
+        "type": "message",
+        "text": "I wouldnt have cared if i did it on the new car",
+        "user": "U15HY5TG8",
+        "ts": "1541177335.013500"
+    },
+    {
+        "client_msg_id": "b876be74-2fc8-4edd-bd61-f218754c52d1",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1541177390.013700"
+    },
+    {
+        "client_msg_id": "B19A3020-CEF7-4261-92E2-63DD05E3B7AB",
+        "type": "message",
+        "text": "I thought it was your new car",
+        "user": "U15J5H60P",
+        "ts": "1541178061.014000"
+    },
+    {
+        "client_msg_id": "C2A3468C-6D0F-499F-B601-CF5C8C02177A",
+        "type": "message",
+        "text": "I wish",
+        "user": "U15HY5TG8",
+        "ts": "1541178758.014200"
+    },
+    {
+        "client_msg_id": "876f0051-65c0-4f14-a45c-441ab7ee047e",
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1541179362.014400"
+    },
+    {
+        "client_msg_id": "4c9b0244-3a25-420f-9855-c01ff6467634",
+        "type": "message",
+        "text": "You did it with your 240?",
+        "user": "U15J5H60P",
+        "ts": "1541179367.014600"
+    },
+    {
+        "client_msg_id": "8B2C5E89-DEAF-4D88-989F-43BC94AE7488",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1541179384.015100"
+    },
+    {
+        "client_msg_id": "e8c2b036-6edb-4b08-924e-05665cb69366",
+        "type": "message",
+        "text": "Un",
+        "user": "U15J5H60P",
+        "ts": "1541179406.015300"
+    },
+    {
+        "client_msg_id": "d548581c-b1c6-43eb-94d7-224f10182fe3",
+        "type": "message",
+        "text": "B",
+        "user": "U15J5H60P",
+        "ts": "1541179408.015600"
+    },
+    {
+        "client_msg_id": "920aad93-2c7e-4042-8d08-b02287b23d5b",
+        "type": "message",
+        "text": "Lieb",
+        "user": "U15J5H60P",
+        "ts": "1541179410.015800"
+    },
+    {
+        "client_msg_id": "32ff19c6-bd35-47c7-bebf-c342bae0fad1",
+        "type": "message",
+        "text": "A",
+        "user": "U15J5H60P",
+        "ts": "1541179410.016000"
+    },
+    {
+        "client_msg_id": "03a86c5e-b8c8-4284-9087-4d1fe9db6c2d",
+        "type": "message",
+        "text": "Ble",
+        "user": "U15J5H60P",
+        "ts": "1541179411.016200"
+    },
+    {
+        "client_msg_id": "70f238ef-e456-499e-90aa-35eb76fd1f4e",
+        "type": "message",
+        "text": "What the hell, brotha,.",
+        "user": "U15J5H60P",
+        "ts": "1541179416.016400"
+    },
+    {
+        "client_msg_id": "8b75b983-3f8e-471d-a2b5-5fc5a2f055a3",
+        "type": "message",
+        "text": "You just bought those",
+        "user": "U15J5H60P",
+        "ts": "1541179420.016600"
+    },
+    {
+        "client_msg_id": "ee472481-0cca-4ea5-bfeb-26ffc0431ab1",
+        "type": "message",
+        "text": "How'd you do that?",
+        "user": "U15J5H60P",
+        "ts": "1541179422.016800"
+    },
+    {
+        "client_msg_id": "36fcf0a0-be60-4fcc-b64d-59290204fedc",
+        "type": "message",
+        "text": "not working and not voting",
+        "user": "U15HRTAHL",
+        "ts": "1541179464.017000"
+    },
+    {
+        "client_msg_id": "eee57327-1fa0-4a8a-bb9a-1f86f193f017",
+        "type": "message",
+        "text": "that’s how",
+        "user": "U15HRTAHL",
+        "ts": "1541179467.017200"
+    },
+    {
+        "client_msg_id": "9b4b6989-932d-46e7-8df8-ca02c227f839",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1541179582.017400"
+    },
+    {
+        "client_msg_id": "87674B09-B556-4C18-8803-8CF6E4751808",
+        "type": "message",
+        "text": "Picking up pizza dough from gloriosos",
+        "user": "U15HY5TG8",
+        "ts": "1541179944.017900"
+    },
+    {
+        "client_msg_id": "A5912288-DC03-4BBE-AFAE-FB2326EC9320",
+        "type": "message",
+        "text": "Also, i just voted",
+        "user": "U15HY5TG8",
+        "ts": "1541179949.018100"
+    },
+    {
+        "client_msg_id": "a6c421ef-90d1-4b4d-adb5-b7fcc498c94b",
+        "type": "message",
+        "text": "nice!",
+        "user": "U15HRTAHL",
+        "ts": "1541181012.018300"
+    },
+    {
+        "client_msg_id": "aca61fb2-b530-41db-b272-c6785064f255",
+        "type": "message",
+        "text": "who’d ya vote for?!",
+        "user": "U15HRTAHL",
+        "ts": "1541181019.018600"
+    },
+    {
+        "client_msg_id": "D7530295-E240-48DF-9AC0-538B7DA8E839",
+        "type": "message",
+        "text": "Reps",
+        "user": "U15HY5TG8",
+        "ts": "1541181026.018700"
+    },
+    {
+        "client_msg_id": "dd43ebb5-997c-485f-bba2-a6e818fa5975",
+        "type": "message",
+        "text": "Can you leave certain votes blank?",
+        "user": "U15HSHSS2",
+        "ts": "1541181051.019000"
+    },
+    {
+        "client_msg_id": "b5e921cd-9510-4c01-b14e-79d162c45687",
+        "type": "message",
+        "text": "or do they just void the whole thing if the ballot isn't completely filled in?",
+        "user": "U15HSHSS2",
+        "ts": "1541181080.019500"
+    },
+    {
+        "client_msg_id": "B062470A-008D-4734-97E3-8FA0E3DDC8AD",
+        "type": "message",
+        "text": "Forgot already lol but i think they have write ins for everything",
+        "user": "U15HY5TG8",
+        "ts": "1541181128.020300"
+    },
+    {
+        "client_msg_id": "17A23BB3-FBDB-4A88-8E25-3199DE5A2B59",
+        "type": "message",
+        "text": "See",
+        "user": "U15J5H60P",
+        "ts": "1541181234.020500"
+    },
+    {
+        "client_msg_id": "FBE19607-ECCF-4B7C-93A1-35A58855CFE1",
+        "type": "message",
+        "text": "This is what we get for encouraging him to vote",
+        "user": "U15J5H60P",
+        "ts": "1541181242.020900"
+    },
+    {
+        "client_msg_id": "E0EB1837-525C-49D0-8AB4-2DD9FB03040B",
+        "type": "message",
+        "text": "Now all my votes are null and void",
+        "user": "U15J5H60P",
+        "ts": "1541181253.021300"
+    },
+    {
+        "client_msg_id": "ef8233e8-65ea-47eb-8652-27ba10de843f",
+        "type": "message",
+        "text": "you can leave them blank",
+        "user": "U15HRTAHL",
+        "ts": "1541181263.021700"
+    },
+    {
+        "client_msg_id": "4f5f2987-2fa7-449d-ae52-33d21eaadf3f",
+        "type": "message",
+        "text": "except for primaries I think",
+        "user": "U15HRTAHL",
+        "ts": "1541181268.022100"
+    },
+    {
+        "client_msg_id": "EE154EF1-3E37-48EE-AF4E-5C9901F26C8D",
+        "type": "message",
+        "text": "Except for marijuana",
+        "user": "U15HY5TG8",
+        "ts": "1541181270.022200"
+    },
+    {
+        "client_msg_id": "9a3ee937-2dff-498c-9774-da277cc94c50",
+        "type": "message",
+        "text": "did you vote yes or no on that",
+        "user": "U15HRTAHL",
+        "ts": "1541181280.022500"
+    },
+    {
+        "client_msg_id": "D9E77C97-22AE-45E0-8956-941E3C4981FF",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1541181283.022700"
+    },
+    {
+        "client_msg_id": "5366313a-e3b3-4a58-a984-366a8b7a4fd1",
+        "type": "message",
+        "text": "niceee",
+        "user": "U15HRTAHL",
+        "ts": "1541181287.022900"
+    },
+    {
+        "client_msg_id": "78F08EE7-F47E-4EF6-8062-61D8666BFA08",
+        "type": "message",
+        "text": "Yeah so <@U15J5H60P> youre good on that one",
+        "user": "U15HY5TG8",
+        "ts": "1541181301.023400"
+    },
+    {
+        "client_msg_id": "c9be7999-35a0-4cd6-b9bb-906ba69daad6",
+        "type": "message",
+        "text": "except evan didn’t vote for hypochristians",
+        "user": "U15HRTAHL",
+        "ts": "1541181339.023800"
+    },
+    {
+        "client_msg_id": "F6EF9535-55F9-47F2-9B86-1ACDEAFD05A3",
+        "type": "message",
+        "text": "Wat is a hypochristian",
+        "user": "U15HY5TG8",
+        "ts": "1541181359.024200"
+    },
+    {
+        "client_msg_id": "bb33469e-2f66-42a8-9b63-16924a8c440b",
+        "type": "message",
+        "text": "republicans that claim to have “good family values” and “believe in the bible” but all they do is preach hate, covet, and make the rich richer",
+        "user": "U15HRTAHL",
+        "ts": "1541181441.025000"
+    },
+    {
+        "client_msg_id": "84f44b31-86a8-4798-bd08-8be5baf4ef6a",
+        "type": "message",
+        "text": "so hypocritical christians",
+        "user": "U15HRTAHL",
+        "ts": "1541181466.025300"
+    },
+    {
+        "client_msg_id": "772AE8AD-8023-4EA7-882C-D9F4F51C2997",
+        "type": "message",
+        "text": "Are you sure?",
+        "user": "U15J5H60P",
+        "ts": "1541181497.025500"
+    },
+    {
+        "client_msg_id": "629B26C5-F561-4A16-818F-AF4A1666B166",
+        "type": "message",
+        "text": "Voting is stupid",
+        "user": "U15J5H60P",
+        "ts": "1541181511.026000"
+    },
+    {
+        "client_msg_id": "e8b900c9-d494-4adb-8d18-88299ab0c8b6",
+        "type": "message",
+        "text": "yes evan didn’t vote for republicans",
+        "user": "U15HRTAHL",
+        "ts": "1541181512.026100"
+    },
+    {
+        "client_msg_id": "7EE89BD9-FEBF-4525-A9F2-93DE62BD5F13",
+        "type": "message",
+        "text": "Yeah he did",
+        "user": "U15J5H60P",
+        "ts": "1541181518.026300"
+    },
+    {
+        "client_msg_id": "7F7121E7-F000-4227-8563-D9CC4A38693D",
+        "type": "message",
+        "text": "He said so",
+        "user": "U15J5H60P",
+        "ts": "1541181521.026600"
+    },
+    {
+        "client_msg_id": "88b5e47b-a5bd-43c0-8fdb-bf9a6d8868ee",
+        "type": "message",
+        "text": "no he didn’t",
+        "user": "U15HRTAHL",
+        "ts": "1541181522.026700"
+    },
+    {
+        "client_msg_id": "eaf12783-065d-4567-ac4d-38042bf9b1d4",
+        "type": "message",
+        "text": "he also said his mom wants him to vote dem for her birthday",
+        "user": "U15HRTAHL",
+        "ts": "1541181536.027200"
+    },
+    {
+        "client_msg_id": "4b6cd81c-624d-4ceb-a579-ac6ac52ff4fa",
+        "type": "message",
+        "text": "so he’s doing that",
+        "user": "U15HRTAHL",
+        "ts": "1541181541.027400"
+    },
+    {
+        "client_msg_id": "a24157ad-111b-4978-b83b-b1a443058996",
+        "type": "message",
+        "text": "for her",
+        "user": "U15HRTAHL",
+        "ts": "1541181542.027600"
+    },
+    {
+        "client_msg_id": "508EF7E7-EC5E-42BB-86C2-6AA5C0578867",
+        "type": "message",
+        "text": "Doubt it",
+        "user": "U15J5H60P",
+        "ts": "1541181548.027900"
+    },
+    {
+        "client_msg_id": "48287CF4-E9AF-4FE3-ACA4-AAB9317D07FD",
+        "type": "message",
+        "text": "She threatened my life",
+        "user": "U15HY5TG8",
+        "ts": "1541181552.028100"
+    },
+    {
+        "client_msg_id": "f168db24-18b9-4094-abc1-85d9cbcaee85",
+        "type": "message",
+        "text": "so who’d you vote for",
+        "user": "U15HRTAHL",
+        "ts": "1541181567.028700"
+    },
+    {
+        "client_msg_id": "DD6272D0-A1A9-4E5E-B4D4-19568453B554",
+        "type": "message",
+        "text": "She asked who i voted for in the car and i said reps and she almost kicked me out",
+        "user": "U15HY5TG8",
+        "ts": "1541181581.029200"
+    },
+    {
+        "client_msg_id": "4ee3b520-4827-4b92-952b-1d1f85a97e81",
+        "type": "message",
+        "text": "lololol",
+        "user": "U15HRTAHL",
+        "ts": "1541181587.029400"
+    },
+    {
+        "client_msg_id": "0034027C-1EE8-4DF8-8818-8F3F288E995F",
+        "type": "message",
+        "text": "I voted tony evans or whatever the name was",
+        "user": "U15HY5TG8",
+        "ts": "1541181607.030000"
+    },
+    {
+        "client_msg_id": "B2B56763-C372-4753-A6D1-8F1696EBF803",
+        "type": "message",
+        "text": "Evers",
+        "user": "U15HY5TG8",
+        "ts": "1541181658.030100"
+    },
+    {
+        "client_msg_id": "b93cceaa-fe48-4d0e-9c75-777cfca52bc8",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1541181703.030400"
+    },
+    {
+        "type": "message",
+        "text": "FUCK",
+        "files": [
+            {
+                "id": "FDUUBAVPX",
+                "created": 1541182142,
+                "timestamp": 1541182142,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 195513,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FDUUBAVPX\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FDUUBAVPX\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FDUUBAVPX-32aef2e785\/image_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FDUUBAVPX\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FDUUBAVPX-1acf858d27",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "81E7DD08-514F-4250-BB3F-6EDEB8AB528D",
+        "ts": "1541182147.030700"
+    },
+    {
+        "client_msg_id": "a281c50a-93b6-45f1-b6e7-a16ceddcacaa",
+        "type": "message",
+        "text": ":sob:",
+        "user": "U15J5H60P",
+        "ts": "1541182197.031400"
+    },
+    {
+        "client_msg_id": "AF2549C7-B05B-4812-A351-297674D47957",
+        "type": "message",
+        "text": "Well <@U15HRTAHL> youre off the hook",
+        "user": "U15HY5TG8",
+        "ts": "1541183715.031700"
+    },
+    {
+        "client_msg_id": "CE0C61F6-8691-4A50-9331-2B9B3C2E07B7",
+        "type": "message",
+        "text": "My dad is clearing out the garage and decided to do this",
+        "user": "U15HY5TG8",
+        "ts": "1541183734.032400"
+    },
+    {
+        "client_msg_id": "ef2dacd1-2b5a-49ec-9776-d9e7781d2ce6",
+        "type": "message",
+        "text": "lololol",
+        "user": "U15HRTAHL",
+        "ts": "1541183834.032900"
+    },
+    {
+        "client_msg_id": "a1fc93be-16cf-4a43-995e-5112dbab3d49",
+        "type": "message",
+        "text": "There’s a thread on reddit that perfectly describes a hypochristian",
+        "user": "U15HRTAHL",
+        "ts": "1541194094.033300"
+    },
+    {
+        "client_msg_id": "9b4a8c35-e1e1-42c4-a57e-51034a94e909",
+        "type": "message",
+        "text": "&gt; but several of my managers are religious and very “southern judgey” ladies who harass certain people in the office over the way they look",
+        "user": "U15HRTAHL",
+        "ts": "1541194096.033500"
+    },
+    {
+        "client_msg_id": "6e329534-aff5-4f1f-902c-94e85a265ac8",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/legaladvice\/comments\/9tj05o\/fired_and_denied_prize_after_winning_work_costume\/>",
+        "user": "U15HRTAHL",
+        "ts": "1541194103.033700",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/legaladvice - Fired and denied prize after winning work costume contest [AL]",
+                "title_link": "https:\/\/www.reddit.com\/r\/legaladvice\/comments\/9tj05o\/fired_and_denied_prize_after_winning_work_costume\/",
+                "text": "12,197 votes and 172 comments so far on Reddit",
+                "fallback": "reddit: r\/legaladvice - Fired and denied prize after winning work costume contest [AL]",
+                "from_url": "https:\/\/www.reddit.com\/r\/legaladvice\/comments\/9tj05o\/fired_and_denied_prize_after_winning_work_costume\/",
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/legaladvice\/comments\/9tj05o\/fired_and_denied_prize_after_winning_work_costume\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0B317826-AD32-4A8D-895E-E1CE03C016E8",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1541217324.000200"
+    },
+    {
+        "client_msg_id": "D99BEE26-FCC4-4FF6-A6D9-FE25A411283D",
+        "type": "message",
+        "text": "I just found out that Andrea has $100k in stock from 1993",
+        "user": "U15J5H60P",
+        "ts": "1541217344.000900"
+    },
+    {
+        "client_msg_id": "CF35CAC0-E8F5-482B-A153-272B01FB5D08",
+        "type": "message",
+        "text": "Damnnnn",
+        "user": "U15HY5TG8",
+        "ts": "1541217474.001100"
+    },
+    {
+        "client_msg_id": "CAD7504A-BCF5-455C-8074-275A5C941E0C",
+        "type": "message",
+        "text": "Sooo you gettin married now orrrr",
+        "user": "U15HY5TG8",
+        "ts": "1541217491.001500"
+    },
+    {
+        "client_msg_id": "3A7E2291-B053-4212-908D-BB749961098F",
+        "type": "message",
+        "text": "Nah",
+        "user": "U15J5H60P",
+        "ts": "1541217714.001600"
+    },
+    {
+        "client_msg_id": "EADCDC46-1B71-4410-A44F-8A1FB1D98629",
+        "type": "message",
+        "text": "It makes me feel worse",
+        "user": "U15J5H60P",
+        "ts": "1541217721.001900"
+    },
+    {
+        "client_msg_id": "051DE3E3-88F2-4253-91FD-75BE66932245",
+        "type": "message",
+        "text": "Like she'll never understand my struggle because she never ever had to struggle in her life",
+        "user": "U15J5H60P",
+        "ts": "1541217745.002700"
+    },
+    {
+        "client_msg_id": "C40AF569-53B3-4981-8998-2AE26D3CC8FF",
+        "type": "message",
+        "text": "Even now",
+        "user": "U15J5H60P",
+        "ts": "1541217748.002900"
+    },
+    {
+        "client_msg_id": "A7DD5552-0942-4455-8740-7CAFC1D30146",
+        "type": "message",
+        "text": "What's the worst that can happen to her?",
+        "user": "U15J5H60P",
+        "ts": "1541217756.003200"
+    },
+    {
+        "client_msg_id": "9196D1BE-41EF-42C7-A9A1-8C49A3BAEC71",
+        "type": "message",
+        "text": "She's safe so she can do whatever she wants to",
+        "user": "U15J5H60P",
+        "ts": "1541217768.003700"
+    },
+    {
+        "client_msg_id": "309276FC-C27A-4770-9710-A05999A63B02",
+        "type": "message",
+        "text": "Lol i guess",
+        "user": "U15HY5TG8",
+        "ts": "1541218617.003900"
+    },
+    {
+        "client_msg_id": "822D8A6F-54E4-4768-95E2-062C6C075A15",
+        "type": "message",
+        "text": "Youll teach your kids the ways of life though",
+        "user": "U15HY5TG8",
+        "ts": "1541218634.004500"
+    },
+    {
+        "client_msg_id": "9C202EFA-9B0E-4DC2-AEFB-C81E7BD4801A",
+        "type": "message",
+        "text": "It’s the reason she doesn’t get why I need to keep my job",
+        "user": "U15J5H60P",
+        "ts": "1541218646.004900"
+    },
+    {
+        "client_msg_id": "166C8392-0FBF-4D9C-9F28-108D4908A57C",
+        "type": "message",
+        "text": "Ik ik lol",
+        "user": "U15HY5TG8",
+        "ts": "1541218845.005100"
+    }
+]

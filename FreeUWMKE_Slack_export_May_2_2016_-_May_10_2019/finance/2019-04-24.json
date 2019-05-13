@@ -1,0 +1,112 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556117054.000100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556117049,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "378.44",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+4.42 (+1.18%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "3,366,806",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,690,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.0\/5 (15 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "429.59 (+13.51%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32740,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5a9da3a2-2dfd-4f38-8be3-0220ed715f06",
+        "type": "message",
+        "text": "<@U15HY5TG8> another good time to buy some xrp",
+        "user": "U15HRTAHL",
+        "ts": "1556125110.000600"
+    },
+    {
+        "client_msg_id": "2911612E-695F-42E7-A086-A2D75A7ABDC8",
+        "type": "message",
+        "text": "Shit",
+        "user": "U15HY5TG8",
+        "ts": "1556129609.000800"
+    }
+]

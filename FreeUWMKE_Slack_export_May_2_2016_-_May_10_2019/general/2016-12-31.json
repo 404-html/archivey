@@ -1,0 +1,46 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/SBDRwiSZSBg>\n",
+        "user": "U15HZ01QX",
+        "ts": "1483197659.000002",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Bill Cosby's Special BBQ Sauce",
+                "title_link": "https:\/\/youtu.be\/SBDRwiSZSBg",
+                "author_name": "BMeister22",
+                "author_link": "https:\/\/www.youtube.com\/user\/BMeister22",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/SBDRwiSZSBg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Bill Cosby's Special BBQ Sauce",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/SBDRwiSZSBg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/SBDRwiSZSBg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Have a great trip, Ev! Stay safe!",
+        "user": "U15J5H60P",
+        "ts": "1483199842.000002"
+    },
+    {
+        "type": "message",
+        "text": "Lolololol at that Cosby clip",
+        "user": "U15J5H60P",
+        "ts": "1483199919.000003"
+    },
+    {
+        "type": "message",
+        "text": "Thanks man!",
+        "user": "U15HY5TG8",
+        "ts": "1483201220.000002"
+    }
+]

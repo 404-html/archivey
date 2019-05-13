@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "D9A0AD78-B1D4-443A-8439-7846A774AE0D",
+        "type": "message",
+        "text": "<https:\/\/www.tomsguide.com\/us\/motorola-razr-2019-specs-logo-price,news-29624.html>",
+        "user": "U15J5H60P",
+        "ts": "1552521829.000200",
+        "attachments": [
+            {
+                "service_name": "Tom's Guide",
+                "title": "Motorola Razr Leaked Specs Are Underwhelming for a $1,500 Phone",
+                "title_link": "https:\/\/www.tomsguide.com\/us\/motorola-razr-2019-specs-logo-price,news-29624.html",
+                "text": "A leak has allegedly revealed the logo, cost and internal components of the handset, which suggest that Motorola’s not trying to compete directly with Samsung or Huawei.",
+                "fallback": "Tom's Guide: Motorola Razr Leaked Specs Are Underwhelming for a $1,500 Phone",
+                "image_url": "https:\/\/img.purch.com\/o\/aHR0cDovL21lZGlhLmJlc3RvZm1pY3JvLmNvbS9QL1AvODIxMjkzL29yaWdpbmFsL21vdG9yYXpyXzIwMTlfMS5qcGc=",
+                "image_width": 400,
+                "image_height": 250,
+                "from_url": "https:\/\/www.tomsguide.com\/us\/motorola-razr-2019-specs-logo-price,news-29624.html",
+                "image_bytes": 530015,
+                "service_icon": "https:\/\/www.tomsguide.com\/medias\/favicon\/apple-touch-icon-57x57.png?v=kPPAMMXoY2",
+                "id": 1,
+                "original_url": "https:\/\/www.tomsguide.com\/us\/motorola-razr-2019-specs-logo-price,news-29624.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "EB7F07D7-0C89-4B9F-A95A-4D3F367F5017",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/l8SShgWqJvg>",
+        "user": "U15J5H60P",
+        "ts": "1552533196.000200",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Time to Play Fair",
+                "title_link": "https:\/\/youtu.be\/l8SShgWqJvg",
+                "author_name": "Spotify",
+                "author_link": "https:\/\/www.youtube.com\/user\/spotify",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/l8SShgWqJvg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Time to Play Fair",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/l8SShgWqJvg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/l8SShgWqJvg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/l8SShgWqJvg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4904F2B3-0541-4288-B98F-C12453C72572",
+        "type": "message",
+        "text": "Spotify calls out Apple ",
+        "user": "U15J5H60P",
+        "ts": "1552533201.000500"
+    },
+    {
+        "client_msg_id": "c0d50f76-1513-4994-a691-48cd7f3478e7",
+        "type": "message",
+        "text": "<https:\/\/timetoplayfair.com>",
+        "user": "U15HRTAHL",
+        "ts": "1552536212.000200"
+    },
+    {
+        "client_msg_id": "c952e0dd-2599-4fae-936d-7148b647c189",
+        "type": "message",
+        "text": "Check the timeline",
+        "user": "U15HRTAHL",
+        "ts": "1552536216.000400"
+    },
+    {
+        "client_msg_id": "6DD3D382-37BB-4675-BEDD-AE75A732F050",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15J5H60P",
+        "ts": "1552539010.000300"
+    },
+    {
+        "client_msg_id": "882333DF-0434-475A-8B7B-E77D29A4B068",
+        "type": "message",
+        "text": "I'm on their side. I didn't want the HomePod because it doesn't steam Spotify",
+        "user": "U15J5H60P",
+        "ts": "1552539053.001200"
+    },
+    {
+        "client_msg_id": "0756559C-8DCB-4F64-A7FA-CC24DBA2DF85",
+        "type": "message",
+        "text": "Apple is just making some ass backwards moves. If you're confident in your product, you shouldn't have to add roadblocks to others. ",
+        "user": "U15J5H60P",
+        "ts": "1552539093.002400"
+    },
+    {
+        "client_msg_id": "47016CF7-A74F-4283-BD41-9DA12B89693C",
+        "type": "message",
+        "text": "The 30% thing, they have to get over that tho. ",
+        "user": "U15J5H60P",
+        "ts": "1552539111.002900"
+    },
+    {
+        "client_msg_id": "FE199518-D1F2-4DB1-ADB6-72B2DA721797",
+        "type": "message",
+        "text": "Unless they expect Apple to allow Spotify to sideload apps lol",
+        "user": "U15J5H60P",
+        "ts": "1552539135.003400"
+    },
+    {
+        "client_msg_id": "4468C97F-5DB3-45C1-A3C5-215EB6D38A02",
+        "type": "message",
+        "text": "I kinda get why they'd be upset tho. As a developer, I'm not thrilled that Apple would take 30%. I wouldn't want to set up that infrastructure to distribute my app",
+        "user": "U15J5H60P",
+        "ts": "1552539187.004800"
+    }
+]

@@ -1,0 +1,837 @@
+[
+    {
+        "client_msg_id": "90c2d502-6519-4cca-bcb8-a0bb450aa381",
+        "type": "message",
+        "text": "So someones password got hacked and IT implemented password changes every 30 days",
+        "user": "U15HRTAHL",
+        "ts": "1540820295.000600"
+    },
+    {
+        "client_msg_id": "9e25c91f-89b4-4060-98f0-f175d725103d",
+        "type": "message",
+        "text": "guess what my new passwords are gonna be?",
+        "user": "U15HRTAHL",
+        "ts": "1540820305.000900"
+    },
+    {
+        "client_msg_id": "edbbcd7e-f8a3-4bee-a83f-612cf483b691",
+        "type": "message",
+        "text": "password, cause there’s no fucking way I’ll remember them otherwise",
+        "user": "U15HRTAHL",
+        "ts": "1540820318.001300",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1540820322.000000"
+        }
+    },
+    {
+        "client_msg_id": "85774da7-9e97-4618-9260-72c38ddac05c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1540823469.001600"
+    },
+    {
+        "client_msg_id": "4710e848-f409-43f5-81d0-bbef8baf88d5",
+        "type": "message",
+        "text": "when you buckle down security most people are going to have the easiest crackable passwords, or they’re going to write them down on post it notes",
+        "user": "U15HRTAHL",
+        "ts": "1540823628.002200"
+    },
+    {
+        "client_msg_id": "2b102c16-e8a8-42cf-8e05-53d0db76d69d",
+        "type": "message",
+        "text": "dumb",
+        "user": "U15HRTAHL",
+        "ts": "1540823631.002400"
+    },
+    {
+        "client_msg_id": "dfcd3da2-4ad5-4f14-8262-407919f4e82e",
+        "type": "message",
+        "text": "I had a relatively secure password at work, then I upgraded my laptop, and I.T. was like \"okay, just give us your password, and we'll make all the updates to your machine.\"",
+        "user": "U15HSHSS2",
+        "ts": "1540823717.003600"
+    },
+    {
+        "client_msg_id": "70466b70-25b0-44c4-96ce-3a0b2d24ec1b",
+        "type": "message",
+        "text": "So I changed it to \"password\" and never changed it to anything after that",
+        "user": "U15HSHSS2",
+        "ts": "1540823738.004000"
+    },
+    {
+        "client_msg_id": "b026c413-c3dc-4239-82e1-43e744a3ca7d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1540823758.004400"
+    },
+    {
+        "client_msg_id": "5a4261fb-9f9d-4abb-8c98-e4d5919a2f95",
+        "type": "message",
+        "text": "clearly it doesn't matter that much if im just expected to give it out to whoever asks for it",
+        "user": "U15HSHSS2",
+        "ts": "1540823767.004700"
+    },
+    {
+        "client_msg_id": "0739124A-F24F-4AEE-9118-96840FB4232F",
+        "type": "message",
+        "text": "You know there’s global standards for passwords",
+        "user": "U15HZ01QX",
+        "ts": "1540823795.005300"
+    },
+    {
+        "client_msg_id": "9404C423-6567-4D5A-8E1A-417A2B08E61C",
+        "type": "message",
+        "text": "Extended pass phrases are better than passwords and only need to be changed twice a year",
+        "user": "U15HZ01QX",
+        "ts": "1540823833.006400"
+    },
+    {
+        "client_msg_id": "cdf90d13-4fff-4a29-995d-c38d4b547ff3",
+        "type": "message",
+        "text": "Is that what you use at work, James?",
+        "user": "U15J5H60P",
+        "ts": "1540823869.006700"
+    },
+    {
+        "client_msg_id": "02843cf9-668a-4126-aceb-cbb9af4e838b",
+        "type": "message",
+        "text": "Do you have an article on it that I could read about. That actually sounds interesting.",
+        "user": "U15J5H60P",
+        "ts": "1540823880.007000"
+    },
+    {
+        "client_msg_id": "5083EB6F-53E2-4746-9641-62DF740D6CC0",
+        "type": "message",
+        "text": "We do and not off hand it’s probably in my work email somewhere ",
+        "user": "U15HZ01QX",
+        "ts": "1540824014.008000"
+    },
+    {
+        "client_msg_id": "BC8D375A-EA1A-4307-A7F5-1EF62DB4D499",
+        "type": "message",
+        "text": "NIST said it last year so it’s probably summarized <https:\/\/duo.com\/blog\/nist-update-passphrases-in-complex-passwords-out>",
+        "user": "U15HZ01QX",
+        "ts": "1540824097.008800",
+        "attachments": [
+            {
+                "service_name": "Duo Security",
+                "title": "NIST Update: Passphrases In, Complex Passwords Out",
+                "title_link": "https:\/\/duo.com\/blog\/nist-update-passphrases-in-complex-passwords-out",
+                "text": "New NIST guidelines recommend using long passphrases instead of seemingly complex passwords - check out a summary of the new best practices for password security in NIST’s SP 800-63B.",
+                "fallback": "Duo Security: NIST Update: Passphrases In, Complex Passwords Out",
+                "image_url": "https:\/\/duo.com\/assets\/img\/blog\/user-password-keyboard.png",
+                "image_width": 463,
+                "image_height": 250,
+                "from_url": "https:\/\/duo.com\/blog\/nist-update-passphrases-in-complex-passwords-out",
+                "image_bytes": 1288283,
+                "service_icon": "https:\/\/duo.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/duo.com\/blog\/nist-update-passphrases-in-complex-passwords-out"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f29155f-e4dc-4b40-8b08-534d5eb2d87c",
+        "type": "message",
+        "text": "Interesting. Thanks!",
+        "user": "U15J5H60P",
+        "ts": "1540824117.009100"
+    },
+    {
+        "client_msg_id": "920c7ab0-884a-48bd-a14d-5a4e6f28d593",
+        "type": "message",
+        "text": "man humans are dumb",
+        "user": "U15HRTAHL",
+        "ts": "1540824479.009500"
+    },
+    {
+        "client_msg_id": "a5351575-b104-4861-882d-6639237d3360",
+        "type": "message",
+        "text": "here we are picking 1 word to be a password",
+        "user": "U15HRTAHL",
+        "ts": "1540824495.009800"
+    },
+    {
+        "client_msg_id": "9ea8e3b4-b65e-4674-a259-c5fddf0e6bda",
+        "type": "message",
+        "text": "then out of nowhere some guys says “hey maybe we should use a sentence instead of a word”",
+        "user": "U15HRTAHL",
+        "ts": "1540824514.010300"
+    },
+    {
+        "client_msg_id": "08584e9b-6e9a-4b1d-a4c5-6163c355d302",
+        "type": "message",
+        "text": "revolutionary",
+        "user": "U15HRTAHL",
+        "ts": "1540824524.010500"
+    },
+    {
+        "client_msg_id": "f92ffc5a-812a-4fe9-8b63-13a5a0a9942d",
+        "type": "message",
+        "text": "it’s like the invention of electricity for passwords",
+        "user": "U15HRTAHL",
+        "ts": "1540824533.010800"
+    },
+    {
+        "client_msg_id": "5124c02c-b689-4fba-b9e3-5fbd08fe8aeb",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/2018\/10\/29\/18027032\/foxconn-wisconsin-plant-jobs-deal-subsidy-governor-scott-walker>",
+        "user": "U15J5H60P",
+        "ts": "1540828575.011000",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Wisconsin’s $4.1 billion Foxconn factory boondoggle",
+                "title_link": "https:\/\/www.theverge.com\/2018\/10\/29\/18027032\/foxconn-wisconsin-plant-jobs-deal-subsidy-governor-scott-walker",
+                "text": "Governor Scott Walker promised billions to get a Foxconn factory. Now he’s running away from it.",
+                "fallback": "The Verge: Wisconsin’s $4.1 billion Foxconn factory boondoggle",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/bikH-s6lJwCS9C__JX6TpxiP_wM=\/0x152:4468x2491\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/13338993\/986328186.jpg.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1540828250,
+                "from_url": "https:\/\/www.theverge.com\/2018\/10\/29\/18027032\/foxconn-wisconsin-plant-jobs-deal-subsidy-governor-scott-walker",
+                "image_bytes": 153201,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2018\/10\/29\/18027032\/foxconn-wisconsin-plant-jobs-deal-subsidy-governor-scott-walker"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "98c26a82-667c-4509-9a12-bf6861bc7c92",
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1540828576.011300"
+    },
+    {
+        "client_msg_id": "3af45b95-3e01-4651-a6ae-f3e06425127b",
+        "type": "message",
+        "text": "We're featured on The Verge",
+        "user": "U15J5H60P",
+        "ts": "1540828581.011500"
+    },
+    {
+        "client_msg_id": "2a186431-135e-4e57-a706-63def8f959aa",
+        "type": "message",
+        "text": "```",
+        "user": "U15J5H60P",
+        "ts": "1540828627.011700"
+    },
+    {
+        "client_msg_id": "0bad90e9-9741-4c2e-8c76-ea0c59320132",
+        "type": "message",
+        "text": "&gt;Walker gushed that Gou, who founded his Taiwan-based company in 1974, was “one of the most remarkable business leaders in the world.” Gou returned the favor by saying, “I’ve never seen this type of governor or leader yet in this world.” Effusive, yet ambiguous.",
+        "user": "U15J5H60P",
+        "ts": "1540828629.012000"
+    },
+    {
+        "client_msg_id": "a1343ce9-cf5f-49cc-8fd0-aee60e16a496",
+        "type": "message",
+        "text": "Read that article",
+        "user": "U15J5H60P",
+        "ts": "1540828720.012200"
+    },
+    {
+        "client_msg_id": "ba435c71-9426-450a-85d6-347c82b1462e",
+        "type": "message",
+        "text": "It's pretty interesting",
+        "user": "U15J5H60P",
+        "ts": "1540828724.012400"
+    },
+    {
+        "client_msg_id": "94d19d4a-07f5-4885-b566-69041f2be7dd",
+        "type": "message",
+        "text": "&gt; The size of the subsidy was stunning. It was far and away the largest in Wisconsin history and the largest government handout to a foreign company ever given in America. Like most states, Wisconsin had given subsidies to companies in the past, but never higher than $35,000 per job. Foxconn’s subsidy was $230,000 per job.",
+        "user": "U15J5H60P",
+        "ts": "1540828725.012600"
+    },
+    {
+        "client_msg_id": "99e65164-7741-440d-bc46-4838e56c37b9",
+        "type": "message",
+        "text": "LMAOOOOO",
+        "user": "U15J5H60P",
+        "ts": "1540828832.012800"
+    },
+    {
+        "client_msg_id": "0cb773c7-46e5-4ce2-8cc9-ec35e4e644f3",
+        "type": "message",
+        "text": "Foxconn is fucking us",
+        "user": "U15J5H60P",
+        "ts": "1540828837.013000"
+    },
+    {
+        "client_msg_id": "427bbfdd-59f4-4536-bf08-6e5c97f95dcd",
+        "type": "message",
+        "text": "They promised 13,000 jobs",
+        "user": "U15J5H60P",
+        "ts": "1540828860.013200"
+    },
+    {
+        "client_msg_id": "e57d706e-2e5a-43a8-8102-6bc113f94ed4",
+        "type": "message",
+        "text": "And a brand new innovative \"Generation 10.5 LCD maufacturing plant\"",
+        "user": "U15J5H60P",
+        "ts": "1540828880.013700"
+    },
+    {
+        "client_msg_id": "7335d6c8-0927-4f75-b85e-5a15b7865a16",
+        "type": "message",
+        "text": "Instead they're creating a Generation 6(whatever that means) and plan on manufacturing \"AI 8K+5G” which is mostly build by robots",
+        "user": "U15J5H60P",
+        "ts": "1540828922.014300"
+    },
+    {
+        "client_msg_id": "b3236f01-7c0e-4255-8aea-88456f3390c6",
+        "type": "message",
+        "text": "Un",
+        "user": "U15J5H60P",
+        "ts": "1540829001.014600"
+    },
+    {
+        "client_msg_id": "fb3c36e7-9fcd-4d1f-9054-a52a2c3fca2a",
+        "type": "message",
+        "text": "Real",
+        "user": "U15J5H60P",
+        "ts": "1540829003.014800"
+    },
+    {
+        "client_msg_id": "4e818e4f-3ae9-4011-9fba-88946383e8db",
+        "type": "message",
+        "text": "please please vote",
+        "user": "U15J5H60P",
+        "ts": "1540829014.015200"
+    },
+    {
+        "client_msg_id": "00aa15a3-935e-4689-a8e6-992337dc8697",
+        "type": "message",
+        "text": "Already voted",
+        "user": "U15HRTAHL",
+        "ts": "1540829109.015600"
+    },
+    {
+        "client_msg_id": "68d70e73-f577-48b9-9ef5-c75e549ec615",
+        "type": "message",
+        "text": "WALKER 2018 BITCHES!",
+        "user": "U15HRTAHL",
+        "ts": "1540829116.015900"
+    },
+    {
+        "client_msg_id": "e4b5f26a-58b9-4d20-843d-83fd8b3033a8",
+        "type": "message",
+        "text": "TRUMP TRAIN 2020",
+        "user": "U15HRTAHL",
+        "ts": "1540829122.016200"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1540829132.016400",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/train-trump-sgxtMhu1qx3qM",
+                "image_url": "https:\/\/media3.giphy.com\/media\/sgxtMhu1qx3qM\/giphy-downsized.gif?cid=6104955e5bd72fc96e706e6c36949bfd",
+                "image_width": 680,
+                "image_height": 849,
+                "image_bytes": 1197964,
+                "is_animated": true,
+                "title": "trump train",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/train-trump-sgxtMhu1qx3qM"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1533f6e-7f1e-47e5-9134-1424757a1ae9",
+        "type": "message",
+        "text": "&gt;And no other Great Lakes state came close to offering the $4.1 billion Foxconn is getting. Michigan came the closest, offering $2.3 billion, but it was partly a tax subsidy rather than cash. As for Ohio, Gov. John Kasich condemned the Wisconsin deal. “I’ll tell you one thing,” he said, “it’s not going to take us 40 years to make back the investment we make. We don’t buy deals.”",
+        "user": "U15HRTAHL",
+        "ts": "1540829210.016700"
+    },
+    {
+        "client_msg_id": "f94e1d2d-ac4c-477c-9786-ee47a0902b0f",
+        "type": "message",
+        "text": "How do you mess up this badly?",
+        "user": "U15J5H60P",
+        "ts": "1540829221.017300"
+    },
+    {
+        "client_msg_id": "59567e99-e008-4ccd-95f3-e94d87519820",
+        "type": "message",
+        "text": "other hypochristians bashing him",
+        "user": "U15HRTAHL",
+        "ts": "1540829221.017400"
+    },
+    {
+        "client_msg_id": "adde86f6-cfe7-464f-bd2b-a9ba7061bd83",
+        "type": "message",
+        "text": "That is incredibly dumb",
+        "user": "U15J5H60P",
+        "ts": "1540829231.017600",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1540829238.000000"
+        }
+    },
+    {
+        "client_msg_id": "226ef291-4785-4f90-b04d-159366782ae8",
+        "type": "message",
+        "text": "That's almost trumpian",
+        "user": "U15J5H60P",
+        "ts": "1540829242.017900"
+    },
+    {
+        "client_msg_id": "3fb9b850-e355-4cef-8690-869f239567af",
+        "type": "message",
+        "text": "\"Yeah, they'll give us the best deal! I know good deals. I know the best deals. This is one of those deals.\"",
+        "user": "U15J5H60P",
+        "ts": "1540829261.018300"
+    },
+    {
+        "client_msg_id": "fb64c677-b049-4b89-99f9-fac0dd7e1f03",
+        "type": "message",
+        "text": "Hands over $4.1bn",
+        "user": "U15J5H60P",
+        "ts": "1540829269.018600"
+    },
+    {
+        "client_msg_id": "66fa60f7-a59f-40c8-9052-4995dd6a35d9",
+        "type": "message",
+        "text": "&gt;Over the summer, Walker’s response to such criticism was pointed. “There’s a whole lot of people out there scrambling to try and come up with a reason not to like this,” he said in July of last year. “They can go suck lemons.",
+        "user": "U15HRTAHL",
+        "ts": "1540829271.018800"
+    },
+    {
+        "client_msg_id": "2f3b5397-acec-462b-9fc6-f8f439032581",
+        "type": "message",
+        "text": "*They can go suck lemons*",
+        "user": "U15HRTAHL",
+        "ts": "1540829276.019000"
+    },
+    {
+        "client_msg_id": "92ddbf2d-8e5b-4a01-a335-ccb256702183",
+        "type": "message",
+        "text": "wat.",
+        "user": "U15HRTAHL",
+        "ts": "1540829279.019200"
+    },
+    {
+        "client_msg_id": "6b4c1f49-3db1-4509-9d53-bfcbbaa77d4f",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15J5H60P",
+        "ts": "1540829281.019400"
+    },
+    {
+        "client_msg_id": "a6e5f0da-2579-4200-91ad-f2de502125c7",
+        "type": "message",
+        "text": "So they took an extra 33%",
+        "user": "U15J5H60P",
+        "ts": "1540829293.019600"
+    },
+    {
+        "client_msg_id": "112f79a4-2654-4877-8bca-b0435f8ac6ec",
+        "type": "message",
+        "text": "And now they're only investing 25% of what they promised into Wisconsin",
+        "user": "U15J5H60P",
+        "ts": "1540829314.020200"
+    },
+    {
+        "client_msg_id": "539708f4-09bf-43cc-b400-6073740f9f8c",
+        "type": "message",
+        "text": "Great job, Scotty.",
+        "user": "U15J5H60P",
+        "ts": "1540829320.020400"
+    },
+    {
+        "client_msg_id": "7ac47414-9b60-406b-bb84-19e50559f50c",
+        "type": "message",
+        "text": "&gt; “They can go suck lemons. The rest of us are going to cheer and figure out how we are going to get this thing going forward.”",
+        "user": "U15J5H60P",
+        "ts": "1540829357.020700"
+    },
+    {
+        "client_msg_id": "96508961-6786-48e6-8007-2f9119112cd4",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1540829361.021100"
+    },
+    {
+        "client_msg_id": "7aa227a3-4062-4ea6-a864-c1683bad5b3d",
+        "type": "message",
+        "text": "You were supposed to do that BEFORE you made this deal",
+        "user": "U15J5H60P",
+        "ts": "1540829369.021400"
+    },
+    {
+        "client_msg_id": "3b7429f4-eb3d-4f49-b73d-bc8fc4dda525",
+        "type": "message",
+        "text": "\"Let's throw $4bn at them. We'll figure out the deets l8r.\"",
+        "user": "U15J5H60P",
+        "ts": "1540829394.022100"
+    },
+    {
+        "client_msg_id": "2556d4cd-294e-495a-810a-c4e2c289c256",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1540829496.022300"
+    },
+    {
+        "client_msg_id": "5d68ba74-1229-41e9-b764-7042e1f92659",
+        "type": "message",
+        "text": "Foxconn was trying to have Corning(glass panel manufacturer) piggy back off of them",
+        "user": "U15J5H60P",
+        "ts": "1540829515.022800"
+    },
+    {
+        "client_msg_id": "f20420db-86eb-4d10-83a3-f220857cbd46",
+        "type": "message",
+        "text": "Corning asked for a subsidy of $2.5bn to make a plant in WI",
+        "user": "U15J5H60P",
+        "ts": "1540829536.023300",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1540829544.000000"
+        }
+    },
+    {
+        "client_msg_id": "632419d1-5ac1-45e5-9219-2c3b33498f8a",
+        "type": "message",
+        "text": "Once you get to reading about the environment that’s disgusting",
+        "user": "U15HRTAHL",
+        "ts": "1540829589.023900"
+    },
+    {
+        "client_msg_id": "f5bc6230-84e1-4e77-8cd7-4ee6bd0d4151",
+        "type": "message",
+        "text": "hold your breath driving past there",
+        "user": "U15HRTAHL",
+        "ts": "1540829603.024300"
+    },
+    {
+        "client_msg_id": "875C8244-3867-49F7-875F-8D6F4D85407E",
+        "type": "message",
+        "text": "Yuuuup",
+        "user": "U15HY5TG8",
+        "ts": "1540829774.024500"
+    },
+    {
+        "client_msg_id": "38DEFBFF-304E-4C79-90F9-CB002B797A51",
+        "type": "message",
+        "text": "Its overp",
+        "user": "U15HY5TG8",
+        "ts": "1540829778.024700"
+    },
+    {
+        "client_msg_id": "9526355F-BD4D-43EA-99FC-73D7FA79886C",
+        "type": "message",
+        "text": "Moving out west",
+        "user": "U15HY5TG8",
+        "ts": "1540829784.025000"
+    },
+    {
+        "client_msg_id": "208103cd-b73b-44ae-bb29-e10a629e04de",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1540829804.025200"
+    },
+    {
+        "client_msg_id": "b0f5f0d1-178d-4575-a45b-eff167b511b8",
+        "type": "message",
+        "text": "I want someone to grill him",
+        "user": "U15J5H60P",
+        "ts": "1540829832.025700"
+    },
+    {
+        "client_msg_id": "8c2d24ad-9075-45d7-ba65-b982bc22ea2e",
+        "type": "message",
+        "text": "I want him to suck lemons",
+        "user": "U15HRTAHL",
+        "ts": "1540829843.026200"
+    },
+    {
+        "client_msg_id": "2344faa6-b6f8-446a-92d6-3a0cb3ddf093",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1540829846.026500"
+    },
+    {
+        "client_msg_id": "8daf28bc-1c3b-4636-8fd3-710862c75f70",
+        "type": "message",
+        "text": ":lemon:",
+        "user": "U15J5H60P",
+        "ts": "1540829847.026700"
+    },
+    {
+        "client_msg_id": "abaa0837-f918-4701-8ae0-b31f18dbf74a",
+        "type": "message",
+        "text": "that’s a high quality lemon",
+        "user": "U15HRTAHL",
+        "ts": "1540829858.027100"
+    },
+    {
+        "client_msg_id": "8C130EF1-5ADE-42E5-BEE6-A41D91CEBD00",
+        "type": "message",
+        "text": "Just put a deposit down on a car that I havent seen yet...",
+        "user": "U15HY5TG8",
+        "ts": "1540844217.027800"
+    },
+    {
+        "client_msg_id": "3F2BFAE2-EBFE-4681-8024-3969ED013E64",
+        "type": "message",
+        "text": "That's an awful idea",
+        "user": "U15J5H60P",
+        "ts": "1540844239.028200"
+    },
+    {
+        "client_msg_id": "0fc9432c-bad9-48c7-aeac-060ec069d4a8",
+        "type": "message",
+        "text": "Seems like a pretty bad idea lol",
+        "user": "U15HSHSS2",
+        "ts": "1540844242.028400"
+    },
+    {
+        "client_msg_id": "13106754-F467-4F40-851D-2C9F2C61FC8F",
+        "type": "message",
+        "text": "What in God's name compelled you to do that",
+        "user": "U15J5H60P",
+        "ts": "1540844248.028900"
+    },
+    {
+        "client_msg_id": "b9989aa6-a078-47ec-9695-c01005f124c3",
+        "type": "message",
+        "text": "What's the logic behind that one",
+        "user": "U15HSHSS2",
+        "ts": "1540844248.029000"
+    },
+    {
+        "client_msg_id": "4D832D31-E281-48F2-99D2-C0B2E63EEC66",
+        "type": "message",
+        "text": "Boo",
+        "user": "U15HZ01QX",
+        "ts": "1540844249.029100"
+    },
+    {
+        "client_msg_id": "FF84E6BC-F1F6-4EAF-B848-15A074FB3A9F",
+        "type": "message",
+        "text": "My life is in the hands of Subaru now",
+        "user": "U15HY5TG8",
+        "ts": "1540844270.029600"
+    },
+    {
+        "client_msg_id": "4A9518DD-EC96-41F8-ADA7-1C6C75EF5312",
+        "type": "message",
+        "text": "Its a new car being transferred to the dealership with everything I need",
+        "user": "U15HY5TG8",
+        "ts": "1540844290.030300"
+    },
+    {
+        "client_msg_id": "7f0bc768-e0d5-4828-b9c9-a263552b07f9",
+        "type": "message",
+        "text": "nice!!!",
+        "user": "U15HRTAHL",
+        "ts": "1540844418.030500"
+    },
+    {
+        "client_msg_id": "95ee576e-cc8c-4af0-a1f2-a2071ad4ffc3",
+        "type": "message",
+        "text": "brand new or what?",
+        "user": "U15HRTAHL",
+        "ts": "1540844424.030700"
+    },
+    {
+        "client_msg_id": "C56BEDCA-CB46-475F-8469-178F0F652353",
+        "type": "message",
+        "text": "Nah. 2013 with 32k miles",
+        "user": "U15HY5TG8",
+        "ts": "1540844440.031100"
+    },
+    {
+        "client_msg_id": "538932be-4f57-4765-a19c-8ec83a9e4ad8",
+        "type": "message",
+        "text": "ok phew",
+        "user": "U15HRTAHL",
+        "ts": "1540844446.031300"
+    },
+    {
+        "client_msg_id": "984b66ff-d701-4fa3-8956-a8a3a5f53d25",
+        "type": "message",
+        "text": "was worried you bought a brand new car",
+        "user": "U15HRTAHL",
+        "ts": "1540844456.031600"
+    },
+    {
+        "client_msg_id": "ed27bddc-793d-4d85-8875-fb2ca1844014",
+        "type": "message",
+        "text": "What kind of car?",
+        "user": "U15HSHSS2",
+        "ts": "1540844465.032100"
+    },
+    {
+        "client_msg_id": "3C0AE243-C2D4-4A6C-B93D-9D5D664AB983",
+        "type": "message",
+        "text": "Haha might as well have",
+        "user": "U15HY5TG8",
+        "ts": "1540844465.032200"
+    },
+    {
+        "client_msg_id": "77c5c54f-9e3b-47d3-8191-9da9475c1886",
+        "type": "message",
+        "text": "I was gonna tell you it’s a lemon and to suck on it",
+        "user": "U15HRTAHL",
+        "ts": "1540844469.032500"
+    },
+    {
+        "client_msg_id": "14680BF2-9728-4F93-B454-740066D3642B",
+        "type": "message",
+        "text": "Costs more than some new cars",
+        "user": "U15HY5TG8",
+        "ts": "1540844474.032700"
+    },
+    {
+        "client_msg_id": "5DFE6B50-A857-4104-BA86-8425E6A8A3CD",
+        "type": "message",
+        "text": "Subaru wrx",
+        "user": "U15HY5TG8",
+        "ts": "1540844478.032900"
+    },
+    {
+        "client_msg_id": "3774435d-d854-4ff1-9604-d5510b09a26c",
+        "type": "message",
+        "text": "What color?",
+        "user": "U15HRTAHL",
+        "ts": "1540844499.033100"
+    },
+    {
+        "client_msg_id": "F284B390-E18D-47B9-B2FF-AF5385809F56",
+        "type": "message",
+        "text": "Black",
+        "user": "U15HY5TG8",
+        "ts": "1540844505.033300"
+    },
+    {
+        "client_msg_id": "4CDADAFF-C376-45CF-931D-2693778CCF5D",
+        "type": "message",
+        "text": "I want an all black car fleet lol",
+        "user": "U15HY5TG8",
+        "ts": "1540844513.033600"
+    },
+    {
+        "client_msg_id": "426e3929-9fcb-48a4-8af4-4698e8ada222",
+        "type": "message",
+        "text": "we randomly started talking about haikus at work today",
+        "user": "U15HRTAHL",
+        "ts": "1540845051.034000"
+    },
+    {
+        "client_msg_id": "450dd03e-22c6-4ea1-b32d-fdfd2c8146ea",
+        "type": "message",
+        "text": "turns out trump makes really good haikus",
+        "user": "U15HRTAHL",
+        "ts": "1540845060.034300"
+    },
+    {
+        "client_msg_id": "8247b79d-b209-4d17-9ba2-5cb3f5d3b072",
+        "type": "message",
+        "text": "```\nThat never happened\nAnd if I did it's not bad\nyou deserved it\n```",
+        "user": "U15HRTAHL",
+        "ts": "1540845065.034500"
+    },
+    {
+        "client_msg_id": "0FAEF388-028C-4B17-883E-CAC44734EA9E",
+        "type": "message",
+        "text": "Got to the gym only to realize i forgot shorts. Call of duty is calling",
+        "user": "U15HY5TG8",
+        "ts": "1540850662.000900"
+    },
+    {
+        "client_msg_id": "540B1CD1-3824-4F07-8144-1C2D339DB909",
+        "type": "message",
+        "text": "Work out in jeans",
+        "user": "U15HZ01QX",
+        "ts": "1540850676.001000"
+    },
+    {
+        "client_msg_id": "B7DEDAC4-78F7-4B9F-98FA-5274F9D117A8",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1540850691.001200"
+    },
+    {
+        "client_msg_id": "BEC6FB36-885E-4C74-9BB7-27BE2A8EECC4",
+        "type": "message",
+        "text": "Wtf. Im not a commie",
+        "user": "U15HY5TG8",
+        "ts": "1540850706.001500"
+    },
+    {
+        "client_msg_id": "836CD2A0-F45C-430B-BB36-6CC6D29F8F70",
+        "type": "message",
+        "text": "Its all good though. On paper it looks like i went",
+        "user": "U15HY5TG8",
+        "ts": "1540850815.002200"
+    },
+    {
+        "client_msg_id": "C06AA261-1F30-4FC5-97B4-64CEB6BFBAA6",
+        "type": "message",
+        "text": "The girl upstairs walks in heels all day, i swear",
+        "user": "U15HY5TG8",
+        "ts": "1540853259.000400"
+    },
+    {
+        "client_msg_id": "42B80585-8B7E-4F40-BF5E-E97A535DC4C2",
+        "type": "message",
+        "text": "As a woman should!",
+        "user": "U15J5H60P",
+        "ts": "1540854829.000300"
+    },
+    {
+        "client_msg_id": "B853C875-1192-4449-AED1-5D4EB5118FD9",
+        "type": "message",
+        "text": ":clap::skin-tone-2:",
+        "user": "U15J5H60P",
+        "ts": "1540855302.000500"
+    },
+    {
+        "client_msg_id": "a966e893-2d6c-49d6-8091-fffc9ee757f1",
+        "type": "message",
+        "text": "when you apply somewhere new and the application asks if they can contact your current place, what do you say?",
+        "user": "U15HY5TG8",
+        "ts": "1540861088.000700",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1540861108.000000"
+        }
+    },
+    {
+        "client_msg_id": "BE756D5A-8DF9-476C-B7E2-9251657822D2",
+        "type": "message",
+        "text": "Depends on if you want them to contact lol",
+        "user": "U15HZ01QX",
+        "ts": "1540861109.001100"
+    },
+    {
+        "client_msg_id": "D60565A0-06BF-4E90-A717-FE2DC30B39EB",
+        "type": "message",
+        "text": "If you’re trying to be secretive maybe write a note ",
+        "user": "U15HZ01QX",
+        "ts": "1540861125.001600"
+    },
+    {
+        "client_msg_id": "96a3a85c-c13b-4f6c-9f07-708ed40b5315",
+        "type": "message",
+        "text": "gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1540861135.001800"
+    }
+]

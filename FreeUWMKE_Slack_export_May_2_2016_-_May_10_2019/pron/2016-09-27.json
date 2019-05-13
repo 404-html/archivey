@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/8Vv4rUm.png>",
+        "user": "U15J5H60P",
+        "ts": "1474987441.000002",
+        "attachments": [
+            {
+                "fallback": "500x750px image",
+                "image_url": "https:\/\/i.imgur.com\/8Vv4rUm.png",
+                "image_width": 500,
+                "image_height": 750,
+                "image_bytes": 149508,
+                "from_url": "https:\/\/i.imgur.com\/8Vv4rUm.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Top of \"myIsh\" ",
+        "user": "U15J5H60P",
+        "ts": "1474987452.000004"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/imgur.com\/a\/XyXuC>",
+        "user": "U15J5H60P",
+        "ts": "1474987464.000005",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Emily's first nude shoot",
+                "title_link": "http:\/\/imgur.com\/a\/XyXuC",
+                "text": "Imgur: The most awesome images on the Internet.",
+                "fallback": "Imgur: Emily's first nude shoot",
+                "image_url": "http:\/\/i.imgur.com\/sqlB99h.jpg?fb",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/imgur.com\/a\/XyXuC",
+                "image_bytes": 15743,
+                "service_icon": "http:\/\/s.imgur.com\/images\/favicon-152.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/i.imgur.com\/ooFjja0.jpg>",
+        "user": "U15J5H60P",
+        "ts": "1474987540.000007",
+        "attachments": [
+            {
+                "fallback": "2052x2736px image",
+                "image_url": "http:\/\/i.imgur.com\/ooFjja0.jpg",
+                "image_width": 2052,
+                "image_height": 2736,
+                "image_bytes": 463007,
+                "from_url": "http:\/\/i.imgur.com\/ooFjja0.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This channel is dumb",
+        "user": "U15J5H60P",
+        "ts": "1474987593.000009"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1474987606.000010"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1474987621.000011",
+        "text": "<@U15J5H60P> archived the channel"
+    }
+]

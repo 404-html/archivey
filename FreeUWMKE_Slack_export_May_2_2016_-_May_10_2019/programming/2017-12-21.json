@@ -1,0 +1,482 @@
+[
+    {
+        "type": "message",
+        "text": "Brad Wannow is back",
+        "user": "U15J5H60P",
+        "ts": "1513868595.000708"
+    },
+    {
+        "type": "message",
+        "text": "Funny kid",
+        "user": "U15J5H60P",
+        "ts": "1513868641.000015"
+    },
+    {
+        "type": "message",
+        "text": "Smart kid",
+        "user": "U15J5H60P",
+        "ts": "1513868643.000298"
+    },
+    {
+        "type": "message",
+        "text": "I admire him",
+        "user": "U15J5H60P",
+        "ts": "1513868645.000478"
+    },
+    {
+        "type": "message",
+        "text": "He's already a second semester sophomore.",
+        "user": "U15J5H60P",
+        "ts": "1513868657.000062"
+    },
+    {
+        "type": "message",
+        "text": "It's his first semester in college",
+        "user": "U15J5H60P",
+        "ts": "1513868665.000886"
+    },
+    {
+        "type": "message",
+        "text": "Kids nuts",
+        "user": "U15J5H60P",
+        "ts": "1513868669.000287"
+    },
+    {
+        "type": "message",
+        "text": "I'd hate to have his life though",
+        "user": "U15J5H60P",
+        "ts": "1513868673.000728"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1513868676.000357"
+    },
+    {
+        "type": "message",
+        "text": "Shits fucked up",
+        "user": "U15J5H60P",
+        "ts": "1513868676.000509"
+    },
+    {
+        "type": "message",
+        "text": "No idea who the hell that is",
+        "user": "U15HY5TG8",
+        "ts": "1513868677.000521"
+    },
+    {
+        "type": "message",
+        "text": "Dad killed himself",
+        "user": "U15J5H60P",
+        "ts": "1513868681.000709"
+    },
+    {
+        "type": "message",
+        "text": "He was a cop",
+        "user": "U15HRTAHL",
+        "ts": "1513868686.000081"
+    },
+    {
+        "type": "message",
+        "text": "Mom's a huge druggie",
+        "user": "U15J5H60P",
+        "ts": "1513868686.000140"
+    },
+    {
+        "type": "message",
+        "text": "shot himself outside the middle school",
+        "user": "U15HRTAHL",
+        "ts": "1513868694.000525"
+    },
+    {
+        "type": "message",
+        "text": "Lives with his dying grandparents",
+        "user": "U15J5H60P",
+        "ts": "1513868698.000542"
+    },
+    {
+        "type": "message",
+        "text": "He killed himself because he found out his wife was cheating on him.",
+        "user": "U15J5H60P",
+        "ts": "1513868715.000459"
+    },
+    {
+        "type": "message",
+        "text": "Poor guy",
+        "user": "U15J5H60P",
+        "ts": "1513868717.000533"
+    },
+    {
+        "type": "message",
+        "text": "Some kid that just graduated high school from Greendale just killed himself at the high school baseball field over a breakup",
+        "user": "U15J5H60P",
+        "ts": "1513868787.000253"
+    },
+    {
+        "type": "message",
+        "text": "Poor kid",
+        "user": "U15J5H60P",
+        "ts": "1513868788.000358"
+    },
+    {
+        "type": "message",
+        "text": "Suicide is shitty",
+        "user": "U15J5H60P",
+        "ts": "1513868798.000364"
+    },
+    {
+        "type": "message",
+        "text": "Anyways",
+        "user": "U15J5H60P",
+        "ts": "1513868799.000510"
+    },
+    {
+        "type": "message",
+        "text": "Brad's a good kid",
+        "user": "U15J5H60P",
+        "ts": "1513868809.000159"
+    },
+    {
+        "type": "message",
+        "text": "Does he know you know all that?",
+        "user": "U15HRTAHL",
+        "ts": "1513868875.000449"
+    },
+    {
+        "type": "message",
+        "text": "Fuck date\/time",
+        "user": "U15HRTAHL",
+        "ts": "1513878713.000048"
+    },
+    {
+        "type": "message",
+        "text": "why is time so god damn difficult to work with",
+        "user": "U15HRTAHL",
+        "ts": "1513878728.000368"
+    },
+    {
+        "type": "message",
+        "text": "Lol whatd you have to do?",
+        "user": "U15HY5TG8",
+        "ts": "1513883832.000237"
+    },
+    {
+        "type": "message",
+        "text": "Let me show you the form I made",
+        "user": "U15HRTAHL",
+        "ts": "1513883844.000411"
+    },
+    {
+        "type": "message",
+        "text": "So the start\/end times",
+        "user": "U15HRTAHL",
+        "ts": "1513883885.000176"
+    },
+    {
+        "type": "message",
+        "text": "they are in 12 hour format",
+        "user": "U15HRTAHL",
+        "ts": "1513883891.000253"
+    },
+    {
+        "type": "message",
+        "text": "but the data they give me when i get the value in javascript is in 24 hour format",
+        "user": "U15HRTAHL",
+        "ts": "1513883911.000131"
+    },
+    {
+        "type": "message",
+        "text": "Lol i recently did that conversion on my app at home",
+        "user": "U15HY5TG8",
+        "ts": "1513883937.000101"
+    },
+    {
+        "type": "message",
+        "text": "And I wanted to display that to the user in 12 hour time",
+        "user": "U15HRTAHL",
+        "ts": "1513883950.000018"
+    },
+    {
+        "type": "message",
+        "text": "like this",
+        "user": "U15HRTAHL",
+        "ts": "1513883951.000425"
+    },
+    {
+        "type": "message",
+        "text": "but it was showing 24 hour time",
+        "user": "U15HRTAHL",
+        "ts": "1513883958.000346"
+    },
+    {
+        "type": "message",
+        "text": "Ik i understand",
+        "user": "U15HY5TG8",
+        "ts": "1513883981.000008"
+    },
+    {
+        "type": "message",
+        "text": "```\nvar startTime = component.get('v.startTime');\nvar endTime = component.get('v.endTime');\n\nvar startTimePieces = startTime.split(':');\nvar endTimePieces = endTime.split(':');\nvar startHours = startTimePieces[0];\nvar startMinutes = startTimePieces[1];\nvar endHours = endTimePieces[0];\nvar endMinutes = endTimePieces[1];\n\nvar startDate = new Date(campaign.StartDate);\nvar endDate = new Date(campaign.EndDate);\n\nvar startDateTime = new Date(new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDay()).getTime()).setHours(parseInt(startHours), parseInt(startMinutes));\nvar endDateTime = new Date(new Date(endDate.getFullYear(), endDate.getMonth(), endDate.getDay()).getTime()).setHours(parseInt(endHours), parseInt(endMinutes));\n\nvar appointmentToAdd = {\n\tstartDate : campaign.StartDate,\n\tstartTime : component.get('v.startTime'),\n\tstartDateTime : startDateTime,\n\tendDate : campaign.EndDate,\n\tendTime : component.get('v.endTime'),\n\tendDateTime : endDateTime,\n\tavailableForRegistration : component.find('availableForRegistration').get('v.checked'),\n\tduration : component.get('v.duration'),\n\tdaysOfTheWeek : daysOfTheWeek,\n\tdisplayDaysOfTheWeek : displayDaysOfTheWeek.join(', ')\n};\n```",
+        "user": "U15HRTAHL",
+        "ts": "1513883986.000017"
+    },
+    {
+        "type": "message",
+        "text": "Just have to subtract 12",
+        "user": "U15HY5TG8",
+        "ts": "1513883989.000377"
+    },
+    {
+        "type": "message",
+        "text": "The hell lol",
+        "user": "U15HY5TG8",
+        "ts": "1513884011.000425"
+    },
+    {
+        "type": "message",
+        "text": "then I can display it like this",
+        "user": "U15HRTAHL",
+        "ts": "1513884033.000402"
+    },
+    {
+        "type": "message",
+        "text": "```\n&lt;td class=\"slds-text-body_small\"&gt;&lt;ui:outputDateTime value=\"{!v.appointment.startDateTime}\" format=\"hh:mm a\"\/&gt;&lt;\/td&gt;\n&lt;td class=\"slds-text-body_small\"&gt;&lt;ui:outputDateTime value=\"{!v.appointment.endDateTime}\" format=\"hh:mm a\"\/&gt;&lt;\/td&gt;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1513884042.000143"
+    },
+    {
+        "type": "message",
+        "text": "basically I construct a date",
+        "user": "U15HRTAHL",
+        "ts": "1513884055.000154"
+    },
+    {
+        "type": "message",
+        "text": "and then format it to only show the time",
+        "user": "U15HRTAHL",
+        "ts": "1513884062.000029"
+    },
+    {
+        "type": "message",
+        "text": "Get rid of the first h in the format",
+        "user": "U15HY5TG8",
+        "ts": "1513884069.000617"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1513884077.000063"
+    },
+    {
+        "type": "message",
+        "text": "that for",
+        "user": "U15HRTAHL",
+        "ts": "1513884081.000324"
+    },
+    {
+        "type": "message",
+        "text": "10 11 and 12",
+        "user": "U15HRTAHL",
+        "ts": "1513884085.000448"
+    },
+    {
+        "type": "message",
+        "text": "Technically yes, but having just h:mm will allow 3:45 and 10:45 instead of 03:45 and 10:45",
+        "user": "U15HY5TG8",
+        "ts": "1513884123.000205"
+    },
+    {
+        "type": "message",
+        "text": "really?",
+        "user": "U15HRTAHL",
+        "ts": "1513884132.000196"
+    },
+    {
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1513884140.000286"
+    },
+    {
+        "type": "message",
+        "text": "im trying it",
+        "user": "U15HRTAHL",
+        "ts": "1513884141.000148"
+    },
+    {
+        "type": "message",
+        "text": "You gon learn today!",
+        "user": "U15HY5TG8",
+        "ts": "1513884198.000192"
+    },
+    {
+        "type": "message",
+        "text": "Ive dealt with my fair share of datetimes",
+        "user": "U15HY5TG8",
+        "ts": "1513884226.000190"
+    },
+    {
+        "type": "message",
+        "text": "We use moment for all our date shit in JS",
+        "user": "U15HSHSS2",
+        "ts": "1513884240.000310"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/momentjs.com\/>",
+        "user": "U15HSHSS2",
+        "ts": "1513884241.000606"
+    },
+    {
+        "type": "message",
+        "text": "yeah I read a lot about that",
+        "user": "U15HRTAHL",
+        "ts": "1513884251.000728"
+    },
+    {
+        "type": "message",
+        "text": "but I didn't want to bring that into my proj for this one thing",
+        "user": "U15HRTAHL",
+        "ts": "1513884272.000376"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HSHSS2",
+        "ts": "1513884282.000281"
+    },
+    {
+        "type": "message",
+        "text": "We also use _JS for stuff too which is nice",
+        "user": "U15HSHSS2",
+        "ts": "1513884300.000008"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/underscorejs.org\/>",
+        "user": "U15HSHSS2",
+        "ts": "1513884301.000156"
+    },
+    {
+        "type": "message",
+        "text": "ha thats funny",
+        "user": "U15HRTAHL",
+        "ts": "1513884321.000084"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/lodash.com|lodash.com>",
+        "user": "U15HRTAHL",
+        "ts": "1513884330.000040"
+    },
+    {
+        "type": "message",
+        "text": "look at that",
+        "user": "U15HRTAHL",
+        "ts": "1513884332.000155"
+    },
+    {
+        "type": "message",
+        "text": "Is all your code above just for converting 24hr to 12hr?",
+        "user": "U15HY5TG8",
+        "ts": "1513884344.000082"
+    },
+    {
+        "type": "message",
+        "text": "we've used that one before",
+        "user": "U15HRTAHL",
+        "ts": "1513884344.000385"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> so I have a date on the page and they select the time",
+        "user": "U15HRTAHL",
+        "ts": "1513884360.000367"
+    },
+    {
+        "type": "message",
+        "text": "it assembles the date and time for me which I will need on the backend",
+        "user": "U15HRTAHL",
+        "ts": "1513884375.000081"
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok ....also you can do the same thing for your dates on the left",
+        "user": "U15HY5TG8",
+        "ts": "1513884702.000157"
+    },
+    {
+        "type": "message",
+        "text": "M\/d\/yyyy",
+        "user": "U15HY5TG8",
+        "ts": "1513884712.000218"
+    },
+    {
+        "type": "message",
+        "text": "Thats nifty",
+        "user": "U15HRTAHL",
+        "ts": "1513884729.000029"
+    },
+    {
+        "type": "message",
+        "text": "I never knew that",
+        "user": "U15HRTAHL",
+        "ts": "1513884731.000095"
+    },
+    {
+        "type": "message",
+        "text": "Im glad i can bring stuff to the table lol",
+        "user": "U15HY5TG8",
+        "ts": "1513884757.000523"
+    },
+    {
+        "type": "message",
+        "text": "aw fuck",
+        "user": "U15HRTAHL",
+        "ts": "1513884976.000265"
+    },
+    {
+        "type": "message",
+        "text": "my day is wrong",
+        "user": "U15HRTAHL",
+        "ts": "1513884988.000542"
+    },
+    {
+        "type": "message",
+        "text": "how the fuck",
+        "user": "U15HRTAHL",
+        "ts": "1513884992.000482"
+    },
+    {
+        "type": "message",
+        "text": "What lol",
+        "user": "U15HY5TG8",
+        "ts": "1513885132.000191"
+    },
+    {
+        "type": "message",
+        "text": "JavaScript has a getDay() function and a getDate() function ",
+        "user": "U15HRTAHL",
+        "ts": "1513895437.000414"
+    },
+    {
+        "type": "message",
+        "text": "I was using getDay which returns a integer from 0-6",
+        "user": "U15HRTAHL",
+        "ts": "1513895460.000135"
+    },
+    {
+        "type": "message",
+        "text": "That's what fucked me up ",
+        "user": "U15HRTAHL",
+        "ts": "1513895469.000303"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1513900310.000105"
+    }
+]

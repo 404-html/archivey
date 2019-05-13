@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus ibm",
+        "user": "U15J5H60P",
+        "ts": "1524082616.000541"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n        IBM              148.69              -12.12               -7.532 \n       Avg.                 ---                 ---              -7.532% \n```\n<http:\/\/finviz.com\/chart.ashx?t=IBM&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1524082616.000586",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=IBM&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 30323,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=IBM&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=IBM&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Possible buying opportunity?",
+        "user": "U15J5H60P",
+        "ts": "1524082647.000643"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1524082666.000582"
+    },
+    {
+        "type": "message",
+        "text": "No it's not",
+        "user": "U15J5H60P",
+        "ts": "1524082668.000395"
+    },
+    {
+        "type": "message",
+        "text": "It's shit",
+        "user": "U15J5H60P",
+        "ts": "1524082669.000717"
+    }
+]

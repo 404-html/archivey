@@ -1,0 +1,249 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/ign\/status\/1095714464681349123?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1550073816.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/IGN|@IGN>: Elsa is essentially a superhero now and we're definitely ok with that. Watch the first trailer for Frozen 2 right here! <https:\/\/pbs.twimg.com\/media\/DzS-8_hUcAAlvfv.jpg>",
+                "ts": 1550073660,
+                "author_name": "IGN",
+                "author_link": "https:\/\/twitter.com\/IGN\/status\/1095714464681349123",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1005243587649392640\/Lfv26J1v_normal.jpg",
+                "author_subname": "@IGN",
+                "text": "Elsa is essentially a superhero now and we're definitely ok with that. Watch the first trailer for Frozen 2 right here!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/ign\/status\/1095714464681349123?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/DzS-8_hUcAAlvfv.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/DzS-8_hUcAAlvfv.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1095709131975970816\/vid\/1280x720\/m9Ec60ciKqIiqYG-.mp4?tag=9\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/ign\/status\/1095714464681349123?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "09e7cd72-e285-4e41-86c0-97363196bd11",
+        "type": "message",
+        "text": "never saw the first one",
+        "user": "U15HSHSS2",
+        "ts": "1550074246.000400"
+    },
+    {
+        "client_msg_id": "659A0491-BBFA-4196-B5D4-AFE9A33EB847",
+        "type": "message",
+        "text": "I saw it late",
+        "user": "U15HZ01QX",
+        "ts": "1550074468.000500"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1550088843.000700",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1550095065.000900",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG6AM5KR9",
+                "created": 1550095068,
+                "timestamp": 1550095068,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-13, 3:57 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 361259,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG6AM5KR9\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG6AM5KR9\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6AM5KR9-dcbe97f8bf\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6AM5KR9-dcbe97f8bf\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6AM5KR9-dcbe97f8bf\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 312,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6AM5KR9-dcbe97f8bf\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 416,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6AM5KR9-dcbe97f8bf\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 555,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FG6AM5KR9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FG6AM5KR9-01a97e971e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1550095070.001000"
+    },
+    {
+        "client_msg_id": "ae06a6a9-b126-4a92-80e7-cd800e321ceb",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15J5H60P",
+        "ts": "1550095157.001400"
+    },
+    {
+        "client_msg_id": "ab446a60-db50-4fdb-a176-f5b5f1eba155",
+        "type": "message",
+        "text": "James",
+        "user": "U15J5H60P",
+        "ts": "1550095169.001600"
+    },
+    {
+        "client_msg_id": "228483ff-5c5a-492d-96fb-0b6924053c5e",
+        "type": "message",
+        "text": "no more internet for you",
+        "user": "U15J5H60P",
+        "ts": "1550095171.001800"
+    },
+    {
+        "client_msg_id": "BDC043D0-EF14-4DA8-85AB-20823DC43BBD",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550096057.002000"
+    },
+    {
+        "client_msg_id": "8E190705-A46C-4F5C-94AB-23EED7414A83",
+        "type": "message",
+        "text": "<@U15HZ01QX> where are you pulling these 4chan pics from all the time? I dont picture you going on there",
+        "user": "U15HY5TG8",
+        "ts": "1550096088.003000"
+    },
+    {
+        "client_msg_id": "8AD351BD-CA0E-45F9-A9BB-503FE471C6B6",
+        "type": "message",
+        "text": "R\/greentext is pretty much just a best of 4chan without all the illegal content",
+        "user": "U15HZ01QX",
+        "ts": "1550096139.003900"
+    },
+    {
+        "client_msg_id": "FEE41F92-2864-4191-A866-638BE808293C",
+        "type": "message",
+        "text": "Ahhh ok",
+        "user": "U15HY5TG8",
+        "ts": "1550096698.004100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG6FE0Q2W",
+                "created": 1550098389,
+                "timestamp": 1550098389,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 135638,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG6FE0Q2W\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG6FE0Q2W\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 269,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 359,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 538,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6FE0Q2W-e7bfbf157b\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 598,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 660,
+                "original_h": 883,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/FG6FE0Q2W\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FG6FE0Q2W-447b3d6cdb",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "ts": "1550098391.004200",
+        "client_msg_id": "2B673E0C-71A5-454F-9B5A-6454A4601ABB"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/katienotopoulos\/status\/1095854659489722368?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1550121826.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/katienotopoulos|@katienotopoulos>: \"Blippi\" is a YouTube star for toddlers who gets ~400Mviews\/month, toddlers are OBSESSED with him. \n\nBut in 2013, he made a version of the Harlem Shake meme where he literally projectile shat onto his nude friend. My story: <https:\/\/www.buzzfeednews.com\/article\/katienotopoulos\/blippi-youtube-kids-star-harlem-shake-poop>",
+                "ts": 1550107085,
+                "author_name": "Katie Notopoulos",
+                "author_link": "https:\/\/twitter.com\/katienotopoulos\/status\/1095854659489722368",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/2373249657\/xww5oetfssfpslb1qkk9_normal.gif",
+                "author_subname": "@katienotopoulos",
+                "text": "\"Blippi\" is a YouTube star for toddlers who gets ~400Mviews\/month, toddlers are OBSESSED with him. \n\nBut in 2013, he made a version of the Harlem Shake meme where he literally projectile shat onto his nude friend. My story: <https:\/\/www.buzzfeednews.com\/article\/katienotopoulos\/blippi-youtube-kids-star-harlem-shake-poop>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/katienotopoulos\/status\/1095854659489722368?s=12",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/katienotopoulos\/status\/1095854659489722368?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1B87E39A-F359-4DBE-B6F5-93E2C1ABFC9C",
+        "type": "message",
+        "text": "The article is good. I won’t share the link to the video . Probably belongs in random3 or something",
+        "user": "U15HZ01QX",
+        "ts": "1550122114.001000"
+    },
+    {
+        "client_msg_id": "9181b63e-dc68-481d-8627-432f33a82196",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1550122193.001200"
+    }
+]

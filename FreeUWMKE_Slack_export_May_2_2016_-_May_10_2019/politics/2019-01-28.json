@@ -1,0 +1,100 @@
+[
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548714981.000200",
+        "text": "<@U15HZ01QX> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_unarchive",
+        "ts": "1548714981.000300",
+        "text": "<@U15HZ01QX> un-archived the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548715035.000700",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548715199.000900",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "a6e76a4b-caa2-4de5-ab5d-3b31574dcd74",
+        "type": "message",
+        "text": "Politicin like they sarah palin",
+        "user": "U15J5H60P",
+        "ts": "1548715211.001300"
+    },
+    {
+        "client_msg_id": "3526a35a-1afa-46ed-9a2f-e04e77be9bac",
+        "type": "message",
+        "text": "I can’t remember what song that’s from",
+        "user": "U15J5H60P",
+        "ts": "1548715216.001500"
+    },
+    {
+        "client_msg_id": "1f97d4a0-f28f-43d5-8ae4-f44df546b784",
+        "type": "message",
+        "text": "Probably JZ",
+        "user": "U15J5H60P",
+        "ts": "1548715226.001900"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548715228.002400",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "client_msg_id": "1eb5ce10-4701-47d0-ab6e-0cf3852334f4",
+        "type": "message",
+        "text": "Jay-Z?",
+        "user": "U15J5H60P",
+        "ts": "1548715228.002500"
+    },
+    {
+        "client_msg_id": "fad1df81-4c9a-4e14-928f-84049919e15f",
+        "type": "message",
+        "text": "J-Zee?",
+        "user": "U15J5H60P",
+        "ts": "1548715230.002600"
+    },
+    {
+        "client_msg_id": "2717ad54-a3d5-40a8-895e-0e863c663f9d",
+        "type": "message",
+        "text": "I can’t remember",
+        "user": "U15J5H60P",
+        "ts": "1548715232.002700"
+    },
+    {
+        "client_msg_id": "ec758e5a-3c86-4cfe-a8c3-0c5b66aa91fe",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1548715242.002800"
+    },
+    {
+        "client_msg_id": "23b6edaf-882c-4c5c-86e0-c29dbe529fbf",
+        "type": "message",
+        "text": "alright",
+        "user": "U15HZ01QX",
+        "ts": "1548715311.003500"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548715316.003700",
+        "text": "<@U15J5H60P> has left the channel"
+    }
+]

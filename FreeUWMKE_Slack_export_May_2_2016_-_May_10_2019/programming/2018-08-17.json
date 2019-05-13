@@ -1,0 +1,212 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCBNXHLSJ",
+                "created": 1534506115,
+                "timestamp": 1534506115,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 166413,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCBNXHLSJ\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCBNXHLSJ\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 243,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 325,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 487,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCBNXHLSJ-3714c622b1\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 541,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 649,
+                "original_h": 960,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FCBNXHLSJ\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FCBNXHLSJ-52773af2e5",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "14165291-749D-45F8-9592-95AC77E352A3",
+        "ts": "1534506115.000100"
+    },
+    {
+        "client_msg_id": "31953E35-E719-4DB3-B4A7-B3AF16C20BA8",
+        "type": "message",
+        "text": "<@U15HRTAHL> ",
+        "user": "U15HY5TG8",
+        "ts": "1534506120.000100"
+    },
+    {
+        "client_msg_id": "4e7198b5-72ee-4e51-8169-4f39d8892849",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HRTAHL",
+        "ts": "1534511914.000100"
+    },
+    {
+        "client_msg_id": "712ae74e-ff04-403c-bb37-f4100dbf54da",
+        "type": "message",
+        "text": "<https:\/\/github.com\/r-spacex\/SpaceX-API>",
+        "user": "U15J5H60P",
+        "ts": "1534518939.000100",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "r-spacex\/SpaceX-API",
+                "title_link": "https:\/\/github.com\/r-spacex\/SpaceX-API",
+                "text": "SpaceX-API - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data",
+                "fallback": "GitHub: r-spacex\/SpaceX-API",
+                "from_url": "https:\/\/github.com\/r-spacex\/SpaceX-API",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/29695396?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/r-spacex\/SpaceX-API"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce56226a-ae6f-406b-96b0-9425ef148fba",
+        "type": "message",
+        "text": "BAD ASS",
+        "user": "U15J5H60P",
+        "ts": "1534518940.000100"
+    },
+    {
+        "client_msg_id": "037a2b5c-48b5-4b34-b081-78dfe7b7aa95",
+        "type": "message",
+        "text": "This is cool",
+        "user": "U15J5H60P",
+        "ts": "1534518942.000100"
+    },
+    {
+        "client_msg_id": "ddbd79d0-680d-4295-b1b4-e3c728faf9c1",
+        "type": "message",
+        "text": "Joseph",
+        "user": "U15J5H60P",
+        "ts": "1534519099.000100"
+    },
+    {
+        "client_msg_id": "aeada637-227c-4f01-8d33-e1eacaae9018",
+        "type": "message",
+        "text": "Wish I knew graphics programming",
+        "user": "U15HRTAHL",
+        "ts": "1534519112.000100"
+    },
+    {
+        "client_msg_id": "afe9a5f4-d4b7-4495-a199-07bdf79a3c62",
+        "type": "message",
+        "text": "Don't let your dreams be dreams!",
+        "user": "U15J5H60P",
+        "ts": "1534519119.000100"
+    },
+    {
+        "client_msg_id": "21f3c31e-dd82-45c7-b0e5-383ad246128a",
+        "type": "message",
+        "text": "JUST DO IT",
+        "user": "U15HRTAHL",
+        "ts": "1534519128.000100"
+    },
+    {
+        "client_msg_id": "C08DE525-8AB4-4569-BF6D-1AF31A1B331A",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1534519900.000200"
+    },
+    {
+        "client_msg_id": "A1CAC006-8900-466E-8360-F9692DE1D261",
+        "type": "message",
+        "text": "My coworker just showed me that github is no longer supporting ie lolol",
+        "user": "U15HY5TG8",
+        "ts": "1534519923.000100"
+    },
+    {
+        "client_msg_id": "B96AB596-A29A-4BED-9C0F-328A06A4DCD4",
+        "type": "message",
+        "text": ":grimacing:",
+        "user": "U15J5H60P",
+        "ts": "1534519950.000100"
+    },
+    {
+        "client_msg_id": "9B2D9317-E80C-4B5C-90BA-3039A4E6FB4D",
+        "type": "message",
+        "text": "Which is funny because github is microsoft and ie is microsoft. Wont even support themselves",
+        "user": "U15HY5TG8",
+        "ts": "1534519950.000300"
+    },
+    {
+        "client_msg_id": "063dd434-c84e-4e93-bd7b-133ce7c17572",
+        "type": "message",
+        "text": "<@U15J5H60P> are you still messing around with swagger?",
+        "user": "U15HRTAHL",
+        "ts": "1534522369.000100"
+    },
+    {
+        "client_msg_id": "285addc9-2f2b-4f84-a8cf-b1cf3c71a3e2",
+        "type": "message",
+        "text": "I never got to it",
+        "user": "U15J5H60P",
+        "ts": "1534528011.000100"
+    },
+    {
+        "client_msg_id": "7078b7c1-eb20-4b15-b01f-4a1c8347b07e",
+        "type": "message",
+        "text": "I was reading some docs on security around express. They recommend using something called loopback that has some swagger like documented apis",
+        "user": "U15HRTAHL",
+        "ts": "1534528466.000100"
+    },
+    {
+        "client_msg_id": "6468685c-d33a-4274-9107-cae76f7f1d30",
+        "type": "message",
+        "text": "looks easy",
+        "user": "U15HRTAHL",
+        "ts": "1534528471.000100"
+    },
+    {
+        "client_msg_id": "ed3760f9-1c70-4afd-9fb2-70dcd2a02762",
+        "type": "message",
+        "text": "<https:\/\/loopback.io\/getting-started\/>",
+        "user": "U15HRTAHL",
+        "ts": "1534528472.000100"
+    },
+    {
+        "client_msg_id": "9044d3c3-bd3f-4f29-96ab-0c4eea17349e",
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1534528551.000100"
+    },
+    {
+        "client_msg_id": "19b6c1b1-865a-46d9-ab87-d5a13687b563",
+        "type": "message",
+        "text": "It looks useful",
+        "user": "U15J5H60P",
+        "ts": "1534528557.000100"
+    }
+]

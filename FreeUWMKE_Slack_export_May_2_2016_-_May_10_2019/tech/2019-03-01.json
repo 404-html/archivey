@@ -1,0 +1,51 @@
+[
+    {
+        "client_msg_id": "bad636c3-108c-40d0-b7a7-b0d20d435b98",
+        "type": "message",
+        "text": "<@U15J5H60P> did you see apple is coming out with an iPad that can plug into a MacBook pro body for more performance? Runs iOS and osx depending on what it's doing ",
+        "user": "U15HRTAHL",
+        "ts": "1551461863.001400"
+    },
+    {
+        "client_msg_id": "0C9C86B0-0CC8-4E39-8247-E591E10B7D5E",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1551461963.001600"
+    },
+    {
+        "client_msg_id": "d7d230c3-0740-4acd-85a4-aa165fcb4798",
+        "type": "message",
+        "text": "Cause they're not but answer the question in <#C15HP1TGC|general> please ",
+        "user": "U15HRTAHL",
+        "ts": "1551461975.002000"
+    },
+    {
+        "client_msg_id": "23ed1121-51ab-40ae-9241-08daa6864940",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=ay8Ya0DYDYE>",
+        "user": "U15J5H60P",
+        "ts": "1551503301.000200",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "OnePlus 6T Revisited: Better than Pixel 3?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ay8Ya0DYDYE",
+                "author_name": "Marques Brownlee",
+                "author_link": "https:\/\/www.youtube.com\/user\/marquesbrownlee",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ay8Ya0DYDYE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: OnePlus 6T Revisited: Better than Pixel 3?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ay8Ya0DYDYE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ay8Ya0DYDYE",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ay8Ya0DYDYE"
+            }
+        ]
+    }
+]

@@ -1,0 +1,4499 @@
+[
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463504742.000002",
+        "text": "<@U15HZ01QX> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1463504743.000003",
+        "text": "<@U15HZ01QX> set the channel purpose: OS stuff",
+        "purpose": "OS stuff"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463504760.000004",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463504784.000005",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463504799.000006",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "type": "message",
+        "text": "Hi",
+        "user": "U15J5H60P",
+        "ts": "1463504806.000007"
+    },
+    {
+        "type": "message",
+        "text": "Quick -  a 32 bit memory block contains a logical address of x56kjfg7f, what is the physical address?",
+        "user": "U15HRTAHL",
+        "ts": "1463504839.000008"
+    },
+    {
+        "type": "message",
+        "text": "0",
+        "user": "U15HY5TG8",
+        "ts": "1463504848.000009"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463504852.000010"
+    },
+    {
+        "type": "message",
+        "text": "hahaha",
+        "user": "U15HRTAHL",
+        "ts": "1463504854.000011"
+    },
+    {
+        "type": "message",
+        "text": "Thats gonna be me on this exam",
+        "user": "U15HRTAHL",
+        "ts": "1463504861.000012"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "me_irl",
+        "user": "U15HRTAHL",
+        "ts": "1463504867.000013"
+    },
+    {
+        "type": "message",
+        "text": "False",
+        "user": "U15HY5TG8",
+        "ts": "1463504870.000014"
+    },
+    {
+        "type": "message",
+        "text": "hahahaa",
+        "user": "U15HRTAHL",
+        "ts": "1463504874.000015"
+    },
+    {
+        "type": "message",
+        "text": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+        "user": "U15J5H60P",
+        "ts": "1463504903.000016"
+    },
+    {
+        "type": "message",
+        "text": "?????",
+        "user": "U15J5H60P",
+        "ts": "1463504905.000017"
+    },
+    {
+        "type": "message",
+        "text": "Am I right?",
+        "user": "U15J5H60P",
+        "ts": "1463504908.000018"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1463504926.000019"
+    },
+    {
+        "type": "message",
+        "text": ":whoop:",
+        "user": "U15J5H60P",
+        "ts": "1463504933.000020"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "whoop",
+        "user": "U15J5H60P",
+        "ts": "1463504944.000021"
+    },
+    {
+        "type": "message",
+        "text": "Trick question, the address was on the moon",
+        "user": "U15HRTAHL",
+        "ts": "1463504958.000022"
+    },
+    {
+        "type": "message",
+        "text": "Fuck. It was the first 5 that threw me off.",
+        "user": "U15J5H60P",
+        "ts": "1463504970.000023"
+    },
+    {
+        "type": "message",
+        "text": "those were coordinates to lunar base  #39856",
+        "user": "U15HRTAHL",
+        "ts": "1463504979.000024"
+    },
+    {
+        "type": "message",
+        "text": "Are you sure you didn’t do the math wrong?",
+        "user": "U15J5H60P",
+        "ts": "1463504999.000025"
+    },
+    {
+        "type": "message",
+        "text": "Which takes a lot of time to import that data from memory",
+        "user": "U15HRTAHL",
+        "ts": "1463504999.000026"
+    },
+    {
+        "type": "message",
+        "text": "Alright. Let’s get serious.",
+        "user": "U15J5H60P",
+        "ts": "1463505172.000027"
+    },
+    {
+        "type": "message",
+        "text": "What’s the square root of -1",
+        "user": "U15J5H60P",
+        "ts": "1463505179.000028"
+    },
+    {
+        "type": "message",
+        "text": "i?",
+        "user": "U15HRTAHL",
+        "ts": "1463505190.000029"
+    },
+    {
+        "type": "message",
+        "text": "after i go out to eat something",
+        "user": "U15HY5TG8",
+        "ts": "1463505192.000030"
+    },
+    {
+        "type": "message",
+        "text": "Wrong. The answer is my girlfriend.",
+        "user": "U15J5H60P",
+        "ts": "1463505199.000031"
+    },
+    {
+        "type": "message",
+        "text": "return 0;",
+        "user": "U15HY5TG8",
+        "ts": "1463505218.000032"
+    },
+    {
+        "type": "message",
+        "text": "i think quiz 5 is the first one",
+        "user": "U15HZ01QX",
+        "ts": "1463507191.000033"
+    },
+    {
+        "type": "message",
+        "text": ":nose::skin-tone-2: on quiz",
+        "user": "U15J5H60P",
+        "ts": "1463507277.000034"
+    },
+    {
+        "type": "message",
+        "text": ":nose::skin-tone-2:",
+        "user": "U15HRTAHL",
+        "ts": "1463507319.000035"
+    },
+    {
+        "type": "message",
+        "text": "we were going in order",
+        "user": "U15HZ01QX",
+        "ts": "1463507428.000036"
+    },
+    {
+        "type": "message",
+        "text": "who took it first?",
+        "user": "U15HZ01QX",
+        "ts": "1463507436.000037"
+    },
+    {
+        "type": "message",
+        "text": "evan?",
+        "user": "U15HZ01QX",
+        "ts": "1463507439.000038"
+    },
+    {
+        "type": "message",
+        "text": "or andy",
+        "user": "U15HZ01QX",
+        "ts": "1463507446.000039"
+    },
+    {
+        "type": "message",
+        "text": "I’m pretty sure we were going Nose Goes.",
+        "user": "U15J5H60P",
+        "ts": "1463507453.000040"
+    },
+    {
+        "type": "message",
+        "text": "why?",
+        "user": "U15HZ01QX",
+        "ts": "1463507458.000041"
+    },
+    {
+        "type": "message",
+        "text": "i just did the last one",
+        "user": "U15HZ01QX",
+        "ts": "1463507474.000042"
+    },
+    {
+        "type": "message",
+        "text": "Then post a nose before evan",
+        "user": "U15J5H60P",
+        "ts": "1463507484.000043"
+    },
+    {
+        "type": "message",
+        "text": "It’s not hard",
+        "user": "U15J5H60P",
+        "ts": "1463507495.000044"
+    },
+    {
+        "type": "message",
+        "text": ":nose::skin-tone-3:",
+        "user": "U15HY5TG8",
+        "ts": "1463507512.000045"
+    },
+    {
+        "type": "message",
+        "text": "You dropped the ball on that one, James.",
+        "user": "U15J5H60P",
+        "ts": "1463507521.000046"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463507586.000047"
+    },
+    {
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1463508914.000048"
+    },
+    {
+        "type": "message",
+        "text": "Did you read the Little book of sems?",
+        "user": "U15J5H60P",
+        "ts": "1463508923.000049"
+    },
+    {
+        "user": "U19HSQP3M",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463509140.000051",
+        "text": "<@U19HSQP3M> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15J5H60P|andrew> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/ZfcLXWnRrxGdbbKj5|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463509149.000052",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463509201.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "OS Needs to handle an interrupt in order to do a process switch.",
+                "text": "Total Votes: 1",
+                "title": "OS Needs to handle an interrupt in order to do a process switch.",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: True\n   :see_no_evil:  0%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: False\n   :thumbsup:  100%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HY5TG8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Polling will end in 5",
+        "user": "U15J5H60P",
+        "ts": "1463509238.000058"
+    },
+    {
+        "type": "message",
+        "text": "4",
+        "user": "U15J5H60P",
+        "ts": "1463509240.000059"
+    },
+    {
+        "type": "message",
+        "text": "3",
+        "user": "U15J5H60P",
+        "ts": "1463509242.000060"
+    },
+    {
+        "type": "message",
+        "text": "2",
+        "user": "U15J5H60P",
+        "ts": "1463509244.000061"
+    },
+    {
+        "type": "message",
+        "text": "1",
+        "user": "U15J5H60P",
+        "ts": "1463509246.000062"
+    },
+    {
+        "type": "message",
+        "text": "The answer was “TRUE”! The operating system needs to handle an interrupt in order to do a process switch.",
+        "user": "U15J5H60P",
+        "ts": "1463509273.000063"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "",
+        "user": "U19HSQP3M",
+        "ts": "1463509311.000064",
+        "attachments": [
+            {
+                "fallback": "Interrupt control provides mutual exclusion on multiprocessors.",
+                "text": "\n",
+                "pretext": "@andrew used `\/poll`!\nVote using the emoji reactions below, and view results in real-time or <https:\/\/app.polly.ai\/slackvote\/NpJpkTkaKj3yAZFeo|in your browser>.",
+                "title": "Interrupt control provides mutual exclusion on multiprocessors.",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: True",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: False",
+                        "short": false
+                    }
+                ],
+                "mrkdwn_in": [
+                    "pretext"
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HY5TG8",
+                    "U15HRTAHL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Polling to end.",
+        "user": "U15J5H60P",
+        "ts": "1463509352.000065"
+    },
+    {
+        "type": "message",
+        "text": "The answer is “FALSE”. Interrupt control does NOT provide mutual exclusion on multiprocessors.",
+        "user": "U15J5H60P",
+        "ts": "1463509371.000066"
+    },
+    {
+        "type": "message",
+        "text": "We should make a Slack App that does quizzes.",
+        "user": "U15J5H60P",
+        "ts": "1463509441.000067"
+    },
+    {
+        "type": "message",
+        "text": "What",
+        "user": "U15HY5TG8",
+        "ts": "1463509485.000068"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15J5H60P|andrew> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/RdZbP7QrLyNNryn6B|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463509598.000069",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463509756.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Binary semaphores have 3 values. -1, 0, and 1.",
+                "text": "Total Votes: 2",
+                "title": "Binary semaphores have 3 values. -1, 0, and 1.",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: True\n   :thumbsup:  50%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: False\n   :thumbsup:  50%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HY5TG8"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HRTAHL",
+                    "U15HZ01QX"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Shut up Joe",
+        "user": "U15J5H60P",
+        "ts": "1463509633.000071"
+    },
+    {
+        "type": "message",
+        "text": "Let evan answer",
+        "user": "U15J5H60P",
+        "ts": "1463509636.000072"
+    },
+    {
+        "type": "message",
+        "text": "what’d I do wrong?",
+        "user": "U15HRTAHL",
+        "ts": "1463509641.000073"
+    },
+    {
+        "type": "message",
+        "text": "@EVAN",
+        "user": "U15J5H60P",
+        "ts": "1463509660.000074"
+    },
+    {
+        "type": "message",
+        "text": "FUCKING CHANGE YOUR NAME",
+        "user": "U15J5H60P",
+        "ts": "1463509664.000075"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>:",
+        "user": "U15J5H60P",
+        "ts": "1463509669.000076"
+    },
+    {
+        "type": "message",
+        "text": "Vote",
+        "user": "U15J5H60P",
+        "ts": "1463509672.000077"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: vote",
+        "user": "U15J5H60P",
+        "ts": "1463509688.000078"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: vote",
+        "user": "U15J5H60P",
+        "ts": "1463509692.000079"
+    },
+    {
+        "type": "message",
+        "text": "The correct answer is “FALSE”. Binary asshole. 0 and 1.",
+        "user": "U15J5H60P",
+        "ts": "1463509762.000081"
+    },
+    {
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1463509763.000082"
+    },
+    {
+        "type": "message",
+        "text": "hahahah",
+        "user": "U15HRTAHL",
+        "ts": "1463509789.000083"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15J5H60P|andrew> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/Srt3n86PbiJFHomXd|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463509848.000084",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463510776.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Only one process can be in any function in a monitor at a given time.",
+                "text": "Total Votes: 1",
+                "title": "Only one process can be in any function in a monitor at a given time.",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: True\n   :hear_no_evil:  0%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: False\n   :thumbsup:  100%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HRTAHL"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HY5TG8"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: Why aren’t you participating?",
+        "user": "U15J5H60P",
+        "ts": "1463509863.000085"
+    },
+    {
+        "type": "message",
+        "text": "im not done going over my stuff yet",
+        "user": "U15HZ01QX",
+        "ts": "1463510112.000086"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15J5H60P",
+        "ts": "1463510116.000087"
+    },
+    {
+        "type": "message",
+        "text": "Answer is True. Joseph knows his shit.",
+        "user": "U15J5H60P",
+        "ts": "1463510246.000088"
+    },
+    {
+        "type": "message",
+        "text": "I know who I’m sitting next to tomorrow.",
+        "user": "U15J5H60P",
+        "ts": "1463510252.000089"
+    },
+    {
+        "type": "message",
+        "text": "Half kidding. Mostly not. I owe joe a third of my salary",
+        "user": "U15J5H60P",
+        "ts": "1463510273.000090"
+    },
+    {
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HRTAHL",
+        "ts": "1463510280.000091"
+    },
+    {
+        "type": "message",
+        "text": "how does test and set work",
+        "user": "U15HZ01QX",
+        "ts": "1463511432.000093"
+    },
+    {
+        "type": "message",
+        "text": "What?",
+        "user": "U15J5H60P",
+        "ts": "1463511441.000094"
+    },
+    {
+        "type": "message",
+        "text": "it doesnt",
+        "user": "U15HY5TG8",
+        "ts": "1463511464.000095"
+    },
+    {
+        "type": "message",
+        "text": "test and set instruction",
+        "user": "U15HZ01QX",
+        "ts": "1463511466.000096"
+    },
+    {
+        "type": "message",
+        "text": "No idea.",
+        "user": "U15J5H60P",
+        "ts": "1463511474.000097"
+    },
+    {
+        "type": "message",
+        "text": "Sorry",
+        "user": "U15J5H60P",
+        "ts": "1463511475.000098"
+    },
+    {
+        "type": "message",
+        "text": "I need to get to the lib",
+        "user": "U15J5H60P",
+        "ts": "1463511479.000099"
+    },
+    {
+        "type": "message",
+        "text": "I’ve been procratinating",
+        "user": "U15J5H60P",
+        "ts": "1463511486.000100"
+    },
+    {
+        "type": "message",
+        "text": "i think im just gonna do true or C for the whole test and walk out",
+        "user": "U15HY5TG8",
+        "ts": "1463511609.000101"
+    },
+    {
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15J5H60P",
+        "ts": "1463511647.000102"
+    },
+    {
+        "type": "message",
+        "text": "Then you’ll get close to a 0",
+        "user": "U15J5H60P",
+        "ts": "1463511652.000103"
+    },
+    {
+        "type": "message",
+        "text": "Since most of it will be True\/False",
+        "user": "U15J5H60P",
+        "ts": "1463511657.000104"
+    },
+    {
+        "type": "message",
+        "text": "You ass.",
+        "user": "U15J5H60P",
+        "ts": "1463511659.000105"
+    },
+    {
+        "type": "message",
+        "text": "why would i get close to 0?",
+        "user": "U15HY5TG8",
+        "ts": "1463511738.000106"
+    },
+    {
+        "type": "message",
+        "text": "Did anyone read the 8th chapter",
+        "user": "U15HZ01QX",
+        "ts": "1463517758.000107"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1463517769.000108"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1463517828.000109"
+    },
+    {
+        "type": "message",
+        "text": "I did",
+        "user": "U15HRTAHL",
+        "ts": "1463517934.000110"
+    },
+    {
+        "type": "message",
+        "text": "I had to stop towards the end",
+        "user": "U15HRTAHL",
+        "ts": "1463517944.000111"
+    },
+    {
+        "type": "message",
+        "text": "I wasn’t absorbing anything",
+        "user": "U15HRTAHL",
+        "ts": "1463517949.000112"
+    },
+    {
+        "type": "message",
+        "text": "So you didn't?",
+        "user": "U15J5H60P",
+        "ts": "1463517958.000113"
+    },
+    {
+        "type": "message",
+        "text": "Good to know lol",
+        "user": "U15HY5TG8",
+        "ts": "1463517961.000114"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15J5H60P|andrew> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/pyX24z8YQ4CPRKi8C|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463518733.000115",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463518999.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "You cannot read the current value of a semaphore only when its value is negative.",
+                "text": "Total Votes: 2",
+                "title": "You cannot read the current value of a semaphore only when its value is negative.",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: True\n   :hear_no_evil:  0%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: False\n   :thumbsup::thumbsup:  100%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M"
+                ],
+                "count": 1
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HY5TG8",
+                    "U15HZ01QX",
+                    "U15HRTAHL"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "False. You can never read the value of a semaphore after it has been initialized. You can only increment and decrement it.",
+        "user": "U15J5H60P",
+        "ts": "1463519005.000118"
+    },
+    {
+        "type": "message",
+        "text": "I could be dumb but where is he gonna get 120 questions from",
+        "user": "U15HZ01QX",
+        "ts": "1463520783.000119"
+    },
+    {
+        "type": "message",
+        "text": "There's a lot of content but not that much you know",
+        "user": "U15HZ01QX",
+        "ts": "1463520793.000120"
+    },
+    {
+        "type": "message",
+        "text": "beats me",
+        "user": "U15HY5TG8",
+        "ts": "1463520806.000121"
+    },
+    {
+        "type": "message",
+        "text": "He's just going to write down the book of semaphores. Fill in the blank.",
+        "user": "U15J5H60P",
+        "ts": "1463520822.000122"
+    },
+    {
+        "type": "message",
+        "text": "whatre you studying exactly? just the powerpoints and quizzes?",
+        "user": "U15HY5TG8",
+        "ts": "1463520826.000123"
+    },
+    {
+        "type": "message",
+        "text": "Did anyone take the quiz yet?",
+        "user": "U15HRTAHL",
+        "ts": "1463520843.000124"
+    },
+    {
+        "type": "message",
+        "text": ":nose::skin-tone-3:",
+        "user": "U15J5H60P",
+        "ts": "1463520855.000125"
+    },
+    {
+        "type": "message",
+        "text": "Yeah <https:\/\/freeuwmke.slack.com\/archives\/osprep\/p1463520826000123>",
+        "user": "U15HZ01QX",
+        "ts": "1463520881.000126",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/osprep\/p1463520826000123",
+                "fallback": "[May 17th, 2016 2:33 PM] lulz: whatre you studying exactly? just the powerpoints and quizzes?",
+                "author_subname": "lulz",
+                "ts": "1463520826.000123",
+                "text": "whatre you studying exactly? just the powerpoints and quizzes?",
+                "author_name": ".",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/lulz",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-10\/41626307472_fa7d9b21b08aaef83091_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1463520947.000128"
+    },
+    {
+        "type": "message",
+        "text": ":nose:",
+        "user": "U15HRTAHL",
+        "ts": "1463521510.000129"
+    },
+    {
+        "type": "message",
+        "text": "how does internal fragmentation work?",
+        "user": "U15HZ01QX",
+        "ts": "1463522065.000130"
+    },
+    {
+        "type": "message",
+        "text": " I have no idea",
+        "user": "U15J5H60P",
+        "ts": "1463522075.000131"
+    },
+    {
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1463522219.000132"
+    },
+    {
+        "type": "message",
+        "text": "What did you get on the midterm",
+        "user": "U15J5H60P",
+        "ts": "1463522224.000133"
+    },
+    {
+        "type": "message",
+        "text": "Whatd you get?",
+        "user": "U15HY5TG8",
+        "ts": "1463522593.000134"
+    },
+    {
+        "type": "message",
+        "text": "I got a 73.5",
+        "user": "U15J5H60P",
+        "ts": "1463522630.000135"
+    },
+    {
+        "type": "message",
+        "text": "nice nice",
+        "user": "U15HY5TG8",
+        "ts": "1463522652.000136"
+    },
+    {
+        "type": "message",
+        "text": "I suppose",
+        "user": "U15J5H60P",
+        "ts": "1463522663.000137"
+    },
+    {
+        "type": "message",
+        "text": "James",
+        "user": "U15J5H60P",
+        "ts": "1463522675.000138"
+    },
+    {
+        "type": "message",
+        "text": "Where is the section you keep asking about",
+        "user": "U15J5H60P",
+        "ts": "1463522682.000139"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HZ01QX",
+        "ts": "1463522746.000140"
+    },
+    {
+        "type": "message",
+        "text": "i think its in the stallings 7 or 8",
+        "user": "U15HZ01QX",
+        "ts": "1463522764.000141"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1463522768.000142"
+    },
+    {
+        "type": "message",
+        "text": "I got the same as you",
+        "user": "U15HRTAHL",
+        "ts": "1463523192.000143"
+    },
+    {
+        "type": "message",
+        "text": "I'm going home masturbating then going to the lib ",
+        "user": "U15HRTAHL",
+        "ts": "1463523226.000144"
+    },
+    {
+        "type": "message",
+        "text": "Neat ",
+        "user": "U15J5H60P",
+        "ts": "1463523308.000145"
+    },
+    {
+        "type": "message",
+        "text": "Think of Tommy ",
+        "user": "U15J5H60P",
+        "ts": "1463523320.000146"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15HRTAHL",
+        "ts": "1463523363.000147"
+    },
+    {
+        "type": "message",
+        "text": "I masturbate to Tommy all the time ",
+        "user": "U15HRTAHL",
+        "ts": "1463523375.000148"
+    },
+    {
+        "type": "message",
+        "text": "Go fuck yourself Andy",
+        "user": "U15HZ01QX",
+        "ts": "1463523421.000149"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1463523433.000150"
+    },
+    {
+        "type": "message",
+        "text": "I answered your question <https:\/\/freeuwmke.slack.com\/archives\/osprep\/p1463522768000142>",
+        "user": "U15HZ01QX",
+        "ts": "1463523453.000151",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/osprep\/p1463522768000142",
+                "fallback": "[May 17th, 2016 3:06 PM] andrew: ...",
+                "author_subname": "andrew",
+                "ts": "1463522768.000142",
+                "text": "...",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/andrew",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-03\/39971243460_f0095f9f23c108782ce4_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I was waiting on Joe",
+        "user": "U15J5H60P",
+        "ts": "1463523490.000153"
+    },
+    {
+        "type": "message",
+        "text": "But okay...",
+        "user": "U15J5H60P",
+        "ts": "1463523495.000154"
+    },
+    {
+        "type": "message",
+        "text": "But that too",
+        "user": "U15J5H60P",
+        "ts": "1463523506.000155"
+    },
+    {
+        "type": "message",
+        "text": "Where are you guys",
+        "user": "U15HRTAHL",
+        "ts": "1463523565.000156"
+    },
+    {
+        "type": "message",
+        "text": "Basement ",
+        "user": "U15J5H60P",
+        "ts": "1463523573.000157"
+    },
+    {
+        "type": "message",
+        "text": "Guys should not wear rings unless they're 250+ pounds or are married ",
+        "user": "U15HRTAHL",
+        "ts": "1463523855.000158"
+    },
+    {
+        "type": "message",
+        "text": "It just looks weird",
+        "user": "U15HRTAHL",
+        "ts": "1463523866.000159"
+    },
+    {
+        "type": "message",
+        "text": "They can do whatever they want",
+        "user": "U15J5H60P",
+        "ts": "1463523874.000160"
+    },
+    {
+        "type": "message",
+        "text": "Because they're men",
+        "user": "U15J5H60P",
+        "ts": "1463523879.000161"
+    },
+    {
+        "type": "message",
+        "text": "And they don't let society make decisions for them",
+        "user": "U15J5H60P",
+        "ts": "1463523887.000162"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463524169.000163"
+    },
+    {
+        "type": "message",
+        "text": "Joe did you lose any points in DB",
+        "user": "U15J5H60P",
+        "ts": "1463524705.000164"
+    },
+    {
+        "type": "message",
+        "text": "no cause hes a fraud",
+        "user": "U15HY5TG8",
+        "ts": "1463524715.000165"
+    },
+    {
+        "type": "message",
+        "text": "arent you guys sitting next to each other by now\/",
+        "user": "U15HY5TG8",
+        "ts": "1463524725.000166"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HY5TG8",
+        "ts": "1463524727.000167"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1463524730.000168"
+    },
+    {
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HY5TG8",
+        "ts": "1463524747.000169"
+    },
+    {
+        "type": "message",
+        "text": "now i see why lolol",
+        "user": "U15HY5TG8",
+        "ts": "1463524756.000170"
+    },
+    {
+        "type": "message",
+        "text": "Lolololol",
+        "user": "U15HRTAHL",
+        "ts": "1463524838.000171"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1463524854.000172"
+    },
+    {
+        "type": "message",
+        "text": "Im omw once I clean up",
+        "user": "U15HRTAHL",
+        "ts": "1463524863.000173"
+    },
+    {
+        "type": "message",
+        "text": "as i sent that, the pron tab updated and it was joe lol",
+        "user": "U15HY5TG8",
+        "ts": "1463524872.000174"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1463524872.000175"
+    },
+    {
+        "type": "message",
+        "text": "Hahahaha",
+        "user": "U15HRTAHL",
+        "ts": "1463524895.000176"
+    },
+    {
+        "type": "message",
+        "text": "Well. I have to get above a 50 to get a C in OS",
+        "user": "U15J5H60P",
+        "ts": "1463524899.000177"
+    },
+    {
+        "type": "message",
+        "text": "Can someone please do the quiz ",
+        "user": "U15J5H60P",
+        "ts": "1463524937.000178"
+    },
+    {
+        "type": "message",
+        "text": "i need a 65% for a C",
+        "user": "U15HY5TG8",
+        "ts": "1463525055.000179"
+    },
+    {
+        "type": "message",
+        "text": "...if theres no curve",
+        "user": "U15HY5TG8",
+        "ts": "1463525066.000180"
+    },
+    {
+        "type": "message",
+        "text": "wheres that picture of what we need to know?",
+        "user": "U15HY5TG8",
+        "ts": "1463526061.000181"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>:",
+        "user": "U15HY5TG8",
+        "ts": "1463526386.000182"
+    },
+    {
+        "type": "message",
+        "text": "In general ",
+        "user": "U15HZ01QX",
+        "ts": "1463526402.000183"
+    },
+    {
+        "type": "message",
+        "text": "Click on files",
+        "user": "U15HZ01QX",
+        "ts": "1463526409.000184"
+    },
+    {
+        "type": "message",
+        "text": "ahhhh ok thanks",
+        "user": "U15HY5TG8",
+        "ts": "1463526457.000185"
+    },
+    {
+        "type": "message",
+        "text": "what do we need to know equation wise?",
+        "user": "U15HY5TG8",
+        "ts": "1463527320.000186"
+    },
+    {
+        "type": "message",
+        "text": "Semaphore stuff is it I think",
+        "user": "U15HZ01QX",
+        "ts": "1463527371.000187"
+    },
+    {
+        "type": "message",
+        "text": "gotcha. im fucked. im relying on luck",
+        "user": "U15HY5TG8",
+        "ts": "1463527577.000188"
+    },
+    {
+        "type": "message",
+        "text": "Interrupt control does not provide mutual exclusion on multiprocessors: T\/F",
+        "user": "U15HY5TG8",
+        "ts": "1463529323.000189"
+    },
+    {
+        "type": "message",
+        "text": "no? ok cya",
+        "user": "U15HY5TG8",
+        "ts": "1463529607.000190"
+    },
+    {
+        "type": "message",
+        "text": "That question was already asked",
+        "user": "U15HRTAHL",
+        "ts": "1463530097.000191"
+    },
+    {
+        "type": "message",
+        "text": "o",
+        "user": "U15HY5TG8",
+        "ts": "1463530113.000192"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1463530158.000193"
+    },
+    {
+        "type": "message",
+        "text": "damn deadlock is a long slideshow",
+        "user": "U15HY5TG8",
+        "ts": "1463532175.000194"
+    },
+    {
+        "type": "message",
+        "text": "damn theyre all long as shit lol",
+        "user": "U15HY5TG8",
+        "ts": "1463532275.000195"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HZ01QX",
+        "ts": "1463533108.000196"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HY5TG8",
+        "ts": "1463533125.000197"
+    },
+    {
+        "type": "message",
+        "text": "Are you at homevevan ",
+        "user": "U15HZ01QX",
+        "ts": "1463533147.000198"
+    },
+    {
+        "type": "message",
+        "text": "Everything is going over my head",
+        "user": "U15J5H60P",
+        "ts": "1463533154.000199"
+    },
+    {
+        "type": "message",
+        "text": "sure am",
+        "user": "U15HY5TG8",
+        "ts": "1463533161.000200"
+    },
+    {
+        "type": "message",
+        "text": "don’t tell Joe",
+        "user": "U15J5H60P",
+        "ts": "1463533174.000201"
+    },
+    {
+        "type": "message",
+        "text": "Cause he’s quizzing me",
+        "user": "U15J5H60P",
+        "ts": "1463533178.000202"
+    },
+    {
+        "type": "message",
+        "text": "dont tell joe what?",
+        "user": "U15HY5TG8",
+        "ts": "1463533196.000203"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: why?",
+        "user": "U15HY5TG8",
+        "ts": "1463533216.000204"
+    },
+    {
+        "type": "message",
+        "text": "I want your database book if you're not studying till tomorrow",
+        "user": "U15HZ01QX",
+        "ts": "1463533273.000205"
+    },
+    {
+        "type": "message",
+        "text": "what happens when you have 200kb to work with, 2 processes, each process requests 125kb at the same time?",
+        "user": "U15HY5TG8",
+        "ts": "1463533301.000206"
+    },
+    {
+        "type": "message",
+        "text": "sure as long as you bring it back at like 9am",
+        "user": "U15HY5TG8",
+        "ts": "1463533312.000207"
+    },
+    {
+        "type": "message",
+        "text": "huh",
+        "user": "U15HRTAHL",
+        "ts": "1463533349.000208"
+    },
+    {
+        "type": "message",
+        "text": "Okay that works",
+        "user": "U15HZ01QX",
+        "ts": "1463533350.000209"
+    },
+    {
+        "type": "message",
+        "text": "alrighty",
+        "user": "U15HY5TG8",
+        "ts": "1463533364.000210"
+    },
+    {
+        "type": "message",
+        "text": "When are you coming?",
+        "user": "U15HY5TG8",
+        "ts": "1463533614.000211"
+    },
+    {
+        "type": "message",
+        "text": "Sometime in the next hour",
+        "user": "U15HZ01QX",
+        "ts": "1463533829.000212"
+    },
+    {
+        "type": "message",
+        "text": "hokay",
+        "user": "U15HY5TG8",
+        "ts": "1463533997.000213"
+    },
+    {
+        "type": "message",
+        "text": "whats more important? little book of semaphores or stallings 7\/8?",
+        "user": "U15HY5TG8",
+        "ts": "1463536036.000214"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1463536065.000215"
+    },
+    {
+        "type": "message",
+        "text": "ok",
+        "user": "U15HY5TG8",
+        "ts": "1463536071.000216"
+    },
+    {
+        "type": "message",
+        "text": "I'd say do the stallings and just look over the semaphore quizzes",
+        "user": "U15HZ01QX",
+        "ts": "1463536141.000217"
+    },
+    {
+        "type": "message",
+        "text": "sounds good to me",
+        "user": "U15HY5TG8",
+        "ts": "1463536160.000218"
+    },
+    {
+        "type": "message",
+        "text": "Whos doing this quiz?",
+        "user": "U15HRTAHL",
+        "ts": "1463538618.000219"
+    },
+    {
+        "type": "message",
+        "text": "OS is taking too long so I think I'll pass on the database book",
+        "user": "U15HZ01QX",
+        "ts": "1463538621.000220"
+    },
+    {
+        "type": "message",
+        "text": ":nose:",
+        "user": "U15HRTAHL",
+        "ts": "1463538623.000221"
+    },
+    {
+        "type": "message",
+        "text": "Thanks tho Evan",
+        "user": "U15HZ01QX",
+        "ts": "1463538625.000222"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: you should do the quiz",
+        "user": "U15HRTAHL",
+        "ts": "1463538637.000223"
+    },
+    {
+        "type": "message",
+        "text": ":nose:",
+        "user": "U15J5H60P",
+        "ts": "1463538639.000224"
+    },
+    {
+        "type": "message",
+        "text": ":slightly_smiling_face:",
+        "user": "U15HRTAHL",
+        "ts": "1463538639.000225"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: alrighty",
+        "user": "U15HY5TG8",
+        "ts": "1463538648.000226"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: yes no?",
+        "user": "U15HRTAHL",
+        "ts": "1463538732.000227"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F19NMJ4CV",
+                "created": 1463538901,
+                "timestamp": 1463538901,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 57048,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F19NMJ4CV\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F19NMJ4CV\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NMJ4CV-6edc96242b\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NMJ4CV-6edc96242b\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NMJ4CV-6edc96242b\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 294,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NMJ4CV-6edc96242b\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 393,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NMJ4CV-6edc96242b\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 480,
+                "original_h": 587,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F19NMJ4CV\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F19NMJ4CV-7291092a92",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1463538903.000228"
+    },
+    {
+        "type": "message",
+        "text": "You're going to put all true down anyways",
+        "user": "U15HRTAHL",
+        "ts": "1463538945.000229"
+    },
+    {
+        "type": "message",
+        "text": "So? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1463539106.000230"
+    },
+    {
+        "type": "message",
+        "text": "So you should do that and give us the answers",
+        "user": "U15HRTAHL",
+        "ts": "1463539194.000231"
+    },
+    {
+        "type": "message",
+        "text": "<@U19HSQP3M>:",
+        "user": "U15HRTAHL",
+        "ts": "1463539568.000232"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15HRTAHL|joeythomaschaske> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/tHboKAHTfG5EdbNn4|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463539676.000233",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463540674.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Should evan take the quiz?",
+                "text": "Total Votes: 2",
+                "title": "Should evan take the quiz?",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: Yes\n   :thumbsup:  50%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: No\n   :thumbsup:  50%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15J5H60P",
+                    "U15HRTAHL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HY5TG8",
+                    "U15HZ01QX"
+                ],
+                "count": 3
+            },
+            {
+                "name": "middle_finger",
+                "users": [
+                    "U15HY5TG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: @evan ^",
+        "user": "U15HRTAHL",
+        "ts": "1463539744.000235"
+    },
+    {
+        "type": "message",
+        "text": "I took it",
+        "user": "U15HRTAHL",
+        "ts": "1463541030.000237"
+    },
+    {
+        "type": "message",
+        "text": "So did i. I was in the process of uploading it but it failed to upload",
+        "user": "U15HY5TG8",
+        "ts": "1463541111.000238"
+    },
+    {
+        "type": "message",
+        "text": "Asssssss",
+        "user": "U15J5H60P",
+        "ts": "1463541129.000239"
+    },
+    {
+        "type": "message",
+        "text": "I didn't hit sibmit yet",
+        "user": "U15HRTAHL",
+        "ts": "1463541132.000240",
+        "reactions": [
+            {
+                "name": "thinking_face",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This is exciting",
+        "user": "U15HZ01QX",
+        "ts": "1463541135.000241"
+    },
+    {
+        "type": "message",
+        "text": "Hey",
+        "user": "U15J5H60P",
+        "ts": "1463541146.000242"
+    },
+    {
+        "type": "message",
+        "text": "Well hold on then",
+        "user": "U15HY5TG8",
+        "ts": "1463541147.000243"
+    },
+    {
+        "type": "message",
+        "text": "No one give James the answers",
+        "user": "U15J5H60P",
+        "ts": "1463541150.000244"
+    },
+    {
+        "type": "message",
+        "text": "That’ll be exciting.",
+        "user": "U15J5H60P",
+        "ts": "1463541157.000245"
+    },
+    {
+        "type": "message",
+        "text": "why",
+        "user": "U15HY5TG8",
+        "ts": "1463541185.000246"
+    },
+    {
+        "type": "message",
+        "text": "Because he thinks it’s entertaining that we almost had unnecessary conflict.",
+        "user": "U15J5H60P",
+        "ts": "1463541227.000247"
+    },
+    {
+        "type": "message",
+        "text": "I don't remember saying that",
+        "user": "U15HZ01QX",
+        "ts": "1463541243.000248"
+    },
+    {
+        "type": "message",
+        "text": "well i didnt take it sooooo",
+        "user": "U15HY5TG8",
+        "ts": "1463541243.000249"
+    },
+    {
+        "type": "message",
+        "text": "or did i?",
+        "user": "U15HY5TG8",
+        "ts": "1463541247.000250"
+    },
+    {
+        "type": "message",
+        "text": "So what’s exciting, James?",
+        "user": "U15J5H60P",
+        "ts": "1463541249.000251"
+    },
+    {
+        "type": "message",
+        "text": "maybe not",
+        "user": "U15HY5TG8",
+        "ts": "1463541251.000252"
+    },
+    {
+        "type": "message",
+        "text": "The quiz Cold War ",
+        "user": "U15HZ01QX",
+        "ts": "1463541269.000253"
+    },
+    {
+        "type": "message",
+        "text": "Is exciting",
+        "user": "U15HZ01QX",
+        "ts": "1463541275.000254"
+    },
+    {
+        "type": "message",
+        "text": "I told lilly to fake a rape report",
+        "user": "U15HRTAHL",
+        "ts": "1463541284.000255",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "She just got out of an exam",
+        "user": "U15HRTAHL",
+        "ts": "1463541289.000256"
+    },
+    {
+        "type": "message",
+        "text": "on you?",
+        "user": "U15HY5TG8",
+        "ts": "1463541290.000257"
+    },
+    {
+        "type": "message",
+        "text": "Yes. An unnecessary conflict.",
+        "user": "U15J5H60P",
+        "ts": "1463541291.000258"
+    },
+    {
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1463541292.000259"
+    },
+    {
+        "type": "message",
+        "text": "What",
+        "user": "U15J5H60P",
+        "ts": "1463541293.000260"
+    },
+    {
+        "type": "message",
+        "text": "thatd be funny",
+        "user": "U15HY5TG8",
+        "ts": "1463541293.000261"
+    },
+    {
+        "type": "message",
+        "text": "The",
+        "user": "U15J5H60P",
+        "ts": "1463541294.000262"
+    },
+    {
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1463541295.000263"
+    },
+    {
+        "type": "message",
+        "text": "10pm exam",
+        "user": "U15HRTAHL",
+        "ts": "1463541297.000264"
+    },
+    {
+        "type": "message",
+        "text": "wtf",
+        "user": "U15HRTAHL",
+        "ts": "1463541300.000265"
+    },
+    {
+        "type": "message",
+        "text": "She deserves it.",
+        "user": "U15J5H60P",
+        "ts": "1463541305.000266"
+    },
+    {
+        "type": "message",
+        "text": "something is not right with that",
+        "user": "U15HRTAHL",
+        "ts": "1463541305.000267"
+    },
+    {
+        "type": "message",
+        "text": "joe did you submit?",
+        "user": "U15HY5TG8",
+        "ts": "1463541313.000268"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1463541315.000269"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, she’s actually going to cheat on you.",
+        "user": "U15J5H60P",
+        "ts": "1463541321.000270"
+    },
+    {
+        "type": "message",
+        "text": "Which is why you should’ve dumped her in the first place.",
+        "user": "U15J5H60P",
+        "ts": "1463541329.000271"
+    },
+    {
+        "type": "message",
+        "text": "Sometimes conflict is necessary ",
+        "user": "U15HZ01QX",
+        "ts": "1463541337.000272"
+    },
+    {
+        "type": "message",
+        "text": "I knew this was going to happen.",
+        "user": "U15J5H60P",
+        "ts": "1463541338.000273"
+    },
+    {
+        "type": "message",
+        "text": "So I took the quiz. All answers are true except 9 and 13.",
+        "user": "U15J5H60P",
+        "ts": "1463541363.000274"
+    },
+    {
+        "type": "message",
+        "text": "bs",
+        "user": "U15HY5TG8",
+        "ts": "1463541375.000275"
+    },
+    {
+        "type": "message",
+        "text": "There’s 24 questions.",
+        "user": "U15J5H60P",
+        "ts": "1463541378.000276"
+    },
+    {
+        "type": "message",
+        "text": "so",
+        "user": "U15HZ01QX",
+        "ts": "1463541383.000277"
+    },
+    {
+        "type": "message",
+        "text": "ha you lying fgt",
+        "user": "U15HY5TG8",
+        "ts": "1463541385.000278"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463541387.000279"
+    },
+    {
+        "type": "message",
+        "text": "pics",
+        "user": "U15HRTAHL",
+        "ts": "1463541388.000280"
+    },
+    {
+        "type": "message",
+        "text": "we know what happened when james did that bs",
+        "user": "U15HRTAHL",
+        "ts": "1463541397.000281"
+    },
+    {
+        "type": "message",
+        "text": "Ayeeeee",
+        "user": "U15HZ01QX",
+        "ts": "1463541413.000282"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fonz",
+        "user": "U15HZ01QX",
+        "ts": "1463541427.000283",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/NZidR3xG67sEU>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/NZidR3xG67sEU\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1849656,
+                "is_animated": true,
+                "title": "fonz",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/NZidR3xG67sEU"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "wait",
+        "user": "U15HRTAHL",
+        "ts": "1463541430.000284"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1463541431.000285"
+    },
+    {
+        "type": "message",
+        "text": "it is 9 and 13",
+        "user": "U15HRTAHL",
+        "ts": "1463541433.000286"
+    },
+    {
+        "type": "message",
+        "text": "just submitted it",
+        "user": "U15HRTAHL",
+        "ts": "1463541437.000287"
+    },
+    {
+        "type": "message",
+        "text": "fgt",
+        "user": "U15HY5TG8",
+        "ts": "1463541443.000288"
+    },
+    {
+        "type": "message",
+        "text": "This is why james should’ve taken the quiz.",
+        "user": "U15J5H60P",
+        "ts": "1463541467.000289"
+    },
+    {
+        "type": "message",
+        "text": "for redemption",
+        "user": "U15HRTAHL",
+        "ts": "1463541475.000290"
+    },
+    {
+        "type": "message",
+        "text": "9 and 13 lulz",
+        "user": "U15HY5TG8",
+        "ts": "1463541524.000291"
+    },
+    {
+        "type": "message",
+        "text": "what about the multiple choice?",
+        "user": "U15HY5TG8",
+        "ts": "1463541542.000292"
+    },
+    {
+        "type": "message",
+        "text": "I just picked the first one for all of them.",
+        "user": "U15J5H60P",
+        "ts": "1463541559.000293"
+    },
+    {
+        "type": "message",
+        "text": "joe did you submit?",
+        "user": "U15HY5TG8",
+        "ts": "1463541567.000294"
+    },
+    {
+        "type": "message",
+        "text": "*_JOE_*",
+        "user": "U15HY5TG8",
+        "ts": "1463541593.000296"
+    },
+    {
+        "type": "message",
+        "text": "bruh get that shit checked",
+        "user": "U15HY5TG8",
+        "ts": "1463541606.000297"
+    },
+    {
+        "type": "message",
+        "text": "A 20 mb movie?",
+        "user": "U15HZ01QX",
+        "ts": "1463541628.000299"
+    },
+    {
+        "type": "message",
+        "text": "wtf is that",
+        "user": "U15HRTAHL",
+        "ts": "1463541633.000300"
+    },
+    {
+        "type": "message",
+        "text": "its of me jackin off",
+        "user": "U15HY5TG8",
+        "ts": "1463541643.000301"
+    },
+    {
+        "type": "message",
+        "text": "If it is delete it",
+        "user": "U15HZ01QX",
+        "ts": "1463541666.000302"
+    },
+    {
+        "type": "message",
+        "text": "Cuz that's gross",
+        "user": "U15HZ01QX",
+        "ts": "1463541672.000303"
+    },
+    {
+        "type": "message",
+        "text": "Evan",
+        "user": "U15J5H60P",
+        "ts": "1463541672.000304"
+    },
+    {
+        "type": "message",
+        "text": "What",
+        "user": "U15J5H60P",
+        "ts": "1463541673.000305"
+    },
+    {
+        "type": "message",
+        "text": "The",
+        "user": "U15J5H60P",
+        "ts": "1463541674.000306"
+    },
+    {
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1463541675.000307"
+    },
+    {
+        "type": "message",
+        "text": "Yeah.",
+        "user": "U15J5H60P",
+        "ts": "1463541680.000308"
+    },
+    {
+        "type": "message",
+        "text": "Let’s delete that. You should get",
+        "user": "U15J5H60P",
+        "ts": "1463541688.000309"
+    },
+    {
+        "type": "message",
+        "text": "open it and youll see",
+        "user": "U15HY5TG8",
+        "ts": "1463541689.000310"
+    },
+    {
+        "type": "message",
+        "text": "your dick checked out.",
+        "user": "U15J5H60P",
+        "ts": "1463541692.000311"
+    },
+    {
+        "type": "message",
+        "text": "nah i check it 3 times daily. still works",
+        "user": "U15HY5TG8",
+        "ts": "1463541708.000312"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1463541712.000313"
+    },
+    {
+        "type": "message",
+        "text": "But seriously",
+        "user": "U15J5H60P",
+        "ts": "1463541715.000314"
+    },
+    {
+        "type": "message",
+        "text": "wtf",
+        "user": "U15J5H60P",
+        "ts": "1463541716.000315"
+    },
+    {
+        "type": "message",
+        "text": "open the damn video you clowns",
+        "user": "U15HY5TG8",
+        "ts": "1463541725.000316"
+    },
+    {
+        "type": "message",
+        "text": "Lmao I already did",
+        "user": "U15J5H60P",
+        "ts": "1463541733.000317"
+    },
+    {
+        "type": "message",
+        "text": "it is the key to your success",
+        "user": "U15HY5TG8",
+        "ts": "1463541737.000318"
+    },
+    {
+        "type": "message",
+        "text": "told you guys it was 9 and 13",
+        "user": "U15HRTAHL",
+        "ts": "1463541738.000319",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1463541743.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Thanks, Ev.",
+        "user": "U15J5H60P",
+        "ts": "1463541740.000320"
+    },
+    {
+        "type": "message",
+        "text": "right you did <@U15HRTAHL>",
+        "user": "U15HY5TG8",
+        "ts": "1463541773.000322"
+    },
+    {
+        "type": "message",
+        "text": "uploading a video was way fucking harder than it had to be",
+        "user": "U15HY5TG8",
+        "ts": "1463541810.000323"
+    },
+    {
+        "type": "message",
+        "text": "James",
+        "user": "U15HRTAHL",
+        "ts": "1463541826.000324"
+    },
+    {
+        "type": "message",
+        "text": "Why do you have white balls?",
+        "user": "U15HRTAHL",
+        "ts": "1463541831.000325"
+    },
+    {
+        "type": "message",
+        "text": "that shit should be black",
+        "user": "U15HRTAHL",
+        "ts": "1463541836.000326"
+    },
+    {
+        "type": "message",
+        "text": "Also",
+        "user": "U15HRTAHL",
+        "ts": "1463541846.000327"
+    },
+    {
+        "type": "message",
+        "text": "you need to shave those",
+        "user": "U15HRTAHL",
+        "ts": "1463541852.000328"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1463541854.000329"
+    },
+    {
+        "type": "message",
+        "text": "truth",
+        "user": "U15HY5TG8",
+        "ts": "1463541858.000330"
+    },
+    {
+        "type": "message",
+        "text": "Fuckkkkkkkkk",
+        "user": "U15J5H60P",
+        "ts": "1463541942.000331"
+    },
+    {
+        "type": "message",
+        "text": "I got one wrong",
+        "user": "U15J5H60P",
+        "ts": "1463541947.000332"
+    },
+    {
+        "type": "message",
+        "text": "Oops",
+        "user": "U15J5H60P",
+        "ts": "1463541948.000333"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1463541948.000334"
+    },
+    {
+        "type": "message",
+        "text": "wtf",
+        "user": "U15HY5TG8",
+        "ts": "1463541953.000335"
+    },
+    {
+        "type": "message",
+        "text": "makes you look human at least",
+        "user": "U15HY5TG8",
+        "ts": "1463541962.000336"
+    },
+    {
+        "type": "message",
+        "text": "I misread one",
+        "user": "U15J5H60P",
+        "ts": "1463541964.000337"
+    },
+    {
+        "type": "message",
+        "text": "I found an OSX bug",
+        "user": "U15HRTAHL",
+        "ts": "1463541988.000338"
+    },
+    {
+        "type": "message",
+        "text": "eeeeediot",
+        "user": "U15HY5TG8",
+        "ts": "1463542014.000339"
+    },
+    {
+        "type": "message",
+        "text": "Old buddy from Hartford thought I'd like the picture <https:\/\/freeuwmke.slack.com\/archives\/osprep\/p1463541831000325>",
+        "user": "U15HZ01QX",
+        "ts": "1463542032.000340",
+        "attachments": [
+            {
+                "color": "4D394B",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/osprep\/p1463541831000325",
+                "fallback": "[May 17th, 2016 8:23 PM] joeythomaschaske: Why do you have white balls?",
+                "author_subname": "joeythomaschaske",
+                "ts": "1463541831.000325",
+                "text": "Why do you have white balls?",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/joeythomaschaske",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F19NUDQBX",
+                "created": 1463542027,
+                "timestamp": 1463542027,
+                "name": "Screen Shot 2016-05-17 at 10.26.39 PM.png",
+                "title": "Screen Shot 2016-05-17 at 10.26.39 PM.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 4250248,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F19NUDQBX\/screen_shot_2016-05-17_at_10.26.39_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F19NUDQBX\/download\/screen_shot_2016-05-17_at_10.26.39_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 226,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 301,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 452,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 602,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F19NUDQBX-5377d24cd1\/screen_shot_2016-05-17_at_10.26.39_pm_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 642,
+                "image_exif_rotation": 1,
+                "original_w": 2870,
+                "original_h": 1800,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F19NUDQBX\/screen_shot_2016-05-17_at_10.26.39_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F19NUDQBX-705c0ed289",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1463542033.000342"
+    },
+    {
+        "type": "message",
+        "text": "The new split screen feature",
+        "user": "U15HRTAHL",
+        "ts": "1463542039.000343"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1463542044.000344"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: ++",
+        "user": "U15HRTAHL",
+        "ts": "1463542046.000345"
+    },
+    {
+        "type": "message",
+        "text": "How’d you get a picture of Joe’s balls?",
+        "user": "U15J5H60P",
+        "ts": "1463542081.000347"
+    },
+    {
+        "type": "message",
+        "text": "And seriously",
+        "user": "U15J5H60P",
+        "ts": "1463542087.000348"
+    },
+    {
+        "type": "message",
+        "text": "Those things look diseased. Who’s are they really?",
+        "user": "U15J5H60P",
+        "ts": "1463542098.000349"
+    },
+    {
+        "type": "message",
+        "text": "interwebs",
+        "user": "U15HY5TG8",
+        "ts": "1463542106.000350"
+    },
+    {
+        "type": "message",
+        "text": "Gross",
+        "user": "U15J5H60P",
+        "ts": "1463542110.000351"
+    },
+    {
+        "type": "message",
+        "text": "'Chaching'",
+        "user": "U15HZ01QX",
+        "ts": "1463542123.000352"
+    },
+    {
+        "type": "message",
+        "text": "hows OS studying going?",
+        "user": "U15HY5TG8",
+        "ts": "1463542136.000353"
+    },
+    {
+        "type": "message",
+        "text": "Bad",
+        "user": "U15HZ01QX",
+        "ts": "1463542139.000354"
+    },
+    {
+        "type": "message",
+        "text": "Although the quiz helps",
+        "user": "U15HZ01QX",
+        "ts": "1463542146.000355"
+    },
+    {
+        "type": "message",
+        "text": "Jesus christ Goyal needs to clean up the d2l quiz page",
+        "user": "U15HRTAHL",
+        "ts": "1463542164.000356"
+    },
+    {
+        "type": "message",
+        "text": "I had 3 panic attacks",
+        "user": "U15HRTAHL",
+        "ts": "1463542168.000357"
+    },
+    {
+        "type": "message",
+        "text": "with quizes not taken in may",
+        "user": "U15HRTAHL",
+        "ts": "1463542177.000358"
+    },
+    {
+        "type": "message",
+        "text": "from 2015 and 2014",
+        "user": "U15HRTAHL",
+        "ts": "1463542182.000359"
+    },
+    {
+        "type": "message",
+        "text": "lolol ik right",
+        "user": "U15HY5TG8",
+        "ts": "1463542187.000360"
+    },
+    {
+        "type": "message",
+        "text": "so fucking laaaaaazy",
+        "user": "U15HY5TG8",
+        "ts": "1463542191.000361"
+    },
+    {
+        "type": "message",
+        "text": "lazier than me and thats hard to beat",
+        "user": "U15HY5TG8",
+        "ts": "1463542198.000362"
+    },
+    {
+        "type": "message",
+        "text": "* just don't understand why there are 70 of these slides",
+        "user": "U15HZ01QX",
+        "ts": "1463542202.000363"
+    },
+    {
+        "type": "message",
+        "text": "We only have to go up to slide 27",
+        "user": "U15J5H60P",
+        "ts": "1463542224.000364"
+    },
+    {
+        "type": "message",
+        "text": "Oh right",
+        "user": "U15HZ01QX",
+        "ts": "1463542232.000365"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1463542234.000366"
+    },
+    {
+        "type": "message",
+        "text": "Was that you that mentioned that this morning?",
+        "user": "U15HZ01QX",
+        "ts": "1463542248.000367"
+    },
+    {
+        "type": "message",
+        "text": "Oh it was an email",
+        "user": "U15HZ01QX",
+        "ts": "1463542265.000368"
+    },
+    {
+        "type": "message",
+        "text": "which slides is this?",
+        "user": "U15HRTAHL",
+        "ts": "1463542265.000369"
+    },
+    {
+        "type": "message",
+        "text": "Stallings 8",
+        "user": "U15HZ01QX",
+        "ts": "1463542271.000370"
+    },
+    {
+        "type": "message",
+        "text": "gotcha thanks",
+        "user": "U15HRTAHL",
+        "ts": "1463542295.000371"
+    },
+    {
+        "type": "message",
+        "text": "pay attention",
+        "user": "U15HY5TG8",
+        "ts": "1463542327.000372",
+        "reactions": [
+            {
+                "name": "control_knobs",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Change your name Evan",
+        "user": "U15HZ01QX",
+        "ts": "1463542372.000373"
+    },
+    {
+        "type": "message",
+        "text": "the fuck is that thing?",
+        "user": "U15HY5TG8",
+        "ts": "1463542380.000374"
+    },
+    {
+        "type": "message",
+        "text": "Control Knobs",
+        "user": "U15J5H60P",
+        "ts": "1463542387.000375"
+    },
+    {
+        "type": "message",
+        "text": "Can you not read?",
+        "user": "U15J5H60P",
+        "ts": "1463542389.000376"
+    },
+    {
+        "type": "message",
+        "text": "at least the @",
+        "user": "U15HRTAHL",
+        "ts": "1463542390.000377"
+    },
+    {
+        "type": "message",
+        "text": "ik but why",
+        "user": "U15HY5TG8",
+        "ts": "1463542392.000378"
+    },
+    {
+        "type": "message",
+        "text": "Cuz you're a control freak",
+        "user": "U15HZ01QX",
+        "ts": "1463542404.000379"
+    },
+    {
+        "type": "message",
+        "text": "nawww",
+        "user": "U15HY5TG8",
+        "ts": "1463542422.000380"
+    },
+    {
+        "type": "message",
+        "text": "better?",
+        "user": "U15HY5TG8",
+        "ts": "1463542570.000381"
+    },
+    {
+        "type": "message",
+        "text": "Evan just change your @ name to Evan",
+        "user": "U15HZ01QX",
+        "ts": "1463542593.000382"
+    },
+    {
+        "type": "message",
+        "text": ":control_knobs:",
+        "user": "U15HY5TG8",
+        "ts": "1463542669.000383"
+    },
+    {
+        "type": "message",
+        "text": "something that starts with an e",
+        "user": "U15HRTAHL",
+        "ts": "1463542677.000384"
+    },
+    {
+        "type": "message",
+        "text": "fine",
+        "user": "U15HY5TG8",
+        "ts": "1463542743.000385"
+    },
+    {
+        "type": "message",
+        "text": "How about @ev",
+        "user": "U15HZ01QX",
+        "ts": "1463542777.000386"
+    },
+    {
+        "type": "message",
+        "text": "you guys dont tag me anyways",
+        "user": "U15HY5TG8",
+        "ts": "1463542777.000387"
+    },
+    {
+        "type": "message",
+        "text": "nah i got it figured out",
+        "user": "U15HY5TG8",
+        "ts": "1463542785.000388"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HRTAHL",
+        "ts": "1463542791.000389"
+    },
+    {
+        "type": "message",
+        "text": "Cuz your names are shit stains on our  eyes",
+        "user": "U15HZ01QX",
+        "ts": "1463542794.000390"
+    },
+    {
+        "type": "message",
+        "text": "noted",
+        "user": "U15HY5TG8",
+        "ts": "1463542807.000391"
+    },
+    {
+        "type": "message",
+        "text": "Spotify should give out free headphones once a year to premium users",
+        "user": "U15HRTAHL",
+        "ts": "1463542807.000392",
+        "reactions": [
+            {
+                "name": "headphones",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            },
+            {
+                "name": "musical_note",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I almost cancelled my spotify because I don't have headphones",
+        "user": "U15HRTAHL",
+        "ts": "1463542822.000393",
+        "reactions": [
+            {
+                "name": "information_desk_person",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&lt;----inspired by james",
+        "user": "U15HY5TG8",
+        "ts": "1463542941.000394"
+    },
+    {
+        "type": "message",
+        "text": "^---and this",
+        "user": "U15HY5TG8",
+        "ts": "1463542956.000395"
+    },
+    {
+        "type": "message",
+        "text": "yup thats good",
+        "user": "U15HRTAHL",
+        "ts": "1463542977.000396"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>:",
+        "user": "U15J5H60P",
+        "ts": "1463543004.000397"
+    },
+    {
+        "type": "message",
+        "text": "….",
+        "user": "U15J5H60P",
+        "ts": "1463543006.000398"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1463543007.000399"
+    },
+    {
+        "type": "message",
+        "text": ".",
+        "user": "U15J5H60P",
+        "ts": "1463543008.000400"
+    },
+    {
+        "type": "message",
+        "text": ".",
+        "user": "U15J5H60P",
+        "ts": "1463543008.000401"
+    },
+    {
+        "type": "message",
+        "text": ".",
+        "user": "U15J5H60P",
+        "ts": "1463543008.000402"
+    },
+    {
+        "type": "message",
+        "text": ".",
+        "user": "U15J5H60P",
+        "ts": "1463543009.000403"
+    },
+    {
+        "type": "message",
+        "text": "-_-",
+        "user": "U15J5H60P",
+        "ts": "1463543012.000404"
+    },
+    {
+        "type": "message",
+        "text": "the rule was start with an \"e\"",
+        "user": "U15HY5TG8",
+        "ts": "1463543017.000405"
+    },
+    {
+        "type": "message",
+        "text": "Whatever.",
+        "user": "U15J5H60P",
+        "ts": "1463543022.000406"
+    },
+    {
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1463543022.000407"
+    },
+    {
+        "type": "message",
+        "text": "yesh",
+        "user": "U15HRTAHL",
+        "ts": "1463543026.000408"
+    },
+    {
+        "type": "message",
+        "text": "Do you want those earbuds?",
+        "user": "U15J5H60P",
+        "ts": "1463543026.000409"
+    },
+    {
+        "type": "message",
+        "text": "nahhhh its fine",
+        "user": "U15HRTAHL",
+        "ts": "1463543032.000410"
+    },
+    {
+        "type": "message",
+        "text": "you guys dont tag me anyways lol",
+        "user": "U15HY5TG8",
+        "ts": "1463543032.000411"
+    },
+    {
+        "type": "message",
+        "text": "I'm sure mine will show up",
+        "user": "U15HRTAHL",
+        "ts": "1463543036.000412"
+    },
+    {
+        "type": "message",
+        "text": "I have them right here.",
+        "user": "U15J5H60P",
+        "ts": "1463543037.000413"
+    },
+    {
+        "type": "message",
+        "text": "It’s not a big deal.",
+        "user": "U15J5H60P",
+        "ts": "1463543040.000414"
+    },
+    {
+        "type": "message",
+        "text": "maybe",
+        "user": "U15HRTAHL",
+        "ts": "1463543043.000415"
+    },
+    {
+        "type": "message",
+        "text": "bring me some",
+        "user": "U15HY5TG8",
+        "ts": "1463543048.000416"
+    },
+    {
+        "type": "message",
+        "text": "I have those physics exams",
+        "user": "U15HRTAHL",
+        "ts": "1463543051.000417"
+    },
+    {
+        "type": "message",
+        "text": "we could do a swaparoo",
+        "user": "U15HRTAHL",
+        "ts": "1463543059.000418"
+    },
+    {
+        "type": "message",
+        "text": "brt",
+        "user": "U15J5H60P",
+        "ts": "1463543089.000419"
+    },
+    {
+        "type": "message",
+        "text": "kk",
+        "user": "U15HRTAHL",
+        "ts": "1463543093.000420"
+    },
+    {
+        "type": "message",
+        "text": "whats the most common producer of page faults?",
+        "user": "U15HZ01QX",
+        "ts": "1463543190.000421"
+    },
+    {
+        "type": "message",
+        "text": "faulty pages",
+        "user": "U15HRTAHL",
+        "ts": "1463543295.000422"
+    },
+    {
+        "type": "message",
+        "text": "data not in memory that needs to be used",
+        "user": "U15HRTAHL",
+        "ts": "1463543315.000423"
+    },
+    {
+        "type": "message",
+        "text": "close enough",
+        "user": "U15HZ01QX",
+        "ts": "1463543345.000424"
+    },
+    {
+        "type": "message",
+        "text": "is anyone going to try on that bonus?",
+        "user": "U15HRTAHL",
+        "ts": "1463543409.000425"
+    },
+    {
+        "type": "message",
+        "text": "What bonus",
+        "user": "U15HZ01QX",
+        "ts": "1463543493.000426"
+    },
+    {
+        "type": "message",
+        "text": "??",
+        "user": "U15HRTAHL",
+        "ts": "1463543512.000427"
+    },
+    {
+        "type": "message",
+        "text": "what do you mean what bonus?",
+        "user": "U15HRTAHL",
+        "ts": "1463543516.000428"
+    },
+    {
+        "type": "message",
+        "text": "That",
+        "user": "U15HZ01QX",
+        "ts": "1463543723.000429"
+    },
+    {
+        "type": "message",
+        "text": "what section is page stuff?",
+        "user": "U15HY5TG8",
+        "ts": "1463543740.000430"
+    },
+    {
+        "type": "message",
+        "text": "8?",
+        "user": "U15HY5TG8",
+        "ts": "1463543742.000431"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1463543858.000432"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: he's giving us a bonus question",
+        "user": "U15HRTAHL",
+        "ts": "1463543869.000433"
+    },
+    {
+        "type": "message",
+        "text": "its going to be like HW4",
+        "user": "U15HY5TG8",
+        "ts": "1463544024.000434"
+    },
+    {
+        "type": "message",
+        "text": "applications of semaphores",
+        "user": "U15HRTAHL",
+        "ts": "1463544039.000435"
+    },
+    {
+        "type": "message",
+        "text": "We'll probably no",
+        "user": "U15HZ01QX",
+        "ts": "1463544067.000436"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463544075.000437"
+    },
+    {
+        "type": "message",
+        "text": "coffee number 1",
+        "user": "U15HY5TG8",
+        "ts": "1463544107.000438"
+    },
+    {
+        "type": "message",
+        "text": "line number 2",
+        "user": "U15HRTAHL",
+        "ts": "1463544117.000439"
+    },
+    {
+        "type": "message",
+        "text": "You're staying up late?",
+        "user": "U15HZ01QX",
+        "ts": "1463544129.000440"
+    },
+    {
+        "type": "message",
+        "text": "I was just gonna get up at 7",
+        "user": "U15HZ01QX",
+        "ts": "1463544135.000441"
+    },
+    {
+        "type": "message",
+        "text": "I’m better at staying up late than getting up early.",
+        "user": "U15J5H60P",
+        "ts": "1463544149.000442"
+    },
+    {
+        "type": "message",
+        "text": "lol and i will prob do both",
+        "user": "U15HY5TG8",
+        "ts": "1463544156.000443"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HZ01QX",
+        "ts": "1463544175.000444"
+    },
+    {
+        "type": "message",
+        "text": "I wish Hosseini taught this class",
+        "user": "U15HRTAHL",
+        "ts": "1463544177.000445"
+    },
+    {
+        "type": "message",
+        "text": "Now I feel like a slack",
+        "user": "U15HZ01QX",
+        "ts": "1463544185.000446"
+    },
+    {
+        "type": "message",
+        "text": "Just put a sign on the door that says no exam",
+        "user": "U15HRTAHL",
+        "ts": "1463544188.000447"
+    },
+    {
+        "type": "message",
+        "text": "I guess I'm staying up",
+        "user": "U15HZ01QX",
+        "ts": "1463544194.000448"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "Oh thats right, I put that there to remind me this morning!",
+        "user": "U15HRTAHL",
+        "ts": "1463544209.000449"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: ^",
+        "user": "U15HRTAHL",
+        "ts": "1463544216.000450"
+    },
+    {
+        "type": "message",
+        "text": "lololol",
+        "user": "U15J5H60P",
+        "ts": "1463544232.000451"
+    },
+    {
+        "type": "message",
+        "text": "no matter what time i go to bed i still wake up at 6:30 or 7",
+        "user": "U15HY5TG8",
+        "ts": "1463544247.000452"
+    },
+    {
+        "type": "message",
+        "text": "Lucky",
+        "user": "U15J5H60P",
+        "ts": "1463544351.000453"
+    },
+    {
+        "type": "message",
+        "text": "no its not. i have about 5 years of sleep backlogged",
+        "user": "U15HY5TG8",
+        "ts": "1463544402.000454"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15J5H60P",
+        "ts": "1463544419.000455"
+    },
+    {
+        "type": "message",
+        "text": "Welp",
+        "user": "U15HRTAHL",
+        "ts": "1463544449.000456"
+    },
+    {
+        "type": "message",
+        "text": "I started drinking",
+        "user": "U15HRTAHL",
+        "ts": "1463544454.000457"
+    },
+    {
+        "type": "message",
+        "text": "can someone explain 24 and 25 to me",
+        "user": "U15HZ01QX",
+        "ts": "1463544528.000458",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1463544545.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "NS?",
+        "user": "U15HRTAHL",
+        "ts": "1463544536.000459"
+    },
+    {
+        "type": "message",
+        "text": "The fuck are you talking about",
+        "user": "U15J5H60P",
+        "ts": "1463544540.000460"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463544542.000461"
+    },
+    {
+        "type": "message",
+        "text": "someone hit caps lock",
+        "user": "U15HRTAHL",
+        "ts": "1463544548.000463"
+    },
+    {
+        "type": "message",
+        "text": "on the quiz",
+        "user": "U15HZ01QX",
+        "ts": "1463544551.000464"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1463544554.000465"
+    },
+    {
+        "type": "message",
+        "text": "I haven't started studying quizzes yet",
+        "user": "U15HRTAHL",
+        "ts": "1463544566.000466"
+    },
+    {
+        "type": "message",
+        "text": "u just took it",
+        "user": "U15HZ01QX",
+        "ts": "1463544577.000467"
+    },
+    {
+        "type": "message",
+        "text": "??",
+        "user": "U15HRTAHL",
+        "ts": "1463544584.000468"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1463544586.000469"
+    },
+    {
+        "type": "message",
+        "text": "I coped the trues",
+        "user": "U15HRTAHL",
+        "ts": "1463544590.000470"
+    },
+    {
+        "type": "message",
+        "text": "and the falses",
+        "user": "U15HRTAHL",
+        "ts": "1463544592.000471"
+    },
+    {
+        "type": "message",
+        "text": "and they explain it in the slides",
+        "user": "U15HZ01QX",
+        "ts": "1463544598.000472"
+    },
+    {
+        "type": "message",
+        "text": "great",
+        "user": "U15HRTAHL",
+        "ts": "1463544602.000473"
+    },
+    {
+        "type": "message",
+        "text": "I didn't read any of the questions",
+        "user": "U15HRTAHL",
+        "ts": "1463544609.000474"
+    },
+    {
+        "type": "message",
+        "text": "Literally matched numbers up",
+        "user": "U15HRTAHL",
+        "ts": "1463544618.000475"
+    },
+    {
+        "type": "message",
+        "text": "do you mind?",
+        "user": "U15HZ01QX",
+        "ts": "1463544622.000476"
+    },
+    {
+        "type": "message",
+        "text": "bleh",
+        "user": "U15HRTAHL",
+        "ts": "1463544626.000477"
+    },
+    {
+        "type": "message",
+        "text": "I suppose",
+        "user": "U15HRTAHL",
+        "ts": "1463544628.000478"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I have no idea about those",
+        "user": "U15HRTAHL",
+        "ts": "1463544645.000479"
+    },
+    {
+        "type": "message",
+        "text": "I wonder if we should snoop through those other quizzes on d2l",
+        "user": "U15HRTAHL",
+        "ts": "1463544657.000480"
+    },
+    {
+        "type": "message",
+        "text": "the ones not assigned to us",
+        "user": "U15HRTAHL",
+        "ts": "1463544662.000481"
+    },
+    {
+        "type": "message",
+        "text": "tommy did them tho",
+        "user": "U15HZ01QX",
+        "ts": "1463544673.000482"
+    },
+    {
+        "type": "message",
+        "text": "I mean they have to contain all the exam problems",
+        "user": "U15HRTAHL",
+        "ts": "1463544676.000483"
+    },
+    {
+        "type": "message",
+        "text": "just look on the drive",
+        "user": "U15HZ01QX",
+        "ts": "1463544682.000484"
+    },
+    {
+        "type": "message",
+        "text": "No cause theres some from 2014",
+        "user": "U15HRTAHL",
+        "ts": "1463544684.000485"
+    },
+    {
+        "type": "message",
+        "text": "oh",
+        "user": "U15HZ01QX",
+        "ts": "1463544688.000486"
+    },
+    {
+        "type": "message",
+        "text": "tommy didn't take those",
+        "user": "U15HRTAHL",
+        "ts": "1463544690.000487"
+    },
+    {
+        "type": "message",
+        "text": "hmm",
+        "user": "U15HZ01QX",
+        "ts": "1463544690.000488"
+    },
+    {
+        "type": "message",
+        "text": "so?",
+        "user": "U15HY5TG8",
+        "ts": "1463544692.000489"
+    },
+    {
+        "type": "message",
+        "text": "……………………………………………………………………………………...",
+        "user": "U15J5H60P",
+        "ts": "1463544695.000490"
+    },
+    {
+        "type": "message",
+        "text": "shut up andrew",
+        "user": "U15HY5TG8",
+        "ts": "1463544704.000491"
+    },
+    {
+        "type": "message",
+        "text": "i cant study anymore",
+        "user": "U15HY5TG8",
+        "ts": "1463544728.000492"
+    },
+    {
+        "type": "message",
+        "text": "im wingin it",
+        "user": "U15HY5TG8",
+        "ts": "1463544731.000493"
+    },
+    {
+        "type": "message",
+        "text": "I gotta piss",
+        "user": "U15HRTAHL",
+        "ts": "1463544757.000494"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy piss",
+        "user": "U15HRTAHL",
+        "ts": "1463544763.000495",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/PSKYK4lFt30li>",
+                "image_url": "http:\/\/media.giphy.com\/media\/PSKYK4lFt30li\/giphy-tumblr.gif",
+                "image_width": 500,
+                "image_height": 208,
+                "image_bytes": 1546983,
+                "is_animated": true,
+                "title": "piss",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/PSKYK4lFt30li"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolz",
+        "user": "U15HRTAHL",
+        "ts": "1463544768.000496"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1463544770.000497"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy ass",
+        "user": "U15J5H60P",
+        "ts": "1463544776.000498",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/wesley-sneijder-r0maJFJCvM8Pm>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/r0maJFJCvM8Pm\/giphy.gif",
+                "image_width": 390,
+                "image_height": 209,
+                "image_bytes": 836069,
+                "is_animated": true,
+                "title": "ass",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/wesley-sneijder-r0maJFJCvM8Pm"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fml",
+        "user": "U15HY5TG8",
+        "ts": "1463544942.000499",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/angry-monday-working-xiAqCzbB3eZvG>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/xiAqCzbB3eZvG\/giphy.gif",
+                "image_width": 200,
+                "image_height": 126,
+                "image_bytes": 1508550,
+                "is_animated": true,
+                "title": "fml",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/angry-monday-working-xiAqCzbB3eZvG"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fuck this",
+        "user": "U15J5H60P",
+        "ts": "1463544950.000500",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/soda-ginger-ale-dissapointment-XlbgAvNDXY9d6>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/XlbgAvNDXY9d6\/giphy.gif",
+                "image_width": 160,
+                "image_height": 160,
+                "image_bytes": 863704,
+                "is_animated": true,
+                "title": "fuck this",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/soda-ginger-ale-dissapointment-XlbgAvNDXY9d6"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lmao me right now",
+        "user": "U15HY5TG8",
+        "ts": "1463544953.000501"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fuck OS",
+        "user": "U15HY5TG8",
+        "ts": "1463544963.000502",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/p8xqs3pT63WVy>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/p8xqs3pT63WVy\/giphy.gif",
+                "image_width": 548,
+                "image_height": 972,
+                "image_bytes": 1371548,
+                "is_animated": true,
+                "title": "fuck OS",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/p8xqs3pT63WVy"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy i dont get it",
+        "user": "U15HY5TG8",
+        "ts": "1463544974.000503",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/imgur-wat-compilation-jqTOnv5NzWBLa>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/jqTOnv5NzWBLa\/giphy.gif",
+                "image_width": 500,
+                "image_height": 493,
+                "image_bytes": 1873274,
+                "is_animated": true,
+                "title": "i dont get it",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/imgur-wat-compilation-jqTOnv5NzWBLa"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy shitty gifs",
+        "user": "U15J5H60P",
+        "ts": "1463544983.000504",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/maudit-maudit-will-and-grace-megan-mullally-rTXITp6MF091e>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/rTXITp6MF091e\/giphy.gif",
+                "image_width": 240,
+                "image_height": 236,
+                "image_bytes": 509084,
+                "is_animated": true,
+                "title": "shitty gifs",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/maudit-maudit-will-and-grace-megan-mullally-rTXITp6MF091e"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy andy is gay",
+        "user": "U15HY5TG8",
+        "ts": "1463544988.000505",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/anderson-cooper-andy-cohen-92y-talks-uBfvmHzENS8pO>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/uBfvmHzENS8pO\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 650766,
+                "is_animated": true,
+                "title": "andy is gay",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/anderson-cooper-andy-cohen-92y-talks-uBfvmHzENS8pO"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy Evan is gayer",
+        "user": "U15J5H60P",
+        "ts": "1463544999.000506",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/evan-peters-peter-UwsqD4x8SpJqE>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/UwsqD4x8SpJqE\/giphy.gif",
+                "image_width": 160,
+                "image_height": 175,
+                "image_bytes": 390987,
+                "is_animated": true,
+                "title": "Evan is gayer",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/evan-peters-peter-UwsqD4x8SpJqE"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolol That’s what my hair looked like in high school",
+        "user": "U15J5H60P",
+        "ts": "1463545011.000507"
+    },
+    {
+        "type": "message",
+        "text": "thats pretty spot on",
+        "user": "U15HZ01QX",
+        "ts": "1463545035.000508"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fucked for an exam",
+        "user": "U15HRTAHL",
+        "ts": "1463545054.000509",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/supernatural-103hAorVrvx2Qo>",
+                "image_url": "http:\/\/media4.giphy.com\/media\/103hAorVrvx2Qo\/giphy.gif",
+                "image_width": 500,
+                "image_height": 260,
+                "image_bytes": 963046,
+                "is_animated": true,
+                "title": "fucked for an exam",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/supernatural-103hAorVrvx2Qo"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy operating systems exam",
+        "user": "U15HRTAHL",
+        "ts": "1463545096.000510",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/systems-operational-RaGGNMkCkJMK4>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/RaGGNMkCkJMK4\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 982932,
+                "is_animated": true,
+                "title": "operating systems exam",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/systems-operational-RaGGNMkCkJMK4"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I give Diana props",
+        "user": "U15HRTAHL",
+        "ts": "1463545110.000511"
+    },
+    {
+        "type": "message",
+        "text": "I wonder what her debt is at",
+        "user": "U15HRTAHL",
+        "ts": "1463545121.000512"
+    },
+    {
+        "type": "message",
+        "text": "Maybe she plans on blowing the bankers",
+        "user": "U15HRTAHL",
+        "ts": "1463545131.000513"
+    },
+    {
+        "type": "message",
+        "text": "that would be one damn expensive blow job",
+        "user": "U15HRTAHL",
+        "ts": "1463545141.000514"
+    },
+    {
+        "type": "message",
+        "text": "lololol prob",
+        "user": "U15HY5TG8",
+        "ts": "1463545155.000515"
+    },
+    {
+        "type": "message",
+        "text": "diana mention so no points",
+        "user": "U15HZ01QX",
+        "ts": "1463545248.000516"
+    },
+    {
+        "type": "message",
+        "text": "minusminus",
+        "user": "U15HZ01QX",
+        "ts": "1463545257.000517"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463545266.000518"
+    },
+    {
+        "type": "message",
+        "text": "I knew that was coming",
+        "user": "U15HRTAHL",
+        "ts": "1463545272.000519"
+    },
+    {
+        "type": "message",
+        "text": "just like a blowjob for Diana",
+        "user": "U15HRTAHL",
+        "ts": "1463545279.000520"
+    },
+    {
+        "type": "message",
+        "text": "did you do anything with her?",
+        "user": "U15HY5TG8",
+        "ts": "1463545290.000521"
+    },
+    {
+        "type": "message",
+        "text": "Goyal is gonna get one hell of a BJ",
+        "user": "U15HRTAHL",
+        "ts": "1463545290.000522"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1463545293.000523"
+    },
+    {
+        "type": "message",
+        "text": "I wish",
+        "user": "U15HRTAHL",
+        "ts": "1463545295.000524"
+    },
+    {
+        "type": "message",
+        "text": "weak",
+        "user": "U15HY5TG8",
+        "ts": "1463545296.000525"
+    },
+    {
+        "type": "message",
+        "text": "Gay",
+        "user": "U15J5H60P",
+        "ts": "1463545341.000526"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15HRTAHL|joeythomaschaske> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/rF9zYDWeDxPCHFzqZ|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463545387.000527",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463545685.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Programs can only have one absolute memory location",
+                "text": "Total Votes: 5",
+                "title": "Programs can only have one absolute memory location",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: true\n   :thumbsup::thumbsup:  40%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: false\n   :thumbsup::thumbsup::thumbsup:  60%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HZ01QX",
+                    "U15J5H60P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HZ01QX",
+                    "U15J5H60P",
+                    "U15HY5TG8"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Its false",
+        "user": "U15HRTAHL",
+        "ts": "1463545582.000532"
+    },
+    {
+        "type": "message",
+        "text": "That’s what I put.",
+        "user": "U15J5H60P",
+        "ts": "1463545592.000533"
+    },
+    {
+        "type": "message",
+        "text": "you fuckers voted twice",
+        "user": "U15HRTAHL",
+        "ts": "1463545597.000534"
+    },
+    {
+        "type": "message",
+        "text": "Evan didn't even vote",
+        "user": "U15HRTAHL",
+        "ts": "1463545606.000535"
+    },
+    {
+        "type": "message",
+        "text": "Well I’m not wrong.",
+        "user": "U15J5H60P",
+        "ts": "1463545612.000536"
+    },
+    {
+        "type": "message",
+        "text": "I’m just an asshole.",
+        "user": "U15J5H60P",
+        "ts": "1463545614.000537"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463545616.000538"
+    },
+    {
+        "type": "message",
+        "text": "you didnt have to say that <@U15J5H60P>. we know",
+        "user": "U15HY5TG8",
+        "ts": "1463545703.000540"
+    },
+    {
+        "type": "message",
+        "text": "I can't wait until an engineer becomes president",
+        "user": "U15HRTAHL",
+        "ts": "1463545738.000541"
+    },
+    {
+        "type": "message",
+        "text": "why",
+        "user": "U15HY5TG8",
+        "ts": "1463545744.000542"
+    },
+    {
+        "type": "message",
+        "text": "Our scientific research would increase more than it is",
+        "user": "U15HRTAHL",
+        "ts": "1463545779.000543"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15HRTAHL|joeythomaschaske> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/wrFDbf3zMEWySAZLa|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463545876.000544",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463546682.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Base Register + relative register - bounds register == physical location of memory",
+                "text": "Total Votes: 3",
+                "title": "Base Register + relative register - bounds register == physical location of memory",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: true\n   :thumbsup::thumbsup::thumbsup:  100%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: false\n   :hear_no_evil:  0%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HZ01QX",
+                    "U15HY5TG8",
+                    "U15J5H60P"
+                ],
+                "count": 4
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: <@U15HY5TG8> vote fuckers",
+        "user": "U15HRTAHL",
+        "ts": "1463546139.000546"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: goat fucker",
+        "user": "U15HRTAHL",
+        "ts": "1463546181.000548"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy goat fucker",
+        "user": "U15HY5TG8",
+        "ts": "1463546257.000549",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/goat-l41lS9LWWuf5Z42Oc>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/l41lS9LWWuf5Z42Oc\/giphy.gif",
+                "image_width": 267,
+                "image_height": 246,
+                "image_bytes": 1835775,
+                "is_animated": true,
+                "title": "goat fucker",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/goat-l41lS9LWWuf5Z42Oc"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "damn",
+        "user": "U15HZ01QX",
+        "ts": "1463546334.000550"
+    },
+    {
+        "type": "message",
+        "text": "The answer was false",
+        "user": "U15HRTAHL",
+        "ts": "1463546384.000551"
+    },
+    {
+        "type": "message",
+        "text": "whats the right answer?",
+        "user": "U15HY5TG8",
+        "ts": "1463546396.000552"
+    },
+    {
+        "type": "message",
+        "text": "Base Register + relative register = physical",
+        "user": "U15HRTAHL",
+        "ts": "1463546402.000553"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1463546417.000554"
+    },
+    {
+        "type": "message",
+        "text": "if Base Register + relative register &gt; bounds then you need to throw an interrupt and get the page",
+        "user": "U15HRTAHL",
+        "ts": "1463546422.000556"
+    },
+    {
+        "type": "message",
+        "text": "hokay",
+        "user": "U15HY5TG8",
+        "ts": "1463546431.000558"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HZ01QX",
+        "ts": "1463546512.000559"
+    },
+    {
+        "type": "message",
+        "text": "Did you guys have enemies in high school?",
+        "user": "U15HRTAHL",
+        "ts": "1463546515.000560"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HZ01QX",
+        "ts": "1463546521.000561"
+    },
+    {
+        "type": "message",
+        "text": "lol, james *was* the enemy",
+        "user": "U15HRTAHL",
+        "ts": "1463546531.000562"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "is",
+        "user": "U15HRTAHL",
+        "ts": "1463546535.000563"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HZ01QX",
+        "ts": "1463546537.000564"
+    },
+    {
+        "type": "message",
+        "text": "do we look like the kind of people to have enemies?",
+        "user": "U15HY5TG8",
+        "ts": "1463546554.000565"
+    },
+    {
+        "type": "message",
+        "text": "im not sure",
+        "user": "U15HRTAHL",
+        "ts": "1463546565.000566",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1463546567.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "actually yea lol i did",
+        "user": "U15HY5TG8",
+        "ts": "1463546577.000568"
+    },
+    {
+        "type": "message",
+        "text": "It could have been some guy that fucked your ex",
+        "user": "U15HRTAHL",
+        "ts": "1463546577.000569"
+    },
+    {
+        "type": "message",
+        "text": "thats my enemy",
+        "user": "U15HRTAHL",
+        "ts": "1463546585.000570"
+    },
+    {
+        "type": "message",
+        "text": "mine too except i didnt give a shit. my ex's new bfs hated me because she would come talk to me once they broke up",
+        "user": "U15HY5TG8",
+        "ts": "1463546615.000571"
+    },
+    {
+        "type": "message",
+        "text": "shes also the one i got to fuck last fall after 6 years of not",
+        "user": "U15HY5TG8",
+        "ts": "1463546639.000572"
+    },
+    {
+        "type": "message",
+        "text": "niceeeeee",
+        "user": "U15HRTAHL",
+        "ts": "1463546648.000573"
+    },
+    {
+        "type": "message",
+        "text": "yeaaaa lol in the fall she broke up with her bf....came over two weekends in a row....then got back together with her bf...sad sad girl",
+        "user": "U15HY5TG8",
+        "ts": "1463546735.000575"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15HY5TG8|eeeeeeeeeeeeeeeeeeeee> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/2idJXCwTQ4KkbfY9a|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463546932.000577",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463548435.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "memory protection requirement must be satisfied by the OS",
+                "text": "Total Votes: 4",
+                "title": "memory protection requirement must be satisfied by the OS",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: True\n   :thumbsup:  25%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: False\n   :thumbsup::thumbsup::thumbsup:  75%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15J5H60P"
+                ],
+                "count": 2
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HRTAHL",
+                    "U15HZ01QX",
+                    "U15J5H60P"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "god damnit evan",
+        "user": "U15HRTAHL",
+        "ts": "1463546958.000581"
+    },
+    {
+        "type": "message",
+        "text": "you can't vote on your own poll",
+        "user": "U15HRTAHL",
+        "ts": "1463546966.000582"
+    },
+    {
+        "type": "message",
+        "text": "i was trying to figure out why there was a \"1\" on each",
+        "user": "U15HY5TG8",
+        "ts": "1463546983.000583"
+    },
+    {
+        "type": "message",
+        "text": "hover",
+        "user": "U15HRTAHL",
+        "ts": "1463546988.000584"
+    },
+    {
+        "type": "message",
+        "text": "it was an accident damnit",
+        "user": "U15HY5TG8",
+        "ts": "1463547004.000585"
+    },
+    {
+        "type": "message",
+        "text": "Whats the answer evan",
+        "user": "U15HRTAHL",
+        "ts": "1463547210.000589"
+    },
+    {
+        "type": "message",
+        "text": "false",
+        "user": "U15HY5TG8",
+        "ts": "1463547302.000591"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: -- <@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1463547318.000592"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy shame based training",
+        "user": "U15HRTAHL",
+        "ts": "1463547330.000593",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/shame-walk-of-shuttle-12aQHLpDYHfJq8>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/12aQHLpDYHfJq8\/giphy.gif",
+                "image_width": 520,
+                "image_height": 250,
+                "image_bytes": 779283,
+                "is_animated": true,
+                "title": "shame based training",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/shame-walk-of-shuttle-12aQHLpDYHfJq8"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "i aint getting shit done for studying",
+        "user": "U15HY5TG8",
+        "ts": "1463547404.000594"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15HRTAHL|joeythomaschaske> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/3PYa2HRzhENY9dCgJ|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463547945.000598",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463548415.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "A disadvantage of breaking up a process is that not as many programs can be in main memory",
+                "text": "Total Votes: 5",
+                "title": "A disadvantage of breaking up a process is that not as many programs can be in main memory",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: true\n   :thumbsup::thumbsup:  40%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: false\n   :thumbsup::thumbsup::thumbsup:  60%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HZ01QX",
+                    "U15J5H60P"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HZ01QX",
+                    "U15HY5TG8",
+                    "U15J5H60P"
+                ],
+                "count": 4
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I say false",
+        "user": "U15HZ01QX",
+        "ts": "1463548328.000604"
+    },
+    {
+        "type": "message",
+        "text": "its false",
+        "user": "U15HRTAHL",
+        "ts": "1463548336.000605"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1463548451.000613"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy fuck yeah",
+        "user": "U15HZ01QX",
+        "ts": "1463548455.000614",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/season-16-the-simpsons-16x3-xT5LMPw4133KKkpzEc>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/xT5LMPw4133KKkpzEc\/giphy.gif",
+                "image_width": 480,
+                "image_height": 362,
+                "image_bytes": 1514322,
+                "is_animated": true,
+                "title": "fuck yeah",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/season-16-the-simpsons-16x3-xT5LMPw4133KKkpzEc"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Gay",
+        "user": "U15J5H60P",
+        "ts": "1463548469.000616"
+    },
+    {
+        "bot_id": "B19K7MZQV",
+        "type": "message",
+        "text": "<@U15HRTAHL|joeythomaschaske> used `\/poll`!\nVote using the emoji reactions below. View results <https:\/\/app.polly.ai\/slackvote\/h3JiPojrK75wZGXSA|in your browser>",
+        "user": "U19HSQP3M",
+        "ts": "1463548576.000617",
+        "edited": {
+            "user": "U19HSQP3M",
+            "ts": "1463550755.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "Thrashing is not being able to load a program into main memory because of fragmentation",
+                "text": "Total Votes: 3",
+                "title": "Thrashing is not being able to load a program into main memory because of fragmentation",
+                "id": 1,
+                "color": "008cba",
+                "fields": [
+                    {
+                        "title": "",
+                        "value": "\n",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":one: true\n   :thumbsup::thumbsup:  67%",
+                        "short": false
+                    },
+                    {
+                        "title": "",
+                        "value": ":two: false\n   :thumbsup:  33%",
+                        "short": false
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "one",
+                "users": [
+                    "U19HSQP3M",
+                    "U15HZ01QX",
+                    "U15HY5TG8"
+                ],
+                "count": 3
+            },
+            {
+                "name": "two",
+                "users": [
+                    "U19HSQP3M",
+                    "U15J5H60P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Hella true",
+        "user": "U15HZ01QX",
+        "ts": "1463548600.000619"
+    },
+    {
+        "type": "message",
+        "text": "I don't think andrew is participating",
+        "user": "U15HRTAHL",
+        "ts": "1463548646.000621"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "hella *false*",
+        "user": "U15HRTAHL",
+        "ts": "1463548652.000622"
+    },
+    {
+        "type": "message",
+        "text": "is the answer",
+        "user": "U15HRTAHL",
+        "ts": "1463548657.000623"
+    },
+    {
+        "type": "message",
+        "text": "cause hes gay",
+        "user": "U15HY5TG8",
+        "ts": "1463548658.000624"
+    },
+    {
+        "type": "message",
+        "text": "What's the answer",
+        "user": "U15HZ01QX",
+        "ts": "1463548666.000625"
+    },
+    {
+        "type": "message",
+        "text": "Thrashing - Processor spends most of the time swapping pieces in and out rather than executing instructions",
+        "user": "U15HRTAHL",
+        "ts": "1463548669.000626"
+    },
+    {
+        "type": "message",
+        "text": "i thought you were trolling with *thrashing*",
+        "user": "U15HY5TG8",
+        "ts": "1463548707.000627"
+    },
+    {
+        "type": "message",
+        "text": "alright im going to bed",
+        "user": "U15HY5TG8",
+        "ts": "1463548775.000628"
+    },
+    {
+        "type": "message",
+        "text": "peace",
+        "user": "U15HRTAHL",
+        "ts": "1463548787.000629"
+    },
+    {
+        "type": "message",
+        "text": "Do we need to know translated lookaside buffer?",
+        "user": "U15HRTAHL",
+        "ts": "1463549196.000630"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>:",
+        "user": "U15HRTAHL",
+        "ts": "1463549200.000631"
+    },
+    {
+        "type": "message",
+        "text": "I have it in my notes",
+        "user": "U15HZ01QX",
+        "ts": "1463549875.000632"
+    },
+    {
+        "type": "message",
+        "text": "But idk",
+        "user": "U15HZ01QX",
+        "ts": "1463549877.000633"
+    },
+    {
+        "type": "message",
+        "text": "Because I have that in my notes after inverted page tables",
+        "user": "U15HRTAHL",
+        "ts": "1463550010.000634"
+    },
+    {
+        "type": "message",
+        "text": "and he said we won't need to know inverted page tables",
+        "user": "U15HRTAHL",
+        "ts": "1463550022.000635"
+    },
+    {
+        "type": "message",
+        "text": "fuck it",
+        "user": "U15HRTAHL",
+        "ts": "1463550153.000636"
+    },
+    {
+        "type": "message",
+        "text": "I'm gonna say no",
+        "user": "U15HRTAHL",
+        "ts": "1463550158.000637"
+    },
+    {
+        "type": "message",
+        "text": "If you can't read the value of a semaphore how do you know if a thread is supposed to block or not",
+        "user": "U15HRTAHL",
+        "ts": "1463550851.000639"
+    },
+    {
+        "type": "message",
+        "text": "Cuz it be decremented ",
+        "user": "U15HZ01QX",
+        "ts": "1463550912.000640"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1463550944.000641"
+    },
+    {
+        "type": "message",
+        "text": "but that only happens if the value is negative",
+        "user": "U15HRTAHL",
+        "ts": "1463550960.000642"
+    },
+    {
+        "type": "message",
+        "text": "us tomorrow",
+        "user": "U15HRTAHL",
+        "ts": "1463551556.000643"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/i.imgur.com\/7bSkhZ6.gifv>",
+        "user": "U15HRTAHL",
+        "ts": "1463551557.000644",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Imgur GIF",
+                "title_link": "http:\/\/i.imgur.com\/7bSkhZ6.gifv",
+                "fallback": "Imgur: Imgur GIF",
+                "thumb_url": "https:\/\/i.imgur.com\/7bSkhZ6h.jpg",
+                "video_html_width": "224",
+                "video_html_height": "400",
+                "video_url": "https:\/\/i.imgur.com\/7bSkhZ6.mp4",
+                "video_html": "<video poster=\"https:\/\/i.imgur.com\/7bSkhZ6h.jpg\" src=\"https:\/\/i.imgur.com\/7bSkhZ6.mp4\" width=\"224\" height=\"400\" autoplay=\"autoplay\" preload=\"auto\" muted=\"muted\" loop=\"loop\" webkit-playsinline><\/video>",
+                "from_url": "http:\/\/i.imgur.com\/7bSkhZ6.gifv",
+                "thumb_width": 224,
+                "thumb_height": 400,
+                "id": 1
+            }
+        ]
+    }
+]

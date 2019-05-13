@@ -1,0 +1,113 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531425861.000393",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531425862.000011",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531425862.000042",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531425862.000072",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "3d729868-adcb-4705-9e7e-d52b108ee908",
+        "type": "message",
+        "text": "So fortnite",
+        "user": "U15HRTAHL",
+        "ts": "1531425876.000297"
+    },
+    {
+        "client_msg_id": "cd23cf99-0151-408e-9ef3-b16cabf3830e",
+        "type": "message",
+        "text": "amazing amirite?",
+        "user": "U15HRTAHL",
+        "ts": "1531425883.000188"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1531425900.000437",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "client_msg_id": "333b18e7-28b8-43c6-83b2-5bfb06334e6d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1531425922.000220"
+    },
+    {
+        "client_msg_id": "896378b4-b419-40a6-9411-306c081f7a6a",
+        "type": "message",
+        "text": "oh that fucker made it private before I could",
+        "user": "U15HRTAHL",
+        "ts": "1531425944.000323",
+        "reactions": [
+            {
+                "name": "aw_yeah",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "453017c3-69bf-42a2-b115-804a7a2b39d5",
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1531425953.000470"
+    },
+    {
+        "client_msg_id": "085f1e12-a342-4cf8-9576-b7df6de93719",
+        "type": "message",
+        "text": "<@U15J5H60P> add me back to #video-gaming",
+        "user": "U15HRTAHL",
+        "ts": "1531427105.000379"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1531427109.000214",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "95a333b4-8285-4411-8524-fc2a1d773bdd",
+        "type": "message",
+        "text": "I already did",
+        "user": "U15J5H60P",
+        "ts": "1531427236.000205"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1531427239.000332",
+        "text": "<@U15J5H60P> has left the channel"
+    }
+]

@@ -1,0 +1,1430 @@
+[
+    {
+        "client_msg_id": "c58dba26-c886-4481-9b24-c75170c7a5e0",
+        "type": "message",
+        "text": "What am I looking at?",
+        "user": "U15J5H60P",
+        "ts": "1547560138.250500"
+    },
+    {
+        "client_msg_id": "bdcbc0d4-d3fa-4131-9aaa-fe0fe105ed32",
+        "type": "message",
+        "text": "It says welcome to Cleveland on the roof",
+        "user": "U15HRTAHL",
+        "ts": "1547561645.250900"
+    },
+    {
+        "client_msg_id": "EDB4682E-8151-4C79-A2AD-0EC5290846A0",
+        "type": "message",
+        "text": "Ahhh i heard about that lol",
+        "user": "U15HY5TG8",
+        "ts": "1547561678.251200"
+    },
+    {
+        "client_msg_id": "7b80e69a-09df-466d-913b-9722933efc9d",
+        "type": "message",
+        "text": "Oh. I saw that on reddit",
+        "user": "U15J5H60P",
+        "ts": "1547561913.251400"
+    },
+    {
+        "client_msg_id": "8699FECE-7C6D-46AD-88B7-1B678B5CBD6E",
+        "type": "message",
+        "text": "Damn I love egg whites",
+        "user": "U15HZ01QX",
+        "ts": "1547562155.251700"
+    },
+    {
+        "client_msg_id": "30f1bcab-1415-483c-8ba4-d707061f778b",
+        "type": "message",
+        "text": "they are good",
+        "user": "U15HY5TG8",
+        "ts": "1547562188.251900"
+    },
+    {
+        "client_msg_id": "84b7f635-6315-4589-9815-4de76cdb97e2",
+        "type": "message",
+        "text": "I wonder what they do with the yolks",
+        "user": "U15HRTAHL",
+        "ts": "1547563858.252300"
+    },
+    {
+        "client_msg_id": "e5069e2d-1345-4ee6-a6d5-d47344fdba64",
+        "type": "message",
+        "text": "I would just throw mine away",
+        "user": "U15HY5TG8",
+        "ts": "1547563878.252500"
+    },
+    {
+        "client_msg_id": "935c84ee-59f1-4eeb-b6ad-b6ac1ba6f3bc",
+        "type": "message",
+        "text": "I was assuming james bought egg whites in a carton\\",
+        "user": "U15HRTAHL",
+        "ts": "1547563916.252900"
+    },
+    {
+        "client_msg_id": "21b2f2de-3e99-4dc8-a35a-641c5f3be78e",
+        "type": "message",
+        "text": "ahhh. didn't know that was real",
+        "user": "U15HY5TG8",
+        "ts": "1547563936.253200"
+    },
+    {
+        "client_msg_id": "f5a13b81-0eda-4006-bb00-b930acc30c4e",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=78VDqoQdavY>",
+        "user": "U15HRTAHL",
+        "ts": "1547564698.253400",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Egg Breaker single line RZ—1, Made in OVO-TECH Poland.",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=78VDqoQdavY",
+                "author_name": "OVO-TECH",
+                "author_link": "https:\/\/www.youtube.com\/user\/drapej",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/78VDqoQdavY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Egg Breaker single line RZ—1, Made in OVO-TECH Poland.",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/78VDqoQdavY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=78VDqoQdavY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=78VDqoQdavY"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ac7d5b9b-8b52-42ca-8560-31b478cdf10c",
+        "type": "message",
+        "text": "it’s pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1547564706.253700"
+    },
+    {
+        "client_msg_id": "8208DD53-6EEF-4822-BC08-7F4C73CA1AD1",
+        "type": "message",
+        "text": "I bought them in the cafe ",
+        "user": "U15HZ01QX",
+        "ts": "1547566247.254100"
+    },
+    {
+        "client_msg_id": "5E8951C0-FA65-4E5E-BCEA-A459B1641873",
+        "type": "message",
+        "text": "Still cool",
+        "user": "U15HZ01QX",
+        "ts": "1547566256.254300"
+    },
+    {
+        "client_msg_id": "AB1F4FD5-5AFB-4C84-9A80-FBB35761CA83",
+        "type": "message",
+        "text": "They used a carton though",
+        "user": "U15HZ01QX",
+        "ts": "1547566273.254600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFDGAV2KB",
+                "created": 1547567167,
+                "timestamp": 1547567167,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-15, 9:46 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 1905541,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFDGAV2KB\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFDGAV2KB\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 315,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 421,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 631,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 913,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 841,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDGAV2KB-0f5d043755\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 897,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1188,
+                "original_h": 1356,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FFDGAV2KB\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFDGAV2KB-49e85f9a1e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1547567178.254700"
+    },
+    {
+        "client_msg_id": "fa557b2c-f58f-4e04-a1c2-651b83b8798a",
+        "type": "message",
+        "text": "lol wtf",
+        "user": "U15HSHSS2",
+        "ts": "1547567281.255100"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/spidermanmovie\/status\/1085174513833250819?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1547567437.255200",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/SpiderManMovie|@SpiderManMovie>: Watch the #SpiderManFarFromHome teaser trailer now. 7.5.19 :spider: <https:\/\/pbs.twimg.com\/media\/Dw9E8wFV4AAvU8P.jpg>",
+                "ts": 1547560740,
+                "author_name": "Spider-Man",
+                "author_link": "https:\/\/twitter.com\/SpiderManMovie\/status\/1085174513833250819",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1024671066294124544\/F4MjDZwv_normal.jpg",
+                "author_subname": "@SpiderManMovie",
+                "text": "Watch the #SpiderManFarFromHome teaser trailer now. 7.5.19 :spider:",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/spidermanmovie\/status\/1085174513833250819?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/Dw9E8wFV4AAvU8P.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "video_html_width": 1200,
+                "video_html_height": 1200,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/Dw9E8wFV4AAvU8P.jpg\" width=\"1200\" height=\"1200\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1085159876676841473\/vid\/720x720\/6AXswB3sLX2UyltJ.mp4?tag=9\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/spidermanmovie\/status\/1085174513833250819?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f1d7051e-a1f4-41ae-ba8a-644358836c05",
+        "type": "message",
+        "text": "these super hero movies gotta go away",
+        "user": "U15HRTAHL",
+        "ts": "1547567605.255500"
+    },
+    {
+        "client_msg_id": "fea917ae-6758-47e8-91cb-21498217d008",
+        "type": "message",
+        "text": "nahh I can dig it",
+        "user": "U15HSHSS2",
+        "ts": "1547567633.256100"
+    },
+    {
+        "client_msg_id": "D6027867-EF6D-4524-8541-4EC55585BE2B",
+        "type": "message",
+        "text": "You’re  buggin joe lol",
+        "user": "U15HZ01QX",
+        "ts": "1547567639.256400"
+    },
+    {
+        "client_msg_id": "d548ed04-7aed-444e-8bc5-9ff0d31ebb96",
+        "type": "message",
+        "text": "I like a few of them",
+        "user": "U15HRTAHL",
+        "ts": "1547567645.256700"
+    },
+    {
+        "client_msg_id": "844B5971-DCE1-496D-A2CE-4BF571995735",
+        "type": "message",
+        "text": "The quality of super hero movies the last 5 years has been better than most other movies lol",
+        "user": "U15HZ01QX",
+        "ts": "1547567668.257800"
+    },
+    {
+        "client_msg_id": "97f4f1e3-14ff-4e65-8bc0-777fbde08b49",
+        "type": "message",
+        "text": "but I haven’t seen the avengers and they keep coming out with them I only care about like 2 of the characters",
+        "user": "U15HRTAHL",
+        "ts": "1547567685.258100"
+    },
+    {
+        "client_msg_id": "91b04b94-d34a-45cd-a527-f1defa49cf04",
+        "type": "message",
+        "text": "im not gonna sit through that and understand like 10% of whats going on",
+        "user": "U15HRTAHL",
+        "ts": "1547567703.258500"
+    },
+    {
+        "client_msg_id": "13D04428-9259-4F58-9B41-B8131605D9DA",
+        "type": "message",
+        "text": "I mean I’d say 70% of the individual movies are self contained",
+        "user": "U15HZ01QX",
+        "ts": "1547567734.259200"
+    },
+    {
+        "client_msg_id": "669927c0-6470-41b3-a8af-ae891704839b",
+        "type": "message",
+        "text": "iron man and captain america",
+        "user": "U15HRTAHL",
+        "ts": "1547567736.259300"
+    },
+    {
+        "client_msg_id": "d96dce52-d3e0-4b6d-be37-5132587dcf8d",
+        "type": "message",
+        "text": ":100:",
+        "user": "U15HRTAHL",
+        "ts": "1547567739.259600"
+    },
+    {
+        "client_msg_id": "9C18EDB2-930D-4359-B923-170882E7BDFF",
+        "type": "message",
+        "text": "If you see this Spider-Man movie you’d be fine without knowing any backstory ",
+        "user": "U15HZ01QX",
+        "ts": "1547567753.260100"
+    },
+    {
+        "client_msg_id": "6994ae1f-10b5-43bb-b8ac-f86c71857f70",
+        "type": "message",
+        "text": "Yeah, I've never seen a Thor movie. Never really got into Thor, and it was a relatively big part of the Avengers movies with Loki and shit, but I still followed what was going on",
+        "user": "U15HSHSS2",
+        "ts": "1547567825.261100"
+    },
+    {
+        "client_msg_id": "d21fdc97-9bd1-4f0a-8e49-261985d3e4e8",
+        "type": "message",
+        "text": "Most of the stand alone marvel super hero movies are good though on their own",
+        "user": "U15HSHSS2",
+        "ts": "1547567868.262100"
+    },
+    {
+        "client_msg_id": "39358004-3CE7-476D-A998-C4ADB02FC3B1",
+        "type": "message",
+        "text": "Ragnorok is the only one worth bothering with <@U15HSHSS2> ",
+        "user": "U15HZ01QX",
+        "ts": "1547567868.262200"
+    },
+    {
+        "client_msg_id": "a831d8c4-c84c-42b3-8df8-ce97910b7942",
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Mysterio>",
+        "user": "U15HSHSS2",
+        "ts": "1547567900.262700",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/en\/a\/a4\/Quentin_Beck.jpg",
+                "image_width": 250,
+                "image_height": 379,
+                "image_bytes": 29591,
+                "title": "Mysterio",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Mysterio",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Mysterio",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Mysterio is the name of several fictional characters, supervillains appearing in American comic books published by Marvel Comics, commonly as enemies of Spider-Man. The first and most high-profile incarnation of Mysterio is Quentin Beck, although several other characters have since used the Mysterio alias.\nThe character has appeared in numerous Spider-Man cartoons and video games. In 2009, Mysterio was ranked as IGN's 85th Greatest Comic Book Villain of All Time. Mysterio will make his film debut in the 2019 film Spider-Man: Far From Home, portrayed by Jake Gyllenhaal.",
+                "fallback": "wikipedia: Mysterio",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Mysterio"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Terrible branding",
+        "files": [
+            {
+                "id": "FFF975UK1",
+                "created": 1547572440,
+                "timestamp": 1547572440,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 8690,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFF975UK1\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFF975UK1\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF975UK1-be3b6b27e7\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF975UK1-be3b6b27e7\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF975UK1-be3b6b27e7\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 142,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF975UK1-be3b6b27e7\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 455,
+                "original_h": 180,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FFF975UK1\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFF975UK1-17d94c1424",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1547572444.262900"
+    },
+    {
+        "client_msg_id": "bde5c8d6-1de8-402b-af6d-c3f6cf108e44",
+        "type": "message",
+        "text": "Do any of you guys pay energy? electric or heating or both?",
+        "user": "U15HSHSS2",
+        "ts": "1547574548.263900"
+    },
+    {
+        "client_msg_id": "BDF1FB9E-D4B7-486D-A890-3462504AA67E",
+        "type": "message",
+        "text": "I pay $30ish for electric and then $60 for apartment utilities (in unit washer\/dryer) ",
+        "user": "U15HY5TG8",
+        "ts": "1547574814.265200"
+    },
+    {
+        "client_msg_id": "14e5c159-4ee1-406a-b6f4-f60f5bbf8594",
+        "type": "message",
+        "text": "Do you pay your own electric? like to an energy company directly, or do you pay to the apartment",
+        "user": "U15HSHSS2",
+        "ts": "1547574924.266000"
+    },
+    {
+        "client_msg_id": "5af34e86-d00b-4875-a69b-7a42cac7fd0c",
+        "type": "message",
+        "text": "to we-energies",
+        "user": "U15HY5TG8",
+        "ts": "1547574944.266200"
+    },
+    {
+        "client_msg_id": "e19b135a-7c60-4c3e-bb98-c7e6e14dc949",
+        "type": "message",
+        "text": "and 30ish is for about a month?",
+        "user": "U15HSHSS2",
+        "ts": "1547574969.266500"
+    },
+    {
+        "client_msg_id": "a8e77ab8-c80e-47a3-8db9-bfffcae98108",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HY5TG8",
+        "ts": "1547574990.266700"
+    },
+    {
+        "client_msg_id": "a0608bb4-8c9a-4a19-a5ab-7e4d59a486a7",
+        "type": "message",
+        "text": "I have heated floors instead of vents, so I believe my heat is included in that $30 too",
+        "user": "U15HY5TG8",
+        "ts": "1547575032.267300",
+        "reactions": [
+            {
+                "name": "money_mouth_face",
+                "users": [
+                    "U15HZ01QX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c877bab-ece2-48f3-b264-f815da381b52",
+        "type": "message",
+        "text": "I feel like mine is high",
+        "user": "U15HSHSS2",
+        "ts": "1547575241.267600"
+    },
+    {
+        "client_msg_id": "fdd4318a-e83e-4b33-8fa8-0e351bf7992d",
+        "type": "message",
+        "text": "70ish for the month",
+        "user": "U15HSHSS2",
+        "ts": "1547575248.267800"
+    },
+    {
+        "client_msg_id": "d31467a0-1b7c-493a-9802-3e841c1a566e",
+        "type": "message",
+        "text": "mines usually $45ish",
+        "user": "U15HRTAHL",
+        "ts": "1547575270.268100"
+    },
+    {
+        "client_msg_id": "75D0E527-D71C-4DEE-BC4A-8499BA36A1EE",
+        "type": "message",
+        "text": "You’re paying heat",
+        "user": "U15J5H60P",
+        "ts": "1547575276.268300"
+    },
+    {
+        "client_msg_id": "2a212aeb-fd50-49c8-9290-210f098b00b7",
+        "type": "message",
+        "text": "It's just electic that is 70",
+        "user": "U15HSHSS2",
+        "ts": "1547575286.268500"
+    },
+    {
+        "client_msg_id": "910f9212-149c-4316-a7b2-5e89f9aaa62b",
+        "type": "message",
+        "text": "heat is like 15",
+        "user": "U15HSHSS2",
+        "ts": "1547575290.268700"
+    },
+    {
+        "client_msg_id": "f5739e3b-538a-4a44-af16-5e7dc472997b",
+        "type": "message",
+        "text": "all your smart appliances sending data to the NSA",
+        "user": "U15HRTAHL",
+        "ts": "1547575311.269000"
+    },
+    {
+        "client_msg_id": "55adcd7c-2f6b-4ba4-bbb5-975b744326ef",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1547575315.269300"
+    },
+    {
+        "client_msg_id": "7ee03285-b492-4032-a3d4-8ace07f9468f",
+        "type": "message",
+        "text": "you should honesty turn them off for a month and see if it’s changed",
+        "user": "U15HRTAHL",
+        "ts": "1547575326.269600"
+    },
+    {
+        "client_msg_id": "fa6b7b59-5b1c-400e-94fa-868d61fd2101",
+        "type": "message",
+        "text": "I noticed mine went up just a little bit since we got the roomba\/another google home",
+        "user": "U15HRTAHL",
+        "ts": "1547575345.270100"
+    },
+    {
+        "client_msg_id": "616c6e37-0421-40ad-afd7-68225dea5efc",
+        "type": "message",
+        "text": "my custom computer was adding at least $20 per month",
+        "user": "U15HY5TG8",
+        "ts": "1547575409.270500"
+    },
+    {
+        "client_msg_id": "af706931-06cb-4d92-9685-6e2b1da5e5f9",
+        "type": "message",
+        "text": "comparing your apt to mine, i bet it's the computer and fridge that add up to a lot more than mine",
+        "user": "U15HY5TG8",
+        "ts": "1547575487.271300"
+    },
+    {
+        "client_msg_id": "7cf87223-1f6e-4e7c-86c8-10c029f3e054",
+        "type": "message",
+        "text": "<@U15HY5TG8> do you have auto pay setup with WE? I don't see an option for it",
+        "user": "U15HSHSS2",
+        "ts": "1547576202.271700"
+    },
+    {
+        "client_msg_id": "06fb3ca3-20ca-4a04-b5f3-b89d3e68568c",
+        "type": "message",
+        "text": "I have to go in every month",
+        "user": "U15J5H60P",
+        "ts": "1547576325.272100"
+    },
+    {
+        "client_msg_id": "5ee00aeb-2165-4ab8-8003-a66b59c8b37e",
+        "type": "message",
+        "text": "I don't think so",
+        "user": "U15HY5TG8",
+        "ts": "1547576337.272400"
+    },
+    {
+        "client_msg_id": "ea6724c9-30a9-4614-a125-74456424a4f2",
+        "type": "message",
+        "text": "WE is so old fashioned on their website",
+        "user": "U15HY5TG8",
+        "ts": "1547576354.272800"
+    },
+    {
+        "client_msg_id": "cbaf4eb0-280a-49fb-8f55-87899989efca",
+        "type": "message",
+        "text": "Damn I can't even pay with a card, has to be a bank account",
+        "user": "U15HSHSS2",
+        "ts": "1547576414.273300"
+    },
+    {
+        "client_msg_id": "e749edb3-7233-4843-b74d-4d3b60a20f79",
+        "type": "message",
+        "text": "yup lol",
+        "user": "U15HY5TG8",
+        "ts": "1547576572.273500"
+    },
+    {
+        "client_msg_id": "c2ef63aa-f59c-4b33-994e-c61f587bcc8c",
+        "type": "message",
+        "text": "with a bank account is better for your pricing though anyways",
+        "user": "U15HY5TG8",
+        "ts": "1547576584.273800"
+    },
+    {
+        "client_msg_id": "970a2315-fa7e-4e7f-ab3c-7c252dfca0ff",
+        "type": "message",
+        "text": "You can do auto pay but it's through a 3rd party",
+        "user": "U15HSHSS2",
+        "ts": "1547576604.274100"
+    },
+    {
+        "client_msg_id": "99fba625-7c0e-477d-84dd-8c3790e06a03",
+        "type": "message",
+        "text": "gross",
+        "user": "U15HY5TG8",
+        "ts": "1547576732.274300"
+    },
+    {
+        "client_msg_id": "74c5cd28-79ca-4059-9483-f6a98ace0ce6",
+        "type": "message",
+        "text": "is it 4 yet?",
+        "user": "U15HY5TG8",
+        "ts": "1547577773.274500"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/primevideo\/status\/1082698448556646401?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1547577838.274600",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/PrimeVideo|@PrimeVideo>: The scandal you know, the story you don't. From Executive Producer <https:\/\/twitter.com\/JordanPeele|@JordanPeele> comes #LorenaSeries, 2\/15. <https:\/\/pbs.twimg.com\/media\/DwWFMLjU8AEBWh7.jpg>",
+                "ts": 1546970400,
+                "author_name": "Amazon Prime Video",
+                "author_link": "https:\/\/twitter.com\/PrimeVideo\/status\/1082698448556646401",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1074391167603593216\/K6P21yWm_normal.jpg",
+                "author_subname": "@PrimeVideo",
+                "text": "The scandal you know, the story you don't. From Executive Producer <https:\/\/twitter.com\/JordanPeele|@JordanPeele> comes #LorenaSeries, 2\/15.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/primevideo\/status\/1082698448556646401?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/DwWFMLjU8AEBWh7.jpg",
+                "thumb_width": 803,
+                "thumb_height": 804,
+                "video_html_width": 803,
+                "video_html_height": 804,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/DwWFMLjU8AEBWh7.jpg\" width=\"803\" height=\"804\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1082416855824756736\/vid\/720x720\/Hbbt8C0AYrZIQsKT.mp4?tag=9\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/primevideo\/status\/1082698448556646401?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4dc47772-7ec1-4af9-9dfa-6c1267ed61a3",
+        "type": "message",
+        "text": "whats that",
+        "user": "U15HY5TG8",
+        "ts": "1547577956.275000"
+    },
+    {
+        "client_msg_id": "460C1267-EF76-4C28-B65B-1CC06E8AF2F3",
+        "type": "message",
+        "text": "In 93 a woman castrated her husband ",
+        "user": "U15HZ01QX",
+        "ts": "1547578761.275500"
+    },
+    {
+        "client_msg_id": "E0F08DAD-2AD6-4532-B43A-F263ADC34F83",
+        "type": "message",
+        "text": "They went to court. She said she was abused",
+        "user": "U15HZ01QX",
+        "ts": "1547578772.275900"
+    },
+    {
+        "client_msg_id": "7B8EBA64-39EB-4BDE-8FD2-03FF31748182",
+        "type": "message",
+        "text": "I honestly don’t remember anything else",
+        "user": "U15HZ01QX",
+        "ts": "1547578786.276300"
+    },
+    {
+        "client_msg_id": "b1e2c2d7-9ce6-4b6d-a850-6c1f1e568a6c",
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1547578795.276500"
+    },
+    {
+        "client_msg_id": "de8f066c-d340-4e8b-bef4-31256f0a6ec0",
+        "type": "message",
+        "text": "man i hope whatever theyre using my taxes for is worth it lol",
+        "user": "U15HZ01QX",
+        "ts": "1547583135.277000"
+    },
+    {
+        "client_msg_id": "607385EF-E73B-465D-8F46-68192AC10DB3",
+        "type": "message",
+        "text": "It won't, don't worry about it",
+        "user": "U15HY5TG8",
+        "ts": "1547583311.277500"
+    },
+    {
+        "client_msg_id": "ef1ab7b3-ec07-4205-bc59-a94168f09f4b",
+        "type": "message",
+        "text": "You guys use fidelity for your work sponsored 401k?",
+        "user": "U15HZ01QX",
+        "ts": "1547583742.278000"
+    },
+    {
+        "client_msg_id": "fcce9c0a-fa52-4907-a4fb-284d2da98662",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1547583872.278200"
+    },
+    {
+        "client_msg_id": "813568e9-f313-4d01-8146-e2ec8faad6a5",
+        "type": "message",
+        "text": "Vanguard",
+        "user": "U15J5H60P",
+        "ts": "1547583875.278400"
+    },
+    {
+        "client_msg_id": "757a1a5f-1569-444a-8d31-a1a12337c933",
+        "type": "message",
+        "text": "and I don't have 401k right now",
+        "user": "U15HY5TG8",
+        "ts": "1547583896.278900"
+    },
+    {
+        "client_msg_id": "c5894a6c-54b6-4827-8de8-bf11900a8b4e",
+        "type": "message",
+        "text": "When you have a second you should let me know what it projects your retirement spending to be",
+        "user": "U15HZ01QX",
+        "ts": "1547583901.279100"
+    },
+    {
+        "client_msg_id": "729e95cd-879f-40ab-ab36-722cd0fa5c88",
+        "type": "message",
+        "text": "<@U15HY5TG8> what",
+        "user": "U15HZ01QX",
+        "ts": "1547583905.279300"
+    },
+    {
+        "client_msg_id": "cf5892e3-d3f7-4b98-9d6b-944c550c6781",
+        "type": "message",
+        "text": "I just got hired",
+        "user": "U15HY5TG8",
+        "ts": "1547583910.279600"
+    },
+    {
+        "client_msg_id": "9692a148-87f8-4065-8ac8-cbaddacb9f06",
+        "type": "message",
+        "text": "its normally in the first day stuff",
+        "user": "U15HZ01QX",
+        "ts": "1547583926.280000"
+    },
+    {
+        "client_msg_id": "7b838224-d44a-417b-8b77-3fadd59af0ae",
+        "type": "message",
+        "text": "Did you have one at your old job?",
+        "user": "U15HSHSS2",
+        "ts": "1547583938.280400"
+    },
+    {
+        "client_msg_id": "FE868742-E379-4D26-AE2E-824B403BF109",
+        "type": "message",
+        "text": "Right but im not taking part in it yet",
+        "user": "U15HY5TG8",
+        "ts": "1547583941.280600"
+    },
+    {
+        "client_msg_id": "19E1FC65-7EA0-47E7-A84C-D84AF324AF91",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1547583943.280800"
+    },
+    {
+        "client_msg_id": "0441a1a2-f017-4b3f-b1b5-9af06c93c0d2",
+        "type": "message",
+        "text": "you mean theyre not matching it yet? or youre literally not saving anything in it",
+        "user": "U15HZ01QX",
+        "ts": "1547583964.281600"
+    },
+    {
+        "client_msg_id": "644b06b2-1517-4bbc-b7a4-031832687c8d",
+        "type": "message",
+        "text": "So how does that work? does it just somehow automatically transfer over...?",
+        "user": "U15HSHSS2",
+        "ts": "1547583964.281700"
+    },
+    {
+        "client_msg_id": "281C981D-EB67-46EF-B757-FD1FEB99C5B7",
+        "type": "message",
+        "text": "I havent set anything up yet for anything to be taken out of my check",
+        "user": "U15HY5TG8",
+        "ts": "1547583992.282400"
+    },
+    {
+        "client_msg_id": "E00CC149-5B64-44D7-9EC6-7627B8B4F887",
+        "type": "message",
+        "text": "And <@U15HSHSS2> i think its linked by ssn or something",
+        "user": "U15HY5TG8",
+        "ts": "1547584005.282900"
+    },
+    {
+        "client_msg_id": "c929cad3-ff7c-48c5-94b1-9d4e03b5f783",
+        "type": "message",
+        "text": "Well anyways it projects me to be spending $6600 a month",
+        "user": "U15HZ01QX",
+        "ts": "1547584033.283400"
+    },
+    {
+        "client_msg_id": "83689d25-ffdc-47c8-a9e7-65728c7c406b",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1547584043.283800"
+    },
+    {
+        "client_msg_id": "7ac7df9e-c8ca-462c-9622-320125685c4d",
+        "type": "message",
+        "text": "and i have no idea what the fuck they think im going to be doing",
+        "user": "U15HZ01QX",
+        "ts": "1547584049.284000"
+    },
+    {
+        "client_msg_id": "73983602-9e3b-4067-b4ad-e9538aee2b33",
+        "type": "message",
+        "text": "by the time you retire youre probably close or done paying off your house. most of your cars are off of notes.",
+        "user": "U15HZ01QX",
+        "ts": "1547584088.284700"
+    },
+    {
+        "client_msg_id": "b1da9c44-61f9-4ba1-9091-009ef2b3573a",
+        "type": "message",
+        "text": "what do they think youll be buying on a monthly basis",
+        "user": "U15HZ01QX",
+        "ts": "1547584107.285600"
+    },
+    {
+        "client_msg_id": "7d5c0f71-c29e-48bc-a55d-de8c5367cad8",
+        "type": "message",
+        "text": "health insurance",
+        "user": "U15HY5TG8",
+        "ts": "1547584116.286000"
+    },
+    {
+        "client_msg_id": "aaac4968-df9f-460d-bf0d-acea7da9985d",
+        "type": "message",
+        "text": "haha that probably means you are contributing alot more than the average person",
+        "user": "U15HSHSS2",
+        "ts": "1547584117.286100"
+    },
+    {
+        "client_msg_id": "663e2ea9-3bbb-4b6a-9895-a91cd2dcb5fe",
+        "type": "message",
+        "text": "no no its not what im saving",
+        "user": "U15HZ01QX",
+        "ts": "1547584130.286500"
+    },
+    {
+        "client_msg_id": "071b5f1c-30e7-49b3-b9d7-affb7c16c12b",
+        "type": "message",
+        "text": "health insurance will be like $1000 by then",
+        "user": "U15HY5TG8",
+        "ts": "1547584141.287000"
+    },
+    {
+        "client_msg_id": "04c9013e-4ba5-44f8-b33e-e13dbc1c1a09",
+        "type": "message",
+        "text": "its what they think ill spend.  They called and said i need to save another 5% lol",
+        "user": "U15HZ01QX",
+        "ts": "1547584147.287100"
+    },
+    {
+        "client_msg_id": "b01e28fb-05b8-4954-ab83-cff6a8d83006",
+        "type": "message",
+        "text": "oh lol its just what they think you'll need",
+        "user": "U15HSHSS2",
+        "ts": "1547584173.287500"
+    },
+    {
+        "client_msg_id": "baada2d3-37dd-40df-a968-aafb6dd9b27e",
+        "type": "message",
+        "text": "yeah that's quite a bit",
+        "user": "U15HSHSS2",
+        "ts": "1547584182.287700"
+    },
+    {
+        "client_msg_id": "a07d7175-f02a-4c1d-80f1-47cd63da81bb",
+        "type": "message",
+        "text": "its a scam lol",
+        "user": "U15HZ01QX",
+        "ts": "1547584219.288000"
+    },
+    {
+        "client_msg_id": "e6f59326-8631-403d-a0e6-71a8e28f6951",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HY5TG8",
+        "ts": "1547584249.288200"
+    },
+    {
+        "client_msg_id": "b74b2584-1800-4e2d-a80e-4e8d16827491",
+        "type": "message",
+        "text": "Also i need to switch to post tax",
+        "user": "U15HZ01QX",
+        "ts": "1547584348.288500"
+    },
+    {
+        "client_msg_id": "012b07b5-1d02-46e3-b0c9-57daa6e8fcc4",
+        "type": "message",
+        "text": "why would you do that",
+        "user": "U15HY5TG8",
+        "ts": "1547584385.288700"
+    },
+    {
+        "client_msg_id": "d34f10b2-bb28-40e6-8bc8-f8c5186c5bf8",
+        "type": "message",
+        "text": "Joe made the argument during the summer",
+        "user": "U15HZ01QX",
+        "ts": "1547584418.289300"
+    },
+    {
+        "client_msg_id": "50da417a-c511-4d92-b045-4f08211ad6c7",
+        "type": "message",
+        "text": "theres a fair chance that the tax rate in 2060 or whatever will be a lot worse than they are now",
+        "user": "U15HZ01QX",
+        "ts": "1547584447.290000"
+    },
+    {
+        "client_msg_id": "b08e4dd4-94c4-469a-a769-b8ce2f23b98f",
+        "type": "message",
+        "text": "so if you do pre tax when you take it out youll probably lose more then you would if you just paid it now",
+        "user": "U15HZ01QX",
+        "ts": "1547584476.290600"
+    },
+    {
+        "client_msg_id": "FC811B1B-AFDF-4390-8532-7D2A1FA67CBB",
+        "type": "message",
+        "text": "Ahhh i see",
+        "user": "U15HY5TG8",
+        "ts": "1547584485.290800"
+    },
+    {
+        "client_msg_id": "64533659-57C2-4907-935F-B54734EF97D2",
+        "type": "message",
+        "text": "If we make it till then",
+        "user": "U15HY5TG8",
+        "ts": "1547584492.291100"
+    },
+    {
+        "client_msg_id": "75133034-44ac-4cd0-ad31-36c011ab48f2",
+        "type": "message",
+        "text": "should i just dump it all and buy a house",
+        "user": "U15HZ01QX",
+        "ts": "1547584549.291400"
+    },
+    {
+        "client_msg_id": "61d2f9db-5df5-40b1-b4e8-218aa8e92ddc",
+        "type": "message",
+        "text": "assume trump will kill us anyways",
+        "user": "U15HZ01QX",
+        "ts": "1547584563.291700"
+    },
+    {
+        "client_msg_id": "eb124ba3-82a6-4767-8efa-19b08db51822",
+        "type": "message",
+        "text": "Mine is $7710",
+        "user": "U15J5H60P",
+        "ts": "1547584661.292000"
+    },
+    {
+        "client_msg_id": "caebf9f4-4603-4b17-b254-3a56b7509596",
+        "type": "message",
+        "text": "The projected spend is based on your current salary I believe",
+        "user": "U15J5H60P",
+        "ts": "1547584672.292500"
+    },
+    {
+        "client_msg_id": "b09ed3a5-1bdf-4c4d-9ee9-eb19b12cf2ea",
+        "type": "message",
+        "text": "that makes no sense",
+        "user": "U15HZ01QX",
+        "ts": "1547584685.292900"
+    },
+    {
+        "client_msg_id": "c24b9438-1b7c-4c40-ae88-38a66b9727ba",
+        "type": "message",
+        "text": "I'm in post tax as well",
+        "user": "U15HSHSS2",
+        "ts": "1547584708.293500"
+    },
+    {
+        "client_msg_id": "12f9f6b5-3500-4c16-bc45-92b556261ec9",
+        "type": "message",
+        "text": "the projected spend shows the gap with contributions and social security",
+        "user": "U15HZ01QX",
+        "ts": "1547584718.293800"
+    },
+    {
+        "client_msg_id": "5797877a-fcf5-48fc-bcc9-46bdf3cde141",
+        "type": "message",
+        "text": "Yeah, my projected spend has like 1.5k of social security",
+        "user": "U15HSHSS2",
+        "ts": "1547584744.294300"
+    },
+    {
+        "client_msg_id": "2f568b84-f184-4fe9-99f8-2763068b25bb",
+        "type": "message",
+        "text": "that shit won't be around when I retire",
+        "user": "U15HSHSS2",
+        "ts": "1547584752.294600"
+    },
+    {
+        "client_msg_id": "53cfcecd-8452-4661-874b-7c632926750e",
+        "type": "message",
+        "text": "Ohhh",
+        "user": "U15J5H60P",
+        "ts": "1547584775.294800"
+    },
+    {
+        "client_msg_id": "bb688ca9-4207-42e8-8504-f3c646c19b09",
+        "type": "message",
+        "text": "That's monthly income",
+        "user": "U15J5H60P",
+        "ts": "1547584779.295000"
+    },
+    {
+        "client_msg_id": "275392b0-5379-4f0b-b923-75e86142cd31",
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1547584844.295300"
+    },
+    {
+        "client_msg_id": "f773d807-0982-42a4-ac21-4a1b3fde47ad",
+        "type": "message",
+        "text": "You do roth or after tax? <@U15HSHSS2>",
+        "user": "U15HZ01QX",
+        "ts": "1547584848.295600"
+    },
+    {
+        "client_msg_id": "581dc882-51a9-4479-bbe7-9b5f3a733271",
+        "type": "message",
+        "text": "Wait why does that make no sense?",
+        "user": "U15J5H60P",
+        "ts": "1547584878.296100"
+    },
+    {
+        "client_msg_id": "1b79d312-ba41-410c-9c9b-a9b7eef25f5b",
+        "type": "message",
+        "text": "roth 401k contributes the money after taxes has been taken out",
+        "user": "U15HSHSS2",
+        "ts": "1547584886.296400"
+    },
+    {
+        "client_msg_id": "e159b7b9-8e24-40c3-b844-6d7f77041230",
+        "type": "message",
+        "text": "\"We think you'll need $7710\"",
+        "user": "U15J5H60P",
+        "ts": "1547584891.296600"
+    },
+    {
+        "client_msg_id": "596a7eef-c066-4958-9e25-6ac2c845ed2d",
+        "type": "message",
+        "text": "That's projected spend right?",
+        "user": "U15J5H60P",
+        "ts": "1547584903.296900"
+    },
+    {
+        "client_msg_id": "d1d68685-5756-4ab8-8d72-eb087dc22e59",
+        "type": "message",
+        "text": "which is what I have",
+        "user": "U15HSHSS2",
+        "ts": "1547584904.297000"
+    },
+    {
+        "client_msg_id": "5affcd28-7718-4e83-997e-0a8f77a8cd2e",
+        "type": "message",
+        "text": "I don't have a roth",
+        "user": "U15J5H60P",
+        "ts": "1547584909.297200"
+    },
+    {
+        "client_msg_id": "01a067a8-c290-409c-bdd2-cdc183e6d6ff",
+        "type": "message",
+        "text": "Maybe I should get one",
+        "user": "U15J5H60P",
+        "ts": "1547584912.297400"
+    },
+    {
+        "client_msg_id": "2bb80af1-ea29-4862-b134-cf99a81e5224",
+        "type": "message",
+        "text": "traditional 401k contributes the money before taxes",
+        "user": "U15HSHSS2",
+        "ts": "1547584930.298000"
+    },
+    {
+        "client_msg_id": "77f8a212-3882-452f-8862-9b6bf01c36dc",
+        "type": "message",
+        "text": "But after tax takes the taxes too? just not the taxes on the earnings?",
+        "user": "U15HZ01QX",
+        "ts": "1547584943.298300"
+    },
+    {
+        "client_msg_id": "a960f06a-c7d4-4487-a20c-969a3b89c48c",
+        "type": "message",
+        "text": "James",
+        "user": "U15J5H60P",
+        "ts": "1547584961.298500"
+    },
+    {
+        "client_msg_id": "5b0b0edd-4ac8-4b3d-85e6-2e6f53434386",
+        "type": "message",
+        "text": "You're never retiring anyways",
+        "user": "U15J5H60P",
+        "ts": "1547584965.298700"
+    },
+    {
+        "client_msg_id": "1a428619-b6ab-4f25-b106-1a23001df1b6",
+        "type": "message",
+        "text": "You'll be working woodman's the rest of your life",
+        "user": "U15J5H60P",
+        "ts": "1547584971.299000"
+    },
+    {
+        "client_msg_id": "2ebca80b-0948-4fe0-9079-047a8ce7b336",
+        "type": "message",
+        "text": "Big Sad",
+        "user": "U15HZ01QX",
+        "ts": "1547584981.299200"
+    },
+    {
+        "client_msg_id": "573ab4e4-bf2a-41ab-8282-5b7ee38d4d0c",
+        "type": "message",
+        "text": "I think I was right..",
+        "user": "U15HZ01QX",
+        "ts": "1547585057.300200"
+    },
+    {
+        "client_msg_id": "23f34497-0ad3-4e61-ab08-e0ff16fb0aa3",
+        "type": "message",
+        "text": "Roth 401k you pay income tax on your paycheck and then whatever % you contribute gets taken out. Then when you retire, you don't pay any income tax on your money.",
+        "user": "U15HSHSS2",
+        "ts": "1547585068.300400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFEAVC3R9",
+                "created": 1547585070,
+                "timestamp": 1547585070,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-15, 2:44 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 32433,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFEAVC3R9\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFEAVC3R9\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFEAVC3R9-2ba6c5257a\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFEAVC3R9-2ba6c5257a\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFEAVC3R9-2ba6c5257a\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 229,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFEAVC3R9-2ba6c5257a\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 467,
+                "original_h": 297,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FFEAVC3R9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFEAVC3R9-9a69ec5fcd",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1547585072.300600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFDRKERCZ",
+                "created": 1547585085,
+                "timestamp": 1547585085,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-15, 2:44 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 25341,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFDRKERCZ\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFDRKERCZ\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDRKERCZ-e2c320ec03\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDRKERCZ-e2c320ec03\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDRKERCZ-e2c320ec03\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 192,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFDRKERCZ-e2c320ec03\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 479,
+                "original_h": 256,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FFDRKERCZ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFDRKERCZ-fdf80cc7d9",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1547585088.301200"
+    },
+    {
+        "client_msg_id": "3ba51be5-8300-41c7-9770-88c074ab5835",
+        "type": "message",
+        "text": "Traditional 401k you contribute your %, then income tax gets taken out of your check. when you retire and take out the money you pay income tax on it",
+        "user": "U15HSHSS2",
+        "ts": "1547585124.302200"
+    },
+    {
+        "client_msg_id": "825929df-d204-469a-8877-445ad8c171d8",
+        "type": "message",
+        "text": "i know but im trying to figure out \"after tax\"",
+        "user": "U15HZ01QX",
+        "ts": "1547585152.302600"
+    },
+    {
+        "client_msg_id": "68a3d54c-6bd8-4588-97d4-3f59a1befe42",
+        "type": "message",
+        "text": "and the difference between that and roth",
+        "user": "U15HZ01QX",
+        "ts": "1547585169.303000"
+    },
+    {
+        "client_msg_id": "95f948fd-205a-47ca-976a-12709514448f",
+        "type": "message",
+        "text": "What it seems is that the earnings on your after tax contributions are separately taxed on withdrawl at whatever bracket youre in",
+        "user": "U15HZ01QX",
+        "ts": "1547585213.303800"
+    },
+    {
+        "client_msg_id": "9aadf1c0-975f-4d3a-8f43-a0ec10ecc1c4",
+        "type": "message",
+        "text": "<https:\/\/www.dwc401k.com\/blog\/after-tax-vs-roth-contributions>",
+        "user": "U15HSHSS2",
+        "ts": "1547585646.304000",
+        "attachments": [
+            {
+                "title": "After-Tax vs. Roth Contributions: What's the Difference?",
+                "title_link": "https:\/\/www.dwc401k.com\/blog\/after-tax-vs-roth-contributions",
+                "text": "Are after-tax contributions different than Roth contributions? If so, can adding an after-tax feature to the plan really allow HCEs to contribute more each year? Find out in this week's Question of the Week!",
+                "fallback": "After-Tax vs. Roth Contributions: What's the Difference?",
+                "thumb_url": "https:\/\/www.dwc401k.com\/hubfs\/QOTW\/June%202018\/QOTW%20-%206.19.2018%20-%20After%20Tax%20v%20Roth%20Contributions%20-%20Retirement%20Plan%20Design.png#keepProtocol",
+                "from_url": "https:\/\/www.dwc401k.com\/blog\/after-tax-vs-roth-contributions",
+                "thumb_width": 800,
+                "thumb_height": 350,
+                "service_icon": "https:\/\/www.dwc401k.com\/hubfs\/_global\/dwc-favicon.png",
+                "service_name": "dwc401k.com",
+                "id": 1,
+                "original_url": "https:\/\/www.dwc401k.com\/blog\/after-tax-vs-roth-contributions"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E34B03B5-9E73-4F14-A8A6-EEC2A671A657",
+        "type": "message",
+        "text": "I need to stop driving down silver spring",
+        "user": "U15HY5TG8",
+        "ts": "1547592497.304600"
+    },
+    {
+        "client_msg_id": "E6289950-5BF0-43B7-B66A-3734D6F7C69C",
+        "type": "message",
+        "text": "It is kinda \"rub it in your face\" to have a sign that says \"Glendale, Rich past, bright future\" lol",
+        "user": "U15HY5TG8",
+        "ts": "1547592856.305900"
+    },
+    {
+        "client_msg_id": "60c9422a-92a1-4ad7-9a5d-ae39c56c0006",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1547597537.306200"
+    },
+    {
+        "client_msg_id": "b68674de-bc33-4c15-9b89-46198b1ea8f2",
+        "type": "message",
+        "text": "I’m watching the Fyre Fest doc on hulu",
+        "user": "U15J5H60P",
+        "ts": "1547601491.306600"
+    },
+    {
+        "client_msg_id": "73ea4636-3949-486c-ae53-6e633e542417",
+        "type": "message",
+        "text": "This is pretty funny",
+        "user": "U15J5H60P",
+        "ts": "1547601495.306800"
+    },
+    {
+        "client_msg_id": "9D358CE1-C13B-4E20-8039-7404207BBFA0",
+        "type": "message",
+        "text": "I’m debating on watching the Netflix one",
+        "user": "U15HZ01QX",
+        "ts": "1547601527.307400"
+    },
+    {
+        "client_msg_id": "a0754e8d-7a15-4cdc-bcc5-2c5f42e8b449",
+        "type": "message",
+        "text": "The monsoon 2 hours before is pretty funny",
+        "user": "U15J5H60P",
+        "ts": "1547601535.307600"
+    },
+    {
+        "client_msg_id": "a1f7ec77-d1fe-4a8a-92cd-e54926218147",
+        "type": "message",
+        "text": "The girl bawling on the bus",
+        "user": "U15J5H60P",
+        "ts": "1547601754.307900"
+    },
+    {
+        "client_msg_id": "48858928-165b-4135-bd63-7d003407aa8c",
+        "type": "message",
+        "text": "“We had a villa. We felt really bad.” -Cut to them dancing",
+        "user": "U15J5H60P",
+        "ts": "1547601790.308300"
+    },
+    {
+        "client_msg_id": "ac11177e-9d81-46e4-bb95-dbafd1284f46",
+        "type": "message",
+        "text": "How is this guy not in jail",
+        "user": "U15J5H60P",
+        "ts": "1547601890.308700"
+    },
+    {
+        "client_msg_id": "bca2f1a2-ac71-4af2-8c77-f5fa1234bb32",
+        "type": "message",
+        "text": "His interview is like roasting a child",
+        "user": "U15J5H60P",
+        "ts": "1547601904.309300"
+    },
+    {
+        "client_msg_id": "FBB183C4-A870-46F4-BCBE-16DB1EBC9367",
+        "type": "message",
+        "text": "Finish the doc first geez lol",
+        "user": "U15HZ01QX",
+        "ts": "1547601905.309400"
+    },
+    {
+        "client_msg_id": "209d1c42-8a69-438a-a8fc-dc85e62ba7c0",
+        "type": "message",
+        "text": "omg fuck rich white dudes",
+        "user": "U15J5H60P",
+        "ts": "1547603028.309600"
+    },
+    {
+        "client_msg_id": "0ea37fd5-b2af-4ea7-8576-4b1b7bcdb13e",
+        "type": "message",
+        "text": "wtf",
+        "user": "U15J5H60P",
+        "ts": "1547603032.309800"
+    },
+    {
+        "client_msg_id": "af39d0a5-2832-4086-a4bd-6809c2a11691",
+        "type": "message",
+        "text": "wtf",
+        "user": "U15J5H60P",
+        "ts": "1547603261.310000"
+    },
+    {
+        "client_msg_id": "1049fc40-dfee-4571-a208-b86211d2e18f",
+        "type": "message",
+        "text": "6 years",
+        "user": "U15J5H60P",
+        "ts": "1547603267.310400"
+    },
+    {
+        "client_msg_id": "c02cbdda-3882-4209-b325-6e0d9382b7f3",
+        "type": "message",
+        "text": "That’s it",
+        "user": "U15J5H60P",
+        "ts": "1547603268.310700"
+    },
+    {
+        "client_msg_id": "03f1f884-d212-4a61-8951-1d1325c9e070",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1547603269.310900"
+    },
+    {
+        "client_msg_id": "16d3abf3-cf29-42c2-b5c7-9d8f98454cea",
+        "type": "message",
+        "text": "How do you get away with that",
+        "user": "U15J5H60P",
+        "ts": "1547603287.311100"
+    },
+    {
+        "client_msg_id": "5dfb59f7-f364-4baf-9196-8e4f0ebeb264",
+        "type": "message",
+        "text": "&gt; Tax Evasion: Any action taken to evade the assessment of a tax, such as filing a fraudulent return, can land you in prison for 5 years.",
+        "user": "U15J5H60P",
+        "ts": "1547603308.311400"
+    },
+    {
+        "client_msg_id": "7019e72d-8d0e-41c1-bed7-8ba886189eb5",
+        "type": "message",
+        "text": "So if I screw up on my taxes, probably worth less than $1000 bucks, then I’ll go to prison for 5 years",
+        "user": "U15J5H60P",
+        "ts": "1547603337.312100"
+    },
+    {
+        "client_msg_id": "5a994639-115a-4860-b226-72f404d005b1",
+        "type": "message",
+        "text": "This world is screwed",
+        "user": "U15J5H60P",
+        "ts": "1547603347.312300"
+    },
+    {
+        "client_msg_id": "8648623C-C860-434F-98F6-B9EF848A0E45",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1547605243.312600"
+    }
+]

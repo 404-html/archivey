@@ -1,0 +1,266 @@
+[
+    {
+        "type": "message",
+        "text": "If you have a hard drive dock plugged in via usb so you can access the hard drive in the dock from your computer. is that hard drive considered \"mounted\"?",
+        "user": "U15HSHSS2",
+        "ts": "1511908856.000001",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1511908878.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1511909054.000322"
+    },
+    {
+        "type": "message",
+        "text": "It shows up as mounted on my Mac when I do that",
+        "user": "U15J5H60P",
+        "ts": "1511909065.000516"
+    },
+    {
+        "type": "message",
+        "text": "But what are you trying to do it?",
+        "user": "U15J5H60P",
+        "ts": "1511909076.000079"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1511909083.000184"
+    },
+    {
+        "type": "message",
+        "text": "Looking into cloud storage again",
+        "user": "U15HSHSS2",
+        "ts": "1511909095.000252"
+    },
+    {
+        "type": "message",
+        "text": "backblaze and crashplan and all the other popular ones don't back up mounted drives...",
+        "user": "U15HSHSS2",
+        "ts": "1511909117.000250"
+    },
+    {
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1511909131.000189"
+    },
+    {
+        "type": "message",
+        "text": "Cloud storage is tough",
+        "user": "U15J5H60P",
+        "ts": "1511909136.000176"
+    },
+    {
+        "type": "message",
+        "text": "But they say they back up external drives",
+        "user": "U15HSHSS2",
+        "ts": "1511909138.000385"
+    },
+    {
+        "type": "message",
+        "text": "Hmm...",
+        "user": "U15J5H60P",
+        "ts": "1511909158.000253"
+    },
+    {
+        "type": "message",
+        "text": "I think they might mean remotely mounted drives",
+        "user": "U15HSHSS2",
+        "ts": "1511909159.000490"
+    },
+    {
+        "type": "message",
+        "text": "That's what I would think. ",
+        "user": "U15J5H60P",
+        "ts": "1511909168.000310"
+    },
+    {
+        "type": "message",
+        "text": "You could just try backblaze",
+        "user": "U15J5H60P",
+        "ts": "1511909184.000062"
+    },
+    {
+        "type": "message",
+        "text": "Isn't it a 14 day free trial or something?",
+        "user": "U15J5H60P",
+        "ts": "1511909195.000417"
+    },
+    {
+        "type": "message",
+        "text": "I think so. I have a dock and a 2TB drive so maybe ill try that",
+        "user": "U15HSHSS2",
+        "ts": "1511909216.000135"
+    },
+    {
+        "type": "message",
+        "text": "Good plan",
+        "user": "U15J5H60P",
+        "ts": "1511909268.000137"
+    },
+    {
+        "type": "message",
+        "text": "How do you organize your files?",
+        "user": "U15J5H60P",
+        "ts": "1511909275.000311"
+    },
+    {
+        "type": "message",
+        "text": "Between drives",
+        "user": "U15J5H60P",
+        "ts": "1511909285.000461"
+    },
+    {
+        "type": "message",
+        "text": "Synology does it for me. When you set it up you can pick how you want the drives to be setup raid 0, 1, 2, etc...",
+        "user": "U15HSHSS2",
+        "ts": "1511909341.000202"
+    },
+    {
+        "type": "message",
+        "text": "I just told it to make my 2 3TB drives into 1 6TB drive",
+        "user": "U15HSHSS2",
+        "ts": "1511909357.000274"
+    },
+    {
+        "type": "message",
+        "text": "and it takes care of the rest, so to me it just looks like I have one big 6TB drive",
+        "user": "U15HSHSS2",
+        "ts": "1511909380.000436"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha. How do you organize your files then(in terms of folders)? Do you have a certain folder structure?",
+        "user": "U15J5H60P",
+        "ts": "1511909458.000170",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1511909496.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Yeah, movies folder, shows, documentaries, stand up comedy",
+        "user": "U15HSHSS2",
+        "ts": "1511909496.000526"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1511909502.000095"
+    },
+    {
+        "type": "message",
+        "text": "Documentaries and Stand up don’t go into movies?",
+        "user": "U15J5H60P",
+        "ts": "1511909516.000225"
+    },
+    {
+        "type": "message",
+        "text": "You don’t store anything but Video?",
+        "user": "U15J5H60P",
+        "ts": "1511909536.000168"
+    },
+    {
+        "type": "message",
+        "text": "Nope, just video. and I mean you could put them all together but I feel like documentaries, stand up, movies, and shows are different enough to keep separated, but that's just me",
+        "user": "U15HSHSS2",
+        "ts": "1511909615.000119"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1511909623.000136"
+    },
+    {
+        "type": "message",
+        "text": "I've thought about going on a music downloading binge, but spotify has everything id want, easily accessible, cheap, legal",
+        "user": "U15HSHSS2",
+        "ts": "1511909681.000269"
+    },
+    {
+        "type": "message",
+        "text": "Great example of software that removes the need for piracy in my opinion lol it's not worth my time to download 10,000+ songs when I can just search for anything I want on spotify and listen to it whenever i want wherever I am",
+        "user": "U15HSHSS2",
+        "ts": "1511909885.000453"
+    },
+    {
+        "type": "message",
+        "text": "Right. I agree. I thought about it but decided against it although I do have a few albums for whatever reason .",
+        "user": "U15J5H60P",
+        "ts": "1511909949.000197"
+    },
+    {
+        "type": "message",
+        "text": "This is my file structure:",
+        "user": "U15J5H60P",
+        "ts": "1511909956.000380"
+    },
+    {
+        "type": "message",
+        "text": "```.\n├── Data Warehouse               # What I decided to call my Storage Warehouse\n│   ├── Audio                    # GarageBand projects, Albums, Podcasts, etc.\n│   ├── Movies                \n│   ├── TV\n│   ├── Documents                # The usual Docs, Spreadsheets, etc.\n│   ├── Photos                   # Wallpapers, personal photos, dank memes\n│   ├── Projects                 # Any web or Xcode projects. Any development projects in general.\n│   ├── XXX                      # 100% NOT porn...```",
+        "user": "U15J5H60P",
+        "ts": "1511909959.000072"
+    },
+    {
+        "type": "message",
+        "text": "Movies doesn’t have any categories",
+        "user": "U15J5H60P",
+        "ts": "1511909968.000043"
+    },
+    {
+        "type": "message",
+        "text": "TV has a folder for each Show",
+        "user": "U15J5H60P",
+        "ts": "1511909975.000404"
+    },
+    {
+        "type": "message",
+        "text": "XXX is roughly categorized and I run it through Gemini II to make sure there are no dupes.",
+        "user": "U15J5H60P",
+        "ts": "1511909999.000451"
+    },
+    {
+        "type": "message",
+        "text": "Dupes are annoying when I’m going through a sesh on my TV",
+        "user": "U15J5H60P",
+        "ts": "1511910023.000136"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1511910024.000079"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1511910438.000383"
+    },
+    {
+        "type": "message",
+        "text": "I have a folder called ( . Y . ) with all my NOT porn videos, but it's not on my NAS. Too afraid ill accidentally somehow move it into my plex folder for everyone to see",
+        "user": "U15HSHSS2",
+        "ts": "1511910520.000403",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1511910553.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15J5H60P",
+        "ts": "1511910845.000283"
+    }
+]

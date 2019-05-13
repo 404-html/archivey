@@ -1,0 +1,778 @@
+[
+    {
+        "type": "message",
+        "text": "submitted that with my pr",
+        "user": "U15HRTAHL",
+        "ts": "1517515450.000017"
+    },
+    {
+        "client_msg_id": "85E1C431-3CEB-447A-B797-C40E5BE8F981",
+        "type": "message",
+        "text": " \/r\/iamabadass",
+        "user": "U15J5H60P",
+        "ts": "1517515478.000029"
+    },
+    {
+        "type": "message",
+        "text": "if you're gonna mock me at least do it correctly",
+        "user": "U15HRTAHL",
+        "ts": "1517515506.000289"
+    },
+    {
+        "type": "message",
+        "text": "r\/iamverybadass",
+        "user": "U15HRTAHL",
+        "ts": "1517515515.000196",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1517515521.000000"
+        }
+    },
+    {
+        "client_msg_id": "468749BC-A21D-4496-808A-4AAE9F05D312",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1517515530.000209"
+    },
+    {
+        "client_msg_id": "92ECE6FE-FF1E-4064-810F-EE9602614030",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1517516237.000555"
+    },
+    {
+        "type": "message",
+        "text": "So I wanted to learn blockchain",
+        "user": "U15J5H60P",
+        "ts": "1517538022.000356"
+    },
+    {
+        "type": "message",
+        "text": "Just to understand what it is",
+        "user": "U15J5H60P",
+        "ts": "1517538030.000316"
+    },
+    {
+        "type": "message",
+        "text": "And try to think of applications of the technology",
+        "user": "U15J5H60P",
+        "ts": "1517538039.000086"
+    },
+    {
+        "type": "message",
+        "text": "Created a blockchain. In the video, it’s mining at a “Difficulty” of 2.",
+        "user": "U15J5H60P",
+        "ts": "1517538094.000340"
+    },
+    {
+        "type": "message",
+        "text": "It’s basically a doubly linked list",
+        "user": "U15J5H60P",
+        "ts": "1517538126.000032"
+    },
+    {
+        "type": "message",
+        "text": "idk what any of that means, but it sounds interesting",
+        "user": "U15HSHSS2",
+        "ts": "1517538135.000110"
+    },
+    {
+        "type": "message",
+        "text": "Can you explain what its doing?",
+        "user": "U15HRTAHL",
+        "ts": "1517538143.000180"
+    },
+    {
+        "client_msg_id": "E2CD20C9-B9A2-4397-8C68-5BB02E74562D",
+        "type": "message",
+        "text": "Neat!",
+        "user": "U15HY5TG8",
+        "ts": "1517538151.000270"
+    },
+    {
+        "type": "message",
+        "text": "So each block is created of a Date, BlockHash, the hash of the PreviousBlock, and a list of transactions.",
+        "user": "U15J5H60P",
+        "ts": "1517538215.000322"
+    },
+    {
+        "type": "message",
+        "text": "An initial block is made called a “Genesis Block”",
+        "user": "U15J5H60P",
+        "ts": "1517538229.000257"
+    },
+    {
+        "type": "message",
+        "text": "When transactions are made, these transactions need to be added to the blockchain. So they’re put into a block. To create a “unique ID” of the block, a Hash for that block needs to be “mined”",
+        "user": "U15J5H60P",
+        "ts": "1517538317.000194"
+    },
+    {
+        "type": "message",
+        "text": "Mining is literally just generating a hashcode of the data",
+        "user": "U15J5H60P",
+        "ts": "1517538328.000073"
+    },
+    {
+        "type": "message",
+        "text": "HOWEVER",
+        "user": "U15J5H60P",
+        "ts": "1517538330.000182"
+    },
+    {
+        "type": "message",
+        "text": "If you could just generate any hashcode, you’d be creating millions of blocks per minute.",
+        "user": "U15J5H60P",
+        "ts": "1517538345.000168"
+    },
+    {
+        "type": "message",
+        "text": "Blockchains, such as Bitcoin only want 1 new block every 10 minutes.",
+        "user": "U15J5H60P",
+        "ts": "1517538363.000130"
+    },
+    {
+        "type": "message",
+        "text": "To do that they use a “Difficulty”",
+        "user": "U15J5H60P",
+        "ts": "1517538372.000293"
+    },
+    {
+        "type": "message",
+        "text": "A difficulty is used like this - \nAt a difficulty of `4` the hashcode you generate must start with `4` 0's. That is A LOT harder than generating any old hashcode.",
+        "user": "U15J5H60P",
+        "ts": "1517538422.000349"
+    },
+    {
+        "type": "message",
+        "text": "So in the video, you’ll notice that every hash starts with `00`",
+        "user": "U15J5H60P",
+        "ts": "1517538442.000136"
+    },
+    {
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HY5TG8",
+        "ts": "1517538456.000069"
+    },
+    {
+        "type": "message",
+        "text": "That’s because my difficulty is at `2`",
+        "user": "U15J5H60P",
+        "ts": "1517538458.000019"
+    },
+    {
+        "type": "message",
+        "text": "have you seen bitcoin's difficulty? lol",
+        "user": "U15HY5TG8",
+        "ts": "1517538475.000212"
+    },
+    {
+        "type": "message",
+        "text": "I’m probably not explaining it well, let me send you a tutorial video that I vaguely followed.",
+        "user": "U15J5H60P",
+        "ts": "1517538496.000277"
+    },
+    {
+        "type": "message",
+        "text": "`1,590,896,927,258`",
+        "user": "U15J5H60P",
+        "ts": "1517538501.000116"
+    },
+    {
+        "type": "message",
+        "text": "is BTC difficulty",
+        "user": "U15J5H60P",
+        "ts": "1517538506.000230"
+    },
+    {
+        "type": "message",
+        "text": "I’m not sure that their rule is the same as mine",
+        "user": "U15J5H60P",
+        "ts": "1517538518.000231"
+    },
+    {
+        "type": "message",
+        "text": "My rule is diffculty = number of zeros the hash starts with",
+        "user": "U15J5H60P",
+        "ts": "1517538531.000075"
+    },
+    {
+        "type": "message",
+        "text": "well right but it still says a lot",
+        "user": "U15HY5TG8",
+        "ts": "1517538536.000158"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=zVqczFZr124>",
+        "user": "U15J5H60P",
+        "ts": "1517538581.000111",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Creating a blockchain with Javascript (Blockchain, part 1)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=zVqczFZr124",
+                "author_name": "Savjee",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCnxrdFPXJMeHru_b4Q_vTPQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zVqczFZr124\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Creating a blockchain with Javascript (Blockchain, part 1)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zVqczFZr124?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=zVqczFZr124",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "so what are the applications of block chain?",
+        "user": "U15HRTAHL",
+        "ts": "1517538585.000208"
+    },
+    {
+        "type": "message",
+        "text": "It was fun to do. I used Swift.",
+        "user": "U15J5H60P",
+        "ts": "1517538590.000155"
+    },
+    {
+        "type": "message",
+        "text": "Not really sure yet, still researching. But apparently it creates trust. This can help eliminate middle men such as brokers, banks, and such. You could even use Blockchain for many things such as proving your identity.",
+        "user": "U15J5H60P",
+        "ts": "1517538749.000357",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1517538771.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/medium.com\/yope-chain\/30-things-you-can-do-with-a-blockchain-b23b2ab39664>",
+        "user": "U15J5H60P",
+        "ts": "1517538753.000334",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "30 things you can do with a blockchain – Digital Chains – Medium",
+                "title_link": "https:\/\/medium.com\/yope-chain\/30-things-you-can-do-with-a-blockchain-b23b2ab39664",
+                "text": "Blockchain is hovering near the peak of inflated expectations — but seeing the glimmers of a nascent technology evolve is exciting",
+                "fallback": "Medium: 30 things you can do with a blockchain – Digital Chains – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*JGia0QPyzhbnTbtQ1xz4KA.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "13 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1477583847,
+                "from_url": "https:\/\/medium.com\/yope-chain\/30-things-you-can-do-with-a-blockchain-b23b2ab39664",
+                "image_width": 482,
+                "image_height": 250,
+                "image_bytes": 326371,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*MfErX8TU5kdKLPcF9Kyong.jpeg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "53A06AC9-63BA-4213-9151-F8973500B945",
+        "type": "message",
+        "text": "<@U15HRTAHL> just look up Ripples about statement",
+        "user": "U15HY5TG8",
+        "ts": "1517538760.000205"
+    },
+    {
+        "client_msg_id": "983C6AF1-F1CF-457E-8D1A-8B60498A18E1",
+        "type": "message",
+        "text": "I think someone was saying that they predicted blockchain would become a make or break tech for companies in the next few years...kinda like how a company suddenly needed to have a website to succeed a few years ago. ",
+        "user": "U15HY5TG8",
+        "ts": "1517538974.000019"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, a lot of people are saying that.",
+        "user": "U15J5H60P",
+        "ts": "1517538991.000141"
+    },
+    {
+        "type": "message",
+        "text": "It’s going to be interesting.",
+        "user": "U15J5H60P",
+        "ts": "1517538997.000132"
+    },
+    {
+        "client_msg_id": "53BE1577-D43D-42CA-8979-59C070EB406D",
+        "type": "message",
+        "text": "Agreed. Should probably start doing what youre doing and create something",
+        "user": "U15HY5TG8",
+        "ts": "1517539036.000174"
+    },
+    {
+        "type": "message",
+        "text": "I’m going to mine my blockchain from difficulties 1 -&gt; 5 and show y’all the results.",
+        "user": "U15J5H60P",
+        "ts": "1517539443.000253"
+    },
+    {
+        "type": "message",
+        "text": "It’s working on 2 now.",
+        "user": "U15J5H60P",
+        "ts": "1517539476.000013"
+    },
+    {
+        "client_msg_id": "56cd6863-53d8-4ddc-9b9e-c9b2c810a14c",
+        "type": "message",
+        "text": "I'm gonna do this tomorrow at work ",
+        "user": "U15HRTAHL",
+        "ts": "1517539558.000031"
+    },
+    {
+        "type": "message",
+        "text": "Good plan. That’s when I did it, too.",
+        "user": "U15J5H60P",
+        "ts": "1517539569.000015"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1517539569.000238"
+    },
+    {
+        "client_msg_id": "eb5a61f6-4707-4b76-8413-5a5a6e8a6a9c",
+        "type": "message",
+        "text": "You had my curiosity but now you have my attention",
+        "user": "U15HRTAHL",
+        "ts": "1517539590.000011"
+    },
+    {
+        "client_msg_id": "b2317361-e0a6-478c-adb1-f5c8a4168980",
+        "type": "message",
+        "text": "Is that how that goes?",
+        "user": "U15HRTAHL",
+        "ts": "1517539596.000055"
+    },
+    {
+        "type": "message",
+        "text": "Maybe. We’ll say yes. lol",
+        "user": "U15J5H60P",
+        "ts": "1517539602.000337"
+    },
+    {
+        "type": "message",
+        "text": "It took me forever to figure out to get a SHA256 hash in Swift. The package I was trying to use was being a bitch.",
+        "user": "U15J5H60P",
+        "ts": "1517539626.000053"
+    },
+    {
+        "type": "message",
+        "text": "I think JS has a really easy library you can use.",
+        "user": "U15J5H60P",
+        "ts": "1517539636.000120"
+    },
+    {
+        "type": "message",
+        "text": "Actually, it definitely does. That guy on the YouTube makes it easily.",
+        "user": "U15J5H60P",
+        "ts": "1517539650.000123"
+    },
+    {
+        "client_msg_id": "101ea2b5-9a0d-4a9b-bdd0-06967d63c36f",
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/uu9pmDP.gif>",
+        "user": "U15HRTAHL",
+        "ts": "1517539664.000164",
+        "attachments": [
+            {
+                "fallback": "500x244px image",
+                "image_url": "https:\/\/i.imgur.com\/uu9pmDP.gif",
+                "image_width": 500,
+                "image_height": 244,
+                "image_bytes": 1021691,
+                "is_animated": true,
+                "from_url": "https:\/\/i.imgur.com\/uu9pmDP.gif",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":thumbsup:",
+        "user": "U15J5H60P",
+        "ts": "1517539670.000095"
+    },
+    {
+        "client_msg_id": "3f85ae94-d97e-4d56-86d3-43e504ead6f6",
+        "type": "message",
+        "text": "Also theres and Asian chick who works at nml and lives in my building and she's a developer ",
+        "user": "U15HRTAHL",
+        "ts": "1517539706.000109"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15J5H60P",
+        "ts": "1517539710.000363"
+    },
+    {
+        "type": "message",
+        "text": "Daisy",
+        "user": "U15J5H60P",
+        "ts": "1517539712.000040"
+    },
+    {
+        "type": "message",
+        "text": "I work with her",
+        "user": "U15J5H60P",
+        "ts": "1517539715.000203"
+    },
+    {
+        "type": "message",
+        "text": "Daisy Good",
+        "user": "U15J5H60P",
+        "ts": "1517539721.000043"
+    },
+    {
+        "client_msg_id": "1aef5ca5-c463-4743-a726-e6f3c6a5a252",
+        "type": "message",
+        "text": "Is she on your team?",
+        "user": "U15HRTAHL",
+        "ts": "1517539722.000167"
+    },
+    {
+        "type": "message",
+        "text": "Not on my team, but I work with her.",
+        "user": "U15J5H60P",
+        "ts": "1517539732.000092"
+    },
+    {
+        "client_msg_id": "193ea18b-83a2-4eb9-8848-0557da5cc224",
+        "type": "message",
+        "text": "Is she the \"one\"",
+        "user": "U15HRTAHL",
+        "ts": "1517539738.000333"
+    },
+    {
+        "type": "message",
+        "text": "I see her pretty much every day",
+        "user": "U15J5H60P",
+        "ts": "1517539740.000022"
+    },
+    {
+        "type": "message",
+        "text": "She’s super nice.",
+        "user": "U15J5H60P",
+        "ts": "1517539745.000001"
+    },
+    {
+        "type": "message",
+        "text": "Huh?",
+        "user": "U15J5H60P",
+        "ts": "1517539746.000174"
+    },
+    {
+        "client_msg_id": "2a0ff817-ccc2-4a81-b946-7b7ef98aead0",
+        "type": "message",
+        "text": "The one who wrote the comment on your yearly review ",
+        "user": "U15HRTAHL",
+        "ts": "1517539770.000275"
+    },
+    {
+        "type": "message",
+        "text": "Nope.",
+        "user": "U15J5H60P",
+        "ts": "1517539774.000271"
+    },
+    {
+        "type": "message",
+        "text": "That was Becky",
+        "user": "U15J5H60P",
+        "ts": "1517539776.000210"
+    },
+    {
+        "type": "message",
+        "text": "That dumb bitch.",
+        "user": "U15J5H60P",
+        "ts": "1517539779.000185"
+    },
+    {
+        "client_msg_id": "f8857d41-6cc0-49bc-83ff-54de44b5389b",
+        "type": "message",
+        "text": "Fuckin Becky ",
+        "user": "U15HRTAHL",
+        "ts": "1517539783.000261"
+    },
+    {
+        "type": "message",
+        "text": "Fuckin Becky",
+        "user": "U15J5H60P",
+        "ts": "1517539787.000349"
+    },
+    {
+        "client_msg_id": "78f65423-6864-422e-9f3a-54c437b5d7c7",
+        "type": "message",
+        "text": "Is she any good?",
+        "user": "U15HRTAHL",
+        "ts": "1517539817.000340"
+    },
+    {
+        "client_msg_id": "10e8e0c5-8e5f-4193-89f7-57dd97fa881d",
+        "type": "message",
+        "text": "Or a diversity hire",
+        "user": "U15HRTAHL",
+        "ts": "1517539831.000204"
+    },
+    {
+        "client_msg_id": "6a9b9cb5-22a6-45a0-8a7c-81bf7562842e",
+        "type": "message",
+        "text": ":smirk: ",
+        "user": "U15HRTAHL",
+        "ts": "1517539839.000006"
+    },
+    {
+        "type": "message",
+        "text": "lol She’s actually really good.",
+        "user": "U15J5H60P",
+        "ts": "1517539851.000039"
+    },
+    {
+        "client_msg_id": "9E9E0492-F42A-4A2A-A6AB-0C344DA3100D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1517539862.000066"
+    },
+    {
+        "client_msg_id": "798b59ab-4267-43bf-8ab0-d8715fecab79",
+        "type": "message",
+        "text": "Those Asians ",
+        "user": "U15HRTAHL",
+        "ts": "1517539905.000164"
+    },
+    {
+        "client_msg_id": "01b85bb3-74d5-43fb-aacc-b8f21f86f38f",
+        "type": "message",
+        "text": "<@U15J5H60P> why couldn't you have inherited the smart Asian genes ",
+        "user": "U15HRTAHL",
+        "ts": "1517539923.000136"
+    },
+    {
+        "type": "message",
+        "text": "Right?! Tha fuck",
+        "user": "U15J5H60P",
+        "ts": "1517539931.000245"
+    },
+    {
+        "client_msg_id": "2B6AFB93-12BD-48DF-9480-515AC312C758",
+        "type": "message",
+        "text": "Jeeesus",
+        "user": "U15HY5TG8",
+        "ts": "1517540220.000088"
+    },
+    {
+        "client_msg_id": "CB840995-DDB7-4ACB-BAD3-110750C726D0",
+        "type": "message",
+        "text": "I was mining some coins the other day that were like 200. You should make your own coin",
+        "user": "U15HY5TG8",
+        "ts": "1517540254.000035"
+    },
+    {
+        "client_msg_id": "EDC655DE-3D1E-4D18-8777-EA2208CEAB78",
+        "type": "message",
+        "text": "And lol",
+        "user": "U15HY5TG8",
+        "ts": "1517540257.000043"
+    },
+    {
+        "type": "message",
+        "text": "You’re part of a pool right?",
+        "user": "U15J5H60P",
+        "ts": "1517540292.000238"
+    },
+    {
+        "type": "message",
+        "text": "I wonder how fast this would be on a GPU",
+        "user": "U15J5H60P",
+        "ts": "1517540704.000191"
+    },
+    {
+        "client_msg_id": "B5B17FBF-46E6-453B-98C9-A7671BBA1086",
+        "type": "message",
+        "text": "Correct and it depends on the algorithm. If you assign your coin to use neoscrypt, i get 700 kh\/s. Lyra2v2 gets me 35Mh\/s",
+        "user": "U15HY5TG8",
+        "ts": "1517540830.000014"
+    },
+    {
+        "client_msg_id": "9BC852B4-A772-4CF1-81D1-664429A2FD25",
+        "type": "message",
+        "text": "Are those just hashing algorithms?",
+        "user": "U15J5H60P",
+        "ts": "1517540947.000053"
+    },
+    {
+        "client_msg_id": "DD22AF70-AD93-4317-B835-064AB6917756",
+        "type": "message",
+        "text": "Yeah. Theres a bunch of them but i typically use those 2 and cryptonite",
+        "user": "U15HY5TG8",
+        "ts": "1517540982.000073"
+    },
+    {
+        "client_msg_id": "9B259456-084C-44F5-8FAB-32C68EF22618",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15J5H60P",
+        "ts": "1517540997.000018"
+    },
+    {
+        "client_msg_id": "EFD3F301-6D2E-4C90-8E46-7B0F47BE6DD7",
+        "type": "message",
+        "text": "Right now I increase my nonce by 1 every hash. I wonder if there's better ways to increment",
+        "user": "U15J5H60P",
+        "ts": "1517541190.000047"
+    },
+    {
+        "client_msg_id": "B6EAA21F-4D03-4873-A515-E2531D9881D1",
+        "type": "message",
+        "text": "Idk how nonces work. Thats just the name given to a block right?",
+        "user": "U15HY5TG8",
+        "ts": "1517541229.000020"
+    },
+    {
+        "client_msg_id": "71B8D09C-3392-4B23-81CD-CB317A5C90CA",
+        "type": "message",
+        "text": "No. A nonce is used to generate different hahshes. If you used the same data to hash, you'd always get the same hash",
+        "user": "U15J5H60P",
+        "ts": "1517541393.000240"
+    },
+    {
+        "client_msg_id": "651F26B9-1892-4866-9214-D67D3F9F9EE6",
+        "type": "message",
+        "text": "Ahhh ok gotcha. I wonder how data is determined. Maybe by using the senders\/receivers wallet address and the amount being transacted?",
+        "user": "U15HY5TG8",
+        "ts": "1517541475.000183"
+    },
+    {
+        "client_msg_id": "96E3B27A-0845-416F-A824-DAE56A7C0371",
+        "type": "message",
+        "text": "Not really sure.",
+        "user": "U15J5H60P",
+        "ts": "1517541545.000180"
+    },
+    {
+        "type": "message",
+        "text": "So I take the last string of the transactions and get its hashvalue",
+        "user": "U15J5H60P",
+        "ts": "1517541660.000106"
+    },
+    {
+        "type": "message",
+        "text": "A transaction is a string “Andrew sent Evan 19 BTC”",
+        "user": "U15J5H60P",
+        "ts": "1517541676.000028"
+    },
+    {
+        "type": "message",
+        "text": "Then I take the previousHash value’s string and hash that",
+        "user": "U15J5H60P",
+        "ts": "1517541686.000068"
+    },
+    {
+        "type": "message",
+        "text": "And add the nonce at the end",
+        "user": "U15J5H60P",
+        "ts": "1517541698.000158"
+    },
+    {
+        "type": "message",
+        "text": "Then I generate the SHA256 hashcode and convert it into a string",
+        "user": "U15J5H60P",
+        "ts": "1517541715.000053"
+    },
+    {
+        "client_msg_id": "2AED14A2-1F10-4040-89D7-4A6DD377B2D3",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1517541733.000089"
+    },
+    {
+        "client_msg_id": "2200322E-5EB9-4922-BEE0-7E3FAA5C925A",
+        "type": "message",
+        "text": "Yea i dont get it quite yet",
+        "user": "U15HY5TG8",
+        "ts": "1517541752.000240"
+    },
+    {
+        "type": "message",
+        "text": "Very simple. There could probably be a few collisions",
+        "user": "U15J5H60P",
+        "ts": "1517541754.000099"
+    },
+    {
+        "type": "message",
+        "text": "Do that tutorial",
+        "user": "U15J5H60P",
+        "ts": "1517541761.000087"
+    },
+    {
+        "type": "message",
+        "text": "He’s much better at explaining.",
+        "user": "U15J5H60P",
+        "ts": "1517541767.000113"
+    },
+    {
+        "client_msg_id": "A6C73516-6072-4E73-8E07-09D7CAD6262C",
+        "type": "message",
+        "text": "Yea i will",
+        "user": "U15HY5TG8",
+        "ts": "1517541773.000231"
+    },
+    {
+        "type": "message",
+        "text": "Any bets on how long Difficulty 3 is going to take?",
+        "user": "U15J5H60P",
+        "ts": "1517541840.000171"
+    },
+    {
+        "client_msg_id": "A551A609-0948-4004-AF6B-CBD823B2258D",
+        "type": "message",
+        "text": "By yourself on a cpu? An hour",
+        "user": "U15HY5TG8",
+        "ts": "1517541868.000115"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1517541880.000019"
+    },
+    {
+        "client_msg_id": "59CE567C-1FB4-44CC-ACEF-70C95B3E902D",
+        "type": "message",
+        "text": "Yea id say 1-2 hrs",
+        "user": "U15HY5TG8",
+        "ts": "1517541899.000189"
+    },
+    {
+        "type": "message",
+        "text": "I’m gonna say 3 hours",
+        "user": "U15J5H60P",
+        "ts": "1517541912.000258"
+    },
+    {
+        "client_msg_id": "B9B42555-E9ED-4B13-B3F8-B17A52C2FA5C",
+        "type": "message",
+        "text": "Yeah probably closer to that",
+        "user": "U15HY5TG8",
+        "ts": "1517542112.000165"
+    }
+]

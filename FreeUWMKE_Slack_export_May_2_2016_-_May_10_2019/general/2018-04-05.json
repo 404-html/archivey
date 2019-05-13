@@ -1,0 +1,928 @@
+[
+    {
+        "client_msg_id": "ACAF159B-5F48-4DA3-BA5D-DD3B9804E314",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1522934363.000201"
+    },
+    {
+        "client_msg_id": "59044414-1C17-4AC5-9B6A-51B8577404F1",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1522935291.000394"
+    },
+    {
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HRTAHL",
+        "ts": "1522936177.000404"
+    },
+    {
+        "client_msg_id": "FD148F5F-A993-4AE4-B619-5AB7EF4B5515",
+        "type": "message",
+        "text": "This word needs to be retired",
+        "user": "U15HY5TG8",
+        "ts": "1522938003.000811"
+    },
+    {
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1522938108.000057"
+    },
+    {
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HRTAHL",
+        "ts": "1522938139.000269"
+    },
+    {
+        "type": "message",
+        "text": "Teb",
+        "user": "U15HSHSS2",
+        "ts": "1522938271.000330"
+    },
+    {
+        "type": "message",
+        "text": "QmV0",
+        "user": "U15J5H60P",
+        "ts": "1522938422.000369"
+    },
+    {
+        "type": "message",
+        "text": "010000100110010101110100",
+        "user": "U15J5H60P",
+        "ts": "1522938464.000007"
+    },
+    {
+        "type": "message",
+        "text": "B̸̵̨̰͚̫̲̻̮͌̇̅ͥ̈́̒͂̀e͗͐̆̐̈́̿ͪ͆ͣ͛̃̚҉̖͙͔̙̤̳̟̜͚ͅt̼̹͕̦̥̱̼͙͕̜̫͇̜̲̬͉͕̺͕ͨ̔ͧͨ͌ͧ͋̈́̎̍̓̐͐ͩ͑̕͡",
+        "user": "U15HRTAHL",
+        "ts": "1522938541.000631"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1522938614.000374",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/neweditionbet-bet-new-edition-l3q2wbpTeHOa2L3Dq",
+                "image_url": "https:\/\/media3.giphy.com\/media\/l3q2wbpTeHOa2L3Dq\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 139,
+                "image_bytes": 742141,
+                "is_animated": true,
+                "title": "bet",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/neweditionbet\/|New Edition BET>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/neweditionbet-bet-new-edition-l3q2wbpTeHOa2L3Dq"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FA2RVGZ47",
+                "created": 1522938792,
+                "timestamp": 1522938792,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 819971,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FA2RVGZ47\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FA2RVGZ47\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 271,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 361,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 542,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA2RVGZ47-9cf24e3098\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 602,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 722,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FA2RVGZ47\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FA2RVGZ47-726f0f81b2",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1522938795.000729"
+    },
+    {
+        "client_msg_id": "DE41A856-C1E0-47BD-95CE-BE129736B876",
+        "type": "message",
+        "text": "They found the body of the cdc guy who disappeared ",
+        "user": "U15HZ01QX",
+        "ts": "1522949308.000722"
+    },
+    {
+        "type": "message",
+        "text": "wow",
+        "user": "U15HRTAHL",
+        "ts": "1522949467.000368"
+    },
+    {
+        "type": "message",
+        "text": "where?",
+        "user": "U15HRTAHL",
+        "ts": "1522949468.000709"
+    },
+    {
+        "client_msg_id": "7033DFF0-9745-49DD-ADF6-93E1616AD403",
+        "type": "message",
+        "text": "River in Atlanta ",
+        "user": "U15HZ01QX",
+        "ts": "1522949484.000186"
+    },
+    {
+        "type": "message",
+        "text": "man",
+        "user": "U15HRTAHL",
+        "ts": "1522949531.000519"
+    },
+    {
+        "type": "message",
+        "text": "they make it sound like suicide",
+        "user": "U15HRTAHL",
+        "ts": "1522949538.000747"
+    },
+    {
+        "type": "message",
+        "text": "```\nCunningham, of Atlanta, was last seen February 12, shortly after a CDC supervisor told him why he was being passed over for a promotion.\n```",
+        "user": "U15HRTAHL",
+        "ts": "1522949550.000399"
+    },
+    {
+        "type": "message",
+        "text": "CDC?",
+        "user": "U15J5H60P",
+        "ts": "1522950843.000607"
+    },
+    {
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1522950852.000117"
+    },
+    {
+        "type": "message",
+        "text": "Patient 0",
+        "user": "U15J5H60P",
+        "ts": "1522950855.000495"
+    },
+    {
+        "type": "message",
+        "text": "I have a sneaking suspicion that Linkdin connected to my facebook without asking lol",
+        "user": "U15HZ01QX",
+        "ts": "1522952319.000089"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1522952430.000169"
+    },
+    {
+        "type": "message",
+        "text": "Alot of people i actually should connect with started appearing in my suggestions",
+        "user": "U15HZ01QX",
+        "ts": "1522952455.000159"
+    },
+    {
+        "type": "message",
+        "text": "And Kelly..",
+        "user": "U15HZ01QX",
+        "ts": "1522952470.000420"
+    },
+    {
+        "type": "message",
+        "text": "which i dont have on facebook",
+        "user": "U15HZ01QX",
+        "ts": "1522952477.000694"
+    },
+    {
+        "type": "message",
+        "text": "or anywhere for that matter",
+        "user": "U15HZ01QX",
+        "ts": "1522952483.000599"
+    },
+    {
+        "type": "message",
+        "text": "thats concerning",
+        "user": "U15HZ01QX",
+        "ts": "1522952487.000727"
+    },
+    {
+        "type": "message",
+        "text": "Holy crap its almost my 7 year at woodmans",
+        "user": "U15HZ01QX",
+        "ts": "1522952626.000507"
+    },
+    {
+        "type": "message",
+        "text": "that means she was looking you up",
+        "user": "U15HRTAHL",
+        "ts": "1522952711.000194"
+    },
+    {
+        "type": "message",
+        "text": "i doubt that",
+        "user": "U15HZ01QX",
+        "ts": "1522952728.000625"
+    },
+    {
+        "type": "message",
+        "text": "I'm friends with her fb",
+        "user": "U15HRTAHL",
+        "ts": "1522952771.000329"
+    },
+    {
+        "type": "message",
+        "text": "she hasn't posted anything since 2016, or else she just blocked me from new updates",
+        "user": "U15HRTAHL",
+        "ts": "1522952786.000221"
+    },
+    {
+        "type": "message",
+        "text": "How rude",
+        "user": "U15HZ01QX",
+        "ts": "1522952801.000240"
+    },
+    {
+        "type": "message",
+        "text": "mmmm mitch is friends with her. I'm gonna tell him to pull her up",
+        "user": "U15HRTAHL",
+        "ts": "1522952817.000667"
+    },
+    {
+        "type": "message",
+        "text": "mmmmm noooo",
+        "user": "U15HZ01QX",
+        "ts": "1522952906.000072"
+    },
+    {
+        "type": "message",
+        "text": "confirmed block",
+        "user": "U15HRTAHL",
+        "ts": "1522952922.000725"
+    },
+    {
+        "type": "message",
+        "text": "looool",
+        "user": "U15HZ01QX",
+        "ts": "1522952929.000452"
+    },
+    {
+        "client_msg_id": "56453449-C886-4F82-ADDC-9CF1FE98712C",
+        "type": "message",
+        "text": "Lmaoooooo",
+        "user": "U15HY5TG8",
+        "ts": "1522952970.000416"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> are you friends with her?",
+        "user": "U15HRTAHL",
+        "ts": "1522952995.000031"
+    },
+    {
+        "client_msg_id": "846C8CF1-EA70-4DA4-8435-0E2AD2667E9E",
+        "type": "message",
+        "text": "I dont think so",
+        "user": "U15HY5TG8",
+        "ts": "1522953002.000217"
+    },
+    {
+        "type": "message",
+        "text": "I just unfriended her",
+        "user": "U15HRTAHL",
+        "ts": "1522953033.000170"
+    },
+    {
+        "client_msg_id": "FC2098C2-900B-45ED-BC16-855B578E5E00",
+        "type": "message",
+        "text": "Looks like i sent a friend request back in 'nam but was never confirmed",
+        "user": "U15HY5TG8",
+        "ts": "1522953046.000384"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1522953076.000037"
+    },
+    {
+        "type": "message",
+        "text": "I love when that happens",
+        "user": "U15HRTAHL",
+        "ts": "1522953081.000277"
+    },
+    {
+        "client_msg_id": "80FB6335-A4F5-40C5-8B44-D3572BA4BDE4",
+        "type": "message",
+        "text": "I'll cancel so that i'm not inher laughing stock",
+        "user": "U15HY5TG8",
+        "ts": "1522953110.000759"
+    },
+    {
+        "type": "message",
+        "text": "looks like I've got 2 of those myself yet",
+        "user": "U15HRTAHL",
+        "ts": "1522953176.000189"
+    },
+    {
+        "type": "message",
+        "text": "how many do you have?",
+        "user": "U15HRTAHL",
+        "ts": "1522953185.000596"
+    },
+    {
+        "type": "message",
+        "text": "how many outgoing?",
+        "user": "U15HZ01QX",
+        "ts": "1522953204.000281"
+    },
+    {
+        "type": "message",
+        "text": "or incoming",
+        "user": "U15HZ01QX",
+        "ts": "1522953206.000523"
+    },
+    {
+        "client_msg_id": "F31327A0-616C-429D-A0C3-BD07E96BF89D",
+        "type": "message",
+        "text": "Two friend requests that you havent confirmed?",
+        "user": "U15HY5TG8",
+        "ts": "1522953208.000120"
+    },
+    {
+        "type": "message",
+        "text": "outgoing",
+        "user": "U15HRTAHL",
+        "ts": "1522953215.000145"
+    },
+    {
+        "client_msg_id": "3C52A8E6-101E-4807-B0E8-968DE25E1482",
+        "type": "message",
+        "text": "How can you tell?",
+        "user": "U15HY5TG8",
+        "ts": "1522953255.000454"
+    },
+    {
+        "type": "message",
+        "text": "click on the friend icon",
+        "user": "U15HRTAHL",
+        "ts": "1522953262.000731"
+    },
+    {
+        "type": "message",
+        "text": "click find friends",
+        "user": "U15HRTAHL",
+        "ts": "1522953273.000048"
+    },
+    {
+        "type": "message",
+        "text": "then view sent requests",
+        "user": "U15HRTAHL",
+        "ts": "1522953282.000638"
+    },
+    {
+        "type": "message",
+        "text": "ive got 35 outgoing and a hundred something incoming",
+        "user": "U15HZ01QX",
+        "ts": "1522953299.000341"
+    },
+    {
+        "client_msg_id": "15D7B1D7-9FFB-40DA-B0DC-8431D9C9D20A",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1522953310.000326"
+    },
+    {
+        "type": "message",
+        "text": "jeseus",
+        "user": "U15HRTAHL",
+        "ts": "1522953312.000325"
+    },
+    {
+        "client_msg_id": "756FB5E6-3B6E-4AC5-9D37-5E1C0BFBE288",
+        "type": "message",
+        "text": "Can i do this on mobile?",
+        "user": "U15HY5TG8",
+        "ts": "1522953330.000174"
+    },
+    {
+        "type": "message",
+        "text": "Complete honesty i dont remember any of that lol",
+        "user": "U15HZ01QX",
+        "ts": "1522953331.000502"
+    },
+    {
+        "type": "message",
+        "text": "11 incoming 0 outgoing  now",
+        "user": "U15HRTAHL",
+        "ts": "1522953333.000416"
+    },
+    {
+        "client_msg_id": "64696BCC-A72A-45CA-B203-ACF49108B70C",
+        "type": "message",
+        "text": "I cant see themmm",
+        "user": "U15HY5TG8",
+        "ts": "1522953347.000732"
+    },
+    {
+        "type": "message",
+        "text": "you can do it on mobile too",
+        "user": "U15HRTAHL",
+        "ts": "1522953383.000767"
+    },
+    {
+        "client_msg_id": "B63C23E2-30B9-4562-8BB8-9C77036E61A8",
+        "type": "message",
+        "text": "Jesus ive got like 40 outgoing lol",
+        "user": "U15HY5TG8",
+        "ts": "1522953390.000604"
+    },
+    {
+        "type": "message",
+        "text": "lololol",
+        "user": "U15HRTAHL",
+        "ts": "1522953396.000044"
+    },
+    {
+        "client_msg_id": "40210D37-EEA1-4144-81DD-7F607F8E231E",
+        "type": "message",
+        "text": "One of them is haley",
+        "user": "U15HY5TG8",
+        "ts": "1522953460.000246"
+    },
+    {
+        "type": "message",
+        "text": "outgoing?",
+        "user": "U15HZ01QX",
+        "ts": "1522953473.000208"
+    },
+    {
+        "client_msg_id": "A0D98730-C9C5-484F-A9EF-2DA469483227",
+        "type": "message",
+        "text": "Yea",
+        "user": "U15HY5TG8",
+        "ts": "1522953479.000685"
+    },
+    {
+        "type": "message",
+        "text": "oh i remember when we told you to do that",
+        "user": "U15HZ01QX",
+        "ts": "1522953483.000493"
+    },
+    {
+        "client_msg_id": "2D811EEE-6F1F-41E7-887D-910B8565E59B",
+        "type": "message",
+        "text": "Dude i dont know any of these people",
+        "user": "U15HY5TG8",
+        "ts": "1522953603.000702"
+    },
+    {
+        "client_msg_id": "D1884722-D9F8-4BB4-ACF1-62C544331ECD",
+        "type": "message",
+        "text": "I dont think i sent most of these",
+        "user": "U15HY5TG8",
+        "ts": "1522953612.000202"
+    },
+    {
+        "client_msg_id": "EF1F7278-6691-41E9-B72D-5F432C93AE1E",
+        "type": "message",
+        "text": "It says i requested Claire Underwood",
+        "user": "U15HY5TG8",
+        "ts": "1522953626.000064"
+    },
+    {
+        "type": "message",
+        "text": "probably back when you made the account",
+        "user": "U15HZ01QX",
+        "ts": "1522953632.000177"
+    },
+    {
+        "type": "message",
+        "text": "loool",
+        "user": "U15HZ01QX",
+        "ts": "1522953650.000635"
+    },
+    {
+        "type": "message",
+        "text": "Youre a narcoleptic",
+        "user": "U15HZ01QX",
+        "ts": "1522953659.000347"
+    },
+    {
+        "client_msg_id": "97BDCEB2-3DA2-4130-9F74-4FE9D385E9D2",
+        "type": "message",
+        "text": "Lol i did not make that account",
+        "user": "U15HY5TG8",
+        "ts": "1522953690.000509"
+    },
+    {
+        "client_msg_id": "A344B784-10CF-4374-9740-A4063121D52F",
+        "type": "message",
+        "text": "FOH",
+        "user": "U15HY5TG8",
+        "ts": "1522953695.000069"
+    },
+    {
+        "type": "message",
+        "text": "sorry i was saying when you first made your facebook you probably bomb requested a bunch of people",
+        "user": "U15HZ01QX",
+        "ts": "1522953735.000738"
+    },
+    {
+        "client_msg_id": "500EAB27-7BD8-491B-86DD-72EF6A9F1387",
+        "type": "message",
+        "text": "Ooo yeah for sure lol",
+        "user": "U15HY5TG8",
+        "ts": "1522953752.000558"
+    },
+    {
+        "type": "message",
+        "text": "alright thats enough",
+        "user": "U15HZ01QX",
+        "ts": "1522953785.000471"
+    },
+    {
+        "client_msg_id": "B2EFF0EC-A49E-40F6-811D-8F298109E162",
+        "type": "message",
+        "text": "What the hell lol",
+        "user": "U15HY5TG8",
+        "ts": "1522953799.000749"
+    },
+    {
+        "client_msg_id": "2936B9FC-E0A0-47CC-A885-3D154D5C0476",
+        "type": "message",
+        "text": "That was a relevant comment",
+        "user": "U15HY5TG8",
+        "ts": "1522953807.000254"
+    },
+    {
+        "type": "message",
+        "text": "relevant and needed are different",
+        "user": "U15HZ01QX",
+        "ts": "1522953820.000306"
+    },
+    {
+        "client_msg_id": "BD93A647-347C-4F52-8FF7-5B80E6AE5297",
+        "type": "message",
+        "text": "Ehh",
+        "user": "U15HY5TG8",
+        "ts": "1522953828.000266"
+    },
+    {
+        "type": "message",
+        "text": "and youre hispanic",
+        "user": "U15HZ01QX",
+        "ts": "1522953831.000463"
+    },
+    {
+        "client_msg_id": "8FCF6E2B-369B-4B13-B444-88F32B8AB963",
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1522953833.000721"
+    },
+    {
+        "type": "message",
+        "text": "lol you dont have to identify",
+        "user": "U15HZ01QX",
+        "ts": "1522953838.000787"
+    },
+    {
+        "client_msg_id": "92E82462-BBF5-4296-AD09-5AA8739D8F40",
+        "type": "message",
+        "text": "So?",
+        "user": "U15HY5TG8",
+        "ts": "1522953839.000044"
+    },
+    {
+        "client_msg_id": "BA05C832-117D-4905-A40E-1224844283FD",
+        "type": "message",
+        "text": "What do you mean? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1522953853.000524"
+    },
+    {
+        "type": "message",
+        "text": "Nevermind",
+        "user": "U15HZ01QX",
+        "ts": "1522953904.000716"
+    },
+    {
+        "type": "message",
+        "text": "You win",
+        "user": "U15HZ01QX",
+        "ts": "1522953908.000207"
+    },
+    {
+        "type": "message",
+        "text": "Sorry",
+        "user": "U15HZ01QX",
+        "ts": "1522953910.000297"
+    },
+    {
+        "type": "message",
+        "text": "I acquiesce",
+        "user": "U15HZ01QX",
+        "ts": "1522953919.000414"
+    },
+    {
+        "client_msg_id": "44709209-6345-4F8D-B15C-0F92026D96CC",
+        "type": "message",
+        "text": "I want to go home",
+        "user": "U15HY5TG8",
+        "ts": "1522953951.000057"
+    },
+    {
+        "type": "message",
+        "text": "Why",
+        "user": "U15HZ01QX",
+        "ts": "1522953959.000022"
+    },
+    {
+        "client_msg_id": "C48D8CF3-7199-44F6-8195-1DBC18A85377",
+        "type": "message",
+        "text": "Fortnite",
+        "user": "U15HY5TG8",
+        "ts": "1522953976.000652"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FA1E60881",
+                "created": 1522954106,
+                "timestamp": 1522954106,
+                "name": "image.png",
+                "title": "Tier 100 challenges",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 48171,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FA1E60881\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FA1E60881\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1E60881-26c34e5a9b\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1E60881-26c34e5a9b\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1E60881-26c34e5a9b\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 249,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1E60881-26c34e5a9b\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 331,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1E60881-26c34e5a9b\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 646,
+                "original_h": 446,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FA1E60881\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FA1E60881-086ce19297",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1522954108.000242"
+    },
+    {
+        "type": "message",
+        "text": "All annoying, but I've probably done all of them at least once",
+        "user": "U15HZ01QX",
+        "ts": "1522954166.000411"
+    },
+    {
+        "client_msg_id": "EB647C89-7C36-4DE5-9858-1D7E2EA0165D",
+        "type": "message",
+        "text": "Hesus",
+        "user": "U15HY5TG8",
+        "ts": "1522954169.000321"
+    },
+    {
+        "client_msg_id": "97EFC569-3FDC-4663-961B-439B6EE7D399",
+        "type": "message",
+        "text": "7 chests though",
+        "user": "U15HY5TG8",
+        "ts": "1522954178.000669"
+    },
+    {
+        "type": "message",
+        "text": "Junk junction and hanted hills during a game where the bus is going east -&gt; west on the bottom of the map",
+        "user": "U15HZ01QX",
+        "ts": "1522954213.000673"
+    },
+    {
+        "type": "message",
+        "text": "easy",
+        "user": "U15HZ01QX",
+        "ts": "1522954216.000286"
+    },
+    {
+        "type": "message",
+        "text": "itll just be random chance tho",
+        "user": "U15HZ01QX",
+        "ts": "1522954225.000625"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> I made that claire underwood account",
+        "user": "U15HRTAHL",
+        "ts": "1522954358.000067"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> when are you coming back",
+        "user": "U15HZ01QX",
+        "ts": "1522954361.000250"
+    },
+    {
+        "type": "message",
+        "text": "to fortnite",
+        "user": "U15HZ01QX",
+        "ts": "1522954365.000311"
+    },
+    {
+        "type": "message",
+        "text": "eventually. I get really bored of video games after an hour",
+        "user": "U15HRTAHL",
+        "ts": "1522954410.000679"
+    },
+    {
+        "type": "message",
+        "text": "fair",
+        "user": "U15HZ01QX",
+        "ts": "1522954425.000085"
+    },
+    {
+        "client_msg_id": "8D77D889-A3F9-49C5-ADE4-FAECDB81130B",
+        "type": "message",
+        "text": "Ahhh ok <@U15HRTAHL> and i suppooooose",
+        "user": "U15HY5TG8",
+        "ts": "1522954480.000610"
+    },
+    {
+        "type": "message",
+        "text": "I'd still smash",
+        "user": "U15J5H60P",
+        "ts": "1522955454.000045"
+    },
+    {
+        "type": "message",
+        "text": "facebook's search algorithm is completely fucked right now",
+        "user": "U15HRTAHL",
+        "ts": "1522962515.000406"
+    },
+    {
+        "type": "message",
+        "text": "trying to search for someone and I'm guessing it's using an autocorrect feature and searching on that",
+        "user": "U15HRTAHL",
+        "ts": "1522962534.000385"
+    },
+    {
+        "type": "message",
+        "text": "\"Bick\" gives me every \"Nick\"",
+        "user": "U15HRTAHL",
+        "ts": "1522962546.000614"
+    },
+    {
+        "type": "message",
+        "text": "\"BIckus\" searches \"Bucks\" instead",
+        "user": "U15HRTAHL",
+        "ts": "1522962558.000596"
+    },
+    {
+        "client_msg_id": "213AC166-A71A-4DAB-915F-F06A3F908400",
+        "type": "message",
+        "text": "Damn. That's crazy. ",
+        "user": "U15J5H60P",
+        "ts": "1522962624.000060"
+    },
+    {
+        "type": "message",
+        "text": "ya ass",
+        "user": "U15HRTAHL",
+        "ts": "1522962636.000489"
+    },
+    {
+        "client_msg_id": "2E47B25B-AB5B-4817-B2AB-3F21C5109E8F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1522963666.000542"
+    },
+    {
+        "client_msg_id": "c9eadaa2-3fdb-41e7-9cfa-e2bce136f75c",
+        "type": "message",
+        "text": "595 isn't required if you have an internship now I guess",
+        "user": "U15HRTAHL",
+        "ts": "1522964736.000070"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FA1D2JLSU",
+                "created": 1522964748,
+                "timestamp": 1522964748,
+                "name": "Screenshot_20180405-164447.png",
+                "title": "Screenshot_20180405-164447.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 2343432,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FA1D2JLSU\/screenshot_20180405-164447.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FA1D2JLSU\/download\/screenshot_20180405-164447.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FA1D2JLSU-4e5dac6efb\/screenshot_20180405-164447_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2560,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FA1D2JLSU\/screenshot_20180405-164447.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FA1D2JLSU-76d47ecce4",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1522964755.000016"
+    },
+    {
+        "client_msg_id": "FDF31276-242F-4AF2-99B3-2957ECE01ADA",
+        "type": "message",
+        "text": "Interesting haha",
+        "user": "U15HY5TG8",
+        "ts": "1522966170.000083"
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "client_msg_id": "377ed157-b854-40aa-a453-8175b9822619",
+        "type": "message",
+        "text": "We should take a train ",
+        "user": "U15HRTAHL",
+        "ts": "1530779917.000251"
+    },
+    {
+        "client_msg_id": "69e31898-4880-4add-ae0b-27d23aa84e16",
+        "type": "message",
+        "text": "Trains have sleeping carts ",
+        "user": "U15HRTAHL",
+        "ts": "1530779923.000291"
+    },
+    {
+        "client_msg_id": "13F88F3E-47AD-46EC-B9DA-6C8CD122BD18",
+        "type": "message",
+        "text": "Im so tired now",
+        "user": "U15HY5TG8",
+        "ts": "1530780016.000049"
+    },
+    {
+        "client_msg_id": "7B355775-E9C4-4DF8-8A6F-AD566466BC4A",
+        "type": "message",
+        "text": "Yesss sleeping train",
+        "user": "U15HY5TG8",
+        "ts": "1530780031.000237"
+    },
+    {
+        "client_msg_id": "C37EAB05-AC2A-4648-83F2-C5FE6F5983AD",
+        "type": "message",
+        "text": "This is dumb",
+        "user": "U15J5H60P",
+        "ts": "1530780056.000262"
+    },
+    {
+        "client_msg_id": "8A90B2AC-0F12-4B03-9AC4-CCE2865B87ED",
+        "type": "message",
+        "text": "Took one out to san fran. Pretty dope, not good beds though",
+        "user": "U15HY5TG8",
+        "ts": "1530780058.000027"
+    },
+    {
+        "client_msg_id": "79F051B8-0082-4090-BDD8-D90CAAE8FDEB",
+        "type": "message",
+        "text": "Let's cancel the trip",
+        "user": "U15J5H60P",
+        "ts": "1530780064.000062"
+    },
+    {
+        "client_msg_id": "3D49D25F-D435-4BC2-A1C4-5920B6195C50",
+        "type": "message",
+        "text": "Im backing out. I need 2 more hours of sleep",
+        "user": "U15HY5TG8",
+        "ts": "1530780086.000155"
+    },
+    {
+        "client_msg_id": "45F4A1A4-61F2-440D-A01C-0D8BADDB100F",
+        "type": "message",
+        "text": "Hagt",
+        "user": "U15J5H60P",
+        "ts": "1530780129.000051"
+    },
+    {
+        "client_msg_id": "5524608C-8AFF-43BB-BCAE-DA5D1FD79EED",
+        "type": "message",
+        "text": "When are you picking me up?",
+        "user": "U15HY5TG8",
+        "ts": "1530780152.000071"
+    },
+    {
+        "client_msg_id": "A9462BFD-29CE-4D8F-AF6B-0635226811BF",
+        "type": "message",
+        "text": "In a couple hours",
+        "user": "U15J5H60P",
+        "ts": "1530780167.000269"
+    },
+    {
+        "client_msg_id": "56B0AACC-AB99-40BE-AC5F-CC34F80DAEBA",
+        "type": "message",
+        "text": "Lemme shower and I'll let you guys know",
+        "user": "U15J5H60P",
+        "ts": "1530780182.000141"
+    },
+    {
+        "client_msg_id": "F0DC08F7-D45E-4555-A2E5-A86FA36CF8E3",
+        "type": "message",
+        "text": "Aight",
+        "user": "U15HY5TG8",
+        "ts": "1530780187.000256"
+    },
+    {
+        "client_msg_id": "C92BA184-704E-4B29-BA6C-185341759A00",
+        "type": "message",
+        "text": "I need to shower too",
+        "user": "U15HY5TG8",
+        "ts": "1530780195.000356"
+    },
+    {
+        "client_msg_id": "56BF3AE9-1960-4390-BB68-54AF5B37145B",
+        "type": "message",
+        "text": "<@U15HRTAHL> ready?",
+        "user": "U15J5H60P",
+        "ts": "1530781216.000102"
+    },
+    {
+        "client_msg_id": "B4D56AAB-48F2-40C8-B2D1-343796977462",
+        "type": "message",
+        "text": "<@U15HSHSS2> ",
+        "user": "U15J5H60P",
+        "ts": "1530781480.000407"
+    },
+    {
+        "client_msg_id": "D90A4C11-C2E5-4533-9C3D-6A4E3714367F",
+        "type": "message",
+        "text": "<@U15HSHSS2> ",
+        "user": "U15J5H60P",
+        "ts": "1530781484.000006"
+    },
+    {
+        "client_msg_id": "661B6411-E857-4AB4-B2F5-5B17876C94EB",
+        "type": "message",
+        "text": "Is Tommy up?",
+        "user": "U15J5H60P",
+        "ts": "1530781490.000056"
+    },
+    {
+        "client_msg_id": "ddca7c8d-c34e-456f-a493-a4bf00ecb345",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C98CVPJBH\/p1530723965000108>",
+        "user": "U15HRTAHL",
+        "ts": "1530781496.000172",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C98CVPJBH\/p1530723965000108",
+                "fallback": "[July 4th, 2018 10:06 AM] andrew: Leaving my place around 430",
+                "ts": "1530723965.000108",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C98CVPJBH",
+                "channel_name": "vegas",
+                "is_msg_unfurl": true,
+                "text": "Leaving my place around 430",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-05-22\/369072740902_df6e3b2c6b7414f16d77_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C98CVPJBH\/p1530723965000108",
+                "footer": "Posted in #vegas"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C51B869D-3CCD-4D62-A3C5-80705AB17B6D",
+        "type": "message",
+        "text": "Sorry Joe",
+        "user": "U15J5H60P",
+        "ts": "1530781504.000069"
+    },
+    {
+        "client_msg_id": "44a1510c-433d-4414-80e3-4a1d4f42bac4",
+        "type": "message",
+        "text": "What Happened with that?",
+        "user": "U15HRTAHL",
+        "ts": "1530781504.000091"
+    },
+    {
+        "client_msg_id": "81C2D00B-8582-45FA-8275-299761AC6513",
+        "type": "message",
+        "text": "I wasn't trying to push you, I'm ready when you are. I woke up earlier than expected.b",
+        "user": "U15J5H60P",
+        "ts": "1530781527.000116"
+    },
+    {
+        "client_msg_id": "bbdd6615-5059-4a2d-ab84-76f4bc9fb0b2",
+        "type": "message",
+        "text": "I'll be ready in like 15",
+        "user": "U15HRTAHL",
+        "ts": "1530781541.000212"
+    },
+    {
+        "client_msg_id": "551288A1-2F7B-4D60-8DB4-A1FB6F70ABB8",
+        "type": "message",
+        "text": "Okie dokie",
+        "user": "U15J5H60P",
+        "ts": "1530781545.000374"
+    },
+    {
+        "client_msg_id": "7872F002-4000-4C5E-B821-BA5AA930EEAC",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1530781812.000124"
+    },
+    {
+        "client_msg_id": "D22E3B83-20D2-45B9-BBDF-36801C8D7EE3",
+        "type": "message",
+        "text": "Should i start packing?",
+        "user": "U15HY5TG8",
+        "ts": "1530781853.000213"
+    },
+    {
+        "client_msg_id": "b66fd563-6714-43a9-9a43-96b7c07d0513",
+        "type": "message",
+        "text": "I'm pretty much ready ",
+        "user": "U15HRTAHL",
+        "ts": "1530782288.000234"
+    },
+    {
+        "client_msg_id": "7F02A75E-1C54-401D-B58C-B7EA2013EBB3",
+        "type": "message",
+        "text": "I'm here",
+        "user": "U15J5H60P",
+        "ts": "1530782298.000028"
+    },
+    {
+        "client_msg_id": "e29f99ff-3f3a-4469-88a6-ae0128903cea",
+        "type": "message",
+        "text": "Heyzoos",
+        "user": "U15HRTAHL",
+        "ts": "1530782308.000130"
+    },
+    {
+        "client_msg_id": "a08d6ce1-4895-47ce-93f0-35802319a05e",
+        "type": "message",
+        "text": "On my way down ",
+        "user": "U15HRTAHL",
+        "ts": "1530782312.000093"
+    },
+    {
+        "client_msg_id": "16282759-E57F-4550-996D-F907B20F1073",
+        "type": "message",
+        "text": "Sounds good",
+        "user": "U15J5H60P",
+        "ts": "1530782324.000227"
+    },
+    {
+        "client_msg_id": "196EC462-ED05-4DBC-932A-7603D4C49AFF",
+        "type": "message",
+        "text": "@EV",
+        "user": "U15J5H60P",
+        "ts": "1530782333.000100"
+    },
+    {
+        "client_msg_id": "5A6037B5-210E-4F10-B883-D6C85C85F219",
+        "type": "message",
+        "text": "Prospect and Brady?",
+        "user": "U15J5H60P",
+        "ts": "1530782344.000070"
+    },
+    {
+        "client_msg_id": "75620431-1A8F-4771-958E-9BFCADABBEF9",
+        "type": "message",
+        "text": "<@U15HY5TG8> ",
+        "user": "U15J5H60P",
+        "ts": "1530782395.000252"
+    },
+    {
+        "client_msg_id": "78101436-DA26-4017-8EDF-52B6FB6ADCAF",
+        "type": "message",
+        "text": "Yee yee",
+        "user": "U15HY5TG8",
+        "ts": "1530782633.000165"
+    },
+    {
+        "client_msg_id": "10A8E049-7934-400F-9A43-6095323A75F8",
+        "type": "message",
+        "text": "We have a Boeing 737-800",
+        "user": "U15J5H60P",
+        "ts": "1530786215.000233"
+    },
+    {
+        "client_msg_id": "A805ECF4-1234-41A1-A5EB-A2170CAA6CC1",
+        "type": "message",
+        "text": "(newer model)",
+        "user": "U15J5H60P",
+        "ts": "1530786221.000075"
+    },
+    {
+        "client_msg_id": "CD713B86-98B2-4BE0-AF93-6DF0ACCA0CA5",
+        "type": "message",
+        "text": "Imo the seats aren't as comfortable and they're closer together ",
+        "user": "U15J5H60P",
+        "ts": "1530786234.000197"
+    },
+    {
+        "client_msg_id": "F754A81F-5D14-4429-802A-AF8B5CF8CB85",
+        "type": "message",
+        "text": "But it'll be a good time",
+        "user": "U15J5H60P",
+        "ts": "1530786241.000038"
+    },
+    {
+        "client_msg_id": "274794A8-EA6D-40AE-8801-836D95B7A176",
+        "type": "message",
+        "text": "Did Tom make it yet?",
+        "user": "U15J5H60P",
+        "ts": "1530786244.000223"
+    },
+    {
+        "client_msg_id": "145d1813-c61c-43d0-814a-84a03c278011",
+        "type": "message",
+        "text": "SWA2152 <!channel>",
+        "user": "U15HRTAHL",
+        "ts": "1530788639.000183",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1530788658.000000"
+        }
+    },
+    {
+        "client_msg_id": "d2eb185a-7539-48f5-86fa-fc09c3cf47aa",
+        "type": "message",
+        "text": "bet",
+        "user": "U15J5H60P",
+        "ts": "1530796314.000088"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1530796314.000141",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media0.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    }
+]

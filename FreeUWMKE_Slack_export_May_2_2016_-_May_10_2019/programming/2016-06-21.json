@@ -1,0 +1,188 @@
+[
+    {
+        "type": "message",
+        "text": "I have a jquery to js to html question for you guys",
+        "user": "U15HY5TG8",
+        "ts": "1466542174.000002"
+    },
+    {
+        "type": "message",
+        "text": "go for it",
+        "user": "U15HRTAHL",
+        "ts": "1466542196.000003"
+    },
+    {
+        "type": "message",
+        "text": "So weve got this spinner for loading screens obviously in jquery. I cannot figure out how or where its mapped to js and then how or where its mapped to a certain html element",
+        "user": "U15HY5TG8",
+        "ts": "1466542256.000004"
+    },
+    {
+        "type": "message",
+        "text": "As an example, sometimes it shows up on the screen and sometimes it shows up in a popup under \"$modal\"",
+        "user": "U15HY5TG8",
+        "ts": "1466542324.000005"
+    },
+    {
+        "type": "message",
+        "text": "so the jquery will probably have something like this \n```\n$(#someIdlement)({\n     \/\/some spinner shit;\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1466542344.000006"
+    },
+    {
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1466542361.000007"
+    },
+    {
+        "type": "message",
+        "text": "Well let me look exactly",
+        "user": "U15HY5TG8",
+        "ts": "1466542372.000008"
+    },
+    {
+        "type": "message",
+        "text": "Yeaaa i dont see dollar signs",
+        "user": "U15HY5TG8",
+        "ts": "1466542582.000009"
+    },
+    {
+        "type": "message",
+        "text": "well jquery uses dollar signs",
+        "user": "U15HRTAHL",
+        "ts": "1466542610.000010"
+    },
+    {
+        "type": "message",
+        "text": "unless its assigned to some variable\n```\nvar jq = jquery.noConflict();\n```\nthen it would be \n```\njq(#someIdlement)({\n     \/\/some spinner shit;\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1466542672.000011"
+    },
+    {
+        "type": "message",
+        "text": "what browser are you using?",
+        "user": "U15HRTAHL",
+        "ts": "1466542695.000012"
+    },
+    {
+        "type": "message",
+        "text": "Chrome",
+        "user": "U15HY5TG8",
+        "ts": "1466542715.000013"
+    },
+    {
+        "type": "message",
+        "text": "set up some break points int chrome. Go to the developer tools and click on the sources tab",
+        "user": "U15HRTAHL",
+        "ts": "1466542734.000014"
+    },
+    {
+        "type": "message",
+        "text": "then find your js",
+        "user": "U15HRTAHL",
+        "ts": "1466542739.000015"
+    },
+    {
+        "type": "message",
+        "text": "Oo ok i found the main jquery",
+        "user": "U15HY5TG8",
+        "ts": "1466542747.000016"
+    },
+    {
+        "type": "message",
+        "text": "Its under the name $.widget",
+        "user": "U15HY5TG8",
+        "ts": "1466542759.000017"
+    },
+    {
+        "type": "message",
+        "text": "But ive never seen $.widget in any of the code",
+        "user": "U15HY5TG8",
+        "ts": "1466542858.000018"
+    },
+    {
+        "type": "message",
+        "text": "Js code that is",
+        "user": "U15HY5TG8",
+        "ts": "1466542873.000019"
+    },
+    {
+        "type": "message",
+        "text": "thats part of jquery",
+        "user": "U15HRTAHL",
+        "ts": "1466542874.000020"
+    },
+    {
+        "type": "message",
+        "text": "Ahh",
+        "user": "U15HY5TG8",
+        "ts": "1466542889.000021"
+    },
+    {
+        "type": "message",
+        "text": "So what do i search for in the dev tools?",
+        "user": "U15HY5TG8",
+        "ts": "1466543116.000022"
+    },
+    {
+        "type": "message",
+        "text": "whatever js file you’re having issues with",
+        "user": "U15HRTAHL",
+        "ts": "1466543177.000023"
+    },
+    {
+        "type": "message",
+        "text": "then you can see the code and setup break points",
+        "user": "U15HRTAHL",
+        "ts": "1466543239.000025"
+    },
+    {
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1466543623.000026"
+    },
+    {
+        "type": "message",
+        "text": "Welp...cant figure out where the breakpoint needs to be set i guess",
+        "user": "U15HY5TG8",
+        "ts": "1466543764.000027"
+    },
+    {
+        "type": "message",
+        "text": "I put two where i thought they should be and then after pressing submit, it did not stop at a breakpoint :neutral_face:",
+        "user": "U15HY5TG8",
+        "ts": "1466543891.000028"
+    },
+    {
+        "type": "message",
+        "text": "refresh the page with the console open",
+        "user": "U15HRTAHL",
+        "ts": "1466543934.000029"
+    },
+    {
+        "type": "message",
+        "text": "3rd party App Store ",
+        "user": "U15J5H60P",
+        "ts": "1466564693.000002"
+    },
+    {
+        "type": "message",
+        "text": "Hmmmmm.....",
+        "user": "U15J5H60P",
+        "ts": "1466564725.000003"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>:",
+        "user": "U15J5H60P",
+        "ts": "1466567811.000004"
+    },
+    {
+        "type": "message",
+        "text": "Thank me l8r",
+        "user": "U15J5H60P",
+        "ts": "1466567836.000005"
+    }
+]

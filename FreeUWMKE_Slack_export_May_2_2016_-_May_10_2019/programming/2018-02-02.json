@@ -1,0 +1,242 @@
+[
+    {
+        "type": "message",
+        "text": "i got the script to work for sending me an email about my miner. Its faster to send and email straight to gmail and then forward it to my phone than it is for me to send and email from my actual other email to my gmail",
+        "user": "U15HY5TG8",
+        "ts": "1517626228.000057"
+    },
+    {
+        "client_msg_id": "286E603A-6408-47BA-8027-479A53D84689",
+        "type": "message",
+        "text": "Why not send it straight to your phone?",
+        "user": "U15J5H60P",
+        "ts": "1517626484.000074"
+    },
+    {
+        "type": "message",
+        "text": "att appears to have some sort of filter on unknown senders",
+        "user": "U15HY5TG8",
+        "ts": "1517626512.000065"
+    },
+    {
+        "client_msg_id": "1737A4CC-8422-4614-A82C-8645FF378C39",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1517626526.000056"
+    },
+    {
+        "client_msg_id": "69A89AF5-4D99-47DE-A64E-463B4F6B90B7",
+        "type": "message",
+        "text": "Actually no, I use it on one of my sites and it works fine",
+        "user": "U15J5H60P",
+        "ts": "1517626567.000046"
+    },
+    {
+        "client_msg_id": "FBDA8746-8E59-4218-9466-3D90C86B72FC",
+        "type": "message",
+        "text": "What is your script written in?",
+        "user": "U15J5H60P",
+        "ts": "1517626590.000011"
+    },
+    {
+        "type": "message",
+        "text": "just a bash file",
+        "user": "U15HY5TG8",
+        "ts": "1517626621.000034"
+    },
+    {
+        "client_msg_id": "99936A94-EF1E-4378-BD51-833968D1A110",
+        "type": "message",
+        "text": "Jeez",
+        "user": "U15J5H60P",
+        "ts": "1517626633.000095"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1517626647.000009"
+    },
+    {
+        "client_msg_id": "9F63F0D7-D8B7-4F3C-AFC5-859C2B1E47C7",
+        "type": "message",
+        "text": "Lol ",
+        "user": "U15J5H60P",
+        "ts": "1517626650.000092"
+    },
+    {
+        "client_msg_id": "0E9E5A17-298D-4B91-AA03-30877C8BA471",
+        "type": "message",
+        "text": "As long as it does the job!",
+        "user": "U15J5H60P",
+        "ts": "1517626675.000066"
+    },
+    {
+        "type": "message",
+        "text": "yeee lol",
+        "user": "U15HY5TG8",
+        "ts": "1517626701.000019"
+    },
+    {
+        "type": "message",
+        "text": "i definitely could write it in js i suppose",
+        "user": "U15HY5TG8",
+        "ts": "1517626713.000098"
+    },
+    {
+        "type": "message",
+        "text": "idk if ive ever made an app that wasnt a website though",
+        "user": "U15HY5TG8",
+        "ts": "1517626732.000067"
+    },
+    {
+        "client_msg_id": "92A94F42-5894-44C5-AE9A-323FF29A1FFF",
+        "type": "message",
+        "text": "I would've used python",
+        "user": "U15J5H60P",
+        "ts": "1517626736.000046"
+    },
+    {
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1517626750.000093"
+    },
+    {
+        "type": "message",
+        "text": "well maybe ill try that",
+        "user": "U15HY5TG8",
+        "ts": "1517626755.000110"
+    },
+    {
+        "client_msg_id": "C9942795-FDFC-4F7D-AC80-1E208C617CD6",
+        "type": "message",
+        "text": "Eh, why do it if you've got it working already?",
+        "user": "U15J5H60P",
+        "ts": "1517626767.000039"
+    },
+    {
+        "type": "message",
+        "text": "did you do that from the command line too?",
+        "user": "U15HY5TG8",
+        "ts": "1517626767.000115"
+    },
+    {
+        "client_msg_id": "A87F154A-BC7C-43E1-BE22-3D010D00A374",
+        "type": "message",
+        "text": "Do what?",
+        "user": "U15J5H60P",
+        "ts": "1517626778.000130"
+    },
+    {
+        "type": "message",
+        "text": "idk haha just cause",
+        "user": "U15HY5TG8",
+        "ts": "1517626779.000022"
+    },
+    {
+        "type": "message",
+        "text": "write the python file",
+        "user": "U15HY5TG8",
+        "ts": "1517626788.000096"
+    },
+    {
+        "type": "message",
+        "text": "python script*",
+        "user": "U15HY5TG8",
+        "ts": "1517626796.000046"
+    },
+    {
+        "client_msg_id": "E42CD02C-BBA4-48AF-93FC-56C7440FA85F",
+        "type": "message",
+        "text": "Oh no, just use any code editor then you can run it in a terminal",
+        "user": "U15J5H60P",
+        "ts": "1517626813.000176"
+    },
+    {
+        "type": "message",
+        "text": "ahh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1517626825.000321"
+    },
+    {
+        "type": "message",
+        "text": "cause id like to also use cron to put it on a schedule",
+        "user": "U15HY5TG8",
+        "ts": "1517626839.000084"
+    },
+    {
+        "client_msg_id": "8EB08A8B-2027-44A2-BCBC-CFFAB150EDEC",
+        "type": "message",
+        "text": "Running it on Windows?",
+        "user": "U15J5H60P",
+        "ts": "1517626850.000088"
+    },
+    {
+        "type": "message",
+        "text": "noope",
+        "user": "U15HY5TG8",
+        "ts": "1517626861.000113"
+    },
+    {
+        "client_msg_id": "E961420F-86D9-4061-A5FA-07369EC3C92B",
+        "type": "message",
+        "text": "What are you using?",
+        "user": "U15J5H60P",
+        "ts": "1517626867.000047"
+    },
+    {
+        "type": "message",
+        "text": "my mac",
+        "user": "U15HY5TG8",
+        "ts": "1517626875.000104"
+    },
+    {
+        "client_msg_id": "A7B006E9-8765-4394-A256-D0AE060D46DF",
+        "type": "message",
+        "text": "Ah. ",
+        "user": "U15J5H60P",
+        "ts": "1517626883.000056"
+    },
+    {
+        "type": "message",
+        "text": "bash is fucking stupid",
+        "user": "U15HY5TG8",
+        "ts": "1517628998.000030"
+    },
+    {
+        "type": "message",
+        "text": "```#!\/bin\/bash\n\nRate=\"1800\"\n\nHash=`curl -s http:\/4b4097.ethosdistro.com\/?json=yes | jq -r '.rigs.\"7ef0cf\".hash' | jq 'floor'`\nGPUTemps= `curl -s http:\/4b4097.ethosdistro.com\/?json=yes | jq -r '.rigs.\"7ef0cf\".temp' | jq '.'`\nCPUTemp= `curl -s http:\/4b4097.ethosdistro.com\/?json=yes | jq -r '.rigs.\"7ef0cf\".cpu_temp' | jq 'floor'`\n\nif [ $Hash -lt $Rate ] &amp;&amp; [ ! -f \/Users\/ripple\/MiningScheduler\/sentsms ]\nthen\n        echo '\\nCurrent total hash: ' $Hash $GPUTemps $CPUTemp| mailx -s \"Subject\" <mailto:ebauer1993@gmail.com|ebauer1993@gmail.com>\n\nfi\nexit;```",
+        "user": "U15HY5TG8",
+        "ts": "1517629131.000014"
+    },
+    {
+        "type": "message",
+        "text": "when i run this is says \n```\nLine 6: 60: Command not found\nLine 7: 35: Command not found\n```",
+        "user": "U15HY5TG8",
+        "ts": "1517629176.000075"
+    },
+    {
+        "type": "message",
+        "text": "so basically, it does the curl statement correct, but then it assigns GPUTemps and CPUTemp to the numbers above and then says \"nah we dont know what that means\"",
+        "user": "U15HY5TG8",
+        "ts": "1517629230.000085",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1517629239.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "im rewriting in python now",
+        "user": "U15HY5TG8",
+        "ts": "1517634343.000024"
+    },
+    {
+        "type": "message",
+        "text": "i bet <@U15HRTAHL> is salty about my choice",
+        "user": "U15HY5TG8",
+        "ts": "1517634354.000019"
+    }
+]

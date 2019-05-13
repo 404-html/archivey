@@ -1,0 +1,477 @@
+[
+    {
+        "client_msg_id": "85692efa-7089-4236-93b1-4efe39cc77a8",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=_h1ooyyFkF0>",
+        "user": "U15HRTAHL",
+        "ts": "1551715029.000200",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Automation: Last Week Tonight with John Oliver (HBO)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=_h1ooyyFkF0",
+                "author_name": "LastWeekTonight",
+                "author_link": "https:\/\/www.youtube.com\/user\/LastWeekTonight",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/_h1ooyyFkF0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Automation: Last Week Tonight with John Oliver (HBO)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/_h1ooyyFkF0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=_h1ooyyFkF0",
+                "service_icon": "https:\/\/cfr.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=_h1ooyyFkF0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3baf7acb-ec27-4876-a703-a99e5be08280",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15HRTAHL",
+        "ts": "1551715030.000500"
+    },
+    {
+        "client_msg_id": "d0ccdee9-474d-41cd-8f65-9165ab26a0f5",
+        "type": "message",
+        "text": "Yeah, i watched it last night. Interesting episode",
+        "user": "U15HSHSS2",
+        "ts": "1551715205.000900"
+    },
+    {
+        "client_msg_id": "56950e42-70bf-4817-af09-432a8038b6a5",
+        "type": "message",
+        "text": "Just curious, how did you watch it? I was checking the hbo go app and it said it doesn’t get uploaded until the next day",
+        "user": "U15HRTAHL",
+        "ts": "1551715254.001800"
+    },
+    {
+        "client_msg_id": "6aa1fe0d-dfe0-423e-956b-80ca87628b07",
+        "type": "message",
+        "text": "do you have cable?",
+        "user": "U15HRTAHL",
+        "ts": "1551715258.002100"
+    },
+    {
+        "client_msg_id": "042535b8-d813-4836-a17a-b072d52566ce",
+        "type": "message",
+        "text": "or does your hackerman service get it?",
+        "user": "U15HRTAHL",
+        "ts": "1551715265.002500"
+    },
+    {
+        "client_msg_id": "e54b5c88-baab-457e-90c5-123a9d0020a1",
+        "type": "message",
+        "text": "It airs around 10pm, and is usually on plex by midnight. However last night around midnight it wasn't on plex yet, so I watched it on HBO GO",
+        "user": "U15HSHSS2",
+        "ts": "1551715323.003500"
+    },
+    {
+        "client_msg_id": "98cdd106-277f-4016-8196-8b1e547766cd",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1551715368.003900"
+    },
+    {
+        "client_msg_id": "947e026e-8bb7-46f1-9fe8-19ff6237210a",
+        "type": "message",
+        "text": "I guess I just have to stay up later",
+        "user": "U15HRTAHL",
+        "ts": "1551715379.004200"
+    },
+    {
+        "client_msg_id": "636d310b-59eb-4e84-b768-92713a0b7dc9",
+        "type": "message",
+        "text": "What time did you check?",
+        "user": "U15HSHSS2",
+        "ts": "1551715391.004700"
+    },
+    {
+        "client_msg_id": "49a9ad35-d014-44e3-b27c-296036b98e9c",
+        "type": "message",
+        "text": "Probably 9",
+        "user": "U15HRTAHL",
+        "ts": "1551715396.004900"
+    },
+    {
+        "client_msg_id": "6c6ea97e-3372-4684-964a-9e6450084611",
+        "type": "message",
+        "text": "I go to bed at 10",
+        "user": "U15HRTAHL",
+        "ts": "1551715403.005200"
+    },
+    {
+        "client_msg_id": "19d760f0-6576-4fd0-8da0-52639c2f4738",
+        "type": "message",
+        "text": "lol It didn't even air on HBO at that point",
+        "user": "U15HSHSS2",
+        "ts": "1551715418.005600"
+    },
+    {
+        "client_msg_id": "8a57ad01-35a7-4c07-b91c-941865940208",
+        "type": "message",
+        "text": "yeah I don’t know what time it airs lol",
+        "user": "U15HRTAHL",
+        "ts": "1551715429.005900"
+    },
+    {
+        "client_msg_id": "96284d7e-16a1-41a5-b13f-5a8fb672e067",
+        "type": "message",
+        "text": "it just said new episode sunday",
+        "user": "U15HRTAHL",
+        "ts": "1551715435.006100"
+    },
+    {
+        "client_msg_id": "576929c4-c10c-4218-bd04-a3a439f0acc1",
+        "type": "message",
+        "text": "ah, yeah I think it's available on HBO GO the same time it airs",
+        "user": "U15HSHSS2",
+        "ts": "1551715465.006600"
+    },
+    {
+        "client_msg_id": "07950d44-a24e-47fb-bf40-01812ae3490f",
+        "type": "message",
+        "text": "so around 10",
+        "user": "U15HSHSS2",
+        "ts": "1551715467.006800"
+    },
+    {
+        "client_msg_id": "e32a3b8f-d0c7-47e2-b918-17284d89fe1f",
+        "type": "message",
+        "text": "do you and lakshmi go to bed at the same time?",
+        "user": "U15HRTAHL",
+        "ts": "1551715488.007000"
+    },
+    {
+        "client_msg_id": "a15b6d8d-851e-44b2-8073-3389399d4f65",
+        "type": "message",
+        "text": "roughly",
+        "user": "U15HSHSS2",
+        "ts": "1551715501.007200"
+    },
+    {
+        "client_msg_id": "1b69b85b-f8dd-4b9d-9a53-f42b553e0a39",
+        "type": "message",
+        "text": "we usually get in bed around 11, then I'll usually stay up a little long and watch something",
+        "user": "U15HSHSS2",
+        "ts": "1551715523.007700"
+    },
+    {
+        "client_msg_id": "57b3bd5e-253c-40ec-9edb-2adfe510fa37",
+        "type": "message",
+        "text": "I have a fancy-pants roku remote that has a headphone jack in it so I usually run audio through that while she sleeping",
+        "user": "U15HSHSS2",
+        "ts": "1551715554.008300"
+    },
+    {
+        "client_msg_id": "c760bd22-0774-4342-891c-1256608b07e7",
+        "type": "message",
+        "text": "nice",
+        "user": "U15HRTAHL",
+        "ts": "1551715560.008500"
+    },
+    {
+        "client_msg_id": "3b91a72f-20fc-4962-99c3-04d16e315e01",
+        "type": "message",
+        "text": "I read this last night and that’s why I was asking <https:\/\/www.quora.com\/When-are-new-episodes-of-a-show-available-on-HBO-GO>",
+        "user": "U15HRTAHL",
+        "ts": "1551715584.008900"
+    },
+    {
+        "client_msg_id": "f3801504-dd0c-4ea6-87af-13e2811ad983",
+        "type": "message",
+        "text": "Yeah I definitely watched it before 2AM est",
+        "user": "U15HSHSS2",
+        "ts": "1551715693.009700"
+    },
+    {
+        "client_msg_id": "357214e4-edb3-4d25-b546-0f458a7b1679",
+        "type": "message",
+        "text": "it was like 11 when I watched it last night in the app",
+        "user": "U15HSHSS2",
+        "ts": "1551715701.010000"
+    },
+    {
+        "client_msg_id": "75a63b0e-02b9-43c5-87af-8b5ddfa09bca",
+        "type": "message",
+        "text": "do you know if it’s always that quick?",
+        "user": "U15HRTAHL",
+        "ts": "1551715718.010300"
+    },
+    {
+        "client_msg_id": "c341024f-165e-42b9-a290-75330d8a71a5",
+        "type": "message",
+        "text": "I wonder if it varies",
+        "user": "U15HRTAHL",
+        "ts": "1551715722.010500"
+    },
+    {
+        "client_msg_id": "da95be43-49b7-4547-821c-b92a9e841234",
+        "type": "message",
+        "text": "Not sure, I remember watching Last Week Tonight and a bunch of other HBO shows the same night they aired on HBO GO when I lived at home",
+        "user": "U15HSHSS2",
+        "ts": "1551715774.011500"
+    },
+    {
+        "client_msg_id": "0d9e2b44-693f-4f8c-ab17-ea9c0c7b7c14",
+        "type": "message",
+        "text": "I always just assumed it was on there a few hours after they aired",
+        "user": "U15HSHSS2",
+        "ts": "1551715794.012000"
+    },
+    {
+        "client_msg_id": "5A5FC7CB-F476-4327-9A4F-F847124744AA",
+        "type": "message",
+        "text": "HBO now puts the shows on the same time they air",
+        "user": "U15HZ01QX",
+        "ts": "1551715828.012600"
+    },
+    {
+        "client_msg_id": "6879d9d4-ed2d-4e41-a967-d105e587ce91",
+        "type": "message",
+        "text": "is hbo now extra?",
+        "user": "U15HRTAHL",
+        "ts": "1551715843.013400"
+    },
+    {
+        "client_msg_id": "98df5afa-b3f6-4614-960d-4949786ab5ea",
+        "type": "message",
+        "text": "The response below that answer says they get put up around 10 mins after they air",
+        "user": "U15HSHSS2",
+        "ts": "1551715853.013800"
+    },
+    {
+        "client_msg_id": "1E0DE6C8-68FA-496B-852B-1F26E71864F8",
+        "type": "message",
+        "text": "Game of thrones and insecure and west world are all like 20 seconds behind I know for sure",
+        "user": "U15HZ01QX",
+        "ts": "1551715864.014300"
+    },
+    {
+        "client_msg_id": "2F6DC451-C56E-44E7-892B-713E61D3DBD6",
+        "type": "message",
+        "text": "HBO now is the standalone",
+        "user": "U15HZ01QX",
+        "ts": "1551715875.014600"
+    },
+    {
+        "client_msg_id": "3ce950e6-385b-40dd-87b4-f8d08385c6d7",
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HRTAHL",
+        "ts": "1551715895.014900"
+    },
+    {
+        "client_msg_id": "af05399c-e9da-4655-9157-7d665aba25e4",
+        "type": "message",
+        "text": "how is that different from hbo?",
+        "user": "U15HRTAHL",
+        "ts": "1551715902.015300"
+    },
+    {
+        "client_msg_id": "C5D20C41-1490-4BD5-8787-BF07F79330EF",
+        "type": "message",
+        "text": "HBO go is the companion service you get from having hbo in your cable package",
+        "user": "U15HZ01QX",
+        "ts": "1551715927.016200"
+    },
+    {
+        "client_msg_id": "744C9011-646B-4B1B-9553-4D2D54E19AA3",
+        "type": "message",
+        "text": "HBO now is like Hulu ",
+        "user": "U15HZ01QX",
+        "ts": "1551715934.016600",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1551715952.000000"
+        }
+    },
+    {
+        "client_msg_id": "13F96C50-E82B-40D4-BB60-710E07E51251",
+        "type": "message",
+        "text": "Except all hbo.",
+        "user": "U15HZ01QX",
+        "ts": "1551715942.017000"
+    },
+    {
+        "client_msg_id": "4ada36a1-6e2e-4f50-add0-187e07c718b2",
+        "type": "message",
+        "text": "One is through the cable provider and the other is straight though HBO i think",
+        "user": "U15HSHSS2",
+        "ts": "1551715947.017200"
+    },
+    {
+        "client_msg_id": "168d7047-0af5-4771-be67-31b0746dba53",
+        "type": "message",
+        "text": "ahhhh",
+        "user": "U15HRTAHL",
+        "ts": "1551715982.017600"
+    },
+    {
+        "client_msg_id": "0915e8a1-93c9-46a4-9980-5eb0e75cf204",
+        "type": "message",
+        "text": "that explains it",
+        "user": "U15HRTAHL",
+        "ts": "1551715985.018000"
+    },
+    {
+        "client_msg_id": "2B978DBC-BF31-4C3C-8951-E6375F3CB99D",
+        "type": "message",
+        "text": "HBO go has live right?",
+        "user": "U15HZ01QX",
+        "ts": "1551715986.018100"
+    },
+    {
+        "client_msg_id": "D1BA5086-2F64-4C9A-9C36-A106C52BB4A9",
+        "type": "message",
+        "text": "HBO now doesn’t. But the shows are put on there right when they air",
+        "user": "U15HZ01QX",
+        "ts": "1551716003.018700"
+    },
+    {
+        "client_msg_id": "dd0118f1-37a6-4b4a-aa21-4681bf9bade9",
+        "type": "message",
+        "text": "There's so many damn subscription service for TV\/Movies...",
+        "user": "U15HSHSS2",
+        "ts": "1551716087.019200"
+    },
+    {
+        "client_msg_id": "e42590bf-b216-4c97-bec5-8fdea2f6c6b2",
+        "type": "message",
+        "text": "I have like 6 I feel like",
+        "user": "U15HSHSS2",
+        "ts": "1551716096.019500"
+    },
+    {
+        "client_msg_id": "68880cca-e790-4515-b2f5-56ecc4026460",
+        "type": "message",
+        "text": "Netflix, Hulu, Prime, HBO, I'm sure theres another one I'm forgetting",
+        "user": "U15HSHSS2",
+        "ts": "1551716140.020100"
+    },
+    {
+        "client_msg_id": "47D91EDC-AA9C-4B84-A6B7-F59269F9DAEB",
+        "type": "message",
+        "text": "I have all that as well. Plus Apple Music. And I get sling during football season to watch red zone. I can’t wait to get rid of Netflix ",
+        "user": "U15HZ01QX",
+        "ts": "1551716203.021500"
+    },
+    {
+        "client_msg_id": "afadcb45-7a4b-4503-9cc2-4f4d01f30b7b",
+        "type": "message",
+        "text": "I'm rootin for netflix",
+        "user": "U15HSHSS2",
+        "ts": "1551716244.021700"
+    },
+    {
+        "client_msg_id": "3fcce092-0063-4d02-b0a8-296eb527b4b1",
+        "type": "message",
+        "text": "relatively low sub fee, no ads, decent originals",
+        "user": "U15HSHSS2",
+        "ts": "1551716266.022200"
+    },
+    {
+        "client_msg_id": "A273BCE7-032F-43A6-A17F-66424FAB3DA2",
+        "type": "message",
+        "text": "Ive only got Prime",
+        "user": "U15HY5TG8",
+        "ts": "1551716970.022600"
+    },
+    {
+        "client_msg_id": "1F29A547-2D40-424E-8C94-7B8516AE1FFC",
+        "type": "message",
+        "text": "Buttt i still mooch off my parents netflix",
+        "user": "U15HY5TG8",
+        "ts": "1551717002.023100"
+    },
+    {
+        "client_msg_id": "f15dd5ff-56bc-4ef5-8e9c-de1e4f242189",
+        "type": "message",
+        "text": "<https:\/\/www.washingtonpost.com\/technology\/2019\/03\/04\/tristan-otierney-square-co-founder-dies\/?utm_term=.40d4e9095048>",
+        "user": "U15HRTAHL",
+        "ts": "1551730634.023300",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "Tristan O’Tierney, Square co-founder, dies at 35",
+                "title_link": "https:\/\/www.washingtonpost.com\/technology\/2019\/03\/04\/tristan-otierney-square-co-founder-dies\/?utm_term=.40d4e9095048",
+                "text": "The technologist and photographer had publicly shared his struggle with addiction.",
+                "fallback": "Washington Post: Tristan O’Tierney, Square co-founder, dies at 35",
+                "image_url": "https:\/\/www.washingtonpost.com\/resizer\/umGyUpbLJ1ML9domW_T4mB688pg=\/1484x0\/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com\/public\/ENCXS5R5IMI6TMIL6BNCFZ2YMU.jpg",
+                "from_url": "https:\/\/www.washingtonpost.com\/technology\/2019\/03\/04\/tristan-otierney-square-co-founder-dies\/?utm_term=.40d4e9095048",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 92745,
+                "id": 1,
+                "original_url": "https:\/\/www.washingtonpost.com\/technology\/2019\/03\/04\/tristan-otierney-square-co-founder-dies\/?utm_term=.40d4e9095048"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ec40661-dc69-4543-9d59-1bb4a7d2496c",
+        "type": "message",
+        "text": "I wonder what the drug was",
+        "user": "U15J5H60P",
+        "ts": "1551730724.023600"
+    },
+    {
+        "client_msg_id": "9185c1ab-efea-49a5-92f9-5e88e5ac4135",
+        "type": "message",
+        "text": "Alcohol or heroin?",
+        "user": "U15J5H60P",
+        "ts": "1551730729.023900"
+    },
+    {
+        "client_msg_id": "06fbb549-0ab2-47f7-9cd2-cc1527d405a6",
+        "type": "message",
+        "text": "can’t you read",
+        "user": "U15HRTAHL",
+        "ts": "1551730738.024100"
+    },
+    {
+        "client_msg_id": "d2eb4538-b1c3-4cf1-b8aa-6c6b36c83e37",
+        "type": "message",
+        "text": "addiction killed him",
+        "user": "U15HRTAHL",
+        "ts": "1551730742.024300"
+    },
+    {
+        "client_msg_id": "3c90a4f7-4f8f-4605-aee3-7c6470494394",
+        "type": "message",
+        "text": "not drugs",
+        "user": "U15HRTAHL",
+        "ts": "1551730744.024500"
+    },
+    {
+        "client_msg_id": "3bcb44cb-fba5-4024-878a-444b23c18f80",
+        "type": "message",
+        "text": "o",
+        "user": "U15J5H60P",
+        "ts": "1551730746.024800"
+    },
+    {
+        "client_msg_id": "0897aa46-e4bf-4d47-833f-aa31bfa4739b",
+        "type": "message",
+        "text": "pssh idiot",
+        "user": "U15HRTAHL",
+        "ts": "1551730747.024900"
+    },
+    {
+        "client_msg_id": "b68ea389-15e7-4174-a8ed-5972c9f99803",
+        "type": "message",
+        "text": "breaking the addition addiction is tough",
+        "user": "U15J5H60P",
+        "ts": "1551730762.025100"
+    },
+    {
+        "client_msg_id": "9425129d-a033-47bb-b46c-cbf112cde5db",
+        "type": "message",
+        "text": "my guess is heroin",
+        "user": "U15HRTAHL",
+        "ts": "1551730768.025300"
+    }
+]

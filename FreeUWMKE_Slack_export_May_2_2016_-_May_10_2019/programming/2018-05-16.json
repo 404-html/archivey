@@ -1,0 +1,182 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1526481191.000283"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/warrior.js.org\/en\/>",
+        "user": "U15J5H60P",
+        "ts": "1526481191.000696",
+        "attachments": [
+            {
+                "title": "WarriorJS · An exciting game of programming and Artificial Intelligence",
+                "title_link": "https:\/\/warrior.js.org\/en\/",
+                "text": "An exciting game of programming and Artificial Intelligence",
+                "fallback": "WarriorJS · An exciting game of programming and Artificial Intelligence",
+                "thumb_url": "https:\/\/warrior.js.org\/img\/warriorjs.png",
+                "from_url": "https:\/\/warrior.js.org\/en\/",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/warrior.js.org\/img\/favicon.png",
+                "service_name": "warrior.js.org",
+                "id": 1,
+                "original_url": "https:\/\/warrior.js.org\/en\/"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Sounds sweet, gunna check it out later today",
+        "user": "U15HSHSS2",
+        "ts": "1526481318.000060"
+    },
+    {
+        "type": "message",
+        "text": "I don't see how it's AI",
+        "user": "U15J5H60P",
+        "ts": "1526483080.000442"
+    },
+    {
+        "type": "message",
+        "text": "But it's fun",
+        "user": "U15J5H60P",
+        "ts": "1526483121.000458"
+    },
+    {
+        "type": "message",
+        "text": "Kinda",
+        "user": "U15J5H60P",
+        "ts": "1526483122.001025"
+    },
+    {
+        "type": "message",
+        "text": "It's puzzle solving",
+        "user": "U15J5H60P",
+        "ts": "1526483126.000791"
+    },
+    {
+        "type": "message",
+        "text": "Yeah idk, from what I was reading it sounds like it gives you a scenario and you have to get passed it basically",
+        "user": "U15HSHSS2",
+        "ts": "1526483137.000500"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, that's what it is. Maybe it's AI in terms of programmed video game AI. So not machine learning necessarily.",
+        "user": "U15J5H60P",
+        "ts": "1526483174.000036"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> did you play any of the levels?",
+        "user": "U15HSHSS2",
+        "ts": "1526499834.000465"
+    },
+    {
+        "client_msg_id": "0CF290AA-A66A-442E-AB93-EE01D78EE023",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1526503199.000732"
+    },
+    {
+        "client_msg_id": "48B5A517-4E5B-43E8-85C6-9E2E9372CBAB",
+        "type": "message",
+        "text": "I got to level 4",
+        "user": "U15J5H60P",
+        "ts": "1526503207.000041"
+    },
+    {
+        "client_msg_id": "CF039564-9038-4C75-8388-169EFDDD4808",
+        "type": "message",
+        "text": "Before my meetings ",
+        "user": "U15J5H60P",
+        "ts": "1526503224.000789"
+    },
+    {
+        "type": "message",
+        "text": "same, I can't figure out how get it to realize my warrior is taking damage",
+        "user": "U15HSHSS2",
+        "ts": "1526503254.000230"
+    },
+    {
+        "type": "message",
+        "text": "I think my syntax might just be wrong...",
+        "user": "U15HSHSS2",
+        "ts": "1526503266.000541"
+    },
+    {
+        "type": "message",
+        "text": "saving the health at the end of the turn, then comparing it with the current health at the beginning",
+        "user": "U15HSHSS2",
+        "ts": "1526503300.000674"
+    },
+    {
+        "type": "message",
+        "text": "but it's not working. And there's not currently a way to debug as far as i know",
+        "user": "U15HSHSS2",
+        "ts": "1526503324.000181"
+    },
+    {
+        "client_msg_id": "FF8CA1AF-A76D-439C-AC7E-16E1CB9EFEAC",
+        "type": "message",
+        "text": "at the end of play turn set this.health to warrior.health() \n\nIf at the beginning of the next run through this.health &gt; warrior.heath(), that means you're being attacked so you should walk backward",
+        "user": "U15J5H60P",
+        "ts": "1526503395.000269"
+    },
+    {
+        "client_msg_id": "DE456C73-EA16-4A61-80ED-4CA95C9841E5",
+        "type": "message",
+        "text": "Did you save?",
+        "user": "U15J5H60P",
+        "ts": "1526503416.000145"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HSHSS2",
+        "ts": "1526503422.000414"
+    },
+    {
+        "client_msg_id": "4BB33B1E-C95E-4D08-B373-D1F62D4613D7",
+        "type": "message",
+        "text": "Does your warrior just keep resting or what?",
+        "user": "U15J5H60P",
+        "ts": "1526503432.000626"
+    },
+    {
+        "client_msg_id": "BF7CA584-60EB-4ABC-B2AA-ABAAA7E29F1E",
+        "type": "message",
+        "text": "Let's see the code",
+        "user": "U15J5H60P",
+        "ts": "1526503443.000088"
+    },
+    {
+        "type": "message",
+        "text": "lol damn it",
+        "user": "U15HSHSS2",
+        "ts": "1526503473.000682"
+    },
+    {
+        "type": "message",
+        "text": "using less than instead of greater than on accident",
+        "user": "U15HSHSS2",
+        "ts": "1526503494.000732"
+    },
+    {
+        "client_msg_id": "98838013-3CCA-4201-968B-C079DC844D32",
+        "type": "message",
+        "text": "Derp",
+        "user": "U15J5H60P",
+        "ts": "1526503502.000587"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1526503506.000179"
+    }
+]

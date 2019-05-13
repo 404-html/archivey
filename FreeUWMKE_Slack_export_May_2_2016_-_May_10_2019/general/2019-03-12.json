@@ -1,0 +1,1290 @@
+[
+    {
+        "client_msg_id": "88f26b54-30ac-4a1c-8c8f-e122a7f92fbf",
+        "type": "message",
+        "text": "did everyone see how tommy paid his ticket?",
+        "user": "U15HRTAHL",
+        "ts": "1552401027.000400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGVTLAXKN",
+                "created": 1552401034,
+                "timestamp": 1552401034,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-12, 9:30 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 681104,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGVTLAXKN\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGVTLAXKN\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 263,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 351,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 526,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGVTLAXKN-75ec8cda03\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 585,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 632,
+                "original_h": 865,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGVTLAXKN\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGVTLAXKN-da64d4c5ca",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1552401037.000500"
+    },
+    {
+        "client_msg_id": "3137DB56-A6EA-456C-B8FE-89FBA2A672E4",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1552401068.000900"
+    },
+    {
+        "client_msg_id": "e9d2dab9-f6f4-4d03-bebe-a52bf7d597c5",
+        "type": "message",
+        "text": "<https:\/\/www.theverge.com\/2019\/3\/12\/18260278\/spotify-premium-hulu-bundle-price>",
+        "user": "U15HRTAHL",
+        "ts": "1552404606.001100",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Spotify Premium now includes Hulu for no extra cost",
+                "title_link": "https:\/\/www.theverge.com\/2019\/3\/12\/18260278\/spotify-premium-hulu-bundle-price",
+                "text": "This is the best deal in music streaming.",
+                "fallback": "The Verge: Spotify Premium now includes Hulu for no extra cost",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/MmoVqfGUocooPk0jeKd7hxNrqXs=\/0x146:2040x1214\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/10224901\/acastro_180213_1777_0005.jpg",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1552392000,
+                "from_url": "https:\/\/www.theverge.com\/2019\/3\/12\/18260278\/spotify-premium-hulu-bundle-price",
+                "image_bytes": 90846,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2019\/3\/12\/18260278\/spotify-premium-hulu-bundle-price"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1fe4c3e7-5918-4505-b8bd-3346fbd70ac7",
+        "type": "message",
+        "text": "ik they had this for students",
+        "user": "U15HRTAHL",
+        "ts": "1552404632.001400"
+    },
+    {
+        "client_msg_id": "cc9f77d5-d513-43ed-a71b-a1b97d81b2f6",
+        "type": "message",
+        "text": "but I guess its for premium now",
+        "user": "U15HRTAHL",
+        "ts": "1552404640.001700"
+    },
+    {
+        "client_msg_id": "8A73471B-83E6-4BB1-8217-D229586E9A80",
+        "type": "message",
+        "text": "Hulu basic is the most useless thing in the entire world",
+        "user": "U15HZ01QX",
+        "ts": "1552404689.002200"
+    },
+    {
+        "client_msg_id": "89564e7a-9599-49ca-8322-ea41a6464fb4",
+        "type": "message",
+        "text": "Not when it come with spotify",
+        "user": "U15HSHSS2",
+        "ts": "1552404719.002400"
+    },
+    {
+        "client_msg_id": "97f7f4f4-841c-4d9b-8082-8f5d790121a0",
+        "type": "message",
+        "text": "I just signed up for that last month, except I had to pay like $1 more for it",
+        "user": "U15HSHSS2",
+        "ts": "1552404738.002800"
+    },
+    {
+        "client_msg_id": "85f3ecfc-67a2-42d5-8c94-abb257689296",
+        "type": "message",
+        "text": "access to \"unlimited\" music is well worth 10\/mo",
+        "user": "U15HSHSS2",
+        "ts": "1552404775.003400"
+    },
+    {
+        "client_msg_id": "39226863-feb7-4716-a48e-458444092256",
+        "type": "message",
+        "text": "throw in access to Hulu",
+        "user": "U15HSHSS2",
+        "ts": "1552404781.003700"
+    },
+    {
+        "client_msg_id": "9ca0acd2-6283-455f-b7f6-2c4122a4879c",
+        "type": "message",
+        "text": "totally worth it",
+        "user": "U15HSHSS2",
+        "ts": "1552404786.003900"
+    },
+    {
+        "client_msg_id": "f5dd636f-5359-4310-9715-6f99640216ac",
+        "type": "message",
+        "text": "I use Hulu",
+        "user": "U15J5H60P",
+        "ts": "1552404822.004100"
+    },
+    {
+        "client_msg_id": "c193ec12-9500-4845-89c9-01ae8e7295f8",
+        "type": "message",
+        "text": "For bob's burgers",
+        "user": "U15J5H60P",
+        "ts": "1552404829.004300"
+    },
+    {
+        "client_msg_id": "d30f6924-62b6-4f48-acb6-8149a2d30776",
+        "type": "message",
+        "text": "Cause Tommy takes too long to get it on plex",
+        "user": "U15J5H60P",
+        "ts": "1552404838.004700"
+    },
+    {
+        "client_msg_id": "f5dee855-be70-4e29-ac65-d825d40d9764",
+        "type": "message",
+        "text": "I don't really use it but I know lakshmi does",
+        "user": "U15HSHSS2",
+        "ts": "1552404842.004900"
+    },
+    {
+        "client_msg_id": "b578605c-2607-43bb-a617-e00555c9743a",
+        "type": "message",
+        "text": "whoaaa",
+        "user": "U15HSHSS2",
+        "ts": "1552404846.005100"
+    },
+    {
+        "client_msg_id": "0d6540b9-2f46-4e11-925f-5b75313ad98c",
+        "type": "message",
+        "text": "its auto downloaded next day if not sameday",
+        "user": "U15HSHSS2",
+        "ts": "1552404853.005400"
+    },
+    {
+        "client_msg_id": "599fc415-7241-4ff3-94e5-787e48f840cc",
+        "type": "message",
+        "text": "free same day shipping",
+        "user": "U15HSHSS2",
+        "ts": "1552404867.005800"
+    },
+    {
+        "client_msg_id": "C698833B-ABA8-491E-A193-D8FB62149A81",
+        "type": "message",
+        "text": "Apple announcing their streaming in 2 weeks",
+        "user": "U15HZ01QX",
+        "ts": "1552404876.006100"
+    },
+    {
+        "client_msg_id": "c4fe3a5d-81c8-4823-a90f-3cb2d2b4a000",
+        "type": "message",
+        "text": "streaming service?",
+        "user": "U15HSHSS2",
+        "ts": "1552404886.006300"
+    },
+    {
+        "client_msg_id": "41FAED4B-9FEE-470C-9DEC-585B7670A844",
+        "type": "message",
+        "text": "Yeah ",
+        "user": "U15HZ01QX",
+        "ts": "1552404895.006500"
+    },
+    {
+        "client_msg_id": "406f6c4e-9f55-4738-8a64-a1e20fada9a5",
+        "type": "message",
+        "text": "christ",
+        "user": "U15HSHSS2",
+        "ts": "1552404898.006700"
+    },
+    {
+        "client_msg_id": "2bc84907-f85b-4c44-89e0-5a7f36f2ad8f",
+        "type": "message",
+        "text": "Not buying into that",
+        "user": "U15J5H60P",
+        "ts": "1552404904.007000"
+    },
+    {
+        "client_msg_id": "7396dfbd-1d52-48e4-9402-b33a09404455",
+        "type": "message",
+        "text": "this is why I pirate everything",
+        "user": "U15HSHSS2",
+        "ts": "1552404905.007100"
+    },
+    {
+        "client_msg_id": "69e2a8a8-c3a6-4788-bfc8-afa5ce71fad5",
+        "type": "message",
+        "text": "This is why I use Tommy's pirating service",
+        "user": "U15J5H60P",
+        "ts": "1552404918.007700"
+    },
+    {
+        "client_msg_id": "e89ba51f-b8d0-4754-8dbf-e851422f117c",
+        "type": "message",
+        "text": "I don't have a single pirated song on any device",
+        "user": "U15HSHSS2",
+        "ts": "1552404923.007900"
+    },
+    {
+        "client_msg_id": "3f339cd2-442c-4008-88bd-ec4e8d67ad9a",
+        "type": "message",
+        "text": "because Spotify is how everything should work",
+        "user": "U15HSHSS2",
+        "ts": "1552404934.008200"
+    },
+    {
+        "client_msg_id": "556c4891-d071-4148-8718-86b9a8ba3453",
+        "type": "message",
+        "text": "Let's all go back to cable",
+        "user": "U15J5H60P",
+        "ts": "1552404949.009300"
+    },
+    {
+        "client_msg_id": "C2B1208D-8587-4896-98B0-4F793068C3E2",
+        "type": "message",
+        "text": "I want Apple to release a Hulu live alternative so I can bundle",
+        "user": "U15HZ01QX",
+        "ts": "1552404953.009600"
+    },
+    {
+        "client_msg_id": "ac36ed81-fd34-4aec-8f51-36f1cacb7775",
+        "type": "message",
+        "text": "I want to pay nothing for all of the content",
+        "user": "U15J5H60P",
+        "ts": "1552404964.010000"
+    },
+    {
+        "client_msg_id": "12b8e549-652b-4d3b-a7e3-8dece50fe506",
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1552404965.010200"
+    },
+    {
+        "client_msg_id": "0a0b2628-09b6-4fbe-ac02-299eea82bf46",
+        "type": "message",
+        "text": "one central spot for all streaming services, idk how you avoid a monopoly situation there, but nobodys buying 10 different streaming services",
+        "user": "U15HSHSS2",
+        "ts": "1552404965.010300"
+    },
+    {
+        "client_msg_id": "6d03f9c7-26f6-44ee-9eb1-8369e87f258a",
+        "type": "message",
+        "text": "you don’t want to bundle",
+        "user": "U15HRTAHL",
+        "ts": "1552404968.010500"
+    },
+    {
+        "client_msg_id": "c1d608f9-825f-484f-9b2c-057512c47125",
+        "type": "message",
+        "text": "quit making new things like old things",
+        "user": "U15HRTAHL",
+        "ts": "1552404984.011100"
+    },
+    {
+        "client_msg_id": "14f46d03-6fde-43e3-83d6-95279141a859",
+        "type": "message",
+        "text": "I think plex has that opportunity",
+        "user": "U15J5H60P",
+        "ts": "1552404985.011200"
+    },
+    {
+        "client_msg_id": "2c8c60d3-ea77-4011-a4bf-185768dddf30",
+        "type": "message",
+        "text": "Oh actually",
+        "user": "U15J5H60P",
+        "ts": "1552404993.011600"
+    },
+    {
+        "client_msg_id": "44a4ce60-8f69-49fd-b116-57f82b464c04",
+        "type": "message",
+        "text": "Apple has that already with Apple TV",
+        "user": "U15J5H60P",
+        "ts": "1552404997.011800"
+    },
+    {
+        "client_msg_id": "1962f1e9-90b5-4758-9565-d972ef44ed88",
+        "type": "message",
+        "text": "You can sign in to multiple accounts and see everything that's available all in one app",
+        "user": "U15J5H60P",
+        "ts": "1552405009.012200"
+    },
+    {
+        "client_msg_id": "07C85651-C7F8-453B-8782-0C4ED80525F4",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HZ01QX",
+        "ts": "1552405064.012400"
+    },
+    {
+        "client_msg_id": "402A3E0B-C6B1-4B72-B14F-CE1A77681CAE",
+        "type": "message",
+        "text": "Except Netflix lol",
+        "user": "U15HZ01QX",
+        "ts": "1552405071.012700"
+    },
+    {
+        "client_msg_id": "78e583c0-6c81-4744-81e1-ed3607c80fe2",
+        "type": "message",
+        "text": "unreal",
+        "user": "U15J5H60P",
+        "ts": "1552405080.013000"
+    },
+    {
+        "client_msg_id": "a4be8afb-9a92-47fa-89ba-627337da4b62",
+        "type": "message",
+        "text": "Every streaming device has that, all your streaming apps in one place",
+        "user": "U15HSHSS2",
+        "ts": "1552405111.014300"
+    },
+    {
+        "client_msg_id": "50309c1f-270c-4f9a-b6fc-0a1e0f4b3495",
+        "type": "message",
+        "text": "I just don't want so many apps",
+        "user": "U15HSHSS2",
+        "ts": "1552405118.014600"
+    },
+    {
+        "client_msg_id": "90287D81-F951-43CF-A9E3-16EFD1AB120F",
+        "type": "message",
+        "text": "Andrews talking about the TV app",
+        "user": "U15HZ01QX",
+        "ts": "1552405129.015000"
+    },
+    {
+        "client_msg_id": "A7AF97E7-D42F-4C79-9AF2-70F72D1AA4B1",
+        "type": "message",
+        "text": "It’s a singular app that keeps track of everything you watch on all the different services and every game that’s on and keeps them in order so you know when new stuff is coming",
+        "user": "U15HZ01QX",
+        "ts": "1552405171.016300"
+    },
+    {
+        "client_msg_id": "8a5624d1-3a53-426a-8c52-70925fc82e75",
+        "type": "message",
+        "text": "thats neat",
+        "user": "U15HRTAHL",
+        "ts": "1552405278.016500"
+    },
+    {
+        "client_msg_id": "ae89d216-b518-43b3-9d3e-ad4c1a05e05d",
+        "type": "message",
+        "text": "Ah yeah, my Nivida Shield does that as well",
+        "user": "U15HSHSS2",
+        "ts": "1552405323.017000"
+    },
+    {
+        "client_msg_id": "bfa58253-1d33-479d-b38b-5795fb52823f",
+        "type": "message",
+        "text": "I've heard 0 about Apple TV exclusives",
+        "user": "U15J5H60P",
+        "ts": "1552405485.017400"
+    },
+    {
+        "client_msg_id": "d351453d-0a8d-4016-842a-1f341eb7ae99",
+        "type": "message",
+        "text": "That leads me to believe that they're not going to have any extremely compelling content at launch",
+        "user": "U15J5H60P",
+        "ts": "1552405507.017900"
+    },
+    {
+        "client_msg_id": "0306dcf5-b63f-475b-a4d8-2d755af0f462",
+        "type": "message",
+        "text": "Usually, if there's something super interesting, Apple will leak it to someone",
+        "user": "U15J5H60P",
+        "ts": "1552405527.018400"
+    },
+    {
+        "client_msg_id": "0c69fbca-fb80-44b6-a7e6-baf4436a6679",
+        "type": "message",
+        "text": "will you also need an apple tv to watch it?",
+        "user": "U15HRTAHL",
+        "ts": "1552405530.018600"
+    },
+    {
+        "client_msg_id": "63796078-a5c7-4676-9e82-9aa6b1a73633",
+        "type": "message",
+        "text": "I don't think so",
+        "user": "U15J5H60P",
+        "ts": "1552405542.019000"
+    },
+    {
+        "client_msg_id": "576c7eaf-7ae4-4a6c-b563-20de5367b36a",
+        "type": "message",
+        "text": "Their recent decrease in growth has encouraged them to make their services available on non apple devices",
+        "user": "U15J5H60P",
+        "ts": "1552405567.019600"
+    },
+    {
+        "client_msg_id": "79f32c49-7064-41db-af16-1ebdec6e4872",
+        "type": "message",
+        "text": "For example, Apple Music is now on Android",
+        "user": "U15J5H60P",
+        "ts": "1552405573.019800"
+    },
+    {
+        "client_msg_id": "981be2af-14cf-4222-81c5-e31d2fce76c2",
+        "type": "message",
+        "text": "is it?",
+        "user": "U15HRTAHL",
+        "ts": "1552405600.020000"
+    },
+    {
+        "client_msg_id": "aaae41b2-fd16-43d6-ae19-fe68067b4f5d",
+        "type": "message",
+        "text": "I didn’t know that",
+        "user": "U15HRTAHL",
+        "ts": "1552405603.020200"
+    },
+    {
+        "client_msg_id": "68CD67D1-E321-4114-9181-4CCCA0B774BA",
+        "type": "message",
+        "text": "Apple Music has been on android for 4 years",
+        "user": "U15HZ01QX",
+        "ts": "1552405744.020600"
+    },
+    {
+        "client_msg_id": "B4515B89-DD91-4133-A4D8-FC63F54C5BAE",
+        "type": "message",
+        "text": "And modernized since 2017",
+        "user": "U15HZ01QX",
+        "ts": "1552405753.020900"
+    },
+    {
+        "client_msg_id": "9DD45D70-1005-4DE3-B1E1-BABA805077D1",
+        "type": "message",
+        "text": "Supposedly ",
+        "user": "U15HZ01QX",
+        "ts": "1552405765.021100"
+    },
+    {
+        "client_msg_id": "cbb70e3e-155c-4732-b7a7-1b6f5d416885",
+        "type": "message",
+        "text": "Google must be doing a good job to make sure I never see that app",
+        "user": "U15HRTAHL",
+        "ts": "1552405936.021400"
+    },
+    {
+        "client_msg_id": "06bb4fa9-4a1b-4714-beaa-f3ecdb039ac9",
+        "type": "message",
+        "text": "They'll probably launch with some original content on available on their platform to get people to buy in",
+        "user": "U15HSHSS2",
+        "ts": "1552406008.022100"
+    },
+    {
+        "client_msg_id": "5007ec5e-1f3d-4cd4-ba67-1551e5c1741a",
+        "type": "message",
+        "text": "honestly my hope is that they dont",
+        "user": "U15HZ01QX",
+        "ts": "1552406073.022400"
+    },
+    {
+        "client_msg_id": "bf0338bf-8aa8-4915-9f8c-ee9aa5b94e8f",
+        "type": "message",
+        "text": "I just want a significant live streaming package",
+        "user": "U15HZ01QX",
+        "ts": "1552406086.022800"
+    },
+    {
+        "client_msg_id": "307ac3d1-85bd-4721-887b-c211d78131a8",
+        "type": "message",
+        "text": "original programming just detracts from that",
+        "user": "U15HZ01QX",
+        "ts": "1552406106.023200"
+    },
+    {
+        "client_msg_id": "444d240c-37c4-4ee8-b7f6-53bbf8e660ab",
+        "type": "message",
+        "text": "give me something where i get all the espns and tnt for sports and throw in some general channels",
+        "user": "U15HZ01QX",
+        "ts": "1552406146.023900"
+    },
+    {
+        "client_msg_id": "78414dbd-cb1e-47c5-ba3b-3645852323e2",
+        "type": "message",
+        "text": "disney owns espn",
+        "user": "U15HRTAHL",
+        "ts": "1552406183.024100"
+    },
+    {
+        "client_msg_id": "8711e8c8-5fa3-40fa-b177-ad83f7fdf448",
+        "type": "message",
+        "text": "you’re going to have to get their package",
+        "user": "U15HRTAHL",
+        "ts": "1552406196.024500"
+    },
+    {
+        "client_msg_id": "30b63b21-f629-4852-a102-9621e3e9914a",
+        "type": "message",
+        "text": "yeah but theyre operating differently",
+        "user": "U15HZ01QX",
+        "ts": "1552406324.024800"
+    },
+    {
+        "client_msg_id": "39313d52-895d-44bf-967c-6ee81459a660",
+        "type": "message",
+        "text": "Disney has a streaming service launching",
+        "user": "U15HZ01QX",
+        "ts": "1552406335.025100"
+    },
+    {
+        "client_msg_id": "52af2b7e-ed32-44ba-aaeb-a44a85a94116",
+        "type": "message",
+        "text": "espn has had watchESPN going forever and released ESPN+ last year for strict extra games like boxing, ufc, juventes games etc..",
+        "user": "U15HZ01QX",
+        "ts": "1552406387.026200"
+    },
+    {
+        "client_msg_id": "480267d1-4b28-4f82-abb0-6ecdaaa183ad",
+        "type": "message",
+        "text": "all these different services just mean that recorded content is minimal. stick with the live stuff",
+        "user": "U15HZ01QX",
+        "ts": "1552406473.026800"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "files": [
+            {
+                "id": "FGW39JH6W",
+                "created": 1552407046,
+                "timestamp": 1552407046,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-12, 11:10 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 343656,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGW39JH6W\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGW39JH6W\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW39JH6W-7da1320225\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW39JH6W-7da1320225\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW39JH6W-7da1320225\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW39JH6W-7da1320225\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW39JH6W-7da1320225\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 450,
+                "original_h": 600,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FGW39JH6W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGW39JH6W-b7118e4e90",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1552407054.027100"
+    },
+    {
+        "client_msg_id": "bbbaa821-8637-48e6-93ae-74903bf41e61",
+        "type": "message",
+        "text": "Someone selling for 225",
+        "user": "U15HZ01QX",
+        "ts": "1552407055.027400"
+    },
+    {
+        "client_msg_id": "2C9636BF-1B4C-4301-84B0-2AB1505173B9",
+        "type": "message",
+        "text": "Wait, apple tv doesnt have netflix anymore?",
+        "user": "U15HY5TG8",
+        "ts": "1552407840.027900"
+    },
+    {
+        "client_msg_id": "41e46d8e-5b0e-4a36-9847-e965c7dca64d",
+        "type": "message",
+        "text": "The tv app",
+        "user": "U15HZ01QX",
+        "ts": "1552409530.028100"
+    },
+    {
+        "client_msg_id": "E647C07F-600B-4B6B-8CCB-54EAC7728505",
+        "type": "message",
+        "text": "So theres the apple tv device, then theres an apple tv app?",
+        "user": "U15HY5TG8",
+        "ts": "1552409583.029000"
+    },
+    {
+        "client_msg_id": "03515bb6-4b6c-427d-96e8-94f005fbf4f1",
+        "type": "message",
+        "text": "its probably on your phone",
+        "user": "U15HZ01QX",
+        "ts": "1552409675.029300"
+    },
+    {
+        "client_msg_id": "102C2A56-0396-4E1D-B056-789A35B135CD",
+        "type": "message",
+        "text": "So confused",
+        "user": "U15HY5TG8",
+        "ts": "1552410383.029500"
+    },
+    {
+        "client_msg_id": "6095abf5-2174-428c-95d3-e02f2506d824",
+        "type": "message",
+        "text": "What is the model number?",
+        "user": "U15J5H60P",
+        "ts": "1552411918.029800"
+    },
+    {
+        "client_msg_id": "A32C5BF2-D436-4A46-BE3D-96446B1D0A94",
+        "type": "message",
+        "text": ":man-shrugging::skin-tone-5:",
+        "user": "U15HZ01QX",
+        "ts": "1552411927.030100"
+    },
+    {
+        "client_msg_id": "588C3D00-E63B-4150-B78A-88EEDF8A11FE",
+        "type": "message",
+        "text": "If you’re actually interested I can ask",
+        "user": "U15HZ01QX",
+        "ts": "1552411943.030500"
+    },
+    {
+        "client_msg_id": "a5906e24-8d27-4de9-83cc-c3199ec12c00",
+        "type": "message",
+        "text": "Nah, I'm good",
+        "user": "U15J5H60P",
+        "ts": "1552412050.030700"
+    },
+    {
+        "type": "message",
+        "text": "My computer tried coffee the first time",
+        "files": [
+            {
+                "id": "FGW6GN743",
+                "created": 1552416526,
+                "timestamp": 1552416526,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-12, 1:48 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 13097,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGW6GN743\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGW6GN743\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW6GN743-78f1fca866\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW6GN743-78f1fca866\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW6GN743-78f1fca866\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 53,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW6GN743-78f1fca866\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 71,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGW6GN743-78f1fca866\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 566,
+                "original_h": 84,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGW6GN743\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGW6GN743-a2244e1bc9",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1552416529.030800"
+    },
+    {
+        "client_msg_id": "CB9E874A-1EA6-468E-8A53-685A38F69AD2",
+        "type": "message",
+        "text": "Ha",
+        "user": "U15J5H60P",
+        "ts": "1552416562.031200"
+    },
+    {
+        "client_msg_id": "0F2A5718-A777-4DF9-A6BC-DB7BFD98AFF3",
+        "type": "message",
+        "text": "Go to hell ",
+        "user": "U15J5H60P",
+        "ts": "1552416567.031400"
+    },
+    {
+        "client_msg_id": "14c06241-f25c-4576-92df-1ac5a497e9ef",
+        "type": "message",
+        "text": "James really doesn’t like dad jokes",
+        "user": "U15HRTAHL",
+        "ts": "1552417101.031700"
+    },
+    {
+        "client_msg_id": "b14d5290-d948-430f-a038-c70f6a8babb2",
+        "type": "message",
+        "text": "he banned me from <#C9VFAF76U|joes-wedding>",
+        "user": "U15HRTAHL",
+        "ts": "1552417109.032000"
+    },
+    {
+        "client_msg_id": "4ACD5914-8FEA-4159-83B8-681881CB63AE",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1552417129.032200"
+    },
+    {
+        "client_msg_id": "5E1D2C3D-A8E0-4A34-9C63-617DDE2437D1",
+        "type": "message",
+        "text": "He’s not invited to your wedding so I kicked him ",
+        "user": "U15J5H60P",
+        "ts": "1552419243.032600"
+    },
+    {
+        "client_msg_id": "e86dd9a6-3219-461f-afeb-05f8c9baceb8",
+        "type": "message",
+        "text": "he’s not invited because he’s organizing it",
+        "user": "U15HRTAHL",
+        "ts": "1552419271.032900"
+    },
+    {
+        "client_msg_id": "352f0cbe-09a0-4329-a36e-ffd7119431d5",
+        "type": "message",
+        "text": "along with my bachelor party",
+        "user": "U15HRTAHL",
+        "ts": "1552419282.033200"
+    },
+    {
+        "client_msg_id": "A5DAE19C-AB13-4AD0-86D9-569FED6573AA",
+        "type": "message",
+        "text": "You give me a budget and I’ll plan your bachelor party ",
+        "user": "U15HZ01QX",
+        "ts": "1552422368.034000"
+    },
+    {
+        "client_msg_id": "c7787e08-57f2-49ec-aae9-eaa9224d6b28",
+        "type": "message",
+        "text": "$25 and an instant pot",
+        "user": "U15J5H60P",
+        "ts": "1552422577.034200"
+    },
+    {
+        "client_msg_id": "48e2d7ef-f29d-4866-9ed6-06f732d2b0ec",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/realDonaldTrump\/status\/1105468569800839169>",
+        "user": "U15J5H60P",
+        "ts": "1552422965.034400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/realDonaldTrump|@realDonaldTrump>: Airplanes are becoming far too complex to fly. Pilots are no longer needed, but rather computer scientists from MIT. I see it all the time in many products. Always seeking to go one unnecessary step further, when often old and simpler is far better. Split second decisions are....",
+                "ts": 1552399220,
+                "author_name": "Donald J. Trump",
+                "author_link": "https:\/\/twitter.com\/realDonaldTrump\/status\/1105468569800839169",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+                "author_subname": "@realDonaldTrump",
+                "text": "Airplanes are becoming far too complex to fly. Pilots are no longer needed, but rather computer scientists from MIT. I see it all the time in many products. Always seeking to go one unnecessary step further, when often old and simpler is far better. Split second decisions are....",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/realDonaldTrump\/status\/1105468569800839169",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/realDonaldTrump\/status\/1105468569800839169",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0bdb19c7-6b6c-4de9-bd1f-cf61791a2782",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/realDonaldTrump\/status\/1105445788585467904>",
+        "user": "U15J5H60P",
+        "ts": "1552422998.034700",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/realDonaldTrump|@realDonaldTrump>: Patrick Moore, co-founder of Greenpeace: “The whole climate crisis is not only Fake News, it’s Fake Science. There is no climate crisis, there’s weather and climate all around the world, and in fact carbon dioxide is the main building block of all life.” <https:\/\/twitter.com\/foxandfriends|@foxandfriends>  Wow!",
+                "ts": 1552393788,
+                "author_name": "Donald J. Trump",
+                "author_link": "https:\/\/twitter.com\/realDonaldTrump\/status\/1105445788585467904",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/874276197357596672\/kUuht00m_normal.jpg",
+                "author_subname": "@realDonaldTrump",
+                "text": "Patrick Moore, co-founder of Greenpeace: “The whole climate crisis is not only Fake News, it’s Fake Science. There is no climate crisis, there’s weather and climate all around the world, and in fact carbon dioxide is the main building block of all life.” <https:\/\/twitter.com\/foxandfriends|@foxandfriends>  Wow!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/realDonaldTrump\/status\/1105445788585467904",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/realDonaldTrump\/status\/1105445788585467904",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a78ef6e2-345a-4baf-8131-2f1f5c807fd9",
+        "type": "message",
+        "text": "Seriously",
+        "user": "U15J5H60P",
+        "ts": "1552423002.035100"
+    },
+    {
+        "client_msg_id": "d3ff9511-55db-4c91-834c-2a0d1b6beddc",
+        "type": "message",
+        "text": "Wtf is happening",
+        "user": "U15J5H60P",
+        "ts": "1552423004.035300"
+    },
+    {
+        "client_msg_id": "1d23e58e-dc56-4279-a38e-afbb4e388bee",
+        "type": "message",
+        "text": "<https:\/\/www.greenpeace.org\/usa\/news\/greenpeace-statement-on-patric\/>",
+        "user": "U15HRTAHL",
+        "ts": "1552423366.035500",
+        "attachments": [
+            {
+                "service_name": "Greenpeace USA",
+                "title": "Greenpeace Statement On Patrick Moore",
+                "title_link": "https:\/\/www.greenpeace.org\/usa\/news\/greenpeace-statement-on-patric\/",
+                "text": "Patrick Moore often misrepresents himself in the media as an environmental “expert” or even an “environmentalist,” while offering anti-environmental opinions on a wide range of issues and taking a distinctly anti-environmental stance. He also exploits long-gone ties with Greenpeace to sell himself as a speaker and pro-corporate spokesperson, usually taking positions that Greenpeace opposes.",
+                "fallback": "Greenpeace USA: Greenpeace Statement On Patrick Moore",
+                "from_url": "https:\/\/www.greenpeace.org\/usa\/news\/greenpeace-statement-on-patric\/",
+                "service_icon": "https:\/\/www.greenpeace.org\/usa\/wp-content\/themes\/greenpeace\/img\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.greenpeace.org\/usa\/news\/greenpeace-statement-on-patric\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BA2981A8-9B03-4EEF-93DB-4066FFBC15E0",
+        "type": "message",
+        "text": "Very cool, Patrick!",
+        "user": "U15J5H60P",
+        "ts": "1552424467.036000"
+    },
+    {
+        "client_msg_id": "C92D3B79-4FC3-493D-B5CE-D345642F1336",
+        "type": "message",
+        "text": "Holy shit this weather!",
+        "user": "U15HY5TG8",
+        "ts": "1552424567.036100"
+    },
+    {
+        "client_msg_id": "e221c74d-2381-4102-bc68-8ce2d6764396",
+        "type": "message",
+        "text": "rain tonight into tomorrow",
+        "user": "U15HRTAHL",
+        "ts": "1552424649.036300"
+    },
+    {
+        "client_msg_id": "BDC033AB-E225-4357-8D42-DC26B5B461F0",
+        "type": "message",
+        "text": "Thank Jesus",
+        "user": "U15J5H60P",
+        "ts": "1552424730.036500"
+    },
+    {
+        "client_msg_id": "5BD2026C-87F0-45D4-BB6A-54EA11AB356E",
+        "type": "message",
+        "text": "You guys got anything Saturday ",
+        "user": "U15HZ01QX",
+        "ts": "1552432878.000400"
+    },
+    {
+        "client_msg_id": "04089089-8FA1-48D4-944F-199F1597F381",
+        "type": "message",
+        "text": "Idk doubt it.",
+        "user": "U15HY5TG8",
+        "ts": "1552433635.000800"
+    },
+    {
+        "client_msg_id": "873FC109-9448-451F-89F1-1FD6BC07CC65",
+        "type": "message",
+        "text": "So i just had an apartment viewing that lasted 1.5hrs",
+        "user": "U15HY5TG8",
+        "ts": "1552433652.001400"
+    },
+    {
+        "client_msg_id": "E0BB87E6-1153-4E73-9593-964C7903A2BF",
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15J5H60P",
+        "ts": "1552433692.001600"
+    },
+    {
+        "client_msg_id": "D9801C25-EE1C-4441-9390-939DDA11D1E1",
+        "type": "message",
+        "text": "Why?",
+        "user": "U15J5H60P",
+        "ts": "1552433698.001800"
+    },
+    {
+        "client_msg_id": "1272E154-DCE9-444D-B3E1-7EB499977096",
+        "type": "message",
+        "text": "The landlord was like suuuuuper personable lol",
+        "user": "U15HY5TG8",
+        "ts": "1552433722.002400"
+    },
+    {
+        "client_msg_id": "273f4d5d-ee46-4fc4-a858-f168bfeaa7a7",
+        "type": "message",
+        "text": "<@U15HY5TG8> do you have gas or electric appliances?",
+        "user": "U15HRTAHL",
+        "ts": "1552433853.002900"
+    },
+    {
+        "client_msg_id": "EFA32399-77C6-46D7-AE6F-C0A32A95D251",
+        "type": "message",
+        "text": "Everything electric here",
+        "user": "U15HY5TG8",
+        "ts": "1552433984.003200"
+    },
+    {
+        "client_msg_id": "D907C0C2-4737-4E0A-B7AD-62486E778703",
+        "type": "message",
+        "text": "No why James",
+        "user": "U15J5H60P",
+        "ts": "1552434059.003400"
+    },
+    {
+        "client_msg_id": "78817577-4E9B-46B1-A82B-6A4B1E4A07D7",
+        "type": "message",
+        "text": "Throwing a Fortnite party?",
+        "user": "U15J5H60P",
+        "ts": "1552434075.003700"
+    },
+    {
+        "client_msg_id": "ff5daaf3-dcea-4b84-b110-34affba55605",
+        "type": "message",
+        "text": "Does it ruin your cast iron",
+        "user": "U15HRTAHL",
+        "ts": "1552435285.004300"
+    },
+    {
+        "client_msg_id": "265BF91B-AE83-4084-88F3-6F0296BBF5F0",
+        "type": "message",
+        "text": "My cast iron ruins my stove",
+        "user": "U15HY5TG8",
+        "ts": "1552435300.004700"
+    },
+    {
+        "client_msg_id": "B26604FE-914F-4387-BB9E-B5BFC3A6EC09",
+        "type": "message",
+        "text": "Jk but no i dont think so",
+        "user": "U15HY5TG8",
+        "ts": "1552435349.005100"
+    },
+    {
+        "client_msg_id": "90E8AC3D-A13E-43FA-88BC-A306B8957522",
+        "type": "message",
+        "text": "I just looked at it and its just unseasoned. I havent used mine in like a month",
+        "user": "U15HY5TG8",
+        "ts": "1552435375.005900"
+    },
+    {
+        "client_msg_id": "76e904a3-72f3-443a-a1fb-b52c3788b7f8",
+        "type": "message",
+        "text": "I got this thing called a diffuser and it works perfectly on my electric stove",
+        "user": "U15HRTAHL",
+        "ts": "1552436700.006800"
+    },
+    {
+        "client_msg_id": "FD91F25E-82B5-45AE-AA99-E8E8E278867C",
+        "type": "message",
+        "text": "Innnteresting. Whats the deal with it?",
+        "user": "U15HY5TG8",
+        "ts": "1552436741.007200"
+    },
+    {
+        "client_msg_id": "bda6775a-33f8-4834-a7ca-dfc8911b3008",
+        "type": "message",
+        "text": "It like chips the seasoning ",
+        "user": "U15HRTAHL",
+        "ts": "1552437588.007600"
+    },
+    {
+        "client_msg_id": "597c800b-a551-4039-a5e9-49027e18e12b",
+        "type": "message",
+        "text": "Eats right through it ",
+        "user": "U15HRTAHL",
+        "ts": "1552437601.007900"
+    },
+    {
+        "client_msg_id": "FB43CB19-51F2-4563-8B9F-A1CA4E665F1B",
+        "type": "message",
+        "text": "Ooo",
+        "user": "U15HY5TG8",
+        "ts": "1552439658.008100"
+    },
+    {
+        "client_msg_id": "EE06C836-EB19-42CB-B121-754991F11FCB",
+        "type": "message",
+        "text": "Do you have the coils?",
+        "user": "U15HY5TG8",
+        "ts": "1552439669.008400"
+    },
+    {
+        "client_msg_id": "aa7020d0-fc20-40fe-bc2c-73208053d410",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1552439784.008700"
+    },
+    {
+        "client_msg_id": "a3f94ab1-eaae-4631-9d52-d374591dc9d6",
+        "type": "message",
+        "text": "<https:\/\/www.punchbowlsocial.com\/location\/milwaukee>",
+        "user": "U15HRTAHL",
+        "ts": "1552445750.008900",
+        "attachments": [
+            {
+                "service_name": "https:\/\/www.punchbowlsocial.com",
+                "title": "     Milwaukee Karaoke, Bowling, Event Space | Punch Bowl Social ",
+                "title_link": "https:\/\/www.punchbowlsocial.com\/location\/milwaukee",
+                "text": "Punch Bowl Social in Milwaukee is the one stop hub of entertainment offering karaoke, a bowling alley, and event space to accompany the food and drinks.",
+                "fallback": "https:\/\/www.punchbowlsocial.com:      Milwaukee Karaoke, Bowling, Event Space | Punch Bowl Social ",
+                "from_url": "https:\/\/www.punchbowlsocial.com\/location\/milwaukee",
+                "service_icon": "https:\/\/www.punchbowlsocial.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.punchbowlsocial.com\/location\/milwaukee"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31bb7220-2b08-441d-a1c8-7b61bca816b9",
+        "type": "message",
+        "text": "<@U15HZ01QX>?",
+        "user": "U15HRTAHL",
+        "ts": "1552445755.009200"
+    },
+    {
+        "client_msg_id": "B00EC32D-43FC-467F-8449-2DAAFDC539C2",
+        "type": "message",
+        "text": "I’m terrible with names lol",
+        "user": "U15HZ01QX",
+        "ts": "1552445774.009600"
+    },
+    {
+        "client_msg_id": "8DA48FED-ECD4-41C1-8406-8F7212BE0CC0",
+        "type": "message",
+        "text": "But yes ",
+        "user": "U15HZ01QX",
+        "ts": "1552445790.010000"
+    },
+    {
+        "client_msg_id": "7e96d1b4-a4f6-4857-8164-43a3794f6d1f",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1552446103.010300"
+    },
+    {
+        "client_msg_id": "7baa052f-cebd-489e-b738-66bc50d55b93",
+        "type": "message",
+        "text": "So",
+        "user": "U15HRTAHL",
+        "ts": "1552446104.010400"
+    },
+    {
+        "client_msg_id": "8c3ac214-66c8-4182-b9cf-792af5c9d68d",
+        "type": "message",
+        "text": "Apparently Lilly has been telling me she's going here on Thursday for the past 10 days ",
+        "user": "U15HRTAHL",
+        "ts": "1552446128.011200"
+    },
+    {
+        "client_msg_id": "f731c8fc-45b7-492b-a4d4-6ba1a1701920",
+        "type": "message",
+        "text": "I had no idea ",
+        "user": "U15HRTAHL",
+        "ts": "1552446135.011400"
+    },
+    {
+        "type": "message",
+        "text": "So yeah listen to your females lol",
+        "files": [
+            {
+                "id": "FGWPVH760",
+                "created": 1552446165,
+                "timestamp": 1552446165,
+                "name": "Screenshot_20190312-220228.png",
+                "title": "Screenshot_20190312-220228.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 123159,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGWPVH760\/screenshot_20190312-220228.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGWPVH760\/download\/screenshot_20190312-220228.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGWPVH760-45fd511b15\/screenshot_20190312-220228_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2160,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGWPVH760\/screenshot_20190312-220228.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGWPVH760-c6c2e4a4be",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1552446165.011800",
+        "client_msg_id": "94cb0048-32ec-47ec-8597-9fffd4468567"
+    },
+    {
+        "client_msg_id": "fdb9d4cb-a301-41c3-a888-9301f12d7fc6",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1552446217.013000"
+    },
+    {
+        "client_msg_id": "bdb7eeea-1efc-466e-a0a2-29aaeb45dfc5",
+        "type": "message",
+        "text": "But it sounds like she's busy with her mom Saturday cause her birthday is the 14th but I'll be free ",
+        "user": "U15HRTAHL",
+        "ts": "1552446218.013100"
+    },
+    {
+        "client_msg_id": "9d630943-8cec-4a4b-b375-de5d7f1f5f27",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1552446248.013300"
+    },
+    {
+        "client_msg_id": "add71c6c-0b4d-4930-9802-0551545c9d63",
+        "type": "message",
+        "text": "Which I knew she was going somewhere but I thought she was going to Birch and butcher ",
+        "user": "U15HRTAHL",
+        "ts": "1552446314.013900"
+    },
+    {
+        "client_msg_id": "517fd50a-a118-45ba-ac8f-4d8df0892a17",
+        "type": "message",
+        "text": "Which she is ",
+        "user": "U15HRTAHL",
+        "ts": "1552446317.014100"
+    },
+    {
+        "client_msg_id": "a7758207-07fa-4445-b68b-030dcb969c7c",
+        "type": "message",
+        "text": "But I guess they're going to both places ",
+        "user": "U15HRTAHL",
+        "ts": "1552446329.014400"
+    },
+    {
+        "client_msg_id": "32FFDC86-F7A2-42F2-9EC1-245F68B0661B",
+        "type": "message",
+        "text": "Lol oh man",
+        "user": "U15HZ01QX",
+        "ts": "1552446422.014600"
+    },
+    {
+        "client_msg_id": "6558BE61-65F5-422E-AF51-5FFC379A41B3",
+        "type": "message",
+        "text": "So she’s busy Saturday but going in a few days?",
+        "user": "U15HZ01QX",
+        "ts": "1552446434.015100"
+    },
+    {
+        "client_msg_id": "b3dc7917-92c5-43a9-8f8e-871524eeb71a",
+        "type": "message",
+        "text": "She's going Thursday with work",
+        "user": "U15HRTAHL",
+        "ts": "1552446516.015500"
+    },
+    {
+        "client_msg_id": "A8C23C87-052F-4AE3-BFE7-B134124EA020",
+        "type": "message",
+        "text": "Ah gotcha. I call all you guys and everyone answers first ring except for one person. Guess who",
+        "user": "U15HZ01QX",
+        "ts": "1552446751.016300"
+    },
+    {
+        "client_msg_id": "6630E183-8087-4AB0-AACF-DB33204684EB",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1552446752.016500"
+    },
+    {
+        "client_msg_id": "737A492F-510F-4F74-AB3D-3813B3B3A2A6",
+        "type": "message",
+        "text": "Tom",
+        "user": "U15J5H60P",
+        "ts": "1552446775.016600"
+    },
+    {
+        "client_msg_id": "b6634752-7f98-4a2f-8d96-ac7991f7b463",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1552446780.016800"
+    },
+    {
+        "client_msg_id": "FCD8E7C6-DFA6-4F6D-8167-630089506545",
+        "type": "message",
+        "text": "Bingo!",
+        "user": "U15HZ01QX",
+        "ts": "1552446784.017000"
+    }
+]

@@ -1,0 +1,629 @@
+[
+    {
+        "client_msg_id": "862AEF49-BE74-47AD-8D07-FFE8FE162192",
+        "type": "message",
+        "text": "New aged",
+        "user": "U15HY5TG8",
+        "ts": "1553079388.000400"
+    },
+    {
+        "client_msg_id": "128913d7-68b1-4354-8e2a-166a382e1168",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1553086480.000200"
+    },
+    {
+        "client_msg_id": "e58c0dbb-1948-49dd-a6c9-bd89a047b3e5",
+        "type": "message",
+        "text": "airpods v2 residentSleeper",
+        "user": "U15HZ01QX",
+        "ts": "1553090172.000300"
+    },
+    {
+        "client_msg_id": "99d2b63b-0031-4c9a-aa5a-8fe1c2f51156",
+        "type": "message",
+        "text": "new case is cool <https:\/\/www.apple.com\/shop\/product\/MR8U2AM\/A\/wireless-charging-case-for-airpods>",
+        "user": "U15HZ01QX",
+        "ts": "1553090274.000500",
+        "attachments": [
+            {
+                "service_name": "Apple",
+                "title": "Buy Wireless Charging Case for AirPods",
+                "title_link": "https:\/\/www.apple.com\/shop\/product\/MR8U2AM\/A\/wireless-charging-case-for-airpods",
+                "text": "With the new Wireless Charging Case, charging is as simple as placing the AirPods case on a compatible charging mat. Buy now at <http:\/\/apple.com|apple.com>.",
+                "fallback": "Apple: Buy Wireless Charging Case for AirPods",
+                "image_url": "https:\/\/as-images.apple.com\/is\/image\/AppleInc\/aos\/published\/images\/N\/OI\/NOIMAGE\/NOIMAGE?wid=1200&hei=630&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=0",
+                "from_url": "https:\/\/www.apple.com\/shop\/product\/MR8U2AM\/A\/wireless-charging-case-for-airpods",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 38480,
+                "service_icon": "https:\/\/www.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.apple.com\/shop\/product\/MR8U2AM\/A\/wireless-charging-case-for-airpods"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc010644-a8ee-42ba-b9ad-ce4f156d60a5",
+        "type": "message",
+        "text": "but man what a waste",
+        "user": "U15HZ01QX",
+        "ts": "1553090282.000900"
+    },
+    {
+        "client_msg_id": "E246C208-6A1C-45AD-8CF9-561E5CB160E6",
+        "type": "message",
+        "text": "Lame",
+        "user": "U15HY5TG8",
+        "ts": "1553090361.001100"
+    },
+    {
+        "type": "message",
+        "text": "I think trump needs to have a talk with tim apple",
+        "files": [
+            {
+                "id": "FH4PL643C",
+                "created": 1553090370,
+                "timestamp": 1553090370,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-20, 8:59 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 51919,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH4PL643C\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH4PL643C\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 43,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 58,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 87,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4PL643C-9100e4b17d\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 96,
+                "image_exif_rotation": 1,
+                "original_w": 848,
+                "original_h": 102,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FH4PL643C\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FH4PL643C-be5d715834",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1553090374.001200"
+    },
+    {
+        "client_msg_id": "41A3397A-D284-40BE-ABCD-5255EC0917F2",
+        "type": "message",
+        "text": "AirPower coming soon though",
+        "user": "U15HZ01QX",
+        "ts": "1553090759.001900"
+    },
+    {
+        "client_msg_id": "0c64c09d-d623-4259-9707-cf592fd9015b",
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1553091836.002100"
+    },
+    {
+        "client_msg_id": "5f3e4b8f-7657-48c8-8f95-c2ce7e8b1419",
+        "type": "message",
+        "text": "Apple",
+        "user": "U15J5H60P",
+        "ts": "1553091838.002300"
+    },
+    {
+        "client_msg_id": "3a84771e-e381-40de-aeb9-57c941fdc28e",
+        "type": "message",
+        "text": "What a flat out insult",
+        "user": "U15J5H60P",
+        "ts": "1553091848.002500"
+    },
+    {
+        "client_msg_id": "A9F6A019-8F25-4B80-A212-ED6CEFF9E81D",
+        "type": "message",
+        "text": "What is AirPower",
+        "user": "U15HY5TG8",
+        "ts": "1553092027.002800"
+    },
+    {
+        "client_msg_id": "63556b50-2e27-4a69-8f1a-c10fe552aa0e",
+        "type": "message",
+        "text": "lets you see the status of all your devices",
+        "user": "U15HRTAHL",
+        "ts": "1553092081.003100"
+    },
+    {
+        "client_msg_id": "f2054f33-ac88-4cad-ac05-d69b5c17149d",
+        "type": "message",
+        "text": "charging status*",
+        "user": "U15HRTAHL",
+        "ts": "1553092087.003300"
+    },
+    {
+        "client_msg_id": "c1929ec8-773d-4a59-a54d-3adff5937aae",
+        "type": "message",
+        "text": "what about the power mat?",
+        "user": "U15HRTAHL",
+        "ts": "1553092098.003800"
+    },
+    {
+        "client_msg_id": "ED6849DB-C540-4D93-80B6-D1AC8E9C1002",
+        "type": "message",
+        "text": "It’s just a charging mat",
+        "user": "U15HZ01QX",
+        "ts": "1553092110.004100"
+    },
+    {
+        "client_msg_id": "365a16ae-f28d-4d73-a2c4-0051b2cb663a",
+        "type": "message",
+        "text": "ah",
+        "user": "U15HRTAHL",
+        "ts": "1553092113.004300"
+    },
+    {
+        "client_msg_id": "86BFD813-A3E6-4CDB-BBE0-A10A1F39FB4A",
+        "type": "message",
+        "text": "Thats stupid",
+        "user": "U15HY5TG8",
+        "ts": "1553092168.004500"
+    },
+    {
+        "client_msg_id": "AF7D532F-5C47-4428-9919-C68034EEF102",
+        "type": "message",
+        "text": "I like the idea of seeing all your devices though",
+        "user": "U15HY5TG8",
+        "ts": "1553092182.005100"
+    },
+    {
+        "client_msg_id": "EB1252C4-6AAF-40A7-8B2D-7993689892BF",
+        "type": "message",
+        "text": "Apple is shit",
+        "user": "U15HY5TG8",
+        "ts": "1553092185.005300"
+    },
+    {
+        "client_msg_id": "e95977a4-4ae2-4545-a33a-aa547df78b55",
+        "type": "message",
+        "text": "says the guy who has a pixel but isn’t using it",
+        "user": "U15HRTAHL",
+        "ts": "1553092203.005600"
+    },
+    {
+        "client_msg_id": "8FE12891-8345-494C-B98F-37B71B4B9BE2",
+        "type": "message",
+        "text": "I dont feel like merging everything twice",
+        "user": "U15HY5TG8",
+        "ts": "1553092227.006200"
+    },
+    {
+        "client_msg_id": "ce4ae568-c4d4-442f-8fcd-428c1d5cf35a",
+        "type": "message",
+        "text": "can’t be that bad then",
+        "user": "U15HRTAHL",
+        "ts": "1553092285.006400"
+    },
+    {
+        "client_msg_id": "FD67584E-8455-48E0-AB83-CB34864CABF9",
+        "type": "message",
+        "text": "Whos side are you on",
+        "user": "U15HY5TG8",
+        "ts": "1553092974.006700"
+    },
+    {
+        "client_msg_id": "6466f70f-9544-44e7-85d3-2eae68999eeb",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=8OhrwsmMZ-Q>",
+        "user": "U15HRTAHL",
+        "ts": "1553093018.006900",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Lord of the Rings - Treebeard - \"I am on nobody's side\"",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=8OhrwsmMZ-Q",
+                "author_name": "Zła i Przebiegła Istota",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC-KRzBcXSZY0Ds5o4D_vsXA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/8OhrwsmMZ-Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Lord of the Rings - Treebeard - \"I am on nobody's side\"",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/8OhrwsmMZ-Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=8OhrwsmMZ-Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=8OhrwsmMZ-Q"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "57769fe5-5ccb-4349-b366-ac33f5714136",
+        "type": "message",
+        "text": "I can't believe we're not getting new airpods",
+        "user": "U15J5H60P",
+        "ts": "1553093625.007800"
+    },
+    {
+        "client_msg_id": "18EAD9D2-970B-4AB8-94F3-BAEFC8CA5984",
+        "type": "message",
+        "text": "Cant you?",
+        "user": "U15HY5TG8",
+        "ts": "1553093656.008100"
+    },
+    {
+        "client_msg_id": "9CFD5FCB-0CF0-4A03-8662-F169D08926FB",
+        "type": "message",
+        "text": "I can",
+        "user": "U15HY5TG8",
+        "ts": "1553093658.008300"
+    },
+    {
+        "client_msg_id": "972d72ba-ba1f-4058-a341-cb91424e095e",
+        "type": "message",
+        "text": "Oh, they  are gen 2",
+        "user": "U15J5H60P",
+        "ts": "1553093670.008600"
+    },
+    {
+        "client_msg_id": "886cf1f1-77c6-4e67-ac10-b93cef1c387d",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1553093671.008800"
+    },
+    {
+        "client_msg_id": "50182e07-c346-42c4-a02f-d4d622dd6ca7",
+        "type": "message",
+        "text": "So dumb",
+        "user": "U15J5H60P",
+        "ts": "1553093673.009000"
+    },
+    {
+        "client_msg_id": "7E5BFFBE-257D-4EF6-AA51-3242C27A67F4",
+        "type": "message",
+        "text": "What do you need out of new airpods?",
+        "user": "U15HY5TG8",
+        "ts": "1553093703.009500"
+    },
+    {
+        "client_msg_id": "90f1a500-1b7f-439b-aef7-b2ceb64fd411",
+        "type": "message",
+        "text": "Not sure",
+        "user": "U15J5H60P",
+        "ts": "1553093712.009800"
+    },
+    {
+        "client_msg_id": "f9419a56-753d-43e5-8877-46f7eeade41b",
+        "type": "message",
+        "text": "better batteries for sure",
+        "user": "U15HRTAHL",
+        "ts": "1553093716.010000"
+    },
+    {
+        "client_msg_id": "7077642d-9d92-4bcc-bf37-4b515df880e3",
+        "type": "message",
+        "text": "I was hoping Apple would show me",
+        "user": "U15J5H60P",
+        "ts": "1553093717.010100"
+    },
+    {
+        "client_msg_id": "D27D87A7-EFA7-4CED-B546-C7DD66C94375",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1553093721.010400"
+    },
+    {
+        "client_msg_id": "44325005-57E0-4F57-8E89-2E6AB513C5E7",
+        "type": "message",
+        "text": "They have better battery life if that’s all your looking for",
+        "user": "U15HZ01QX",
+        "ts": "1553093732.010800"
+    },
+    {
+        "client_msg_id": "496a78d6-68b0-44e8-a637-e50c4a201377",
+        "type": "message",
+        "text": "Nah, I'm looking for features.",
+        "user": "U15J5H60P",
+        "ts": "1553093741.011100"
+    },
+    {
+        "client_msg_id": "3850b81b-e509-42e1-9d32-0af702531ba9",
+        "type": "message",
+        "text": "Not Hey Siri",
+        "user": "U15J5H60P",
+        "ts": "1553093746.011500"
+    },
+    {
+        "client_msg_id": "BBB336AD-FD93-40F2-AEAB-F3D016E41086",
+        "type": "message",
+        "text": "Theyre fucking headphones",
+        "user": "U15HY5TG8",
+        "ts": "1553093750.011800"
+    },
+    {
+        "client_msg_id": "267bdda6-df0f-401d-a2b8-fb362a2c52b4",
+        "type": "message",
+        "text": "K",
+        "user": "U15J5H60P",
+        "ts": "1553093754.012100"
+    },
+    {
+        "client_msg_id": "1B02B6C3-E9CB-467E-A8F6-D2040D2077E1",
+        "type": "message",
+        "text": "^",
+        "user": "U15HZ01QX",
+        "ts": "1553093754.012200"
+    },
+    {
+        "client_msg_id": "3a15b30c-4f1a-4128-8747-aef0549af832",
+        "type": "message",
+        "text": "Flip phones were fucking phones",
+        "user": "U15J5H60P",
+        "ts": "1553093767.013000"
+    },
+    {
+        "client_msg_id": "E6C7A2B1-0E49-43D4-9B05-E852A96D9675",
+        "type": "message",
+        "text": "Not really a bunch more you can add to them",
+        "user": "U15HZ01QX",
+        "ts": "1553093768.013100"
+    },
+    {
+        "client_msg_id": "f8f9a40e-3b66-4601-a0e5-c0fdd4ef0d58",
+        "type": "message",
+        "text": "they could release some sunglasses with built in headphones",
+        "user": "U15HRTAHL",
+        "ts": "1553093779.013500"
+    },
+    {
+        "client_msg_id": "003a7d5c-d7f4-423c-8813-f2894accdc7d",
+        "type": "message",
+        "text": "You guys are super unimaginative",
+        "user": "U15J5H60P",
+        "ts": "1553093782.013700"
+    },
+    {
+        "client_msg_id": "7a64cc28-459e-45eb-bc2b-bd7c24428beb",
+        "type": "message",
+        "text": "or should we leave that one to bose?",
+        "user": "U15HRTAHL",
+        "ts": "1553093785.013800"
+    },
+    {
+        "client_msg_id": "09229a95-eef5-4939-bb31-bff61d6b37bd",
+        "type": "message",
+        "text": "Have y'all seen the Samsung buds?",
+        "user": "U15J5H60P",
+        "ts": "1553093805.014600"
+    },
+    {
+        "client_msg_id": "5E22FE51-15E2-45D6-8982-AF67FCEA3AD5",
+        "type": "message",
+        "text": "Do you want touch screens on each side or what",
+        "user": "U15HY5TG8",
+        "ts": "1553093809.015000"
+    },
+    {
+        "client_msg_id": "8bb92961-d935-4c8c-9b97-53a96dffc64a",
+        "type": "message",
+        "text": "There's plenty more you can add to them",
+        "user": "U15J5H60P",
+        "ts": "1553093810.015100"
+    },
+    {
+        "client_msg_id": "3f619627-6969-45fd-a49c-6b31cb72ee56",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1553093812.015300"
+    },
+    {
+        "client_msg_id": "0ccb664e-8059-47b6-b44a-386a780308f0",
+        "type": "message",
+        "text": "or google how they do language translation",
+        "user": "U15HRTAHL",
+        "ts": "1553093837.015600"
+    },
+    {
+        "client_msg_id": "020abd32-eb40-4319-9880-ddcc1576ebd8",
+        "type": "message",
+        "text": "^",
+        "user": "U15J5H60P",
+        "ts": "1553093849.015800"
+    },
+    {
+        "client_msg_id": "00eaee15-38fa-4088-b7ac-ff34e2c44835",
+        "type": "message",
+        "text": "Why is me wanting innovative headphones such an egregious ask?",
+        "user": "U15J5H60P",
+        "ts": "1553093870.016300"
+    },
+    {
+        "client_msg_id": "8DCE1BB3-124D-4FF5-B1F7-6DD9FEA759E8",
+        "type": "message",
+        "text": "Can’t you just use hey Siri to do that?",
+        "user": "U15HZ01QX",
+        "ts": "1553093879.016800"
+    },
+    {
+        "client_msg_id": "7cc872e2-73e9-4d53-9af5-f26841864919",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1553093882.017100"
+    },
+    {
+        "client_msg_id": "79c4081d-1a80-4d18-867c-370941f980dc",
+        "type": "message",
+        "text": "Siri is shit",
+        "user": "U15J5H60P",
+        "ts": "1553093884.017300"
+    },
+    {
+        "client_msg_id": "5EDCBDED-7058-4B99-A36F-F96C9697462F",
+        "type": "message",
+        "text": "So they do that",
+        "user": "U15HZ01QX",
+        "ts": "1553093893.017900"
+    },
+    {
+        "client_msg_id": "07D38C39-A152-4775-96A0-E8381606CB47",
+        "type": "message",
+        "text": "You just don’t like Siri",
+        "user": "U15HZ01QX",
+        "ts": "1553093898.018200"
+    },
+    {
+        "client_msg_id": "f26f9d8c-0929-4112-8953-28a87016b66b",
+        "type": "message",
+        "text": "They do not do that",
+        "user": "U15J5H60P",
+        "ts": "1553093902.018400"
+    },
+    {
+        "client_msg_id": "fee5645b-213f-4204-a4a0-6e2c85f3789b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kWb1ysqtc4o>",
+        "user": "U15J5H60P",
+        "ts": "1553093930.018700",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Google Pixel Buds Translate",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kWb1ysqtc4o",
+                "author_name": "Sterillium",
+                "author_link": "https:\/\/www.youtube.com\/user\/sterillium",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kWb1ysqtc4o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Google Pixel Buds Translate",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kWb1ysqtc4o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kWb1ysqtc4o",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=kWb1ysqtc4o"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BD5E208A-7700-4DD9-BCE0-213EF2917AB3",
+        "type": "message",
+        "text": "That’s neat",
+        "user": "U15HZ01QX",
+        "ts": "1553094018.019000"
+    },
+    {
+        "client_msg_id": "5fbbce14-3959-4b24-b530-f6a384f94896",
+        "type": "message",
+        "text": "I’d definitely buy those if I went overseas",
+        "user": "U15HRTAHL",
+        "ts": "1553094240.019400"
+    },
+    {
+        "client_msg_id": "8dfd444e-c47b-4e2c-af87-535ab66edea5",
+        "type": "message",
+        "text": "Damn I was about to buy a pair",
+        "user": "U15HSHSS2",
+        "ts": "1553094584.019700"
+    },
+    {
+        "client_msg_id": "a9b34da9-558c-4910-93de-37b7a572a221",
+        "type": "message",
+        "text": "But they don't translate Telugu",
+        "user": "U15HSHSS2",
+        "ts": "1553094590.020000"
+    },
+    {
+        "client_msg_id": "0e35d835-5823-4603-9399-ebc4e0f6b13a",
+        "type": "message",
+        "text": "not to be insensitive, but is that what Lakshmi’s family speaks?",
+        "user": "U15HRTAHL",
+        "ts": "1553094633.020600"
+    },
+    {
+        "client_msg_id": "783d3aef-c4a2-48b8-9cc9-042211253ef0",
+        "type": "message",
+        "text": "I was going to call bullshit then I looked that up and it’s indian",
+        "user": "U15HRTAHL",
+        "ts": "1553094664.020900"
+    },
+    {
+        "client_msg_id": "5ab1bbda-db02-4eaf-9fd6-2db25fcb5421",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1553094703.021100"
+    },
+    {
+        "client_msg_id": "e3263666-1575-417e-ba99-a1ef41c88c96",
+        "type": "message",
+        "text": "yeah it's the language her family and a lot of other Indians speak",
+        "user": "U15HSHSS2",
+        "ts": "1553094724.021600"
+    },
+    {
+        "client_msg_id": "aa7b0851-8052-48e8-b7db-344ec7ac6351",
+        "type": "message",
+        "text": "I imagine it will come eventually",
+        "user": "U15HSHSS2",
+        "ts": "1553094926.021900"
+    },
+    {
+        "client_msg_id": "9ddfbe38-8a8a-4e52-ad17-7acbbe6f0b39",
+        "type": "message",
+        "text": "google translate supports it",
+        "user": "U15HSHSS2",
+        "ts": "1553094930.022100"
+    },
+    {
+        "client_msg_id": "708afdea-1783-41fb-851f-6c86247beb4a",
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Google_Translate#Supported_languages>",
+        "user": "U15HSHSS2",
+        "ts": "1553094930.022300",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d7\/Google_Translate_logo.svg\/1200px-Google_Translate_logo.svg.png",
+                "image_width": 1200,
+                "image_height": 1200,
+                "image_bytes": 50963,
+                "title": "Google Translate",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Google_Translate#Supported_languages",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Google_Translate#Supported_languages",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Google Translate is a free multilingual machine translation  service developed by Google, to translate text. It offers a website interface, mobile apps for Android and iOS, and an API that helps developers build browser extensions and software applications. Google Translate supports over 100 languages at various levels and as of  May 2017, serves over 500 million people daily.\nLaunched in April 2006 as a statistical machine translation service, it used United Nations and European Parliament transcripts to gather linguistic data. Rather than translating languages directly, it first translates text to English and then to the target language. During a translation, it looks for patterns in millions of documents to help decide on the best translation. Its accuracy has been criticized and ridiculed on several occasions. In November 2016, Google announced that Google Translate would switch to a neural machine translation engine - Google Neural Machine Translation (GNMT) - which translates \"whole sentences at a time, rather than just piece by piece. It uses this broader context to help it figure out the most relevant translation, which it then rearranges and adjusts to be more like a human speaking with proper grammar\". Originally only enabled for a few languages in 2016, GNMT is gradually being used for more languages.",
+                "fallback": "wikipedia: Google Translate",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Google_Translate#Supported_languages"
+            }
+        ]
+    }
+]

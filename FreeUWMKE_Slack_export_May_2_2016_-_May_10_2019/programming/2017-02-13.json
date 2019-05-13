@@ -1,0 +1,230 @@
+[
+    {
+        "type": "message",
+        "text": "`'GetFlavor': function () {\n        \/\/ Get a random space fact from the space facts list\n        \/\/ Use this.t() to get corresponding language data\n        flavor = this.t('FLAVOR');\n\n        console.log('end request to ' + 'your mom\\'s house');\n        flavor = \"YOUR MOM! Ha. Ha. Haaaaaa.\";\n\n        request('<https:\/\/news.ycombinator.com>', function (error, response, html) {\n          if (!error &amp;&amp; response.statusCode == 200) {\n            console.log(\"FUCK HER IN THE PUSSY\");\n          }\n        });\n        \/\/flavor = String(requestFlavors());\n        \/\/ Create speech output\n        const speechOutput = this.t('GET_FLAVOR_MESSAGE') + flavor;\n        this.emit(':tellWithCard', speechOutput, this.t('SKILL_NAME'), flavor);\n\n        requestFlavors();\n\n    }`",
+        "user": "U15J5H60P",
+        "ts": "1487043898.000002"
+    },
+    {
+        "type": "message",
+        "text": "`",
+        "user": "U15J5H60P",
+        "ts": "1487043901.000003"
+    },
+    {
+        "type": "message",
+        "text": "`'GetFlavor': function () {\n        \/\/ Get a random space fact from the space facts list\n        \/\/ Use this.t() to get corresponding language data\n        flavor = this.t('FLAVOR');\n\n        console.log('end request to ' + 'your mom\\'s house');\n        flavor = \"YOUR MOM! Ha. Ha. Haaaaaa.\";\n\n        request('<https:\/\/news.ycombinator.com>', function (error, response, html) {\n          if (!error &amp;&amp; response.statusCode == 200) {\n            console.log(\"FUCK HER IN THE PUSSY\");\n          }\n        });\n        \/\/flavor = String(requestFlavors());\n        \/\/ Create speech output\n        const speechOutput = this.t('GET_FLAVOR_MESSAGE') + flavor;\n        this.emit(':tellWithCard', speechOutput, this.t('SKILL_NAME'), flavor);\n\n        requestFlavors();\n\n    }",
+        "user": "U15J5H60P",
+        "ts": "1487043990.000004"
+    },
+    {
+        "type": "message",
+        "text": "``'GetFlavor': function () {\n        \/\/ Get a random space fact from the space facts list\n        \/\/ Use this.t() to get corresponding language data\n        flavor = this.t('FLAVOR');\n\n        console.log('end request to ' + 'your mom\\'s house');\n        flavor = \"YOUR MOM! Ha. Ha. Haaaaaa.\";\n\n        request('<https:\/\/news.ycombinator.com>', function (error, response, html) {\n          if (!error &amp;&amp; response.statusCode == 200) {\n            console.log(\"FUCK HER IN THE PUSSY\");\n          }\n        });\n        \/\/flavor = String(requestFlavors());\n        \/\/ Create speech output\n        const speechOutput = this.t('GET_FLAVOR_MESSAGE') + flavor;\n        this.emit(':tellWithCard', speechOutput, this.t('SKILL_NAME'), flavor);\n\n        requestFlavors();\n\n    }``",
+        "user": "U15J5H60P",
+        "ts": "1487043995.000005"
+    },
+    {
+        "type": "message",
+        "text": "```'GetFlavor': function () {\n        \/\/ Get a random space fact from the space facts list\n        \/\/ Use this.t() to get corresponding language data\n        flavor = this.t('FLAVOR');\n\n        console.log('end request to ' + 'your mom\\'s house');\n        flavor = \"YOUR MOM! Ha. Ha. Haaaaaa.\";\n\n        request('<https:\/\/news.ycombinator.com>', function (error, response, html) {\n          if (!error &amp;&amp; response.statusCode == 200) {\n            console.log(\"FUCK HER IN THE PUSSY\");\n          }\n        });\n        \/\/flavor = String(requestFlavors());\n        \/\/ Create speech output\n        const speechOutput = this.t('GET_FLAVOR_MESSAGE') + flavor;\n        this.emit(':tellWithCard', speechOutput, this.t('SKILL_NAME'), flavor);\n\n        requestFlavors();\n\n    }```",
+        "user": "U15J5H60P",
+        "ts": "1487044000.000006"
+    },
+    {
+        "type": "message",
+        "text": "I posted the file",
+        "user": "U15J5H60P",
+        "ts": "1487044080.000008"
+    },
+    {
+        "type": "message",
+        "text": "Look in the “GetFlavor” function.",
+        "user": "U15J5H60P",
+        "ts": "1487044091.000009"
+    },
+    {
+        "type": "message",
+        "text": "Why would I need to delegate a simple web request to a different function?",
+        "user": "U15J5H60P",
+        "ts": "1487044120.000010"
+    },
+    {
+        "type": "message",
+        "text": "“GetFlavor” is supposed to get the flavor through a web request.",
+        "user": "U15J5H60P",
+        "ts": "1487044140.000011"
+    },
+    {
+        "type": "message",
+        "text": "where does it fail?",
+        "user": "U15HY5TG8",
+        "ts": "1487044280.000013"
+    },
+    {
+        "type": "message",
+        "text": "It doesn’t fail",
+        "user": "U15J5H60P",
+        "ts": "1487044290.000014"
+    },
+    {
+        "type": "message",
+        "text": "....ok. where does it not reach",
+        "user": "U15HY5TG8",
+        "ts": "1487044307.000015"
+    },
+    {
+        "type": "message",
+        "text": "It never prints “fuck her in the pussy\"",
+        "user": "U15J5H60P",
+        "ts": "1487044353.000016"
+    },
+    {
+        "type": "message",
+        "text": "so line 41",
+        "user": "U15J5H60P",
+        "ts": "1487044368.000017"
+    },
+    {
+        "type": "message",
+        "text": "and how'd you come up with ```request(......```",
+        "user": "U15HY5TG8",
+        "ts": "1487044511.000018"
+    },
+    {
+        "type": "message",
+        "text": "cause my node.js looks like this for post ```<http:\/\/app.post|app.post>(\"\/create\", function(req, res) {\n```",
+        "user": "U15HY5TG8",
+        "ts": "1487044555.000019"
+    },
+    {
+        "type": "message",
+        "text": "What is the “\/create” do?",
+        "user": "U15J5H60P",
+        "ts": "1487044643.000020"
+    },
+    {
+        "type": "message",
+        "text": "Is that a path to something?",
+        "user": "U15J5H60P",
+        "ts": "1487044652.000021"
+    },
+    {
+        "type": "message",
+        "text": "thats the end of our url",
+        "user": "U15HY5TG8",
+        "ts": "1487044655.000022"
+    },
+    {
+        "type": "message",
+        "text": "yea exactly",
+        "user": "U15HY5TG8",
+        "ts": "1487044659.000023"
+    },
+    {
+        "type": "message",
+        "text": "so youd just put your url there",
+        "user": "U15HY5TG8",
+        "ts": "1487044670.000024"
+    },
+    {
+        "type": "message",
+        "text": "I’ll try that quick",
+        "user": "U15J5H60P",
+        "ts": "1487044683.000025"
+    },
+    {
+        "type": "message",
+        "text": "That’s using express?",
+        "user": "U15J5H60P",
+        "ts": "1487044695.000026"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1487044699.000027"
+    },
+    {
+        "type": "message",
+        "text": "var app = express()",
+        "user": "U15HY5TG8",
+        "ts": "1487044708.000028"
+    },
+    {
+        "type": "message",
+        "text": "like this:",
+        "user": "U15J5H60P",
+        "ts": "1487044758.000029"
+    },
+    {
+        "type": "message",
+        "text": "```var app = express()\n        <http:\/\/app.post|app.post>('<http:\/\/kopps.com>', function(req, res) {\n            console.log('I am inside the request');\n        })```",
+        "user": "U15J5H60P",
+        "ts": "1487044765.000030"
+    },
+    {
+        "type": "message",
+        "text": "yea pretty much",
+        "user": "U15HY5TG8",
+        "ts": "1487044786.000031"
+    },
+    {
+        "type": "message",
+        "text": "Okay, I’ll run it",
+        "user": "U15J5H60P",
+        "ts": "1487044796.000032"
+    },
+    {
+        "type": "message",
+        "text": "Updated file for your info:",
+        "user": "U15J5H60P",
+        "ts": "1487044819.000033"
+    },
+    {
+        "type": "message",
+        "text": "Console log from AWS:",
+        "user": "U15J5H60P",
+        "ts": "1487044859.000035"
+    },
+    {
+        "type": "message",
+        "text": "START RequestId: 146028d6-f26a-11e6-9ab6-555e7a53d3ba Version: $LATEST\n2017-02-14T04:00:11.539Z\t146028d6-f26a-11e6-9ab6-555e7a53d3ba\tWarning: Application ID is not set\n2017-02-14T04:00:11.598Z\t146028d6-f26a-11e6-9ab6-555e7a53d3ba\tI am before the request\n2017-02-14T04:00:11.658Z\t146028d6-f26a-11e6-9ab6-555e7a53d3ba\tI am after the request.\nEND RequestId: 146028d6-f26a-11e6-9ab6-555e7a53d3ba\nREPORT RequestId: 146028d6-f26a-11e6-9ab6-555e7a53d3ba\tDuration: 196.74 ms\tBilled Duration: 200 ms \tMemory Size: 128 MB\tMax Memory Used: 41 MB",
+        "user": "U15J5H60P",
+        "ts": "1487044863.000036"
+    },
+    {
+        "type": "message",
+        "text": "so it never went inside the request",
+        "user": "U15J5H60P",
+        "ts": "1487044885.000037"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1487044887.000038"
+    },
+    {
+        "type": "message",
+        "text": "Does that exhaust your knowledge?",
+        "user": "U15J5H60P",
+        "ts": "1487044936.000039"
+    },
+    {
+        "type": "message",
+        "text": "what if you move <http:\/\/app.post|app.post> outside of the function?",
+        "user": "U15HY5TG8",
+        "ts": "1487044957.000040"
+    },
+    {
+        "type": "message",
+        "text": "I’m having Joe help me",
+        "user": "U15J5H60P",
+        "ts": "1487046219.000041"
+    },
+    {
+        "type": "message",
+        "text": "Prob the best bet",
+        "user": "U15HY5TG8",
+        "ts": "1487046484.000042"
+    }
+]

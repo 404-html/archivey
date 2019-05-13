@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "e07e24f0-a5f1-4563-a0a5-7078a6972ba7",
+        "type": "message",
+        "text": "<@U15J5H60P> you should look into DGRO",
+        "user": "U15HRTAHL",
+        "ts": "1535058477.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus DGRO",
+        "user": "U15HRTAHL",
+        "ts": "1535058481.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       DGRO               36.71               -0.05               -0.136 \n       Avg.                 ---                 ---              -0.136% \n```\n<http:\/\/finviz.com\/chart.ashx?t=DGRO&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1535058481.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=DGRO&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33386,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=DGRO&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=DGRO&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "df32e2d7-0149-4184-b668-02e9244c9881",
+        "type": "message",
+        "text": "High dividend ETF",
+        "user": "U15HRTAHL",
+        "ts": "1535058505.000100"
+    }
+]

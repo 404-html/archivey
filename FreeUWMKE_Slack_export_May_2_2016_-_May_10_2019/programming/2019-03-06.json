@@ -1,0 +1,327 @@
+[
+    {
+        "client_msg_id": "3b5422c1-1495-438d-ac60-df5940944776",
+        "type": "message",
+        "text": "just had a panick attack",
+        "user": "U15HRTAHL",
+        "ts": "1551926774.000200"
+    },
+    {
+        "client_msg_id": "0cf449b7-c237-4b08-b909-9fd257f8124e",
+        "type": "message",
+        "text": "I took down our prod sql server instance to run an update on something",
+        "user": "U15HRTAHL",
+        "ts": "1551926790.000600"
+    },
+    {
+        "client_msg_id": "d7aeb553-f4da-4e6a-a3dc-c485ca9b87cc",
+        "type": "message",
+        "text": "and I closed out of SSMS",
+        "user": "U15HRTAHL",
+        "ts": "1551926795.000800"
+    },
+    {
+        "client_msg_id": "25a3bc7b-459b-4ba7-9150-87a8e5d4bc9c",
+        "type": "message",
+        "text": "when I reopened it I had no way to connect to the db since it was offline",
+        "user": "U15HRTAHL",
+        "ts": "1551926815.001300"
+    },
+    {
+        "client_msg_id": "9c362204-5a15-4bfa-bdf6-ca842d16eaac",
+        "type": "message",
+        "text": "Im trying to google shit and nothing is working",
+        "user": "U15HRTAHL",
+        "ts": "1551926835.001900"
+    },
+    {
+        "client_msg_id": "AE072577-BAF4-4FFF-B2C5-B040A0D7913C",
+        "type": "message",
+        "text": "Max kek",
+        "user": "U15HY5TG8",
+        "ts": "1551926840.002200"
+    },
+    {
+        "client_msg_id": "b064c6ef-09cf-4e88-bc12-78280aa3f860",
+        "type": "message",
+        "text": "Whats that?",
+        "user": "U15HRTAHL",
+        "ts": "1551926849.002400"
+    },
+    {
+        "client_msg_id": "a2acfc1a-4425-4d5f-a8ad-62681469324c",
+        "type": "message",
+        "text": "So I logged into the VM that actually hosts sql server and restarted it",
+        "user": "U15HRTAHL",
+        "ts": "1551926861.003000"
+    },
+    {
+        "client_msg_id": "61a3f62d-8a89-427b-bdd2-0bc79b941960",
+        "type": "message",
+        "text": "boom back online",
+        "user": "U15HRTAHL",
+        "ts": "1551926864.003300"
+    },
+    {
+        "client_msg_id": "1276020C-110C-41A1-A104-CDE7DC843D85",
+        "type": "message",
+        "text": "Lol to the max, basically",
+        "user": "U15HY5TG8",
+        "ts": "1551926870.003600"
+    },
+    {
+        "client_msg_id": "f9450c2c-6689-4101-86e3-d693a818e4cc",
+        "type": "message",
+        "text": "<http:\/\/i.imgur.com\/QpnBp7G.jpg|i.imgur.com\/QpnBp7G.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1551926911.004300"
+    },
+    {
+        "client_msg_id": "CD4F987F-2C6E-4BF0-84CA-DF09E3A7AB74",
+        "type": "message",
+        "text": "Yeah thats one thing i never learned, is where to the sql server is actually hosted from.",
+        "user": "U15HY5TG8",
+        "ts": "1551926926.004700"
+    },
+    {
+        "client_msg_id": "02154728-a91e-42dd-85ec-0f56834ac5d8",
+        "type": "message",
+        "text": "lol make sure you know before you take it offline",
+        "user": "U15HRTAHL",
+        "ts": "1551926939.005000"
+    },
+    {
+        "client_msg_id": "0C77305F-339D-4950-ABCF-10ED9A1DB565",
+        "type": "message",
+        "text": "Well....id have to know in order to take it offline right? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1551926963.005700"
+    },
+    {
+        "client_msg_id": "6ace21f5-6fcf-4c2c-acfc-806278d6fa82",
+        "type": "message",
+        "text": "do you?",
+        "user": "U15HRTAHL",
+        "ts": "1551926977.006000"
+    },
+    {
+        "client_msg_id": "459a9454-342b-44c3-b034-aa84daba224d",
+        "type": "message",
+        "text": "I just right clicked the db and click stop",
+        "user": "U15HRTAHL",
+        "ts": "1551926986.006400"
+    },
+    {
+        "client_msg_id": "F32E7E4D-CD50-4030-8AD4-BC4D5DDFFCFC",
+        "type": "message",
+        "text": "From sql server?",
+        "user": "U15HY5TG8",
+        "ts": "1551927006.006800"
+    },
+    {
+        "client_msg_id": "8b44fc17-a38c-4d12-8281-2ef0ec51231c",
+        "type": "message",
+        "text": "from ssms",
+        "user": "U15HRTAHL",
+        "ts": "1551927016.007000"
+    },
+    {
+        "client_msg_id": "E382367E-2A75-4538-9C05-635F37AB164D",
+        "type": "message",
+        "text": "I feel like thats not what stops it",
+        "user": "U15HY5TG8",
+        "ts": "1551927045.007600"
+    },
+    {
+        "client_msg_id": "86ED646A-56DC-466C-9CE9-6A6CA506ECF3",
+        "type": "message",
+        "text": "You right clicked \"stop\" or right clicked \"disconnect\"",
+        "user": "U15HY5TG8",
+        "ts": "1551927063.007900"
+    },
+    {
+        "client_msg_id": "767965bc-64d1-477e-917f-4a18e2190ca5",
+        "type": "message",
+        "text": "stop",
+        "user": "U15HRTAHL",
+        "ts": "1551927072.008600"
+    },
+    {
+        "client_msg_id": "9bb030f4-d25f-4b13-84f7-1b70bfaf7e45",
+        "type": "message",
+        "text": "but then I closed ssms",
+        "user": "U15HRTAHL",
+        "ts": "1551927076.008800"
+    },
+    {
+        "client_msg_id": "978cb694-a913-4738-8eb7-ec1be4646fcc",
+        "type": "message",
+        "text": "and it was no longer there",
+        "user": "U15HRTAHL",
+        "ts": "1551927079.009000"
+    },
+    {
+        "client_msg_id": "55266936-8c26-46cf-9bc7-7f1947fae74a",
+        "type": "message",
+        "text": "and when I tried to reconnect to it I could’t",
+        "user": "U15HRTAHL",
+        "ts": "1551927095.009300"
+    },
+    {
+        "client_msg_id": "9FB70C83-5F8F-4A83-94E5-CE6B04173C05",
+        "type": "message",
+        "text": "Because ssms is basically a VM in a sense, so i dont think you can actually trigger it to do anything",
+        "user": "U15HY5TG8",
+        "ts": "1551927120.010400"
+    },
+    {
+        "client_msg_id": "41ACEE95-0409-48D2-89B8-41EB902E06A5",
+        "type": "message",
+        "text": "Interesting. Ive never seen a stop option",
+        "user": "U15HY5TG8",
+        "ts": "1551927137.010600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGR9K85C3",
+                "created": 1551927194,
+                "timestamp": 1551927194,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-06, 8:53 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 271510,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGR9K85C3\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGR9K85C3\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGR9K85C3-40c2ff7556\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 3360,
+                "original_h": 2100,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGR9K85C3\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGR9K85C3-1694ed9fe6",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1551927199.011000"
+    },
+    {
+        "client_msg_id": "FA569DE4-5717-4FE5-B1E0-17BD57BDE274",
+        "type": "message",
+        "text": "Just looked it up. You definitely can",
+        "user": "U15HY5TG8",
+        "ts": "1551927220.011700"
+    },
+    {
+        "client_msg_id": "5E1666E4-8D71-4858-8E90-A12956682AE7",
+        "type": "message",
+        "text": "That seems irresponsible",
+        "user": "U15HY5TG8",
+        "ts": "1551927238.012100"
+    },
+    {
+        "client_msg_id": "7628D6CA-C067-4922-AA05-0C9F3EB4A8FD",
+        "type": "message",
+        "text": "But i guess it is called \"management studio\"",
+        "user": "U15HY5TG8",
+        "ts": "1551927258.012800"
+    },
+    {
+        "client_msg_id": "3C444088-E3CC-49CF-940C-218976767FF4",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1551927282.013700"
+    },
+    {
+        "client_msg_id": "FFFF1E57-C921-4610-8FBF-E9BD7AF7A293",
+        "type": "message",
+        "text": "Now im having a mini panic attack just thinking about all the times ive right clicked the database, then had a hand spasm and clicked something other than the first 2 options",
+        "user": "U15HY5TG8",
+        "ts": "1551927310.014700"
+    },
+    {
+        "client_msg_id": "c86e8bc9-572e-4e52-ae4a-d268aa71c1dd",
+        "type": "message",
+        "text": "db shit gives me anxiety",
+        "user": "U15HRTAHL",
+        "ts": "1551927326.015000"
+    },
+    {
+        "client_msg_id": "7f3e2ccb-1e51-4e64-b0e5-9fdb2ce06330",
+        "type": "message",
+        "text": "I'm comfortable with it...until I'm not",
+        "user": "U15HY5TG8",
+        "ts": "1551927457.015300"
+    },
+    {
+        "client_msg_id": "3cfe7f3a-ecf5-4bb0-8dec-2d39b01e5e63",
+        "type": "message",
+        "text": "or maybe i just need to care more",
+        "user": "U15HY5TG8",
+        "ts": "1551927480.015800"
+    },
+    {
+        "client_msg_id": "d740b80e-dc39-4ff7-a477-6d73864c8423",
+        "type": "message",
+        "text": "There’s always backups",
+        "user": "U15J5H60P",
+        "ts": "1551928300.016000"
+    },
+    {
+        "client_msg_id": "3b316e3f-1737-4766-b615-33c905e5625d",
+        "type": "message",
+        "text": "I’d hope…",
+        "user": "U15J5H60P",
+        "ts": "1551928304.016200"
+    },
+    {
+        "client_msg_id": "EDA49751-1344-4552-87F9-78F776BB0D71",
+        "type": "message",
+        "text": "Joes memory is the backup",
+        "user": "U15HY5TG8",
+        "ts": "1551928328.016500"
+    },
+    {
+        "client_msg_id": "55574109-044f-4ebc-88ca-7dbcdd6d7766",
+        "type": "message",
+        "text": "Yeah there's a back up",
+        "user": "U15HRTAHL",
+        "ts": "1551930953.016800"
+    }
+]

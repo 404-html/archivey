@@ -1,0 +1,382 @@
+[
+    {
+        "type": "message",
+        "text": "What kind of martini?",
+        "user": "U15J5H60P",
+        "ts": "1512847582.000096"
+    },
+    {
+        "type": "message",
+        "text": "Apple",
+        "user": "U15HSHSS2",
+        "ts": "1512848193.000077"
+    },
+    {
+        "type": "message",
+        "text": "appletini",
+        "user": "U15HRTAHL",
+        "ts": "1512848433.000068"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1512848493.000004",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/martini-v6QuiueTDnlq8",
+                "image_url": "https:\/\/media0.giphy.com\/media\/v6QuiueTDnlq8\/giphy-downsized.gif",
+                "image_width": 500,
+                "image_height": 200,
+                "image_bytes": 950651,
+                "is_animated": true,
+                "title": "apple martini",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/martini-v6QuiueTDnlq8"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol they did that on purpose",
+        "user": "U15HRTAHL",
+        "ts": "1512855603.000102"
+    },
+    {
+        "type": "message",
+        "text": "Smh lol",
+        "user": "U15HY5TG8",
+        "ts": "1512855697.000027"
+    },
+    {
+        "type": "message",
+        "text": "this is annoying",
+        "files": [
+            {
+                "id": "F8D67PH0W",
+                "created": 1512864983,
+                "timestamp": 1512864983,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 102919,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8D67PH0W\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8D67PH0W\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 241,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 361,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8D67PH0W-f7146d7653\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 401,
+                "image_exif_rotation": 1,
+                "original_w": 906,
+                "original_h": 454,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F8D67PH0W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F8D67PH0W-16314f6a2e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1512864986.000001"
+    },
+    {
+        "type": "message",
+        "text": "Yeaaa but im used to 2fa. Everywhere you go used it",
+        "user": "U15HY5TG8",
+        "ts": "1512865035.000019"
+    },
+    {
+        "type": "message",
+        "text": "Used*",
+        "user": "U15HY5TG8",
+        "ts": "1512865044.000009"
+    },
+    {
+        "type": "message",
+        "text": "usually its a fucking text message or email",
+        "user": "U15HRTAHL",
+        "ts": "1512865047.000027"
+    },
+    {
+        "type": "message",
+        "text": "not physically go to another device",
+        "user": "U15HRTAHL",
+        "ts": "1512865059.000003"
+    },
+    {
+        "type": "message",
+        "text": "Ahh yea i guess. All except apple",
+        "user": "U15HY5TG8",
+        "ts": "1512865073.000055"
+    },
+    {
+        "type": "message",
+        "text": "Do they expect me to have 2 lap tops everywhere I go?",
+        "user": "U15HRTAHL",
+        "ts": "1512865092.000006"
+    },
+    {
+        "type": "message",
+        "text": "Yup lol",
+        "user": "U15HY5TG8",
+        "ts": "1512865111.000029"
+    },
+    {
+        "type": "message",
+        "text": "Except idk what you were trying to do",
+        "user": "U15HY5TG8",
+        "ts": "1512865123.000014"
+    },
+    {
+        "type": "message",
+        "text": "let me just scratch the back of one of my laptops while I awkwardly hold both of them",
+        "user": "U15HRTAHL",
+        "ts": "1512865137.000042"
+    },
+    {
+        "type": "message",
+        "text": "download an app....",
+        "user": "U15HRTAHL",
+        "ts": "1512865142.000021"
+    },
+    {
+        "type": "message",
+        "text": "O...mine doesnt make me do that for an app",
+        "user": "U15HY5TG8",
+        "ts": "1512865159.000008"
+    },
+    {
+        "type": "message",
+        "text": "do you usually download apps on your mac?",
+        "user": "U15HRTAHL",
+        "ts": "1512865218.000061"
+    },
+    {
+        "type": "message",
+        "text": "through the app store",
+        "user": "U15HRTAHL",
+        "ts": "1512865224.000010"
+    },
+    {
+        "type": "message",
+        "text": "No. But if youre downloading it on your mac why is it a problem that they send the code to your mac? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512865264.000045"
+    },
+    {
+        "type": "message",
+        "text": "Ooo \"other\" macbook pro lol",
+        "user": "U15HY5TG8",
+        "ts": "1512865281.000081"
+    },
+    {
+        "type": "message",
+        "text": "yeahhh",
+        "user": "U15HRTAHL",
+        "ts": "1512865285.000054"
+    },
+    {
+        "type": "message",
+        "text": "Ive never gotten that. Its been to my phone",
+        "user": "U15HY5TG8",
+        "ts": "1512865297.000074"
+    },
+    {
+        "type": "message",
+        "text": "the step before that was to enter a code sent to my phone",
+        "user": "U15HRTAHL",
+        "ts": "1512865303.000020"
+    },
+    {
+        "type": "message",
+        "text": "AND from the other mac",
+        "user": "U15HRTAHL",
+        "ts": "1512865309.000015"
+    },
+    {
+        "type": "message",
+        "text": "unreal",
+        "user": "U15HRTAHL",
+        "ts": "1512865314.000032"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1512865315.000016"
+    },
+    {
+        "type": "message",
+        "text": "I guess they expect everyone to have more than 1 email too",
+        "files": [
+            {
+                "id": "F8BL5909E",
+                "created": 1512865554,
+                "timestamp": 1512865554,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 13606,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8BL5909E\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F8BL5909E\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8BL5909E-fe8c64b886\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8BL5909E-fe8c64b886\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8BL5909E-fe8c64b886\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 92,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F8BL5909E-fe8c64b886\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 374,
+                "original_h": 96,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F8BL5909E\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F8BL5909E-8a371ac352",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1512865555.000041"
+    },
+    {
+        "type": "message",
+        "text": "Man they make this so secure, not even I can get into my own account",
+        "user": "U15HRTAHL",
+        "ts": "1512865587.000047"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1512865652.000069"
+    },
+    {
+        "type": "message",
+        "text": "I think the point of the second email is for recovery purposes",
+        "user": "U15HY5TG8",
+        "ts": "1512865678.000065"
+    },
+    {
+        "type": "message",
+        "text": "its like having to have 2 physical addresses",
+        "user": "U15HRTAHL",
+        "ts": "1512865713.000042"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1512866723.000055"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1512867473.000096"
+    },
+    {
+        "type": "message",
+        "text": "What do you guys wanna do for new years",
+        "user": "U15HZ01QX",
+        "ts": "1512870122.000104",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1512870130.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Drink",
+        "user": "U15HY5TG8",
+        "ts": "1512871184.000063"
+    },
+    {
+        "type": "message",
+        "text": "Headass",
+        "user": "U15HZ01QX",
+        "ts": "1512871207.000088"
+    },
+    {
+        "type": "message",
+        "text": "It’s your birthday. You can choose. ",
+        "user": "U15J5H60P",
+        "ts": "1512872092.000026"
+    },
+    {
+        "type": "message",
+        "text": "My birthday is on the 29 th",
+        "user": "U15HZ01QX",
+        "ts": "1512872110.000007"
+    },
+    {
+        "type": "message",
+        "text": "Close enough",
+        "user": "U15HY5TG8",
+        "ts": "1512872118.000003"
+    },
+    {
+        "type": "message",
+        "text": "Well are we celebrating both separate?",
+        "user": "U15J5H60P",
+        "ts": "1512872129.000062"
+    },
+    {
+        "type": "message",
+        "text": "I’m still tryna decide I don’t think I’m gonna do anything ",
+        "user": "U15HZ01QX",
+        "ts": "1512872168.000042"
+    },
+    {
+        "type": "message",
+        "text": "Lakshmi and her friends are doin the potto thing",
+        "user": "U15HSHSS2",
+        "ts": "1512882787.000025"
+    },
+    {
+        "type": "message",
+        "text": "Cool so what's _tommy_ doing ",
+        "user": "U15HRTAHL",
+        "ts": "1512883083.000029"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1512883260.000011"
+    }
+]

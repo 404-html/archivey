@@ -1,0 +1,341 @@
+[
+    {
+        "client_msg_id": "C02CCADC-0780-41D8-8C6A-A02ABBD07AAC",
+        "type": "message",
+        "text": "Just bought $700 of WH",
+        "user": "U15J5H60P",
+        "ts": "1531759974.000591"
+    },
+    {
+        "client_msg_id": "C53AE199-4FCF-48B5-AAC9-FC0B48E2843A",
+        "type": "message",
+        "text": "free money",
+        "user": "U15J5H60P",
+        "ts": "1531759979.000305"
+    },
+    {
+        "client_msg_id": "9CEC554B-7304-4EA0-9D87-E6C1AEE32633",
+        "type": "message",
+        "text": "WH?",
+        "user": "U15HY5TG8",
+        "ts": "1531760087.000220"
+    },
+    {
+        "client_msg_id": "8d50751b-7a25-4a42-9075-d225bc8b8de7",
+        "type": "message",
+        "text": "White House",
+        "user": "U15HSHSS2",
+        "ts": "1531760115.000041"
+    },
+    {
+        "client_msg_id": "6CB7F247-85DB-4BB9-A3AD-8373139EECA1",
+        "type": "message",
+        "text": "Innnteresting",
+        "user": "U15HY5TG8",
+        "ts": "1531760383.000414"
+    },
+    {
+        "client_msg_id": "7B0D197E-F7CF-421B-997E-2E52576CE4C0",
+        "type": "message",
+        "text": "Wyndham Hotels",
+        "user": "U15J5H60P",
+        "ts": "1531761097.000291"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus wh",
+        "user": "U15J5H60P",
+        "ts": "1531761102.000098"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         WH               58.28               -0.43               -0.732 \n       Avg.                 ---                 ---              -0.732% \n```\n<http:\/\/finviz.com\/chart.ashx?t=WH&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531761102.000106",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=WH&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 17348,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=WH&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=WH&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef4d4838-0fdc-4a3e-b9f2-df8f008ffb04",
+        "type": "message",
+        "text": "That was a mistake",
+        "user": "U15J5H60P",
+        "ts": "1531762153.000502"
+    },
+    {
+        "client_msg_id": "bb2b4fba-a7ed-44d2-9fc0-03ed3fdbe3a7",
+        "type": "message",
+        "text": "Whoops",
+        "user": "U15J5H60P",
+        "ts": "1531762155.000339"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1531762314.000288",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/reactiongifs-sgMJ9SDHX5eZq",
+                "image_url": "https:\/\/media3.giphy.com\/media\/sgMJ9SDHX5eZq\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 371951,
+                "is_animated": true,
+                "title": "diversification",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/reactiongifs-sgMJ9SDHX5eZq"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "87625307-eeff-4d45-b544-1e60b7e318d5",
+        "type": "message",
+        "text": "I should probably buy some index funds",
+        "user": "U15J5H60P",
+        "ts": "1531762828.000261"
+    },
+    {
+        "client_msg_id": "a0add7b3-c413-40e2-bc05-5a7bc0a88017",
+        "type": "message",
+        "text": "Oh well",
+        "user": "U15J5H60P",
+        "ts": "1531763004.000555"
+    },
+    {
+        "client_msg_id": "9752c616-ed01-4304-849c-6b18a95e7edf",
+        "type": "message",
+        "text": "Next month",
+        "user": "U15J5H60P",
+        "ts": "1531763006.000125"
+    },
+    {
+        "client_msg_id": "2ff65634-1e8c-486c-be16-67371862d1b5",
+        "type": "message",
+        "text": "Why was it a mistake?",
+        "user": "U15HSHSS2",
+        "ts": "1531763025.000494"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus wh",
+        "user": "U15J5H60P",
+        "ts": "1531763038.000054"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         WH               58.22               -0.49               -0.835 \n       Avg.                 ---                 ---              -0.835% \n```\n<http:\/\/finviz.com\/chart.ashx?t=WH&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1531763038.000065",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=WH&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 17247,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=WH&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=WH&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "65e58668-e6a7-4249-9c50-6bd4e5ca5eef",
+        "type": "message",
+        "text": "I guess it's not that much of a mistake",
+        "user": "U15J5H60P",
+        "ts": "1531763054.000153"
+    },
+    {
+        "client_msg_id": "91c54f8a-9617-4172-9403-e1d0fe3fc0e9",
+        "type": "message",
+        "text": "I bought at 58.70",
+        "user": "U15J5H60P",
+        "ts": "1531763062.000121"
+    },
+    {
+        "client_msg_id": "30da5ee1-83f4-45fd-8e2b-d2917dc578b7",
+        "type": "message",
+        "text": "Isn't buying low good?",
+        "user": "U15HSHSS2",
+        "ts": "1531763067.000063"
+    },
+    {
+        "client_msg_id": "13934baf-8d58-4a83-abee-a67e172483e5",
+        "type": "message",
+        "text": "But I also didn't realize that they just got downgraded on the 10th",
+        "user": "U15J5H60P",
+        "ts": "1531763078.000135"
+    },
+    {
+        "client_msg_id": "b87eea93-de55-4cfc-9ed5-6a4314f8b1da",
+        "type": "message",
+        "text": "By one firm",
+        "user": "U15J5H60P",
+        "ts": "1531763123.000333"
+    },
+    {
+        "client_msg_id": "5e6e24bb-3c63-4e83-876b-891b34c119aa",
+        "type": "message",
+        "text": "<https:\/\/www.marketbeat.com\/stocks\/NYSE\/WH\/price-target\/>",
+        "user": "U15J5H60P",
+        "ts": "1531763146.000075",
+        "attachments": [
+            {
+                "title": "NYSE:WH - Wyndham Hotels &amp; Resorts Price Target &amp; Analyst Ratings$ WH",
+                "title_link": "https:\/\/www.marketbeat.com\/stocks\/NYSE\/WH\/price-target\/",
+                "text": "What are top-rated research analysts are saying about Wyndham Hotels &amp; Resorts (NYSE:WH)? View WH's most recent analyst ratings, recommendations and price targets at MarketBeat.",
+                "fallback": "NYSE:WH - Wyndham Hotels &amp; Resorts Price Target &amp; Analyst Ratings$ WH",
+                "thumb_url": "https:\/\/www.marketbeat.com\/logos\/wyndham-hotels--resorts-logo.png",
+                "from_url": "https:\/\/www.marketbeat.com\/stocks\/NYSE\/WH\/price-target\/",
+                "thumb_width": 1024,
+                "thumb_height": 295,
+                "service_icon": "https:\/\/www.marketbeat.com\/images\/apple-touch-icon-precomposed.png",
+                "service_name": "marketbeat.com",
+                "id": 1,
+                "original_url": "https:\/\/www.marketbeat.com\/stocks\/NYSE\/WH\/price-target\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "301cabb5-497c-4010-b2f1-be30056b12da",
+        "type": "message",
+        "text": "We'll have to see how other brokerages rate it within the next couple weeks",
+        "user": "U15J5H60P",
+        "ts": "1531763182.000454"
+    },
+    {
+        "client_msg_id": "f1c8942b-564a-491c-b233-a45465212e9a",
+        "type": "message",
+        "text": "Goldman Sachs is at a Conviction-buy as of 6\/25, JP Morgan rated it as Overweight on 5\/31 with a price target of $66",
+        "user": "U15J5H60P",
+        "ts": "1531763212.000152"
+    },
+    {
+        "client_msg_id": "92604937-a04d-4add-a919-84a13a42f411",
+        "type": "message",
+        "text": "I think I just found my new favorite research site",
+        "user": "U15J5H60P",
+        "ts": "1531763258.000329"
+    },
+    {
+        "client_msg_id": "0a7695d9-61f5-4de2-8cb2-970b1908ce65",
+        "type": "message",
+        "text": "r\/wallstreetbets?",
+        "user": "U15HRTAHL",
+        "ts": "1531764036.000295"
+    },
+    {
+        "client_msg_id": "3e17c158-56c9-47d4-9588-44d5e658c977",
+        "type": "message",
+        "text": "yes",
+        "user": "U15J5H60P",
+        "ts": "1531764045.000470"
+    },
+    {
+        "client_msg_id": "6992e75e-24ea-41b4-aa7c-837b35cb7de0",
+        "type": "message",
+        "text": "<@U15HZ01QX> is making a killing off of that site",
+        "user": "U15HRTAHL",
+        "ts": "1531764057.000336"
+    },
+    {
+        "client_msg_id": "BBDBC4B7-9A99-4166-8EF7-A0A1D43DD409",
+        "type": "message",
+        "text": ":new_moon_with_face:",
+        "user": "U15HZ01QX",
+        "ts": "1531764059.000237"
+    },
+    {
+        "client_msg_id": "a8cd44de-7b3e-4b79-be14-21aa1451328a",
+        "type": "message",
+        "text": "Sure is",
+        "user": "U15J5H60P",
+        "ts": "1531764062.000376"
+    },
+    {
+        "client_msg_id": "9226aab6-0b66-4284-901b-3315170d1e6f",
+        "type": "message",
+        "text": "I’m gonna buy some poppa johns stock",
+        "user": "U15HRTAHL",
+        "ts": "1531777158.000266"
+    },
+    {
+        "client_msg_id": "72d10f65-7cfe-4fda-aa7e-db5421d0994a",
+        "type": "message",
+        "text": "He brought it down",
+        "user": "U15HRTAHL",
+        "ts": "1531777167.000354"
+    },
+    {
+        "client_msg_id": "a833b447-957c-4589-8621-0235751ea405",
+        "type": "message",
+        "text": "it’ll go up",
+        "user": "U15HRTAHL",
+        "ts": "1531777173.000191"
+    },
+    {
+        "client_msg_id": "B28EE014-3867-49B8-AE3C-37C45268E6AA",
+        "type": "message",
+        "text": "Or they'll go outta business",
+        "user": "U15J5H60P",
+        "ts": "1531777222.000349"
+    },
+    {
+        "client_msg_id": "fdc19604-65bd-43b4-8130-1b8da0a5197a",
+        "type": "message",
+        "text": "doubt it",
+        "user": "U15HRTAHL",
+        "ts": "1531777247.000214"
+    },
+    {
+        "client_msg_id": "B45A7845-AACF-4F82-A057-8FCD09367339",
+        "type": "message",
+        "text": "If you're so confident buy $25,000",
+        "user": "U15J5H60P",
+        "ts": "1531777264.000369"
+    },
+    {
+        "client_msg_id": "1328fc00-f2ed-4f6f-835c-7f89b7af5a61",
+        "type": "message",
+        "text": "Volkswagen was literally founded by hitler and it’s still around",
+        "user": "U15HRTAHL",
+        "ts": "1531777268.000039"
+    },
+    {
+        "client_msg_id": "7F4CA87D-C4A9-4E9F-909E-E078590E273F",
+        "type": "message",
+        "text": "Free money",
+        "user": "U15J5H60P",
+        "ts": "1531777271.000296"
+    },
+    {
+        "client_msg_id": "7bc64e54-6675-43b9-ac81-7c0eb01d5224",
+        "type": "message",
+        "text": "I won’t",
+        "user": "U15HRTAHL",
+        "ts": "1531777274.000003"
+    },
+    {
+        "client_msg_id": "5305A506-4EEF-48A4-9CB7-78CBE8EF584C",
+        "type": "message",
+        "text": "You won't",
+        "user": "U15J5H60P",
+        "ts": "1531777279.000378"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548268449.000200",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548268456.000400",
+        "text": "<@U15J5H60P> has left the channel"
+    }
+]

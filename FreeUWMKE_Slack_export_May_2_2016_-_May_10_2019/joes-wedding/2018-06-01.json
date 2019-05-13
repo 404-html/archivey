@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> did you send us the itinerary information after you booked the flights?",
+        "user": "U15HRTAHL",
+        "ts": "1527873969.000297"
+    },
+    {
+        "client_msg_id": "C6BCBEB2-69BF-424A-836D-4B0971B5F317",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HZ01QX",
+        "ts": "1527873993.000254"
+    },
+    {
+        "client_msg_id": "CB85F70B-D716-47CE-A4FD-08618B7040DD",
+        "type": "message",
+        "text": "In the Vegas channel ",
+        "user": "U15HZ01QX",
+        "ts": "1527874004.000203"
+    },
+    {
+        "client_msg_id": "F1F526D2-D037-4513-A83D-27420C376CCA",
+        "type": "message",
+        "text": "Probably ",
+        "user": "U15HZ01QX",
+        "ts": "1527874006.000615"
+    }
+]

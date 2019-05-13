@@ -1,0 +1,48 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> <@U15J5H60P> so how about them shorts?",
+        "user": "U15HRTAHL",
+        "ts": "1512071347.000774"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1512071351.000266",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1512071351.000300",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> can you wear shorts to work?",
+        "user": "U15HRTAHL",
+        "ts": "1512071359.000170"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512072266.000331"
+    },
+    {
+        "type": "message",
+        "text": "besides shorts obviously",
+        "user": "U15HSHSS2",
+        "ts": "1512072402.000059"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1512072619.000164"
+    }
+]

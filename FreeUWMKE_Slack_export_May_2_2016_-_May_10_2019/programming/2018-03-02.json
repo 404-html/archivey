@@ -1,0 +1,85 @@
+[
+    {
+        "client_msg_id": "E39D0206-E3C3-4AEA-92FD-320CE64F92AB",
+        "type": "message",
+        "text": "<@U15HRTAHL> ive got an interesting problem",
+        "user": "U15HY5TG8",
+        "ts": "1520039483.000178"
+    },
+    {
+        "client_msg_id": "357CCB9B-D4F9-428A-90D5-269240CB24CB",
+        "type": "message",
+        "text": "So ive got this DataService that has the following functions: isClient() and isModel(). ",
+        "user": "U15HY5TG8",
+        "ts": "1520039532.000191"
+    },
+    {
+        "client_msg_id": "A4393C72-C4B6-4936-B60F-02E83C24316A",
+        "type": "message",
+        "text": "I sign in as a Model and open up the Network tab in devtools. The data response returns false for data.client and true for data.model, as expected",
+        "user": "U15HY5TG8",
+        "ts": "1520039606.000062"
+    },
+    {
+        "client_msg_id": "904BCF34-478F-4EA8-81F1-BAFCDC6A813C",
+        "type": "message",
+        "text": "Now when i go into the js\/html and call isClient(), that works, but calling isModel() does not work. ",
+        "user": "U15HY5TG8",
+        "ts": "1520039646.000168"
+    },
+    {
+        "client_msg_id": "D56549B1-6F69-4106-8659-BF37C012B0AE",
+        "type": "message",
+        "text": "It does however work on my coworkers computer. Have you ever seen a weird disconnection between single DataService functions?",
+        "user": "U15HY5TG8",
+        "ts": "1520039700.000031"
+    },
+    {
+        "type": "message",
+        "text": "nooo? that's odd",
+        "user": "U15HRTAHL",
+        "ts": "1520040836.000105"
+    },
+    {
+        "client_msg_id": "F0000B8E-4D41-4A5B-9E67-601D3BE0E985",
+        "type": "message",
+        "text": "Thats what im saying",
+        "user": "U15HY5TG8",
+        "ts": "1520040934.000027"
+    },
+    {
+        "client_msg_id": "57410829-44C7-4CDD-BE44-28E092E73BDB",
+        "type": "message",
+        "text": "I forwarded my localhost port through a tunnel to my other mac, and that didnt pick it up either",
+        "user": "U15HY5TG8",
+        "ts": "1520040996.000036"
+    },
+    {
+        "client_msg_id": "4baae1ac-a574-4828-9c70-2fca2cbf8ddb",
+        "type": "message",
+        "text": "Cache?",
+        "user": "U15HRTAHL",
+        "ts": "1520043162.000098"
+    },
+    {
+        "client_msg_id": "3DDEC9CF-686C-4CE0-A7E5-2E635A60157A",
+        "type": "message",
+        "text": "No, we got it figured out about a min ago. Bower wasnt installed correctly, therefore gulp didnt pick up changes, and therefore my js controllers werent merging properly",
+        "user": "U15HY5TG8",
+        "ts": "1520043244.000061"
+    },
+    {
+        "client_msg_id": "64a6471e-e940-47c4-a613-ad8babcfe1d5",
+        "type": "message",
+        "text": "Use web pack",
+        "user": "U15HRTAHL",
+        "ts": "1520043626.000091"
+    },
+    {
+        "client_msg_id": "DC32A230-A7C5-4C02-82CC-FB56651C13E4",
+        "type": "message",
+        "text": "Isnt that something inside the project itself?",
+        "user": "U15HY5TG8",
+        "ts": "1520043671.000074"
+    }
+]

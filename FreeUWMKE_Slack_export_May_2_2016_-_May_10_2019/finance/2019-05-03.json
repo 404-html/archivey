@@ -1,0 +1,257 @@
+[
+    {
+        "client_msg_id": "ff5ef2f2-df56-4ea9-af43-c0e8b5b6ad63",
+        "type": "message",
+        "text": "Total return on investments right now is 14.86%",
+        "user": "U15J5H60P",
+        "ts": "1556905497.000300"
+    },
+    {
+        "client_msg_id": "7656cada-db02-463e-8fb1-ef18f396cd8a",
+        "type": "message",
+        "text": "Fucking Micron bringing me down the most",
+        "user": "U15J5H60P",
+        "ts": "1556905504.000600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556905572.000800",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "TPR - Tapestry, Inc.",
+                "title": "TPR - Tapestry, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=TPR&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=TPR|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=TPR|Finviz> | <http:\/\/stocktwits.com\/symbol\/TPR|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556905569,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "31.14",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.25 (-0.80%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "3,429,376",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "4,500,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.8\/5 (11 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "50.97 (+63.67%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "2125506522",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "2125506522",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "2125506522",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "2125506522",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=TPR&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29100,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=TPR",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f74c505-4b58-4fee-afb5-3a0e0f229c1f",
+        "type": "message",
+        "text": "Man. TPR letting me down",
+        "user": "U15J5H60P",
+        "ts": "1556905579.001000"
+    },
+    {
+        "client_msg_id": "bced1497-795e-4971-b1dc-248619f56c9d",
+        "type": "message",
+        "text": "Beyond Meat had a crazy good IPO",
+        "user": "U15J5H60P",
+        "ts": "1556905626.001400"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1556905747.001600",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BYND - Beyond Meat, Inc.",
+                "title": "BYND - Beyond Meat, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BYND&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BYND|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BYND|Finviz> | <http:\/\/stocktwits.com\/symbol\/BYND|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556905740,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "70.70",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+4.95 (+7.53%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "9,802,264",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "N\/A",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "5.0\/5 (1 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "31.25 (-55.80%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "2125507370",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "2125507370",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "2125507370",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "2125507370",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BYND&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 3844,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BYND",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa684fa3-133b-4ead-8171-d70e1956d62b",
+        "type": "message",
+        "text": "Peep that Price Target",
+        "user": "U15J5H60P",
+        "ts": "1556905756.001800"
+    },
+    {
+        "client_msg_id": "38864a94-e490-4779-bd8e-addbc0131642",
+        "type": "message",
+        "text": "Dude, Goldman Sachs dropped the ball",
+        "user": "U15J5H60P",
+        "ts": "1556905811.002100"
+    },
+    {
+        "client_msg_id": "0f7bdbcb-aa45-4a15-bc25-c601c00b8605",
+        "type": "message",
+        "text": "The CEO\/C-Level people must be furious",
+        "user": "U15J5H60P",
+        "ts": "1556905827.002400"
+    },
+    {
+        "client_msg_id": "0da55bf4-6bfa-4051-bf2b-c492c1a9e64d",
+        "type": "message",
+        "text": "Goldman set the IPO at like $25",
+        "user": "U15J5H60P",
+        "ts": "1556905842.002700"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1556921931.000200",
+        "text": "<@U15HRTAHL> has joined the channel"
+    }
+]

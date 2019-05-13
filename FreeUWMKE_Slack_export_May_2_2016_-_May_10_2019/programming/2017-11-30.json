@@ -1,0 +1,448 @@
+[
+    {
+        "type": "message",
+        "text": "You guys ever do funny commit messages?",
+        "user": "U15HRTAHL",
+        "ts": "1512056190.000531"
+    },
+    {
+        "type": "message",
+        "text": "Not swearing but yea",
+        "user": "U15HY5TG8",
+        "ts": "1512056320.000207"
+    },
+    {
+        "type": "message",
+        "text": "Not swearing, but yeah",
+        "user": "U15J5H60P",
+        "ts": "1512056556.000404"
+    },
+    {
+        "type": "message",
+        "text": "Because Evan and I are professionals",
+        "user": "U15J5H60P",
+        "ts": "1512056571.000402"
+    },
+    {
+        "type": "message",
+        "text": " \/s",
+        "user": "U15J5H60P",
+        "ts": "1512056577.000346"
+    },
+    {
+        "type": "message",
+        "text": ":scream:",
+        "user": "U15HRTAHL",
+        "ts": "1512056579.000850"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1512056583.000090"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1512056583.000421"
+    },
+    {
+        "type": "message",
+        "text": "`unfucking some shit`",
+        "user": "U15HRTAHL",
+        "ts": "1512056593.000137"
+    },
+    {
+        "type": "message",
+        "text": "Accurate",
+        "user": "U15J5H60P",
+        "ts": "1512056601.000770"
+    },
+    {
+        "type": "message",
+        "text": "that one is good",
+        "user": "U15HRTAHL",
+        "ts": "1512056603.000213"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512056610.000345"
+    },
+    {
+        "type": "message",
+        "text": "why does this say that getBtc is not a function in the console?",
+        "user": "U15HY5TG8",
+        "ts": "1512092849.000183"
+    },
+    {
+        "type": "message",
+        "text": "``` (function(){\n        getBtc();\n    })();\n\n\n    var getBtc = function(){```",
+        "user": "U15HY5TG8",
+        "ts": "1512092854.000137"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15HY5TG8",
+        "ts": "1512093066.000014"
+    },
+    {
+        "type": "message",
+        "text": "Not sure ",
+        "user": "U15J5H60P",
+        "ts": "1512093076.000098"
+    },
+    {
+        "type": "message",
+        "text": "The syntax doesn’t look right to me",
+        "user": "U15J5H60P",
+        "ts": "1512093105.000016"
+    },
+    {
+        "type": "message",
+        "text": "which part?",
+        "user": "U15HY5TG8",
+        "ts": "1512093115.000054"
+    },
+    {
+        "type": "message",
+        "text": "The parents on 3",
+        "user": "U15J5H60P",
+        "ts": "1512093139.000015"
+    },
+    {
+        "type": "message",
+        "text": "Parens *",
+        "user": "U15J5H60P",
+        "ts": "1512093149.000228"
+    },
+    {
+        "type": "message",
+        "text": "Before the semi colon",
+        "user": "U15J5H60P",
+        "ts": "1512093159.000296"
+    },
+    {
+        "type": "message",
+        "text": "o no, that's right. its a self invoking function",
+        "user": "U15HY5TG8",
+        "ts": "1512093159.000371"
+    },
+    {
+        "type": "message",
+        "text": "Ah gotcha",
+        "user": "U15J5H60P",
+        "ts": "1512093165.000084"
+    },
+    {
+        "type": "message",
+        "text": "Declare your function above using it?",
+        "user": "U15HRTAHL",
+        "ts": "1512093650.000159"
+    },
+    {
+        "type": "message",
+        "text": "but its self invoking",
+        "user": "U15HY5TG8",
+        "ts": "1512093684.000223"
+    },
+    {
+        "type": "message",
+        "text": "Idk what that means lol. ",
+        "user": "U15HRTAHL",
+        "ts": "1512093720.000010"
+    },
+    {
+        "type": "message",
+        "text": "It's probably out of scope ",
+        "user": "U15HRTAHL",
+        "ts": "1512093737.000068"
+    },
+    {
+        "type": "message",
+        "text": "ahh i thought you would have used it for sure before",
+        "user": "U15HY5TG8",
+        "ts": "1512093807.000067"
+    },
+    {
+        "type": "message",
+        "text": "what im trying to do is just get the function to run automatically on load and this type of function does that",
+        "user": "U15HY5TG8",
+        "ts": "1512093831.000073"
+    },
+    {
+        "type": "message",
+        "text": "I would just use the onload",
+        "user": "U15J5H60P",
+        "ts": "1512093857.000029"
+    },
+    {
+        "type": "message",
+        "text": "^",
+        "user": "U15HRTAHL",
+        "ts": "1512093920.000108"
+    },
+    {
+        "type": "message",
+        "text": "I'm pretty sure you can have functions inside functions too. So you can put that get bc function inside your self invoking function",
+        "user": "U15HRTAHL",
+        "ts": "1512093967.000080"
+    },
+    {
+        "type": "message",
+        "text": "you can yes",
+        "user": "U15HY5TG8",
+        "ts": "1512094009.000011"
+    },
+    {
+        "type": "message",
+        "text": "``` (function(getBtc){\n        getBtc();\n    })(getBtc);\n\n\n    var getBtc = function(){```",
+        "user": "U15HRTAHL",
+        "ts": "1512094012.000076"
+    },
+    {
+        "type": "message",
+        "text": "Pretty sure that works too ",
+        "user": "U15HRTAHL",
+        "ts": "1512094018.000225"
+    },
+    {
+        "type": "message",
+        "text": "actually i got it to work with this lol",
+        "user": "U15HY5TG8",
+        "ts": "1512094177.000295"
+    },
+    {
+        "type": "message",
+        "text": "```\n   (function(){\n        getBtc();\n   })();\n\n\n    function getBtc(){\n```",
+        "user": "U15HY5TG8",
+        "ts": "1512094181.000312"
+    },
+    {
+        "type": "message",
+        "text": "why didnt we think of just changing var to function?!?!",
+        "user": "U15HY5TG8",
+        "ts": "1512094198.000063"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15HRTAHL",
+        "ts": "1512094222.000140"
+    },
+    {
+        "type": "message",
+        "text": "yours did not work lol",
+        "user": "U15HY5TG8",
+        "ts": "1512094266.000088"
+    },
+    {
+        "type": "message",
+        "text": "I was guessing ",
+        "user": "U15HRTAHL",
+        "ts": "1512094280.000137"
+    },
+    {
+        "type": "message",
+        "text": "It's definitely scoping ",
+        "user": "U15HRTAHL",
+        "ts": "1512094293.000214"
+    },
+    {
+        "type": "message",
+        "text": "well i tried adding scopes to everything, or in my case vm.",
+        "user": "U15HY5TG8",
+        "ts": "1512094321.000189"
+    },
+    {
+        "type": "message",
+        "text": "Gay",
+        "user": "U15J5H60P",
+        "ts": "1512094366.000159"
+    },
+    {
+        "type": "message",
+        "text": "No scope or die #360noscopeblazeitfagit420",
+        "user": "U15J5H60P",
+        "ts": "1512094392.000070"
+    },
+    {
+        "type": "message",
+        "text": "lol vm is better",
+        "user": "U15HY5TG8",
+        "ts": "1512094489.000003"
+    },
+    {
+        "type": "message",
+        "text": "looks cleaner",
+        "user": "U15HY5TG8",
+        "ts": "1512094493.000054"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/500431\/what-is-the-scope-of-variables-in-javascript>",
+        "user": "U15HRTAHL",
+        "ts": "1512094514.000203",
+        "attachments": [
+            {
+                "title": "What is the scope of variables in JavaScript?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/500431\/what-is-the-scope-of-variables-in-javascript",
+                "text": "What is the scope of variables in javascript? Do they have the same scope inside as opposed to outside a function? Or does it even matter? Also, where are the variables stored if they are defined",
+                "fallback": "What is the scope of variables in JavaScript?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/500431\/what-is-the-scope-of-variables-in-javascript",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "No idea what you’re talking about lol",
+        "user": "U15J5H60P",
+        "ts": "1512094519.000149"
+    },
+    {
+        "type": "message",
+        "text": "Look at #7",
+        "user": "U15HRTAHL",
+        "ts": "1512094519.000160"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> instead of doing $scope.somevariable you do \n```var vm =this;\n   vm.someboolean = false;```",
+        "user": "U15HY5TG8",
+        "ts": "1512094574.000145"
+    },
+    {
+        "type": "message",
+        "text": "The scope I'm talking about is not the same as angular scope ",
+        "user": "U15HRTAHL",
+        "ts": "1512094591.000083"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1512094616.000172"
+    },
+    {
+        "type": "message",
+        "text": "ooo gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1512094632.000177"
+    },
+    {
+        "type": "message",
+        "text": "#7 is your case exactly ",
+        "user": "U15HRTAHL",
+        "ts": "1512094697.000180"
+    },
+    {
+        "type": "message",
+        "text": "yeaaa i still dont understand that",
+        "user": "U15HY5TG8",
+        "ts": "1512094784.000323"
+    },
+    {
+        "type": "message",
+        "text": "Yeah it's under super complex ",
+        "user": "U15HRTAHL",
+        "ts": "1512094804.000310"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1512094810.000124"
+    },
+    {
+        "type": "message",
+        "text": "I didn't get it ",
+        "user": "U15HRTAHL",
+        "ts": "1512094821.000001"
+    },
+    {
+        "type": "message",
+        "text": "o well. its working now",
+        "user": "U15HY5TG8",
+        "ts": "1512094860.000237"
+    },
+    {
+        "type": "message",
+        "text": "if i need to change it in the future, i'll just have to figure out how to do ng-init or something like that",
+        "user": "U15HY5TG8",
+        "ts": "1512094885.000148"
+    },
+    {
+        "type": "message",
+        "text": "Let me see your controller ",
+        "user": "U15HRTAHL",
+        "ts": "1512095246.000113"
+    },
+    {
+        "type": "message",
+        "text": "You shouldn't need to do a self invoking function ",
+        "user": "U15HRTAHL",
+        "ts": "1512095260.000337"
+    },
+    {
+        "type": "message",
+        "text": "probably not, i just need it to load with the page",
+        "user": "U15HY5TG8",
+        "ts": "1512095288.000094"
+    },
+    {
+        "type": "message",
+        "text": "```app.controller('btcController', ['$scope', '$http', function($scope, $http){\n    var vm = this;\n\n   (function(){\n        getBtc();\n   })();\n\n\n    function getBtc(){\n\n            vm.postiveHr, vm.postive24, vm.positive7d = false;\n\n            $http.get(\"<https:\/\/api.coinmarketcap.com\/v1\/ticker\/bitcoin\/>\")\n            .then(function(response) {\n                var data = response.data[0];\n                vm.name = data.name;\n                vm.symbol = data.symbol;\n                vm.price_usd = data.price_usd;\n                vm.twentyFourHrVol = data['24h_volume_usd'];\n                vm.percent_change_1h = data.percent_change_1h;\n                vm.percent_change_24h = data.percent_change_24h;\n                vm.percent_change_7d = data.percent_change_7d;\n                if(vm.percent_change_1h&gt;0){\n                    vm.positiveHr = true;\n                }\n                if(vm.percent_change_24h&gt;0){\n                    vm.positive24 = true;\n                }\n                if(vm.percent_change_7d&gt;0){\n                    vm.positive7d = true;\n                }\n                var t = new Date();\n                t.setSeconds( data.last_updated );\n                vm.lastUpdated = t.format(\"dd.mm.yyyy hh:MM:ss\");\n              \n           }, onError);\n    }\n    \n    var onError = function(){\n        vm.errorMessage = \"Data currently unavailable.\";\n    }\n}]);```",
+        "user": "U15HY5TG8",
+        "ts": "1512095293.000165"
+    },
+    {
+        "type": "message",
+        "text": "Yeah you don't need to self invoke it like that. But it works ",
+        "user": "U15HRTAHL",
+        "ts": "1512095372.000103"
+    },
+    {
+        "type": "message",
+        "text": "what would you do?",
+        "user": "U15HY5TG8",
+        "ts": "1512095382.000153"
+    },
+    {
+        "type": "message",
+        "text": "alright i got it to work with ng-init",
+        "user": "U15HY5TG8",
+        "ts": "1512095632.000081"
+    },
+    {
+        "type": "message",
+        "text": "Just an init function and call it",
+        "user": "U15HRTAHL",
+        "ts": "1512102640.000003"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/dpa74fcw56101.jpg>",
+        "user": "U15HSHSS2",
+        "ts": "1512109035.000167",
+        "attachments": [
+            {
+                "fallback": "652x542px image",
+                "image_url": "https:\/\/i.redd.it\/dpa74fcw56101.jpg",
+                "image_width": 652,
+                "image_height": 542,
+                "image_bytes": 81871,
+                "from_url": "https:\/\/i.redd.it\/dpa74fcw56101.jpg",
+                "id": 1
+            }
+        ]
+    }
+]

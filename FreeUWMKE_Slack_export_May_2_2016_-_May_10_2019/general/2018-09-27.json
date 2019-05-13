@@ -1,0 +1,600 @@
+[
+    {
+        "client_msg_id": "3ec5eff8-f08d-4dc9-8ebc-775a905e87c7",
+        "type": "message",
+        "text": "Good morning, everyone. I hope you have a great day! It's gonna be the last semi-warm day for a while!",
+        "user": "U15J5H60P",
+        "ts": "1538054732.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1538054773.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/game-of-thrones-jon-snow-gif-nplKLWUd3j0Bi",
+                "image_url": "https:\/\/media3.giphy.com\/media\/nplKLWUd3j0Bi\/giphy-downsized.gif",
+                "image_width": 500,
+                "image_height": 300,
+                "image_bytes": 1584319,
+                "is_animated": true,
+                "title": "winter is coming",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/game-of-thrones-jon-snow-gif-nplKLWUd3j0Bi"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4765E674-FBE3-4166-AEBA-94F30AB17EBA",
+        "type": "message",
+        "text": "Lies",
+        "user": "U15HY5TG8",
+        "ts": "1538054883.000100"
+    },
+    {
+        "client_msg_id": "B9F5EDC3-85E2-4437-B873-8E4F5DA78069",
+        "type": "message",
+        "text": "Also, this is perfect weather",
+        "user": "U15HY5TG8",
+        "ts": "1538054903.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1538055347.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/blinds-disinterested-11YdnfyG6qvuWk",
+                "image_url": "https:\/\/media0.giphy.com\/media\/11YdnfyG6qvuWk\/giphy-downsized.gif",
+                "image_width": 295,
+                "image_height": 222,
+                "image_bytes": 1905701,
+                "is_animated": true,
+                "title": "go away",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/blinds-disinterested-11YdnfyG6qvuWk"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1041d0ea-a3a5-4497-8cc7-c52485932c95",
+        "type": "message",
+        "text": "<https:\/\/friendship.northwesternmutual-foundation.com\/?bracelet=1226>",
+        "user": "U15J5H60P",
+        "ts": "1538074976.000100",
+        "attachments": [
+            {
+                "title": "Create a friendship bracelet to help end childhood cancer",
+                "title_link": "https:\/\/friendship.northwesternmutual-foundation.com\/?bracelet=1226",
+                "text": "In September 2018, Childhood Cancer Awareness Month, Northwestern Mutual will donate $1 to Alex’s Lemonade Stand Foundation for each Friendship Bracelet segment created, up to $100,000.",
+                "fallback": "Create a friendship bracelet to help end childhood cancer",
+                "image_url": "https:\/\/friendship.northwesternmutual-foundation.com\/NWM%20hero.jpg",
+                "from_url": "https:\/\/friendship.northwesternmutual-foundation.com\/?bracelet=1226",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 391537,
+                "service_icon": "https:\/\/friendship.northwesternmutual-foundation.com\/favicon.ico",
+                "service_name": "friendship.northwesternmutual-foundation.com",
+                "id": 1,
+                "original_url": "https:\/\/friendship.northwesternmutual-foundation.com\/?bracelet=1226"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "16b50322-047c-4242-96c8-46336a880a08",
+        "type": "message",
+        "text": "An easy way to give to help end childhood cancer. For every friendship bracelet created, Northwestern Mutual will donate $1 to Alex's Lemonade Stand Foundation. Take a moment to make a difference!",
+        "user": "U15J5H60P",
+        "ts": "1538074983.000100"
+    },
+    {
+        "client_msg_id": "7516ae7f-f84c-49e6-82a7-6fea60f0e7c1",
+        "type": "message",
+        "text": "or nm can just donate the money regardless?",
+        "user": "U15HRTAHL",
+        "ts": "1538075015.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1538075018.000000"
+        },
+        "thread_ts": "1538075015.000100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1538075200.000100",
+        "reply_users": [
+            "U15J5H60P"
+        ],
+        "replies": [
+            {
+                "user": "U15J5H60P",
+                "ts": "1538075200.000100"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ceb29b3-8f69-4a7f-952f-de86fbb7f791",
+        "type": "message",
+        "text": "Is this some how connected to you lol?",
+        "user": "U15HSHSS2",
+        "ts": "1538075036.000100"
+    },
+    {
+        "client_msg_id": "0144e636-fcaf-451a-9dcd-faedbf07b238",
+        "type": "message",
+        "text": "As in am I incentivized to send it to you guys?",
+        "user": "U15J5H60P",
+        "ts": "1538075058.000100"
+    },
+    {
+        "client_msg_id": "36abcc92-4dc3-4df8-8ea4-92e8848e4893",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1538075059.000200"
+    },
+    {
+        "client_msg_id": "f8fd96e1-546d-4f7b-a110-edef5b2ec1e1",
+        "type": "message",
+        "text": "ah yeah \"add to Andrews bracelet\"",
+        "user": "U15HSHSS2",
+        "ts": "1538075061.000100"
+    },
+    {
+        "client_msg_id": "49861ea4-899a-4fa5-a4df-535dba202103",
+        "type": "message",
+        "text": "You can also make your own",
+        "user": "U15J5H60P",
+        "ts": "1538075068.000100"
+    },
+    {
+        "client_msg_id": "62638764-d0ce-4104-83f4-e8dde5c8f7cf",
+        "type": "message",
+        "text": "Here's one that is in no way associated with me.",
+        "user": "U15J5H60P",
+        "ts": "1538075105.000100"
+    },
+    {
+        "client_msg_id": "5a8c6187-248b-42d1-b093-ad0ea141aacc",
+        "type": "message",
+        "text": "<https:\/\/friendship.northwesternmutual-foundation.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1538075106.000200",
+        "attachments": [
+            {
+                "title": "Create a friendship bracelet to help end childhood cancer",
+                "title_link": "https:\/\/friendship.northwesternmutual-foundation.com\/",
+                "text": "In September 2018, Childhood Cancer Awareness Month, Northwestern Mutual will donate $1 to Alex’s Lemonade Stand Foundation for each Friendship Bracelet segment created, up to $100,000.",
+                "fallback": "Create a friendship bracelet to help end childhood cancer",
+                "image_url": "https:\/\/friendship.northwesternmutual-foundation.com\/NWM%20hero.jpg",
+                "from_url": "https:\/\/friendship.northwesternmutual-foundation.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 391537,
+                "service_icon": "https:\/\/friendship.northwesternmutual-foundation.com\/favicon.ico",
+                "service_name": "friendship.northwesternmutual-foundation.com",
+                "id": 1,
+                "original_url": "https:\/\/friendship.northwesternmutual-foundation.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a1e95f0-ff18-4617-a8a7-855fb0a92f44",
+        "type": "message",
+        "text": "Maybe I should go update the rest of my links that I posted to not have my id on there",
+        "user": "U15J5H60P",
+        "ts": "1538075138.000100"
+    },
+    {
+        "client_msg_id": "56815a29-baf9-4e96-9eaf-5441e2304202",
+        "type": "message",
+        "text": "I mean they could, but then there's nothing in it for them! This way they get some exposure but are still giving to a good cause. Ideally they'd just donate the money, but :man-shrugging:",
+        "user": "U15J5H60P",
+        "ts": "1538075200.000100",
+        "thread_ts": "1538075015.000100",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "84AADDE1-762B-472B-841C-5BA89F46C372",
+        "type": "message",
+        "text": "Up down anyone?",
+        "user": "U15J5H60P",
+        "ts": "1538087296.000100"
+    },
+    {
+        "client_msg_id": "666B4503-A87B-4353-A6F9-2D28C3DFEDC6",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1538087309.000100"
+    },
+    {
+        "client_msg_id": "325070E4-1784-44DB-BB63-FB057A22A14A",
+        "type": "message",
+        "text": "How late you staying?",
+        "user": "U15J5H60P",
+        "ts": "1538087372.000100"
+    },
+    {
+        "client_msg_id": "9FE09562-53D8-4D66-909C-A73A5DBE55F2",
+        "type": "message",
+        "text": "No idea",
+        "user": "U15HY5TG8",
+        "ts": "1538087589.000100"
+    },
+    {
+        "client_msg_id": "661C3AE3-25BA-49E0-9A72-8C2FAFCCD499",
+        "type": "message",
+        "text": "Comin back?",
+        "user": "U15HY5TG8",
+        "ts": "1538087934.000100"
+    },
+    {
+        "client_msg_id": "6552FBF6-82DE-4A9A-ABB4-007540228828",
+        "type": "message",
+        "text": "I was considering it, but I have some chores to do. I have no clothes for tomorrow lol",
+        "user": "U15J5H60P",
+        "ts": "1538088078.000100"
+    },
+    {
+        "client_msg_id": "896F130F-6DBA-45FA-BC91-DED641623FB7",
+        "type": "message",
+        "text": "Very poor reason",
+        "user": "U15HY5TG8",
+        "ts": "1538088095.000100"
+    },
+    {
+        "client_msg_id": "44C37B7F-1495-4993-ADED-C9E81C9B4E84",
+        "type": "message",
+        "text": "And fortnite is calling",
+        "user": "U15J5H60P",
+        "ts": "1538088135.000100"
+    },
+    {
+        "client_msg_id": "948440B6-33D2-4670-A76D-6FA6437E2FF7",
+        "type": "message",
+        "text": "What the hell brother",
+        "user": "U15HY5TG8",
+        "ts": "1538088822.000100"
+    },
+    {
+        "client_msg_id": "BA706BDB-280E-4A2C-A709-BA0392DD1B33",
+        "type": "message",
+        "text": ":troll: ",
+        "user": "U15HY5TG8",
+        "ts": "1538089351.000100"
+    },
+    {
+        "client_msg_id": "B5FC244C-AEA9-496D-B566-2B1393CE079B",
+        "type": "message",
+        "text": "What the hell brotha",
+        "user": "U15J5H60P",
+        "ts": "1538089378.000200"
+    },
+    {
+        "client_msg_id": "9E9B5BE3-EBB4-4AA4-9D0A-82E01918DD07",
+        "type": "message",
+        "text": "Man, I want to go now",
+        "user": "U15J5H60P",
+        "ts": "1538091776.000100"
+    },
+    {
+        "client_msg_id": "70EA7A11-7641-47EA-BB16-8AD40B8CBCDE",
+        "type": "message",
+        "text": "I want a mango white claw",
+        "user": "U15J5H60P",
+        "ts": "1538091776.000200"
+    },
+    {
+        "client_msg_id": "9255AE8B-4A03-44EE-B9C8-8B7BA4D0B2F8",
+        "type": "message",
+        "text": "Do ittty",
+        "user": "U15HY5TG8",
+        "ts": "1538093166.000100"
+    },
+    {
+        "client_msg_id": "1CF1A441-9B80-4949-94BD-5A944DE6B472",
+        "type": "message",
+        "text": "Lol are you still there??",
+        "user": "U15J5H60P",
+        "ts": "1538093182.000100"
+    },
+    {
+        "client_msg_id": "DC8CA8F9-BB5B-45D8-808A-A64C2420C744",
+        "type": "message",
+        "text": "Yeahhh sonnn",
+        "user": "U15HY5TG8",
+        "ts": "1538093197.000100"
+    },
+    {
+        "client_msg_id": "F6A5D8FD-55A5-43D2-B882-DF6D0CD08535",
+        "type": "message",
+        "text": "You comin?! Lol",
+        "user": "U15HY5TG8",
+        "ts": "1538093646.000100"
+    },
+    {
+        "client_msg_id": "E28705F4-72BE-4141-B4B2-40B7317DE3C2",
+        "type": "message",
+        "text": "You guys at up down?",
+        "user": "U15HZ01QX",
+        "ts": "1538093701.000100"
+    },
+    {
+        "client_msg_id": "AD6EE0B1-D057-4D31-9B22-6A076FF25F4D",
+        "type": "message",
+        "text": "When do they have pizza?",
+        "user": "U15HZ01QX",
+        "ts": "1538093743.000100"
+    },
+    {
+        "client_msg_id": "99A577AA-3719-457C-98EB-8696A55B4F54",
+        "type": "message",
+        "text": "Just i am. And all the time i think",
+        "user": "U15HY5TG8",
+        "ts": "1538093789.000100"
+    },
+    {
+        "client_msg_id": "67F73BFC-3F64-4B33-AF10-FB5076AE025C",
+        "type": "message",
+        "text": "I’m in front of your house",
+        "user": "U15HZ01QX",
+        "ts": "1538093836.000100"
+    },
+    {
+        "client_msg_id": "F8CA96FF-6668-44B7-9739-399A5835D7EC",
+        "type": "message",
+        "text": "I'm not. I'm drying my clothes",
+        "user": "U15J5H60P",
+        "ts": "1538093840.000200"
+    },
+    {
+        "client_msg_id": "FFBA8428-9E1E-4F82-8165-E66D74FDEA3D",
+        "type": "message",
+        "text": "Unbelievable.",
+        "user": "U15J5H60P",
+        "ts": "1538093842.000100"
+    },
+    {
+        "client_msg_id": "AA4AB6FC-D875-4433-9651-713EB96833E2",
+        "type": "message",
+        "text": "The one day",
+        "user": "U15J5H60P",
+        "ts": "1538093846.000200"
+    },
+    {
+        "client_msg_id": "63EC6074-2E59-44AC-884F-0CB119C00CC3",
+        "type": "message",
+        "text": "If I can find parking up there I’ll come and get some pizza",
+        "user": "U15HZ01QX",
+        "ts": "1538093850.000200"
+    },
+    {
+        "client_msg_id": "FC8DA15A-3108-4D80-9EDC-96C0220BA4D0",
+        "type": "message",
+        "text": "I have 10 minutes left on my timer.",
+        "user": "U15J5H60P",
+        "ts": "1538093884.000100"
+    },
+    {
+        "client_msg_id": "E5FE9BD1-6535-41A8-9A5E-5E1E8C4361D6",
+        "type": "message",
+        "text": "Ugh, I can't make it tonight.",
+        "user": "U15J5H60P",
+        "ts": "1538093893.000100"
+    },
+    {
+        "client_msg_id": "A63512A5-35C7-445F-8752-75CBC14B93B2",
+        "type": "message",
+        "text": "It's gonna rain",
+        "user": "U15J5H60P",
+        "ts": "1538094102.000200"
+    },
+    {
+        "client_msg_id": "c7e8eba4-e59e-4986-9809-a36f28a9b4b9",
+        "type": "message",
+        "text": "<https:\/\/www.cnbc.com\/2018\/09\/27\/tesla-falls-4percent-on-report-elon-musk-sued-by-sec.html>",
+        "user": "U15HRTAHL",
+        "ts": "1538094112.000100",
+        "attachments": [
+            {
+                "service_name": "CNBC",
+                "title": "SEC charges Tesla CEO Elon Musk with fraud",
+                "title_link": "https:\/\/www.cnbc.com\/2018\/09\/27\/tesla-falls-4percent-on-report-elon-musk-sued-by-sec.html",
+                "text": "Sources close to the company told CNBC the company was also expecting to be sued, though Tesla was not named as a defendant in the complaint.",
+                "fallback": "CNBC: SEC charges Tesla CEO Elon Musk with fraud",
+                "image_url": "https:\/\/fm.cnbc.com\/applications\/cnbc.com\/resources\/img\/editorial\/2018\/08\/17\/105402949-1534512509161ap_18221687565307.1910x1000.jpg",
+                "ts": 1538078635,
+                "from_url": "https:\/\/www.cnbc.com\/2018\/09\/27\/tesla-falls-4percent-on-report-elon-musk-sued-by-sec.html",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 76556,
+                "service_icon": "https:\/\/www.cnbc.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnbc.com\/2018\/09\/27\/tesla-falls-4percent-on-report-elon-musk-sued-by-sec.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9DA81965-9D12-4AC4-A0F9-CEB951530057",
+        "type": "message",
+        "text": "I wish I could get sued for fraud",
+        "user": "U15J5H60P",
+        "ts": "1538094134.000100"
+    },
+    {
+        "client_msg_id": "091cccc2-31b0-40cd-84a9-4bdf44521dc6",
+        "type": "message",
+        "text": "Eloquent use of words ",
+        "user": "U15HRTAHL",
+        "ts": "1538094195.000100"
+    },
+    {
+        "client_msg_id": "AA30D434-9B55-4321-A4BC-A0B6FC230E31",
+        "type": "message",
+        "text": "Thank you!",
+        "user": "U15J5H60P",
+        "ts": "1538094477.000100"
+    },
+    {
+        "client_msg_id": "A525DA1D-4F3C-4AAC-80C0-0084531A84D1",
+        "type": "message",
+        "text": "Is Mel there, Evan?",
+        "user": "U15J5H60P",
+        "ts": "1538094500.000200"
+    },
+    {
+        "client_msg_id": "3605DC16-CC92-4464-9305-DE18279B3417",
+        "type": "message",
+        "text": "Also, is it packed?",
+        "user": "U15J5H60P",
+        "ts": "1538094512.000100"
+    },
+    {
+        "client_msg_id": "5FA1ABDE-3946-419F-AD47-032761402855",
+        "type": "message",
+        "text": "No shes not and not horribly packed but decent",
+        "user": "U15HY5TG8",
+        "ts": "1538096071.000100"
+    },
+    {
+        "client_msg_id": "3dd2675c-c4ed-4a3f-85bd-9ec11b05f975",
+        "type": "message",
+        "text": "huh, twitch is allowed to stream NFL now I guess",
+        "user": "U15HSHSS2",
+        "ts": "1538096909.000100"
+    },
+    {
+        "client_msg_id": "fb420cab-b6bc-42af-ab8e-60a0bb39b3fc",
+        "type": "message",
+        "text": "if you have amazon prime you can watch it",
+        "user": "U15HSHSS2",
+        "ts": "1538096922.000100"
+    },
+    {
+        "client_msg_id": "edfeb228-d160-4a7b-a0bd-2d4e33f6c2f0",
+        "type": "message",
+        "text": "<https:\/\/www.twitch.tv\/primevideo>",
+        "user": "U15HSHSS2",
+        "ts": "1538096923.000100",
+        "attachments": [
+            {
+                "service_name": "Twitch",
+                "title": "primevideo - Twitch",
+                "title_link": "https:\/\/www.twitch.tv\/primevideo",
+                "text": "NFL Thursday Night Football | Vikings vs. Rams",
+                "fallback": "Twitch: primevideo - Twitch",
+                "thumb_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/c846974a-ee87-4747-a6ea-66d7e35c3464-profile_image-300x300.jpg",
+                "from_url": "https:\/\/www.twitch.tv\/primevideo",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/static.twitchcdn.net\/assets\/favicon-75270f9df2b07174c23c.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.twitch.tv\/primevideo"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A7193E2A-42EF-4EAE-921E-80FA864670BA",
+        "type": "message",
+        "text": "Sounds like a scam",
+        "user": "U15HY5TG8",
+        "ts": "1538097184.000200"
+    },
+    {
+        "client_msg_id": "590e8e44-7ae3-492d-ac7c-bc5c8ff55098",
+        "type": "message",
+        "text": "lol I mean I'm watching right now",
+        "user": "U15HSHSS2",
+        "ts": "1538097217.000100"
+    },
+    {
+        "client_msg_id": "1F0B3B11-1522-4B66-B166-ECBE1366A5EE",
+        "type": "message",
+        "text": "Yeah fox picked up the rights. And amazon has the shared rights for like 10 of the games or something",
+        "user": "U15HZ01QX",
+        "ts": "1538097219.000100"
+    },
+    {
+        "client_msg_id": "C52D30D3-98AF-4F6E-9B87-5EEAB77894C4",
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1538097233.000100"
+    },
+    {
+        "client_msg_id": "83CD4842-17BC-46DE-97B9-A676E4715858",
+        "type": "message",
+        "text": "Just bought my ticket to see the foo fighters",
+        "user": "U15J5H60P",
+        "ts": "1538103406.000100"
+    },
+    {
+        "client_msg_id": "84C08355-7892-4E72-9E2E-8C19A3127C55",
+        "type": "message",
+        "text": "I'm excited!",
+        "user": "U15J5H60P",
+        "ts": "1538103409.000100"
+    },
+    {
+        "client_msg_id": "3E13228F-D2FF-42B0-A80C-B9CF1BAC7E32",
+        "type": "message",
+        "text": "October 17th tho. But I have something to look forward to!",
+        "user": "U15J5H60P",
+        "ts": "1538103422.000100"
+    },
+    {
+        "client_msg_id": "BD1945BB-E091-4420-9D1A-E403E7D57475",
+        "type": "message",
+        "text": "Dude find some better bands lol",
+        "user": "U15HY5TG8",
+        "ts": "1538104631.000100"
+    },
+    {
+        "client_msg_id": "311A33AE-4F6B-4ECB-9108-DEC8F6BDF0D9",
+        "type": "message",
+        "text": "The Foo fighters are great!!",
+        "user": "U15J5H60P",
+        "ts": "1538104643.000100"
+    },
+    {
+        "client_msg_id": "92FDDB6D-7AB9-43B8-A947-82BB944D0C0B",
+        "type": "message",
+        "text": "I love them",
+        "user": "U15J5H60P",
+        "ts": "1538104645.000100"
+    },
+    {
+        "client_msg_id": "549478D2-3CE2-46D2-BC1C-A510AE6626B1",
+        "type": "message",
+        "text": "Nvm sorry im excited for you",
+        "user": "U15HY5TG8",
+        "ts": "1538104649.000100"
+    },
+    {
+        "client_msg_id": "A30BB436-C7D0-45A7-B476-730DBEE14ABE",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1538104652.000200"
+    },
+    {
+        "client_msg_id": "648F4D84-C795-4C87-B16A-E2B3AB8A3FB9",
+        "type": "message",
+        "text": "Thanks for the support",
+        "user": "U15J5H60P",
+        "ts": "1538104668.000100"
+    },
+    {
+        "client_msg_id": "6EA47D1E-DA92-4BE7-ABCD-37894E83BF81",
+        "type": "message",
+        "text": "Lol no problem",
+        "user": "U15HY5TG8",
+        "ts": "1538107820.000200"
+    }
+]

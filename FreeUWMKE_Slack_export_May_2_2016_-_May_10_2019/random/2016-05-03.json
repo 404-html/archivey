@@ -1,0 +1,84 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462312754.000002",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462312755.000003",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462312755.000004",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462312755.000005",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "lolol this app is a shitshow",
+        "user": "U15HY5TG8",
+        "ts": "1462312784.000006"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462331668.000007",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy random",
+        "user": "U15J5H60P",
+        "ts": "1462333091.000008",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/random-frog-worlds-cutest-1mht8tODXy0OA>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/1mht8tODXy0OA\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1017623,
+                "is_animated": true,
+                "title": "random",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/random-frog-worlds-cutest-1mht8tODXy0OA"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy b board",
+        "user": "U15HY5TG8",
+        "ts": "1462333540.000009",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/calabrese-dark-rock-band-xThuWe8MLM8lDhPaZW>",
+                "image_url": "https:\/\/media.giphy.com\/media\/xThuWe8MLM8lDhPaZW\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 736704,
+                "is_animated": true,
+                "title": "b board",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/calabrese-dark-rock-band-xThuWe8MLM8lDhPaZW"
+            }
+        ]
+    }
+]

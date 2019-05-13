@@ -1,0 +1,154 @@
+[
+    {
+        "client_msg_id": "1bf15c7a-aeb2-4223-b5cc-cdf289de3c6f",
+        "type": "message",
+        "text": "<@U15J5H60P> your options expire today?",
+        "user": "U15HRTAHL",
+        "ts": "1553262553.000300"
+    },
+    {
+        "client_msg_id": "2171C011-71D1-4F5A-B965-221B8F56D6AF",
+        "type": "message",
+        "text": "Next Friday ",
+        "user": "U15HZ01QX",
+        "ts": "1553262565.000600"
+    },
+    {
+        "client_msg_id": "B0413683-D46F-420D-BA3A-5A064286BEEE",
+        "type": "message",
+        "text": "Down 2%",
+        "user": "U15HZ01QX",
+        "ts": "1553262651.000900"
+    },
+    {
+        "client_msg_id": "372FE173-E701-4D93-9F7A-A15B2FC2B40D",
+        "type": "message",
+        "text": "Needs to go up 16 dollars in 7 days to get him his money back",
+        "user": "U15HZ01QX",
+        "ts": "1553262680.001600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15HRTAHL> fetched a quote with: `\/quote`",
+        "ts": "1553263033.001900",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "EADSY - Airbus SE American Depositary Receipts - Unsponsored",
+                "title": "EADSY - Airbus SE American Depositary Receipts - Unsponsored",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=EADSY&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=EADSY|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=EADSY|Finviz> | <http:\/\/stocktwits.com\/symbol\/EADSY|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1553280763,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "32.41",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-1.30 (-3.87%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "82,509",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "N\/A",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.0\/5 (1 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "0.00 (-100.00%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "2125506953",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "2125506953",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "2125506953",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "2125506953",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=EADSY&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 4024,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=EADSY",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1727e10e-bf1a-4ca8-ad42-2f5fcd57ffb2",
+        "type": "message",
+        "text": "whole market is down",
+        "user": "U15HRTAHL",
+        "ts": "1553263051.002200"
+    },
+    {
+        "client_msg_id": "d96e09ad-7315-4ecf-b226-2df9d15c3245",
+        "type": "message",
+        "text": "Boeing just lost a huge sale",
+        "user": "U15J5H60P",
+        "ts": "1553280771.002600"
+    },
+    {
+        "client_msg_id": "81f3ea42-8394-4577-9e58-5aa58e28ba26",
+        "type": "message",
+        "text": "those dumbos",
+        "user": "U15HRTAHL",
+        "ts": "1553280869.002900"
+    },
+    {
+        "client_msg_id": "cd9d533a-1b60-4120-83d7-5537a48f2fc8",
+        "type": "message",
+        "text": "Sad day",
+        "user": "U15J5H60P",
+        "ts": "1553280884.003200"
+    }
+]

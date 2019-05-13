@@ -1,0 +1,211 @@
+[
+    {
+        "client_msg_id": "35515b74-db90-43c6-8973-d1d82aa98948",
+        "type": "message",
+        "text": "I decided I’m closing my credit union account and moving 100% to ally",
+        "user": "U15HRTAHL",
+        "ts": "1550764655.000400"
+    },
+    {
+        "client_msg_id": "13521d4e-3748-4984-9138-da5173721f3f",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1550764663.000800"
+    },
+    {
+        "client_msg_id": "b4440064-b1d5-4ff3-b25b-565db12563cf",
+        "type": "message",
+        "text": "they have lower interest rates than my credit union",
+        "user": "U15HRTAHL",
+        "ts": "1550764665.000900"
+    },
+    {
+        "client_msg_id": "a84a716c-fd84-4e2a-aac0-128823fb86b6",
+        "type": "message",
+        "text": "on loans",
+        "user": "U15HRTAHL",
+        "ts": "1550764668.001100"
+    },
+    {
+        "client_msg_id": "27865a5e-baa4-459c-b179-d1d42de9ffef",
+        "type": "message",
+        "text": "and higher interest rates on savings",
+        "user": "U15HRTAHL",
+        "ts": "1550764674.001400"
+    },
+    {
+        "client_msg_id": "5003be17-3046-4972-bcc8-5cb69a78e5a5",
+        "type": "message",
+        "text": "They nailed the “flywheel” affect",
+        "user": "U15HRTAHL",
+        "ts": "1550764694.001700"
+    },
+    {
+        "client_msg_id": "ff92fd37-22b7-4358-9212-0310500cbd72",
+        "type": "message",
+        "text": "lower interest loan rates + higher savings rates = more customers. More customers = more money. More money = more loans. More loans = more customers",
+        "user": "U15HRTAHL",
+        "ts": "1550764733.002600"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1550764764.002800",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/ifeelpretty-i-feel-pretty-l3diPg5IyuDjUzmww",
+                "image_url": "https:\/\/media3.giphy.com\/media\/l3diPg5IyuDjUzmww\/giphy-downsized.gif?cid=6104955e5c6ecad85a4b776c458f9910",
+                "image_width": 384,
+                "image_height": 160,
+                "image_bytes": 1854415,
+                "is_animated": true,
+                "title": "flywheel",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/ifeelpretty\/|I Feel Pretty>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/ifeelpretty-i-feel-pretty-l3diPg5IyuDjUzmww"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50c71a9e-d9c9-4b40-9d9a-618fdce6ebee",
+        "type": "message",
+        "text": "You did it joe",
+        "user": "U15HZ01QX",
+        "ts": "1550764877.003000"
+    },
+    {
+        "client_msg_id": "0f818d35-76d7-418c-9d2f-bab4f9434ae2",
+        "type": "message",
+        "text": "Youre fuckin digital",
+        "user": "U15HZ01QX",
+        "ts": "1550764888.003300"
+    },
+    {
+        "client_msg_id": "0e49644c-d759-4097-b3ef-3adb162707ff",
+        "type": "message",
+        "text": "or So digital?",
+        "user": "U15HZ01QX",
+        "ts": "1550764894.003500"
+    },
+    {
+        "client_msg_id": "aa1e39c8-15f1-45b3-98db-b71ad065d4db",
+        "type": "message",
+        "text": "Idk what the phrase is",
+        "user": "U15HZ01QX",
+        "ts": "1550764900.003900"
+    },
+    {
+        "client_msg_id": "ceba3dc4-c898-4dc7-ab6e-8a7df6a8c215",
+        "type": "message",
+        "text": "They're selling your info to the feds",
+        "user": "U15J5H60P",
+        "ts": "1550764907.004200"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1550764908.004300",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/clouds-quote-Vb8Ye3Avh83PG",
+                "image_url": "https:\/\/media3.giphy.com\/media\/Vb8Ye3Avh83PG\/giphy.gif?cid=6104955e5c6ecb6a4d324f4a596a684a",
+                "image_width": 500,
+                "image_height": 280,
+                "image_bytes": 707822,
+                "is_animated": true,
+                "title": "I'm in the cloud!",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/clouds-quote-Vb8Ye3Avh83PG"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08d62746-ce6f-466b-9784-b827ff0c770f",
+        "type": "message",
+        "text": "until some intern fucks up some code and divides my account by 1000 and I’m penniless",
+        "user": "U15HRTAHL",
+        "ts": "1550764946.004800",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1550764952.000000"
+        }
+    },
+    {
+        "client_msg_id": "4102b897-99d5-4bdb-bf65-1b5c0bc2e198",
+        "type": "message",
+        "text": "i mean you can never divide to 0 right?",
+        "user": "U15HZ01QX",
+        "ts": "1550765016.005200"
+    },
+    {
+        "client_msg_id": "9478462a-553c-4c36-a1b0-1856db6662bf",
+        "type": "message",
+        "text": "youll always have a penny",
+        "user": "U15HZ01QX",
+        "ts": "1550765022.005500"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGD2S0QV9",
+                "created": 1550765052,
+                "timestamp": 1550765052,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-21, 10:04 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 79001,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGD2S0QV9\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGD2S0QV9\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGD2S0QV9-29ca202fad\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGD2S0QV9-29ca202fad\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGD2S0QV9-29ca202fad\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 300,
+                "thumb_360_h": 168,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGD2S0QV9-29ca202fad\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 300,
+                "original_h": 168,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FGD2S0QV9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGD2S0QV9-8444606ff7",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1550765054.005600"
+    },
+    {
+        "client_msg_id": "25AD9D9A-DC19-49F4-873F-132B3192666E",
+        "type": "message",
+        "text": "Unless you have 0 in yo account to begin with",
+        "user": "U15HSHSS2",
+        "ts": "1550766558.006200"
+    },
+    {
+        "client_msg_id": "139F61A5-3D03-4975-8AAF-FE6847A42BA8",
+        "type": "message",
+        "text": "Like joe",
+        "user": "U15HSHSS2",
+        "ts": "1550766560.006400"
+    }
+]

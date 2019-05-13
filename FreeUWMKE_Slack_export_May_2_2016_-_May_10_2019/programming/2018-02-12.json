@@ -1,0 +1,183 @@
+[
+    {
+        "type": "message",
+        "text": "I can't stand time",
+        "user": "U15HRTAHL",
+        "ts": "1518450954.000079"
+    },
+    {
+        "type": "message",
+        "text": "Why is that?",
+        "user": "U15J5H60P",
+        "ts": "1518451122.000231"
+    },
+    {
+        "type": "message",
+        "text": "the start and end are the same input",
+        "user": "U15HRTAHL",
+        "ts": "1518451176.000081"
+    },
+    {
+        "type": "message",
+        "text": "but somehow generate different times",
+        "user": "U15HRTAHL",
+        "ts": "1518451184.000157"
+    },
+    {
+        "type": "message",
+        "text": "I just don't fucking get it",
+        "user": "U15HRTAHL",
+        "ts": "1518451187.000645"
+    },
+    {
+        "type": "message",
+        "text": "System time bruh",
+        "user": "U15HY5TG8",
+        "ts": "1518453267.000840"
+    },
+    {
+        "type": "message",
+        "text": "I'll never understand time",
+        "user": "U15HRTAHL",
+        "ts": "1518453430.000585"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1518453480.000042"
+    },
+    {
+        "type": "message",
+        "text": "Theres the time that the user inputs and then the time that actually gets put into the database...with the system time...if you dont explicitly log the minutes and seconds on your insert",
+        "user": "U15HY5TG8",
+        "ts": "1518453546.000652"
+    },
+    {
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1518454791.000361"
+    },
+    {
+        "type": "message",
+        "text": "You think you're having trouble with time?",
+        "user": "U15J5H60P",
+        "ts": "1518454797.000655"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/moment\/moment\/issues\/2391>",
+        "user": "U15J5H60P",
+        "ts": "1518454799.000258",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Handling Non-Earth Times (e.g. Mars Time) · Issue #2391 · moment\/moment",
+                "title_link": "https:\/\/github.com\/moment\/moment\/issues\/2391",
+                "text": "I'm currently using moment for time handling in a project and one of our common tasks is converting times from UTC to Mars Solar Time and back again effortlessly. At first I had thought that defin...",
+                "fallback": "GitHub: Handling Non-Earth Times (e.g. Mars Time) · Issue #2391 · moment\/moment",
+                "from_url": "https:\/\/github.com\/moment\/moment\/issues\/2391",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/226503?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "do you know if its possible to get the datatype of a var in js?",
+        "user": "U15HRTAHL",
+        "ts": "1518457296.000413"
+    },
+    {
+        "type": "message",
+        "text": "I know you can do `if (var typeof string)`",
+        "user": "U15HRTAHL",
+        "ts": "1518457343.000156",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1518457349.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "but I don't want the comparison, I just want to log the type",
+        "user": "U15HRTAHL",
+        "ts": "1518457359.000453"
+    },
+    {
+        "type": "message",
+        "text": "ahhh i guess its just typeof",
+        "user": "U15HRTAHL",
+        "ts": "1518457512.000269"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> there's a lot of zywave people coming to penrod",
+        "user": "U15HRTAHL",
+        "ts": "1518463007.000514"
+    },
+    {
+        "type": "message",
+        "text": "you should tell these people this is the worst decision they're making",
+        "user": "U15HRTAHL",
+        "ts": "1518463019.000317"
+    },
+    {
+        "type": "message",
+        "text": "Do you know Kristina Kanter?",
+        "user": "U15HRTAHL",
+        "ts": "1518463037.000146"
+    },
+    {
+        "type": "message",
+        "text": "Yup, she was a BA here",
+        "user": "U15HSHSS2",
+        "ts": "1518464231.000352"
+    },
+    {
+        "type": "message",
+        "text": "This client sent me a flowchart for when a process should be ran",
+        "user": "U15HRTAHL",
+        "ts": "1518464583.000559"
+    },
+    {
+        "type": "message",
+        "text": "now they're saying it doesn't work when they update records.",
+        "user": "U15HRTAHL",
+        "ts": "1518464599.000488"
+    },
+    {
+        "type": "message",
+        "text": "Literally none of the records they updated went through the process flowchart",
+        "user": "U15HRTAHL",
+        "ts": "1518464616.000557"
+    },
+    {
+        "type": "message",
+        "text": "its annoying af",
+        "user": "U15HRTAHL",
+        "ts": "1518464623.000026"
+    },
+    {
+        "type": "message",
+        "text": "either check your own damn flowchart to see if it should process, OR send me the correct flow chart",
+        "user": "U15HRTAHL",
+        "ts": "1518464645.000002"
+    },
+    {
+        "type": "message",
+        "text": "jfc",
+        "user": "U15HRTAHL",
+        "ts": "1518464646.000544"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1518465050.000215"
+    }
+]

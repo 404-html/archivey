@@ -1,0 +1,799 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554477353.000100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=AAPL&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=AAPL|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=AAPL|Finviz> | <http:\/\/stocktwits.com\/symbol\/AAPL|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554477351,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "196.37",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.68 (+0.35%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "7,220,205",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "29,960,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.0\/5 (47 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "207.17 (+5.50%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31999,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=AAPL",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554477355.000200",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554477352,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "393.98",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-1.88 (-0.47%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "2,217,655",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,130,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (16 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "438.58 (+11.32%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33358,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554477366.000300",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "DES - WisdomTree U.S. SmallCap Dividend Fund",
+                "title": "DES - WisdomTree U.S. SmallCap Dividend Fund",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=DES&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=DES|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=DES|Finviz> | <http:\/\/stocktwits.com\/symbol\/DES|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554477354,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "28.35",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.23 (+0.82%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "47,073",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "270,330",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "16649",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "16649",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "16649",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "16649",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=DES&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29883,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=DES",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554477376.000400",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "WH - Wyndham Hotels &amp; Resorts, Inc.",
+                "title": "WH - Wyndham Hotels &amp; Resorts, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=WH&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=WH|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=WH|Finviz> | <http:\/\/stocktwits.com\/symbol\/WH|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554477314,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "51.67",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.75 (+1.47%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "106,381",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "1,090,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.0\/5 (1 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "62.00 (+19.99%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "22273",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "22273",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "22273",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "22273",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=WH&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 34042,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=WH",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fda2ea27-462d-4cdf-b514-a1780123c428",
+        "type": "message",
+        "text": "Bought at $59",
+        "user": "U15J5H60P",
+        "ts": "1554477383.000700"
+    },
+    {
+        "client_msg_id": "49c72975-c1fe-4edf-86b5-f896b8a091f1",
+        "type": "message",
+        "text": "nice",
+        "user": "U15J5H60P",
+        "ts": "1554477385.000900"
+    },
+    {
+        "client_msg_id": "5ca189d5-c478-4924-9b53-ffe41c1ef056",
+        "type": "message",
+        "text": "ttwo had the biggest loss yesterday",
+        "user": "U15HRTAHL",
+        "ts": "1554477412.001200"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15HRTAHL> fetched a quote with: `\/quote`",
+        "ts": "1554477420.001400",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "TTWO - Take-Two Interactive Software, Inc.",
+                "title": "TTWO - Take-Two Interactive Software, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=ttwo&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=ttwo|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=ttwo|Finviz> | <http:\/\/stocktwits.com\/symbol\/ttwo|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554477415,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "94.48",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.78 (+0.83%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "656,867",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "3,040,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.2\/5 (11 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "136.04 (+43.99%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "20847",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=ttwo&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 36070,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=ttwo",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554477421.001500",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "TTWO - Take-Two Interactive Software, Inc.",
+                "title": "TTWO - Take-Two Interactive Software, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=TTWO&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=TTWO|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=TTWO|Finviz> | <http:\/\/stocktwits.com\/symbol\/TTWO|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554477415,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "94.48",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.78 (+0.83%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "656,867",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "3,040,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.2\/5 (11 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "136.04 (+43.99%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "20847",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=TTWO&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 36070,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=TTWO",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9ba16dc9-7fb3-4fe3-92d2-365fb46f66a5",
+        "type": "message",
+        "text": "Did they tho",
+        "user": "U15J5H60P",
+        "ts": "1554477427.001700"
+    },
+    {
+        "client_msg_id": "dbd6062d-b4a4-4297-8906-3433a9a41afe",
+        "type": "message",
+        "text": "6%?",
+        "user": "U15J5H60P",
+        "ts": "1554477439.001900"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554499513.002100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=ba&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=ba|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=ba|Finviz> | <http:\/\/stocktwits.com\/symbol\/ba|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554499476,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "391.93",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-3.93 (-0.99%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Extended Hours",
+                        "value": "-9.10 (-2.32%)",
+                        "short": false
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "6,724,055",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,130,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (16 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "438.58 (+11.90%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=ba&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33441,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=ba",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "652406ae-3424-4e54-b8a7-ebd9ac3680bf",
+        "type": "message",
+        "text": "Boeing is bombing again",
+        "user": "U15J5H60P",
+        "ts": "1554499515.002200"
+    },
+    {
+        "client_msg_id": "f89d376e-ee06-4f57-8aca-50104d5b43ef",
+        "type": "message",
+        "text": "After hours they’re down to 382",
+        "user": "U15J5H60P",
+        "ts": "1554499526.002500"
+    },
+    {
+        "client_msg_id": "61169f5d-8976-4513-8dc3-bcb0eb076c2d",
+        "type": "message",
+        "text": "Time to buy",
+        "user": "U15J5H60P",
+        "ts": "1554499555.002700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHMU0D7R6",
+                "created": 1554521714,
+                "timestamp": 1554521714,
+                "name": "Screenshot_20190405-223453.png",
+                "title": "Screenshot_20190405-223453.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 199753,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHMU0D7R6\/screenshot_20190405-223453.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHMU0D7R6\/download\/screenshot_20190405-223453.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHMU0D7R6-b43222d5ff\/screenshot_20190405-223453_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2160,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHMU0D7R6\/screenshot_20190405-223453.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHMU0D7R6-9525fd26db",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1554521717.000200",
+        "client_msg_id": "7c45cf1a-4fb2-44d7-ad77-852fd56f9606"
+    },
+    {
+        "client_msg_id": "f8a35159-ae8b-40a6-a052-be5b5a91df56",
+        "type": "message",
+        "text": "<@U15HZ01QX> is getting a mega ban",
+        "user": "U15HRTAHL",
+        "ts": "1554521721.000600"
+    },
+    {
+        "client_msg_id": "F68EF8C5-C4A7-4902-90B4-AE270E11D8EE",
+        "type": "message",
+        "text": "Why",
+        "user": "U15J5H60P",
+        "ts": "1554529440.000800"
+    }
+]

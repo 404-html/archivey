@@ -1,0 +1,656 @@
+[
+    {
+        "client_msg_id": "A246099C-EAD2-475E-9405-FB832EFF9FB3",
+        "type": "message",
+        "text": "You guys know desus and Mero?",
+        "user": "U15HZ01QX",
+        "ts": "1521120307.000498"
+    },
+    {
+        "client_msg_id": "ADBD2BFC-5AEE-4181-86B5-19FEBEEA693D",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1521120467.000481"
+    },
+    {
+        "client_msg_id": "03F2A262-1ABC-4FBB-B842-47A71E0A350B",
+        "type": "message",
+        "text": "I guess it’s not that important but I was listening to their podcast the other morning. And then driving my manager later that day and the name of the episode was showing like this ",
+        "user": "U15HZ01QX",
+        "ts": "1521120542.000196"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9QHAP6FP",
+                "created": 1521120547,
+                "timestamp": 1521120547,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Slack for iOS Upload.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 9335420,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9QHAP6FP\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9QHAP6FP\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QHAP6FP-549f392fa3\/image_uploaded_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F9QHAP6FP\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9QHAP6FP-37d167fb96",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "upload_reply_to": "A994DCB3-0D19-4F40-8BD3-07F42976AEC0",
+        "ts": "1521120556.000387"
+    },
+    {
+        "client_msg_id": "22F34622-3597-42CB-9E4F-871B1531D1D5",
+        "type": "message",
+        "text": "I was like scrambling to get it off lol",
+        "user": "U15HZ01QX",
+        "ts": "1521120564.000628"
+    },
+    {
+        "client_msg_id": "28A991A5-1103-48F1-AC64-30AB751DE8DC",
+        "type": "message",
+        "text": "Niiiiice",
+        "user": "U15HY5TG8",
+        "ts": "1521120598.000039"
+    },
+    {
+        "client_msg_id": "3FE6EAA9-4861-4600-B407-098F1CA9FA41",
+        "type": "message",
+        "text": "Lololol",
+        "user": "U15J5H60P",
+        "ts": "1521120622.000522"
+    },
+    {
+        "client_msg_id": "B2E53CD5-7035-43BE-BFE6-233E759F0CDE",
+        "type": "message",
+        "text": "I think drakes songs would be at least 3x as good if it were just the instrumentals",
+        "user": "U15HY5TG8",
+        "ts": "1521121071.000309"
+    },
+    {
+        "client_msg_id": "49F02027-16C8-453B-BE03-E7B862FC3CEC",
+        "type": "message",
+        "text": "That’s a take ",
+        "user": "U15HZ01QX",
+        "ts": "1521121101.000542"
+    },
+    {
+        "client_msg_id": "EB9755E0-8D68-4713-A2F2-0E00F04D50CA",
+        "type": "message",
+        "text": "It sure is",
+        "user": "U15HY5TG8",
+        "ts": "1521121215.000064"
+    },
+    {
+        "client_msg_id": "098DE905-9A58-43AA-A850-7EC06E5CBE42",
+        "type": "message",
+        "text": "I’m running on like 3 hours of sleep",
+        "user": "U15HZ01QX",
+        "ts": "1521121228.000539"
+    },
+    {
+        "client_msg_id": "66C37F2C-8096-4185-BFEB-98EA98D26E07",
+        "type": "message",
+        "text": "So i was watching some shark tank clips and those guys get between 3-5 hrs of sleep per night. Youre on your way",
+        "user": "U15HY5TG8",
+        "ts": "1521121289.000684"
+    },
+    {
+        "client_msg_id": "12F3DED3-0E68-4443-B723-C603600E892E",
+        "type": "message",
+        "text": "Headass",
+        "user": "U15HZ01QX",
+        "ts": "1521122555.000249"
+    },
+    {
+        "client_msg_id": "F540994B-0CE8-4FC4-9B04-514B3C81ABEF",
+        "type": "message",
+        "text": "You guys wanna get into drone racing?",
+        "user": "U15J5H60P",
+        "ts": "1521122972.000394"
+    },
+    {
+        "client_msg_id": "94780580-DC0F-4B4C-9865-97175439BB42",
+        "type": "message",
+        "text": "Thatd be cool but i need to eliminate stress in life, not gain",
+        "user": "U15HY5TG8",
+        "ts": "1521123012.000046"
+    },
+    {
+        "client_msg_id": "92D48451-FEAD-434F-97BC-301AC337FD96",
+        "type": "message",
+        "text": "Why don’t they sell drones I can actually fly somewhere",
+        "user": "U15HZ01QX",
+        "ts": "1521123180.000215"
+    },
+    {
+        "client_msg_id": "E233CE95-4EF7-4A6C-ABBF-0FCD0A02C79C",
+        "type": "message",
+        "text": "I feel like FPV racing would be a stress eliminator",
+        "user": "U15J5H60P",
+        "ts": "1521123211.000653"
+    },
+    {
+        "client_msg_id": "D9C98D50-7707-452E-8837-5AEAFF6AE91A",
+        "type": "message",
+        "text": "Building drones",
+        "user": "U15J5H60P",
+        "ts": "1521123226.000613"
+    },
+    {
+        "client_msg_id": "53C73B95-2EE6-4F23-A0A8-468C2C46E04C",
+        "type": "message",
+        "text": "Flying them",
+        "user": "U15J5H60P",
+        "ts": "1521123229.000536"
+    },
+    {
+        "client_msg_id": "7E535369-F722-4363-B455-A2284F782E7C",
+        "type": "message",
+        "text": "Crashing them",
+        "user": "U15J5H60P",
+        "ts": "1521123233.000416"
+    },
+    {
+        "client_msg_id": "C2EA0CAF-4CB9-4795-9D3C-CE27FF1D3AA9",
+        "type": "message",
+        "text": "Ass",
+        "user": "U15HZ01QX",
+        "ts": "1521123235.000783"
+    },
+    {
+        "client_msg_id": "F5D65B09-BED7-467A-A32A-674F4B526737",
+        "type": "message",
+        "text": "Repairing them",
+        "user": "U15J5H60P",
+        "ts": "1521123238.000369"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C169SN0CS\/p1521122988000617>",
+        "user": "U15HRTAHL",
+        "ts": "1521123241.000308",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C169SN0CS\/p1521122988000617",
+                "fallback": "[March 15th, 2018 7:09 AM] andrew: That sounds gay",
+                "ts": "1521122988.000617",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C169SN0CS",
+                "channel_name": "video-gaming",
+                "is_msg_unfurl": true,
+                "text": "That sounds gay",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #video-gaming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "AA3E32F3-7E28-4E11-A387-96F1A46646F2",
+        "type": "message",
+        "text": "I like tinkering",
+        "user": "U15J5H60P",
+        "ts": "1521123246.000347"
+    },
+    {
+        "client_msg_id": "74E64C94-66A5-4070-A6AA-421104109453",
+        "type": "message",
+        "text": "To each their own I guess...",
+        "user": "U15J5H60P",
+        "ts": "1521123252.000281"
+    },
+    {
+        "client_msg_id": "A3D5868B-E506-4E5D-985C-2FBA6E6F1DF8",
+        "type": "message",
+        "text": "Buy a car",
+        "user": "U15HZ01QX",
+        "ts": "1521123256.000261"
+    },
+    {
+        "client_msg_id": "318C1002-B445-439A-A0AB-409B8C932E8F",
+        "type": "message",
+        "text": "Or a bike",
+        "user": "U15HZ01QX",
+        "ts": "1521123268.000733"
+    },
+    {
+        "client_msg_id": "96E099E2-6BC1-44E5-879A-CD348B62E29F",
+        "type": "message",
+        "text": "Okay.",
+        "user": "U15J5H60P",
+        "ts": "1521123273.000173"
+    },
+    {
+        "client_msg_id": "07CE554B-57AC-4AC4-BCEA-A6DD3BBBF5F2",
+        "type": "message",
+        "text": "Neither of those fly tho",
+        "user": "U15J5H60P",
+        "ts": "1521123281.000783"
+    },
+    {
+        "client_msg_id": "0F36CDCB-B89B-4318-BFFE-D18B0B87AF9A",
+        "type": "message",
+        "text": "I really miss school during this time of month. You could just sit in class and watch NCAA tourney games all day.",
+        "user": "U15HZ01QX",
+        "ts": "1521123330.000173"
+    },
+    {
+        "client_msg_id": "4CAA8112-D5E8-46B4-979F-10DDFEC9F96E",
+        "type": "message",
+        "text": "We have the games streaming in our office",
+        "user": "U15J5H60P",
+        "ts": "1521123351.000370"
+    },
+    {
+        "client_msg_id": "ECEC4F1F-30EB-400B-9042-242BA79F6128",
+        "type": "message",
+        "text": "Very nice",
+        "user": "U15HZ01QX",
+        "ts": "1521123365.000425"
+    },
+    {
+        "client_msg_id": "1D4AC3DC-7479-447F-873E-31C5898778FE",
+        "type": "message",
+        "text": "So I took ciera to Best Buy yesterday to get a new stove. Somehow I ended up with a stove and that fridge with the tv screen in it",
+        "user": "U15HZ01QX",
+        "ts": "1521123443.000471"
+    },
+    {
+        "client_msg_id": "21BDE692-00F4-41A6-8C2B-710D0FA1C103",
+        "type": "message",
+        "text": "Nice.",
+        "user": "U15J5H60P",
+        "ts": "1521123462.000517"
+    },
+    {
+        "client_msg_id": "41B75286-B4E6-484F-A3A4-3A48D3A13A5E",
+        "type": "message",
+        "text": "But I came to my senses and canceled it right away. And got this GE one. But then I get home and measure it and it’s not gonna fit lol",
+        "user": "U15HZ01QX",
+        "ts": "1521123486.000888"
+    },
+    {
+        "client_msg_id": "C17B9760-670C-444A-A0B7-A09AB3CBD1C6",
+        "type": "message",
+        "text": "Damn. That's crazy.",
+        "user": "U15J5H60P",
+        "ts": "1521123513.000270"
+    },
+    {
+        "client_msg_id": "1ADF98ED-BE1F-4D4E-BF4C-66212AD1787C",
+        "type": "message",
+        "text": "Measure twice, cut once",
+        "user": "U15J5H60P",
+        "ts": "1521123529.000177"
+    },
+    {
+        "client_msg_id": "1D66A526-06E3-4FC5-8035-066060C4F3D6",
+        "type": "message",
+        "text": "Show interest in my life damn you",
+        "user": "U15HZ01QX",
+        "ts": "1521123531.000454"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1521123531.000722"
+    },
+    {
+        "type": "message",
+        "text": "you should have gotten a wolf",
+        "user": "U15HRTAHL",
+        "ts": "1521123552.000810"
+    },
+    {
+        "client_msg_id": "BBFCC0FF-4204-4574-9568-63A55857D2FF",
+        "type": "message",
+        "text": "Were your appliances dying?",
+        "user": "U15J5H60P",
+        "ts": "1521123555.000467"
+    },
+    {
+        "client_msg_id": "9281CD7A-DB9D-4038-8079-25BF2515FD18",
+        "type": "message",
+        "text": "<@U15HRTAHL> headass",
+        "user": "U15HZ01QX",
+        "ts": "1521123566.000582"
+    },
+    {
+        "client_msg_id": "7AD282E7-F056-4AD5-8F55-338537F1AC49",
+        "type": "message",
+        "text": "<@U15J5H60P> stove is. Fridge is fine. Which is why I really don’t need one",
+        "user": "U15HZ01QX",
+        "ts": "1521123585.000733"
+    },
+    {
+        "client_msg_id": "EA12B193-EBAF-4526-B20F-D5847FAF0D66",
+        "type": "message",
+        "text": "<@U15HRTAHL> those things are more expensive than the actual restaurant ones aren’t they",
+        "user": "U15HZ01QX",
+        "ts": "1521123612.000728"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9QF1BS1Y",
+                "created": 1521124070,
+                "timestamp": 1521124070,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Slack for iOS Upload.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 362592,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9QF1BS1Y\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9QF1BS1Y\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QF1BS1Y-6b22d6aec5\/image_uploaded_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 576,
+                "original_h": 1024,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F9QF1BS1Y\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9QF1BS1Y-7a1b39fe9e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "upload_reply_to": "17EC0D2C-485F-47A8-89AA-2DDAB1B37F71",
+        "ts": "1521124070.000595"
+    },
+    {
+        "client_msg_id": "B0E7448B-ABCF-4CC3-9772-AA328CAFF81E",
+        "type": "message",
+        "text": "MPS!!!!!!",
+        "user": "U15HZ01QX",
+        "ts": "1521124095.000583"
+    },
+    {
+        "type": "message",
+        "text": "I think in the dorms I heard 1 in 4 people had an std",
+        "user": "U15HRTAHL",
+        "ts": "1521124173.000240"
+    },
+    {
+        "client_msg_id": "D00DC8B3-DD74-46F9-BDD6-15F7B1AA9DBC",
+        "type": "message",
+        "text": "I wonder if Kelly gave me an STD",
+        "user": "U15J5H60P",
+        "ts": "1521124194.000479"
+    },
+    {
+        "client_msg_id": "9C2AD638-52CF-48D7-A023-72C0449A6EF6",
+        "type": "message",
+        "text": "I'm clean nvm",
+        "user": "U15J5H60P",
+        "ts": "1521124215.000787"
+    },
+    {
+        "client_msg_id": "49CC31F1-DA2C-46CD-811B-C575C08F0015",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1521124237.000755"
+    },
+    {
+        "client_msg_id": "AA57990A-BC95-4195-A683-0895412ADEFB",
+        "type": "message",
+        "text": "That'd be cool if you could pass STDs off.",
+        "user": "U15J5H60P",
+        "ts": "1521124239.000229"
+    },
+    {
+        "client_msg_id": "8EB37B76-7E4A-48E2-8270-070F66AEEA0F",
+        "type": "message",
+        "text": "Not share them",
+        "user": "U15J5H60P",
+        "ts": "1521124244.000611"
+    },
+    {
+        "type": "message",
+        "text": "you can",
+        "user": "U15HRTAHL",
+        "ts": "1521124244.000811"
+    },
+    {
+        "client_msg_id": "EA5D53A9-6BF0-45EC-A4EA-5DDF80FDE065",
+        "type": "message",
+        "text": "Pass them to someone else and relieve your burden",
+        "user": "U15J5H60P",
+        "ts": "1521124259.000637"
+    },
+    {
+        "client_msg_id": "79755413-497E-4533-AFFE-AC6E8987087B",
+        "type": "message",
+        "text": "That'd be hilarious",
+        "user": "U15J5H60P",
+        "ts": "1521124270.000270"
+    },
+    {
+        "type": "message",
+        "text": "just don't acknowledge their existence like some people do with their children",
+        "user": "U15HRTAHL",
+        "ts": "1521124273.000045"
+    },
+    {
+        "client_msg_id": "00E34F20-BB15-488F-A8CD-51B0242B74FC",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15J5H60P",
+        "ts": "1521124290.000383"
+    },
+    {
+        "client_msg_id": "E5645AF6-6091-491D-AAC7-397B628EF022",
+        "type": "message",
+        "text": "So basically hpv ",
+        "user": "U15HZ01QX",
+        "ts": "1521124380.000528"
+    },
+    {
+        "client_msg_id": "6F5EE4F4-7054-4F8F-A0B1-ED5066869D49",
+        "type": "message",
+        "text": "Slapped some sanctions on Russia",
+        "user": "U15J5H60P",
+        "ts": "1521124963.000541"
+    },
+    {
+        "type": "message",
+        "text": "the US did?",
+        "user": "U15HRTAHL",
+        "ts": "1521125016.000248"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.kwch.com\/content\/news\/US-impose-sanctions-on-13-Russians-indicted-by-Mueller-476961913.html>",
+        "user": "U15HRTAHL",
+        "ts": "1521125077.000264",
+        "attachments": [
+            {
+                "title": "US impose sanctions on 13 Russians indicted by Mueller",
+                "title_link": "http:\/\/www.kwch.com\/content\/news\/US-impose-sanctions-on-13-Russians-indicted-by-Mueller-476961913.html",
+                "text": "The Trump administration is imposing sanctions on 19 Russians for alleged interference in the 2016 U.S. election, including 13 indicted by special counsel Robert Mueller.",
+                "fallback": "US impose sanctions on 13 Russians indicted by Mueller",
+                "image_url": "http:\/\/media.graytvinc.com\/images\/Russia+Sanctions+Congress.png",
+                "from_url": "http:\/\/www.kwch.com\/content\/news\/US-impose-sanctions-on-13-Russians-indicted-by-Mueller-476961913.html",
+                "image_width": 444,
+                "image_height": 250,
+                "image_bytes": 1007503,
+                "service_name": "kwch.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "excellent",
+        "user": "U15HRTAHL",
+        "ts": "1521125080.000122"
+    },
+    {
+        "type": "message",
+        "text": "They're on individuals not on the country itself",
+        "user": "U15HRTAHL",
+        "ts": "1521125152.000789"
+    },
+    {
+        "type": "message",
+        "text": "lame",
+        "user": "U15HRTAHL",
+        "ts": "1521125153.000527"
+    },
+    {
+        "client_msg_id": "8A9605D2-8878-4302-800E-828B2308CDEB",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1521125628.000594"
+    },
+    {
+        "type": "message",
+        "text": "lol this iona game is trash",
+        "user": "U15HRTAHL",
+        "ts": "1521147045.000448"
+    },
+    {
+        "type": "message",
+        "text": "guy lost his shoe",
+        "user": "U15HRTAHL",
+        "ts": "1521147061.000187"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9QTALJ58",
+                "created": 1521167387,
+                "timestamp": 1521167387,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 369275,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9QTALJ58\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9QTALJ58\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QTALJ58-d2bfa4aa2a\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QTALJ58-d2bfa4aa2a\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QTALJ58-d2bfa4aa2a\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 339,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QTALJ58-d2bfa4aa2a\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 452,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9QTALJ58-d2bfa4aa2a\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 679,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F9QTALJ58\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9QTALJ58-68dbcf8584",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1521167389.000094"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1521167402.000107"
+    },
+    {
+        "type": "message",
+        "text": "Robert Downey Jr. Bought that episode and is trying to spin it into a film",
+        "user": "U15J5H60P",
+        "ts": "1521167411.000198"
+    }
+]

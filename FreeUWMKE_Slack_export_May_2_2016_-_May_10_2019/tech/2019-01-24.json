@@ -1,0 +1,24 @@
+[
+    {
+        "client_msg_id": "87BCFEA4-0BE6-411A-9616-432DD9683102",
+        "type": "message",
+        "text": "<@U15J5H60P> ",
+        "user": "U15HY5TG8",
+        "ts": "1548337327.000300"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548337333.000500",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "client_msg_id": "CEA7988D-79C9-456C-A35A-54BDB87A4E9B",
+        "type": "message",
+        "text": "It is unreal that a windows computer cant stay charged overnight, in a backpack",
+        "user": "U15HY5TG8",
+        "ts": "1548337357.001300"
+    }
+]

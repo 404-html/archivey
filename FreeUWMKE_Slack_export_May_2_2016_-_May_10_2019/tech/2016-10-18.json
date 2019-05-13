@@ -1,0 +1,62 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/www.businessinsider.com\/twitter-trolls-caused-salesforce-to-walk-away-from-deal-2016-10>",
+        "user": "U15HZ01QX",
+        "ts": "1476830435.000002",
+        "attachments": [
+            {
+                "service_name": "Business Insider",
+                "title": "Twitter trolls were part of the reason why Salesforce walked away from a deal",
+                "title_link": "http:\/\/www.businessinsider.com\/twitter-trolls-caused-salesforce-to-walk-away-from-deal-2016-10",
+                "text": "Salesforce was very concerned about the abusive users on Twitter, according to CNBC's Jim Cramer.",
+                "fallback": "Business Insider: Twitter trolls were part of the reason why Salesforce walked away from a deal",
+                "image_url": "http:\/\/static1.businessinsider.com\/image\/580513ccc524021d008b4d6e-506-253\/twitter-trolls-were-part-of-the-reason-why-salesforce-walked-away-from-a-deal.jpg",
+                "from_url": "http:\/\/www.businessinsider.com\/twitter-trolls-caused-salesforce-to-walk-away-from-deal-2016-10",
+                "image_width": 499,
+                "image_height": 250,
+                "image_bytes": 13637,
+                "service_icon": "http:\/\/static3.businessinsider.com\/assets\/images\/us\/favicons\/apple-touch-icon-57x57.png?v=BI-US-2016-03-31",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HY5TG8",
+        "ts": "1476830462.000004"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15J5H60P",
+        "ts": "1476831454.000005"
+    },
+    {
+        "type": "message",
+        "text": "Dude - <https:\/\/www.youtube.com\/watch?v=z0styDnRWIo>",
+        "user": "U15J5H60P",
+        "ts": "1476840494.000002",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Alarm Clock - Samsung Galaxy Note 7",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=z0styDnRWIo",
+                "author_name": "TimmyTurnersGrandDad",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCIXM2qZRG9o4AFmEsKZUIvQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/z0styDnRWIo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Alarm Clock - Samsung Galaxy Note 7",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/z0styDnRWIo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=z0styDnRWIo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

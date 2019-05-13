@@ -1,0 +1,96 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/hackernoon.com\/a-wake-up-call-for-tech-managers-d0415775efd0>",
+        "user": "U15HRTAHL",
+        "ts": "1519763479.000282",
+        "attachments": [
+            {
+                "service_name": "Hacker Noon",
+                "title": "A Wake-Up Call For Tech Managers – Hacker Noon",
+                "title_link": "https:\/\/hackernoon.com\/a-wake-up-call-for-tech-managers-d0415775efd0",
+                "text": "The most popular article I’ve written is called Why your programmer just wants to code. To date it has received over 62,000 reads.",
+                "fallback": "Hacker Noon: A Wake-Up Call For Tech Managers – Hacker Noon",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*aboH2BJkZoe82iN312S1Sw.jpeg",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "5 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1519709032,
+                "from_url": "https:\/\/hackernoon.com\/a-wake-up-call-for-tech-managers-d0415775efd0",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 120748,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*76XiKOa05Yya6_CdYX8pVg.jpeg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "TLDR",
+        "user": "U15J5H60P",
+        "ts": "1519764023.000008"
+    },
+    {
+        "type": "message",
+        "text": "Dead",
+        "user": "U15HY5TG8",
+        "ts": "1519764064.000403"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> what do you use for database tools?",
+        "user": "U15HY5TG8",
+        "ts": "1519770811.000103"
+    },
+    {
+        "client_msg_id": "22bc7a8e-f64c-4d28-ab8c-eef806b9c730",
+        "type": "message",
+        "text": "Watcha mean ",
+        "user": "U15HRTAHL",
+        "ts": "1519770834.000609"
+    },
+    {
+        "type": "message",
+        "text": "Like what do you use to interact with your database?",
+        "user": "U15HY5TG8",
+        "ts": "1519771892.000480"
+    },
+    {
+        "type": "message",
+        "text": "For example, at home i have sequel pro",
+        "user": "U15HY5TG8",
+        "ts": "1519771944.000480"
+    },
+    {
+        "client_msg_id": "d1e0cdbf-73e2-4768-9b9a-c4c059f3abf4",
+        "type": "message",
+        "text": "Postgress client ",
+        "user": "U15HRTAHL",
+        "ts": "1519773172.000364"
+    },
+    {
+        "client_msg_id": "8ce2513a-1637-4793-a353-52e4aeca90b9",
+        "type": "message",
+        "text": "For work there's a built in query web editor. Otherwise the data team uses scribe ",
+        "user": "U15HRTAHL",
+        "ts": "1519773205.000224"
+    },
+    {
+        "client_msg_id": "b7f94519-bfd0-41db-b31c-7b438bd126a1",
+        "type": "message",
+        "text": "And sql server ",
+        "user": "U15HRTAHL",
+        "ts": "1519773233.000282"
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1519776105.000264"
+    }
+]

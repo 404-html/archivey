@@ -1,0 +1,29 @@
+[
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1505910486.000467",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/donald-trump-megyn-kelly-3o85xzrO5zA5JcvDck",
+                "image_url": "https:\/\/media1.giphy.com\/media\/3o85xzrO5zA5JcvDck\/giphy-downsized.gif",
+                "image_width": 540,
+                "image_height": 304,
+                "image_bytes": 642024,
+                "is_animated": true,
+                "title": "trump china",
+                "footer": "Posted using \/giphy | ",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/donald-trump-megyn-kelly-3o85xzrO5zA5JcvDck"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Aww shit",
+        "user": "U15HY5TG8",
+        "ts": "1505915361.000045"
+    }
+]

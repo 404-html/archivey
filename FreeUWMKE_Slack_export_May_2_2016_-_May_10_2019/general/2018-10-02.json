@@ -1,0 +1,527 @@
+[
+    {
+        "client_msg_id": "42bd73de-9c54-40cd-be56-d8dd50a96b40",
+        "type": "message",
+        "text": "<https:\/\/mobile.twitter.com\/petercrouch\/status\/985574423695642625?lang=en>",
+        "user": "U15HRTAHL",
+        "ts": "1538486462.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/petercrouch|@petercrouch>: @hawkeyeharrison That would be great thanks mate",
+                "ts": 1523814228,
+                "author_name": "Peter Crouch",
+                "author_link": "https:\/\/twitter.com\/petercrouch\/status\/985574423695642625",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1004707562430791680\/WUA0uuZU_normal.jpg",
+                "author_subname": "@petercrouch",
+                "text": "@hawkeyeharrison That would be great thanks mate",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/mobile.twitter.com\/petercrouch\/status\/985574423695642625?lang=en",
+                "id": 1,
+                "original_url": "https:\/\/mobile.twitter.com\/petercrouch\/status\/985574423695642625?lang=en",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d6a4cb8b-3aa4-469d-a69c-8848d9630917",
+        "type": "message",
+        "text": "Read that thread ",
+        "user": "U15HRTAHL",
+        "ts": "1538486469.000100"
+    },
+    {
+        "client_msg_id": "fd1bc633-84c3-4cca-8a98-b44d628c9d25",
+        "type": "message",
+        "text": "So funny ",
+        "user": "U15HRTAHL",
+        "ts": "1538486472.000100"
+    },
+    {
+        "client_msg_id": "43fd638f-7477-46ba-91da-25edf39088d3",
+        "type": "message",
+        "text": "<https:\/\/www.cnbc.com\/2018\/10\/02\/amazon-raises-minimum-wage-to-15-for-all-us-employees.html>",
+        "user": "U15HSHSS2",
+        "ts": "1538489527.000100",
+        "attachments": [
+            {
+                "service_name": "CNBC",
+                "title": "Amazon raises minimum wage to $15 for all US employees ",
+                "title_link": "https:\/\/www.cnbc.com\/2018\/10\/02\/amazon-raises-minimum-wage-to-15-for-all-us-employees.html",
+                "text": "Amazon and CEO Jeff Bezos have been facing criticism for its pay disparity.",
+                "fallback": "CNBC: Amazon raises minimum wage to $15 for all US employees ",
+                "image_url": "https:\/\/fm.cnbc.com\/applications\/cnbc.com\/resources\/img\/editorial\/2018\/09\/20\/105462253-1537460170067rts219t3.1910x1000.jpg",
+                "ts": 1538474447,
+                "from_url": "https:\/\/www.cnbc.com\/2018\/10\/02\/amazon-raises-minimum-wage-to-15-for-all-us-employees.html",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 137952,
+                "service_icon": "https:\/\/www.cnbc.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnbc.com\/2018\/10\/02\/amazon-raises-minimum-wage-to-15-for-all-us-employees.html"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "files": [
+            {
+                "id": "FD4P5TFGQ",
+                "created": 1538493181,
+                "timestamp": 1538493181,
+                "name": "image.png",
+                "title": "Pasted image at 2018-10-02, 10:13 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 97562,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD4P5TFGQ\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FD4P5TFGQ\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 139,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 186,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 279,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 310,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 372,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FD4P5TFGQ-93e4938f86\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 397,
+                "image_exif_rotation": 1,
+                "original_w": 1141,
+                "original_h": 442,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/FD4P5TFGQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FD4P5TFGQ-39a6a4acaa",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "ts": "1538493185.000100"
+    },
+    {
+        "client_msg_id": "02840cfe-4613-4ccb-b6b7-dca688bcf009",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1538494200.000200"
+    },
+    {
+        "client_msg_id": "bbbf62e8-1406-4247-9330-c4aa8fb7976e",
+        "type": "message",
+        "text": "<https:\/\/www.bloomberg.com\/news\/articles\/2018-10-01\/netflix-is-said-to-plan-choose-your-own-adventure-black-mirror>",
+        "user": "U15HSHSS2",
+        "ts": "1538495908.000100",
+        "attachments": [
+            {
+                "service_name": "Bloomberg.com",
+                "title": "Netflix Is Planning a Choose-Your-Own-Adventure ‘Black Mirror’",
+                "title_link": "https:\/\/www.bloomberg.com\/news\/articles\/2018-10-01\/netflix-is-said-to-plan-choose-your-own-adventure-black-mirror",
+                "text": "Netflix Inc. is about to let you decide how your favorite show will end.",
+                "fallback": "Bloomberg.com: Netflix Is Planning a Choose-Your-Own-Adventure ‘Black Mirror’",
+                "image_url": "https:\/\/assets.bwbx.io\/images\/users\/iqjWHBFdfxIU\/i6CztvJ.AkBg\/v1\/1200x800.jpg",
+                "from_url": "https:\/\/www.bloomberg.com\/news\/articles\/2018-10-01\/netflix-is-said-to-plan-choose-your-own-adventure-black-mirror",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 123288,
+                "service_icon": "https:\/\/assets.bwbx.io\/s3\/javelin\/public\/javelin\/images\/favicon-black-63fe5249d3.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bloomberg.com\/news\/articles\/2018-10-01\/netflix-is-said-to-plan-choose-your-own-adventure-black-mirror"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f996b49-9cd5-4d81-8f87-9ee582405d54",
+        "type": "message",
+        "text": "dope",
+        "user": "U15HSHSS2",
+        "ts": "1538495913.000100"
+    },
+    {
+        "client_msg_id": "9a8424c4-978c-431d-ab6e-bc542b10bf13",
+        "type": "message",
+        "text": "That'll be neat.",
+        "user": "U15J5H60P",
+        "ts": "1538495927.000100"
+    },
+    {
+        "client_msg_id": "dcd694e7-9329-4a82-9364-c7c1c77ae7b6",
+        "type": "message",
+        "text": "theoretically dope at least",
+        "user": "U15HSHSS2",
+        "ts": "1538495940.000100"
+    },
+    {
+        "client_msg_id": "fcde9a93-bfc7-47f1-b4e2-c123476a9511",
+        "type": "message",
+        "text": "How your favorite show will end?",
+        "user": "U15J5H60P",
+        "ts": "1538495940.000200"
+    },
+    {
+        "client_msg_id": "a404196e-01d9-43d5-b751-6ccf277f3d2c",
+        "type": "message",
+        "text": "Like they're done with black mirror?",
+        "user": "U15J5H60P",
+        "ts": "1538495947.000100"
+    },
+    {
+        "client_msg_id": "ac963cf6-8b82-406e-b0fe-9493461e7506",
+        "type": "message",
+        "text": "Dudddeee",
+        "user": "U15J5H60P",
+        "ts": "1538495949.000100"
+    },
+    {
+        "client_msg_id": "e831a57c-c9ee-441c-b6fd-9314edb97168",
+        "type": "message",
+        "text": "A black mirror VR experience would be awesome",
+        "user": "U15J5H60P",
+        "ts": "1538495956.000100"
+    },
+    {
+        "client_msg_id": "c7d10d2e-582d-47b3-8a12-e98fb764ae56",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1538495960.000200"
+    },
+    {
+        "client_msg_id": "18b25ac7-7909-4046-a882-6951a3ba7367",
+        "type": "message",
+        "text": "They should have done that with house of cards",
+        "user": "U15HRTAHL",
+        "ts": "1538496005.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "should frank kill zoey?",
+        "user": "U15HRTAHL",
+        "ts": "1538496013.000100"
+    },
+    {
+        "client_msg_id": "b488d966-efb0-40ef-ae7f-cdf45b5f9409",
+        "type": "message",
+        "text": "That would be a lot of filming",
+        "user": "U15J5H60P",
+        "ts": "1538496029.000100"
+    },
+    {
+        "client_msg_id": "dc870768-2c72-485d-ada1-9de59e9a4d16",
+        "type": "message",
+        "text": "They'd have to film a bunch of episodes for each episode",
+        "user": "U15J5H60P",
+        "ts": "1538496045.000100"
+    },
+    {
+        "client_msg_id": "ea251f69-5b60-45f0-bbb2-4d15ddf2c901",
+        "type": "message",
+        "text": "Should frank kill zoey?",
+        "user": "U15J5H60P",
+        "ts": "1538496052.000100"
+    },
+    {
+        "client_msg_id": "0dd6cb6f-50c7-4073-a2e7-98f8bac5623d",
+        "type": "message",
+        "text": "TOO BAD, SHE DED!",
+        "user": "U15J5H60P",
+        "ts": "1538496056.000100"
+    },
+    {
+        "client_msg_id": "c3985bee-5d0a-415d-a8bf-128e854e002d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1538496057.000200"
+    },
+    {
+        "client_msg_id": "ec9fb747-cc38-48a8-97b2-446db7a62023",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1538496059.000100"
+    },
+    {
+        "client_msg_id": "4d90679f-56c1-443d-b9a1-d00e2b748a07",
+        "type": "message",
+        "text": "I need help, guys.",
+        "user": "U15J5H60P",
+        "ts": "1538496064.000100"
+    },
+    {
+        "client_msg_id": "fef09ccc-7413-4cd3-b706-d598d60345a9",
+        "type": "message",
+        "text": "We have an EVF campaign coming up which is pretty much internal venture fund.",
+        "user": "U15J5H60P",
+        "ts": "1538496080.000100"
+    },
+    {
+        "client_msg_id": "becc3ac6-2c5b-4e3d-8046-7181cc1c9ad0",
+        "type": "message",
+        "text": "To make \"intrapreneurs\"",
+        "user": "U15J5H60P",
+        "ts": "1538496086.000100"
+    },
+    {
+        "client_msg_id": "2a76eefd-ca58-4c8b-a6cf-b233be498bb1",
+        "type": "message",
+        "text": "EVF?",
+        "user": "U15HRTAHL",
+        "ts": "1538496087.000100"
+    },
+    {
+        "client_msg_id": "300c0012-ba51-41b6-8947-4c2cb805006f",
+        "type": "message",
+        "text": "Enterprise Venture Fund",
+        "user": "U15J5H60P",
+        "ts": "1538496092.000100"
+    },
+    {
+        "client_msg_id": "dc626b8b-9609-4056-be6b-b89dc8237fd6",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1538496098.000100"
+    },
+    {
+        "client_msg_id": "b5a17e9d-a314-4322-b352-25f4e4ee7a6f",
+        "type": "message",
+        "text": "But anyone can come up with an idea",
+        "user": "U15J5H60P",
+        "ts": "1538496100.000200"
+    },
+    {
+        "client_msg_id": "75c64497-874c-4f02-8d01-6be6c73ee4c0",
+        "type": "message",
+        "text": "One of the themes is AR Experience",
+        "user": "U15J5H60P",
+        "ts": "1538496110.000100"
+    },
+    {
+        "client_msg_id": "ebd3bf8a-81d9-41eb-92ca-7cd7230391d3",
+        "type": "message",
+        "text": "Any ideas for an AR experience?",
+        "user": "U15J5H60P",
+        "ts": "1538496116.000100"
+    },
+    {
+        "client_msg_id": "d7ea998d-a617-41cb-81f9-5f35b0428a9b",
+        "type": "message",
+        "text": "sounds like an awesome way to come up with a good idea and give it to your employer for free",
+        "user": "U15HRTAHL",
+        "ts": "1538496118.000100"
+    },
+    {
+        "client_msg_id": "25d58373-abd1-4e57-ba7d-84bf9223ce97",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1538496123.000100"
+    },
+    {
+        "client_msg_id": "dfb73aee-8512-4be0-9c15-d0e40cee5ceb",
+        "type": "message",
+        "text": "Yeah, but they'll hire you to do it",
+        "user": "U15J5H60P",
+        "ts": "1538496130.000200"
+    },
+    {
+        "client_msg_id": "a279ef4e-9409-4105-9fb7-12c6044d7882",
+        "type": "message",
+        "text": "“we’ll hire you onto your own project, but since it’s a “startup” we can only pay you 50k”",
+        "user": "U15HRTAHL",
+        "ts": "1538496159.000100"
+    },
+    {
+        "client_msg_id": "86a8820d-f5c9-4a1e-b33a-080bb6bd2913",
+        "type": "message",
+        "text": "If you get your EVF through the process and get approved, they give you a bunch of money to make a team to work on that idea",
+        "user": "U15J5H60P",
+        "ts": "1538496162.000100"
+    },
+    {
+        "client_msg_id": "dcd90382-52eb-4aee-8a9b-214d20a61ca2",
+        "type": "message",
+        "text": "porn",
+        "user": "U15HRTAHL",
+        "ts": "1538496168.000100"
+    },
+    {
+        "client_msg_id": "c63bb4cc-7cac-4418-a014-ea0bb397c699",
+        "type": "message",
+        "text": "Nah, you get your same salary",
+        "user": "U15J5H60P",
+        "ts": "1538496168.000200"
+    },
+    {
+        "client_msg_id": "5b2e8b73-a799-4354-b5d4-49b25bd73ab8",
+        "type": "message",
+        "text": "porn is the answer",
+        "user": "U15HRTAHL",
+        "ts": "1538496171.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1538496173.000000"
+        }
+    },
+    {
+        "client_msg_id": "3a5c9ea7-1a3c-496c-a5b5-f62f690b6781",
+        "type": "message",
+        "text": "for vr",
+        "user": "U15HRTAHL",
+        "ts": "1538496174.000100"
+    },
+    {
+        "client_msg_id": "4d3e999f-b98a-4b9a-b55a-d0f1e2346422",
+        "type": "message",
+        "text": "AR",
+        "user": "U15J5H60P",
+        "ts": "1538496184.000100"
+    },
+    {
+        "client_msg_id": "c17c26f0-6bb7-46ee-b71e-0c4d566c847c",
+        "type": "message",
+        "text": "We need to do AR",
+        "user": "U15J5H60P",
+        "ts": "1538496187.000100"
+    },
+    {
+        "client_msg_id": "987c7cf1-f32b-4f25-99e3-013b5b967a4c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1538496188.000100"
+    },
+    {
+        "client_msg_id": "d1bc4cf7-2550-4055-92a6-3046cc566a17",
+        "type": "message",
+        "text": "even better",
+        "user": "U15HRTAHL",
+        "ts": "1538496190.000100"
+    },
+    {
+        "client_msg_id": "cff78b02-deb9-4ed7-a819-0e1de586294d",
+        "type": "message",
+        "text": "ever wanted to direct your own porno?",
+        "user": "U15HRTAHL",
+        "ts": "1538496198.000100"
+    },
+    {
+        "client_msg_id": "28e476fc-02fc-4eea-a629-6f3d8eefc006",
+        "type": "message",
+        "text": "I'm serious though, I want to come up with an idea so I can get some BRAVO points lol",
+        "user": "U15J5H60P",
+        "ts": "1538496201.000100"
+    },
+    {
+        "client_msg_id": "1008ee43-1a67-4e6b-a842-668569f50ae0",
+        "type": "message",
+        "text": "If anyone has ideas, I'd appreciate it. I'd love to work on AR for a few months.",
+        "user": "U15J5H60P",
+        "ts": "1538496229.000100"
+    },
+    {
+        "client_msg_id": "efeb38ed-9285-413f-ba6e-b7bdc54eba12",
+        "type": "message",
+        "text": "they probably already have this",
+        "user": "U15HRTAHL",
+        "ts": "1538496257.000100"
+    },
+    {
+        "client_msg_id": "d8a59b32-1dc5-458f-a864-feee93ced998",
+        "type": "message",
+        "text": "but AR painting guide?",
+        "user": "U15HRTAHL",
+        "ts": "1538496262.000100"
+    },
+    {
+        "client_msg_id": "e760901d-f3f5-4eba-b574-7b1d46f20937",
+        "type": "message",
+        "text": "I was originally thinking of an AR experience with Hololens where you'd walk through your house and it'd give suggestions on what you can improve to increase the value of your home",
+        "user": "U15J5H60P",
+        "ts": "1538496270.000100"
+    },
+    {
+        "client_msg_id": "db26667f-77cb-4ed2-95d1-046a4aecc736",
+        "type": "message",
+        "text": "see what your walls would look like before you buy paint",
+        "user": "U15HRTAHL",
+        "ts": "1538496277.000100"
+    },
+    {
+        "client_msg_id": "cef25ddf-7d62-4886-b9e9-4d2e7e2482da",
+        "type": "message",
+        "text": "Interesting.",
+        "user": "U15J5H60P",
+        "ts": "1538496286.000100"
+    },
+    {
+        "client_msg_id": "0868f8a7-1346-4898-ad69-688320235bf3",
+        "type": "message",
+        "text": "Website that looks like Visual Studio, but when you look at it with AR glasses, it locks on to the screen and replaces it with your own browser in the glasses. Bluetooth keyboard and mouse attached to the glasses. So you can browse whatever you want, and it looks the exact same to you through the glasses, but to others just looks like your on Visual Studio lol",
+        "user": "U15HSHSS2",
+        "ts": "1538496582.000100"
+    },
+    {
+        "client_msg_id": "479e72e4-2697-46d9-ab5a-73d27cc96359",
+        "type": "message",
+        "text": "point your phone at a building and use an AI platform to identify if it is a company, then pull up their stock ticker or website",
+        "user": "U15HRTAHL",
+        "ts": "1538496626.000100"
+    },
+    {
+        "client_msg_id": "1ed8049d-dd04-4d36-86e6-59bf2c35af4e",
+        "type": "message",
+        "text": "<https:\/\/www.information-age.com\/12-hot-augmented-reality-ideas-for-your-business-123471817\/>",
+        "user": "U15HRTAHL",
+        "ts": "1538496809.000100",
+        "attachments": [
+            {
+                "service_name": "Information Age",
+                "title": "12 hot augmented reality ideas for your business",
+                "title_link": "https:\/\/www.information-age.com\/12-hot-augmented-reality-ideas-for-your-business-123471817\/",
+                "text": "Augmented reality is one of the most exciting technologies that made its way into the mass market in the recent years.",
+                "fallback": "Information Age: 12 hot augmented reality ideas for your business",
+                "thumb_url": "https:\/\/s26913.pcdn.co\/wp-content\/uploads\/2018\/04\/AdobeStock_136701855-1024x683.jpeg",
+                "ts": 1525344153,
+                "from_url": "https:\/\/www.information-age.com\/12-hot-augmented-reality-ideas-for-your-business-123471817\/",
+                "thumb_width": 1024,
+                "thumb_height": 683,
+                "service_icon": "https:\/\/s26913.pcdn.co\/wp-content\/themes\/wp-ia-theme\/image\/favicon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.information-age.com\/12-hot-augmented-reality-ideas-for-your-business-123471817\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eed4207e-1f66-40bc-b8b9-7c31f5704f72",
+        "type": "message",
+        "text": "These are the possible themes for the EVF:\n- digital health\n- augmented experiences\n- biztech\n- digital transformation\n- AI",
+        "user": "U15J5H60P",
+        "ts": "1538507582.000100"
+    }
+]

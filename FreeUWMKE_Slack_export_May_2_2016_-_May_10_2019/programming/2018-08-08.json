@@ -1,0 +1,237 @@
+[
+    {
+        "client_msg_id": "869a53ca-a9bc-4e1b-90d1-0ad0c61011dc",
+        "type": "message",
+        "text": "What's your favorite new technology?",
+        "user": "U15J5H60P",
+        "ts": "1533739063.000563"
+    },
+    {
+        "client_msg_id": "51b414b1-e4d9-40a0-8133-47f8f60d3904",
+        "type": "message",
+        "text": "I'm starting an IP sprint",
+        "user": "U15J5H60P",
+        "ts": "1533739073.000165"
+    },
+    {
+        "client_msg_id": "25f2db2d-5210-4a6f-a48d-993ebd3f38dd",
+        "type": "message",
+        "text": "Need something to do",
+        "user": "U15J5H60P",
+        "ts": "1533739076.000186"
+    },
+    {
+        "client_msg_id": "f7f49816-d01c-483e-9dfd-2cbc9f4cae5a",
+        "type": "message",
+        "text": "This is a funny video about Agile - <https:\/\/www.youtube.com\/watch?v=HsB0UZR7XvE>",
+        "user": "U15J5H60P",
+        "ts": "1533739109.000426",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Wrong way to do Agile: Team Structure",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=HsB0UZR7XvE",
+                "author_name": "Atlassian",
+                "author_link": "https:\/\/www.youtube.com\/user\/GoAtlassian",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/HsB0UZR7XvE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Wrong way to do Agile: Team Structure",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/HsB0UZR7XvE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=HsB0UZR7XvE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=HsB0UZR7XvE"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0ad81471-24d4-4953-96d8-0e5074c1784e",
+        "type": "message",
+        "text": "I'm about to have potentially 4 weeks for an IP sprint lol",
+        "user": "U15HSHSS2",
+        "ts": "1533739172.000435"
+    },
+    {
+        "client_msg_id": "d78c5037-22f8-4c7d-b679-b382c7be6834",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1533739180.000319"
+    },
+    {
+        "client_msg_id": "9f0aec39-2fa8-4bc6-87fd-7687544fcd4c",
+        "type": "message",
+        "text": "You should use Electron to build out a desktop front end for the stock-sim-api",
+        "user": "U15J5H60P",
+        "ts": "1533739197.000214"
+    },
+    {
+        "client_msg_id": "9ec34a14-9576-4884-93da-11885705858c",
+        "type": "message",
+        "text": "we have 2 weeks left in our current sprint, and after that we get 2 weeks for innovation. but we have pretty much finished all the dev work for this sprint, so we are stating innovation early",
+        "user": "U15HSHSS2",
+        "ts": "1533739223.000111"
+    },
+    {
+        "client_msg_id": "46c9d303-0f22-47c8-87dd-d22f0c7dc496",
+        "type": "message",
+        "text": "that would be dope, is everything still in that gitlab repo?",
+        "user": "U15HSHSS2",
+        "ts": "1533739246.000025"
+    },
+    {
+        "client_msg_id": "5a8e2469-1655-4510-bda6-aeeee310eecf",
+        "type": "message",
+        "text": "Yeah. Super simple.",
+        "user": "U15J5H60P",
+        "ts": "1533739264.000230"
+    },
+    {
+        "client_msg_id": "36ca8389-c857-4eaf-a7e7-6dd63d4d0f59",
+        "type": "message",
+        "text": "Or you could learn how to use Swagger UI by integrating it into that api.",
+        "user": "U15J5H60P",
+        "ts": "1533739281.000051",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1533739287.000000"
+        }
+    },
+    {
+        "client_msg_id": "9e5b51c1-35a8-4a35-93b7-302829bdf85f",
+        "type": "message",
+        "text": "Swagger UI is a pretty useful tools for documenting APIs",
+        "user": "U15J5H60P",
+        "ts": "1533739300.000208"
+    },
+    {
+        "client_msg_id": "948ca62a-16de-4c89-95bf-120dcaa28acf",
+        "type": "message",
+        "text": "I'm sure Zywave would think you're pretty cool for learning it",
+        "user": "U15J5H60P",
+        "ts": "1533739308.000149"
+    },
+    {
+        "client_msg_id": "83dfa487-b419-4ed7-9c89-7e5169f7f3bb",
+        "type": "message",
+        "text": "I might dabble with it in the next week or two",
+        "user": "U15HSHSS2",
+        "ts": "1533739317.000584"
+    },
+    {
+        "client_msg_id": "092a2694-e17a-4df8-8cc3-b1ef053cbf97",
+        "type": "message",
+        "text": "Zywave uses Swagger for our new services\/apis",
+        "user": "U15HSHSS2",
+        "ts": "1533739341.000282"
+    },
+    {
+        "client_msg_id": "0AD86E7D-F78D-42D6-B3F4-E28482245BCF",
+        "type": "message",
+        "text": "Id like to know how the qr code stuff works. Everything revolves around that these days. Bird, crypto wallets, scanners at checkouts, etc",
+        "user": "U15HY5TG8",
+        "ts": "1533739438.000404"
+    },
+    {
+        "client_msg_id": "84335003-8931-4fa2-965f-5fe40d6874f4",
+        "type": "message",
+        "text": "Using Swagger for new services is easy. However, I haven't figured out how to integrate it into existing services.",
+        "user": "U15J5H60P",
+        "ts": "1533739489.000230"
+    },
+    {
+        "client_msg_id": "5f844c77-7c74-42a0-b154-fd2de7db03cd",
+        "type": "message",
+        "text": "Oooh, another thing you could do is study up for a AWS certification.",
+        "user": "U15J5H60P",
+        "ts": "1533739502.000407"
+    },
+    {
+        "client_msg_id": "55bf0c77-0dde-4c48-8e44-36b56f87ba85",
+        "type": "message",
+        "text": "Or learn how to build some serverless Lambda functions",
+        "user": "U15J5H60P",
+        "ts": "1533739510.000654"
+    },
+    {
+        "client_msg_id": "DC94AB35-2883-46C8-8861-3D3315D9B43B",
+        "type": "message",
+        "text": "Do you guys do api first dev?",
+        "user": "U15HY5TG8",
+        "ts": "1533739540.000097"
+    },
+    {
+        "client_msg_id": "50228b34-131f-4aff-bf6f-efbe781d1279",
+        "type": "message",
+        "text": "An idea you could build out is a Kopp's flavor of the day Alexa skill using a Lambda function and a dynamodb",
+        "user": "U15J5H60P",
+        "ts": "1533739573.000189"
+    },
+    {
+        "client_msg_id": "ba10f582-2578-4547-8fad-5c5513dff74e",
+        "type": "message",
+        "text": "You just said a whole lot of stuff I know nothing about lol",
+        "user": "U15HSHSS2",
+        "ts": "1533739575.000702"
+    },
+    {
+        "client_msg_id": "E06D8BA3-62AC-4141-BEA9-E5EA43CB40EA",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1533739591.000039"
+    },
+    {
+        "client_msg_id": "bb6522ae-acd5-4609-bdc4-110e08e17981",
+        "type": "message",
+        "text": "That's good! That means you have a lot of opportunity for your IP sprint!",
+        "user": "U15J5H60P",
+        "ts": "1533739593.000268"
+    },
+    {
+        "client_msg_id": "8dda429b-1a54-49dc-a10c-953458f677b1",
+        "type": "message",
+        "text": "Let me know if you need help with anything.",
+        "user": "U15J5H60P",
+        "ts": "1533739599.000036"
+    },
+    {
+        "client_msg_id": "786e8a28-64fb-4f0e-afdf-93a6f77af4aa",
+        "type": "message",
+        "text": "I did some serverless when I programmed a dash button ",
+        "user": "U15HRTAHL",
+        "ts": "1533745334.000580"
+    },
+    {
+        "client_msg_id": "be86904c-c252-47f2-ab17-4901c9663d5e",
+        "type": "message",
+        "text": "Aws documentation is ass though",
+        "user": "U15HRTAHL",
+        "ts": "1533745348.000222"
+    },
+    {
+        "client_msg_id": "EF81C189-1D9B-4C64-A352-9F839471DD4E",
+        "type": "message",
+        "text": "I think it’s pretty good",
+        "user": "U15J5H60P",
+        "ts": "1533745371.000201"
+    },
+    {
+        "client_msg_id": "81C29284-5431-48B6-9F2C-5479BDA05C10",
+        "type": "message",
+        "text": "Lots of tuts too",
+        "user": "U15J5H60P",
+        "ts": "1533745376.000626"
+    },
+    {
+        "client_msg_id": "ea0bd2a9-09fb-4b10-bb13-0f0b8dcaf97f",
+        "type": "message",
+        "text": "Good have changed it. I just remember finding 3 different sets of instructions for the same thing ",
+        "user": "U15HRTAHL",
+        "ts": "1533745403.000073"
+    }
+]

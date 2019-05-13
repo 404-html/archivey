@@ -1,0 +1,410 @@
+[
+    {
+        "client_msg_id": "3321ABCB-706D-43AE-B29E-E28DAB2901FC",
+        "type": "message",
+        "text": "Omg",
+        "user": "U15J5H60P",
+        "ts": "1533220319.000531"
+    },
+    {
+        "client_msg_id": "6664E07B-4327-434F-BB9E-68B5529D5A1A",
+        "type": "message",
+        "text": "Apple won't stop",
+        "user": "U15J5H60P",
+        "ts": "1533220327.000581"
+    },
+    {
+        "client_msg_id": "01706eaf-3363-4935-bfaf-b9c7b27c76db",
+        "type": "message",
+        "text": "you bette sell after 1 trillion",
+        "user": "U15HRTAHL",
+        "ts": "1533220338.000623"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1533220345.000469"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              204.51                3.01                1.494 \n       Avg.                 ---                 ---               1.494% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1533220345.000481",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33091,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6acfbf40-ca04-48d0-aac1-26fdbed13967",
+        "type": "message",
+        "text": "people are just hopping on the band wagon",
+        "user": "U15HRTAHL",
+        "ts": "1533220350.000284"
+    },
+    {
+        "client_msg_id": "a9eb0cfc-c2b9-4efe-881a-08baed9ed7ac",
+        "type": "message",
+        "text": "once it goes over 1 trillion idk if it’ll persist",
+        "user": "U15HRTAHL",
+        "ts": "1533220361.000634"
+    },
+    {
+        "client_msg_id": "37256600-4556-4B07-9A94-83AC3D816A3A",
+        "type": "message",
+        "text": "I'm not paying 40% tax on $5000",
+        "user": "U15J5H60P",
+        "ts": "1533220373.000140"
+    },
+    {
+        "client_msg_id": "31c073ae-d69d-42b7-a2d3-3c3cba7daafd",
+        "type": "message",
+        "text": "Is that how much you gained?",
+        "user": "U15HRTAHL",
+        "ts": "1533220383.000033"
+    },
+    {
+        "client_msg_id": "25FE8DE8-2AB4-4606-ABA6-1DC1F972F214",
+        "type": "message",
+        "text": "So far",
+        "user": "U15J5H60P",
+        "ts": "1533220391.000269"
+    },
+    {
+        "client_msg_id": "4a9bb6db-7927-45d4-8879-c021d6f30061",
+        "type": "message",
+        "text": "So how much do you have total in apple stock?",
+        "user": "U15HRTAHL",
+        "ts": "1533220401.000230"
+    },
+    {
+        "client_msg_id": "B220A01A-A324-4C1C-B139-AE94FC74B01F",
+        "type": "message",
+        "text": "Cash or stocks",
+        "user": "U15J5H60P",
+        "ts": "1533220421.000163"
+    },
+    {
+        "client_msg_id": "c815630c-c160-47a5-aecf-be290f1447a0",
+        "type": "message",
+        "text": "What is apple cash?",
+        "user": "U15HRTAHL",
+        "ts": "1533220428.000571"
+    },
+    {
+        "client_msg_id": "366409CC-2915-4082-98B3-7B226B823E1E",
+        "type": "message",
+        "text": "Like how much are they worth?",
+        "user": "U15J5H60P",
+        "ts": "1533220429.000464"
+    },
+    {
+        "client_msg_id": "D1F20094-5115-4AD6-86D7-754C445C0911",
+        "type": "message",
+        "text": "Or number of stock",
+        "user": "U15J5H60P",
+        "ts": "1533220440.000418"
+    },
+    {
+        "client_msg_id": "1d1b1cc5-6b24-4ea4-955f-509196dd06bb",
+        "type": "message",
+        "text": "dollar amount in apple stocks",
+        "user": "U15HRTAHL",
+        "ts": "1533220453.000237"
+    },
+    {
+        "client_msg_id": "2e72e3c5-10af-4b9d-a679-a0b78a92ce5f",
+        "type": "message",
+        "text": "I gotta pull the trigger on some stocks",
+        "user": "U15HSHSS2",
+        "ts": "1533221101.000271"
+    },
+    {
+        "client_msg_id": "dd3fc652-4fd0-43d5-8cca-a11474750ae7",
+        "type": "message",
+        "text": "$50,000",
+        "user": "U15J5H60P",
+        "ts": "1533221138.000519"
+    },
+    {
+        "client_msg_id": "93f25de0-c704-4b5c-9c94-bbecbaf3bd4f",
+        "type": "message",
+        "text": "Now it's up to $55710",
+        "user": "U15J5H60P",
+        "ts": "1533221159.000621"
+    },
+    {
+        "client_msg_id": "4e5a9084-0d6c-4170-bf0d-1f3bcfac81ba",
+        "type": "message",
+        "text": "jk",
+        "user": "U15J5H60P",
+        "ts": "1533221173.000276"
+    },
+    {
+        "client_msg_id": "0b43c774-2763-43ef-82dd-83f7d7b34d59",
+        "type": "message",
+        "text": "I only made $1500",
+        "user": "U15J5H60P",
+        "ts": "1533221177.000142",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1533221196.000000"
+        }
+    },
+    {
+        "client_msg_id": "196fd5a3-5b03-4408-a1cd-35e0ebde2326",
+        "type": "message",
+        "text": "On $10,000 investment",
+        "user": "U15J5H60P",
+        "ts": "1533221200.000351"
+    },
+    {
+        "client_msg_id": "78886DA2-1BBA-4232-8B69-2177B2F359E0",
+        "type": "message",
+        "text": "Still not paying 40% on that tho",
+        "user": "U15J5H60P",
+        "ts": "1533221446.000101"
+    },
+    {
+        "client_msg_id": "980b7591-8f97-4a61-a34b-9255eda8939c",
+        "type": "message",
+        "text": "you’ll have to eventually",
+        "user": "U15HRTAHL",
+        "ts": "1533221457.000520"
+    },
+    {
+        "client_msg_id": "c29c402d-bd27-4087-9e1d-283ce2f99291",
+        "type": "message",
+        "text": "it’s only $600",
+        "user": "U15HRTAHL",
+        "ts": "1533221478.000510"
+    },
+    {
+        "client_msg_id": "2f09a303-6f42-46c2-9fd3-dd16f5ac9e41",
+        "type": "message",
+        "text": "and that comes from the money you made",
+        "user": "U15HRTAHL",
+        "ts": "1533221483.000552"
+    },
+    {
+        "client_msg_id": "4ab5d032-fcc1-448d-b67d-07e3d7d4abc5",
+        "type": "message",
+        "text": "just set aside $600",
+        "user": "U15HRTAHL",
+        "ts": "1533221487.000472"
+    },
+    {
+        "client_msg_id": "593e6151-6c54-417c-bffd-ef1461cdd5dd",
+        "type": "message",
+        "text": "why 40?",
+        "user": "U15HSHSS2",
+        "ts": "1533221490.000097"
+    },
+    {
+        "client_msg_id": "16263417-33ab-427b-b2f7-cd4148eff96a",
+        "type": "message",
+        "text": "after you cash out",
+        "user": "U15HRTAHL",
+        "ts": "1533221492.000234"
+    },
+    {
+        "client_msg_id": "83474357-769a-47ff-ac6f-5989d2d8cae0",
+        "type": "message",
+        "text": "Capital Gains Tax",
+        "user": "U15HRTAHL",
+        "ts": "1533221496.000191"
+    },
+    {
+        "client_msg_id": "cb6077ee-edf2-4081-aa83-2f9ba0b83847",
+        "type": "message",
+        "text": "is that just standard on all money from stocks?",
+        "user": "U15HSHSS2",
+        "ts": "1533221512.000327"
+    },
+    {
+        "client_msg_id": "2F8A9F44-77B3-483A-83D9-723C8BB5A72F",
+        "type": "message",
+        "text": "I'll hold it for a year and pay 20%",
+        "user": "U15J5H60P",
+        "ts": "1533221514.000551"
+    },
+    {
+        "client_msg_id": "f53840d6-be2c-4b80-b70c-814d46096476",
+        "type": "message",
+        "text": "The longer you have your money in the lower the tax is?",
+        "user": "U15HSHSS2",
+        "ts": "1533221616.000345"
+    },
+    {
+        "client_msg_id": "1dba68fa-cf7b-4e45-b5a0-84ace66227af",
+        "type": "message",
+        "text": "No idea",
+        "user": "U15HRTAHL",
+        "ts": "1533221646.000590"
+    },
+    {
+        "client_msg_id": "93a8a018-3828-4193-befe-34ecd162d121",
+        "type": "message",
+        "text": "&gt; Taxes on capital gains are computed by subtracting the cost of the asset at time of purchase from the amount at which it was sold, and that difference is typically levied at between 15 and 20 percent, depending on your income",
+        "user": "U15HRTAHL",
+        "ts": "1533221648.000474"
+    },
+    {
+        "client_msg_id": "420f9e2d-0e69-4cc9-8366-17a1f40ba3e2",
+        "type": "message",
+        "text": "hmm...",
+        "user": "U15HSHSS2",
+        "ts": "1533221668.000687"
+    },
+    {
+        "client_msg_id": "af2e8891-e855-499c-b241-db9d9b09ec1a",
+        "type": "message",
+        "text": "Long term v Short term capital gains",
+        "user": "U15J5H60P",
+        "ts": "1533221674.000677"
+    },
+    {
+        "client_msg_id": "fa323228-1dfd-4615-9271-b81a85668f9e",
+        "type": "message",
+        "text": "&gt; If an asset is held for one year or less, then sold for a gain, the short-term capital gain will be taxed at ordinary income tax rates. If an asset is held for more than one year, then sold for a gain, the long-term capital gain will be taxed at a maximum rate of 20%.Jan 1, 2018",
+        "user": "U15J5H60P",
+        "ts": "1533221689.000084",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1533221696.000000"
+        }
+    },
+    {
+        "client_msg_id": "78b97ac3-f16e-44b9-9d06-67851d8712a1",
+        "type": "message",
+        "text": "God damn",
+        "user": "U15J5H60P",
+        "ts": "1533221720.000129"
+    },
+    {
+        "client_msg_id": "902e2cf3-9b96-4115-ad8f-6412cda85922",
+        "type": "message",
+        "text": "My promotion jumped me a tax bracket",
+        "user": "U15J5H60P",
+        "ts": "1533221727.000331"
+    },
+    {
+        "client_msg_id": "d5cfe3ea-d7f5-4788-ad67-b1b21fc36f56",
+        "type": "message",
+        "text": "The government made promotions to fuck the people out of more money",
+        "user": "U15J5H60P",
+        "ts": "1533221744.000582"
+    },
+    {
+        "client_msg_id": "4fd64c7f-b53e-4ae4-9b3f-34f2d0afe261",
+        "type": "message",
+        "text": "Oh that's just for capital gains",
+        "user": "U15J5H60P",
+        "ts": "1533221811.000048"
+    },
+    {
+        "client_msg_id": "f446cb37-50f5-448d-9e4d-b11fb2c784d9",
+        "type": "message",
+        "text": "Hella ass",
+        "user": "U15J5H60P",
+        "ts": "1533221831.000222"
+    },
+    {
+        "client_msg_id": "2220af56-3387-476a-aa92-412b2cfd109d",
+        "type": "message",
+        "text": "The money is going to a good cause like building the most bad ass military in the world",
+        "user": "U15HRTAHL",
+        "ts": "1533222105.000075"
+    },
+    {
+        "client_msg_id": "29dbf2e8-e0db-48c0-b5e3-b7db5935a7eb",
+        "type": "message",
+        "text": "Space Force",
+        "user": "U15J5H60P",
+        "ts": "1533222697.000015"
+    },
+    {
+        "client_msg_id": "66ddb944-2d32-44bd-bb17-b3e086a80775",
+        "type": "message",
+        "text": "The money is going to a good cause like building the most bad ass military in the ~world~ solar system",
+        "user": "U15HRTAHL",
+        "ts": "1533222758.000063"
+    },
+    {
+        "client_msg_id": "f174527f-74d4-4f01-9da5-5eaa6fcc22c8",
+        "type": "message",
+        "text": "<@U15HZ01QX> have you heard of covered calls?",
+        "user": "U15HRTAHL",
+        "ts": "1533223831.000595"
+    },
+    {
+        "client_msg_id": "8451B4EC-C6D6-4605-BE8A-AC9710A643D6",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HZ01QX",
+        "ts": "1533224038.000168"
+    },
+    {
+        "client_msg_id": "968dfd03-86a9-4dd9-910e-911fc7078139",
+        "type": "message",
+        "text": "Apple passed 1 trillion",
+        "user": "U15HRTAHL",
+        "ts": "1533225244.000355"
+    },
+    {
+        "client_msg_id": "1ac2ab5c-19ea-41ee-8369-b7a51a39f7b6",
+        "type": "message",
+        "text": "sell",
+        "user": "U15HRTAHL",
+        "ts": "1533225246.000079"
+    },
+    {
+        "client_msg_id": "891f0846-3ed0-4d62-a0a3-7c5066bb2343",
+        "type": "message",
+        "text": "sell",
+        "user": "U15HRTAHL",
+        "ts": "1533225247.000597"
+    },
+    {
+        "client_msg_id": "546ed234-fe7b-406f-a56b-e0c6b6aaa620",
+        "type": "message",
+        "text": "sell",
+        "user": "U15HRTAHL",
+        "ts": "1533225248.000004"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1533225277.000185"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              206.25                4.75                2.357 \n       Avg.                 ---                 ---               2.357% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1533225277.000191",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33194,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    }
+]

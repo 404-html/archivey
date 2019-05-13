@@ -1,0 +1,253 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1546529202.010200"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              143.77              -14.15               -8.960 \n       Avg.                 ---                 ---              -8.960% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1546529202.010300",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32267,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ea65e45-2381-4790-b8a8-3fa5a5150caa",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1546529203.010500"
+    },
+    {
+        "client_msg_id": "ccdd80b7-0243-4268-a5bb-91786caf1d7d",
+        "type": "message",
+        "text": "Kill me",
+        "user": "U15J5H60P",
+        "ts": "1546529209.011000"
+    },
+    {
+        "client_msg_id": "a0a515e1-9327-4a19-92b5-d21c0601322a",
+        "type": "message",
+        "text": "man, idk much a bout stocks. but that does not look good",
+        "user": "U15HSHSS2",
+        "ts": "1546529228.011400"
+    },
+    {
+        "client_msg_id": "1dbd34f0-248e-4eb6-bad8-6524d8ec5035",
+        "type": "message",
+        "text": "Out of curiosity",
+        "user": "U15J5H60P",
+        "ts": "1546529523.011600"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus MSFT",
+        "user": "U15J5H60P",
+        "ts": "1546529531.011800"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       MSFT              98.205              -2.915               -2.883 \n       Avg.                 ---                 ---              -2.883% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MSFT&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1546529531.011900",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MSFT&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33437,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MSFT&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MSFT&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ecf1a4c7-19b7-43b0-a6eb-b9c46feeab99",
+        "type": "message",
+        "text": "ffs",
+        "user": "U15J5H60P",
+        "ts": "1546529534.012100"
+    },
+    {
+        "client_msg_id": "60b59ab7-c6f6-411c-8aad-abc71f72a3ad",
+        "type": "message",
+        "text": "Here comes the recession",
+        "user": "U15J5H60P",
+        "ts": "1546529538.012400"
+    },
+    {
+        "client_msg_id": "1671923c-5f4b-4e9e-ae6c-99fc17e59cef",
+        "type": "message",
+        "text": "Man",
+        "user": "U15J5H60P",
+        "ts": "1546529546.012600"
+    },
+    {
+        "client_msg_id": "d71160e6-35fb-4f19-b65f-0de5bf10f38d",
+        "type": "message",
+        "text": "BUYBUYBUY",
+        "user": "U15HSHSS2",
+        "ts": "1546529549.012900"
+    },
+    {
+        "client_msg_id": "493519f0-0679-49a1-8e1d-83c53dba79c4",
+        "type": "message",
+        "text": "Trade wars are so easy to win",
+        "user": "U15J5H60P",
+        "ts": "1546529549.013000"
+    },
+    {
+        "client_msg_id": "2326bbc7-4a1d-4cd5-89ce-7380ad38c236",
+        "type": "message",
+        "text": "So much winning",
+        "user": "U15J5H60P",
+        "ts": "1546529557.013300"
+    },
+    {
+        "client_msg_id": "0bb712e7-0a3b-4460-9bad-8ad77130578c",
+        "type": "message",
+        "text": "I really do not like DT",
+        "user": "U15J5H60P",
+        "ts": "1546529570.013700"
+    },
+    {
+        "client_msg_id": "c32457b0-3e70-42c1-8bec-17152f814d15",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/t4kalni0b4821.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1546552416.013900",
+        "attachments": [
+            {
+                "fallback": "500x562px image",
+                "image_url": "https:\/\/i.redd.it\/t4kalni0b4821.jpg",
+                "image_width": 500,
+                "image_height": 562,
+                "image_bytes": 39443,
+                "from_url": "https:\/\/i.redd.it\/t4kalni0b4821.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/t4kalni0b4821.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70c51240-4711-4138-8749-92afbeea7391",
+        "type": "message",
+        "text": "Pretty much",
+        "user": "U15J5H60P",
+        "ts": "1546552430.014200"
+    },
+    {
+        "client_msg_id": "a7b9bceb-3d5b-44fa-ae5f-03a5c5ebd893",
+        "type": "message",
+        "text": "Idiots",
+        "user": "U15J5H60P",
+        "ts": "1546552434.014500"
+    },
+    {
+        "client_msg_id": "6eb0dce8-26dc-482b-9a5f-2b8383c5abb7",
+        "type": "message",
+        "text": "Just very bad",
+        "user": "U15J5H60P",
+        "ts": "1546552451.014900"
+    },
+    {
+        "client_msg_id": "700cf80e-6db8-4d52-aeb9-7b3e7a5a4f5c",
+        "type": "message",
+        "text": "It's not even that great of a phone",
+        "user": "U15J5H60P",
+        "ts": "1546552486.015900"
+    },
+    {
+        "client_msg_id": "f1fc51ba-069a-4ed6-810d-a22442093e55",
+        "type": "message",
+        "text": "Modern AI isn't in it",
+        "user": "U15J5H60P",
+        "ts": "1546552500.016100"
+    },
+    {
+        "client_msg_id": "46865e41-0e4c-4cc4-9c8e-6f65e94cb139",
+        "type": "message",
+        "text": "That ruins it",
+        "user": "U15J5H60P",
+        "ts": "1546552509.016500"
+    },
+    {
+        "client_msg_id": "f130cae9-8bf3-4c41-9eeb-49513aaa695f",
+        "type": "message",
+        "text": "They need to get Siri working",
+        "user": "U15J5H60P",
+        "ts": "1546552515.016700"
+    },
+    {
+        "client_msg_id": "1885e6da-c470-4469-b8f2-d04281f31912",
+        "type": "message",
+        "text": "They need to get better photo services going",
+        "user": "U15J5H60P",
+        "ts": "1546552526.017100"
+    },
+    {
+        "client_msg_id": "0dc2451c-1233-4355-8bb9-6d0d1892de3b",
+        "type": "message",
+        "text": "They need to do better with Apple Music",
+        "user": "U15J5H60P",
+        "ts": "1546552537.017400"
+    },
+    {
+        "client_msg_id": "232e42d7-ba3b-4fe5-85ee-ffb91462e815",
+        "type": "message",
+        "text": "They can't just release a new Apple Music refresh every year",
+        "user": "U15J5H60P",
+        "ts": "1546552548.017800"
+    },
+    {
+        "client_msg_id": "1f9d11c0-9ecd-4a4a-9c21-c9547e694abc",
+        "type": "message",
+        "text": "It needs to happen more often",
+        "user": "U15J5H60P",
+        "ts": "1546552553.018000"
+    },
+    {
+        "client_msg_id": "9cb098cc-11c7-4fa1-81e1-9f262b1454bb",
+        "type": "message",
+        "text": "No more skimping out on memory",
+        "user": "U15J5H60P",
+        "ts": "1546552562.018200"
+    },
+    {
+        "client_msg_id": "55389b6c-d84f-4b2c-b1ea-54065928701e",
+        "type": "message",
+        "text": "Unacceptable behavior leads to shitty returns",
+        "user": "U15J5H60P",
+        "ts": "1546552582.018600"
+    },
+    {
+        "client_msg_id": "e3ed2903-27b0-4f99-b28a-80683337df2a",
+        "type": "message",
+        "text": "They deservce it",
+        "user": "U15J5H60P",
+        "ts": "1546552584.018800"
+    },
+    {
+        "client_msg_id": "b475c2e7-0eda-442a-8569-0fbc9c5f3d74",
+        "type": "message",
+        "text": "And so does my portfolio",
+        "user": "U15J5H60P",
+        "ts": "1546552592.019100"
+    }
+]

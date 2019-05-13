@@ -1,0 +1,16 @@
+[
+    {
+        "client_msg_id": "12d88cfb-caf1-4d39-8d6d-3230c9b12694",
+        "type": "message",
+        "text": "multiselect is essentially checkbox functionality in a dropdown. Select2 is a library that allows you to type into the top of the dropdown so that you call out to the server on keypress, therefore eliminating the need to load your whole dropdown at once",
+        "user": "U15HY5TG8",
+        "ts": "1537019757.000100"
+    },
+    {
+        "client_msg_id": "8af6015c-947e-40ba-b8f7-c88ccb9d3940",
+        "type": "message",
+        "text": "which is why I need it. I needed to load 16,000 items into a dropdown, and it locked down my page for a minute",
+        "user": "U15HY5TG8",
+        "ts": "1537019785.000100"
+    }
+]

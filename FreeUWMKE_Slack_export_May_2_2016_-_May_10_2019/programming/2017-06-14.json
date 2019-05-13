@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.wsj.com\/articles\/google-bets-on-modular-homes-to-fill-housing-demand-1497448838>",
+        "user": "U15HRTAHL",
+        "ts": "1497453090.822263",
+        "attachments": [
+            {
+                "service_name": "WSJ",
+                "title": "Google Will Buy Modular Homes to Address Housing Crunch",
+                "title_link": "https:\/\/www.wsj.com\/articles\/google-bets-on-modular-homes-to-fill-housing-demand-1497448838",
+                "text": "Google owner Alphabet Inc. is finalizing an order to buy 300 modular apartment units from a startup for a building likely to serve as short-term housing for employees.",
+                "fallback": "WSJ: Google Will Buy Modular Homes to Address Housing Crunch",
+                "image_url": "https:\/\/si.wsj.net\/public\/resources\/images\/BN-TV843_GOOGLE_TOP_20170613152020.jpg",
+                "from_url": "https:\/\/www.wsj.com\/articles\/google-bets-on-modular-homes-to-fill-housing-demand-1497448838",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 57254,
+                "service_icon": "http:\/\/www.wsj.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    }
+]

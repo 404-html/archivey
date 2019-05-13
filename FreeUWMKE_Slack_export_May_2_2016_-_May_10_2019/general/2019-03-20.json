@@ -1,0 +1,685 @@
+[
+    {
+        "type": "message",
+        "text": "Alright that’s enough",
+        "files": [
+            {
+                "id": "FH4MW9J59",
+                "created": 1553092962,
+                "timestamp": 1553092962,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 56026,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH4MW9J59\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH4MW9J59\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 154,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 205,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 308,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 342,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 410,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH4MW9J59-45ae162a7f\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 438,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 531,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FH4MW9J59\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FH4MW9J59-7a53b5255f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1553092967.000100"
+    },
+    {
+        "client_msg_id": "4D41254F-C6C7-40D2-AFDF-C9ED4892A037",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1553093241.000500"
+    },
+    {
+        "client_msg_id": "88d6e2d8-578b-4d9a-bc0a-cc5c527dba9b",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1553054261002500>",
+        "user": "U15HRTAHL",
+        "ts": "1553093259.000700",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1553054261002500",
+                "fallback": "[March 19th, 2019 8:57 PM] joeythomaschaske: How is he surviving?",
+                "ts": "1553054261.002500",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "How is he surviving?",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1553054261002500",
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E63807B9-DACD-487F-9472-F91A26343A29",
+        "type": "message",
+        "text": "Huhh",
+        "user": "U15HY5TG8",
+        "ts": "1553093310.001000"
+    },
+    {
+        "client_msg_id": "C5BF23A8-7E41-46B6-9594-16A3FF94A0EB",
+        "type": "message",
+        "text": "I love these guys but this can’t be good for your mental health",
+        "user": "U15HZ01QX",
+        "ts": "1553093338.001600"
+    },
+    {
+        "client_msg_id": "884df054-ccab-425e-8af0-7ab61b723e34",
+        "type": "message",
+        "text": "<@U15HSHSS2> how do those guys afford to live?",
+        "user": "U15HRTAHL",
+        "ts": "1553093393.001900"
+    },
+    {
+        "client_msg_id": "53F12232-6324-4986-9850-9260CA5A68E9",
+        "type": "message",
+        "text": "Shoulda been there when james and i were talking to his gf. I think she was saying shes supporting her and nick quite a bit",
+        "user": "U15HY5TG8",
+        "ts": "1553093477.003500"
+    },
+    {
+        "client_msg_id": "8C6B2891-3ABB-4055-BE0F-7C3CB4C8A804",
+        "type": "message",
+        "text": "She shooting porn?",
+        "user": "U15J5H60P",
+        "ts": "1553093506.003800"
+    },
+    {
+        "client_msg_id": "9610F60B-87B3-4215-934B-8C3583F69A43",
+        "type": "message",
+        "text": "Sorry, didnt ask",
+        "user": "U15HY5TG8",
+        "ts": "1553093519.004400"
+    },
+    {
+        "client_msg_id": "D39CF8A3-C7D9-4C71-B0E0-B4B02F14FC00",
+        "type": "message",
+        "text": "I remember her being a lot more attractive than she is",
+        "user": "U15J5H60P",
+        "ts": "1553093519.004500"
+    },
+    {
+        "client_msg_id": "D24196CE-73DD-4E13-9AEE-40F6309299C3",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1553093524.004800"
+    },
+    {
+        "client_msg_id": "E5DCE862-C3E7-4042-B880-63D392A1800B",
+        "type": "message",
+        "text": "Shes still pretty attractive",
+        "user": "U15HY5TG8",
+        "ts": "1553093533.005100"
+    },
+    {
+        "client_msg_id": "EFA414A9-18F0-434F-9222-C3002A7D5EDA",
+        "type": "message",
+        "text": "I disagree",
+        "user": "U15J5H60P",
+        "ts": "1553093540.005300"
+    },
+    {
+        "client_msg_id": "83886AEC-B10F-4317-84E0-D9CC58A06E2F",
+        "type": "message",
+        "text": "Thats fine",
+        "user": "U15HY5TG8",
+        "ts": "1553093551.005500"
+    },
+    {
+        "client_msg_id": "2cc580fa-eca6-4f6a-b19d-c97af0ac6afd",
+        "type": "message",
+        "text": "she aight",
+        "user": "U15HRTAHL",
+        "ts": "1553093621.005700"
+    },
+    {
+        "client_msg_id": "4A809F66-DA27-4F2B-81EB-E125200AC1EF",
+        "type": "message",
+        "text": "Nick still has more money than her so I don’t think she’s supporting him",
+        "user": "U15HZ01QX",
+        "ts": "1553093684.006500"
+    },
+    {
+        "client_msg_id": "6e487824-65c2-4523-8d97-90031ae62f9a",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1553093393001900>",
+        "user": "U15HSHSS2",
+        "ts": "1553094684.006700",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1553093393001900",
+                "fallback": "[March 20th, 2019 7:49 AM] joeythomaschaske: <@U15HSHSS2> how do those guys afford to live?",
+                "ts": "1553093393.001900",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<@U15HSHSS2> how do those guys afford to live?",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1553093393001900",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "300fd235-8df0-4ab8-af51-5e1159d4954b",
+        "type": "message",
+        "text": "no idea",
+        "user": "U15HSHSS2",
+        "ts": "1553094687.007000"
+    },
+    {
+        "client_msg_id": "e8fcdcb3-ca0d-4616-93d2-45a92257f643",
+        "type": "message",
+        "text": "I just hear him talk about social media marketing all the time",
+        "user": "U15HSHSS2",
+        "ts": "1553095020.007600"
+    },
+    {
+        "client_msg_id": "fc44a1a9-1404-43d3-977c-10d1142899dc",
+        "type": "message",
+        "text": "maybe that's where the big bucks are at",
+        "user": "U15HSHSS2",
+        "ts": "1553095028.007900"
+    },
+    {
+        "client_msg_id": "1730a362-cffa-4e9e-af75-9b8ff2fe7b0b",
+        "type": "message",
+        "text": "it makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1553095093.008200"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/gsuniverse\/status\/1108341931187294208?s=12>\n\nThey’re can only be like 2 more seasons of this. But it looks good",
+        "user": "U15HZ01QX",
+        "ts": "1553095097.008400",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/GSUniverse|@GSUniverse>: The first trailer for #StrangerThings3 is here! <https:\/\/pbs.twimg.com\/media\/D2GfFoXWkAAgYdi.jpg>",
+                "ts": 1553084283,
+                "author_name": "GameSpot Universe",
+                "author_link": "https:\/\/twitter.com\/GSUniverse\/status\/1108341931187294208",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/974708544028123137\/nRs3CK3C_normal.jpg",
+                "author_subname": "@GSUniverse",
+                "text": "The first trailer for #StrangerThings3 is here!",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/gsuniverse\/status\/1108341931187294208?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/D2GfFoXWkAAgYdi.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/D2GfFoXWkAAgYdi.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1108341318210732033\/vid\/1280x720\/90NNCq_eMmiR3I2t.mp4?tag=11\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/gsuniverse\/status\/1108341931187294208?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ],
+        "thread_ts": "1553095097.008400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1553096297.015100",
+        "reply_users": [
+            "U15J5H60P"
+        ],
+        "replies": [
+            {
+                "user": "U15J5H60P",
+                "ts": "1553096297.015100"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e281ae62-ee2b-472c-a55f-28cb1cdb8a6a",
+        "type": "message",
+        "text": "it doesn’t make sense for companies to hire a dedicated twitter manager",
+        "user": "U15HRTAHL",
+        "ts": "1553095107.008800"
+    },
+    {
+        "client_msg_id": "45280d54-3a1c-45c4-97e9-d39f7ebcfdbd",
+        "type": "message",
+        "text": "off shore that shit to another company that aggregates that for different companies",
+        "user": "U15HRTAHL",
+        "ts": "1553095129.009300"
+    },
+    {
+        "client_msg_id": "82394bb0-cbd3-4966-8b1b-4cd46c9bb653",
+        "type": "message",
+        "text": "I keep seeing UVK Media on their stuff and they don't even have a website it seems",
+        "user": "U15HSHSS2",
+        "ts": "1553095354.010400"
+    },
+    {
+        "client_msg_id": "43E3E7A0-450A-42FF-9170-1ECBD7E026F4",
+        "type": "message",
+        "text": "Sounds like some free money Tom",
+        "user": "U15HZ01QX",
+        "ts": "1553095367.010700"
+    },
+    {
+        "client_msg_id": "9ebea9eb-da96-4f51-a230-3facb6016953",
+        "type": "message",
+        "text": "I'm sure they'll pay me in a shout out. \"Listen we don't really have any money, but you can come on our podcast and market yourself if you want.\"",
+        "user": "U15HSHSS2",
+        "ts": "1553095412.011500"
+    },
+    {
+        "client_msg_id": "216fd846-3a75-4e72-a5bd-91c7b860e96e",
+        "type": "message",
+        "text": "they do have a website",
+        "user": "U15HRTAHL",
+        "ts": "1553095426.011700"
+    },
+    {
+        "client_msg_id": "69b50fca-fbe8-4a82-987c-6ffc10eb7e87",
+        "type": "message",
+        "text": "I was just checking it out",
+        "user": "U15HRTAHL",
+        "ts": "1553095431.012000"
+    },
+    {
+        "client_msg_id": "d7d1a650-7e27-4b59-805f-b77bbfd792f1",
+        "type": "message",
+        "text": "link meee",
+        "user": "U15HSHSS2",
+        "ts": "1553095433.012100"
+    },
+    {
+        "client_msg_id": "00f05057-a2df-4768-b030-dd2f723969d0",
+        "type": "message",
+        "text": "<http:\/\/uvkmedia.com|uvkmedia.com>",
+        "user": "U15HSHSS2",
+        "ts": "1553095447.012300"
+    },
+    {
+        "client_msg_id": "6314a703-f782-4645-9901-3241ceb01739",
+        "type": "message",
+        "text": "didn't work for me",
+        "user": "U15HSHSS2",
+        "ts": "1553095451.012500"
+    },
+    {
+        "client_msg_id": "4a01ddd5-7461-454e-9e5c-d3a07c69bea4",
+        "type": "message",
+        "text": "<https:\/\/www.uvkmedia.com\/home>",
+        "user": "U15HRTAHL",
+        "ts": "1553095458.012800",
+        "attachments": [
+            {
+                "title": "UVK Media Marketing",
+                "title_link": "https:\/\/www.uvkmedia.com\/home",
+                "text": "A Milwaukee based social media company focused on proven analytical based ROI digital marketing.",
+                "fallback": "UVK Media Marketing",
+                "from_url": "https:\/\/www.uvkmedia.com\/home",
+                "service_icon": "https:\/\/www.uvkmedia.com\/favicon.ico",
+                "service_name": "uvkmedia.com",
+                "id": 1,
+                "original_url": "https:\/\/www.uvkmedia.com\/home"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c032175c-0675-4151-ab7b-c80a4bf30f19",
+        "type": "message",
+        "text": "huh... guess you need \"www.\" these days",
+        "user": "U15HSHSS2",
+        "ts": "1553095481.013200"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/complex\/status\/1108354910360350720?s=12>\n\nAlso awesome",
+        "user": "U15HZ01QX",
+        "ts": "1553095556.013300",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Complex|@Complex>: The trailer for #OnceUponATimeInHollywood is finally here. <https:\/\/pbs.twimg.com\/media\/D2EvlddU8AAiDp9.jpg>",
+                "ts": 1553087377,
+                "author_name": "Complex",
+                "author_link": "https:\/\/twitter.com\/Complex\/status\/1108354910360350720",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/839858358920310785\/JVgCbSHx_normal.jpg",
+                "author_subname": "@Complex",
+                "text": "The trailer for #OnceUponATimeInHollywood is finally here.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/complex\/status\/1108354910360350720?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/D2EvlddU8AAiDp9.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/D2EvlddU8AAiDp9.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1108218267221393408\/vid\/1280x720\/Ep89oA47HMi4AU9t.mp4?tag=11\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/complex\/status\/1108354910360350720?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "685521E7-23B0-4190-836B-E2D9A99AB851",
+        "type": "message",
+        "text": "Honestly website not too bad",
+        "user": "U15HZ01QX",
+        "ts": "1553095615.013800"
+    },
+    {
+        "client_msg_id": "c0524cc0-aefa-4761-bd62-484c67f8fce3",
+        "type": "message",
+        "text": "I just feel like I've never seen an ad on facebook or twitter and instagram and actually clicked it or was interested in it",
+        "user": "U15HSHSS2",
+        "ts": "1553095992.014500"
+    },
+    {
+        "client_msg_id": "ffd11fe2-5029-4d74-aec5-d6406832dd57",
+        "type": "message",
+        "text": "<https:\/\/fox6now.com\/2019\/03\/18\/inaugural-bloody-mary-festival-wisconsin-coming-to-fiserv-forum-june-22-23\/>",
+        "user": "U15HSHSS2",
+        "ts": "1553096128.014700",
+        "attachments": [
+            {
+                "service_name": "FOX6Now.com",
+                "service_url": "http:\/\/fox6now.com",
+                "title": "Inaugural Bloody Mary Festival-Wisconsin coming to Fiserv Forum June 22-23",
+                "title_link": "https:\/\/fox6now.com\/2019\/03\/18\/inaugural-bloody-mary-festival-wisconsin-coming-to-fiserv-forum-june-22-23\/",
+                "author_name": "Katie DeLong",
+                "author_link": "https:\/\/fox6now.com\/author\/katiedelong\/",
+                "thumb_url": "https:\/\/localtvwiti.files.wordpress.com\/2019\/03\/gettyimages-184297433.jpg?quality=85&strip=all&fit=200%2C150",
+                "thumb_width": 199,
+                "thumb_height": 112,
+                "text": "MILWAUKEE &mdash; The inaugural&nbsp;Bloody Mary Festival-Wisconsin is coming to Milwaukee&rsquo;s Fiserv Forum June 22-23.\nAccording to a news release from organizers, the festival will mark&nbsp;the first time that the national celebration will take place in Wisconsin.\nMilwaukee is one of 10 cities nationwide to host The Bloody Mary Festival in 2019.\n&ldquo;Milwaukee restaurants offer amazing Bloody Marys, and it&rsquo;s about time that we celebrate them in an event of this magnitude,&rdquo; said Michael Belot, senior VP of Bucks ventures and development in the release. &ldquo;The plaza in front of Fiserv Forum is a prime destination for outdoor entertainment, and we are delighted that the festival organizers selected the plaza to be the site for the first-ever Bloody Mary Festival in Wisconsin.&rdquo;\nThe release said the festival is the largest event of its kind &mdash; bringing together the most innovative and crafty Bloody Mary mixes, curated by its team of Bloody Mary aficionados and made by local bars and restaurants.\nGuests will have the opportunity to taste them all before voting for their favorite via the &ldquo;People&rsquo;s Choice Award.&rdquo; A panel of industry judges will also select the &ldquo;Best Bloody Mary in Wisconsin.&rdquo;\n&ldquo;Wisconsin has become famous for creativity with and love for the Bloody Mary,&rdquo; said The Bloody Mary Festival organizer Evan Weiss in the release. &ldquo;There is no better place to celebrate this cocktail than the plaza in front of Fiserv Forum on a beautiful summer weekend in Milwaukee.&rdquo;\nThe festival goes beyond cocktails by including many local businesses sampling and selling food, beverages, crafts and more\nTickets to the festival, which was recently nominated as one of the top 20 food festivals in the country by USA Today, will include all participating Bloody Marys, tastes of local food and beverage products, live music, temporary tattoos, photo ops and more.\nEach day of The Bloody Mary Festival-Wisconsin has two sessions from 10:30 a.m.-1:30 p.m. and 3-6 p.m.\nThe general admission cost is $45.50 and $55.50 for an early entrance VIP ticket.\nCLICK HERE to learn much more.&nbsp;\n\t\t\n\t\t\t43.044920\n\t\t\t-87.916374",
+                "fallback": "FOX6Now.com Link: Inaugural Bloody Mary Festival-Wisconsin coming to Fiserv Forum June&nbsp;22-23",
+                "from_url": "https:\/\/fox6now.com\/2019\/03\/18\/inaugural-bloody-mary-festival-wisconsin-coming-to-fiserv-forum-june-22-23\/",
+                "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/6c174f1af90d3de8afc154eb8bcd6c4a?s=114",
+                "id": 1,
+                "original_url": "https:\/\/fox6now.com\/2019\/03\/18\/inaugural-bloody-mary-festival-wisconsin-coming-to-fiserv-forum-june-22-23\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bd94dc88-5ea0-40a0-9a9c-20d23eb7cad4",
+        "type": "message",
+        "text": "ayyhooo",
+        "user": "U15HSHSS2",
+        "ts": "1553096130.015000"
+    },
+    {
+        "client_msg_id": "66d23a4f-d2f9-4a3d-8e26-63e152adf7cd",
+        "type": "message",
+        "text": "There*",
+        "user": "U15J5H60P",
+        "ts": "1553096297.015100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1553097129.000000"
+        },
+        "thread_ts": "1553095097.008400",
+        "parent_user_id": "U15HZ01QX"
+    },
+    {
+        "client_msg_id": "8fe34757-b09f-4952-84fc-fc2f24c00b23",
+        "type": "message",
+        "text": "I hope we get to see more of Margot Robbie's tits",
+        "user": "U15J5H60P",
+        "ts": "1553100661.015600"
+    },
+    {
+        "client_msg_id": "431BD890-F2BC-4389-8E43-78A96422B713",
+        "type": "message",
+        "text": "More?",
+        "user": "U15HY5TG8",
+        "ts": "1553100683.015800"
+    },
+    {
+        "client_msg_id": "217c25ad-c353-40be-9ac2-bb9926b5814b",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1553100688.016000"
+    },
+    {
+        "client_msg_id": "E096B98F-DCB6-4BAC-A05B-AAAE30F893DC",
+        "type": "message",
+        "text": "Where is the initial viewing of them?",
+        "user": "U15HY5TG8",
+        "ts": "1553100703.016400"
+    },
+    {
+        "client_msg_id": "A1DD0B21-CF4C-4E95-995F-C526886C9ACF",
+        "type": "message",
+        "text": "Wolf of Wall Street",
+        "user": "U15HZ01QX",
+        "ts": "1553101492.016800"
+    },
+    {
+        "client_msg_id": "D7ED47B2-1E63-4649-85A7-D8EA9135A47B",
+        "type": "message",
+        "text": "Ahh i dont think i even knew that was her",
+        "user": "U15HY5TG8",
+        "ts": "1553101580.017200"
+    },
+    {
+        "client_msg_id": "5DC265CA-3DB0-45A6-BB91-75D89DAB3F86",
+        "type": "message",
+        "text": "I was extremely hopeful for something in The Big Short though",
+        "user": "U15HY5TG8",
+        "ts": "1553101620.017900"
+    },
+    {
+        "client_msg_id": "0749e1ae-f169-4e2f-ba42-3b2890416c43",
+        "type": "message",
+        "text": "I don't think she was in the big short",
+        "user": "U15J5H60P",
+        "ts": "1553104530.018200"
+    },
+    {
+        "client_msg_id": "f2e92d9d-c37d-4e64-863b-28405c4c0626",
+        "type": "message",
+        "text": "Oh that 2 second clip",
+        "user": "U15J5H60P",
+        "ts": "1553104544.018400"
+    },
+    {
+        "client_msg_id": "5784F795-D04B-4174-AB4B-3AEAC79AB108",
+        "type": "message",
+        "text": "Yeah where she was in the bathtub",
+        "user": "U15HY5TG8",
+        "ts": "1553104561.018800"
+    },
+    {
+        "client_msg_id": "4279fec8-cded-4d7c-806a-a002baafab90",
+        "type": "message",
+        "text": "mansplaining CDOs",
+        "user": "U15HRTAHL",
+        "ts": "1553104573.019000"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1553113149.019400",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/funny-animation-cat-3o7btMCRCLmiglxo7C",
+                "image_url": "https:\/\/media3.giphy.com\/media\/3o7btMCRCLmiglxo7C\/giphy.gif?cid=6104955e5c92a03a444d4554670f1617",
+                "image_width": 480,
+                "image_height": 270,
+                "image_bytes": 807678,
+                "is_animated": true,
+                "title": "why is it so quiet",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/cartunatv\/|Cartuna>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/funny-animation-cat-3o7btMCRCLmiglxo7C"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e853748-8778-4df2-863b-956b6187e134",
+        "type": "message",
+        "text": "because we have jobs!",
+        "user": "U15J5H60P",
+        "ts": "1553113359.019600"
+    },
+    {
+        "client_msg_id": "f0984524-922f-4efb-83cf-bb8c3bde9a02",
+        "type": "message",
+        "text": "\/s",
+        "user": "U15J5H60P",
+        "ts": "1553113395.019900"
+    },
+    {
+        "client_msg_id": "3e2988bd-e196-47f8-bb48-a0fe5367563f",
+        "type": "message",
+        "text": "yeah jobs",
+        "user": "U15HRTAHL",
+        "ts": "1553113426.020100"
+    },
+    {
+        "client_msg_id": "a154e56c-f98b-4019-ad61-f4f7cffc537a",
+        "type": "message",
+        "text": "not careers you plebs",
+        "user": "U15HRTAHL",
+        "ts": "1553113429.020300"
+    },
+    {
+        "client_msg_id": "ac91d02b-77e2-43c6-a884-e2fede88fb47",
+        "type": "message",
+        "text": "\/s!",
+        "user": "U15HRTAHL",
+        "ts": "1553113435.020500"
+    },
+    {
+        "client_msg_id": "946a0ea5-4b3e-4510-9b33-1949265673e9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1553113466.020700"
+    },
+    {
+        "client_msg_id": "EACBF09B-C520-48E5-871C-56B52903552C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1553113653.021000"
+    },
+    {
+        "client_msg_id": "478bc210-8c44-433b-81c6-a0dfbcf505a9",
+        "type": "message",
+        "text": "it feels like thursday",
+        "user": "U15HRTAHL",
+        "ts": "1553114535.021200"
+    },
+    {
+        "client_msg_id": "c30a089d-1bfa-4916-824c-0903a508a511",
+        "type": "message",
+        "text": "I sort of like overwatch",
+        "user": "U15J5H60P",
+        "ts": "1553128403.000400"
+    },
+    {
+        "client_msg_id": "9d1b821d-e022-45f9-8145-4aaecf15d87f",
+        "type": "message",
+        "text": "I’m starting to get it",
+        "user": "U15J5H60P",
+        "ts": "1553128407.000600"
+    },
+    {
+        "client_msg_id": "86fdfdf0-0ef4-444d-9c45-6f899bac0b5f",
+        "type": "message",
+        "text": "Saw dat play of the gaamme",
+        "user": "U15HSHSS2",
+        "ts": "1553128420.000900"
+    },
+    {
+        "client_msg_id": "3f001d80-bd38-43c2-b657-44d51552d9c6",
+        "type": "message",
+        "text": ":party_parrot:",
+        "user": "U15J5H60P",
+        "ts": "1553128447.001100"
+    },
+    {
+        "client_msg_id": "11b15fab-9031-4d45-9904-9e7dddb1709d",
+        "type": "message",
+        "text": "Games take forever to find tho",
+        "user": "U15J5H60P",
+        "ts": "1553128492.001300"
+    },
+    {
+        "client_msg_id": "0798b119-2f84-4a9f-a0aa-466669c494f7",
+        "type": "message",
+        "text": "on PC they take forever if you have a team, but solo is usually instant",
+        "user": "U15HSHSS2",
+        "ts": "1553128522.001700"
+    },
+    {
+        "client_msg_id": "35C7BE20-8A53-4C9E-9724-27F1F9C62093",
+        "type": "message",
+        "text": "Yerrr",
+        "user": "U15HZ01QX",
+        "ts": "1553128971.001900"
+    },
+    {
+        "client_msg_id": "b8d5fecf-4f2b-41e9-aec5-abb52e5cb2f4",
+        "type": "message",
+        "text": "Maybe something is going on",
+        "user": "U15J5H60P",
+        "ts": "1553129544.002100"
+    }
+]

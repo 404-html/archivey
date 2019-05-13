@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "350aebdb-1a1a-44da-aa81-82380b001898",
+        "type": "message",
+        "text": "Howard Schultz is the worst",
+        "user": "U15HZ01QX",
+        "ts": "1550074058.000300"
+    },
+    {
+        "client_msg_id": "309e8058-8d2c-4718-9c10-615661cba186",
+        "type": "message",
+        "text": "why",
+        "user": "U15HSHSS2",
+        "ts": "1550074304.000500"
+    },
+    {
+        "client_msg_id": "EB251ED2-024D-4283-B400-F7B45B491449",
+        "type": "message",
+        "text": "He’s been grandstanding for weeks. “I’m going to run for president but only as an independent. I don’t have any ideas. But everyone else’s ideas are wrong.”",
+        "user": "U15HZ01QX",
+        "ts": "1550074516.001900"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/gilbertjasono\/status\/1095693597117202432?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1550075401.002000",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/gilbertjasono|@gilbertjasono>: Last night Howard Schultz sent a powerful message: If you are rich enough CNN will let you wander around stage saying things like “My plan to fix healthcare is embracing American greatness and accelerating business excellence\"",
+                "ts": 1550068685,
+                "author_name": "Jason O. Gilbert",
+                "author_link": "https:\/\/twitter.com\/gilbertjasono\/status\/1095693597117202432",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/458305950198161408\/10hxE-eI_normal.png",
+                "author_subname": "@gilbertjasono",
+                "text": "Last night Howard Schultz sent a powerful message: If you are rich enough CNN will let you wander around stage saying things like “My plan to fix healthcare is embracing American greatness and accelerating business excellence\"",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/gilbertjasono\/status\/1095693597117202432?s=12",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/gilbertjasono\/status\/1095693597117202432?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/alexburnsnyt\/status\/1095522078609035264?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1550075433.002200",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/alexburnsNYT|@alexburnsNYT>: Schultz’s answer on climate really captures how he’s approaching 2020: says addressing climate is a top priority and then spends most of the answer slamming the Green New Deal. No policy proposals of his own, fire trained on liberal Democrats.",
+                "ts": 1550027792,
+                "author_name": "Alex Burns",
+                "author_link": "https:\/\/twitter.com\/alexburnsNYT\/status\/1095522078609035264",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1087524643492298760\/MaN6IcMs_normal.jpg",
+                "author_subname": "@alexburnsNYT",
+                "text": "Schultz’s answer on climate really captures how he’s approaching 2020: says addressing climate is a top priority and then spends most of the answer slamming the Green New Deal. No policy proposals of his own, fire trained on liberal Democrats.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/alexburnsnyt\/status\/1095522078609035264?s=12",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/alexburnsnyt\/status\/1095522078609035264?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "client_msg_id": "9225cef2-872b-4853-803e-e242f11d6900",
+        "type": "message",
+        "text": "<https:\/\/motherboard.vice.com\/en_us\/article\/pan9jz\/comcast-is-building-a-50-million-esports-stadium-in-philadelphia>",
+        "user": "U15HRTAHL",
+        "ts": "1553616627.000200",
+        "attachments": [
+            {
+                "service_name": "Motherboard",
+                "title": "Philadelphia Is Building a $50 Million Esports Stadium",
+                "title_link": "https:\/\/motherboard.vice.com\/en_us\/article\/pan9jz\/comcast-is-building-a-50-million-esports-stadium-in-philadelphia",
+                "text": "Comcast’s 3,500-seat stadium will give East Coast esports fans a dedicated space to cheer on their favorite teams.",
+                "fallback": "Motherboard: Philadelphia Is Building a $50 Million Esports Stadium",
+                "image_url": "https:\/\/video-images.vice.com\/articles\/5c9904e7b05ebb0007959644\/lede\/1553532469926-image1.jpeg?crop=1xw:0.8449570815450643xh;center,center&resize=1200:*",
+                "image_width": 445,
+                "image_height": 250,
+                "ts": 1553532853,
+                "from_url": "https:\/\/motherboard.vice.com\/en_us\/article\/pan9jz\/comcast-is-building-a-50-million-esports-stadium-in-philadelphia",
+                "image_bytes": 174629,
+                "service_icon": "https:\/\/vice-web-statics-cdn.vice.com\/favicons\/motherboard\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/motherboard.vice.com\/en_us\/article\/pan9jz\/comcast-is-building-a-50-million-esports-stadium-in-philadelphia"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A9205153-4054-49DA-86CE-02166DCA6639",
+        "type": "message",
+        "text": "That’s sick",
+        "user": "U15HZ01QX",
+        "ts": "1553616654.000600"
+    },
+    {
+        "client_msg_id": "C9EEB4C1-7A87-4F42-9A94-8701E64D0456",
+        "type": "message",
+        "text": "The Vegas one in that black pyramid is super nice",
+        "user": "U15HZ01QX",
+        "ts": "1553616670.001100"
+    },
+    {
+        "client_msg_id": "0f591cfd-4ecd-4829-8fe9-d80c59986a6c",
+        "type": "message",
+        "text": "luxor?",
+        "user": "U15HRTAHL",
+        "ts": "1553616681.001300"
+    },
+    {
+        "client_msg_id": "EBB8CBC7-383C-4BC9-A062-A1345BD1739F",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HZ01QX",
+        "ts": "1553616805.001400"
+    }
+]

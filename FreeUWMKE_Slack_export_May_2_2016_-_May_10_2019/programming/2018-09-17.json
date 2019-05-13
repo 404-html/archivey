@@ -1,0 +1,543 @@
+[
+    {
+        "client_msg_id": "c4610bf2-bcbc-47ec-af4f-cf03f98a861c",
+        "type": "message",
+        "text": "I think I might switch majors due to this multiselect",
+        "user": "U15HY5TG8",
+        "ts": "1537198821.000100"
+    },
+    {
+        "client_msg_id": "efb295c5-d548-49ae-bc8c-794d26234919",
+        "type": "message",
+        "text": "a little too late lol",
+        "user": "U15HRTAHL",
+        "ts": "1537198853.000100"
+    },
+    {
+        "client_msg_id": "e89fdb94-060f-4d54-8699-3b6844eeae5d",
+        "type": "message",
+        "text": "what issue are you running into?",
+        "user": "U15HRTAHL",
+        "ts": "1537198903.000100"
+    },
+    {
+        "client_msg_id": "35180066-0b05-4e0d-a489-343eb70a0d31",
+        "type": "message",
+        "text": "this fucking multiselect won't prepopulate values",
+        "user": "U15HY5TG8",
+        "ts": "1537198984.000100"
+    },
+    {
+        "client_msg_id": "1cd4f3d5-b2c0-47aa-aebe-7c834bb3a1b5",
+        "type": "message",
+        "text": "why do you mean by “prepopulate”?",
+        "user": "U15HRTAHL",
+        "ts": "1537199013.000100"
+    },
+    {
+        "client_msg_id": "199912b7-0b38-4fc2-a1e5-1e50723d9b95",
+        "type": "message",
+        "text": "your issue sounds like it’s prepopulating on load",
+        "user": "U15HRTAHL",
+        "ts": "1537199027.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1537199035.000000"
+        }
+    },
+    {
+        "client_msg_id": "67f2ee60-6794-49e5-9a94-386b786e0519",
+        "type": "message",
+        "text": "sorry, preselect*",
+        "user": "U15HY5TG8",
+        "ts": "1537199042.000100"
+    },
+    {
+        "client_msg_id": "54675464-169a-4388-b152-85bb7b864d20",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1537199057.000100"
+    },
+    {
+        "client_msg_id": "a1ea0c89-32e6-4d84-8805-9121c93ac482",
+        "type": "message",
+        "text": "explain the functionality?",
+        "user": "U15HRTAHL",
+        "ts": "1537199062.000100"
+    },
+    {
+        "client_msg_id": "11ab44cc-51ae-49fe-b784-6bfc8a805d52",
+        "type": "message",
+        "text": "it’s supposed to be like a typeahead right?",
+        "user": "U15HRTAHL",
+        "ts": "1537199070.000100"
+    },
+    {
+        "client_msg_id": "53a6df3a-f68d-49e3-9647-9a43555d042b",
+        "type": "message",
+        "text": "so I've got this modal with a multiselect. I select values 1, 2, 3 and close the modal. then I want to edit it, so I open up the modal. Now I want values 1, 2, 3 to be preselected in the dropdown",
+        "user": "U15HY5TG8",
+        "ts": "1537199097.000100"
+    },
+    {
+        "client_msg_id": "f43c2a5e-5254-4001-95aa-e71d7872be2e",
+        "type": "message",
+        "text": "ok and where are you storing those values?",
+        "user": "U15HRTAHL",
+        "ts": "1537199134.000100"
+    },
+    {
+        "client_msg_id": "84e43650-d6a7-48c6-b7e2-a5ce8935b007",
+        "type": "message",
+        "text": "onclick =&gt; load pre selected values",
+        "user": "U15HRTAHL",
+        "ts": "1537199160.000100"
+    },
+    {
+        "client_msg_id": "56b0443f-507a-43e3-b32f-0fd1b2c4b202",
+        "type": "message",
+        "text": "just in like a vm.codes or whatever",
+        "user": "U15HY5TG8",
+        "ts": "1537199177.000100"
+    },
+    {
+        "client_msg_id": "0f70217e-a18c-4a71-b798-e3a81c5f0a41",
+        "type": "message",
+        "text": "the datatransfer is fine from parent page to modal and back again",
+        "user": "U15HY5TG8",
+        "ts": "1537199192.000100"
+    },
+    {
+        "client_msg_id": "36d9b718-dacb-4b45-a8e3-c381600de6ec",
+        "type": "message",
+        "text": "but once you try to select more from the dropdown, it wipes everything",
+        "user": "U15HY5TG8",
+        "ts": "1537199207.000100"
+    },
+    {
+        "client_msg_id": "0ccf8c14-cbdc-4225-a452-b1d9a10e0e5b",
+        "type": "message",
+        "text": "show me the controllers",
+        "user": "U15HRTAHL",
+        "ts": "1537199226.000200"
+    },
+    {
+        "client_msg_id": "2c25e1d8-5c38-4d7d-9ffb-c3cd4ae51676",
+        "type": "message",
+        "text": "```function init() {\n            vm.title = parentData.title;\n            vm.codeFilter = parentData.codeFilter;\n            vm.originalCodes = parentData.codes;\n            vm.codes = parentData.codes;\n            vm.data = [];\n            angular.forEach(vm.codes,\n                function (listItem) {\n                    vm.data.push(listItem.id);\n                });\n            vm.elementId = 'selectCodesModal';\n            vm.setSelect2_Codes();\n            vm.setDefaultCodes();\n        }\n\n        $(document).ready(function () {\n            $('.wbx-select2-selectCodes').select2();\n        });\n\n        function setDefaultCodes() {\n            angular.forEach(vm.codes,\n                function (listItem) {\n                    var newOption = new Option(listItem.text, listItem.id, true, true);\n                    $('.wbx-select2-selectCodes').append(newOption).trigger('change');\n                });\n            $('.wbx-select2-selectCodes').val(vm.data);\n            $('.wbx-select2-selectCodes').trigger('change');\n        }\n\n        function setSelect2_Codes() {\n            $(\".wbx-select2-selectCodes\").select2({\n                allowClear: true,\n                placeholder: \" \",\n                width: '92%',\n                minimumInputLength: 1,\n                ajax: {\n                    url: '\/FMM\/CaseRate\/GetAllCodes',\n                    dataType: 'json',\n                    data: function (params) {\n                        var query = {\n                            codeFilter: vm.codeFilter,\n                            search: params.term\n                        }\n\n                        return query;\n                    },\n                    processResults: function (data) {\n                        $.each(data.data.Codes, function (index, item) {\n                            vm.results.push({\n                                id: item.CODE,\n                                text: item.CODE + \" \" + item.DESCRIPTION_SIMPLE,\n                                codeObject: {\n                                    id: item.CODE,\n                                    text: item.CODE + \" \" + item.DESCRIPTION_SIMPLE,\n                                    CODE: item.CODE,\n                                    DESCRIPTION_SIMPLE: item.DESCRIPTION_SIMPLE,\n                                    CODE_ID: item.CODE_ID\n                                }\n                            });\n                        });\n                        return { results: vm.results };\n                    }\n                },\n                escapeMarkup: function (m) { return m; }\/\/,\n                \/\/templateSelection: function (data) {\n                \/\/    if (data.id == null || data.id == \"\" || data.text == null || data.text == \"\") {\n                \/\/        return;\n                \/\/    }\n\n                    \n\n                \/\/    return data.text;\n                \/\/}\n            });\n        }\n\n        function save() {\n            vm.codes = $('.wbx-select2-selectCodes').select2('data');\n            $uibModalInstance.close({ codes: vm.codes, status: \"ok\" });\n        }```",
+        "user": "U15HY5TG8",
+        "ts": "1537199349.000100"
+    },
+    {
+        "client_msg_id": "390fcf01-6b85-457e-9376-447e87247ab2",
+        "type": "message",
+        "text": "Ajax",
+        "user": "U15J5H60P",
+        "ts": "1537199374.000100"
+    },
+    {
+        "client_msg_id": "8771e3d5-7a8d-4f5f-888f-6dab16981b83",
+        "type": "message",
+        "text": "Gross",
+        "user": "U15J5H60P",
+        "ts": "1537199375.000100"
+    },
+    {
+        "client_msg_id": "fec35da6-b493-4422-b7f5-ca1feadeb5b9",
+        "type": "message",
+        "text": "yuuuup",
+        "user": "U15HY5TG8",
+        "ts": "1537199394.000100"
+    },
+    {
+        "client_msg_id": "ec116494-4e86-4dac-bbdd-27c40916985e",
+        "type": "message",
+        "text": "dude",
+        "user": "U15HRTAHL",
+        "ts": "1537199409.000100"
+    },
+    {
+        "client_msg_id": "31b808a5-1b0d-4a33-af58-679b99006adc",
+        "type": "message",
+        "text": "it's cause it's on keystroke so that I'm not loading 16k record",
+        "user": "U15HY5TG8",
+        "ts": "1537199414.000100"
+    },
+    {
+        "client_msg_id": "154b38dd-cb1b-446d-96c7-8c7964302d63",
+        "type": "message",
+        "text": "s",
+        "user": "U15HY5TG8",
+        "ts": "1537199416.000100"
+    },
+    {
+        "client_msg_id": "ff615263-ba25-4bbf-a2a2-1d9e2de33df9",
+        "type": "message",
+        "text": "don’t use jQuery with angular",
+        "user": "U15HRTAHL",
+        "ts": "1537199417.000100"
+    },
+    {
+        "client_msg_id": "d89b9676-ded3-47ce-9168-b24adc5a5863",
+        "type": "message",
+        "text": "I have to",
+        "user": "U15HY5TG8",
+        "ts": "1537199422.000100"
+    },
+    {
+        "client_msg_id": "a5cbb9de-30f9-4cdb-bf9c-f044c5158913",
+        "type": "message",
+        "text": "thats probably fucking it up",
+        "user": "U15HRTAHL",
+        "ts": "1537199439.000200"
+    },
+    {
+        "client_msg_id": "f6e4fd2d-86df-40da-841f-dd45afe68733",
+        "type": "message",
+        "text": "well I don't have to but that's what this library needs to use",
+        "user": "U15HY5TG8",
+        "ts": "1537199440.000100"
+    },
+    {
+        "client_msg_id": "efefa03e-58f2-4125-b91f-8d777ea408e7",
+        "type": "message",
+        "text": "jquery doesn’t respect angular’s digest cycle",
+        "user": "U15HRTAHL",
+        "ts": "1537199453.000100"
+    },
+    {
+        "client_msg_id": "3c4741ed-f32e-4ddd-a9f5-ea4cefd4f834",
+        "type": "message",
+        "text": "Why is this code so bad?",
+        "user": "U15J5H60P",
+        "ts": "1537199466.000100"
+    },
+    {
+        "client_msg_id": "1538859d-8b6c-4386-9166-fa0672b72019",
+        "type": "message",
+        "text": "because I'm trying to make it work before I clean it up lol",
+        "user": "U15HY5TG8",
+        "ts": "1537199480.000200"
+    },
+    {
+        "client_msg_id": "35643a30-2ddf-40ac-b921-208e048dab29",
+        "type": "message",
+        "text": "Oh. gotcha",
+        "user": "U15J5H60P",
+        "ts": "1537199513.000100"
+    },
+    {
+        "client_msg_id": "6fdd7e6a-7d64-4de4-ba04-984f15c4559f",
+        "type": "message",
+        "text": "Ok, what should I do that doesn't use ajax? I need to call out to the server on keystroke",
+        "user": "U15HY5TG8",
+        "ts": "1537199550.000100"
+    },
+    {
+        "client_msg_id": "328443b7-6e93-4220-a76f-ce966f35da88",
+        "type": "message",
+        "text": "$http",
+        "user": "U15HRTAHL",
+        "ts": "1537199580.000200"
+    },
+    {
+        "client_msg_id": "8eb0b5ab-d41a-4ec0-8914-4d4fa971a98b",
+        "type": "message",
+        "text": "you know",
+        "user": "U15HRTAHL",
+        "ts": "1537199583.000100"
+    },
+    {
+        "client_msg_id": "a652ca21-0ed9-4873-bf79-e83963edc69a",
+        "type": "message",
+        "text": "angular’s built in http service",
+        "user": "U15HRTAHL",
+        "ts": "1537199592.000100"
+    },
+    {
+        "client_msg_id": "baa89a0f-2691-4189-bb42-db87a80debca",
+        "type": "message",
+        "text": "<https:\/\/docs.angularjs.org\/api\/ng\/type\/$rootScope.Scope#$digest>",
+        "user": "U15HRTAHL",
+        "ts": "1537199605.000200",
+        "attachments": [
+            {
+                "title": "AngularJS",
+                "title_link": "https:\/\/docs.angularjs.org\/api\/ng\/type\/$rootScope.Scope#$digest",
+                "text": "AngularJS is what HTML would have been, had it been designed for building web-apps. Declarative templates with data-binding, MVC, dependency injection and great testability story all implemented with pure client-side JavaScript!",
+                "fallback": "AngularJS",
+                "from_url": "https:\/\/docs.angularjs.org\/api\/ng\/type\/$rootScope.Scope#$digest",
+                "service_icon": "https:\/\/docs.angularjs.org\/favicon.ico",
+                "service_name": "docs.angularjs.org",
+                "id": 1,
+                "original_url": "https:\/\/docs.angularjs.org\/api\/ng\/type\/$rootScope.Scope#$digest"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d8633e8-1db1-4e24-b195-905d0e497378",
+        "type": "message",
+        "text": "right so I can do that",
+        "user": "U15HY5TG8",
+        "ts": "1537199609.000100"
+    },
+    {
+        "client_msg_id": "67b35d09-8587-4db9-8137-3bb16f341380",
+        "type": "message",
+        "text": "read about $digest and $scope.$apply",
+        "user": "U15HRTAHL",
+        "ts": "1537199619.000100"
+    },
+    {
+        "client_msg_id": "db5cdf2a-9d28-49a9-a109-f2c79ffa0f65",
+        "type": "message",
+        "text": "i guarantee that’s what’s fucking it up",
+        "user": "U15HRTAHL",
+        "ts": "1537199645.000200"
+    },
+    {
+        "client_msg_id": "a989ee60-b3a6-4a6e-8d38-b896291b3a74",
+        "type": "message",
+        "text": "I did try scope.apply and that did nothing",
+        "user": "U15HY5TG8",
+        "ts": "1537199657.000100"
+    },
+    {
+        "client_msg_id": "edde3f73-844b-46c7-a8db-867e31003c7c",
+        "type": "message",
+        "text": "didn't do anything with digest",
+        "user": "U15HY5TG8",
+        "ts": "1537199663.000100"
+    },
+    {
+        "client_msg_id": "203f0953-744e-4ad7-a658-eb42938979c4",
+        "type": "message",
+        "text": "<https:\/\/www.npmjs.com\/package\/ng2-select2>",
+        "user": "U15HRTAHL",
+        "ts": "1537199728.000200",
+        "attachments": [
+            {
+                "service_name": "npm",
+                "title": "ng2-select2",
+                "title_link": "https:\/\/www.npmjs.com\/package\/ng2-select2",
+                "text": "Angular2 wrapper for select2",
+                "fallback": "npm: ng2-select2",
+                "thumb_url": "https:\/\/static.npmjs.com\/338e4905a2684ca96e08c7780fc68412.png",
+                "from_url": "https:\/\/www.npmjs.com\/package\/ng2-select2",
+                "thumb_width": 1200,
+                "thumb_height": 630,
+                "service_icon": "https:\/\/static.npmjs.com\/58a19602036db1daee0d7863c94673a4.png",
+                "id": 1,
+                "original_url": "https:\/\/www.npmjs.com\/package\/ng2-select2"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "07527bc5-a3db-4a5f-b3ae-0baebef04849",
+        "type": "message",
+        "text": "ahh fack that’s angular2",
+        "user": "U15HRTAHL",
+        "ts": "1537199736.000100"
+    },
+    {
+        "client_msg_id": "7921babc-f9e1-4891-a4e8-ce49b6beb971",
+        "type": "message",
+        "text": "yeahhh",
+        "user": "U15HY5TG8",
+        "ts": "1537199766.000100"
+    },
+    {
+        "client_msg_id": "f495e750-31a1-4586-a15a-7e8b976be4d5",
+        "type": "message",
+        "text": "let’s back up",
+        "user": "U15HRTAHL",
+        "ts": "1537199816.000100"
+    },
+    {
+        "client_msg_id": "d2fa2543-781d-4019-a3a2-40f88a1715cd",
+        "type": "message",
+        "text": "why do you have to use multi select 2?",
+        "user": "U15HRTAHL",
+        "ts": "1537199826.000100"
+    },
+    {
+        "client_msg_id": "d65c8efd-4176-40b2-b77e-d255187cf745",
+        "type": "message",
+        "text": "Is there any concept of state in this controller?",
+        "user": "U15J5H60P",
+        "ts": "1537199852.000100"
+    },
+    {
+        "client_msg_id": "fe3874e4-e8f9-4f09-b073-beac262b8d28",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1537199859.000200"
+    },
+    {
+        "client_msg_id": "4ad9a7a2-eaf4-47ef-b753-6d8a90257039",
+        "type": "message",
+        "text": "that’s vm",
+        "user": "U15HRTAHL",
+        "ts": "1537199861.000100"
+    },
+    {
+        "client_msg_id": "f4d9a947-8959-4fa7-874d-23558c320a8c",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1537199865.000100"
+    },
+    {
+        "client_msg_id": "62157195-c91b-47b4-a792-3adaec1bb313",
+        "type": "message",
+        "text": "So instead of updating `$('.wbx-select2-selectCodes')` with the selected options. Wouldn't you want to update `vm.codes`?",
+        "user": "U15J5H60P",
+        "ts": "1537199909.000100"
+    },
+    {
+        "client_msg_id": "bf53e142-176b-4ca1-8707-b84491ad6983",
+        "type": "message",
+        "text": "In the `setDefaultCodes` function",
+        "user": "U15J5H60P",
+        "ts": "1537199920.000100"
+    },
+    {
+        "client_msg_id": "7830b2a4-d169-4b7c-be22-8d2f6d7eebfc",
+        "type": "message",
+        "text": "so with this dropdown, I need to be able to select a combination of items, which is why I need the multiselect. however, I can't use a prepopulated list since there are 16,000 items. which is why I do an ajax call on keypress",
+        "user": "U15HY5TG8",
+        "ts": "1537199947.000100"
+    },
+    {
+        "client_msg_id": "2cd0b23c-cbad-42f7-95be-aa1891d84e25",
+        "type": "message",
+        "text": "you don’t need multi select 2",
+        "user": "U15HRTAHL",
+        "ts": "1537199962.000100"
+    },
+    {
+        "client_msg_id": "6950ab4b-c5d0-48d9-9920-bae8ca1d4aa8",
+        "type": "message",
+        "text": "you can build this out yourself",
+        "user": "U15HRTAHL",
+        "ts": "1537199969.000100"
+    },
+    {
+        "client_msg_id": "f876cfa2-0766-40b4-9d6d-840a07fd42d4",
+        "type": "message",
+        "text": "<@U15J5H60P> so the reason I split it into vm.data is because new Option doesn't like the object I gave it",
+        "user": "U15HY5TG8",
+        "ts": "1537199985.000100"
+    },
+    {
+        "client_msg_id": "cfde1874-f1d9-4f29-84fe-fea8005914a8",
+        "type": "message",
+        "text": "I am open to ideas on how to accomplish that lol",
+        "user": "U15HY5TG8",
+        "ts": "1537200016.000100"
+    },
+    {
+        "client_msg_id": "20aee474-2b3d-487b-9c07-5557a8c311dc",
+        "type": "message",
+        "text": "what look and feel are you going for?",
+        "user": "U15HRTAHL",
+        "ts": "1537200033.000100"
+    },
+    {
+        "client_msg_id": "5ac55481-f01a-4070-a0b1-6a6b7f66094f",
+        "type": "message",
+        "text": "at this point, I jsut want something to work",
+        "user": "U15HY5TG8",
+        "ts": "1537200044.000100"
+    },
+    {
+        "client_msg_id": "41fd4921-9593-45c7-bbbf-24b7f1e258e3",
+        "type": "message",
+        "text": "you obviously need an input",
+        "user": "U15HRTAHL",
+        "ts": "1537200045.000100"
+    },
+    {
+        "client_msg_id": "34cf6807-67e1-4cbc-bedb-b70e775fb571",
+        "type": "message",
+        "text": "the look and feel I think I have to go with is type in a box, select an item, and add it to a list somewhere. then be able to close the modal, then reopen with the same list intact",
+        "user": "U15HY5TG8",
+        "ts": "1537200085.000100"
+    },
+    {
+        "client_msg_id": "7cb8ed65-7854-4786-ac5f-d5a4213b21a0",
+        "type": "message",
+        "text": "are you guys using bootstrap ui?",
+        "user": "U15HRTAHL",
+        "ts": "1537200470.000100"
+    },
+    {
+        "client_msg_id": "c7d7ad51-1ef5-4df2-8965-f750539cdf5e",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1537200480.000100"
+    },
+    {
+        "client_msg_id": "cdc36dfb-7a3d-4d38-9f9f-7d25e80f4cdf",
+        "type": "message",
+        "text": "bootstrap or bootstrap ui?",
+        "user": "U15HRTAHL",
+        "ts": "1537200561.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1537200567.000000"
+        }
+    },
+    {
+        "client_msg_id": "90ebd9e3-275a-4502-bc2e-0646e13d7ea9",
+        "type": "message",
+        "text": "<http:\/\/next.plnkr.co\/edit\/?p=preview&amp;preview>",
+        "user": "U15HRTAHL",
+        "ts": "1537200695.000100"
+    },
+    {
+        "client_msg_id": "e308bd67-849b-4537-81c2-90fc898c0e73",
+        "type": "message",
+        "text": "<https:\/\/angular-ui.github.io\/ui-select\/>",
+        "user": "U15HRTAHL",
+        "ts": "1537200709.000200"
+    },
+    {
+        "client_msg_id": "db9dbf9c-4eee-4861-a1fc-c995f6ab0a04",
+        "type": "message",
+        "text": "no idea",
+        "user": "U15HY5TG8",
+        "ts": "1537201310.000100"
+    },
+    {
+        "client_msg_id": "a1d24cb1-1bf5-4bd8-9f3e-cbaa8012707a",
+        "type": "message",
+        "text": "and I was actually just looking at ui-select a little bit ago",
+        "user": "U15HY5TG8",
+        "ts": "1537201321.000200"
+    },
+    {
+        "client_msg_id": "cadf4b2f-31b5-4fcb-9871-b00f9fd346eb",
+        "type": "message",
+        "text": "I'm going to have an anneurysm",
+        "user": "U15HY5TG8",
+        "ts": "1537201571.000100"
+    },
+    {
+        "client_msg_id": "79415400-158a-456f-b111-a67ee603cc08",
+        "type": "message",
+        "text": "isn't there a tool where you can click a color in your browser and it will give you the hex code for it?",
+        "user": "U15HSHSS2",
+        "ts": "1537212166.000100"
+    },
+    {
+        "client_msg_id": "985bfa0e-f41e-4c16-a43e-e67d92ffb083",
+        "type": "message",
+        "text": "mac has a built in digital color meter",
+        "user": "U15HRTAHL",
+        "ts": "1537212241.000100"
+    }
+]

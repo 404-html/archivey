@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "59dec802-25e7-46de-8a7a-d51d1a509d27",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=MevKTPN4ozw>",
+        "user": "U15HSHSS2",
+        "ts": "1534865074.000100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Talking Tech with Elon Musk!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=MevKTPN4ozw",
+                "author_name": "Marques Brownlee",
+                "author_link": "https:\/\/www.youtube.com\/user\/marquesbrownlee",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/MevKTPN4ozw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Talking Tech with Elon Musk!",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/MevKTPN4ozw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=MevKTPN4ozw",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=MevKTPN4ozw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cc0115a2-3df1-469b-a010-099ed25c0e61",
+        "type": "message",
+        "text": "Tesla pick up truck coming :thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1534865394.000100"
+    },
+    {
+        "client_msg_id": "6356ac82-d8a6-4ef2-a1c4-eb82c29d0693",
+        "type": "message",
+        "text": "The SEC is coming",
+        "user": "U15HZ01QX",
+        "ts": "1534865421.000100"
+    },
+    {
+        "client_msg_id": "59099c1a-2742-4a7a-bef4-379014c4e9f7",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1534865448.000100"
+    },
+    {
+        "client_msg_id": "ee86111e-2474-4045-8030-cb70080d1611",
+        "type": "message",
+        "text": "I'm investing BIG in Tesla",
+        "user": "U15HSHSS2",
+        "ts": "1534865470.000100"
+    },
+    {
+        "client_msg_id": "52ca71c9-c950-49a9-bb42-03c8dbfcfb50",
+        "type": "message",
+        "text": "regardless of Elon's quarks, that company is going places",
+        "user": "U15HSHSS2",
+        "ts": "1534865491.000100"
+    },
+    {
+        "client_msg_id": "f2a4637a-75ad-4a81-8fe0-100261ad6011",
+        "type": "message",
+        "text": "insolvency",
+        "user": "U15HZ01QX",
+        "ts": "1534865507.000100"
+    },
+    {
+        "client_msg_id": "96ec59f7-5abe-4b24-9ae4-336872b47bd8",
+        "type": "message",
+        "text": "lucrative*",
+        "user": "U15HSHSS2",
+        "ts": "1534865543.000100"
+    },
+    {
+        "client_msg_id": "acd49806-59ac-4b3b-babb-e27a2ec61c5a",
+        "type": "message",
+        "text": "MKBHD sucks at interviewing",
+        "user": "U15J5H60P",
+        "ts": "1534872098.000100"
+    },
+    {
+        "client_msg_id": "dc0e65c9-3fbe-4593-b6fc-591eb84a85fc",
+        "type": "message",
+        "text": "I'm looking forward to him getting better since he has awesome opportunities",
+        "user": "U15J5H60P",
+        "ts": "1534872112.000100"
+    }
+]

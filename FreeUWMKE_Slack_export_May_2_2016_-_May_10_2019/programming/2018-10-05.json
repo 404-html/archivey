@@ -1,0 +1,54 @@
+[
+    {
+        "client_msg_id": "50c1205b-2384-499f-bcbf-11ea855ec97a",
+        "type": "message",
+        "text": "<https:\/\/mva.microsoft.com\/learningpaths.aspx>",
+        "user": "U15HRTAHL",
+        "ts": "1538752733.000200",
+        "attachments": [
+            {
+                "service_name": "Microsoft Virtual Academy",
+                "title": "Know it. Prove it.",
+                "title_link": "https:\/\/mva.microsoft.com\/learningpaths.aspx",
+                "text": "Looking for a simple, effective way to get training on Microsoft’s Cloud technologies? Microsoft Virtual Academy!",
+                "fallback": "Microsoft Virtual Academy: Know it. Prove it.",
+                "image_url": "https:\/\/mva.microsoft.com\/Storage\/public\/images\/MVA-share-logo.png",
+                "from_url": "https:\/\/mva.microsoft.com\/learningpaths.aspx",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 5609,
+                "service_icon": "https:\/\/mva.microsoft.com\/Storage\/public\/images\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/mva.microsoft.com\/learningpaths.aspx"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc3c45dd-8bc1-4faf-963f-8a8190be41df",
+        "type": "message",
+        "text": "pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1538752735.000100"
+    },
+    {
+        "client_msg_id": "0e502929-875c-4478-b921-feb21b1d52da",
+        "type": "message",
+        "text": "NOIT!",
+        "user": "U15J5H60P",
+        "ts": "1538752762.000100"
+    },
+    {
+        "client_msg_id": "77d617b3-db1f-487d-b87b-f51b304563bf",
+        "type": "message",
+        "text": "That'd be cool if they led to certs",
+        "user": "U15J5H60P",
+        "ts": "1538752779.000100"
+    },
+    {
+        "client_msg_id": "63a6cb41-5107-4097-8583-ba6287e977d7",
+        "type": "message",
+        "text": "They have the same content to help you prepare for certs",
+        "user": "U15HRTAHL",
+        "ts": "1538752797.000100"
+    }
+]

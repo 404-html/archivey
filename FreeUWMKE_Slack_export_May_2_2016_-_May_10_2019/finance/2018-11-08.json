@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "1c682deb-2d07-41b2-9e42-b896de86ea81",
+        "type": "message",
+        "text": "<https:\/\/worthybonds.com\/?r=wellkeptwallet>",
+        "user": "U15HRTAHL",
+        "ts": "1541711436.000200",
+        "attachments": [
+            {
+                "service_name": "Worthy Peer Capital",
+                "title": "Buy Worthy Bonds",
+                "title_link": "https:\/\/worthybonds.com\/?r=wellkeptwallet",
+                "text": "Worthy Peer Capital, home of Worthy Bonds",
+                "fallback": "Worthy Peer Capital: Buy Worthy Bonds",
+                "image_url": "https:\/\/worthybonds.com\/img\/logotype.png",
+                "from_url": "https:\/\/worthybonds.com\/?r=wellkeptwallet",
+                "image_width": 672,
+                "image_height": 214,
+                "image_bytes": 41840,
+                "service_icon": "https:\/\/worthybonds.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/worthybonds.com\/?r=wellkeptwallet"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d641545-b6ba-4395-9f66-9d034457696a",
+        "type": "message",
+        "text": "$10 bonds with 5% returns that you can cash out at anytime with",
+        "user": "U15HRTAHL",
+        "ts": "1541711451.000700"
+    },
+    {
+        "client_msg_id": "548575e1-74a2-420d-84c4-877d4c10dcca",
+        "type": "message",
+        "text": "interesting...",
+        "user": "U15J5H60P",
+        "ts": "1541711811.000900"
+    },
+    {
+        "client_msg_id": "47d98445-418c-46fd-9516-21b4fe9c3251",
+        "type": "message",
+        "text": "Probably using that money to fund sex trafficking rings in pizza joints' basements.",
+        "user": "U15J5H60P",
+        "ts": "1541711927.001400"
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1516977753.000309"
+    },
+    {
+        "type": "message",
+        "text": "I've only seen that with odata",
+        "user": "U15HRTAHL",
+        "ts": "1516977758.000175"
+    },
+    {
+        "type": "message",
+        "text": "and it concatenates those three fields to make the key",
+        "user": "U15HRTAHL",
+        "ts": "1516977800.000323"
+    },
+    {
+        "type": "message",
+        "text": "Right but wouldnt these fields be a list of FKs that are now acting as the PK?",
+        "user": "U15HY5TG8",
+        "ts": "1516979514.000045"
+    },
+    {
+        "type": "message",
+        "text": "Are they foreign keys or primary keys?",
+        "user": "U15HRTAHL",
+        "ts": "1516979572.000199"
+    },
+    {
+        "type": "message",
+        "text": "2 are both pk and fk, 1 is just pk",
+        "user": "U15HY5TG8",
+        "ts": "1516981861.000088"
+    },
+    {
+        "type": "message",
+        "text": "I'm not following",
+        "user": "U15HRTAHL",
+        "ts": "1516982119.000479"
+    },
+    {
+        "type": "message",
+        "text": "In this table, of the 3 primary keys, 2 are also fk",
+        "user": "U15HY5TG8",
+        "ts": "1516982276.000669"
+    },
+    {
+        "type": "message",
+        "text": "Oh that makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1516982383.001043"
+    },
+    {
+        "type": "message",
+        "text": "It's a junction table",
+        "user": "U15HRTAHL",
+        "ts": "1516982393.000146"
+    },
+    {
+        "type": "message",
+        "text": "```\nAn associative (or junction) table maps two or more tables together by referencing the primary keys of each data table. In effect, it contains a number of foreign keys, each in a many-to-one relationship from the junction table to the individual data tables.\n```",
+        "user": "U15HRTAHL",
+        "ts": "1516982414.000138"
+    },
+    {
+        "type": "message",
+        "text": "Right but then the third is just pk",
+        "user": "U15HY5TG8",
+        "ts": "1516982416.000180"
+    },
+    {
+        "type": "message",
+        "text": "right, that makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1516982423.000574"
+    },
+    {
+        "type": "message",
+        "text": "the records need to have their own Id as well",
+        "user": "U15HRTAHL",
+        "ts": "1516982435.001024"
+    },
+    {
+        "type": "message",
+        "text": "Fair enough. I guess i just suck at choosing what the primary key thats not an fk is supposed to be",
+        "user": "U15HY5TG8",
+        "ts": "1516982489.000094"
+    },
+    {
+        "type": "message",
+        "text": "Yeah keys confuse me too, I just go with the logic of Primary key is the unique identifier for the table (usually just the Id) and any columns in the table that reference other tables Primary keys are Foreign keys",
+        "user": "U15HSHSS2",
+        "ts": "1516982658.000341"
+    },
+    {
+        "type": "message",
+        "text": "Yea idk maybe one day ill fully understand",
+        "user": "U15HY5TG8",
+        "ts": "1516982742.001028"
+    },
+    {
+        "type": "message",
+        "text": "oh man",
+        "user": "U15HRTAHL",
+        "ts": "1516984453.000138"
+    },
+    {
+        "type": "message",
+        "text": "I need help lol",
+        "user": "U15HRTAHL",
+        "ts": "1516984461.000068"
+    },
+    {
+        "type": "message",
+        "text": "```\naxios.get('<https:\/\/maps.googleapis.com\/maps\/api\/geocode\/json?address=>' + component.get('v.zip'))\n.then($A.getCallback(function(json) {\n\tconsole.log('JSON Response');\n\tconsole.log(json);\n\tvar searchRequest = {\n\t\t'miles' : component.get('v.miles'),\n\t\t'zip' : component.get('v.zip'),\n\t\t'startDate' : component.get('v.startDate'),\n\t\t'endDate' : component.get('v.endDate'),\n\t\t'lat' : json.data.results[0].geometry.location.lat,\n\t\t'lng' : json.data.results[0].geometry.location.lng,\n\t\t'consultationOrSeminar' : component.get('v.consultationOrSeminar')\n\t};\n\tsuccess = true;\n\thelper.doSearch(component, searchRequest);\n}))\n.catch($A.getCallback(function(error) {\n\tconsole.log('telemetry error');\n\tconsole.log(e);\n}));\n```",
+        "user": "U15HRTAHL",
+        "ts": "1516984480.000675"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1516984483.000590"
+    },
+    {
+        "type": "message",
+        "text": "I need that to run again if it fails",
+        "user": "U15HRTAHL",
+        "ts": "1516984490.000287"
+    },
+    {
+        "type": "message",
+        "text": "how do I put that in a loop?",
+        "user": "U15HRTAHL",
+        "ts": "1516984497.000415"
+    },
+    {
+        "type": "message",
+        "text": "there's a thing called async await but I can't use that because this is specifically an IE problem and IE doesn't use that",
+        "user": "U15HRTAHL",
+        "ts": "1516984553.000599"
+    },
+    {
+        "type": "message",
+        "text": "I feel like id try to put a timer var in it and set it to true when its being run, then the timer function will check to see if it has valid data, and then call that get function again if it doesnt",
+        "user": "U15HY5TG8",
+        "ts": "1516984769.000642"
+    },
+    {
+        "type": "message",
+        "text": "I think I got it",
+        "user": "U15HRTAHL",
+        "ts": "1516984930.000627"
+    },
+    {
+        "type": "message",
+        "text": "I'll show you when it's done",
+        "user": "U15HRTAHL",
+        "ts": "1516984937.000490"
+    },
+    {
+        "type": "message",
+        "text": "Sweeet",
+        "user": "U15HY5TG8",
+        "ts": "1516985027.000670"
+    },
+    {
+        "type": "message",
+        "text": "```\ngoogleApiCallout : function(component, helper, attempt) {\n\tif (attempt &lt; 5) {\n\t\taxios.get('<https:\/\/maps.googleapis.com\/maps\/api\/geocode\/json?address=>' + component.get('v.zip'))\n\t\t.then($A.getCallback(function(json) {\n\t\t\tconsole.log('JSON Response');\n\t\t\tconsole.log(json);\n\t\t\tvar searchRequest = {\n\t\t\t\t'miles' : component.get('v.miles'),\n\t\t\t\t'zip' : component.get('v.zip'),\n\t\t\t\t'startDate' : component.get('v.startDate'),\n\t\t\t\t'endDate' : component.get('v.endDate'),\n\t\t\t\t'lat' : json.data.results[0].geometry.location.lat,\n\t\t\t\t'lng' : json.data.results[0].geometry.location.lng,\n\t\t\t\t'consultationOrSeminar' : component.get('v.consultationOrSeminar')\n\t\t\t};\n\t\t\tsuccess = true;\n\t\t\thelper.doSearch(component, searchRequest);\n\t\t}))\n\t\t.catch($A.getCallback(function(error) {\n\t\t\tconsole.log('telemetry error');\n\t\t\tconsole.log(e);\n\t\t\thelper.googleApiCallout(component, helper, attempt + 1);\n\t\t}));\n\t}\n}\n```",
+        "user": "U15HRTAHL",
+        "ts": "1516985170.000220"
+    },
+    {
+        "type": "message",
+        "text": "a little recursion in the catch block",
+        "user": "U15HRTAHL",
+        "ts": "1516985180.000361"
+    },
+    {
+        "type": "message",
+        "text": "then I call it with ```helper.googleApiCallout(component, helper, 0);```",
+        "user": "U15HRTAHL",
+        "ts": "1516985196.000655"
+    },
+    {
+        "type": "message",
+        "text": "Ahh interesting!",
+        "user": "U15HY5TG8",
+        "ts": "1516985583.000797"
+    },
+    {
+        "type": "message",
+        "text": "oh yeah that runs smooth as butter",
+        "user": "U15HRTAHL",
+        "ts": "1516985819.000563"
+    },
+    {
+        "type": "message",
+        "text": "Lol good to hear",
+        "user": "U15HY5TG8",
+        "ts": "1516986682.000915"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> i need help",
+        "user": "U15HY5TG8",
+        "ts": "1516999249.000649"
+    },
+    {
+        "type": "message",
+        "text": "sup sup sup",
+        "user": "U15HRTAHL",
+        "ts": "1516999257.000076"
+    },
+    {
+        "type": "message",
+        "text": "how do you do regex dynamically in javascript on a text box. i want to be able to do something like this:\n```var regex = &lt;myregex&gt;;\n     tbCostObject.isValidFormat(regex);\n```",
+        "user": "U15HY5TG8",
+        "ts": "1516999338.000184"
+    },
+    {
+        "type": "message",
+        "text": "like as they type? Or after they hit submit on the form?",
+        "user": "U15HRTAHL",
+        "ts": "1516999379.000340"
+    },
+    {
+        "type": "message",
+        "text": "as they type. so for example i have tbCostObject.maxLength = 11; and the textbox already knows that the maxLength is 11 before they hit submit",
+        "user": "U15HY5TG8",
+        "ts": "1516999420.000310"
+    },
+    {
+        "type": "message",
+        "text": "so have it call a function that checks the input on the `onkeypress` event",
+        "user": "U15HRTAHL",
+        "ts": "1516999466.000092"
+    },
+    {
+        "type": "message",
+        "text": "then check the inputs value",
+        "user": "U15HRTAHL",
+        "ts": "1516999475.000517"
+    },
+    {
+        "type": "message",
+        "text": "if its 11 do the regex",
+        "user": "U15HRTAHL",
+        "ts": "1516999483.000633"
+    },
+    {
+        "type": "message",
+        "text": "but it doesnt have to be 11. so i want to be able to do something where if the user types in \"abc123\" only 123 shows up",
+        "user": "U15HY5TG8",
+        "ts": "1516999541.000777"
+    },
+    {
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1516999551.000582"
+    },
+    {
+        "type": "message",
+        "text": "same thing",
+        "user": "U15HRTAHL",
+        "ts": "1516999560.000372"
+    },
+    {
+        "type": "message",
+        "text": "onkeypress",
+        "user": "U15HRTAHL",
+        "ts": "1516999563.000281"
+    },
+    {
+        "type": "message",
+        "text": "filter out the bad characters",
+        "user": "U15HRTAHL",
+        "ts": "1516999571.000135"
+    },
+    {
+        "type": "message",
+        "text": "set the input value with the valid characters",
+        "user": "U15HRTAHL",
+        "ts": "1516999580.000238"
+    },
+    {
+        "type": "message",
+        "text": "ill give it a show. when i was looking at onkeypress before i only saw jquery",
+        "user": "U15HY5TG8",
+        "ts": "1516999695.000729"
+    },
+    {
+        "type": "message",
+        "text": "o wait...to throw a wrench in it, i cant use onkeypress in the html",
+        "user": "U15HY5TG8",
+        "ts": "1516999750.000263"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1516999757.000304"
+    },
+    {
+        "type": "message",
+        "text": "&lt;input type=\"text\" onkeypress=\"validate\" id=\"theinput\" \/&gt;",
+        "user": "U15HRTAHL",
+        "ts": "1516999792.000076"
+    },
+    {
+        "type": "message",
+        "text": "right, thats how you would do it...if this was developed right lol",
+        "user": "U15HY5TG8",
+        "ts": "1516999819.000275"
+    },
+    {
+        "type": "message",
+        "text": "but i cant because its webforms and it was developed using document.getelementbyid",
+        "user": "U15HY5TG8",
+        "ts": "1516999839.000485"
+    },
+    {
+        "type": "message",
+        "text": "function validate() {\n    \/\/your regex\n    document.getElementById('theinput').value = yourregex;\n}",
+        "user": "U15HRTAHL",
+        "ts": "1516999840.000664"
+    },
+    {
+        "type": "message",
+        "text": "oohhh",
+        "user": "U15HRTAHL",
+        "ts": "1516999856.000401"
+    },
+    {
+        "type": "message",
+        "text": "yeah idk webforms",
+        "user": "U15HRTAHL",
+        "ts": "1516999861.000410"
+    },
+    {
+        "type": "message",
+        "text": "ooo i can just use .value?",
+        "user": "U15HY5TG8",
+        "ts": "1516999866.000033"
+    },
+    {
+        "type": "message",
+        "text": "i believe so",
+        "user": "U15HRTAHL",
+        "ts": "1516999886.000644"
+    },
+    {
+        "type": "message",
+        "text": "hmmm let me try",
+        "user": "U15HY5TG8",
+        "ts": "1516999900.000378"
+    },
+    {
+        "type": "message",
+        "text": "essentially im starting out with this line",
+        "user": "U15HY5TG8",
+        "ts": "1516999921.000118"
+    },
+    {
+        "type": "message",
+        "text": "window.document.getElementById(\"thisId_9\");",
+        "user": "U15HY5TG8",
+        "ts": "1516999934.000120"
+    },
+    {
+        "type": "message",
+        "text": "so if .value works, then i might be alright",
+        "user": "U15HY5TG8",
+        "ts": "1516999949.000013"
+    },
+    {
+        "type": "message",
+        "text": "its onkeydown too not keypress",
+        "user": "U15HRTAHL",
+        "ts": "1517000010.000322"
+    },
+    {
+        "type": "message",
+        "text": "I just tested it, it should worl",
+        "user": "U15HRTAHL",
+        "ts": "1517000015.000380"
+    },
+    {
+        "type": "message",
+        "text": "nice!",
+        "user": "U15HY5TG8",
+        "ts": "1517000031.000503"
+    },
+    {
+        "type": "message",
+        "text": "and do onkeyup",
+        "user": "U15HRTAHL",
+        "ts": "1517000051.000473"
+    },
+    {
+        "type": "message",
+        "text": "Thank you sir. ill let you know if it works on these ancient lines of code",
+        "user": "U15HY5TG8",
+        "ts": "1517000056.000059"
+    },
+    {
+        "type": "message",
+        "text": "and i cant do onkeyup",
+        "user": "U15HY5TG8",
+        "ts": "1517000061.000195"
+    },
+    {
+        "type": "message",
+        "text": "onkeydown will add the key they enter to the end",
+        "user": "U15HRTAHL",
+        "ts": "1517000062.000132"
+    },
+    {
+        "type": "message",
+        "text": "onkeydown or anything like that lol",
+        "user": "U15HY5TG8",
+        "ts": "1517000069.000262"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HRTAHL",
+        "ts": "1517000074.000046"
+    },
+    {
+        "type": "message",
+        "text": "ancient",
+        "user": "U15HRTAHL",
+        "ts": "1517000075.000496"
+    },
+    {
+        "type": "message",
+        "text": "nope doesnt work lol",
+        "user": "U15HY5TG8",
+        "ts": "1517000217.000256"
+    },
+    {
+        "type": "message",
+        "text": "it just puts ```\/^[0-9]+$\/``` into the texbox lol",
+        "user": "U15HY5TG8",
+        "ts": "1517000248.000367"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1517000639.000105"
+    },
+    {
+        "type": "message",
+        "text": "There's something you have to do with regex",
+        "user": "U15HRTAHL",
+        "ts": "1517000646.000421"
+    },
+    {
+        "type": "message",
+        "text": "let me see if I can find something using it",
+        "user": "U15HRTAHL",
+        "ts": "1517000661.000014"
+    },
+    {
+        "type": "message",
+        "text": "well i had done this",
+        "user": "U15HY5TG8",
+        "ts": "1517000679.000159"
+    },
+    {
+        "type": "message",
+        "text": "var reg = new RegExp('^[0-9]+$');",
+        "user": "U15HY5TG8",
+        "ts": "1517000681.000033"
+    },
+    {
+        "type": "message",
+        "text": ".replace(\/\\+\/g, \" \");",
+        "user": "U15HRTAHL",
+        "ts": "1517000826.000674"
+    },
+    {
+        "type": "message",
+        "text": "do replace followed by your regex and \"\"",
+        "user": "U15HRTAHL",
+        "ts": "1517000851.000270"
+    },
+    {
+        "type": "message",
+        "text": "hmm let me try",
+        "user": "U15HY5TG8",
+        "ts": "1517001476.000367"
+    },
+    {
+        "type": "message",
+        "text": "lol i hate life",
+        "user": "U15HY5TG8",
+        "ts": "1517001696.000202"
+    },
+    {
+        "type": "message",
+        "text": "did that work?",
+        "user": "U15HRTAHL",
+        "ts": "1517002013.000002"
+    },
+    {
+        "type": "message",
+        "text": "i got an exception saying \"replace is not recognized\"",
+        "user": "U15HY5TG8",
+        "ts": "1517002038.000068"
+    },
+    {
+        "type": "message",
+        "text": "lolz",
+        "user": "U15HRTAHL",
+        "ts": "1517002071.000271"
+    },
+    {
+        "type": "message",
+        "text": "let me see your js",
+        "user": "U15HRTAHL",
+        "ts": "1517002076.000411"
+    },
+    {
+        "type": "message",
+        "text": "```var tb = window.document.getElementById(\"thisId\");\n          if(tb)\n          {\n              tb.replace(\/^[0-9]+$\/, \"\");\n              tb.maxLength=11;  \/\/Limit the edit control to 80 characters\n             \n              setTimeout(function(){tb.focus();},100);  \/\/after a short delay set focus to the edit control.\n          }```",
+        "user": "U15HY5TG8",
+        "ts": "1517002126.000297"
+    },
+    {
+        "type": "message",
+        "text": "shit this isnt dynamic no that i see the settimeout line",
+        "user": "U15HY5TG8",
+        "ts": "1517002155.000643"
+    },
+    {
+        "type": "message",
+        "text": "fucking A",
+        "user": "U15HY5TG8",
+        "ts": "1517002160.000275"
+    },
+    {
+        "type": "message",
+        "text": "tb is the element",
+        "user": "U15HRTAHL",
+        "ts": "1517002183.000165"
+    },
+    {
+        "type": "message",
+        "text": "you want tb.value",
+        "user": "U15HRTAHL",
+        "ts": "1517002186.000342"
+    },
+    {
+        "type": "message",
+        "text": "correct",
+        "user": "U15HY5TG8",
+        "ts": "1517002193.000088"
+    },
+    {
+        "type": "message",
+        "text": "tb.value.replace?",
+        "user": "U15HY5TG8",
+        "ts": "1517002197.000232"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1517002199.000231"
+    },
+    {
+        "type": "message",
+        "text": "ok ill give it a shot",
+        "user": "U15HY5TG8",
+        "ts": "1517002204.000554"
+    },
+    {
+        "type": "message",
+        "text": "tb.maxLength=11;",
+        "user": "U15HRTAHL",
+        "ts": "1517002218.000265"
+    },
+    {
+        "type": "message",
+        "text": "^ that wont work",
+        "user": "U15HRTAHL",
+        "ts": "1517002221.000327"
+    },
+    {
+        "type": "message",
+        "text": "tb.setProperty('maxLength', 11)",
+        "user": "U15HRTAHL",
+        "ts": "1517002240.000135"
+    },
+    {
+        "type": "message",
+        "text": "or something like that",
+        "user": "U15HRTAHL",
+        "ts": "1517002243.000642"
+    },
+    {
+        "type": "message",
+        "text": "google how to set attributes",
+        "user": "U15HRTAHL",
+        "ts": "1517002251.000097",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1517002258.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "It does work though...",
+        "user": "U15HY5TG8",
+        "ts": "1517002399.000436"
+    },
+    {
+        "type": "message",
+        "text": "fascinating",
+        "user": "U15HRTAHL",
+        "ts": "1517002636.000416"
+    },
+    {
+        "type": "message",
+        "text": "thats good",
+        "user": "U15HRTAHL",
+        "ts": "1517002645.000173"
+    },
+    {
+        "type": "message",
+        "text": "nahh it didnt work lol",
+        "user": "U15HY5TG8",
+        "ts": "1517006447.000447"
+    }
+]

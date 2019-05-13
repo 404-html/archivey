@@ -1,0 +1,80 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F4UEKSZT8",
+                "created": 1491246299,
+                "timestamp": 1491246299,
+                "name": "Image uploaded from iOS.jpg",
+                "title": "Image uploaded from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 64131,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F4UEKSZT8\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F4UEKSZT8\/download\/image_uploaded_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F4UEKSZT8-e272e098bc\/image_uploaded_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F4UEKSZT8-e272e098bc\/image_uploaded_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F4UEKSZT8-e272e098bc\/image_uploaded_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F4UEKSZT8-e272e098bc\/image_uploaded_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F4UEKSZT8-e272e098bc\/image_uploaded_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 375,
+                "original_h": 667,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F4UEKSZT8\/image_uploaded_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F4UEKSZT8-d1a342a7b6",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "04672858-8A55-4039-8CB0-9671EE7B73A7",
+        "ts": "1491246301.633965"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> ",
+        "user": "U15HZ01QX",
+        "ts": "1491277502.174070"
+    },
+    {
+        "type": "message",
+        "text": "I'm all in <http:\/\/www.lg.com\/us\/discover\/instaview-door-in-door>",
+        "user": "U15HZ01QX",
+        "ts": "1491277507.174527",
+        "attachments": [
+            {
+                "title": "LG InstaView Door-In-Door: Premium Style &amp; Design | LG USA",
+                "title_link": "http:\/\/www.lg.com\/us\/discover\/instaview-door-in-door",
+                "text": "With elegantly illuminated tinted-glass and a warm, satin-smooth finish, discover how LG’s InstaView™ Door-in-Door® refrigerators enhance any kitchen.",
+                "fallback": "LG InstaView Door-In-Door: Premium Style &amp; Design | LG USA",
+                "from_url": "http:\/\/www.lg.com\/us\/discover\/instaview-door-in-door",
+                "service_icon": "http:\/\/www.lg.com\/lg4-common\/favicons\/152x152.png",
+                "service_name": "lg.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Neat!",
+        "user": "U15J5H60P",
+        "ts": "1491277877.205981"
+    }
+]

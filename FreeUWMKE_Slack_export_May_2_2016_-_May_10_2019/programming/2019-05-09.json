@@ -1,0 +1,23 @@
+[
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1557426580.000200",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/cheezburger-banana-humpday-146ceOVA2soqqc",
+                "image_url": "https:\/\/media1.giphy.com\/media\/146ceOVA2soqqc\/giphy.gif?cid=6104955e5cd47192414b2e6459ab866b&rid=giphy.gif",
+                "image_width": 194,
+                "image_height": 240,
+                "image_bytes": 802512,
+                "is_animated": true,
+                "title": "handy",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/cheezburger\/|Cheezburger>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/cheezburger-banana-humpday-146ceOVA2soqqc"
+            }
+        ]
+    }
+]

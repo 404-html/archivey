@@ -1,0 +1,63 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505499615.000359",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN>",
+        "user": "U15J5H60P",
+        "ts": "1505499618.000337"
+    },
+    {
+        "user": "U72Q808MN",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505499620.000607",
+        "text": "<@U72Q808MN> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "<!channel> --",
+        "user": "U15J5H60P",
+        "ts": "1505499632.000294"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505499762.000422",
+        "text": "<@U15HZ01QX> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1505499772.000362",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505499790.000406",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "^Dicktator",
+        "user": "U15J5H60P",
+        "ts": "1505499798.000743"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1505499819.000171",
+        "text": "<@U15HZ01QX> has left the channel"
+    }
+]

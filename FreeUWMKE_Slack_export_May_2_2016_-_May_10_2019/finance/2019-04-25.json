@@ -1,0 +1,220 @@
+[
+    {
+        "client_msg_id": "7a1fc297-f62f-40c5-affa-e72f5b3c5831",
+        "type": "message",
+        "text": "so I think I own a stock that gives 8% back on dividends annually",
+        "user": "U15HRTAHL",
+        "ts": "1556201660.000400"
+    },
+    {
+        "client_msg_id": "785183d8-4062-4064-9141-4f3e110108de",
+        "type": "message",
+        "text": "that seems too good to be true",
+        "user": "U15HRTAHL",
+        "ts": "1556201666.000700"
+    },
+    {
+        "client_msg_id": "E23DEED2-13CF-41A7-8676-A033A1D1B786",
+        "type": "message",
+        "text": "8% of what?",
+        "user": "U15HZ01QX",
+        "ts": "1556201682.001000"
+    },
+    {
+        "client_msg_id": "D2A09F05-D980-4633-AE03-811C19288172",
+        "type": "message",
+        "text": "Their EPS?",
+        "user": "U15HZ01QX",
+        "ts": "1556201701.001300"
+    },
+    {
+        "client_msg_id": "cc7ef5d3-71be-4f6b-b805-0e339dd528a0",
+        "type": "message",
+        "text": "their stock price",
+        "user": "U15HRTAHL",
+        "ts": "1556201983.001500"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15HRTAHL> fetched a quote with: `\/quote`",
+        "ts": "1556202069.001600",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BX - The Blackstone Group L.P",
+                "title": "BX - The Blackstone Group L.P",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BX&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BX|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BX|Finviz> | <http:\/\/stocktwits.com\/symbol\/BX|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1556202065,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "39.66",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.27 (-0.68%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "857,332",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "3,380,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.0\/5 (1 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "42.00 (+5.90%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15950",
+                        "style": ""
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15950",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15950",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15950",
+                        "style": "primary"
+                    }
+                ]
+            },
+            {
+                "fallback": "Stats",
+                "id": 2,
+                "color": "00465a",
+                "fields": [
+                    {
+                        "title": "52-Week Low",
+                        "value": "26.88",
+                        "short": true
+                    },
+                    {
+                        "title": "52-Week High",
+                        "value": "40.60",
+                        "short": true
+                    },
+                    {
+                        "title": "EPS",
+                        "value": "2.25",
+                        "short": true
+                    },
+                    {
+                        "title": "Market Cap",
+                        "value": "44.46B",
+                        "short": true
+                    },
+                    {
+                        "title": "P\/E Ratio",
+                        "value": "17.79",
+                        "short": true
+                    },
+                    {
+                        "title": "PEG Ratio",
+                        "value": "5.23",
+                        "short": true
+                    },
+                    {
+                        "title": "P\/S Ratio",
+                        "value": "6.51",
+                        "short": true
+                    },
+                    {
+                        "title": "P\/B Ratio",
+                        "value": "4.23",
+                        "short": true
+                    },
+                    {
+                        "title": "P\/FCF Ratio",
+                        "value": "N\/A",
+                        "short": true
+                    },
+                    {
+                        "title": "Short Ratio",
+                        "value": "8.66",
+                        "short": true
+                    },
+                    {
+                        "title": "Beta",
+                        "value": "1.4100",
+                        "short": true
+                    },
+                    {
+                        "title": "Dividend",
+                        "value": "2.32 (5.81%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Shares Out",
+                        "value": "1.11B",
+                        "short": true
+                    },
+                    {
+                        "title": "Shares Float",
+                        "value": "1.11B",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6478c8f9-e813-4661-871a-ffe363e7fe0f",
+        "type": "message",
+        "text": "5.81%",
+        "user": "U15HRTAHL",
+        "ts": "1556202084.001900"
+    },
+    {
+        "client_msg_id": "4430cd4e-6316-4694-919e-0d0fc2a711d0",
+        "type": "message",
+        "text": "robinhood had 8.1% listed",
+        "user": "U15HRTAHL",
+        "ts": "1556202091.002200"
+    },
+    {
+        "client_msg_id": "d5ebf335-bd38-4531-ac7f-29981a7f09b0",
+        "type": "message",
+        "text": "but that still damn good",
+        "user": "U15HRTAHL",
+        "ts": "1556202095.002400"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "text": "angular select options are just ridiculous",
+        "user": "U15HRTAHL",
+        "ts": "1504890341.000662"
+    },
+    {
+        "type": "message",
+        "text": "```ng-options=\"type as type.correspondenceTypeName__c for type in correspondenceTypes track by type.correspondenceTypeId__c\"```",
+        "user": "U15HRTAHL",
+        "ts": "1504890352.000043"
+    },
+    {
+        "type": "message",
+        "text": "thats how you populate a drop down....",
+        "user": "U15HRTAHL",
+        "ts": "1504890360.000386"
+    },
+    {
+        "type": "message",
+        "text": "Niiiiice",
+        "user": "U15HY5TG8",
+        "ts": "1504893672.000373"
+    },
+    {
+        "type": "message",
+        "text": "Thats inline with the html?",
+        "user": "U15HY5TG8",
+        "ts": "1504893689.000192"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1504894168.000287"
+    },
+    {
+        "type": "message",
+        "text": "its gross",
+        "user": "U15HRTAHL",
+        "ts": "1504894170.000092"
+    },
+    {
+        "type": "message",
+        "text": "Lol yea that is",
+        "user": "U15HY5TG8",
+        "ts": "1504894708.000047"
+    }
+]

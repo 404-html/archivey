@@ -1,0 +1,159 @@
+[
+    {
+        "type": "message",
+        "text": "whats up",
+        "user": "U15HRTAHL",
+        "ts": "1465996740.000002"
+    },
+    {
+        "type": "message",
+        "text": "Im drowning in angular mixed with c#, sql, and html lol",
+        "user": "U15HY5TG8",
+        "ts": "1465997290.000003"
+    },
+    {
+        "type": "message",
+        "text": "easy",
+        "user": "U15HRTAHL",
+        "ts": "1465997316.000004"
+    },
+    {
+        "type": "message",
+        "text": "what are you trying to accomplish",
+        "user": "U15HRTAHL",
+        "ts": "1465997325.000005"
+    },
+    {
+        "type": "message",
+        "text": "Angular is pretty easy. You have html pages, and each page has an angular controller. Just find the angular controller and add some javascript. If you need to use a variable in the html page then declare $scope variables",
+        "user": "U15HRTAHL",
+        "ts": "1465997392.000006"
+    },
+    {
+        "type": "message",
+        "text": "so\n`$scope.userName = ‘Evan’;`\n\nthen\n\n`&lt;h1&gt;userName&lt;\/h1&gt;`",
+        "user": "U15HRTAHL",
+        "ts": "1465997424.000007"
+    },
+    {
+        "type": "message",
+        "text": "If you need to pass variables to multiple constructors then you need to create a service",
+        "user": "U15HRTAHL",
+        "ts": "1465997477.000008"
+    },
+    {
+        "type": "message",
+        "text": "Its more complex than that haha its not something you can really help with over slack",
+        "user": "U15HY5TG8",
+        "ts": "1465997494.000009"
+    },
+    {
+        "type": "message",
+        "text": "I understand the basics of angular but im staring at masterlocks entire project",
+        "user": "U15HY5TG8",
+        "ts": "1465997528.000010"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1465997538.000011"
+    },
+    {
+        "type": "message",
+        "text": "They just tossed me into the middle of the ocean lol",
+        "user": "U15HY5TG8",
+        "ts": "1465997566.000012"
+    },
+    {
+        "type": "message",
+        "text": "Yeah its  pretty decent way to learn but can be very overwhelming",
+        "user": "U15HRTAHL",
+        "ts": "1465997598.000013"
+    },
+    {
+        "type": "message",
+        "text": "you just need to use your google fu",
+        "user": "U15HRTAHL",
+        "ts": "1465997606.000014"
+    },
+    {
+        "type": "message",
+        "text": "Yes very lol and google fu?",
+        "user": "U15HY5TG8",
+        "ts": "1465997654.000015"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy google fu",
+        "user": "U15HRTAHL",
+        "ts": "1465997709.000016",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/coding-web-development-adventures-in-babysitting-SNwi4euvfUYdq>",
+                "image_url": "https:\/\/media4.giphy.com\/media\/SNwi4euvfUYdq\/giphy.gif",
+                "image_width": 200,
+                "image_height": 133,
+                "image_bytes": 918115,
+                "is_animated": true,
+                "title": "google fu",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/coding-web-development-adventures-in-babysitting-SNwi4euvfUYdq"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "And i cant use f12 in visual studio :rage::rage::rage: im gonna go crazy",
+        "user": "U15HY5TG8",
+        "ts": "1465997816.000017"
+    },
+    {
+        "type": "message",
+        "text": "i think its f5",
+        "user": "U15HRTAHL",
+        "ts": "1465997826.000018"
+    },
+    {
+        "type": "message",
+        "text": "Nooope",
+        "user": "U15HY5TG8",
+        "ts": "1465997845.000019"
+    },
+    {
+        "type": "message",
+        "text": "did they disable it?",
+        "user": "U15HRTAHL",
+        "ts": "1465997851.000020"
+    },
+    {
+        "type": "message",
+        "text": "cause you definitely can",
+        "user": "U15HRTAHL",
+        "ts": "1465997858.000021"
+    },
+    {
+        "type": "message",
+        "text": "I checked my keyboard shortcuts and f12 maps to definition but it wont work",
+        "user": "U15HY5TG8",
+        "ts": "1465997880.000022"
+    },
+    {
+        "type": "message",
+        "text": "Ahh cool but i need f12 right now lol",
+        "user": "U15HY5TG8",
+        "ts": "1465997947.000024"
+    },
+    {
+        "type": "message",
+        "text": "what does f12 do",
+        "user": "U15HRTAHL",
+        "ts": "1465997956.000025"
+    },
+    {
+        "type": "message",
+        "text": "Goes to definition",
+        "user": "U15HY5TG8",
+        "ts": "1465997968.000026"
+    }
+]

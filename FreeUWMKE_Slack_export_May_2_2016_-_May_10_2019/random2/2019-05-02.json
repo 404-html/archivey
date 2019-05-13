@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "edc50de3-76dd-4752-be49-fc9efc126014",
+        "type": "message",
+        "text": "<https:\/\/www.cnn.com\/2019\/05\/02\/health\/st-lucia-measles-cruise-ship-quarantine\/index.html>",
+        "user": "U15HRTAHL",
+        "ts": "1556819569.000200",
+        "attachments": [
+            {
+                "service_name": "CNN",
+                "title": "St. Lucia quarantines cruise ship reportedly owned by Church of Scientology over measles concerns",
+                "title_link": "https:\/\/www.cnn.com\/2019\/05\/02\/health\/st-lucia-measles-cruise-ship-quarantine\/index.html",
+                "text": "Health officials in St. Lucia have ordered a cruise ship reportedly owned by the Church of Scientology to stay in port after they learned through \"reputable sources\" that someone on board has the measles.",
+                "fallback": "CNN: St. Lucia quarantines cruise ship reportedly owned by Church of Scientology over measles concerns",
+                "image_url": "https:\/\/cdn.cnn.com\/cnnnext\/dam\/assets\/190502115122-church-of-scientology-cruise-ship-freewinds-super-tease.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/www.cnn.com\/2019\/05\/02\/health\/st-lucia-measles-cruise-ship-quarantine\/index.html",
+                "image_bytes": 134636,
+                "service_icon": "https:\/\/www.cnn.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnn.com\/2019\/05\/02\/health\/st-lucia-measles-cruise-ship-quarantine\/index.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3996fa9a-c439-41a7-ad0d-5610e9067a76",
+        "type": "message",
+        "text": "&gt;A cruise ship is quarantined in Saint Lucia over concerns of a measles epidemic after it is reported that one of the passengers has the disease. The cruise ship is reportedly owned by the Church of Scientology, a religious organization that opposes vaccinations against diseases such as measles.",
+        "user": "U15HRTAHL",
+        "ts": "1556819579.000600"
+    },
+    {
+        "client_msg_id": "fa9b6232-cd3f-49f0-8b70-c4ed04945a69",
+        "type": "message",
+        "text": "Very good",
+        "user": "U15J5H60P",
+        "ts": "1556819580.000800"
+    },
+    {
+        "client_msg_id": "2DD4C0CA-870B-47FE-A237-CD6FC2ACD721",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1556823029.001000"
+    }
+]

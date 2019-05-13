@@ -1,0 +1,37 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1536287616.000200",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "bacd54b4-079c-43b0-855e-fe628f7a9c59",
+        "type": "message",
+        "text": "This was one of my first “programs”",
+        "user": "U15J5H60P",
+        "ts": "1536287714.000200"
+    },
+    {
+        "client_msg_id": "4dc27a1f-a584-455a-9b80-c5c35bd4c2ab",
+        "type": "message",
+        "text": "Tricked my buddy into crying",
+        "user": "U15J5H60P",
+        "ts": "1536287777.000100"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1536288866.000200",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1536288914.000200",
+        "text": "<@U15HRTAHL> has joined the channel"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus MU",
+        "user": "U15J5H60P",
+        "ts": "1545146598.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               34.74                0.86                2.538 \n       Avg.                 ---                 ---               2.538% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1545146598.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 37932,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a6e9a5b-c297-4341-87b0-0655326dea15",
+        "type": "message",
+        "text": "Alright MU",
+        "user": "U15J5H60P",
+        "ts": "1545146604.000600"
+    },
+    {
+        "client_msg_id": "222c3e7d-c1b7-4991-a0e9-5513a4173d5d",
+        "type": "message",
+        "text": "To the moon, please.",
+        "user": "U15J5H60P",
+        "ts": "1545146608.000900"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1557150375.000100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "DOW - Dow Inc.",
+                "title": "DOW - Dow Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=DOW&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=DOW|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=DOW|Finviz> | <http:\/\/stocktwits.com\/symbol\/DOW|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1557150363,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "52.66",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.64 (-1.20%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "488,897",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,170,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.7\/5 (16 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "62.50 (+18.68%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "16706",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "16706",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "16706",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "16706",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=DOW&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 15462,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=DOW",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1557150386.000200",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=AAPL&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=AAPL|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=AAPL|Finviz> | <http:\/\/stocktwits.com\/symbol\/AAPL|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1557150363,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "207.50",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-4.24 (-2.01%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "7,292,850",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "27,220,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.8\/5 (45 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "214.09 (+3.18%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31382,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=AAPL",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcb55926-ae30-46b3-bc43-776e4383ad06",
+        "type": "message",
+        "text": "Trump out here ruining my stocks",
+        "user": "U15HRTAHL",
+        "ts": "1557164995.000600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1557165336.000700",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=aapl&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=aapl|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=aapl|Finviz> | <http:\/\/stocktwits.com\/symbol\/aapl|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1557165332,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "207.69",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-4.06 (-1.92%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "23,378,438",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "27,220,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.8\/5 (45 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "214.09 (+3.08%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=aapl&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32375,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=aapl",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1557165343.000900",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "ITOT - iShares Core S&amp;P Total U.S. Stock Market ETF",
+                "title": "ITOT - iShares Core S&amp;P Total U.S. Stock Market ETF",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=itot&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=itot|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=itot|Finviz> | <http:\/\/stocktwits.com\/symbol\/itot|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1557165338,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "66.55",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.50 (-0.76%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "933,223",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "2,000,000",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "18272",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "18272",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "18272",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "18272",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=itot&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 28286,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=itot",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "574e5744-4a8d-49f0-a618-168ed2574232",
+        "type": "message",
+        "text": "UN",
+        "user": "U15J5H60P",
+        "ts": "1557165344.001000"
+    },
+    {
+        "client_msg_id": "bd1f3a68-a108-46e8-956c-ba0ca3cbee3b",
+        "type": "message",
+        "text": "B",
+        "user": "U15J5H60P",
+        "ts": "1557165345.001200"
+    },
+    {
+        "client_msg_id": "46a93775-ab7f-4638-8326-8564da04ead9",
+        "type": "message",
+        "text": "Lieb",
+        "user": "U15J5H60P",
+        "ts": "1557165350.001500"
+    },
+    {
+        "client_msg_id": "2de6608a-79c0-4e2b-bc47-cebc1120a09c",
+        "type": "message",
+        "text": "A",
+        "user": "U15J5H60P",
+        "ts": "1557165351.001700"
+    },
+    {
+        "client_msg_id": "98f31d17-1375-4b4e-b292-a6721d8cb748",
+        "type": "message",
+        "text": "Ble",
+        "user": "U15J5H60P",
+        "ts": "1557165351.001900"
+    }
+]

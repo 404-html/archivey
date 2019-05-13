@@ -1,0 +1,488 @@
+[
+    {
+        "type": "message",
+        "text": "There so much shit out there that I have no idea about",
+        "user": "U15HRTAHL",
+        "ts": "1499359128.650403"
+    },
+    {
+        "type": "message",
+        "text": "like I just learned about the `fetch()` method in javascript",
+        "user": "U15HRTAHL",
+        "ts": "1499359146.660651"
+    },
+    {
+        "type": "message",
+        "text": "which makes me question so much",
+        "user": "U15HRTAHL",
+        "ts": "1499359161.668963"
+    },
+    {
+        "type": "message",
+        "text": "Imagine how i feel",
+        "user": "U15HY5TG8",
+        "ts": "1499359164.670250"
+    },
+    {
+        "type": "message",
+        "text": "like why are there ajax cliens",
+        "user": "U15HRTAHL",
+        "ts": "1499359171.674709"
+    },
+    {
+        "type": "message",
+        "text": "you can do something like `fetch(<https:\/\/url.ass\/coolThings>)` and you'll get a JSON response?",
+        "user": "U15J5H60P",
+        "ts": "1499360345.340730",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1499360363.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1499360435.395460"
+    },
+    {
+        "type": "message",
+        "text": "here",
+        "user": "U15HRTAHL",
+        "ts": "1499360438.397074"
+    },
+    {
+        "type": "message",
+        "text": "```\nvar x = fetch('<https:\/\/www.reddit.com\/r\/tankporn.json>'); \n\nx.then(function (response) {\n\tresponse.text().then(function(text){\n\t\tconsole.log(text);\n\t});\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1499360456.407515"
+    },
+    {
+        "type": "message",
+        "text": "paste that in the browser console",
+        "user": "U15HRTAHL",
+        "ts": "1499360463.412191"
+    },
+    {
+        "type": "message",
+        "text": "you can switch response.text to response.json",
+        "user": "U15HRTAHL",
+        "ts": "1499360530.451490"
+    },
+    {
+        "type": "message",
+        "text": "which will be a json object",
+        "user": "U15HRTAHL",
+        "ts": "1499360535.455162"
+    },
+    {
+        "type": "message",
+        "text": "Got a 403 forbidden error",
+        "user": "U15J5H60P",
+        "ts": "1499360549.463026"
+    },
+    {
+        "type": "message",
+        "text": "hmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1499360553.465451"
+    },
+    {
+        "type": "message",
+        "text": "But regardless",
+        "user": "U15J5H60P",
+        "ts": "1499360592.488285"
+    },
+    {
+        "type": "message",
+        "text": "That was a risky run of the day",
+        "user": "U15J5H60P",
+        "ts": "1499360593.488519"
+    },
+    {
+        "type": "message",
+        "text": "I think it's because NM blocks reddit",
+        "user": "U15J5H60P",
+        "ts": "1499360603.494587"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1499360609.497663"
+    },
+    {
+        "type": "message",
+        "text": "probably",
+        "user": "U15HRTAHL",
+        "ts": "1499360610.498618"
+    },
+    {
+        "type": "message",
+        "text": "but still, i never knew about fetch",
+        "user": "U15HRTAHL",
+        "ts": "1499360628.508115"
+    },
+    {
+        "type": "message",
+        "text": "I always used XmlHttpRequest or used a framework",
+        "user": "U15HRTAHL",
+        "ts": "1499360647.519280"
+    },
+    {
+        "type": "message",
+        "text": "just tried at home, and it works. pretty cool",
+        "user": "U15HY5TG8",
+        "ts": "1499360776.591720"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> can you listen to music at work",
+        "user": "U15HRTAHL",
+        "ts": "1499360839.627746"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1499360858.638317"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> so do you use fetch() and substitute the reddit URL that you used for whatever your ReST point is?",
+        "user": "U15HY5TG8",
+        "ts": "1499361040.737979"
+    },
+    {
+        "type": "message",
+        "text": "yeah, or you can use it for local files in your project as well",
+        "user": "U15HRTAHL",
+        "ts": "1499361060.749789"
+    },
+    {
+        "type": "message",
+        "text": "like if you want an image",
+        "user": "U15HRTAHL",
+        "ts": "1499361066.752552"
+    },
+    {
+        "type": "message",
+        "text": "just do this",
+        "user": "U15HRTAHL",
+        "ts": "1499361071.755579"
+    },
+    {
+        "type": "message",
+        "text": "```\nvar x = fetch('path\/to\/your\/image.jpg'); \n\nx.then(function (response) {\n    response.blob().then(function(blob){\n        console.log(blob);\n    });\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1499361104.774042"
+    },
+    {
+        "type": "message",
+        "text": "and that will paste a base64 value of your image",
+        "user": "U15HRTAHL",
+        "ts": "1499361116.781115"
+    },
+    {
+        "type": "message",
+        "text": "ahhh cool cool",
+        "user": "U15HY5TG8",
+        "ts": "1499361126.786928"
+    },
+    {
+        "type": "message",
+        "text": "i have to look at what the .then does. I already forgot from class",
+        "user": "U15HY5TG8",
+        "ts": "1499361144.797590"
+    },
+    {
+        "type": "message",
+        "text": "im sure its just telling it what to do once receiving a response but still",
+        "user": "U15HY5TG8",
+        "ts": "1499361167.809895"
+    },
+    {
+        "type": "message",
+        "text": ".then is an async function that runs when the promise is resolved",
+        "user": "U15HRTAHL",
+        "ts": "1499361169.811253"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1499361173.813610"
+    },
+    {
+        "type": "message",
+        "text": "alright cool. just looks weird because its immediately followed by a function i guess ha",
+        "user": "U15HY5TG8",
+        "ts": "1499361215.836918"
+    },
+    {
+        "type": "message",
+        "text": "that function lets you handle the data",
+        "user": "U15HRTAHL",
+        "ts": "1499361239.850228"
+    },
+    {
+        "type": "message",
+        "text": "right but then youve got another .then inside of that",
+        "user": "U15HY5TG8",
+        "ts": "1499361255.858951"
+    },
+    {
+        "type": "message",
+        "text": "yeah fetch is async and so is the response formatting function",
+        "user": "U15HRTAHL",
+        "ts": "1499361280.873080"
+    },
+    {
+        "type": "message",
+        "text": "ahhh ok",
+        "user": "U15HY5TG8",
+        "ts": "1499361292.879774"
+    },
+    {
+        "type": "message",
+        "text": "so fetch and blob\/text\/json run in the background. the function in .then is ran after the async call finishes",
+        "user": "U15HRTAHL",
+        "ts": "1499361324.897516"
+    },
+    {
+        "type": "message",
+        "text": "so like when you did response.json above, it does the same thing and then the \".then\" after that allows you to manipulate it if you wish",
+        "user": "U15HY5TG8",
+        "ts": "1499361337.904722"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1499361345.909065"
+    },
+    {
+        "type": "message",
+        "text": ".then just means you're waiting for a promise(async function) to resolve",
+        "user": "U15HRTAHL",
+        "ts": "1499361363.919249"
+    },
+    {
+        "type": "message",
+        "text": "ok that makes sense",
+        "user": "U15HY5TG8",
+        "ts": "1499361371.923680"
+    },
+    {
+        "type": "message",
+        "text": "is blob actually something or is that just a random word you used lol",
+        "user": "U15HY5TG8",
+        "ts": "1499361389.934142"
+    },
+    {
+        "type": "message",
+        "text": "blob is something real",
+        "user": "U15HRTAHL",
+        "ts": "1499361405.942525"
+    },
+    {
+        "type": "message",
+        "text": "thats what files are",
+        "user": "U15HRTAHL",
+        "ts": "1499361408.944389"
+    },
+    {
+        "type": "message",
+        "text": "gotcha. someone should be slapped for that",
+        "user": "U15HY5TG8",
+        "ts": "1499361419.950710"
+    },
+    {
+        "type": "message",
+        "text": "it stands for something",
+        "user": "U15HRTAHL",
+        "ts": "1499361428.955558"
+    },
+    {
+        "type": "message",
+        "text": "binary large object something",
+        "user": "U15HRTAHL",
+        "ts": "1499361434.958516"
+    },
+    {
+        "type": "message",
+        "text": "body",
+        "user": "U15HY5TG8",
+        "ts": "1499361458.972265"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HY5TG8",
+        "ts": "1499361465.976051"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/searchsqlserver.techtarget.com\/definition\/BLOB>",
+        "user": "U15HRTAHL",
+        "ts": "1499361484.986272",
+        "attachments": [
+            {
+                "service_name": "SearchSQLServer",
+                "title": "What is BLOB (binary large object)? - Definition from WhatIs.com",
+                "title_link": "http:\/\/searchsqlserver.techtarget.com\/definition\/BLOB",
+                "text": "1) In computers, a BLOB (binary large object), pronounced BLAHB and sometimes spelled in all lower case, is a large file, typically an image or sound fi...",
+                "fallback": "SearchSQLServer: What is BLOB (binary large object)? - Definition from WhatIs.com",
+                "image_url": "http:\/\/cdn.ttgtmedia.com\/ITKE\/images\/logos\/TTlogo-379x201.png",
+                "from_url": "http:\/\/searchsqlserver.techtarget.com\/definition\/BLOB",
+                "image_width": 379,
+                "image_height": 201,
+                "image_bytes": 18052,
+                "service_icon": "http:\/\/searchsqlserver.techtarget.com\/apple-touch-icon-144x144.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ok that makes sense",
+        "user": "U15HY5TG8",
+        "ts": "1499361641.073563"
+    },
+    {
+        "type": "message",
+        "text": "so that might be used if you were to say, upload a pdf file or something like that",
+        "user": "U15HY5TG8",
+        "ts": "1499361664.086855"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1499361793.158330"
+    },
+    {
+        "type": "message",
+        "text": "nice nice",
+        "user": "U15HY5TG8",
+        "ts": "1499361874.203323"
+    },
+    {
+        "type": "message",
+        "text": "how big is your biggest js file in one of your projects. meaning line numbers",
+        "user": "U15HY5TG8",
+        "ts": "1499365196.095584"
+    },
+    {
+        "type": "message",
+        "text": "let me see",
+        "user": "U15HRTAHL",
+        "ts": "1499365240.120233"
+    },
+    {
+        "type": "message",
+        "text": "im not even sure how to go about finding that",
+        "user": "U15HRTAHL",
+        "ts": "1499365357.186560"
+    },
+    {
+        "type": "message",
+        "text": "We have some that are like 3000+ lines",
+        "user": "U15HSHSS2",
+        "ts": "1499365383.201407"
+    },
+    {
+        "type": "message",
+        "text": "i was looking at the developers code for the web app theyre developing",
+        "user": "U15HY5TG8",
+        "ts": "1499365397.208794"
+    },
+    {
+        "type": "message",
+        "text": "they used to be bigger, but we broke the big ones up a bit",
+        "user": "U15HSHSS2",
+        "ts": "1499365401.211006"
+    },
+    {
+        "type": "message",
+        "text": "Thats pretty big. For this web app, i think they jammed everything into one file and its almost at 9000 lines",
+        "user": "U15HY5TG8",
+        "ts": "1499365441.233041"
+    },
+    {
+        "type": "message",
+        "text": "damn",
+        "user": "U15HSHSS2",
+        "ts": "1499365457.242448"
+    },
+    {
+        "type": "message",
+        "text": "thats what im saying lol",
+        "user": "U15HY5TG8",
+        "ts": "1499365488.260451"
+    },
+    {
+        "type": "message",
+        "text": "the vast majority of ours are probably around 200 - 500 lines",
+        "user": "U15HSHSS2",
+        "ts": "1499365492.262533"
+    },
+    {
+        "type": "message",
+        "text": "yea thats what i thought was normal",
+        "user": "U15HY5TG8",
+        "ts": "1499365511.272837"
+    },
+    {
+        "type": "message",
+        "text": "like this dev has app factories, directives, etc all inside this file",
+        "user": "U15HY5TG8",
+        "ts": "1499365547.294094"
+    },
+    {
+        "type": "message",
+        "text": "2,316 lines",
+        "user": "U15HRTAHL",
+        "ts": "1499365688.375415"
+    },
+    {
+        "type": "message",
+        "text": "most of ours are around 200 - 400 lines",
+        "user": "U15HRTAHL",
+        "ts": "1499365698.381371"
+    },
+    {
+        "type": "message",
+        "text": "Wow haha",
+        "user": "U15HY5TG8",
+        "ts": "1499365726.398001"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/imgur.com\/EovWtrx>",
+        "user": "U15HRTAHL",
+        "ts": "1499368396.879505",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "11 hours? That's cute",
+                "title_link": "https:\/\/imgur.com\/EovWtrx",
+                "text": "Imgur: The most awesome images on the Internet.",
+                "fallback": "Imgur: 11 hours? That's cute",
+                "image_url": "http:\/\/i.imgur.com\/EovWtrx.jpg",
+                "image_width": 167,
+                "image_height": 250,
+                "from_url": "https:\/\/imgur.com\/EovWtrx",
+                "image_bytes": 73161,
+                "service_icon": "http:\/\/s.imgur.com\/images\/favicon-152.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1499369982.699539"
+    }
+]

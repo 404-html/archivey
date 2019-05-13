@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "text": "how the hell do you alter a table to have a smallmoney type and nullable?",
+        "user": "U15HY5TG8",
+        "ts": "1516652949.000106"
+    },
+    {
+        "type": "message",
+        "text": "i have Alter Table blahblah Add columnName smallmoney, null; i tried (smallmoney, null), smallmoney(null), etc",
+        "user": "U15HY5TG8",
+        "ts": "1516652994.000386"
+    },
+    {
+        "type": "message",
+        "text": "is it giving you an error?",
+        "user": "U15HSHSS2",
+        "ts": "1516653105.000416"
+    },
+    {
+        "type": "message",
+        "text": "ALTER TABLE &lt;YourTable&gt; \nADD columnName smallmoney NULL",
+        "user": "U15HSHSS2",
+        "ts": "1516653177.000557",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1516653211.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "That doesn't work?",
+        "user": "U15HSHSS2",
+        "ts": "1516653223.000101"
+    },
+    {
+        "type": "message",
+        "text": "Fucking commas lol thanks",
+        "user": "U15HY5TG8",
+        "ts": "1516653226.000569"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1516653230.000498"
+    },
+    {
+        "type": "message",
+        "text": "i thought i treid that but i guess not",
+        "user": "U15HY5TG8",
+        "ts": "1516653243.000218"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "9ddcc50d-0fab-44d5-b0e8-58565271dab3",
+        "type": "message",
+        "text": "<https:\/\/en.m.wikipedia.org\/wiki\/Payment_for_order_flow>",
+        "user": "U15HRTAHL",
+        "ts": "1553447245.000200",
+        "attachments": [
+            {
+                "title": "Payment for order flow",
+                "title_link": "https:\/\/en.m.wikipedia.org\/wiki\/Payment_for_order_flow",
+                "from_url": "https:\/\/en.m.wikipedia.org\/wiki\/Payment_for_order_flow",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "In financial markets payment for order flow refers to the compensation that a broker receives, not from its client, but from a third party that wants to influence how the broker routes client <http:\/\/orders.In|orders.In> general, market makers such as dealers and securities exchanges are willing to pay a broker for the right to transact with that broker's clients because they believe those clients will be uninformed traders—retail or other investors who are trading because of emotion or the need to raise cash and not because they know an asset is <http:\/\/misvalued.By|misvalued.By> purchasing what it expects to be uninformed order flow, a market-maker can buy at the bid and sell at the ask with less risk of trading at a loss than with an informed trader who knows that the market is mispricing the security. Thus, market-makers who pay for order flow can capture the spread while reducing the risk that the spread is too narrow to adequately compensate them for the risk of loss.",
+                "fallback": "wikipedia: Payment for order flow",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.m.wikipedia.org\/wiki\/Payment_for_order_flow"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64c3c245-42b2-4606-a3c4-654826174776",
+        "type": "message",
+        "text": "Idk what this all means ",
+        "user": "U15HRTAHL",
+        "ts": "1553447249.000600"
+    },
+    {
+        "client_msg_id": "22207136-e6b2-4a00-a823-d97a0dd36ff9",
+        "type": "message",
+        "text": "But that's how Robinhood makes money ",
+        "user": "U15HRTAHL",
+        "ts": "1553447255.000800"
+    }
+]

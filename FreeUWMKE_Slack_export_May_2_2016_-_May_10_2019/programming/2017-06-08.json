@@ -1,0 +1,264 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Yk-S8GKNKxM&amp;feature=em-subs_digest>",
+        "user": "U15HRTAHL",
+        "ts": "1496945746.592313",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How to Make Video Games",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Yk-S8GKNKxM&amp;feature=em-subs_digest",
+                "author_name": "Derek Banas",
+                "author_link": "https:\/\/www.youtube.com\/user\/derekbanas",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Yk-S8GKNKxM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How to Make Video Games",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Yk-S8GKNKxM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Yk-S8GKNKxM&amp;feature=em-subs_digest",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Unity tutorial",
+        "user": "U15HRTAHL",
+        "ts": "1496945752.594476"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> you might like that",
+        "user": "U15HRTAHL",
+        "ts": "1496945761.597619"
+    },
+    {
+        "type": "message",
+        "text": "Can you run Unity on Mac?",
+        "user": "U15J5H60P",
+        "ts": "1496945796.610625"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HRTAHL",
+        "ts": "1496945799.611813"
+    },
+    {
+        "type": "message",
+        "text": "Neat. Too bad my Mac only has a 128GB HDD. F'n BS",
+        "user": "U15J5H60P",
+        "ts": "1496945819.619110"
+    },
+    {
+        "type": "message",
+        "text": "My next computer is definitely going to be a build.",
+        "user": "U15J5H60P",
+        "ts": "1496945832.623861"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/gp\/registry\/wishlist\/1LJO2TZ4M5NLE\/ref=nav_wishlist_lists_3>",
+        "user": "U15J5H60P",
+        "ts": "1496945879.641375"
+    },
+    {
+        "type": "message",
+        "text": "RGB to the max",
+        "user": "U15J5H60P",
+        "ts": "1496945909.652592"
+    },
+    {
+        "type": "message",
+        "text": "250 GB hard drive",
+        "user": "U15HRTAHL",
+        "ts": "1496946108.728400"
+    },
+    {
+        "type": "message",
+        "text": "Whoa slow down there dude",
+        "user": "U15HRTAHL",
+        "ts": "1496946114.730573"
+    },
+    {
+        "type": "message",
+        "text": "what are you planning? Storing the worlds information?",
+        "user": "U15HRTAHL",
+        "ts": "1496946126.735305"
+    },
+    {
+        "type": "message",
+        "text": "That's just the SSD",
+        "user": "U15J5H60P",
+        "ts": "1496946176.754297"
+    },
+    {
+        "type": "message",
+        "text": "AHhhh",
+        "user": "U15HRTAHL",
+        "ts": "1496946181.756304"
+    },
+    {
+        "type": "message",
+        "text": "you have a 4tb one",
+        "user": "U15HRTAHL",
+        "ts": "1496946186.758323"
+    },
+    {
+        "type": "message",
+        "text": "Then I have 4 4TBHarddrives",
+        "user": "U15J5H60P",
+        "ts": "1496946188.759090",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1496946198.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "hmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1496946199.763136"
+    },
+    {
+        "type": "message",
+        "text": "I need to store all of my... Linux ISOs...",
+        "user": "U15J5H60P",
+        "ts": "1496946216.769710"
+    },
+    {
+        "type": "message",
+        "text": "When you download something do you have a choice on which drive it's saved to?",
+        "user": "U15HRTAHL",
+        "ts": "1496946217.770348"
+    },
+    {
+        "type": "message",
+        "text": "Depends how you set it up. You can have the option to use different RAID set ups. Some let you use all 4 of the drives as a single drive, you can have a 2x2 where you have 2 'active drives' and two 'mirrored' drives. Etc.",
+        "user": "U15J5H60P",
+        "ts": "1496946290.797320"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/RAID>",
+        "user": "U15J5H60P",
+        "ts": "1496946308.804845",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3d\/SATA_6_Gbit-s_controller%2C_in_form_of_a_PCI_Express_card.jpg",
+                "image_width": 1280,
+                "image_height": 960,
+                "image_bytes": 509896,
+                "title": "RAID",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/RAID",
+                "author_name": "Wikipedia",
+                "author_link": "http:\/\/en.wikipedia.org\/",
+                "text": "RAID (redundant array of independent disks) is a data storage virtualization technology that combines multiple physical disk drive components into a single logical unit for the purposes of data redundancy, performance improvement, or both.\nData is distributed across the drives in one of several ways, referred to as RAID levels, depending on the required level of redundancy and performance. The different schemes, or data distribution layouts, are named by the word RAID followed by a number, for example RAID 0 or RAID 1. Each schema, or RAID level, provides a different balance among the key goals: reliability, availability, performance, and capacity. RAID levels greater than RAID 0 provide protection against unrecoverable sector read errors, as well as against failures of whole physical drives.",
+                "fallback": "wikipedia: RAID",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Not sure what my strategy is going to be yet...",
+        "user": "U15J5H60P",
+        "ts": "1496946334.815156"
+    },
+    {
+        "type": "message",
+        "text": "In my synology NAS I have both my hard drives set up as one big one",
+        "user": "U15HSHSS2",
+        "ts": "1496946360.824991"
+    },
+    {
+        "type": "message",
+        "text": "I think that's what I would like to do. Maybe have 3 as a single drive, then one redundant storage drive for backing up \"important\" documents.",
+        "user": "U15J5H60P",
+        "ts": "1496946428.850761"
+    },
+    {
+        "type": "message",
+        "text": "And I'm sure I'll get a backblaze account to have off storage backup for some of it.",
+        "user": "U15J5H60P",
+        "ts": "1496946444.856691"
+    },
+    {
+        "type": "message",
+        "text": "Damn and i thought i was a lazy programmer",
+        "user": "U15HY5TG8",
+        "ts": "1496955191.015774"
+    },
+    {
+        "type": "message",
+        "text": "Alllmost just did a \"let me google that for you\" to a team member",
+        "user": "U15HY5TG8",
+        "ts": "1496955227.028124"
+    },
+    {
+        "type": "message",
+        "text": "should of",
+        "user": "U15HRTAHL",
+        "ts": "1496955283.047652"
+    },
+    {
+        "type": "message",
+        "text": "I've done it",
+        "user": "U15HRTAHL",
+        "ts": "1496955286.048764"
+    },
+    {
+        "type": "message",
+        "text": "I will next time ha",
+        "user": "U15HY5TG8",
+        "ts": "1496955352.072600"
+    },
+    {
+        "type": "message",
+        "text": "Should have. Gotta teach them how to learn",
+        "user": "U15J5H60P",
+        "ts": "1496962393.894901"
+    },
+    {
+        "type": "message",
+        "text": "Then after that you should've shit on his chest",
+        "user": "U15J5H60P",
+        "ts": "1496962412.898765"
+    },
+    {
+        "type": "message",
+        "text": "That tells him who's boss",
+        "user": "U15J5H60P",
+        "ts": "1496962418.899892"
+    },
+    {
+        "type": "message",
+        "text": "....",
+        "user": "U15HY5TG8",
+        "ts": "1496962440.904085"
+    },
+    {
+        "type": "message",
+        "text": "You keep your fetishes between you and your gf",
+        "user": "U15HY5TG8",
+        "ts": "1496962463.908658"
+    },
+    {
+        "type": "message",
+        "text": "It's not a fetish. It's an assertion of dominance.",
+        "user": "U15J5H60P",
+        "ts": "1496962488.913439"
+    },
+    {
+        "type": "message",
+        "text": "Uh huh",
+        "user": "U15HY5TG8",
+        "ts": "1496962498.915215"
+    }
+]

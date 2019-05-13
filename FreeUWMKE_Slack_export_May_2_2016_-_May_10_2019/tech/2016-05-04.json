@@ -1,0 +1,384 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: Still enjoying your Hue bulbs? What have you set up with them?",
+        "user": "U15J5H60P",
+        "ts": "1462367706.000003"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I like them",
+        "user": "U15HZ01QX",
+        "ts": "1462369076.000004"
+    },
+    {
+        "type": "message",
+        "text": "What do you have them set up to do? Anything interesting?",
+        "user": "U15J5H60P",
+        "ts": "1462369114.000005"
+    },
+    {
+        "type": "message",
+        "text": "Nothing",
+        "user": "U15HZ01QX",
+        "ts": "1462369191.000006"
+    },
+    {
+        "type": "message",
+        "text": "Hmm. Okay.",
+        "user": "U15J5H60P",
+        "ts": "1462369463.000007"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.digitaltrends.com\/web\/google-domain-payment\/?utm_source=k1&amp;utm_medium=cpc&amp;utm_campaign=cpc_test&amp;kwp_0=134301&amp;kwp_4=604841&amp;kwp_1=314384>",
+        "user": "U15HY5TG8",
+        "ts": "1462392523.000008",
+        "attachments": [
+            {
+                "service_name": "Digital Trends",
+                "title": "Guess how much Google paid the guy who briefly owned google.com",
+                "title_link": "http:\/\/www.digitaltrends.com\/web\/google-domain-payment\/?utm_source=k1&utm_medium=cpc&utm_campaign=cpc_test&kwp_0=134301&kwp_4=604841&kwp_1=314384",
+                "text": "Google has just revealed how much it paid the guy who last September momentarily owned the <http:\/\/google.com|google.com> domain. The cash payment was a reward for highlighting a bug in its system, and the Mountain View company set the amount \"in a very Googley way.\"",
+                "fallback": "Digital Trends: Guess how much Google paid the guy who briefly owned google.com",
+                "thumb_url": "http:\/\/icdn3.digitaltrends.com\/image\/google-office-3-1200x630-c.jpg",
+                "ts": 1454034654,
+                "from_url": "http:\/\/www.digitaltrends.com\/web\/google-domain-payment\/?utm_source=k1&utm_medium=cpc&utm_campaign=cpc_test&kwp_0=134301&kwp_4=604841&kwp_1=314384",
+                "thumb_width": 1000,
+                "thumb_height": 630,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "6006.16",
+        "user": "U15HRTAHL",
+        "ts": "1462392680.000010"
+    },
+    {
+        "type": "message",
+        "text": "3",
+        "user": "U15HY5TG8",
+        "ts": "1462392689.000011"
+    },
+    {
+        "type": "message",
+        "text": "9009.16",
+        "user": "U15HRTAHL",
+        "ts": "1462392689.000012"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HY5TG8",
+        "ts": "1462392713.000013"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "action",
+        "user": "U15HZ01QX",
+        "ts": "1462392755.000014"
+    },
+    {
+        "type": "message",
+        "text": "*bold*",
+        "user": "U15HZ01QX",
+        "ts": "1462392770.000015"
+    },
+    {
+        "type": "message",
+        "text": "1234.56",
+        "user": "U15J5H60P",
+        "ts": "1462392774.000016"
+    },
+    {
+        "type": "message",
+        "text": "6006.13",
+        "user": "U15J5H60P",
+        "ts": "1462392802.000017"
+    },
+    {
+        "type": "message",
+        "text": "2",
+        "user": "U15HZ01QX",
+        "ts": "1462392804.000018"
+    },
+    {
+        "type": "message",
+        "text": "8",
+        "user": "U15HZ01QX",
+        "ts": "1462392805.000019"
+    },
+    {
+        "type": "message",
+        "text": "1",
+        "user": "U15HZ01QX",
+        "ts": "1462392806.000020"
+    },
+    {
+        "type": "message",
+        "text": "330",
+        "user": "U15HZ01QX",
+        "ts": "1462392809.000021"
+    },
+    {
+        "type": "message",
+        "text": "6,006.13",
+        "user": "U15HRTAHL",
+        "ts": "1462392809.000022"
+    },
+    {
+        "type": "message",
+        "text": "stahp",
+        "user": "U15HY5TG8",
+        "ts": "1462392811.000023"
+    },
+    {
+        "type": "message",
+        "text": "8004?",
+        "user": "U15HZ01QX",
+        "ts": "1462392812.000024"
+    },
+    {
+        "type": "message",
+        "text": "MIKE JONES",
+        "user": "U15HZ01QX",
+        "ts": "1462392817.000025"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HY5TG8",
+        "ts": "1462392835.000026"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.google.com\/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjls8roncHMAhULNj4KHf-qCLQQFggpMAI&amp;url=http%3A%2F%2Fwww.urbandictionary.com%2Fdefine.php%3Fterm%3D2813308004&amp;usg=AFQjCNGQuq6nQcgLEW0G84yf_QMiwtyVxg&amp;sig2=IzmysMPbKJJWirpvcBFPlQ&amp;bvm=bv.121099550,d.cWw>",
+        "user": "U15HZ01QX",
+        "ts": "1462392841.000027"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.google.com\/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjls8roncHMAhULNj4KHf-qCLQQtwIIHDAA&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSd0S0LwhEDU&amp;usg=AFQjCNGWbR6bOZ9qxDOHEP37Sx_V_hkYxg&amp;sig2=YhLMHG8IMpdWB1kj9HAO9g&amp;bvm=bv.121099550,d.cWw>",
+        "user": "U15HZ01QX",
+        "ts": "1462392855.000028"
+    },
+    {
+        "type": "message",
+        "text": "whos mike jones?",
+        "user": "U15HY5TG8",
+        "ts": "1462392863.000029"
+    },
+    {
+        "type": "message",
+        "text": "who?",
+        "user": "U15HRTAHL",
+        "ts": "1462392863.000030"
+    },
+    {
+        "type": "message",
+        "text": "Never heard of her.",
+        "user": "U15J5H60P",
+        "ts": "1462392876.000031"
+    },
+    {
+        "type": "message",
+        "text": "WHO?",
+        "user": "U15HZ01QX",
+        "ts": "1462392887.000032"
+    },
+    {
+        "type": "message",
+        "text": "MIKE JONES",
+        "user": "U15HZ01QX",
+        "ts": "1462392890.000033"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1462392892.000034"
+    },
+    {
+        "type": "message",
+        "text": "That was the name of my highschool Choir teacher",
+        "user": "U15J5H60P",
+        "ts": "1462392912.000035"
+    },
+    {
+        "type": "message",
+        "text": "who",
+        "user": "U15HY5TG8",
+        "ts": "1462392918.000036"
+    },
+    {
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HZ01QX",
+        "ts": "1462392925.000037"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/-Kcs7P59Wpo>",
+        "user": "U15HSHSS2",
+        "ts": "1462392935.000038",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Mike Jones- Mr Jones (Dirty)",
+                "title_link": "https:\/\/youtu.be\/-Kcs7P59Wpo",
+                "author_name": "Nick Navarre",
+                "author_link": "https:\/\/www.youtube.com\/user\/pk4life2day",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/-Kcs7P59Wpo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Mike Jones- Mr Jones (Dirty)",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/-Kcs7P59Wpo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/youtu.be\/-Kcs7P59Wpo",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "you did choir?",
+        "user": "U15HY5TG8",
+        "ts": "1462392939.000040"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1462392943.000041"
+    },
+    {
+        "type": "message",
+        "text": "sureeeeee",
+        "user": "U15HY5TG8",
+        "ts": "1462392947.000042"
+    },
+    {
+        "type": "message",
+        "text": "It was THE choir teacher at my hs.",
+        "user": "U15J5H60P",
+        "ts": "1462392955.000043"
+    },
+    {
+        "type": "message",
+        "text": "I WAS GONNA JUST KICK ANDREW RIGHT THERE CUZ IT WOULD OF BEEN HILARIOUS BUT I WOULDA GOT BANNED AND THE CHANNEL WOULD OF FELL RIGHT BACK INTO CHAOS",
+        "user": "U15HZ01QX",
+        "ts": "1462392963.000044"
+    },
+    {
+        "type": "message",
+        "text": "that you knew on a personal level",
+        "user": "U15HY5TG8",
+        "ts": "1462392967.000045"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1462392971.000046"
+    },
+    {
+        "type": "message",
+        "text": "I knew all of the music teachers well",
+        "user": "U15J5H60P",
+        "ts": "1462392979.000047"
+    },
+    {
+        "type": "message",
+        "text": "a real personal level",
+        "user": "U15HY5TG8",
+        "ts": "1462392980.000048"
+    },
+    {
+        "type": "message",
+        "text": "REAL",
+        "user": "U15HY5TG8",
+        "ts": "1462392986.000049"
+    },
+    {
+        "type": "message",
+        "text": "Well...",
+        "user": "U15J5H60P",
+        "ts": "1462392990.000050",
+        "reactions": [
+            {
+                "name": "pride",
+                "users": [
+                    "U15HZ01QX",
+                    "U15HY5TG8",
+                    "U15HRTAHL"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lulz",
+        "user": "U15HY5TG8",
+        "ts": "1462392995.000051"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/andrew.ricks15?fref=ts>",
+        "user": "U15HRTAHL",
+        "ts": "1462393110.000052"
+    },
+    {
+        "type": "message",
+        "text": "ha",
+        "user": "U15J5H60P",
+        "ts": "1462393118.000053"
+    },
+    {
+        "type": "message",
+        "text": "ctrl+cmd+space brings up the emoji menu",
+        "user": "U15J5H60P",
+        "ts": "1462411126.000054"
+    },
+    {
+        "type": "message",
+        "text": "What about on a phone",
+        "user": "U15HY5TG8",
+        "ts": "1462411564.000055"
+    },
+    {
+        "type": "message",
+        "text": "Anyone familiar with multithreading in java?",
+        "user": "U15HRTAHL",
+        "ts": "1462413425.000056"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: can you send me the os hw?",
+        "user": "U15HY5TG8",
+        "ts": "1462413637.000057"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1462413795.000058"
+    },
+    {
+        "type": "message",
+        "text": "now are you familiar with java multithreading",
+        "user": "U15HRTAHL",
+        "ts": "1462413808.000059"
+    },
+    {
+        "type": "message",
+        "text": "Thanks and no",
+        "user": "U15HY5TG8",
+        "ts": "1462414378.000060"
+    }
+]

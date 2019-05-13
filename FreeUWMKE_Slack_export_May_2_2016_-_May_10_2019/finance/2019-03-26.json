@@ -1,0 +1,364 @@
+[
+    {
+        "client_msg_id": "40a9f39e-b002-457e-aba2-da92132dc83d",
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/show\/5RllMBgvDnTau8nnsCUdse?si=Li_Kg5vfQ9y5RjR14eCPkw>",
+        "user": "U15HRTAHL",
+        "ts": "1553615892.000200",
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/www.spotify.com",
+                "title": "Snacks Daily",
+                "title_link": "https:\/\/open.spotify.com\/show\/5RllMBgvDnTau8nnsCUdse?si=Li_Kg5vfQ9y5RjR14eCPkw",
+                "thumb_url": "https:\/\/i.scdn.co\/image\/fe3b1cbce90755182e47066cbcc0405afa65376e",
+                "thumb_width": 640,
+                "thumb_height": 636,
+                "fallback": "Spotify Audio: Snacks Daily",
+                "audio_html": "<iframe width=\"100%\" height=\"232\" allowtransparency=\"true\" frameborder=\"0\" allow=\"encrypted-media\" title=\"Spotify Embed: Snacks Daily\" src=\"https:\/\/open.spotify.com\/embed-podcast\/show\/5RllMBgvDnTau8nnsCUdse?si=Li_Kg5vfQ9y5RjR14eCPkw\"><\/iframe>",
+                "audio_html_width": 600,
+                "audio_html_height": 232,
+                "from_url": "https:\/\/open.spotify.com\/show\/5RllMBgvDnTau8nnsCUdse?si=Li_Kg5vfQ9y5RjR14eCPkw",
+                "service_icon": "https:\/\/a.slack-edge.com\/cdbf3\/img\/unfurl_icons\/spotify.png",
+                "id": 1,
+                "original_url": "https:\/\/open.spotify.com\/show\/5RllMBgvDnTau8nnsCUdse?si=Li_Kg5vfQ9y5RjR14eCPkw"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "CNBC posts stuff like this monthly just to troll people I swear ",
+        "files": [
+            {
+                "id": "FHC3FNT54",
+                "created": 1553621965,
+                "timestamp": 1553621965,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 135350,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHC3FNT54\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHC3FNT54\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 287,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 383,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 574,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 638,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 766,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 817,
+                "image_exif_rotation": 1,
+                "original_w": 1122,
+                "original_h": 895,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FHC3FNT54\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHC3FNT54-3e3bf40f39",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1553621970.000400"
+    },
+    {
+        "client_msg_id": "3b8f04f1-e50d-4329-9321-8ad49ba7e098",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1553621990.000800"
+    },
+    {
+        "client_msg_id": "b282fe39-6b1e-4698-a539-76aeae5f8bd1",
+        "type": "message",
+        "text": "Does spotify have stock?",
+        "user": "U15J5H60P",
+        "ts": "1553622070.001000"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1553622094.001100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "SPOT - Spotify Technology S.A.",
+                "title": "SPOT - Spotify Technology S.A.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=SPOT&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=SPOT|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=SPOT|Finviz> | <http:\/\/stocktwits.com\/symbol\/SPOT|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1553621972,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "137.61",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-4.49 (-3.16%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "945,755",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "1,730,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.8\/5 (26 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "186.94 (+35.85%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "2125506706",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "2125506706",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "2125506706",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "2125506706",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=SPOT&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 34403,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=SPOT",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "003ede57-22a3-4670-b0d5-8810bad6d982",
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1553622099.001300"
+    },
+    {
+        "client_msg_id": "cfcbdb0b-c9f0-42aa-b87f-9fa34aa481fa",
+        "type": "message",
+        "text": "<https:\/\/www.marketwatch.com\/story\/lets-stop-bashing-billionaires-they-are-making-our-lives-better-2019-03-19?mod=mw_quote_news>",
+        "user": "U15J5H60P",
+        "ts": "1553622188.001500",
+        "attachments": [
+            {
+                "service_name": "MarketWatch",
+                "title": "Let’s stop bashing billionaires — they are making our lives better",
+                "title_link": "https:\/\/www.marketwatch.com\/story\/lets-stop-bashing-billionaires-they-are-making-our-lives-better-2019-03-19?mod=mw_quote_news",
+                "text": "Billionaires aren’t Piketty’s ‘rentiers’ — America’s wealthy demonstrate entrepreneurial innovation.",
+                "fallback": "MarketWatch: Let’s stop bashing billionaires — they are making our lives better",
+                "image_url": "http:\/\/s.marketwatch.com\/public\/resources\/MWimages\/MW-HF904_billio_ZG_20190318164343.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/www.marketwatch.com\/story\/lets-stop-bashing-billionaires-they-are-making-our-lives-better-2019-03-19?mod=mw_quote_news",
+                "image_bytes": 253967,
+                "service_icon": "https:\/\/www.marketwatch.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.marketwatch.com\/story\/lets-stop-bashing-billionaires-they-are-making-our-lives-better-2019-03-19?mod=mw_quote_news"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4e413318-ba25-4b65-b344-27f0fe4c40a1",
+        "type": "message",
+        "text": "STOP BEING POOR STUPID POOR PEOPLE",
+        "user": "U15J5H60P",
+        "ts": "1553622195.001900"
+    },
+    {
+        "client_msg_id": "6741430a-eae0-4dc8-af1f-d6f7de148e82",
+        "type": "message",
+        "text": "&gt; Unlike Scrooge McDuck, the wealthy donate large amounts to charitable endeavors. The top 1% of earners makes one-third of the nation’s charitable donations, while the top 1.4% of wealth owners provides 86% of all charitable donations made at death. Many of the wealthy are actively engaged in social and educational pursuits aimed at lifting up the less fortunate.",
+        "user": "U15J5H60P",
+        "ts": "1553622236.002200"
+    },
+    {
+        "client_msg_id": "ed0a0ff7-dca3-4a70-a649-9d9896388835",
+        "type": "message",
+        "text": "hold my beer\n<https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1553621970000400>",
+        "user": "U15HRTAHL",
+        "ts": "1553622245.002500",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1553621970000400",
+                "fallback": "[March 26th, 2019 10:39 AM] james: CNBC posts stuff like this monthly just to troll people I swear ",
+                "ts": "1553621970.000400",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C6R3H2A7L",
+                "channel_name": "finance",
+                "is_msg_unfurl": true,
+                "text": "CNBC posts stuff like this monthly just to troll people I swear ",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2019-01-14\/523533626180_a21f1ee4c24bb58e60f5_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "files": [
+                    {
+                        "id": "FHC3FNT54",
+                        "created": 1553621965,
+                        "timestamp": 1553621965,
+                        "name": "File.jpg",
+                        "title": "File from iOS",
+                        "mimetype": "image\/jpeg",
+                        "filetype": "jpg",
+                        "pretty_type": "JPEG",
+                        "user": "U15HZ01QX",
+                        "editable": false,
+                        "size": 135350,
+                        "mode": "hosted",
+                        "is_external": false,
+                        "external_type": "",
+                        "is_public": true,
+                        "public_url_shared": false,
+                        "display_as_bot": false,
+                        "username": "",
+                        "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHC3FNT54\/file.jpg",
+                        "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHC3FNT54\/download\/file.jpg",
+                        "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_64.jpg",
+                        "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_80.jpg",
+                        "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_360.jpg",
+                        "thumb_360_w": 360,
+                        "thumb_360_h": 287,
+                        "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_480.jpg",
+                        "thumb_480_w": 480,
+                        "thumb_480_h": 383,
+                        "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_160.jpg",
+                        "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_720.jpg",
+                        "thumb_720_w": 720,
+                        "thumb_720_h": 574,
+                        "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_800.jpg",
+                        "thumb_800_w": 800,
+                        "thumb_800_h": 638,
+                        "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_960.jpg",
+                        "thumb_960_w": 960,
+                        "thumb_960_h": 766,
+                        "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHC3FNT54-d9375b550c\/file_1024.jpg",
+                        "thumb_1024_w": 1024,
+                        "thumb_1024_h": 817,
+                        "image_exif_rotation": 1,
+                        "original_w": 1122,
+                        "original_h": 895,
+                        "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FHC3FNT54\/file.jpg",
+                        "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHC3FNT54-3e3bf40f39",
+                        "has_rich_preview": false
+                    }
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1553621970000400",
+                "footer": "Posted in #finance"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "beb4428d-87a3-403b-8dbe-618880b3913b",
+        "type": "message",
+        "text": "&gt; Sanders, Warren, and Piketty in his book “Capital in the Twenty-First Century” propose hiking taxes on the wealthy. But that would steal opportunities the wealthy are creating for other people through their investments and philanthropy.",
+        "user": "U15J5H60P",
+        "ts": "1553622248.002900"
+    },
+    {
+        "client_msg_id": "7d56424e-57e1-4e18-ba7c-ee34f6a5f5e3",
+        "type": "message",
+        "text": "&gt;But that would steal opportunities the wealthy are creating for other people through their investments and philanthropy.",
+        "user": "U15J5H60P",
+        "ts": "1553622264.003100"
+    },
+    {
+        "client_msg_id": "593ab159-2289-4a49-8277-a55dbb865d2b",
+        "type": "message",
+        "text": "&gt; opportunities the wealthy are creating",
+        "user": "U15J5H60P",
+        "ts": "1553622271.003300"
+    },
+    {
+        "client_msg_id": "4e44c735-b2b9-4b6b-9743-89fdb2b85d5f",
+        "type": "message",
+        "text": "That article made my blood boil",
+        "user": "U15J5H60P",
+        "ts": "1553622293.003700"
+    },
+    {
+        "client_msg_id": "f4f23666-611c-4f93-b171-e399c25cc16e",
+        "type": "message",
+        "text": "you can prevent this feeling from happening to your kids by not having any",
+        "user": "U15HRTAHL",
+        "ts": "1553622378.004400"
+    },
+    {
+        "client_msg_id": "afa45fde-c878-4672-911f-5617426ce0a4",
+        "type": "message",
+        "text": "Thanks for the feedback",
+        "user": "U15J5H60P",
+        "ts": "1553622408.004600"
+    }
+]

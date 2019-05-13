@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>:",
+        "user": "U15HRTAHL",
+        "ts": "1469112134.000002"
+    },
+    {
+        "type": "message",
+        "text": "Hi",
+        "user": "U15HY5TG8",
+        "ts": "1469112167.000003"
+    },
+    {
+        "type": "message",
+        "text": "looking for a new car?",
+        "user": "U15HRTAHL",
+        "ts": "1469112206.000004"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/milwaukee.craigslist.org\/cto\/5692856829.html>",
+        "user": "U15HRTAHL",
+        "ts": "1469112208.000005"
+    },
+    {
+        "type": "message",
+        "text": "Why would i be looking for that lol",
+        "user": "U15HY5TG8",
+        "ts": "1469112260.000006"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/wsvn\/status\/755896679476244480>",
+        "user": "U15HZ01QX",
+        "ts": "1469142516.000002",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/wsvn|@wsvn>: New video shows moments before <https:\/\/twitter.com\/NorthMiamiPD|@NorthMiamiPD> shot unarmed man with hands in air: <http:\/\/wsvn.com\/news\/local\/video-shows-moments-before-north-miami-police-shot-unarmed-man\/> <https:\/\/twitter.com\/BrianEntin|@BrianEntin> <http:\/\/snpy.tv\/2aa7ZHY>",
+                "ts": 1469054786,
+                "author_name": "WSVN 7 News",
+                "author_link": "https:\/\/twitter.com\/wsvn\/status\/755896679476244480",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/629323138011123712\/vWW4QIUC_normal.jpg",
+                "author_subname": "@wsvn",
+                "text": "New video shows moments before <https:\/\/twitter.com\/NorthMiamiPD|@NorthMiamiPD> shot unarmed man with hands in air: <http:\/\/wsvn.com\/news\/local\/video-shows-moments-before-north-miami-police-shot-unarmed-man\/> <https:\/\/twitter.com\/BrianEntin|@BrianEntin> <http:\/\/snpy.tv\/2aa7ZHY>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/wsvn\/status\/755896679476244480",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

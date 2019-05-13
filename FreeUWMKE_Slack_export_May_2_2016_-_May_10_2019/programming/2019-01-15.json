@@ -1,0 +1,117 @@
+[
+    {
+        "client_msg_id": "54d38f7f-de09-4c23-83a0-8495bf7af316",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1547609331.029900",
+        "thread_ts": "1547130482.001000",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "a576c129-6e0c-439e-ba6e-aaab1ecf7d41",
+        "type": "message",
+        "text": "What is sasquatch",
+        "user": "U15J5H60P",
+        "ts": "1547609333.030100",
+        "thread_ts": "1547130482.001000",
+        "parent_user_id": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "1711bf93-a28f-4bc6-8cc5-1932575fc7ce",
+        "type": "message",
+        "text": "I have 0 idea how to setup secuirty correctly to hook up my lambda to rds",
+        "user": "U15J5H60P",
+        "ts": "1547609664.030700"
+    },
+    {
+        "client_msg_id": "1422f5f5-8fb7-4317-980d-8f51759272a1",
+        "type": "message",
+        "text": "All of the docs are out of date",
+        "user": "U15J5H60P",
+        "ts": "1547609687.030900"
+    },
+    {
+        "client_msg_id": "38606a73-c896-4698-9f7e-159355414111",
+        "type": "message",
+        "text": "How do I check the error logs?",
+        "user": "U15J5H60P",
+        "ts": "1547609696.031100"
+    },
+    {
+        "client_msg_id": "1C217592-2756-4DB7-AD07-EB6FBCBF375C",
+        "type": "message",
+        "text": "Security is the fucking worst",
+        "user": "U15HY5TG8",
+        "ts": "1547609708.031400"
+    },
+    {
+        "client_msg_id": "2e2ee654-b9bf-4a26-ab09-3add30d5eb59",
+        "type": "message",
+        "text": "For real",
+        "user": "U15J5H60P",
+        "ts": "1547609712.031600"
+    },
+    {
+        "client_msg_id": "bb2ca920-145e-4392-b335-46ea64986fc9",
+        "type": "message",
+        "text": "Setup a new I am policy ",
+        "user": "U15HRTAHL",
+        "ts": "1547610234.032000"
+    },
+    {
+        "client_msg_id": "835d0d8f-62bc-4b43-a17b-212164e7eb26",
+        "type": "message",
+        "text": "Let me show you some docs",
+        "user": "U15HRTAHL",
+        "ts": "1547610243.032400"
+    },
+    {
+        "client_msg_id": "72daa67f-de9e-4ff0-b03a-deeb39860307",
+        "type": "message",
+        "text": "<https:\/\/docs.aws.amazon.com\/lambda\/latest\/dg\/vpc-rds.html>",
+        "user": "U15HRTAHL",
+        "ts": "1547610265.032600",
+        "attachments": [
+            {
+                "title": "Tutorial: Configuring a Lambda Function to Access Amazon RDS in an Amazon VPC - AWS Lambda",
+                "title_link": "https:\/\/docs.aws.amazon.com\/lambda\/latest\/dg\/vpc-rds.html",
+                "text": "In this tutorial, you do the following:",
+                "fallback": "Tutorial: Configuring a Lambda Function to Access Amazon RDS in an Amazon VPC - AWS Lambda",
+                "from_url": "https:\/\/docs.aws.amazon.com\/lambda\/latest\/dg\/vpc-rds.html",
+                "service_icon": "https:\/\/docs.aws.amazon.com\/images\/favicon.ico",
+                "service_name": "docs.aws.amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/docs.aws.amazon.com\/lambda\/latest\/dg\/vpc-rds.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "35327fb9-9f09-4dd6-b00a-42ceabbff05a",
+        "type": "message",
+        "text": "Use that for all your lambdas ",
+        "user": "U15HRTAHL",
+        "ts": "1547610275.033100"
+    },
+    {
+        "client_msg_id": "9aa25fa0-132d-4032-a1fc-e7eb6bda88d2",
+        "type": "message",
+        "text": "Awesome. thank you",
+        "user": "U15J5H60P",
+        "ts": "1547610946.033300"
+    },
+    {
+        "client_msg_id": "b9426f94-6eb2-499f-b918-ca5e4918b1d4",
+        "type": "message",
+        "text": "Everything is in the same VPC",
+        "user": "U15J5H60P",
+        "ts": "1547614265.033600"
+    },
+    {
+        "client_msg_id": "d2774d1c-f5fd-404b-98a1-e2c0ea32e40f",
+        "type": "message",
+        "text": "I quit",
+        "user": "U15J5H60P",
+        "ts": "1547614455.033800"
+    }
+]

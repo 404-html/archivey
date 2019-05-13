@@ -1,0 +1,25 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.apple.com\/environment\/resources\/?_lrsc=ecadf568-2702-4d28-b63f-58b61c8b8308>",
+        "user": "U15HRTAHL",
+        "ts": "1524519060.000350",
+        "attachments": [
+            {
+                "service_name": "Apple",
+                "title": "Environment - Resources",
+                "title_link": "https:\/\/www.apple.com\/environment\/resources\/?_lrsc=ecadf568-2702-4d28-b63f-58b61c8b8308",
+                "text": "Our goal is to use only recycled or renewable materials. And we work to make sure waste is reused, recycled, composted, or converted into energy.",
+                "fallback": "Apple: Environment - Resources",
+                "image_url": "https:\/\/www.apple.com\/v\/environment\/h\/images\/shared\/og_image.png?201804191038",
+                "from_url": "https:\/\/www.apple.com\/environment\/resources\/?_lrsc=ecadf568-2702-4d28-b63f-58b61c8b8308",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 9062,
+                "service_icon": "https:\/\/www.apple.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.apple.com\/environment\/resources\/?_lrsc=ecadf568-2702-4d28-b63f-58b61c8b8308"
+            }
+        ]
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "text": "My solution for Euler problem 60 has been running for like 25 mins, still no results lol",
+        "user": "U15HSHSS2",
+        "ts": "1512676518.000464"
+    },
+    {
+        "type": "message",
+        "text": "Cheng would be disappointed",
+        "user": "U15HSHSS2",
+        "ts": "1512676542.000064"
+    },
+    {
+        "type": "message",
+        "text": "whats the problem",
+        "user": "U15HRTAHL",
+        "ts": "1512677087.000220"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/projecteuler.net\/problem=60>",
+        "user": "U15HSHSS2",
+        "ts": "1512678519.000368",
+        "attachments": [
+            {
+                "title": "Problem 60 - Project Euler",
+                "title_link": "https:\/\/projecteuler.net\/problem=60",
+                "text": "A website dedicated to the fascinating world of mathematics and programming",
+                "fallback": "Problem 60 - Project Euler",
+                "from_url": "https:\/\/projecteuler.net\/problem=60",
+                "service_icon": "https:\/\/projecteuler.net\/favicon.ico",
+                "service_name": "projecteuler.net",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yeah I can see that being dificult",
+        "user": "U15HRTAHL",
+        "ts": "1512678672.000520",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1512678675.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "there's no formula for finding prime numbers",
+        "user": "U15HRTAHL",
+        "ts": "1512678682.000581"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, I'm using as efficient algorithm as I could find for getting primes, but then I have to get a shit ton of different combinations of 5 primes, then I need to check all of the combinations of 2 for each combination of 5, concatenate them forwards, check if its prime, then backwards, check if its prime.",
+        "user": "U15HSHSS2",
+        "ts": "1512678891.000047"
+    },
+    {
+        "type": "message",
+        "text": "I was able to get the right answer for the example they give for the lowest sum of 4 primes, but im struggling with 5",
+        "user": "U15HSHSS2",
+        "ts": "1512678924.000334"
+    },
+    {
+        "type": "message",
+        "text": "you might as well just load the primes into an array from a site",
+        "user": "U15HRTAHL",
+        "ts": "1512678969.000162"
+    },
+    {
+        "type": "message",
+        "text": "don't generate them",
+        "user": "U15HRTAHL",
+        "ts": "1512678977.000306"
+    },
+    {
+        "type": "message",
+        "text": "That's what I was thinking of doing, but the thing is I have no idea what my upperbound is",
+        "user": "U15HSHSS2",
+        "ts": "1512679018.000140"
+    },
+    {
+        "type": "message",
+        "text": "true",
+        "user": "U15HRTAHL",
+        "ts": "1512679038.000319"
+    },
+    {
+        "type": "message",
+        "text": "right now I'm just guessing and taking the first 500 primes",
+        "user": "U15HSHSS2",
+        "ts": "1512679070.000205"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.primos.mat.br\/indexen.html>",
+        "user": "U15HRTAHL",
+        "ts": "1512679110.000113"
+    },
+    {
+        "type": "message",
+        "text": "The primes actually isn't the bottle neck right now, its the sheer amount of combinations I need to check",
+        "user": "U15HSHSS2",
+        "ts": "1512679145.000570"
+    },
+    {
+        "type": "message",
+        "text": "and not knowing what my upperbound is",
+        "user": "U15HSHSS2",
+        "ts": "1512679161.000538"
+    }
+]

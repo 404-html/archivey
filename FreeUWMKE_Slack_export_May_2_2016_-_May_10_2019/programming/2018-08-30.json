@@ -1,0 +1,530 @@
+[
+    {
+        "client_msg_id": "f769de8a-6726-4927-b398-f8ac8bff96b8",
+        "type": "message",
+        "text": "Have you guys ever deployed a web api 2 project onto azure before?",
+        "user": "U15HRTAHL",
+        "ts": "1535638439.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1535638455.000000"
+        }
+    },
+    {
+        "client_msg_id": "e48bc386-8bf6-47e0-b496-d16ebd9c41b6",
+        "type": "message",
+        "text": "not even azure, just used the publish feature in visual studio",
+        "user": "U15HRTAHL",
+        "ts": "1535638642.000100"
+    },
+    {
+        "client_msg_id": "6e1caea4-24b2-408d-8a80-3f519dab3d2b",
+        "type": "message",
+        "text": "or an asp project",
+        "user": "U15HRTAHL",
+        "ts": "1535638645.000100"
+    },
+    {
+        "client_msg_id": "8B003E3E-2338-4D83-8F0B-193F972365DA",
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1535638707.000100"
+    },
+    {
+        "client_msg_id": "98C0F2B7-18A8-4E2B-B1F9-841DE4CC3BB6",
+        "type": "message",
+        "text": "Nope. Our shit lives on physical servers right now",
+        "user": "U15HY5TG8",
+        "ts": "1535638713.000100"
+    },
+    {
+        "client_msg_id": "81d858f3-9ebc-4230-b8b0-9d696cd16531",
+        "type": "message",
+        "text": "I’m asking not stating",
+        "user": "U15HRTAHL",
+        "ts": "1535638717.000100"
+    },
+    {
+        "client_msg_id": "28a41789-dfdd-403c-a81c-d0973713a343",
+        "type": "message",
+        "text": "how do you update the services?",
+        "user": "U15HRTAHL",
+        "ts": "1535638727.000100"
+    },
+    {
+        "client_msg_id": "450C2583-5BAF-42D2-9FF2-59E52505987B",
+        "type": "message",
+        "text": "What services?",
+        "user": "U15HY5TG8",
+        "ts": "1535638739.000200"
+    },
+    {
+        "client_msg_id": "53357a12-811f-4e5c-b3c3-45f71f65160b",
+        "type": "message",
+        "text": "your code",
+        "user": "U15HRTAHL",
+        "ts": "1535638744.000100"
+    },
+    {
+        "client_msg_id": "c514d48c-67ef-4164-bed6-aaa6374486e0",
+        "type": "message",
+        "text": "onto the server",
+        "user": "U15HRTAHL",
+        "ts": "1535638747.000100"
+    },
+    {
+        "client_msg_id": "292EBF39-F86F-4043-8222-116254CC33D9",
+        "type": "message",
+        "text": "Dude its the fucking wild west for when i do it. I get remote into the machine from my windows explorer and drop in the new build dll and any new js or views that it needs to look at",
+        "user": "U15HY5TG8",
+        "ts": "1535638830.000100"
+    },
+    {
+        "client_msg_id": "d904cc66-baf7-406e-bd43-3803303a200d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1535638843.000100"
+    },
+    {
+        "client_msg_id": "57090035-7cbf-4da0-bfad-4411eacda5b9",
+        "type": "message",
+        "text": "I have to do that too",
+        "user": "U15HRTAHL",
+        "ts": "1535638850.000100"
+    },
+    {
+        "client_msg_id": "34CE2250-EE05-4653-8A58-7772EEF21853",
+        "type": "message",
+        "text": "Did you just ask someone?",
+        "user": "U15HY5TG8",
+        "ts": "1535638862.000200"
+    },
+    {
+        "client_msg_id": "bbe0fe3a-c996-4bc0-ab4c-7a94482329fb",
+        "type": "message",
+        "text": "we use the publish feature to push the shit to a shared drive, then copy those files to the server directories",
+        "user": "U15HRTAHL",
+        "ts": "1535638882.000100"
+    },
+    {
+        "client_msg_id": "d732e3ef-28d9-4047-82e1-2620dc12f358",
+        "type": "message",
+        "text": "but I’m running into an issue where my web.config file doesn’t get updated",
+        "user": "U15HRTAHL",
+        "ts": "1535638896.000200"
+    },
+    {
+        "client_msg_id": "40EFC7FB-0E3C-4EC5-B209-E6BFBB4C26B3",
+        "type": "message",
+        "text": "Yup so same shit basically lol",
+        "user": "U15HY5TG8",
+        "ts": "1535638909.000100"
+    },
+    {
+        "client_msg_id": "4F485E9B-38B3-42C9-9BBD-D8F23B6B3D66",
+        "type": "message",
+        "text": "Update it on the server",
+        "user": "U15HY5TG8",
+        "ts": "1535638916.000100"
+    },
+    {
+        "client_msg_id": "71aa7215-3d94-4739-aa66-bcece77e0b03",
+        "type": "message",
+        "text": "I just commit my shit, it auto builds, and when its done building I click a button to deploy it to our servers",
+        "user": "U15HSHSS2",
+        "ts": "1535638926.000100"
+    },
+    {
+        "client_msg_id": "73EF97C5-3A02-4F4F-9C54-C07305695F3E",
+        "type": "message",
+        "text": "The web.config isnt looked at from the file inside the build itself",
+        "user": "U15HY5TG8",
+        "ts": "1535638941.000100"
+    },
+    {
+        "client_msg_id": "570E656D-49C3-419A-BE78-66B16F14A027",
+        "type": "message",
+        "text": "Thats dope",
+        "user": "U15HY5TG8",
+        "ts": "1535638956.000100"
+    },
+    {
+        "client_msg_id": "f749c850-49d9-48e3-a8a2-4036822e2f15",
+        "type": "message",
+        "text": "That’s how it should be",
+        "user": "U15HRTAHL",
+        "ts": "1535638967.000100"
+    },
+    {
+        "client_msg_id": "52E325C1-B57B-4A32-9CE5-26211CEB68E6",
+        "type": "message",
+        "text": "Agreed lol",
+        "user": "U15HY5TG8",
+        "ts": "1535638974.000100"
+    },
+    {
+        "client_msg_id": "5b3a0c5b-af88-4ee1-a943-4544dbcf13d0",
+        "type": "message",
+        "text": "And what do you mean evan?",
+        "user": "U15HRTAHL",
+        "ts": "1535638978.000100"
+    },
+    {
+        "client_msg_id": "d2f09212-ec26-4c86-bce3-781d5fca1053",
+        "type": "message",
+        "text": "I think I found the issue",
+        "user": "U15HRTAHL",
+        "ts": "1535638982.000200"
+    },
+    {
+        "client_msg_id": "8DB7BCC5-1312-4C59-A890-AD2216BC4942",
+        "type": "message",
+        "text": "So youve got the web.config in your solution right?",
+        "user": "U15HY5TG8",
+        "ts": "1535638996.000100"
+    },
+    {
+        "client_msg_id": "571f755c-4827-4ec6-9eca-3d0645923ad5",
+        "type": "message",
+        "text": "I was opening the web.config file but you can expand it and there’s a release and debug web config",
+        "user": "U15HRTAHL",
+        "ts": "1535639003.000100"
+    },
+    {
+        "client_msg_id": "f50360d1-9de0-407e-8a60-e0eb868ebbf6",
+        "type": "message",
+        "text": "publishing grabs the release one which wasn’t updated",
+        "user": "U15HRTAHL",
+        "ts": "1535639016.000100"
+    },
+    {
+        "client_msg_id": "27FCEAAC-3C2F-491C-8CCD-F3DF626C7212",
+        "type": "message",
+        "text": "Ooo yeah",
+        "user": "U15HY5TG8",
+        "ts": "1535639025.000100"
+    },
+    {
+        "client_msg_id": "bcfe38b1-2b3a-468b-b116-4617ffcdfb90",
+        "type": "message",
+        "text": "Which one does the parent web config read from then?",
+        "user": "U15HRTAHL",
+        "ts": "1535639037.000100"
+    },
+    {
+        "client_msg_id": "c7ec7cd2-6461-4843-9d98-f3b8adb5f832",
+        "type": "message",
+        "text": "debug?",
+        "user": "U15HRTAHL",
+        "ts": "1535639041.000100"
+    },
+    {
+        "client_msg_id": "dfad09bd-6a76-467e-9954-d38c23afbf6f",
+        "type": "message",
+        "text": "that’s confusing",
+        "user": "U15HRTAHL",
+        "ts": "1535639044.000100"
+    },
+    {
+        "client_msg_id": "B658D083-CCAB-44BD-8025-1CD9C8336426",
+        "type": "message",
+        "text": "What",
+        "user": "U15HY5TG8",
+        "ts": "1535639044.000200"
+    },
+    {
+        "client_msg_id": "12E36165-F68C-4288-9C92-36399B402A96",
+        "type": "message",
+        "text": "What is the parent youre referring to?",
+        "user": "U15HY5TG8",
+        "ts": "1535639053.000200"
+    },
+    {
+        "client_msg_id": "6e100f09-17cf-4a97-9f6b-92fb72313ef7",
+        "type": "message",
+        "text": "Web.config\n    - web.Debug.config\n    - web.Release.config",
+        "user": "U15HRTAHL",
+        "ts": "1535639079.000100"
+    },
+    {
+        "client_msg_id": "85F2001E-60FE-4453-ACA5-4CD00AB78645",
+        "type": "message",
+        "text": "Ooo",
+        "user": "U15HY5TG8",
+        "ts": "1535639083.000100"
+    },
+    {
+        "client_msg_id": "7d049cac-c1f1-493e-a443-88697dfe3a22",
+        "type": "message",
+        "text": "I want to know what web.config reads from",
+        "user": "U15HRTAHL",
+        "ts": "1535639087.000100"
+    },
+    {
+        "client_msg_id": "e8c7094c-dd7a-40c9-b17c-5c7dd071c3db",
+        "type": "message",
+        "text": "cause thats the one I was editing",
+        "user": "U15HRTAHL",
+        "ts": "1535639093.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1535639097.000000"
+        }
+    },
+    {
+        "client_msg_id": "AC0078CF-D289-4560-88CA-CD662DEDCA41",
+        "type": "message",
+        "text": "No idea because microsoft is dumb",
+        "user": "U15HY5TG8",
+        "ts": "1535639113.000100"
+    },
+    {
+        "client_msg_id": "a8ea27fa-8b12-4852-bcb2-e16e2946e605",
+        "type": "message",
+        "text": "yeah it’s retarded",
+        "user": "U15HRTAHL",
+        "ts": "1535639120.000100"
+    },
+    {
+        "client_msg_id": "E8D5C5B4-2280-4395-94B1-C652CCD78FBD",
+        "type": "message",
+        "text": "Those are in the folders on the server?",
+        "user": "U15HY5TG8",
+        "ts": "1535639138.000100"
+    },
+    {
+        "client_msg_id": "8eb41c7f-3350-454c-8f41-83579126052f",
+        "type": "message",
+        "text": "just Web.config",
+        "user": "U15HRTAHL",
+        "ts": "1535639170.000100"
+    },
+    {
+        "client_msg_id": "F5A62D89-DD43-494E-A7D0-8A4849DB1DE0",
+        "type": "message",
+        "text": "I would imagine it does release but idk",
+        "user": "U15HY5TG8",
+        "ts": "1535639176.000100"
+    },
+    {
+        "client_msg_id": "5b8838f9-3add-4d2e-9bc1-941b3d92846b",
+        "type": "message",
+        "text": "yeah I think it does",
+        "user": "U15HRTAHL",
+        "ts": "1535639180.000100"
+    },
+    {
+        "type": "message",
+        "text": "webconfig",
+        "files": [
+            {
+                "id": "FCJ5B8EM9",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": null,
+        "ts": "1535639191.000200"
+    },
+    {
+        "client_msg_id": "df518216-0c6a-4eb6-a3b5-756e975f4e3d",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1535639194.000100"
+    },
+    {
+        "client_msg_id": "fdd911c5-45a3-40f5-b117-a6ff5cac0b03",
+        "type": "message",
+        "text": "we have one for each environment",
+        "user": "U15HSHSS2",
+        "ts": "1535639196.000100"
+    },
+    {
+        "client_msg_id": "d1dff4c9-0e15-40ab-a6bd-affbaef5fea5",
+        "type": "message",
+        "text": "you shouldn’t be able to edit Web.config imo",
+        "user": "U15HRTAHL",
+        "ts": "1535639220.000100"
+    },
+    {
+        "client_msg_id": "175d0330-e567-4ce9-a5b1-39f08d503831",
+        "type": "message",
+        "text": "retarded",
+        "user": "U15HRTAHL",
+        "ts": "1535639225.000100"
+    },
+    {
+        "client_msg_id": "e5fb0472-5a90-4a5e-b264-a473c6d8768f",
+        "type": "message",
+        "text": "misleading",
+        "user": "U15HRTAHL",
+        "ts": "1535639227.000100"
+    },
+    {
+        "client_msg_id": "4E90D09D-4B16-44E0-872E-5BF20325E72F",
+        "type": "message",
+        "text": "My project doesnt have a folder structure for the webconfig",
+        "user": "U15HY5TG8",
+        "ts": "1535639294.000200"
+    },
+    {
+        "client_msg_id": "937eac84-43cc-4405-a2fe-3a0f23c29f0c",
+        "type": "message",
+        "text": "lucky",
+        "user": "U15HRTAHL",
+        "ts": "1535639304.000100"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1535639311.000200",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "client_msg_id": "6A1C2D20-CA7D-4C03-B906-486776CD4A45",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1535639319.000100"
+    },
+    {
+        "client_msg_id": "C376D22D-FA82-468A-8045-CB809F5A25B9",
+        "type": "message",
+        "text": "But ik others do have layered configs",
+        "user": "U15HY5TG8",
+        "ts": "1535639341.000100"
+    },
+    {
+        "client_msg_id": "43DCEFA2-C0B9-4367-A3C2-B55B0E6F8DC5",
+        "type": "message",
+        "text": "Even though a fucking file shouldnt be capable of acting like a folder",
+        "user": "U15HY5TG8",
+        "ts": "1535639361.000100"
+    },
+    {
+        "client_msg_id": "db043199-6fb0-4669-a392-48c89957d72e",
+        "type": "message",
+        "text": "correct",
+        "user": "U15HRTAHL",
+        "ts": "1535639366.000100"
+    },
+    {
+        "client_msg_id": "0fd3f332-befc-4b9b-a590-6695cd2b65d2",
+        "type": "message",
+        "text": "I was so confused because I was editing web.config and deploying and my updates would never get pushed",
+        "user": "U15HRTAHL",
+        "ts": "1535639399.000100"
+    },
+    {
+        "client_msg_id": "d2f81197-a834-4bd6-aca0-46bd3c1d66ec",
+        "type": "message",
+        "text": "and the file on the server was called web.config",
+        "user": "U15HRTAHL",
+        "ts": "1535639410.000100"
+    },
+    {
+        "client_msg_id": "2337A9CB-7034-463F-B58C-1EF30CBE36DA",
+        "type": "message",
+        "text": "Yeah haha microsoft is at it again woth the bullshit",
+        "user": "U15HY5TG8",
+        "ts": "1535639814.000100"
+    },
+    {
+        "client_msg_id": "a8a3a069-70cd-4381-b5eb-f3624da63b58",
+        "type": "message",
+        "text": "<https:\/\/msdn.microsoft.com\/en-us\/library\/dd465318(v=vs.100).aspx>",
+        "user": "U15HRTAHL",
+        "ts": "1535639855.000200"
+    },
+    {
+        "client_msg_id": "5b85991c-1b76-4c45-9756-d7fcdaac95e6",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/22467031\/visual-studio-publish-choosing-wrong-web-config-transform>",
+        "user": "U15HRTAHL",
+        "ts": "1535639921.000100",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "visual studio publish choosing wrong web.config transform",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/22467031\/visual-studio-publish-choosing-wrong-web-config-transform",
+                "text": "based on what i read, as long as you have a transform that matches the name of a publish profile, it should be applied, but this is not the case for me. publish profiles PublisProfiles dev.p...",
+                "fallback": "Stack Overflow: visual studio publish choosing wrong web.config transform",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/22467031\/visual-studio-publish-choosing-wrong-web-config-transform",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/22467031\/visual-studio-publish-choosing-wrong-web-config-transform"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fbbb587e-4818-41df-838f-a1bcd2ede574",
+        "type": "message",
+        "text": "Good to know",
+        "user": "U15HRTAHL",
+        "ts": "1535639938.000100"
+    },
+    {
+        "client_msg_id": "D0CF7B6F-EAD7-49CF-B142-AEDD24D0EE0D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1535641681.000100"
+    },
+    {
+        "client_msg_id": "ef9ad69d-ff62-4938-af51-b5cb86f7bb63",
+        "type": "message",
+        "text": "have you guys ever had an issue where an html input for money rounds the value....but only like 1\/3 of the time?",
+        "user": "U15HY5TG8",
+        "ts": "1535668016.000100"
+    },
+    {
+        "client_msg_id": "24e32a56-edfd-4f20-b1a5-6c42bfbc31dd",
+        "type": "message",
+        "text": "Dude ",
+        "user": "U15HRTAHL",
+        "ts": "1535672724.000100"
+    },
+    {
+        "client_msg_id": "33ed4677-3313-4de6-bbda-ddc695adb567",
+        "type": "message",
+        "text": "Rounding is an absolute bitch ",
+        "user": "U15HRTAHL",
+        "ts": "1535672730.000100"
+    },
+    {
+        "client_msg_id": "3dbb258b-2e91-4657-91f2-5beab458474b",
+        "type": "message",
+        "text": "We have sales people who say \"wel'll give you a 33% discount\" and 33% isn't a real number after rounding and they bitch ",
+        "user": "U15HRTAHL",
+        "ts": "1535672780.000100"
+    },
+    {
+        "client_msg_id": "3F1E34DF-B61C-4CA2-8B22-859075DE151C",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1535673047.000100"
+    },
+    {
+        "client_msg_id": "D06924DC-D117-4751-97CB-A727FB6F867F",
+        "type": "message",
+        "text": "It makes no sense",
+        "user": "U15HY5TG8",
+        "ts": "1535673059.000200"
+    },
+    {
+        "client_msg_id": "43CC9571-A32A-4AE3-9CF5-15BFDBA4548D",
+        "type": "message",
+        "text": "Idk how to do both a mask and make it not round",
+        "user": "U15HY5TG8",
+        "ts": "1535673071.000200"
+    }
+]

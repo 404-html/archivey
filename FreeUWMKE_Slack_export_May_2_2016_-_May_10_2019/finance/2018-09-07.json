@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "5c8e1d91-8c0e-47a8-87c2-4949fb7aeccb",
+        "type": "message",
+        "text": "Chase just introduced a You Invest app... :thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1536337082.000100"
+    },
+    {
+        "client_msg_id": "3dfa12c0-55a4-463d-83f3-46341dedb43e",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1536337125.000100"
+    },
+    {
+        "client_msg_id": "ac02078c-8b28-4802-9346-51229b1044e4",
+        "type": "message",
+        "text": "psh",
+        "user": "U15HRTAHL",
+        "ts": "1536337146.000100"
+    },
+    {
+        "client_msg_id": "a204dcb7-1e99-4706-ba7b-45495ff1da48",
+        "type": "message",
+        "text": "that app is doodoo",
+        "user": "U15HRTAHL",
+        "ts": "1536337155.000100"
+    },
+    {
+        "client_msg_id": "159e1b22-b766-4b06-ba42-6211e232d130",
+        "type": "message",
+        "text": "idk man... would be pretty convenient to invest through the same app as my bank shit",
+        "user": "U15HSHSS2",
+        "ts": "1536337181.000100"
+    },
+    {
+        "client_msg_id": "20f65e2e-607a-4f9f-9e38-4f69fc6c3d45",
+        "type": "message",
+        "text": "for $2.95 you can buy some blue apron stock!",
+        "user": "U15HRTAHL",
+        "ts": "1536337209.000100"
+    },
+    {
+        "client_msg_id": "50e1783c-6b88-4315-ba14-47b5127cdbe6",
+        "type": "message",
+        "text": "I bet that’s what they’re doing",
+        "user": "U15HRTAHL",
+        "ts": "1536337215.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1536337215.000300",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media3.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9038ba8a-0a16-4219-b6c8-1bc0f438d9f9",
+        "type": "message",
+        "text": "taking that fee and buying blue apron",
+        "user": "U15HRTAHL",
+        "ts": "1536337225.000100"
+    },
+    {
+        "client_msg_id": "a3e1163a-8ad5-4b03-8c6c-1fe015228817",
+        "type": "message",
+        "text": "100 free trades :smirk:",
+        "user": "U15HSHSS2",
+        "ts": "1536337385.000100"
+    },
+    {
+        "client_msg_id": "7228d543-75f1-4601-9725-3250bc4b0f61",
+        "type": "message",
+        "text": "Unlimited free trades :smirk:",
+        "user": "U15HRTAHL",
+        "ts": "1536337429.000100"
+    },
+    {
+        "client_msg_id": "ea04f21f-5582-49ba-9279-0c6dd7618444",
+        "type": "message",
+        "text": "Fucking millennials using Robinhood and MoviePass",
+        "user": "U15HSHSS2",
+        "ts": "1536337485.000100"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1463587865.000002",
+        "text": "<@U15J5H60P> set the channel topic: Discuss tech, setups, and gadgets.",
+        "topic": "Discuss tech, setups, and gadgets."
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.amazon.com\/Home-Office-Desk-Trendline-Hanover\/dp\/B018QM94OG\/ref=as_li_ss_tl?ie=UTF8&amp;psc=1&amp;redirect=true&amp;ref_=oh_aui_detailpage_o00_s00&amp;linkCode=sl1&amp;tag=techfdinne-20&amp;linkId=50250ab744b55cea5dc34ceac2c1de6f>",
+        "user": "U15J5H60P",
+        "ts": "1463587868.000003",
+        "attachments": [
+            {
+                "title": "Amazon.com: Home Office Desk Trendline - 3 Drawer Desk Hanover, Black: Kitchen &amp; Dining",
+                "title_link": "http:\/\/www.amazon.com\/Home-Office-Desk-Trendline-Hanover\/dp\/B018QM94OG\/ref=as_li_ss_tl?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00&linkCode=sl1&tag=techfdinne-20&linkId=50250ab744b55cea5dc34ceac2c1de6f",
+                "text": "Buy Home Office Desk Trendline - 3 Drawer Desk Hanover, Black: Home Office Desks - <http:\/\/Amazon.com|Amazon.com> ✓ FREE DELIVERY possible on eligible purchases",
+                "fallback": "Amazon.com: Home Office Desk Trendline - 3 Drawer Desk Hanover, Black: Kitchen &amp; Dining",
+                "from_url": "http:\/\/www.amazon.com\/Home-Office-Desk-Trendline-Hanover\/dp\/B018QM94OG\/ref=as_li_ss_tl?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00&linkCode=sl1&tag=techfdinne-20&linkId=50250ab744b55cea5dc34ceac2c1de6f",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This desk is :fire:",
+        "user": "U15J5H60P",
+        "ts": "1463587877.000005"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.engadget.com\/2016\/05\/18\/google-home-virtual-assistant\/>",
+        "user": "U15J5H60P",
+        "ts": "1463623907.000002",
+        "attachments": [
+            {
+                "service_name": "Engadget",
+                "title": "Google Home will take on Echo to be your at-home assistant",
+                "title_link": "http:\/\/www.engadget.com\/2016\/05\/18\/google-home-virtual-assistant\/",
+                "text": "Say hello to Google's answer to Amazon's Echo line.",
+                "fallback": "Engadget: Google Home will take on Echo to be your at-home assistant",
+                "image_url": "http:\/\/o.aolcdn.com\/dims5\/amp:775552aa4cba025c6a0c33641cd2102c6dfbda23\/t:1200,630\/q:80\/?url=++++http%3A%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fc0aa1303e72ae78770db5fca6d175822%2F203838696%2Fgooglehome-ed.jpg++%0A",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/www.engadget.com\/2016\/05\/18\/google-home-virtual-assistant\/",
+                "image_bytes": 66262,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.engadget.com\/2016\/05\/18\/googles-new-vr-system\/>",
+        "user": "U15J5H60P",
+        "ts": "1463623933.000004",
+        "attachments": [
+            {
+                "service_name": "Engadget",
+                "title": "Google's new Android VR platform is called 'Daydream'",
+                "title_link": "http:\/\/www.engadget.com\/2016\/05\/18\/googles-new-vr-system\/",
+                "text": "Because Cardboard is so 2014.",
+                "fallback": "Engadget: Google's new Android VR platform is called 'Daydream'",
+                "image_url": "http:\/\/o.aolcdn.com\/dims5\/amp:efe02d0b5c981eca76b74cc79756d83412bf5b2a\/t:1200,630\/q:80\/?url=++++http%3A%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F8948b90187bfae989f715954ce63776c%2F203837711%2Fgiphy%2B%25283%2529.gif++%0A",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "http:\/\/www.engadget.com\/2016\/05\/18\/googles-new-vr-system\/",
+                "image_bytes": 9890036,
+                "id": 1
+            }
+        ]
+    }
+]

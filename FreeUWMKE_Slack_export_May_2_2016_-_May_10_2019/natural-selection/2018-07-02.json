@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1530553685.000313",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_unarchive",
+        "ts": "1530553685.000327",
+        "text": "<@U15HRTAHL> un-archived the channel"
+    }
+]

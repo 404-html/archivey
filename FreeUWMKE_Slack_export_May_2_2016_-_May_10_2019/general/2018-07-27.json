@@ -1,0 +1,505 @@
+[
+    {
+        "client_msg_id": "d5604272-0a25-482e-b943-2b4fbd966c0e",
+        "type": "message",
+        "text": "Lakshmi and I are looking at this place tomorrow <http:\/\/www.liveattrostel.com\/>",
+        "user": "U15HSHSS2",
+        "ts": "1532703360.000063",
+        "attachments": [
+            {
+                "title": "Trostel Square | Apartments in Milwaukee, WI | ",
+                "title_link": "http:\/\/www.liveattrostel.com\/",
+                "text": "Check out photos, floor plans, amenities, rental rates &amp; availability at Trostel Square, Milwaukee, WI and submit your lease application today!",
+                "fallback": "Trostel Square | Apartments in Milwaukee, WI | ",
+                "from_url": "http:\/\/www.liveattrostel.com\/",
+                "service_icon": "http:\/\/www.liveattrostel.com\/favicon.ico",
+                "service_name": "liveattrostel.com",
+                "id": 1,
+                "original_url": "http:\/\/www.liveattrostel.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2bcf870-949e-4919-bbb9-08c340342ec5",
+        "type": "message",
+        "text": "The reviews on google are fucking abysmal lol",
+        "user": "U15HSHSS2",
+        "ts": "1532703377.000436"
+    },
+    {
+        "client_msg_id": "0b40411a-73cf-4c77-9eaa-9e60e5de07b1",
+        "type": "message",
+        "text": "&gt;lipstick on a pig",
+        "user": "U15HRTAHL",
+        "ts": "1532703437.000093"
+    },
+    {
+        "client_msg_id": "89EE788B-A943-4001-A1D2-BA700D9EF50C",
+        "type": "message",
+        "text": "Looks nice, I wonder why people don’t like them",
+        "user": "U15HZ01QX",
+        "ts": "1532703512.000299"
+    },
+    {
+        "client_msg_id": "e171e53e-59eb-403b-8e56-fd3f5b67d5bb",
+        "type": "message",
+        "text": "kind of funny the main complaint is that they can’t get ahold of anyone",
+        "user": "U15HRTAHL",
+        "ts": "1532703523.000238"
+    },
+    {
+        "client_msg_id": "2d88975c-31aa-4a1a-b6b3-e4409fbebe96",
+        "type": "message",
+        "text": "Yeah, seems like a nice place. But people have nothing but bad things to say lol",
+        "user": "U15HSHSS2",
+        "ts": "1532703531.000054"
+    },
+    {
+        "client_msg_id": "d3b802ee-a1cd-4448-9883-e02f3d4af908",
+        "type": "message",
+        "text": "but if you leave a review they surely will respond",
+        "user": "U15HRTAHL",
+        "ts": "1532703537.000283"
+    },
+    {
+        "client_msg_id": "8951083b-c83a-443a-a968-0a85cf039e6d",
+        "type": "message",
+        "text": "I wanna live here <http:\/\/www.germania-apts.com>",
+        "user": "U15HSHSS2",
+        "ts": "1532703666.000131",
+        "attachments": [
+            {
+                "service_name": "Germania Apartments",
+                "title": "About",
+                "title_link": "http:\/\/www.germania-apts.com\/",
+                "text": "Germania Apartments in Downtown Milwaukee close to shopping, theater, dining, shows, shopping, fashion. Milwaukee luxury apartments",
+                "fallback": "Germania Apartments: About",
+                "from_url": "http:\/\/www.germania-apts.com\/",
+                "service_icon": "https:\/\/static.squarespace.com\/universal\/default-favicon.ico",
+                "id": 1,
+                "original_url": "http:\/\/www.germania-apts.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2f1ad03c-ca1b-475a-a028-b979278a4794",
+        "type": "message",
+        "text": "Same price as everything else in the area of the same quality",
+        "user": "U15HSHSS2",
+        "ts": "1532703681.000016"
+    },
+    {
+        "client_msg_id": "67111322-907c-4601-aa3a-f73cdafc2209",
+        "type": "message",
+        "text": "and they claim heat, air conditioning is included, and high speed fiber internet for like 30 bucks",
+        "user": "U15HSHSS2",
+        "ts": "1532703705.000551"
+    },
+    {
+        "client_msg_id": "9fb69f21-93a6-4926-a540-1b7d8762c312",
+        "type": "message",
+        "text": "and washer\/dryer in the unit",
+        "user": "U15HSHSS2",
+        "ts": "1532703733.000474"
+    },
+    {
+        "client_msg_id": "f8b4d241-4c3a-42f7-86ae-6bafcd1b8400",
+        "type": "message",
+        "text": "and dogs allowed",
+        "user": "U15HSHSS2",
+        "ts": "1532703738.000528"
+    },
+    {
+        "client_msg_id": "e47416a0-97df-4106-897a-4b580d05d3b1",
+        "type": "message",
+        "text": "floor plans look cozy",
+        "user": "U15HRTAHL",
+        "ts": "1532703803.000355"
+    },
+    {
+        "client_msg_id": "cd715a9e-b482-416c-a7c8-dc0a4c372ba9",
+        "type": "message",
+        "text": "Are you guys getting a 1 bedroom or 2?",
+        "user": "U15HRTAHL",
+        "ts": "1532703826.000071"
+    },
+    {
+        "client_msg_id": "0904ae69-71c8-43b4-b163-cfc1c062f78d",
+        "type": "message",
+        "text": "2",
+        "user": "U15HSHSS2",
+        "ts": "1532703828.000528"
+    },
+    {
+        "client_msg_id": "b72d5840-6739-4824-8755-281ba7458593",
+        "type": "message",
+        "text": "How do you know what the rent is?",
+        "user": "U15HRTAHL",
+        "ts": "1532703884.000414"
+    },
+    {
+        "client_msg_id": "5fd20829-a2ea-4036-8937-418e40ecce66",
+        "type": "message",
+        "text": "but if i'm being realistic, we'll be living here",
+        "user": "U15HSHSS2",
+        "ts": "1532703891.000103"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FBY1P7V7W",
+                "created": 1532703893,
+                "timestamp": 1532703893,
+                "name": "image.png",
+                "title": "Pasted image at 2018-07-27, 10:04 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 435843,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FBY1P7V7W\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FBY1P7V7W\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBY1P7V7W-e20809b256\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBY1P7V7W-e20809b256\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBY1P7V7W-e20809b256\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 199,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBY1P7V7W-e20809b256\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 266,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBY1P7V7W-e20809b256\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 632,
+                "original_h": 350,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/FBY1P7V7W\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FBY1P7V7W-de9d417bc1",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "ts": "1532703897.000127"
+    },
+    {
+        "client_msg_id": "9899e611-9c11-440c-8ba6-963dde840d0b",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HRTAHL",
+        "ts": "1532703899.000155"
+    },
+    {
+        "client_msg_id": "03d485a5-8483-49e7-b65a-21cd024127ef",
+        "type": "message",
+        "text": "according to this site rent is ~1,600",
+        "user": "U15HSHSS2",
+        "ts": "1532703965.000065"
+    },
+    {
+        "client_msg_id": "6e6f894d-3b5f-4c39-968a-eeeb1a5564fa",
+        "type": "message",
+        "text": "<https:\/\/www.apartments.com\/germania-building-milwaukee-wi\/8f8lpl2\/>",
+        "user": "U15HSHSS2",
+        "ts": "1532703966.000332",
+        "attachments": [
+            {
+                "service_name": "Apartments.com",
+                "title": "Germania Building Rentals - Milwaukee, WI | Apartments.com",
+                "title_link": "https:\/\/www.apartments.com\/germania-building-milwaukee-wi\/8f8lpl2\/",
+                "text": "See all available apartments for rent at Germania Building in Milwaukee, WI. Germania Building has rental units ranging from 505-1210 sq ft starting at $748.",
+                "fallback": "Apartments.com: Germania Building Rentals - Milwaukee, WI | Apartments.com",
+                "image_url": "https:\/\/images1.apartments.com\/i2\/VycPJAW85ub4DapbMJrONVLLvTC-F0xEUxWBwkL_SCk\/111\/germania-building-milwaukee-wi-primary-photo.jpg",
+                "from_url": "https:\/\/www.apartments.com\/germania-building-milwaukee-wi\/8f8lpl2\/",
+                "image_width": 360,
+                "image_height": 250,
+                "image_bytes": 316313,
+                "service_icon": "https:\/\/www.apartments.com\/a\/8a55f9\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.apartments.com\/germania-building-milwaukee-wi\/8f8lpl2\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "028C7AD0-4622-4A98-A408-A2B8EA629A02",
+        "type": "message",
+        "text": "Yeahh i think thats like european luxury style lol",
+        "user": "U15HY5TG8",
+        "ts": "1532708762.000250"
+    },
+    {
+        "client_msg_id": "e5db3f3a-88d6-4b24-82c0-5f6688060799",
+        "type": "message",
+        "text": "<https:\/\/www.jsonline.com\/story\/news\/politics\/2018\/07\/16\/scott-walker-during-presidential-bid-met-woman-now-arrested-russian-plot\/789978002\/>",
+        "user": "U15HRTAHL",
+        "ts": "1532709955.000178",
+        "attachments": [
+            {
+                "service_name": "Milwaukee Journal Sentinel",
+                "title": "Scott Walker met with woman now charged in Russian plot during his presidential bid",
+                "title_link": "https:\/\/www.jsonline.com\/story\/news\/politics\/2018\/07\/16\/scott-walker-during-presidential-bid-met-woman-now-arrested-russian-plot\/789978002\/",
+                "text": "A Siberian woman arrested Sunday as part of an alleged Russian plot to interfere with U.S. politics was at Scott Walker’s presidential campaign launch.",
+                "fallback": "Milwaukee Journal Sentinel: Scott Walker met with woman now charged in Russian plot during his presidential bid",
+                "image_url": "https:\/\/www.gannett-cdn.com\/-mm-\/cb62d459e75c8c29c60705d5d5ac4de3db86f649\/c=0-224-2490-1631\/local\/-\/media\/2018\/07\/16\/WIGroup\/Milwaukee\/636673557556245453-Walker-Butina.jpg?width=3200&height=1680&fit=crop",
+                "image_width": 476,
+                "image_height": 250,
+                "from_url": "https:\/\/www.jsonline.com\/story\/news\/politics\/2018\/07\/16\/scott-walker-during-presidential-bid-met-woman-now-arrested-russian-plot\/789978002\/",
+                "image_bytes": 310213,
+                "service_icon": "https:\/\/www.gannett-cdn.com\/sites\/jsonline\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.jsonline.com\/story\/news\/politics\/2018\/07\/16\/scott-walker-during-presidential-bid-met-woman-now-arrested-russian-plot\/789978002\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4e69df1-e3ca-4001-be52-a46e94bb7a3e",
+        "type": "message",
+        "text": "traitor",
+        "user": "U15HRTAHL",
+        "ts": "1532709961.000068"
+    },
+    {
+        "client_msg_id": "71FF46C8-330A-47FD-942B-AC88E1C8C31D",
+        "type": "message",
+        "text": "F word",
+        "user": "U15J5H60P",
+        "ts": "1532709996.000137"
+    },
+    {
+        "client_msg_id": "79915480-DB73-4F2A-A732-970285B22A0F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1532710112.000171"
+    },
+    {
+        "client_msg_id": "6CC0B85E-19E5-4D7F-BDB4-E34E607C4BD8",
+        "type": "message",
+        "text": "It feels like fall and it makes me sad that its not fall",
+        "user": "U15HY5TG8",
+        "ts": "1532713281.000035"
+    },
+    {
+        "client_msg_id": "7d959391-28a7-42bf-8e73-fa26606663d8",
+        "type": "message",
+        "text": "Fridays just drag on",
+        "user": "U15HRTAHL",
+        "ts": "1532718454.000138"
+    },
+    {
+        "client_msg_id": "DBA886A3-9D98-4305-9460-C2E822F0CDF5",
+        "type": "message",
+        "text": "Yeah dude. Terrible",
+        "user": "U15HY5TG8",
+        "ts": "1532718907.000218"
+    },
+    {
+        "client_msg_id": "fbe23fe9-11d7-4215-bf52-46090a64201e",
+        "type": "message",
+        "text": "Unbearable",
+        "user": "U15J5H60P",
+        "ts": "1532719120.000318"
+    },
+    {
+        "client_msg_id": "a16efc0c-f213-4dec-b29d-aa81672ca00b",
+        "type": "message",
+        "text": "FYI - Scotty's birthday is tomorrow. He wants to go to Lakefront Brewery for a tour at 4",
+        "user": "U15J5H60P",
+        "ts": "1532719662.000367"
+    },
+    {
+        "client_msg_id": "26bcc748-c4ea-48f7-be90-b0aff24a075b",
+        "type": "message",
+        "text": "You all are more than welcome to come",
+        "user": "U15J5H60P",
+        "ts": "1532719670.000100"
+    },
+    {
+        "client_msg_id": "9763de8c-1b6a-4eef-97c0-229d0d6f0ee9",
+        "type": "message",
+        "text": "Just make sure you buy the tickets ahead of time!",
+        "user": "U15J5H60P",
+        "ts": "1532719682.000209"
+    },
+    {
+        "client_msg_id": "38bcac14-4a62-4c10-9fd3-b79550ccb03b",
+        "type": "message",
+        "text": "Are you going to German fest?",
+        "user": "U15HRTAHL",
+        "ts": "1532720265.000061"
+    },
+    {
+        "client_msg_id": "c9fde591-e4bf-4cda-b7ec-ec47f8793389",
+        "type": "message",
+        "text": "Nope. Lakefront Brewery -&gt; Bradyfest",
+        "user": "U15J5H60P",
+        "ts": "1532720459.000301",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1532720463.000000"
+        }
+    },
+    {
+        "client_msg_id": "98D96BA1-9584-465B-AC57-AA778C32FD50",
+        "type": "message",
+        "text": "Ill prob pass. Thanks for the invite though. Feel free to stop by on your way to brady though",
+        "user": "U15HY5TG8",
+        "ts": "1532721063.000274"
+    },
+    {
+        "client_msg_id": "B403F630-B0C7-49C1-A44F-F4F274230A87",
+        "type": "message",
+        "text": "You guys ever see a girl with a ton of makeup and then her sister without any makeup and wonder if thats what she looks like underneath?",
+        "user": "U15HY5TG8",
+        "ts": "1532721314.000377"
+    },
+    {
+        "client_msg_id": "7a25b809-2123-4177-8165-4eb81511e535",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1532721322.000422"
+    },
+    {
+        "client_msg_id": "63D2654E-B832-47B2-A7FC-4B71CF4D17AF",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1532721422.000119"
+    },
+    {
+        "client_msg_id": "9E62E441-299E-49A0-90D4-506418E17334",
+        "type": "message",
+        "text": "Izzy Hops?",
+        "user": "U15J5H60P",
+        "ts": "1532731375.000052"
+    },
+    {
+        "client_msg_id": "B38E42F5-34FB-488A-BBAD-C680E8D5291A",
+        "type": "message",
+        "text": "If you wanna help me move this dresser and mattress down to the street first",
+        "user": "U15HY5TG8",
+        "ts": "1532731814.000143"
+    },
+    {
+        "client_msg_id": "3AB508B3-A5B9-4BCC-AB77-047943DD4CB3",
+        "type": "message",
+        "text": "Jesus",
+        "user": "U15J5H60P",
+        "ts": "1532731832.000038"
+    },
+    {
+        "client_msg_id": "3C2E56D2-E039-421D-840C-E8C8E1F823D9",
+        "type": "message",
+        "text": "Give me 20",
+        "user": "U15J5H60P",
+        "ts": "1532731842.000138"
+    },
+    {
+        "client_msg_id": "FB35E9DC-18C7-4CF3-80DE-A2BC2779C654",
+        "type": "message",
+        "text": "Minutes",
+        "user": "U15J5H60P",
+        "ts": "1532731860.000090"
+    },
+    {
+        "client_msg_id": "77C1F30E-053B-4DFD-A1A5-3D4BD520F22B",
+        "type": "message",
+        "text": "Ayyy",
+        "user": "U15HY5TG8",
+        "ts": "1532731957.000078"
+    },
+    {
+        "client_msg_id": "D8B44FC4-C300-47EA-8F0D-EA264625BD3B",
+        "type": "message",
+        "text": "Old place obviously",
+        "user": "U15HY5TG8",
+        "ts": "1532731962.000025"
+    },
+    {
+        "client_msg_id": "62756C73-5228-4A42-9AE6-8F80876713E4",
+        "type": "message",
+        "text": "Ya",
+        "user": "U15J5H60P",
+        "ts": "1532731969.000060"
+    },
+    {
+        "client_msg_id": "0C6260A0-C02F-4B6D-A79C-697B3E1D5973",
+        "type": "message",
+        "text": "On mu way",
+        "user": "U15J5H60P",
+        "ts": "1532733010.000133"
+    },
+    {
+        "client_msg_id": "829FBE8E-DF52-4D92-BA98-371DF46ACBBD",
+        "type": "message",
+        "text": "Sweeeet",
+        "user": "U15HY5TG8",
+        "ts": "1532733338.000111"
+    },
+    {
+        "client_msg_id": "99A7C5D9-9D90-47AF-873C-4C791DC108AE",
+        "type": "message",
+        "text": "<@U15HSHSS2> ",
+        "user": "U15J5H60P",
+        "ts": "1532737103.000005"
+    },
+    {
+        "client_msg_id": "F6A3C8C9-35C6-4010-9B5F-E2B8D3B9D829",
+        "type": "message",
+        "text": "Where u @",
+        "user": "U15J5H60P",
+        "ts": "1532737105.000117"
+    },
+    {
+        "client_msg_id": "BA478C97-B6B4-49ED-A21C-799A08BE73E1",
+        "type": "message",
+        "text": "Y'all at home",
+        "user": "U15J5H60P",
+        "ts": "1532737166.000047"
+    },
+    {
+        "client_msg_id": "32139642-6DD8-44D8-9B20-92E9EEB60339",
+        "type": "message",
+        "text": "Unbelievable",
+        "user": "U15J5H60P",
+        "ts": "1532737169.000070"
+    },
+    {
+        "client_msg_id": "9B267ECB-732B-40AE-BF28-D22F814C4CB5",
+        "type": "message",
+        "text": "I’m goin outt",
+        "user": "U15HSHSS2",
+        "ts": "1532741992.000035"
+    },
+    {
+        "client_msg_id": "F36BB98C-EF04-4BCF-A01A-7E30002097AF",
+        "type": "message",
+        "text": "Damnnn <@U15HSHSS2> is unstoppable",
+        "user": "U15HY5TG8",
+        "ts": "1532743047.000053"
+    },
+    {
+        "client_msg_id": "D1374E0E-9ABF-42CF-8BE1-84FAD9F634DB",
+        "type": "message",
+        "text": "Can't be touched\nCan't be stopped\nCan't be moved\nCan't be rocked",
+        "user": "U15HSHSS2",
+        "ts": "1532747393.000010"
+    },
+    {
+        "client_msg_id": "204363D5-68CC-460B-9C9C-D032A60FE2DD",
+        "type": "message",
+        "text": "Great song",
+        "user": "U15HY5TG8",
+        "ts": "1532748128.000066"
+    }
+]

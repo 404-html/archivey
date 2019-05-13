@@ -1,0 +1,929 @@
+[
+    {
+        "client_msg_id": "9aa44027-7d48-49a7-9090-23d49b04069c",
+        "type": "message",
+        "text": "damn I’m really struggling with this query",
+        "user": "U15HRTAHL",
+        "ts": "1557252690.000400"
+    },
+    {
+        "client_msg_id": "9e870968-f4d9-401a-bd8c-2c556ef1c766",
+        "type": "message",
+        "text": "lets hear it",
+        "user": "U15HY5TG8",
+        "ts": "1557252700.000600"
+    },
+    {
+        "client_msg_id": "403eb299-299b-481c-b6c5-9037ddc6ac2b",
+        "type": "message",
+        "text": "let’s say I have a set of ids",
+        "user": "U15HRTAHL",
+        "ts": "1557252721.000800"
+    },
+    {
+        "client_msg_id": "1a6e85c4-ccc1-4f22-8cc0-df5ea53b9e88",
+        "type": "message",
+        "text": "[13, 54, 684. 95435, 39339]",
+        "user": "U15HRTAHL",
+        "ts": "1557252736.001100"
+    },
+    {
+        "client_msg_id": "8563659f-32b8-4616-acd5-803c7ec5a096",
+        "type": "message",
+        "text": "and lets say I have a summary table, and a detail table that has a foreign key to the summary table",
+        "user": "U15HRTAHL",
+        "ts": "1557252777.001700"
+    },
+    {
+        "client_msg_id": "d025ee71-7756-44f9-9588-9adfea88ba98",
+        "type": "message",
+        "text": "the detail table also has another foreign key",
+        "user": "U15HRTAHL",
+        "ts": "1557252788.002000"
+    },
+    {
+        "client_msg_id": "bbed64a5-ecad-4809-93e9-d3045c08bc1c",
+        "type": "message",
+        "text": "the second foreign key relates to the ids in the set I pasted",
+        "user": "U15HRTAHL",
+        "ts": "1557252813.002400"
+    },
+    {
+        "client_msg_id": "1bee30ef-ebe8-4ad8-9961-bc1ad152f87e",
+        "type": "message",
+        "text": "I need to return summarys where all details are in the set",
+        "user": "U15HRTAHL",
+        "ts": "1557252830.002900"
+    },
+    {
+        "client_msg_id": "93190047-6867-4201-bc4a-a85ecd6f5c03",
+        "type": "message",
+        "text": "mk",
+        "user": "U15HY5TG8",
+        "ts": "1557252830.003000"
+    },
+    {
+        "client_msg_id": "44655d59-98ac-4a95-8e32-f74a9be7a343",
+        "type": "message",
+        "text": "if there is a detail on the summary that does not exist in the set, the summary shouldn’t be returned",
+        "user": "U15HRTAHL",
+        "ts": "1557252853.003800",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1557252854.000000"
+        }
+    },
+    {
+        "client_msg_id": "6573e8d5-715e-4ed1-b352-fc5ec89b5631",
+        "type": "message",
+        "text": "select * from summary s inner join details d on d.id  = s.id where d.otherId in (13, 54, 684. 95435, 39339)",
+        "user": "U15HY5TG8",
+        "ts": "1557252874.004700"
+    },
+    {
+        "client_msg_id": "bf6f50fd-c204-4ead-973a-2b13c7c11342",
+        "type": "message",
+        "text": "join the tables and just filter on the set?",
+        "user": "U15HSHSS2",
+        "ts": "1557252880.004800"
+    },
+    {
+        "client_msg_id": "a34808ec-7207-454b-bf7e-3c99a88bec25",
+        "type": "message",
+        "text": "I could do that but idk if it’s efficient",
+        "user": "U15HRTAHL",
+        "ts": "1557252909.005300"
+    },
+    {
+        "client_msg_id": "632a40fe-6b09-458a-87db-046901e36c1c",
+        "type": "message",
+        "text": "how much more efficent do you want it to be?",
+        "user": "U15HY5TG8",
+        "ts": "1557252943.005900"
+    },
+    {
+        "client_msg_id": "e6372712-b2b6-4a82-adc9-94a6d026d95f",
+        "type": "message",
+        "text": "you could do select * from details where otherId in (13, 54, 684. 95435, 39339), throw that into a temp table and then join the temp table with the summaries table?",
+        "user": "U15HY5TG8",
+        "ts": "1557252977.006700"
+    },
+    {
+        "client_msg_id": "b298b367-f5f7-4498-9923-77281e474a51",
+        "type": "message",
+        "text": "I want to put this in a stored procedure",
+        "user": "U15HRTAHL",
+        "ts": "1557253006.007200"
+    },
+    {
+        "client_msg_id": "fe36fb6f-bad6-4524-9b7e-3a80d6bbdf24",
+        "type": "message",
+        "text": "disclaimer this is not work related",
+        "user": "U15HRTAHL",
+        "ts": "1557253014.007400"
+    },
+    {
+        "client_msg_id": "6a6a790c-a0f1-4010-aafb-2cd5f6804e4a",
+        "type": "message",
+        "text": "your option is to either do a temp table or do the query i just did",
+        "user": "U15HY5TG8",
+        "ts": "1557253033.007800"
+    },
+    {
+        "client_msg_id": "5da7eddb-5480-49a8-831c-17f24ea27348",
+        "type": "message",
+        "text": "either one can be a stored procedure",
+        "user": "U15HY5TG8",
+        "ts": "1557253039.008100"
+    },
+    {
+        "client_msg_id": "ee7a5fbd-748e-4e86-805f-a859a91770ac",
+        "type": "message",
+        "text": "&gt;then join the temp table with the summaries table?",
+        "user": "U15HRTAHL",
+        "ts": "1557253100.008400"
+    },
+    {
+        "client_msg_id": "00979206-9aff-49ac-bb84-39aaf83835b4",
+        "type": "message",
+        "text": "what about it",
+        "user": "U15HY5TG8",
+        "ts": "1557253228.008700"
+    },
+    {
+        "client_msg_id": "14bf8ba3-b6b6-4d7f-af9d-2e6e98f4f636",
+        "type": "message",
+        "text": "it’s hard to translate this into words",
+        "user": "U15HRTAHL",
+        "ts": "1557253284.009300"
+    },
+    {
+        "client_msg_id": "d225a417-250b-448e-8f3d-50ac0cc34d98",
+        "type": "message",
+        "text": "hold on",
+        "user": "U15HY5TG8",
+        "ts": "1557253412.009500"
+    },
+    {
+        "client_msg_id": "c494f192-245f-4a93-8396-53bacc670441",
+        "type": "message",
+        "text": "```   Create table #temp{\n           id int\n          }\n          \n          Insert into #temp(id)\n          Values Select Id from details where otherid in (13, 54, 684. 95435, 39339)\n          \n         Select * from Summary where detailId in (Select Id from #temp)```",
+        "user": "U15HY5TG8",
+        "ts": "1557253473.009700",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1557253497.000000"
+        }
+    },
+    {
+        "client_msg_id": "cd28bbb8-6dcc-4b53-97c6-27a9d4551f5a",
+        "type": "message",
+        "text": "yeesh that formatting is horrible",
+        "user": "U15HY5TG8",
+        "ts": "1557253506.010000"
+    },
+    {
+        "client_msg_id": "a019cbcf-9351-4fff-9226-c73d6042031a",
+        "type": "message",
+        "text": "that's your whole query though",
+        "user": "U15HY5TG8",
+        "ts": "1557253553.010200"
+    },
+    {
+        "client_msg_id": "581d8237-a020-4a0a-87f9-83d74e84cb2a",
+        "type": "message",
+        "text": "The join seems better than that",
+        "user": "U15HSHSS2",
+        "ts": "1557253730.010500"
+    },
+    {
+        "client_msg_id": "b0735d83-7c75-4cb4-9963-ccf600e9631d",
+        "type": "message",
+        "text": "I agree",
+        "user": "U15HY5TG8",
+        "ts": "1557253737.010700"
+    },
+    {
+        "client_msg_id": "2e55b3c5-28ba-4bf1-8d20-d3700f103751",
+        "type": "message",
+        "text": "Cause idk how efficient it is to create and drop the table",
+        "user": "U15HY5TG8",
+        "ts": "1557253761.011100"
+    },
+    {
+        "client_msg_id": "136a6f7c-07c6-4b12-9490-995d72eeff2a",
+        "type": "message",
+        "text": "actually lol",
+        "user": "U15HY5TG8",
+        "ts": "1557253791.011300"
+    },
+    {
+        "client_msg_id": "7618403d-ed67-49c8-b07b-2f0df9b653e9",
+        "type": "message",
+        "text": "you can prob do this if you want it to limit it to truly those ids",
+        "user": "U15HY5TG8",
+        "ts": "1557253803.011700"
+    },
+    {
+        "client_msg_id": "3b236c99-f7fc-4732-a50f-0a3d557627ce",
+        "type": "message",
+        "text": "Select * from Summary where detailId in (Select Id from (Select Id from details where otherid in (13, 54, 684. 95435, 39339)))",
+        "user": "U15HY5TG8",
+        "ts": "1557253820.012000"
+    },
+    {
+        "client_msg_id": "3996b147-f4cf-40df-9e86-855a8e7231b5",
+        "type": "message",
+        "text": "I wonder if that works",
+        "user": "U15HY5TG8",
+        "ts": "1557253824.012200"
+    },
+    {
+        "client_msg_id": "e06c7a6f-538a-4310-913d-e19b4ad6cc03",
+        "type": "message",
+        "text": "hold on",
+        "user": "U15HRTAHL",
+        "ts": "1557253948.012400"
+    },
+    {
+        "client_msg_id": "c3582160-f93e-4c04-8c1d-b4131a85b4e2",
+        "type": "message",
+        "text": "Im getting my ear yapped off",
+        "user": "U15HRTAHL",
+        "ts": "1557253953.012600"
+    },
+    {
+        "client_msg_id": "f9a69518-d5ed-45cd-bf9c-b1ba02943925",
+        "type": "message",
+        "text": "\"HOW DARE SOMEONE INTERRUPT MY DAYLIGHTING\"",
+        "user": "U15HY5TG8",
+        "ts": "1557254041.013100"
+    },
+    {
+        "client_msg_id": "dfcb3ad9-98e0-4db5-bd1e-4e6c2c1452b9",
+        "type": "message",
+        "text": "-Joe",
+        "user": "U15HY5TG8",
+        "ts": "1557254045.013300"
+    },
+    {
+        "client_msg_id": "44abfe60-1e36-4c1f-906a-1d7530733b48",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1557254051.013500"
+    },
+    {
+        "client_msg_id": "5017a49f-31c6-4560-a341-74a990ff27c6",
+        "type": "message",
+        "text": "alright so these queries will return summaries if at least 1 detail has the foreign key",
+        "user": "U15HRTAHL",
+        "ts": "1557254564.014100"
+    },
+    {
+        "client_msg_id": "542d6f38-4217-4607-9b93-edb17517e26e",
+        "type": "message",
+        "text": "It needs to be that all details are in the set, not just some of them",
+        "user": "U15HRTAHL",
+        "ts": "1557254579.014500"
+    },
+    {
+        "client_msg_id": "f18b4560-6edb-4f8a-a0bc-13e6cdfc7d51",
+        "type": "message",
+        "text": "that can't be true",
+        "user": "U15HY5TG8",
+        "ts": "1557254612.014700"
+    },
+    {
+        "client_msg_id": "6aafb949-20a7-4674-89e1-309e59a6beeb",
+        "type": "message",
+        "text": "You could try something simple like getting the COUNT from the query and making sure it equals the COUNT of the set length",
+        "user": "U15HSHSS2",
+        "ts": "1557254677.015500"
+    },
+    {
+        "client_msg_id": "cfdf952e-75dd-4c79-b461-6bba13e32445",
+        "type": "message",
+        "text": "unless multiple details can correspond to 1 ID",
+        "user": "U15HSHSS2",
+        "ts": "1557254690.015900"
+    },
+    {
+        "client_msg_id": "8f7428be-c3df-49d6-8884-48ea169890b2",
+        "type": "message",
+        "text": "are you passing in the list from the start or is that set hardcoded?",
+        "user": "U15HY5TG8",
+        "ts": "1557254748.016300"
+    },
+    {
+        "client_msg_id": "bfa19085-f2b6-40e3-a7f1-f3202116fa7b",
+        "type": "message",
+        "text": "for right now it’s hard coded",
+        "user": "U15HRTAHL",
+        "ts": "1557254756.016500"
+    },
+    {
+        "client_msg_id": "ed9f0962-3c26-44d6-acec-ad5a75bfc8d7",
+        "type": "message",
+        "text": "gotcha. the first query at the very least should work",
+        "user": "U15HY5TG8",
+        "ts": "1557254770.016800"
+    },
+    {
+        "client_msg_id": "ad6b3bba-0d2e-4b46-bdd0-d1f019b4ae79",
+        "type": "message",
+        "text": "this one? `select * from summary s inner join details d on d.id  = s.id where d.otherId in (13, 54, 684. 95435, 39339)`",
+        "user": "U15HRTAHL",
+        "ts": "1557254789.017100"
+    },
+    {
+        "client_msg_id": "aaa0de17-231a-491e-8a81-5b7f722bb7e5",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HY5TG8",
+        "ts": "1557254794.017400"
+    },
+    {
+        "client_msg_id": "d0f8a8e5-8c55-4cbb-97ae-da33ec35746a",
+        "type": "message",
+        "text": "The first query will bring back any that match the ID",
+        "user": "U15HSHSS2",
+        "ts": "1557254797.017600"
+    },
+    {
+        "client_msg_id": "813d35c4-3a6c-4119-a0b6-4f10f6fae187",
+        "type": "message",
+        "text": "not all or nothing",
+        "user": "U15HSHSS2",
+        "ts": "1557254800.017800"
+    },
+    {
+        "client_msg_id": "965ba772-2dbb-423d-ba93-6f75440940ff",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1557254805.018000"
+    },
+    {
+        "client_msg_id": "31c96625-d8c8-4d2d-a7ca-3dc7aacaa4c5",
+        "type": "message",
+        "text": "this returns more than it should",
+        "user": "U15HRTAHL",
+        "ts": "1557254823.018300"
+    },
+    {
+        "client_msg_id": "09dc600d-37dc-4d99-8fac-3743652585bc",
+        "type": "message",
+        "text": "that makes no sense",
+        "user": "U15HY5TG8",
+        "ts": "1557254836.018700"
+    },
+    {
+        "client_msg_id": "7f7a390d-b780-4ff8-bfaa-9c14fd61bc46",
+        "type": "message",
+        "text": "it’s hard to explain",
+        "user": "U15HRTAHL",
+        "ts": "1557254842.018900"
+    },
+    {
+        "client_msg_id": "ee83c578-faf9-441b-ae0a-66f6dc7dca9a",
+        "type": "message",
+        "text": "I need summaries where all the details are in the set",
+        "user": "U15HRTAHL",
+        "ts": "1557254873.019800",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1557254888.000000"
+        }
+    },
+    {
+        "client_msg_id": "6e339100-af0f-46de-80c7-6d68ee9d5b59",
+        "type": "message",
+        "text": "not just some",
+        "user": "U15HRTAHL",
+        "ts": "1557254875.020100"
+    },
+    {
+        "client_msg_id": "eb9bd664-0cf4-4aeb-8c81-382e4132371b",
+        "type": "message",
+        "text": "and not more",
+        "user": "U15HRTAHL",
+        "ts": "1557254892.020700"
+    },
+    {
+        "client_msg_id": "e889ddfa-2743-4128-88d9-e40ff087f6d5",
+        "type": "message",
+        "text": "oooo i see",
+        "user": "U15HY5TG8",
+        "ts": "1557254895.020900"
+    },
+    {
+        "client_msg_id": "65ee1e52-e5a4-4455-beb2-e84613f7159d",
+        "type": "message",
+        "text": "From my understanding of what you are saying is return the summaries if every detail is in the set, else return nothing?",
+        "user": "U15HSHSS2",
+        "ts": "1557254898.021200"
+    },
+    {
+        "client_msg_id": "4fa490a8-9674-4926-9184-674da1c3027a",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1557254902.021400"
+    },
+    {
+        "client_msg_id": "f6868e20-c6cc-4637-927a-4f7e030fca12",
+        "type": "message",
+        "text": "each summary needs a detail of each of those details?",
+        "user": "U15HY5TG8",
+        "ts": "1557254906.021600"
+    },
+    {
+        "client_msg_id": "dee3fa41-4150-4ebd-9b26-fbd53cc425b1",
+        "type": "message",
+        "text": "Can multiple details correspond to the same ID?",
+        "user": "U15HSHSS2",
+        "ts": "1557254954.022500"
+    },
+    {
+        "client_msg_id": "fe1835f1-b0a7-423f-a6fd-82b47cd8f7a7",
+        "type": "message",
+        "text": "or sorry, each summaryy needs 5 details with 1 from each of the set indices?",
+        "user": "U15HY5TG8",
+        "ts": "1557254971.023100"
+    },
+    {
+        "client_msg_id": "ac5ec28e-9b21-4cc9-ad63-89b3da29c386",
+        "type": "message",
+        "text": "alright let me explain the entire thing",
+        "user": "U15HRTAHL",
+        "ts": "1557254991.023400"
+    },
+    {
+        "client_msg_id": "06c63a0d-9c65-412e-ae6a-5afa18122caa",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1557254995.023600"
+    },
+    {
+        "client_msg_id": "556191b5-403a-47d6-b7c5-379176253a7e",
+        "type": "message",
+        "text": "copy and paste your tables",
+        "user": "U15HY5TG8",
+        "ts": "1557255017.023800"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJGQNLVEH",
+                "created": 1557255499,
+                "timestamp": 1557255499,
+                "name": "image.png",
+                "title": "Pasted image at 2019-05-07, 1:58 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 24311,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJGQNLVEH\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJGQNLVEH\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJGQNLVEH-441a51db8c\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJGQNLVEH-441a51db8c\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJGQNLVEH-441a51db8c\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 287,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJGQNLVEH-441a51db8c\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 383,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJGQNLVEH-441a51db8c\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 599,
+                "original_h": 478,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FJGQNLVEH\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FJGQNLVEH-9a848bd5bb",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1557255501.024000",
+        "client_msg_id": "4d76378e-dcb0-4d47-8529-74888f4f4eb0"
+    },
+    {
+        "client_msg_id": "61c38527-bef8-4d81-a968-02b83ce08cbb",
+        "type": "message",
+        "text": "summary = recipe\ndetail = recipe_ingredient\notherTable = ingredient",
+        "user": "U15HRTAHL",
+        "ts": "1557255521.024600"
+    },
+    {
+        "client_msg_id": "11a1cd9b-3ec7-41db-b545-3e7016f0e300",
+        "type": "message",
+        "text": "so lets say a person has 5 ingredients, water, flour, salt, sugar, yeast",
+        "user": "U15HRTAHL",
+        "ts": "1557255548.025100"
+    },
+    {
+        "client_msg_id": "85261ec6-dd92-45bc-afeb-1811a034908c",
+        "type": "message",
+        "text": "and lets says there’s a recipe `bread`",
+        "user": "U15HRTAHL",
+        "ts": "1557255562.025500"
+    },
+    {
+        "client_msg_id": "7ec93d38-9453-4478-b3bd-782ee7f6badb",
+        "type": "message",
+        "text": "bread has those exact same 5 ingredients in recipe_ingredients",
+        "user": "U15HRTAHL",
+        "ts": "1557255579.026000"
+    },
+    {
+        "client_msg_id": "d38cfcaf-019a-46f7-831d-58dcd0a57972",
+        "type": "message",
+        "text": "so it should return the bread recipe",
+        "user": "U15HRTAHL",
+        "ts": "1557255604.026300"
+    },
+    {
+        "client_msg_id": "56877461-cfb1-44ea-9965-28648f5d0d9b",
+        "type": "message",
+        "text": "and if the person has more than those 5, it should still return bread, and any other recipes that contain all of those ingredients",
+        "user": "U15HRTAHL",
+        "ts": "1557255707.027000"
+    },
+    {
+        "client_msg_id": "68cd75b1-f6d2-49af-b484-719e166c8e0e",
+        "type": "message",
+        "text": "gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1557255747.027200"
+    },
+    {
+        "client_msg_id": "3f26df9b-b198-43e0-95d7-4a804cb8a5a1",
+        "type": "message",
+        "text": "so what I will be passing to this stored proc is a set of ingredient ids",
+        "user": "U15HRTAHL",
+        "ts": "1557255771.027500"
+    },
+    {
+        "client_msg_id": "ff98597f-f24b-442a-947b-dba5d29601bd",
+        "type": "message",
+        "text": "ok ok",
+        "user": "U15HY5TG8",
+        "ts": "1557255809.027700"
+    },
+    {
+        "client_msg_id": "01f03034-3e84-4a90-b505-956af3c72e88",
+        "type": "message",
+        "text": "I wonder if you'll have to do some dynamic sql",
+        "user": "U15HY5TG8",
+        "ts": "1557255858.028000"
+    },
+    {
+        "client_msg_id": "b5f9cd64-de32-4988-bb53-828fe53584b1",
+        "type": "message",
+        "text": "i bet you do",
+        "user": "U15HY5TG8",
+        "ts": "1557255860.028200"
+    },
+    {
+        "client_msg_id": "f9855145-82cc-496b-b1b0-3a1da3770dd0",
+        "type": "message",
+        "text": "I mean i can do what tommy said and just do this in my controller and filter through it",
+        "user": "U15HRTAHL",
+        "ts": "1557255914.028700"
+    },
+    {
+        "client_msg_id": "b1e1d9ed-41bb-4bfa-ad23-76d10f14211a",
+        "type": "message",
+        "text": "why does count work though",
+        "user": "U15HY5TG8",
+        "ts": "1557255933.029200"
+    },
+    {
+        "client_msg_id": "59bc9cac-28f1-4bcd-8733-fd0a79fdc305",
+        "type": "message",
+        "text": "I was just hoping I could do this in a stored proc easily",
+        "user": "U15HRTAHL",
+        "ts": "1557255936.029300"
+    },
+    {
+        "client_msg_id": "8ae9855d-ef08-4f8c-bff2-cd18501420e1",
+        "type": "message",
+        "text": "what?",
+        "user": "U15HRTAHL",
+        "ts": "1557255944.029600"
+    },
+    {
+        "client_msg_id": "5a6dfcb1-9513-483f-9f29-024a64888fe8",
+        "type": "message",
+        "text": "am I missing what Tommy said besides the COUNT?",
+        "user": "U15HY5TG8",
+        "ts": "1557256004.030700"
+    },
+    {
+        "client_msg_id": "4f764f0d-fba6-4b64-b0aa-7dbcc5923f39",
+        "type": "message",
+        "text": "that doesn't work with Joe's new found diagram",
+        "user": "U15HSHSS2",
+        "ts": "1557256026.031200"
+    },
+    {
+        "client_msg_id": "a56b9285-067b-4bc6-81c5-544cf365db54",
+        "type": "message",
+        "text": "So... hmm... You need to know if you have all the recipe ingredients for a recipe",
+        "user": "U15HSHSS2",
+        "ts": "1557256037.031500"
+    },
+    {
+        "client_msg_id": "e25329fa-0187-4914-986e-b442e8724dfe",
+        "type": "message",
+        "text": "correct",
+        "user": "U15HRTAHL",
+        "ts": "1557256041.031700"
+    },
+    {
+        "client_msg_id": "423459ce-d7fa-48b7-846d-50144f428b31",
+        "type": "message",
+        "text": "all the details for the summary",
+        "user": "U15HRTAHL",
+        "ts": "1557256050.031900"
+    },
+    {
+        "client_msg_id": "17e7995d-d539-4068-929e-8c175b53b0b0",
+        "type": "message",
+        "text": "count doesn't work because multiple recipie_ingredients go to an ingredient",
+        "user": "U15HSHSS2",
+        "ts": "1557256107.032900"
+    },
+    {
+        "client_msg_id": "80f3cec6-1a15-455e-893c-2b81825605c4",
+        "type": "message",
+        "text": "apparently this exists",
+        "user": "U15HY5TG8",
+        "ts": "1557256117.033100"
+    },
+    {
+        "client_msg_id": "4d2dab6c-7208-4b3a-807d-d33871714a75",
+        "type": "message",
+        "text": "```SELECT column_name(s)\nFROM table_name\nWHERE column_name operator ALL\n(SELECT column_name FROM table_name WHERE condition);```",
+        "user": "U15HY5TG8",
+        "ts": "1557256122.033300"
+    },
+    {
+        "client_msg_id": "cc376cda-783e-412e-80ba-32642cb0351b",
+        "type": "message",
+        "text": "so try my query from above where ALL replaces IN",
+        "user": "U15HY5TG8",
+        "ts": "1557256137.033700"
+    },
+    {
+        "client_msg_id": "24506ab6-111b-4445-8530-90f36f51f429",
+        "type": "message",
+        "text": "I do think dynamic is a good way to go though",
+        "user": "U15HY5TG8",
+        "ts": "1557256163.034000"
+    },
+    {
+        "client_msg_id": "4456e295-be51-4895-981b-39dd12c395f0",
+        "type": "message",
+        "text": "WHERE column_name operator ALL",
+        "user": "U15HRTAHL",
+        "ts": "1557256233.034200"
+    },
+    {
+        "client_msg_id": "3e75d939-8f06-4478-8ce5-ca5ffd39d766",
+        "type": "message",
+        "text": "what is operator?",
+        "user": "U15HRTAHL",
+        "ts": "1557256237.034500"
+    },
+    {
+        "client_msg_id": "62c7e5bc-7a7b-40eb-9981-9e4816ab2d88",
+        "type": "message",
+        "text": "nooo idea",
+        "user": "U15HY5TG8",
+        "ts": "1557256283.034700"
+    },
+    {
+        "client_msg_id": "1b6c5d82-735c-43e9-ac8b-27ec660d625e",
+        "type": "message",
+        "text": "SELECT ProductName\nFROM Products\nWHERE ProductID = ALL (SELECT ProductID FROM OrderDetails WHERE Quantity = 10);",
+        "user": "U15HY5TG8",
+        "ts": "1557256314.034900"
+    },
+    {
+        "client_msg_id": "78def9a3-ba64-4c60-927c-78627529c5bc",
+        "type": "message",
+        "text": "yeah that defintely didn’t work",
+        "user": "U15HRTAHL",
+        "ts": "1557256431.035200"
+    },
+    {
+        "client_msg_id": "b0093b71-fa91-43d3-b29e-19568ac0d33f",
+        "type": "message",
+        "text": "dynamic then",
+        "user": "U15HY5TG8",
+        "ts": "1557256446.035500"
+    },
+    {
+        "client_msg_id": "0e28f86e-efd9-4d58-9800-373dd84ac642",
+        "type": "message",
+        "text": "just append your where clause to the SP when you want to execute it",
+        "user": "U15HY5TG8",
+        "ts": "1557256473.036500"
+    },
+    {
+        "client_msg_id": "74b45c49-0be8-4d4e-8d9f-a8143d10e1ef",
+        "type": "message",
+        "text": "I know how you can do this, but it's logic that's coming from the top of my head and is probably very messy and inefficient",
+        "user": "U15HSHSS2",
+        "ts": "1557256489.036800"
+    },
+    {
+        "client_msg_id": "38e6e80a-89d8-4bd3-a8dd-89c90f981e80",
+        "type": "message",
+        "text": "<@U15HSHSS2> I'm curious how, cause I\"m out of ideas",
+        "user": "U15HY5TG8",
+        "ts": "1557256543.037700"
+    },
+    {
+        "client_msg_id": "7b209799-843c-4125-a79f-bc7c96d58ff6",
+        "type": "message",
+        "text": "You need to join the 3 tables, and filter on(WHERE clause) the input ingredient set. and get a list or table or whatever of the recipieIds and recipe_ingredientIds. Then you need to query the recipe_ingredient table WHERE recipe_ingredientId is NOT in the list you have, and you need to see if any recipeIds that exist in table you made (recipeIds\/recipe_ingredientIds) also exist in the recipe_ingredient query you just did (with the NOT), If so don't return the recipe with those IDs, if not return the recipes with that ID",
+        "user": "U15HSHSS2",
+        "ts": "1557256916.042400",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1557257107.000000"
+        }
+    },
+    {
+        "client_msg_id": "efc1f949-4885-4742-9927-113a9ae70708",
+        "type": "message",
+        "text": "yeah that makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1557256981.042700"
+    },
+    {
+        "client_msg_id": "9c74a5b8-c14f-47a8-b21a-db6a4df24702",
+        "type": "message",
+        "text": "essentially relational subtraction",
+        "user": "U15HRTAHL",
+        "ts": "1557256993.043200"
+    },
+    {
+        "client_msg_id": "fadd4a4d-d3c4-4fbc-8b8c-73ae5dcf941d",
+        "type": "message",
+        "text": "don't ask me what  the SQL code looks like lol",
+        "user": "U15HSHSS2",
+        "ts": "1557256999.043400"
+    },
+    {
+        "client_msg_id": "135b0985-0d98-4a0b-a5fb-8610b8cb18ed",
+        "type": "message",
+        "text": "oooo I’ll show you some sql",
+        "user": "U15HRTAHL",
+        "ts": "1557257005.043600"
+    },
+    {
+        "client_msg_id": "2eb22113-3b66-493b-bdbf-ba0aa2f19447",
+        "type": "message",
+        "text": "oh man",
+        "user": "U15HRTAHL",
+        "ts": "1557257177.044000"
+    },
+    {
+        "client_msg_id": "90c83bdd-7076-4128-adee-5781154c09f3",
+        "type": "message",
+        "text": "this is like butter",
+        "user": "U15HRTAHL",
+        "ts": "1557257180.044200"
+    },
+    {
+        "client_msg_id": "6d22c363-5ad4-4b87-9d8f-5bdc573d0688",
+        "type": "message",
+        "text": "<@U15HSHSS2> do you want a job with a company that doesn’t exist built upon the latest and greatest tech on a free tier trial?",
+        "user": "U15HRTAHL",
+        "ts": "1557257215.044800"
+    },
+    {
+        "client_msg_id": "03973795-f727-4446-980e-a1bdc315c91d",
+        "type": "message",
+        "text": "if so you’re hired!",
+        "user": "U15HRTAHL",
+        "ts": "1557257229.045000"
+    },
+    {
+        "client_msg_id": "ee418b59-3217-4cec-a56b-1c703e79993b",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1557257406.045200"
+    },
+    {
+        "client_msg_id": "4b848be9-d679-4b79-94c0-3bf65907382a",
+        "type": "message",
+        "text": "Depends... Do you observe Martin Luther King Day?",
+        "user": "U15HSHSS2",
+        "ts": "1557257513.046200"
+    },
+    {
+        "client_msg_id": "e399e523-c130-4f33-b773-504ce4ba3b87",
+        "type": "message",
+        "text": "if you think our budget is non existent wait until you see your compensation!",
+        "user": "U15HRTAHL",
+        "ts": "1557257529.046500"
+    },
+    {
+        "client_msg_id": "0ed64b55-b960-45e2-9d8e-a48f508e38b7",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1557257531.046700"
+    },
+    {
+        "client_msg_id": "7df85af2-149c-43ad-b57f-d9ccf5095769",
+        "type": "message",
+        "text": "we do",
+        "user": "U15HRTAHL",
+        "ts": "1557257532.046900"
+    },
+    {
+        "client_msg_id": "a3646f5a-1feb-474b-9424-b5e9ee23537d",
+        "type": "message",
+        "text": "holy fuck",
+        "user": "U15HRTAHL",
+        "ts": "1557257564.047500"
+    },
+    {
+        "client_msg_id": "d7378461-8756-41e9-b7c8-a1154be9609e",
+        "type": "message",
+        "text": "that was so easy",
+        "user": "U15HRTAHL",
+        "ts": "1557257569.047700"
+    },
+    {
+        "client_msg_id": "f4b63aaf-a991-4aeb-8c79-ed1c84ea38cc",
+        "type": "message",
+        "text": "```\nSELECT r.name\nFROM recipe_ingredient ri\nJOIN recipe r ON r.id = ri.recipe_id\nWHERE ri.ingredient_id in (416) --users ingredients\nEXCEPT\nSELECT r.name\nfrom recipe_ingredient ri \nJOIN recipe r ON r.id = ri.recipe_id\nWHERE ri.ingredient_id not in (416)\nGROUP BY r.name\n```",
+        "user": "U15HRTAHL",
+        "ts": "1557257576.047900"
+    },
+    {
+        "client_msg_id": "3561bfbc-808c-44ec-854e-c6963bfed71b",
+        "type": "message",
+        "text": "ahhhyy there it is",
+        "user": "U15HSHSS2",
+        "ts": "1557257585.048300"
+    },
+    {
+        "client_msg_id": "f6b33543-0a48-4dfc-b181-340e61fdd295",
+        "type": "message",
+        "text": "that actually worked",
+        "user": "U15HRTAHL",
+        "ts": "1557257589.048500"
+    },
+    {
+        "client_msg_id": "32d1e929-33d5-4c3e-aaaf-08f9a3817079",
+        "type": "message",
+        "text": "<https:\/\/www.foodnetwork.com\/recipes\/44646-2121709>",
+        "user": "U15HRTAHL",
+        "ts": "1557257654.048800",
+        "attachments": [
+            {
+                "service_name": "Food Network",
+                "title": "44646",
+                "title_link": "https:\/\/www.foodnetwork.com\/recipes\/44646-2121709",
+                "text": "Get 44646 Recipe from Food Network",
+                "fallback": "Food Network: 44646",
+                "thumb_url": "https:\/\/food.fnr.sndimg.com\/content\/dam\/images\/food\/editorial\/homepage\/fn-feature.jpg.rend.hgtvcom.616.347.suffix\/1474463768097.jpeg",
+                "from_url": "https:\/\/www.foodnetwork.com\/recipes\/44646-2121709",
+                "thumb_width": 616,
+                "thumb_height": 347,
+                "service_icon": "https:\/\/www.foodnetwork.com\/etc\/clientlibs\/assets\/images\/food\/apple-touch-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.foodnetwork.com\/recipes\/44646-2121709"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1cbaec18-91c4-4ba2-81f1-8ed4947d189a",
+        "type": "message",
+        "text": "thats what I can make with ingredient 416",
+        "user": "U15HRTAHL",
+        "ts": "1557257666.049200"
+    }
+]

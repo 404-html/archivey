@@ -1,0 +1,344 @@
+[
+    {
+        "type": "message",
+        "text": "lol the lead dev is at it again with the funny remarks",
+        "user": "U15HY5TG8",
+        "ts": "1507749017.000365"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1507749482.000267"
+    },
+    {
+        "type": "message",
+        "text": "the sql assignments in codefights are actually pretty difficult",
+        "user": "U15HRTAHL",
+        "ts": "1507754797.000402"
+    },
+    {
+        "type": "message",
+        "text": "Codefights in general are pretty difficult",
+        "user": "U15HY5TG8",
+        "ts": "1507754829.000571"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> do you know sql pretty well",
+        "user": "U15HRTAHL",
+        "ts": "1507755108.000495"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15HSHSS2",
+        "ts": "1507755121.000359"
+    },
+    {
+        "type": "message",
+        "text": "wish i did",
+        "user": "U15HSHSS2",
+        "ts": "1507755127.000394"
+    },
+    {
+        "type": "message",
+        "text": "seems like something that would have been useful to learn in college",
+        "user": "U15HSHSS2",
+        "ts": "1507755139.000201"
+    },
+    {
+        "type": "message",
+        "text": "Whats the question?",
+        "user": "U15HY5TG8",
+        "ts": "1507755140.000484"
+    },
+    {
+        "type": "message",
+        "text": "Damnit dee",
+        "user": "U15HY5TG8",
+        "ts": "1507755147.000035"
+    },
+    {
+        "type": "message",
+        "text": "Yeah she really fucked us",
+        "user": "U15HRTAHL",
+        "ts": "1507755158.000368"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1507755161.000422"
+    },
+    {
+        "type": "message",
+        "text": "pretty damn hard",
+        "user": "U15HRTAHL",
+        "ts": "1507755163.000083"
+    },
+    {
+        "type": "message",
+        "text": "```\n\/*Please add ; after each select statement*\/\nCREATE PROCEDURE gradeDistribution()\nBEGIN\n\tSELECT ((Midterm1 * .25) + (Midterm2 * .25) + (Final * .5)) AS option1\n    FROM Grades\nEND\n```",
+        "user": "U15HRTAHL",
+        "ts": "1507755170.000294"
+    },
+    {
+        "type": "message",
+        "text": "it doesn't like my alias",
+        "user": "U15HRTAHL",
+        "ts": "1507755173.000390"
+    },
+    {
+        "type": "message",
+        "text": "I know the very basics of sql and some join stuff",
+        "user": "U15HSHSS2",
+        "ts": "1507755176.000554"
+    },
+    {
+        "type": "message",
+        "text": "whats the error?",
+        "user": "U15HSHSS2",
+        "ts": "1507755210.000057"
+    },
+    {
+        "type": "message",
+        "text": "Your alias?",
+        "user": "U15HY5TG8",
+        "ts": "1507755212.000660"
+    },
+    {
+        "type": "message",
+        "text": "```\nERROR 1064 (42000) at line 36: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 5\n```",
+        "user": "U15HRTAHL",
+        "ts": "1507755220.000537"
+    },
+    {
+        "type": "message",
+        "text": "the line number doesn't matter",
+        "user": "U15HRTAHL",
+        "ts": "1507755230.000278"
+    },
+    {
+        "type": "message",
+        "text": "Which part is the error then? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1507755256.000604"
+    },
+    {
+        "type": "message",
+        "text": "in the select",
+        "user": "U15HRTAHL",
+        "ts": "1507755262.000566"
+    },
+    {
+        "type": "message",
+        "text": "god damn it",
+        "user": "U15HRTAHL",
+        "ts": "1507755290.000131"
+    },
+    {
+        "type": "message",
+        "text": "I know what it is",
+        "user": "U15HRTAHL",
+        "ts": "1507755293.000217"
+    },
+    {
+        "type": "message",
+        "text": "missing the semicolon",
+        "user": "U15HRTAHL",
+        "ts": "1507755297.000459"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1507755311.000396"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1507755317.000165"
+    },
+    {
+        "type": "message",
+        "text": "which is kinda stupid cuz i never use semicolons in sql",
+        "user": "U15HSHSS2",
+        "ts": "1507755324.000210"
+    },
+    {
+        "type": "message",
+        "text": "RTDP",
+        "user": "U15HY5TG8",
+        "ts": "1507755331.000191"
+    },
+    {
+        "type": "message",
+        "text": "me either",
+        "user": "U15HRTAHL",
+        "ts": "1507755335.000004"
+    },
+    {
+        "type": "message",
+        "text": "READ THE DAMN PROBLEM",
+        "user": "U15HY5TG8",
+        "ts": "1507755350.000004"
+    },
+    {
+        "type": "message",
+        "text": "ITS IN THE FIRST LINE",
+        "user": "U15HY5TG8",
+        "ts": "1507755355.000323"
+    },
+    {
+        "type": "message",
+        "text": "you guys really should do these in your free time though",
+        "user": "U15HRTAHL",
+        "ts": "1507755365.000029"
+    },
+    {
+        "type": "message",
+        "text": "what is it?",
+        "user": "U15HSHSS2",
+        "ts": "1507755370.000205"
+    },
+    {
+        "type": "message",
+        "text": "its actually worth while",
+        "user": "U15HRTAHL",
+        "ts": "1507755371.000070"
+    },
+    {
+        "type": "message",
+        "text": "i used to. ",
+        "user": "U15HY5TG8",
+        "ts": "1507755380.000237"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/codefights.com\/arcade|codefights.com\/arcade>",
+        "user": "U15HRTAHL",
+        "ts": "1507755384.000343"
+    },
+    {
+        "type": "message",
+        "text": "do the sql challenges",
+        "user": "U15HRTAHL",
+        "ts": "1507755388.000614"
+    },
+    {
+        "type": "message",
+        "text": "intresting, ill have to take a look",
+        "user": "U15HSHSS2",
+        "ts": "1507755414.000453"
+    },
+    {
+        "type": "message",
+        "text": "Fight me joe",
+        "user": "U15HY5TG8",
+        "ts": "1507755437.000522"
+    },
+    {
+        "type": "message",
+        "text": "K i'll be over in 5",
+        "user": "U15HRTAHL",
+        "ts": "1507755449.000488"
+    },
+    {
+        "type": "message",
+        "text": "In codefights you assclown",
+        "user": "U15HY5TG8",
+        "ts": "1507755464.000445"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1507755479.000538"
+    },
+    {
+        "type": "message",
+        "text": "Thats gay",
+        "user": "U15HY5TG8",
+        "ts": "1507755495.000353"
+    },
+    {
+        "type": "message",
+        "text": "searching google for these problems is difficult too",
+        "user": "U15HRTAHL",
+        "ts": "1507755606.000111"
+    },
+    {
+        "type": "message",
+        "text": "Idk how to phrase it",
+        "user": "U15HRTAHL",
+        "ts": "1507755610.000318"
+    },
+    {
+        "type": "message",
+        "text": "Thats cause they dont exist",
+        "user": "U15HY5TG8",
+        "ts": "1507755631.000483"
+    },
+    {
+        "type": "message",
+        "text": "Theyre made up by the users",
+        "user": "U15HY5TG8",
+        "ts": "1507755638.000348"
+    },
+    {
+        "type": "message",
+        "text": "sql is fucking powerful",
+        "user": "U15HRTAHL",
+        "ts": "1507755694.000453"
+    },
+    {
+        "type": "message",
+        "text": "Kinda like python",
+        "user": "U15HY5TG8",
+        "ts": "1507755708.000338"
+    },
+    {
+        "type": "message",
+        "text": "Hey evan whers your flip desk emoji?",
+        "user": "U15HRTAHL",
+        "ts": "1507755740.000029"
+    },
+    {
+        "type": "message",
+        "text": "Fucking apple wouldnt let me program it into my phone because iT cAnT bE ChINeSe sYmBoLs",
+        "user": "U15HY5TG8",
+        "ts": "1507755826.000174"
+    },
+    {
+        "type": "message",
+        "text": "lame",
+        "user": "U15HRTAHL",
+        "ts": "1507756747.000117"
+    },
+    {
+        "type": "message",
+        "text": "the 7th problem's solution is this",
+        "user": "U15HRTAHL",
+        "ts": "1507756757.000102"
+    },
+    {
+        "type": "message",
+        "text": "```\n\/*Please add ; after each select statement*\/\nCREATE PROCEDURE gradeDistribution()\nBEGIN\n    SELECT r.Name, r.ID\n    FROM (\n        SELECT ((Midterm1 * .25) + (Midterm2 * .25) + (Final * .5)) AS option1,\n            ((Midterm1 * .5) + (Midterm2 * .5)) AS option2,\n            Final AS option3, Name, ID, GREATEST(((Midterm1 * .25) + (Midterm2 * .25) + (Final * .5)), ((Midterm1 * .5) + (Midterm2 * .5)), Final) AS best\n        FROM Grades\n        ORDER BY best DESC\n    )r\n    WHERE r.best = r.option3 AND r.best != r.option1 AND r.best != r.option2\n    ORDER BY SUBSTRING(r.Name, 1,3) ASC, ID ASC;\nEND\n```",
+        "user": "U15HRTAHL",
+        "ts": "1507756760.000334"
+    },
+    {
+        "type": "message",
+        "text": "I learned more about sql in this problem than in dees class",
+        "user": "U15HRTAHL",
+        "ts": "1507756772.000373"
+    },
+    {
+        "type": "message",
+        "text": "It is lame, yes. And truuuuuuu",
+        "user": "U15HY5TG8",
+        "ts": "1507760189.000076"
+    }
+]

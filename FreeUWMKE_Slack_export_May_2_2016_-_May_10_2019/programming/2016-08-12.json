@@ -1,0 +1,140 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>:  in my js file i have a MapHttpRoute initialized. Do you know how i get that to be passed to the ApiController so that it can then reach the proper backend file?",
+        "user": "U15HY5TG8",
+        "ts": "1471014592.000002"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1471014606.000003"
+    },
+    {
+        "type": "message",
+        "text": "let me get an example",
+        "user": "U15HRTAHL",
+        "ts": "1471014612.000004"
+    },
+    {
+        "type": "message",
+        "text": "Sweet thanks",
+        "user": "U15HY5TG8",
+        "ts": "1471014623.000005"
+    },
+    {
+        "type": "message",
+        "text": "the controller you need it in",
+        "user": "U15HRTAHL",
+        "ts": "1471014705.000006"
+    },
+    {
+        "type": "message",
+        "text": "at the top you should have something like this",
+        "user": "U15HRTAHL",
+        "ts": "1471014712.000007"
+    },
+    {
+        "type": "message",
+        "text": "```\nAddDependentCtrl.$inject = ['$scope', '$location', 'ROUTES', 'Dependents', 'UserModel'];\n    function AddDependentCtrl($scope, $location, ROUTES, Dependents, UserModel) {\n```",
+        "user": "U15HRTAHL",
+        "ts": "1471014724.000008"
+    },
+    {
+        "type": "message",
+        "text": "or like this",
+        "user": "U15HRTAHL",
+        "ts": "1471014729.000009"
+    },
+    {
+        "type": "message",
+        "text": "```\nmyApp.controller('GreetingController', ['$scope', function($scope) {\n```",
+        "user": "U15HRTAHL",
+        "ts": "1471014759.000010"
+    },
+    {
+        "type": "message",
+        "text": "you need to do this",
+        "user": "U15HRTAHL",
+        "ts": "1471014779.000011"
+    },
+    {
+        "type": "message",
+        "text": "```\nmyApp.controller('GreetingController’,'MapHttpRoute' ['$scope', function($scope, MapHttpRoute) {\n```",
+        "user": "U15HRTAHL",
+        "ts": "1471014802.000012"
+    },
+    {
+        "type": "message",
+        "text": "No so it has all of that stuff in there im adding another path to the js file though",
+        "user": "U15HY5TG8",
+        "ts": "1471014818.000013"
+    },
+    {
+        "type": "message",
+        "text": "im confused",
+        "user": "U15HRTAHL",
+        "ts": "1471014844.000014"
+    },
+    {
+        "type": "message",
+        "text": "what are you trying to do",
+        "user": "U15HRTAHL",
+        "ts": "1471014849.000015"
+    },
+    {
+        "type": "message",
+        "text": "So i have a js file that already has 4 paths initialized and i added a 5th but when i run it, it says it cant create the controller that i want",
+        "user": "U15HY5TG8",
+        "ts": "1471014942.000016"
+    },
+    {
+        "type": "message",
+        "text": "what do you mean by paths",
+        "user": "U15HRTAHL",
+        "ts": "1471014965.000017"
+    },
+    {
+        "type": "message",
+        "text": "Which leads to this",
+        "user": "U15HY5TG8",
+        "ts": "1471015002.000019"
+    },
+    {
+        "type": "message",
+        "text": "And then somehow to the apifactory and then to the backend but when clicking on the desired link it wont map to the correct backend controller",
+        "user": "U15HY5TG8",
+        "ts": "1471015052.000021"
+    },
+    {
+        "type": "message",
+        "text": "I’m not sure about that one. does the c# controller exist for that path?",
+        "user": "U15HRTAHL",
+        "ts": "1471015116.000022"
+    },
+    {
+        "type": "message",
+        "text": "Yes i just made it but im having problems connecting to it now",
+        "user": "U15HY5TG8",
+        "ts": "1471015401.000023"
+    },
+    {
+        "type": "message",
+        "text": "does something have to be enabled for that to be exposed?",
+        "user": "U15HRTAHL",
+        "ts": "1471015544.000024"
+    },
+    {
+        "type": "message",
+        "text": "idk much about .net mvc",
+        "user": "U15HRTAHL",
+        "ts": "1471015560.000025"
+    },
+    {
+        "type": "message",
+        "text": "I dont think so. But idk. I just cant get it to connect",
+        "user": "U15HY5TG8",
+        "ts": "1471015864.000026"
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462332688.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462332689.000003",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462332689.000004",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/open.spotify.com\/track\/6pZLhQ7ZKWBImbpN8HiPvw>",
+        "user": "U15J5H60P",
+        "ts": "1462332712.000005",
+        "attachments": [
+            {
+                "service_name": "Spotify",
+                "service_url": "https:\/\/www.spotify.com",
+                "title": "Nevada Color - New Mexico",
+                "title_link": "https:\/\/open.spotify.com\/track\/6pZLhQ7ZKWBImbpN8HiPvw",
+                "thumb_url": "https:\/\/d3rt1990lpmkn.cloudfront.net\/cover\/1c2730308c1a32aa53729de76080cc5cd1a76ead",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "fallback": "Spotify Audio: Link: Nevada Color - New Mexico",
+                "audio_html": "<iframe src=\"https:\/\/open.spotify.com\/embed\/track\/6pZLhQ7ZKWBImbpN8HiPvw\" width=\"300\" height=\"380\" frameborder=\"0\" allowtransparency=\"true\"><\/iframe>",
+                "audio_html_width": 300,
+                "audio_html_height": 380,
+                "from_url": "https:\/\/open.spotify.com\/track\/6pZLhQ7ZKWBImbpN8HiPvw",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>:",
+        "user": "U15J5H60P",
+        "ts": "1462332715.000007"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy The Killers",
+        "user": "U15J5H60P",
+        "ts": "1462333163.000008",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/the-killers-brandon-flowers-mr-brightside-dT3RkCkYDcrNC>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/dT3RkCkYDcrNC\/giphy.gif",
+                "image_width": 500,
+                "image_height": 283,
+                "image_bytes": 236972,
+                "is_animated": true,
+                "title": "The Killers",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/the-killers-brandon-flowers-mr-brightside-dT3RkCkYDcrNC"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: do you listen to hippie sabotage?",
+        "user": "U15HY5TG8",
+        "ts": "1462333523.000009"
+    },
+    {
+        "type": "message",
+        "text": "Joe and I met those guys",
+        "user": "U15J5H60P",
+        "ts": "1462333538.000010"
+    },
+    {
+        "type": "message",
+        "text": "really?",
+        "user": "U15HY5TG8",
+        "ts": "1462333558.000011"
+    },
+    {
+        "type": "message",
+        "text": "Nevada Color, yes",
+        "user": "U15J5H60P",
+        "ts": "1462333572.000012"
+    },
+    {
+        "type": "message",
+        "text": "Not The Killers lol",
+        "user": "U15J5H60P",
+        "ts": "1462333576.000013"
+    },
+    {
+        "type": "message",
+        "text": "Nevada Color was playing at the miramar. After they were outside of Five Guys and they talked to us lol",
+        "user": "U15J5H60P",
+        "ts": "1462333601.000014"
+    },
+    {
+        "type": "message",
+        "text": "We were shit faced",
+        "user": "U15J5H60P",
+        "ts": "1462333605.000015"
+    },
+    {
+        "type": "message",
+        "text": "o i thought you were talking about the message i just sent",
+        "user": "U15HY5TG8",
+        "ts": "1462333622.000016"
+    },
+    {
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1462333636.000017"
+    },
+    {
+        "type": "message",
+        "text": "Hippie Sabotage is a band?",
+        "user": "U15J5H60P",
+        "ts": "1462333642.000018"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1462333643.000019"
+    },
+    {
+        "type": "message",
+        "text": "yea lol",
+        "user": "U15HY5TG8",
+        "ts": "1462333750.000020"
+    },
+    {
+        "type": "message",
+        "text": "lol Then no. I haven’t heard of them",
+        "user": "U15J5H60P",
+        "ts": "1462333760.000021"
+    },
+    {
+        "type": "message",
+        "text": "ahh ok haha",
+        "user": "U15HY5TG8",
+        "ts": "1462333832.000022"
+    },
+    {
+        "type": "message",
+        "text": "I do",
+        "user": "U15HRTAHL",
+        "ts": "1462333879.000023"
+    },
+    {
+        "type": "message",
+        "text": "i just downloaded a couple of their songs",
+        "user": "U15HY5TG8",
+        "ts": "1462333899.000024"
+    },
+    {
+        "type": "message",
+        "text": "Nice",
+        "user": "U15HRTAHL",
+        "ts": "1462333908.000025"
+    },
+    {
+        "type": "message",
+        "text": "Yeee i figured <@U15J5H60P> mightve liked them",
+        "user": "U15HY5TG8",
+        "ts": "1462334407.000026"
+    }
+]

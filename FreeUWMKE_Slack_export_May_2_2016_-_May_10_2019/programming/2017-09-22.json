@@ -1,0 +1,185 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> i thought you said you couldnt format dates in chrome\/IE....",
+        "user": "U15HY5TG8",
+        "ts": "1506086446.000444"
+    },
+    {
+        "type": "message",
+        "text": "Date inputs?",
+        "user": "U15HRTAHL",
+        "ts": "1506086473.000047"
+    },
+    {
+        "type": "message",
+        "text": "It's driven off system time for ie I think ",
+        "user": "U15HRTAHL",
+        "ts": "1506086490.000208"
+    },
+    {
+        "type": "message",
+        "text": "I thought you said the display of times",
+        "user": "U15HY5TG8",
+        "ts": "1506086585.000212"
+    },
+    {
+        "type": "message",
+        "text": "Nope. I even uploaded a screen shot of a date inputs ",
+        "user": "U15HRTAHL",
+        "ts": "1506086604.000311"
+    },
+    {
+        "type": "message",
+        "text": "cause im pretty sure we can format them here",
+        "user": "U15HY5TG8",
+        "ts": "1506086636.000280"
+    },
+    {
+        "type": "message",
+        "text": "actually that may be because in some areas theyre using webforms",
+        "user": "U15HY5TG8",
+        "ts": "1506086829.000064"
+    },
+    {
+        "type": "message",
+        "text": "im still not sure if you're talking about inputs or just date objects",
+        "user": "U15HRTAHL",
+        "ts": "1506087933.000064"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/7372038\/is-there-any-way-to-change-input-type-date-format>",
+        "user": "U15HRTAHL",
+        "ts": "1506087996.000105",
+        "attachments": [
+            {
+                "title": "Is there any way to change input type=\"date\" format?",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/7372038\/is-there-any-way-to-change-input-type-date-format",
+                "text": "I'm working with HTML5 elements on my webpage. By default input type=\"date\" shows date as YYYY-MM-DD. The question is, is it possible to change it's format to something like: DD-MM-YYYY?",
+                "fallback": "Is there any way to change input type=\"date\" format?",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/7372038\/is-there-any-way-to-change-input-type-date-format",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ahhh ok so it is for inputs sorry. I thought for a second it was the display value of like a label",
+        "user": "U15HY5TG8",
+        "ts": "1506088134.000614"
+    },
+    {
+        "type": "message",
+        "text": "nahh",
+        "user": "U15HRTAHL",
+        "ts": "1506088142.000110"
+    },
+    {
+        "type": "message",
+        "text": "i bet you could put some regex on the field and then format it once the user loses focus or something",
+        "user": "U15HY5TG8",
+        "ts": "1506088342.000165"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/jsfiddle.net\/x9zNf\/>",
+        "user": "U15HY5TG8",
+        "ts": "1506088657.000197",
+        "attachments": [
+            {
+                "title": "Edit fiddle - JSFiddle",
+                "title_link": "http:\/\/jsfiddle.net\/x9zNf\/",
+                "text": "Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.",
+                "fallback": "Edit fiddle - JSFiddle",
+                "from_url": "http:\/\/jsfiddle.net\/x9zNf\/",
+                "service_icon": "http:\/\/jsfiddle.net\/favicon.png",
+                "service_name": "jsfiddle.net",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolol jk that didnt work",
+        "user": "U15HY5TG8",
+        "ts": "1506088694.000174"
+    },
+    {
+        "type": "message",
+        "text": "im having way too much fun with this github viewer thing lol",
+        "user": "U15HY5TG8",
+        "ts": "1506091695.000362"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15HY5TG8",
+        "ts": "1506096681.000300"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1506096758.000145"
+    },
+    {
+        "type": "message",
+        "text": "why is the ng-include on 22 not working?",
+        "user": "U15HY5TG8",
+        "ts": "1506096801.000275"
+    },
+    {
+        "type": "message",
+        "text": "I've never used ng-include",
+        "user": "U15HRTAHL",
+        "ts": "1506096906.000461"
+    },
+    {
+        "type": "message",
+        "text": "only ng-view",
+        "user": "U15HRTAHL",
+        "ts": "1506096911.000114"
+    },
+    {
+        "type": "message",
+        "text": "and that loads in a separate html file?",
+        "user": "U15HY5TG8",
+        "ts": "1506096995.000300"
+    },
+    {
+        "type": "message",
+        "text": "ahhh that has to do with routing",
+        "user": "U15HY5TG8",
+        "ts": "1506097059.000184"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1506097083.000198"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> did you do ng-view",
+        "user": "U15HRTAHL",
+        "ts": "1506116110.000074"
+    },
+    {
+        "type": "message",
+        "text": "Starting on that now, but i havent figured it out",
+        "user": "U15HY5TG8",
+        "ts": "1506116245.000205"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1506121736.000039"
+    }
+]

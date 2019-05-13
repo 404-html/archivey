@@ -1,0 +1,661 @@
+[
+    {
+        "type": "message",
+        "text": "if you paste hex color into slack it converts it",
+        "user": "U15HRTAHL",
+        "ts": "1518619497.000140"
+    },
+    {
+        "type": "message",
+        "text": "#555555",
+        "user": "U15HRTAHL",
+        "ts": "1518619504.000495"
+    },
+    {
+        "type": "message",
+        "text": "#234567",
+        "user": "U15HRTAHL",
+        "ts": "1518619510.000082"
+    },
+    {
+        "type": "message",
+        "text": "#009900",
+        "user": "U15HRTAHL",
+        "ts": "1518619515.000630"
+    },
+    {
+        "type": "message",
+        "text": "thats cool",
+        "user": "U15HRTAHL",
+        "ts": "1518619527.000842"
+    },
+    {
+        "type": "message",
+        "text": "#F0CK",
+        "user": "U15J5H60P",
+        "ts": "1518619537.000719"
+    },
+    {
+        "type": "message",
+        "text": "#FOC",
+        "user": "U15J5H60P",
+        "ts": "1518619543.000475"
+    },
+    {
+        "type": "message",
+        "text": "#F0C000",
+        "user": "U15J5H60P",
+        "ts": "1518619547.000551"
+    },
+    {
+        "type": "message",
+        "text": "Noiceee",
+        "user": "U15HY5TG8",
+        "ts": "1518619551.000659"
+    },
+    {
+        "type": "message",
+        "text": "#455",
+        "user": "U15J5H60P",
+        "ts": "1518619556.000463"
+    },
+    {
+        "type": "message",
+        "text": "#455000",
+        "user": "U15J5H60P",
+        "ts": "1518619559.000448"
+    },
+    {
+        "type": "message",
+        "text": "We've got an ML hacakathon today.",
+        "user": "U15J5H60P",
+        "ts": "1518622190.000142"
+    },
+    {
+        "type": "message",
+        "text": "We're using Azure ML. This is pretty neat.",
+        "user": "U15J5H60P",
+        "ts": "1518622201.000222"
+    },
+    {
+        "type": "message",
+        "text": "ML is actually pretty simple to get going with.",
+        "user": "U15J5H60P",
+        "ts": "1518622211.000134"
+    },
+    {
+        "type": "message",
+        "text": "If y'all wanna try it out",
+        "user": "U15J5H60P",
+        "ts": "1518622231.000882"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/blogs.msdn.microsoft.com\/cdndevs\/2016\/05\/13\/would-you-have-survived-the-titanic-try-this-step-by-step-machine-learning-experiment-to-find-out\/>",
+        "user": "U15J5H60P",
+        "ts": "1518622232.000538"
+    },
+    {
+        "type": "message",
+        "text": "That will take you through a tutorial on making a model to predict who survives the Titanic.",
+        "user": "U15J5H60P",
+        "ts": "1518622253.000918"
+    },
+    {
+        "type": "message",
+        "text": "At the end you'll be able to predict, based on Age, Gender, Class, and Number of Siblings aboard whether or not someone would live",
+        "user": "U15J5H60P",
+        "ts": "1518622291.000034"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> You might like this because, not surprisingly, class greatly effects your chances of survival.",
+        "user": "U15J5H60P",
+        "ts": "1518622317.000939"
+    },
+    {
+        "type": "message",
+        "text": "niceeee",
+        "user": "U15HRTAHL",
+        "ts": "1518622351.000103"
+    },
+    {
+        "type": "message",
+        "text": "Let me know if y'all have any questions! :slightly_smiling_face:",
+        "user": "U15J5H60P",
+        "ts": "1518622366.000126"
+    },
+    {
+        "type": "message",
+        "text": "This is a funny set of data - <https:\/\/www.kaggle.com\/danofer\/sarcasm\/data>",
+        "user": "U15J5H60P",
+        "ts": "1518622418.000120",
+        "attachments": [
+            {
+                "title": "Sarcasm on Reddit",
+                "title_link": "https:\/\/www.kaggle.com\/danofer\/sarcasm\/data",
+                "text": "1.3 million labelled comments from Reddit",
+                "fallback": "Sarcasm on Reddit",
+                "thumb_url": "https:\/\/kaggle2.blob.core.windows.net\/datasets-images\/1309\/2358\/44f1dcd39655c5bbfc6f9c24edea2bef\/dataset-card.jpg",
+                "from_url": "https:\/\/www.kaggle.com\/danofer\/sarcasm\/data",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "service_icon": "https:\/\/www.kaggle.com\/favicon.ico",
+                "service_name": "kaggle.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "&gt;deadass don't kill my buzz\n&gt;    -icebrotha",
+        "user": "U15J5H60P",
+        "ts": "1518622433.000951",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1518622447.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Guess what subreddit",
+        "user": "U15J5H60P",
+        "ts": "1518622468.000094"
+    },
+    {
+        "type": "message",
+        "text": "DUDE",
+        "user": "U15J5H60P",
+        "ts": "1518622470.000840"
+    },
+    {
+        "type": "message",
+        "text": "That'd be a good use case for ML",
+        "user": "U15J5H60P",
+        "ts": "1518622494.000952"
+    },
+    {
+        "type": "message",
+        "text": "`Based on comment, what subreddit is it from?`",
+        "user": "U15J5H60P",
+        "ts": "1518622570.000234",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1518622576.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "^ Problem statement",
+        "user": "U15J5H60P",
+        "ts": "1518622583.000069"
+    },
+    {
+        "type": "message",
+        "text": "Im about to light myself on fire",
+        "user": "U15HY5TG8",
+        "ts": "1518625419.000506"
+    },
+    {
+        "type": "message",
+        "text": "why",
+        "user": "U15HRTAHL",
+        "ts": "1518625592.000256"
+    },
+    {
+        "type": "message",
+        "text": "why",
+        "user": "U15J5H60P",
+        "ts": "1518626378.000603"
+    },
+    {
+        "type": "message",
+        "text": "Because i havent touched some of this code in about a week and now all of a sudden stored procedures wont run correctly",
+        "user": "U15HY5TG8",
+        "ts": "1518626518.000478"
+    },
+    {
+        "type": "message",
+        "text": "sometimes I hate programming",
+        "user": "U15HRTAHL",
+        "ts": "1518626538.000114"
+    },
+    {
+        "type": "message",
+        "text": "This is so fucking stupid",
+        "user": "U15HY5TG8",
+        "ts": "1518627574.000742"
+    },
+    {
+        "type": "message",
+        "text": "Hoan",
+        "user": "U15HY5TG8",
+        "ts": "1518629340.000757"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1518629394.000352",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/jump-bridge-12MVRCPJ4g1ePS",
+                "image_url": "https:\/\/media2.giphy.com\/media\/12MVRCPJ4g1ePS\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 834763,
+                "is_animated": true,
+                "title": "bridge jump",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/jump-bridge-12MVRCPJ4g1ePS"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I've got a go live tomorrow and successfully pushed everything to our stage environment. Now I have nothing to do between now and tomorrow",
+        "user": "U15HRTAHL",
+        "ts": "1518643922.000283"
+    },
+    {
+        "type": "message",
+        "text": "feels good",
+        "user": "U15HRTAHL",
+        "ts": "1518643936.000423"
+    },
+    {
+        "type": "message",
+        "text": "Niiice",
+        "user": "U15HY5TG8",
+        "ts": "1518646269.000452"
+    },
+    {
+        "type": "message",
+        "text": "You can help me then",
+        "user": "U15HY5TG8",
+        "ts": "1518646274.000363"
+    },
+    {
+        "type": "message",
+        "text": "Ng-show",
+        "user": "U15HY5TG8",
+        "ts": "1518646278.000388"
+    },
+    {
+        "type": "message",
+        "text": "How do i use this on specific data?",
+        "user": "U15HY5TG8",
+        "ts": "1518646288.000264"
+    },
+    {
+        "type": "message",
+        "text": "watcha mean?",
+        "user": "U15HRTAHL",
+        "ts": "1518646295.000633"
+    },
+    {
+        "type": "message",
+        "text": "So say i have an array of data {1,2,3},{3,3,3} inside of a table. I have an icon that i want to show in the row only when the first index is 1",
+        "user": "U15HY5TG8",
+        "ts": "1518646374.000636"
+    },
+    {
+        "type": "message",
+        "text": "theres a $index function in ng-repeat",
+        "user": "U15HRTAHL",
+        "ts": "1518646415.000229",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1518646419.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Hold on. To make it worse, i need it to only display on the most current time period. Also idk if i can use index because these columns are sortable so it cant be index 1 ",
+        "user": "U15HY5TG8",
+        "ts": "1518646544.000316"
+    },
+    {
+        "type": "message",
+        "text": "Would i just have to pass in a 1 flag with the data jndicating that it is the most current?",
+        "user": "U15HY5TG8",
+        "ts": "1518646577.000664"
+    },
+    {
+        "type": "message",
+        "text": "I need to see some code",
+        "user": "U15HRTAHL",
+        "ts": "1518646599.000418"
+    },
+    {
+        "type": "message",
+        "text": "and if it's sortable it should still work.",
+        "user": "U15HRTAHL",
+        "ts": "1518646614.000472"
+    },
+    {
+        "type": "message",
+        "text": "I dont really have any code to show since thats what im working on.",
+        "user": "U15HY5TG8",
+        "ts": "1518646637.000339"
+    },
+    {
+        "type": "message",
+        "text": "Basically just imagine a grid. In the grid, only one row has this icon because its the most current date",
+        "user": "U15HY5TG8",
+        "ts": "1518646666.000293"
+    },
+    {
+        "type": "message",
+        "text": "So somewhere in this all, all the dates have to be compared to each other to determine which one is most recent",
+        "user": "U15HY5TG8",
+        "ts": "1518646703.000204"
+    },
+    {
+        "type": "message",
+        "text": "On your object just set a flag",
+        "user": "U15HRTAHL",
+        "ts": "1518646708.000496"
+    },
+    {
+        "type": "message",
+        "text": "Is that done when it is passed into the restpoint?",
+        "user": "U15HY5TG8",
+        "ts": "1518646748.000320"
+    },
+    {
+        "type": "message",
+        "text": "```\n$scope.array = [{}, {}];\n$scope.array.forEach(function(item) {\n    if condition is met\n    item.specialCase = true;\n});\n\n\n\n&lt;div ng-repeat=\"object in array\"&gt;\n    &lt;p ng-show=\"object.specialCase\"&gt;&lt;\/p&gt;\n&lt;\/div&gt;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1518646844.000143",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1518646853.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Idk if the foreach would work though because each time they go through the foreach loop, you could be setting special case to be true on each item depending on the data",
+        "user": "U15HY5TG8",
+        "ts": "1518646997.000208"
+    },
+    {
+        "type": "message",
+        "text": "I can't help without seeing code, I don't know what you mean",
+        "user": "U15HRTAHL",
+        "ts": "1518647250.000484"
+    },
+    {
+        "type": "message",
+        "text": "theres what it looks like",
+        "user": "U15HY5TG8",
+        "ts": "1518647341.000435"
+    },
+    {
+        "type": "message",
+        "text": "i need to code it to look like that",
+        "user": "U15HY5TG8",
+        "ts": "1518647349.000356"
+    },
+    {
+        "type": "message",
+        "text": "And what is the ng-show doing",
+        "user": "U15HRTAHL",
+        "ts": "1518647377.000176"
+    },
+    {
+        "type": "message",
+        "text": "and as far as i know, the json coming in will only be the Catalog name and the two dates",
+        "user": "U15HY5TG8",
+        "ts": "1518647379.000492"
+    },
+    {
+        "type": "message",
+        "text": "ng-show doesnt exist yet, but what it does need to do is show the pencil on only the most recent date",
+        "user": "U15HY5TG8",
+        "ts": "1518647407.000234"
+    },
+    {
+        "type": "message",
+        "text": "what I have will work",
+        "user": "U15HRTAHL",
+        "ts": "1518647417.000367"
+    },
+    {
+        "type": "message",
+        "text": "which is why you see the pencil on only the first record",
+        "user": "U15HY5TG8",
+        "ts": "1518647417.000375"
+    },
+    {
+        "type": "message",
+        "text": "you just have to plug in the logic for seeing if today is between the dates",
+        "user": "U15HRTAHL",
+        "ts": "1518647440.000103"
+    },
+    {
+        "type": "message",
+        "text": "i'll give it a shot",
+        "user": "U15HY5TG8",
+        "ts": "1518647478.000589"
+    },
+    {
+        "type": "message",
+        "text": "wait so say you have item 1 = 10\/10\/2000, item 2 = 10\/10\/2008. when the foreach goes through, itll set both to have specialcase = true because it doesnt know the others",
+        "user": "U15HY5TG8",
+        "ts": "1518647621.000078"
+    },
+    {
+        "client_msg_id": "e9ecde20-4d30-4df0-8a43-1ff767ff2f29",
+        "type": "message",
+        "text": "What are you talking about ",
+        "user": "U15HRTAHL",
+        "ts": "1518647902.000301"
+    },
+    {
+        "client_msg_id": "9faddef5-bf12-4d95-85cb-e1524922a860",
+        "type": "message",
+        "text": "There's a start and end date ",
+        "user": "U15HRTAHL",
+        "ts": "1518647913.000392"
+    },
+    {
+        "type": "message",
+        "text": "so when it goes through, 10\/10\/2000 will look like the most recent, so it will set special case to true right? then it goes through again and sees 10\/10\/2008 and now it sees that entry as the most recent, so then youd have two entries claiming to be most recent, right?",
+        "user": "U15HY5TG8",
+        "ts": "1518647988.000055"
+    },
+    {
+        "client_msg_id": "e2e68316-b7af-47c0-a4ca-fbfd69dff07b",
+        "type": "message",
+        "text": "You're doing this by most recent or if today is between the two dates?",
+        "user": "U15HRTAHL",
+        "ts": "1518648032.000490"
+    },
+    {
+        "type": "message",
+        "text": "Most recent",
+        "user": "U15HY5TG8",
+        "ts": "1518648041.000023"
+    },
+    {
+        "client_msg_id": "b742bbfa-1257-446e-bcc6-06739ac2c1b2",
+        "type": "message",
+        "text": "Oh. That's even easier. Query the obejcts from the database and set the order by field to be the date ",
+        "user": "U15HRTAHL",
+        "ts": "1518648094.000469"
+    },
+    {
+        "client_msg_id": "18f745ce-923b-44ce-8bab-23dba15ba40d",
+        "type": "message",
+        "text": "Then it'll be the first or last one ",
+        "user": "U15HRTAHL",
+        "ts": "1518648103.000268"
+    },
+    {
+        "type": "message",
+        "text": "or create a map",
+        "user": "U15HRTAHL",
+        "ts": "1518648157.000120"
+    },
+    {
+        "type": "message",
+        "text": "i tried the map idea but failed so far",
+        "user": "U15HY5TG8",
+        "ts": "1518648185.000192"
+    },
+    {
+        "type": "message",
+        "text": "``` var mostRecent = new Date(Math.max.apply(null, vm.CatalogList.map(function(e) {\n                return new Date(e.EFFECTIVE_DATE);\n            })));```",
+        "user": "U15HY5TG8",
+        "ts": "1518648201.000035",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1518648210.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "thats what i tried",
+        "user": "U15HY5TG8",
+        "ts": "1518648215.000266"
+    },
+    {
+        "type": "message",
+        "text": "did not like map though",
+        "user": "U15HY5TG8",
+        "ts": "1518648221.000373"
+    },
+    {
+        "type": "message",
+        "text": "this is what i did overall",
+        "user": "U15HY5TG8",
+        "ts": "1518648248.000023"
+    },
+    {
+        "type": "message",
+        "text": "```var mostRecent = new Date(Math.max.apply(null, vm.CatalogList.map(function(e) {\n                return new Date(e.EFFECTIVE_DATE);\n            })));\n\n            vm.CatalogList = [\n                {\n                    DESCRIPTION: 'Catalog 1', EFFECTIVE_DATE: '01\/01\/2001', TERMINATION_DATE: '02\/02\/2002'\n                },\n                {\n                    DESCRIPTION: 'Catalog 2', EFFECTIVE_DATE: '01\/01\/2003', TERMINATION_DATE: '02\/02\/2003'\n                }\n            ]\n            vm.CatalogList.forEach(function(item) {\n                if(item.EFFECTIVE_DATE == mostRecent)\n                    item.MOST_RECENT = true;\n            });```",
+        "user": "U15HY5TG8",
+        "ts": "1518648255.000411"
+    },
+    {
+        "type": "message",
+        "text": "```\nvar mostRecent;\nvar map = {};\n\narray.forEach(function(item) {\n    if (!mostRecent || Math.abs(item.date - today) &lt; mostRecent) { \n        mostRecent = Math.abs(item.date - today);\n        map[mostRecent] = item;\n    }\n});\n\nmap[mostRecent].specialCase = true;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1518648339.000230",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1518648426.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> that should work",
+        "user": "U15HRTAHL",
+        "ts": "1518648450.000121"
+    },
+    {
+        "type": "message",
+        "text": "trying it now",
+        "user": "U15HY5TG8",
+        "ts": "1518648506.000156"
+    },
+    {
+        "type": "message",
+        "text": "you might have to mess with the if statement a bit to match exactly what you're doing but the map should work",
+        "user": "U15HRTAHL",
+        "ts": "1518648533.000083"
+    },
+    {
+        "type": "message",
+        "text": "NOICEEEE",
+        "user": "U15HY5TG8",
+        "ts": "1518648643.000164"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> ++",
+        "user": "U15HY5TG8",
+        "ts": "1518648647.000111"
+    },
+    {
+        "type": "message",
+        "text": "what the fuck",
+        "user": "U15HY5TG8",
+        "ts": "1518648652.000455"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> what the fuck",
+        "user": "U15HY5TG8",
+        "ts": "1518648660.000257"
+    },
+    {
+        "type": "message",
+        "text": ":smirk:",
+        "user": "U15HRTAHL",
+        "ts": "1518648699.000328"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> you might want to use \n```\nangular.forEach(array, function(item) {\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1518648787.000525"
+    },
+    {
+        "type": "message",
+        "text": "I don't think array.forEach is supported with ie",
+        "user": "U15HRTAHL",
+        "ts": "1518648800.000476"
+    },
+    {
+        "type": "message",
+        "text": "Lmao fucking IE",
+        "user": "U15HY5TG8",
+        "ts": "1518648819.000530"
+    },
+    {
+        "type": "message",
+        "text": "Wait how would i do that? I just did vm.CatalogList.foreach",
+        "user": "U15HY5TG8",
+        "ts": "1518648875.000481"
+    },
+    {
+        "type": "message",
+        "text": "O im an idiot",
+        "user": "U15HY5TG8",
+        "ts": "1518648891.000244"
+    },
+    {
+        "type": "message",
+        "text": "I didnt even read what you put",
+        "user": "U15HY5TG8",
+        "ts": "1518648900.000180"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1518648902.000498"
+    },
+    {
+        "type": "message",
+        "text": "angular has a bunch of built in functions",
+        "user": "U15HRTAHL",
+        "ts": "1518648915.000302"
+    },
+    {
+        "type": "message",
+        "text": "Niiice. Still worked",
+        "user": "U15HY5TG8",
+        "ts": "1518648983.000126"
+    },
+    {
+        "type": "message",
+        "text": "My manager prob thinks im an idiot",
+        "user": "U15HY5TG8",
+        "ts": "1518661817.000152"
+    }
+]

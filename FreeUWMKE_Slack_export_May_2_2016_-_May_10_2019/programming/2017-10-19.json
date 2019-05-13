@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "idk why this is so difficult... how the fuck do I set a declared variable to a value I am pulling from a table in sql?",
+        "user": "U15HSHSS2",
+        "ts": "1508427927.000413"
+    },
+    {
+        "type": "message",
+        "text": "toString",
+        "user": "U15HY5TG8",
+        "ts": "1508427954.000483"
+    },
+    {
+        "type": "message",
+        "text": "theres a table that has a 'UserId' column. I have a variable 'userId' that i declared, which i want to set to the value of one of the UserId entries in the table",
+        "user": "U15HSHSS2",
+        "ts": "1508428005.000569"
+    },
+    {
+        "type": "message",
+        "text": "yeah idk lol thats specific to your architecture",
+        "user": "U15HRTAHL",
+        "ts": "1508428059.000303"
+    },
+    {
+        "type": "message",
+        "text": "do you guys use DAOs?",
+        "user": "U15HRTAHL",
+        "ts": "1508428083.000018"
+    },
+    {
+        "type": "message",
+        "text": "usually we have something like \n```DataRow xyz = Database.executeScript(\"SELECT USER_ID FROM blahblah\");\nvar userId = xyz[\"USER_ID\"].toString();```",
+        "user": "U15HY5TG8",
+        "ts": "1508428107.000216"
+    },
+    {
+        "type": "message",
+        "text": "I got it. I needed parenthesis for some reason",
+        "user": "U15HSHSS2",
+        "ts": "1508428382.000214"
+    },
+    {
+        "type": "message",
+        "text": "`SET @UserId = (SELECT UserId FROM TABEL_A WHERE ID = @ID)`",
+        "user": "U15HSHSS2",
+        "ts": "1508428420.000828",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1508428513.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "ohhh a variable in your sql",
+        "user": "U15HRTAHL",
+        "ts": "1508428644.000612"
+    },
+    {
+        "type": "message",
+        "text": "yeahh",
+        "user": "U15HSHSS2",
+        "ts": "1508428785.000550"
+    },
+    {
+        "type": "message",
+        "text": "Ooo gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1508429909.000246"
+    },
+    {
+        "type": "message",
+        "text": "I thought you meant when you were pulling it into your app",
+        "user": "U15HY5TG8",
+        "ts": "1508429923.000466"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1536859959.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              226.52                5.45                2.465 \n       Avg.                 ---                 ---               2.465% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1536859959.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29978,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c5b58e6-28f8-4a5e-ae14-6f594549b77c",
+        "type": "message",
+        "text": ":conga_party_parrot:",
+        "user": "U15J5H60P",
+        "ts": "1536859966.000100"
+    },
+    {
+        "client_msg_id": "b7982018-361e-4b99-8a22-ab2187868eff",
+        "type": "message",
+        "text": ":party_parrot:",
+        "user": "U15J5H60P",
+        "ts": "1536860000.000100"
+    },
+    {
+        "client_msg_id": "4107a89d-7e2d-48ec-8bf2-9da274564d31",
+        "type": "message",
+        "text": "GREEN EVERYWHERE",
+        "user": "U15J5H60P",
+        "ts": "1536860009.000100"
+    },
+    {
+        "client_msg_id": "34182d99-b78a-4aec-a7cc-04bbd3718967",
+        "type": "message",
+        "text": "YAYAYAYAY",
+        "user": "U15J5H60P",
+        "ts": "1536860011.000100"
+    },
+    {
+        "client_msg_id": "81535c84-fd55-4da5-8349-00fe7eb5cd62",
+        "type": "message",
+        "text": "But still",
+        "user": "U15J5H60P",
+        "ts": "1536860015.000100"
+    },
+    {
+        "client_msg_id": "32a0d0bb-ae16-455d-8264-41e5237ff8a5",
+        "type": "message",
+        "text": "Fuck MU",
+        "user": "U15J5H60P",
+        "ts": "1536860016.000100"
+    },
+    {
+        "client_msg_id": "85f9d185-515f-4de5-b16c-0de253bbfe5d",
+        "type": "message",
+        "text": "Bought 18 with avg price of 54",
+        "user": "U15J5H60P",
+        "ts": "1536860029.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus mu",
+        "user": "U15J5H60P",
+        "ts": "1536860033.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU               43.86                2.12                5.079 \n       Avg.                 ---                 ---               5.079% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1536860033.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 35502,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bf49e673-3b0f-4752-83b2-4d6eff8cd7ce",
+        "type": "message",
+        "text": "Unbelievable.",
+        "user": "U15J5H60P",
+        "ts": "1536860039.000100"
+    }
+]

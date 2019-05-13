@@ -1,0 +1,71 @@
+[
+    {
+        "client_msg_id": "BFF9B0FF-9681-4AB1-87ED-DB50D28E4D64",
+        "type": "message",
+        "text": "So this sideprojects library uses a 3rd party ACH deposit platform and they just went to an api driven environment. This is the worst API structure I have ever fucking seen",
+        "user": "U15HY5TG8",
+        "ts": "1541979893.001800"
+    },
+    {
+        "client_msg_id": "44f2721c-d6d0-4528-808a-6299f7e4ac5d",
+        "type": "message",
+        "text": "<https:\/\/www.w3schools.com\/sql\/func_sqlserver_soundex.asp>",
+        "user": "U15HRTAHL",
+        "ts": "1541992726.000800",
+        "attachments": [
+            {
+                "title": "SQL Server SOUNDEX() Function",
+                "title_link": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_soundex.asp",
+                "text": "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.",
+                "fallback": "SQL Server SOUNDEX() Function",
+                "from_url": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_soundex.asp",
+                "service_icon": "https:\/\/www.w3schools.com\/favicon.ico",
+                "service_name": "w3schools.com",
+                "id": 1,
+                "original_url": "https:\/\/www.w3schools.com\/sql\/func_sqlserver_soundex.asp"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d2db7c5-0f12-4ce6-8cf2-a32af14357fb",
+        "type": "message",
+        "text": "wut…",
+        "user": "U15J5H60P",
+        "ts": "1541992793.001100"
+    },
+    {
+        "client_msg_id": "8c57eee2-672d-49c0-b4c2-4c605ba99f27",
+        "type": "message",
+        "text": "thats cool",
+        "user": "U15HRTAHL",
+        "ts": "1541992805.001300"
+    },
+    {
+        "client_msg_id": "4F2D93DC-D5B0-4439-BC44-5CC07C597D7A",
+        "type": "message",
+        "text": "Yeah wut?",
+        "user": "U15HY5TG8",
+        "ts": "1541992818.001600"
+    },
+    {
+        "client_msg_id": "37797a40-0fb6-4075-9548-cbf1c25e1bee",
+        "type": "message",
+        "text": "I don’t get it",
+        "user": "U15J5H60P",
+        "ts": "1541992821.001800"
+    },
+    {
+        "client_msg_id": "5d99ddd9-a68f-4c5e-a5c6-ed8e590ae5d6",
+        "type": "message",
+        "text": "it's cool",
+        "user": "U15HRTAHL",
+        "ts": "1541992826.002100"
+    },
+    {
+        "client_msg_id": "b7d6a7fc-a34e-4d0b-bf82-e2c4d7e90e0c",
+        "type": "message",
+        "text": "that's what to get",
+        "user": "U15HRTAHL",
+        "ts": "1541992828.002300"
+    }
+]

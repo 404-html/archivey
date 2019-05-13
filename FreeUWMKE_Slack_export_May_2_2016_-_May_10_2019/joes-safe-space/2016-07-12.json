@@ -1,0 +1,17 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468361611.000002",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1468361611.000003",
+        "text": "<@U15HRTAHL> set the channel purpose: Don’t bother joe",
+        "purpose": "Don’t bother joe"
+    }
+]

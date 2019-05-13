@@ -1,0 +1,206 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> what was your capstone project again?",
+        "user": "U15HRTAHL",
+        "ts": "1512848156.000017"
+    },
+    {
+        "type": "message",
+        "text": "My capstone project was me struggling to create a project without anyone’s help until the last couple weeks.",
+        "user": "U15J5H60P",
+        "ts": "1512848198.000067"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512848208.000029"
+    },
+    {
+        "type": "message",
+        "text": "Grocery web app",
+        "user": "U15J5H60P",
+        "ts": "1512848220.000042"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1512848236.000037"
+    },
+    {
+        "type": "message",
+        "text": "What did it do?",
+        "user": "U15HRTAHL",
+        "ts": "1512848242.000086"
+    },
+    {
+        "type": "message",
+        "text": "Tell you if your groceries were expired",
+        "user": "U15J5H60P",
+        "ts": "1512848260.000014"
+    },
+    {
+        "type": "message",
+        "text": "Im doing a side project right now. Trying to automate my kitchen a bit",
+        "user": "U15HRTAHL",
+        "ts": "1512848260.000028"
+    },
+    {
+        "type": "message",
+        "text": "gotchaaa",
+        "user": "U15HRTAHL",
+        "ts": "1512848264.000050"
+    },
+    {
+        "type": "message",
+        "text": "Whatre you doing?",
+        "user": "U15HY5TG8",
+        "ts": "1512848278.000035"
+    },
+    {
+        "type": "message",
+        "text": "I'm gonna make a react native app that lets me scan barcodes of food items",
+        "user": "U15HRTAHL",
+        "ts": "1512848312.000055"
+    },
+    {
+        "type": "message",
+        "text": "based on whats in the database",
+        "user": "U15HRTAHL",
+        "ts": "1512848322.000055"
+    },
+    {
+        "type": "message",
+        "text": "it will give me recipe suggestions",
+        "user": "U15HRTAHL",
+        "ts": "1512848330.000051"
+    },
+    {
+        "type": "message",
+        "text": "That’s exactly what the goal of our capstone was",
+        "user": "U15J5H60P",
+        "ts": "1512848344.000115"
+    },
+    {
+        "type": "message",
+        "text": "then when I use an ingredient all up I can scan the barcode again and it'll delete it",
+        "user": "U15HRTAHL",
+        "ts": "1512848348.000099"
+    },
+    {
+        "type": "message",
+        "text": "Idk if thats automating your kitchen but still cool",
+        "user": "U15HY5TG8",
+        "ts": "1512848352.000070"
+    },
+    {
+        "type": "message",
+        "text": "I'm just struggling finding good APIs to use",
+        "user": "U15HRTAHL",
+        "ts": "1512848368.000095"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/developer.edamam.com\/edamam-docs-recipe-api>",
+        "user": "U15HRTAHL",
+        "ts": "1512848371.000021"
+    },
+    {
+        "type": "message",
+        "text": "Or it can add it to your shopping list ",
+        "user": "U15J5H60P",
+        "ts": "1512848374.000089"
+    },
+    {
+        "type": "message",
+        "text": "thats the best one I can find",
+        "user": "U15HRTAHL",
+        "ts": "1512848376.000014"
+    },
+    {
+        "type": "message",
+        "text": "created a postgres database on heroku",
+        "user": "U15HRTAHL",
+        "ts": "1512855617.000002"
+    },
+    {
+        "type": "message",
+        "text": "went to connect to it with a sql client",
+        "user": "U15HRTAHL",
+        "ts": "1512855622.000044"
+    },
+    {
+        "type": "message",
+        "text": "I can see 920 other people's databases",
+        "user": "U15HRTAHL",
+        "ts": "1512855629.000037"
+    },
+    {
+        "type": "message",
+        "text": "Lol whoops ",
+        "user": "U15J5H60P",
+        "ts": "1512855672.000016"
+    },
+    {
+        "type": "message",
+        "text": "Lmao claim a reward!",
+        "user": "U15HY5TG8",
+        "ts": "1512855735.000039"
+    },
+    {
+        "type": "message",
+        "text": "Or delete it all",
+        "user": "U15HY5TG8",
+        "ts": "1512855745.000040"
+    },
+    {
+        "type": "message",
+        "text": "Wait you cant connect to it though",
+        "user": "U15HY5TG8",
+        "ts": "1512855770.000020"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1512855796.000075"
+    },
+    {
+        "type": "message",
+        "text": "See if you can connect",
+        "user": "U15HY5TG8",
+        "ts": "1512855806.000013"
+    },
+    {
+        "type": "message",
+        "text": "Were you able to?",
+        "user": "U15HY5TG8",
+        "ts": "1512865008.000025"
+    },
+    {
+        "type": "message",
+        "text": "nah I need the creds",
+        "user": "U15HRTAHL",
+        "ts": "1512865025.000031"
+    },
+    {
+        "type": "message",
+        "text": "Ahh gotcha lol so its prob encrypted db names too then",
+        "user": "U15HY5TG8",
+        "ts": "1512867666.000052"
+    },
+    {
+        "type": "message",
+        "text": "Did you try dropping it?",
+        "user": "U15J5H60P",
+        "ts": "1512867725.000042"
+    },
+    {
+        "type": "message",
+        "text": "Need to be logged into that db ",
+        "user": "U15HRTAHL",
+        "ts": "1512874859.000018"
+    }
+]

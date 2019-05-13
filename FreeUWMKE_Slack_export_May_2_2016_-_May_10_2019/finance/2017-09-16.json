@@ -1,0 +1,20 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/coin-hive.com\/>",
+        "user": "U15HY5TG8",
+        "ts": "1505604552.000014",
+        "attachments": [
+            {
+                "title": "     Coinhive – Monero JavaScript Mining  ",
+                "title_link": "https:\/\/coin-hive.com\/",
+                "text": "Monero JavaScript Miner",
+                "fallback": "     Coinhive – Monero JavaScript Mining  ",
+                "from_url": "https:\/\/coin-hive.com\/",
+                "service_icon": "https:\/\/coin-hive.com\/media\/coinhive-icon.png",
+                "service_name": "coin-hive.com",
+                "id": 1
+            }
+        ]
+    }
+]

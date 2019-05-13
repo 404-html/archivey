@@ -1,0 +1,711 @@
+[
+    {
+        "type": "message",
+        "text": "What's tfti?",
+        "user": "U15HRTAHL",
+        "ts": "1498633332.946952"
+    },
+    {
+        "type": "message",
+        "text": "Thanks for the invite",
+        "user": "U15HY5TG8",
+        "ts": "1498650898.859483"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.fox32chicago.com\/news\/263972737-story>",
+        "user": "U15HY5TG8",
+        "ts": "1498652462.218811",
+        "attachments": [
+            {
+                "service_name": "WFLD",
+                "title": "Collin County Sheriff's Office issues warning about new Snapchat feature",
+                "title_link": "http:\/\/www.fox32chicago.com\/news\/263972737-story",
+                "text": "The Collin County Sheriff's Office issued a warning about the new Snapchat feature, &amp;quot;Snap Map&amp;quot;.",
+                "fallback": "WFLD: Collin County Sheriff's Office issues warning about new Snapchat feature",
+                "image_url": "http:\/\/static.lakana.com\/media.fox4news.com\/photo\/2017\/06\/26\/snap%20map_1498502660803_3616713_ver1.0_640_360.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "http:\/\/www.fox32chicago.com\/news\/263972737-story",
+                "image_bytes": 204010,
+                "service_icon": "http:\/\/www.fox32chicago.com\/fox-main-theme\/images\/color-schemes\/wfld\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> ",
+        "user": "U15HZ01QX",
+        "ts": "1498659561.604966"
+    },
+    {
+        "type": "message",
+        "text": "What's up",
+        "user": "U15HRTAHL",
+        "ts": "1498661788.567138"
+    },
+    {
+        "type": "message",
+        "text": "I didn't realize that Lacey Syckle lady was your Vice President. How old is she? Like 27?",
+        "user": "U15HZ01QX",
+        "ts": "1498661857.598305"
+    },
+    {
+        "type": "message",
+        "text": "Lol yeah how do you know her",
+        "user": "U15HRTAHL",
+        "ts": "1498662033.680207"
+    },
+    {
+        "type": "message",
+        "text": "Does she have ties with death?",
+        "user": "U15HY5TG8",
+        "ts": "1498662087.705589"
+    },
+    {
+        "type": "message",
+        "text": "I wanted to change the LDP recruiting video we had and I noticed her in it and was wondering why she wasn't at the company anymore so I looked her up",
+        "user": "U15HZ01QX",
+        "ts": "1498662109.715404"
+    },
+    {
+        "type": "message",
+        "text": "Titles don't really mean much. She slept with an owner",
+        "user": "U15HRTAHL",
+        "ts": "1498662123.722365"
+    },
+    {
+        "type": "message",
+        "text": "Womp ",
+        "user": "U15HZ01QX",
+        "ts": "1498662132.726371"
+    },
+    {
+        "type": "message",
+        "text": "Slept her way right up",
+        "user": "U15HRTAHL",
+        "ts": "1498662140.730570"
+    },
+    {
+        "type": "message",
+        "text": "Well that's far less inspirational ",
+        "user": "U15HZ01QX",
+        "ts": "1498662155.737789"
+    },
+    {
+        "type": "message",
+        "text": "Oh yeah she's a bitch too",
+        "user": "U15HRTAHL",
+        "ts": "1498662184.750813"
+    },
+    {
+        "type": "message",
+        "text": "Is she hot?",
+        "user": "U15HY5TG8",
+        "ts": "1498662200.758241"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HRTAHL",
+        "ts": "1498662205.760509"
+    },
+    {
+        "type": "message",
+        "text": "Then what the hell",
+        "user": "U15HY5TG8",
+        "ts": "1498662220.767017"
+    },
+    {
+        "type": "message",
+        "text": "Go slap your boss for sleeping with someone ugly and then promoting",
+        "user": "U15HY5TG8",
+        "ts": "1498662234.773634"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=4-AZnVlufo0&amp;feature=share>",
+        "user": "U15HZ01QX",
+        "ts": "1498662270.789785",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Rockwell Automation IT Leadership Development Program",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4-AZnVlufo0&amp;feature=share",
+                "author_name": "Rockwell Automation",
+                "author_link": "https:\/\/www.youtube.com\/user\/ROKAutomation",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4-AZnVlufo0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Rockwell Automation IT Leadership Development Program",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/4-AZnVlufo0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4-AZnVlufo0&amp;feature=share",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "She's also married ",
+        "user": "U15HRTAHL",
+        "ts": "1498662421.855852"
+    },
+    {
+        "type": "message",
+        "text": "She never changed her last name ",
+        "user": "U15HRTAHL",
+        "ts": "1498662427.858390"
+    },
+    {
+        "type": "message",
+        "text": "What a hoe",
+        "user": "U15HY5TG8",
+        "ts": "1498662439.863581"
+    },
+    {
+        "type": "message",
+        "text": "Never mention she's married unless you ask",
+        "user": "U15HRTAHL",
+        "ts": "1498662447.867353"
+    },
+    {
+        "type": "message",
+        "text": "And by the way she acts you wouldn't guess it",
+        "user": "U15HRTAHL",
+        "ts": "1498662467.875872"
+    },
+    {
+        "type": "message",
+        "text": "She's married to the owner?",
+        "user": "U15HZ01QX",
+        "ts": "1498662483.882566"
+    },
+    {
+        "type": "message",
+        "text": "Smh james",
+        "user": "U15HY5TG8",
+        "ts": "1498662643.951854"
+    },
+    {
+        "type": "message",
+        "text": "??",
+        "user": "U15HZ01QX",
+        "ts": "1498662655.957115"
+    },
+    {
+        "type": "message",
+        "text": "Joe wouldnt be making a big deal about her sleeping with the owner if she was married to the owner",
+        "user": "U15HY5TG8",
+        "ts": "1498662681.968328"
+    },
+    {
+        "type": "message",
+        "text": "You must forget how Joe feels about women in the work place",
+        "user": "U15HZ01QX",
+        "ts": "1498662756.000722"
+    },
+    {
+        "type": "message",
+        "text": "He still might kill diana when he sees her",
+        "user": "U15HZ01QX",
+        "ts": "1498662772.007417"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1498662784.012796"
+    },
+    {
+        "type": "message",
+        "text": "But i feel the argument would be different. Instead of \"she slept with the owner\" it would be \"yea shes the owners wife, so shes automatically up there\"",
+        "user": "U15HY5TG8",
+        "ts": "1498662836.034630"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1498663161.174494"
+    },
+    {
+        "type": "message",
+        "text": "She's married to a guy who looks like he's 50",
+        "user": "U15HRTAHL",
+        "ts": "1498663187.185728"
+    },
+    {
+        "type": "message",
+        "text": "And is also the owner",
+        "user": "U15HZ01QX",
+        "ts": "1498663198.190871"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1498663200.191604"
+    },
+    {
+        "type": "message",
+        "text": "Smh",
+        "user": "U15HY5TG8",
+        "ts": "1498663217.199311"
+    },
+    {
+        "type": "message",
+        "text": "Youre done",
+        "user": "U15HY5TG8",
+        "ts": "1498663220.200866"
+    },
+    {
+        "type": "message",
+        "text": "She's married to an old guy but had an affair with the owner and joe just happens to know about it lol",
+        "user": "U15HZ01QX",
+        "ts": "1498663236.207459",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1498663251.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Small companies like that dont keep shit hidden lol",
+        "user": "U15HY5TG8",
+        "ts": "1498663264.219620"
+    },
+    {
+        "type": "message",
+        "text": ":face_with_rolling_eyes:",
+        "user": "U15HZ01QX",
+        "ts": "1498663279.226481"
+    },
+    {
+        "type": "message",
+        "text": "They prob hooked up at an after party on friday night lol",
+        "user": "U15HY5TG8",
+        "ts": "1498663282.227707"
+    },
+    {
+        "type": "message",
+        "text": "Im one payment away from being below 20k in loans :grimacing::gun:",
+        "user": "U15HY5TG8",
+        "ts": "1498665903.368575"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/ridemcts\/status\/880122419134046212>",
+        "user": "U15HZ01QX",
+        "ts": "1498672568.931112",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/RideMCTS|@RideMCTS>: Stuck at work but wish you were at <https:\/\/twitter.com\/Summerfest|@Summerfest> ? Check out the LIVE video of our buses getting people to the Big Gig\n<https:\/\/www.facebook.com\/RideMCTS\/videos\/10158981812890192\/>",
+                "ts": 1498672511,
+                "author_name": "RideMCTS",
+                "author_link": "https:\/\/twitter.com\/RideMCTS\/status\/880122419134046212",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/679007781974892544\/tOpGBvtq_normal.png",
+                "author_subname": "@RideMCTS",
+                "text": "Stuck at work but wish you were at <https:\/\/twitter.com\/Summerfest|@Summerfest> ? Check out the LIVE video of our buses getting people to the Big Gig\n<https:\/\/www.facebook.com\/RideMCTS\/videos\/10158981812890192\/>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/ridemcts\/status\/880122419134046212",
+                "id": 1,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HRTAHL",
+        "ts": "1498680463.844510"
+    },
+    {
+        "type": "message",
+        "text": "Like watching paint dry",
+        "user": "U15HRTAHL",
+        "ts": "1498680469.846853"
+    },
+    {
+        "type": "message",
+        "text": "Sucks for people going today",
+        "user": "U15HY5TG8",
+        "ts": "1498680507.859515"
+    },
+    {
+        "type": "message",
+        "text": "Anyone heard of black diamond clothing?",
+        "user": "U15HRTAHL",
+        "ts": "1498681402.171058"
+    },
+    {
+        "type": "message",
+        "text": "Hahahaha",
+        "user": "U15HZ01QX",
+        "ts": "1498681415.175732"
+    },
+    {
+        "type": "message",
+        "text": "You're in California ",
+        "user": "U15HZ01QX",
+        "ts": "1498681422.178191"
+    },
+    {
+        "type": "message",
+        "text": "Yea what the hell joe",
+        "user": "U15HY5TG8",
+        "ts": "1498681440.184089"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HRTAHL",
+        "ts": "1498681447.186540"
+    },
+    {
+        "type": "message",
+        "text": "Is that a big thing?",
+        "user": "U15HRTAHL",
+        "ts": "1498681460.191276"
+    },
+    {
+        "type": "message",
+        "text": "The midwest is like 10 years behind in fashion ",
+        "user": "U15HY5TG8",
+        "ts": "1498681461.191367"
+    },
+    {
+        "type": "message",
+        "text": "I have a 25% coupon ",
+        "user": "U15HRTAHL",
+        "ts": "1498681478.197401"
+    },
+    {
+        "type": "message",
+        "text": "Oh",
+        "user": "U15HZ01QX",
+        "ts": "1498681484.199464"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F60JFK1EV",
+                "created": 1498681486,
+                "timestamp": 1498681486,
+                "name": "Snapchat-1083231875.jpg",
+                "title": "Snapchat-1083231875.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 148343,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F60JFK1EV\/snapchat-1083231875.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F60JFK1EV\/download\/snapchat-1083231875.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F60JFK1EV-54010f5948\/snapchat-1083231875_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 720,
+                "original_h": 1280,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F60JFK1EV\/snapchat-1083231875.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F60JFK1EV-ab5bdcf8d5",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1498681490.201763"
+    },
+    {
+        "type": "message",
+        "text": "Sooo use it",
+        "user": "U15HY5TG8",
+        "ts": "1498681508.208015"
+    },
+    {
+        "type": "message",
+        "text": "Thought you were complaining about Californians wearing it everywhere",
+        "user": "U15HZ01QX",
+        "ts": "1498681509.208518"
+    },
+    {
+        "type": "message",
+        "text": "Maybe im thinking of something else",
+        "user": "U15HZ01QX",
+        "ts": "1498681526.214682"
+    },
+    {
+        "type": "message",
+        "text": "I'm sharing it for you guys",
+        "user": "U15HRTAHL",
+        "ts": "1498681540.219345"
+    },
+    {
+        "type": "message",
+        "text": "That's why I'm asking",
+        "user": "U15HRTAHL",
+        "ts": "1498681547.222119"
+    },
+    {
+        "type": "message",
+        "text": "Hmmm maybe ill order some just for the hell of it. Thanks mannnn",
+        "user": "U15HY5TG8",
+        "ts": "1498681632.251969"
+    },
+    {
+        "type": "message",
+        "text": "Oh thanks",
+        "user": "U15HZ01QX",
+        "ts": "1498681642.255310"
+    },
+    {
+        "type": "message",
+        "text": "Jk that shit is expensive lol",
+        "user": "U15HY5TG8",
+        "ts": "1498681708.278202"
+    },
+    {
+        "type": "message",
+        "text": ":money_mouth_face:",
+        "user": "U15HZ01QX",
+        "ts": "1498681836.323850"
+    },
+    {
+        "type": "message",
+        "text": "I have no idea ",
+        "user": "U15HRTAHL",
+        "ts": "1498683697.977930"
+    },
+    {
+        "type": "message",
+        "text": "I have so much free shit ",
+        "user": "U15HRTAHL",
+        "ts": "1498683706.980960"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F620PDW30",
+                "created": 1498683723,
+                "timestamp": 1498683723,
+                "name": "IMG_20170628_140152.jpg",
+                "title": "IMG_20170628_140152.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 2887722,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F620PDW30\/img_20170628_140152.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F620PDW30\/download\/img_20170628_140152.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F620PDW30-2490d75ca8\/img_20170628_140152_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4048,
+                "original_h": 3036,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F620PDW30\/img_20170628_140152.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F620PDW30-e8748b7cfc",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1498683729.989119"
+    },
+    {
+        "type": "message",
+        "text": "Wellll lucky youuu",
+        "user": "U15HY5TG8",
+        "ts": "1498683744.994335"
+    },
+    {
+        "type": "message",
+        "text": "This city is trash",
+        "user": "U15HRTAHL",
+        "ts": "1498698923.003516"
+    },
+    {
+        "type": "message",
+        "text": "Dude, so much free stuff is awesome!",
+        "user": "U15J5H60P",
+        "ts": "1498699027.016684"
+    },
+    {
+        "type": "message",
+        "text": "Why do you say that?",
+        "user": "U15J5H60P",
+        "ts": "1498699031.017062"
+    },
+    {
+        "type": "message",
+        "text": "That’s a cool mug.",
+        "user": "U15J5H60P",
+        "ts": "1498699039.018197"
+    },
+    {
+        "type": "message",
+        "text": "Every city with a lot of people is trash",
+        "user": "U15HY5TG8",
+        "ts": "1498699059.020627"
+    },
+    {
+        "type": "message",
+        "text": "Look at chicago, new york, LA",
+        "user": "U15HY5TG8",
+        "ts": "1498699070.022005"
+    },
+    {
+        "type": "message",
+        "text": "I suppose",
+        "user": "U15J5H60P",
+        "ts": "1498699634.096352"
+    },
+    {
+        "type": "message",
+        "text": "So many homeless and you walk into waft of piss ",
+        "user": "U15HRTAHL",
+        "ts": "1498699927.135123"
+    },
+    {
+        "type": "message",
+        "text": "Gross",
+        "user": "U15J5H60P",
+        "ts": "1498699943.137277"
+    },
+    {
+        "type": "message",
+        "text": "Needles everywhere ",
+        "user": "U15HRTAHL",
+        "ts": "1498699956.138953"
+    },
+    {
+        "type": "message",
+        "text": "Welp, now I’m reconsidering going to San Fran…",
+        "user": "U15J5H60P",
+        "ts": "1498699974.141185"
+    },
+    {
+        "type": "message",
+        "text": "Nahh you should still go. Just explore arouuunnnd san fran, not necessarily downtown",
+        "user": "U15HY5TG8",
+        "ts": "1498700032.148887"
+    },
+    {
+        "type": "message",
+        "text": "Whyd you quote yourself?",
+        "user": "U15HY5TG8",
+        "ts": "1498700502.209361"
+    },
+    {
+        "type": "message",
+        "text": "Pocket",
+        "user": "U15HRTAHL",
+        "ts": "1498702064.419615"
+    },
+    {
+        "type": "message",
+        "text": "Whoops",
+        "user": "U15HRTAHL",
+        "ts": "1498702068.420106"
+    },
+    {
+        "type": "message",
+        "text": "Baby driver might be the best movie I've seen in like the last 5 years ",
+        "user": "U15HZ01QX",
+        "ts": "1498704478.716272"
+    },
+    {
+        "type": "message",
+        "text": "I’ll have to get it when it comes out on Pirate Bay",
+        "user": "U15J5H60P",
+        "ts": "1498705395.825592"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> do you know any girls with the last name lafave?",
+        "user": "U15HRTAHL",
+        "ts": "1498706203.919796"
+    },
+    {
+        "type": "message",
+        "text": "At wonderbox ",
+        "user": "U15HRTAHL",
+        "ts": "1498706211.920698"
+    },
+    {
+        "type": "message",
+        "text": "I just talked about WW1 and WW2 with the guy who invented ingress which is what postgress is today ",
+        "user": "U15HRTAHL",
+        "ts": "1498710829.431029"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> not that i can think of",
+        "user": "U15HY5TG8",
+        "ts": "1498712257.583776"
+    }
+]

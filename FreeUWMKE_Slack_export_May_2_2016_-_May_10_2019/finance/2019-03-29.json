@@ -1,0 +1,189 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1553887512.003500",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "AAPL - Apple Inc.",
+                "title": "AAPL - Apple Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=AAPL&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=AAPL|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=AAPL|Finviz> | <http:\/\/stocktwits.com\/symbol\/AAPL|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1553887509,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "189.37",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.65 (+0.34%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "14,953,281",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "32,180,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.9\/5 (49 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "204.72 (+8.10%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "12037",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "12037",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31766,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=AAPL",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4A78CB13-382E-4C30-B980-195CE0AB6052",
+        "type": "message",
+        "text": "Holy shit Andrew might break even",
+        "user": "U15HZ01QX",
+        "ts": "1553887881.004000"
+    },
+    {
+        "client_msg_id": "dc1b594d-7f5b-4d24-8dfd-5fe4e8d36289",
+        "type": "message",
+        "text": "Nah",
+        "user": "U15J5H60P",
+        "ts": "1553887907.004200"
+    },
+    {
+        "client_msg_id": "63cb670e-762d-49e5-a838-a8998e90d516",
+        "type": "message",
+        "text": "Not a big deal since it was on investopedia anyways :troll:",
+        "user": "U15J5H60P",
+        "ts": "1553887916.004500"
+    },
+    {
+        "client_msg_id": "bce6c9dd-c5d2-4d75-bc80-012b052ba9aa",
+        "type": "message",
+        "text": "now thats a fucking ban",
+        "user": "U15HRTAHL",
+        "ts": "1553887989.004700"
+    },
+    {
+        "client_msg_id": "14f1cf3e-ae4b-431e-a053-d47dc479b87c",
+        "type": "message",
+        "text": "Yeah, I definitely knew that was coming",
+        "user": "U15J5H60P",
+        "ts": "1553888000.004900"
+    },
+    {
+        "client_msg_id": "dc2d0570-d319-4f83-ad55-c696c0b59ca2",
+        "type": "message",
+        "text": "I'm glad y'all were rooting for me though",
+        "user": "U15J5H60P",
+        "ts": "1553888021.005200"
+    },
+    {
+        "client_msg_id": "7fcbb681-9db6-450b-814c-9067f2a68dc5",
+        "type": "message",
+        "text": "Much appreciated",
+        "user": "U15J5H60P",
+        "ts": "1553888023.005500"
+    },
+    {
+        "client_msg_id": "c9a7551b-08fe-4978-b8d7-1bf0042fd364",
+        "type": "message",
+        "text": ":smh:",
+        "user": "U15HRTAHL",
+        "ts": "1553888023.005600"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1553888849.005800",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "client_msg_id": "BE6F39D4-BD5E-40EE-A7C9-E66CB74E5EE1",
+        "type": "message",
+        "text": "Nuts lol",
+        "user": "U15HZ01QX",
+        "ts": "1553888857.006000"
+    },
+    {
+        "client_msg_id": "2F3F8263-E5D4-4AE7-9833-E873E82EB10A",
+        "type": "message",
+        "text": "Just nuts lol",
+        "user": "U15HZ01QX",
+        "ts": "1553888861.006200"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1553888865.006400",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "c74b7fac-065f-48aa-9e7a-045c66b376ed",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1553888867.006600"
+    }
+]

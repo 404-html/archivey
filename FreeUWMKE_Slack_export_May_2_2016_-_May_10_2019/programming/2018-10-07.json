@@ -1,0 +1,323 @@
+[
+    {
+        "client_msg_id": "c82c4105-9167-40f1-ad10-b0cd3b33ef1d",
+        "type": "message",
+        "text": "have you guys used HttpClient in c# before?",
+        "user": "U15HY5TG8",
+        "ts": "1538918629.000100"
+    },
+    {
+        "client_msg_id": "c8591fee-1413-4196-a823-dd2ab563856e",
+        "type": "message",
+        "text": "once",
+        "user": "U15HRTAHL",
+        "ts": "1538927305.000100"
+    },
+    {
+        "client_msg_id": "0B79400D-D859-43FE-A184-5AEFD1F5A839",
+        "type": "message",
+        "text": "Ahh ok. I have a feeling you wont know the answer then haha",
+        "user": "U15HY5TG8",
+        "ts": "1538927428.000100"
+    },
+    {
+        "client_msg_id": "d9eada37-8d4f-4c4c-b28e-4dd1be16c708",
+        "type": "message",
+        "text": "What are you trying to do with it?",
+        "user": "U15HRTAHL",
+        "ts": "1538927454.000100"
+    },
+    {
+        "client_msg_id": "74abd400-eb5a-4b63-82b4-07c10420d951",
+        "type": "message",
+        "text": "I can google lol",
+        "user": "U15HRTAHL",
+        "ts": "1538927456.000100"
+    },
+    {
+        "client_msg_id": "1e38bfc7-aa55-4df8-8f03-0380b73ccc43",
+        "type": "message",
+        "text": "lol so i have this",
+        "user": "U15HY5TG8",
+        "ts": "1538927514.000100"
+    },
+    {
+        "client_msg_id": "f713854f-cae0-4b8a-837d-613beb06c21a",
+        "type": "message",
+        "text": "```        public static async Task&lt;Binance&gt; TestGetParams()\n        {\n            var serializer = new DataContractJsonSerializer(typeof(Binance));\n            \n            client.DefaultRequestHeaders.Accept.Clear();\n            \/\/ client.DefaultRequestHeaders.Accept.Add(\n            \/\/     new MediaTypeWithQualityHeaderValue(\"application\/vnd.github.v3+json\"));\n            \/\/ client.DefaultRequestHeaders.Add(\"User-Agent\", \".NET Foundation Repository Reporter\");\n            \n    \n            var streamTask = client.GetStreamAsync(\"<https:\/\/api.coinmarketcap.com\/v2\/ticker\/1\/>\");\n            dynamic coin = serializer.ReadObject(await streamTask);\n\n            Binance retVal = coin;\n\n            return retVal;\n        }```",
+        "user": "U15HY5TG8",
+        "ts": "1538927518.000100"
+    },
+    {
+        "client_msg_id": "fbbf77aa-ee55-4051-ad50-f53571d54ac2",
+        "type": "message",
+        "text": "dynamic coin should have a structure like this",
+        "user": "U15HY5TG8",
+        "ts": "1538927546.000100"
+    },
+    {
+        "client_msg_id": "7e844600-8c17-4d08-a66f-1ba5d72f7f73",
+        "type": "message",
+        "text": "```{\n    \"data\": {\n        \"id\": 1, \n        \"name\": \"Bitcoin\", \n        \"symbol\": \"BTC\", \n        \"website_slug\": \"bitcoin\", \n        \"rank\": 1, \n        \"circulating_supply\": 17008162.0, \n        \"total_supply\": 17008162.0, \n        \"max_supply\": 21000000.0 \n} \n}```",
+        "user": "U15HY5TG8",
+        "ts": "1538927584.000100",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1538927595.000000"
+        }
+    },
+    {
+        "client_msg_id": "aabffb3a-86ff-48a0-a809-fbd81b65d97d",
+        "type": "message",
+        "text": "Ok",
+        "user": "U15HRTAHL",
+        "ts": "1538927597.000100"
+    },
+    {
+        "client_msg_id": "e525525c-fd60-4665-a4b9-49fc0b8f2cf8",
+        "type": "message",
+        "text": "and I'm trying to turn it into a c# model like this",
+        "user": "U15HY5TG8",
+        "ts": "1538927633.000100"
+    },
+    {
+        "client_msg_id": "ad2735f7-a8e8-41f8-93e5-dda9107f7d62",
+        "type": "message",
+        "text": "```   [DataContract(Name=\"Binance\")]\n    public class Binance\n    {\n        [DataMember(Name=\"data\")]\n        public Data Data{get;set;}\n        \/\/ \"id\": 1, \n        \/\/ \"name\": \"Bitcoin\", \n        \/\/ \"symbol\": \"BTC\", \n        \/\/ \"website_slug\": \"bitcoin\", \n        \/\/ \"rank\": 1, \n        \/\/ \"circulating_supply\": 17008162.0, \n        \/\/ \"total_supply\": 17008162.0, \n        \/\/ \"max_supply\": 21000000.0,\n    }\n    public class Data{\n        [DataMember(Name = \"id\")]\n        public string Id {get; set;}\n\n        [DataMember(Name = \"name\")]\n        public string Name {get; set;}\n\n        [DataMember(Name = \"symbol\")]\n        public string Symbol {get; set;}\n\n        [DataMember(Name = \"rank\")]\n        public string Rank {get; set;}\n    }```",
+        "user": "U15HY5TG8",
+        "ts": "1538927638.000100"
+    },
+    {
+        "client_msg_id": "29d09873-f38d-49bd-986d-c03fdfd7cebd",
+        "type": "message",
+        "text": "but it doesn't happen",
+        "user": "U15HY5TG8",
+        "ts": "1538927643.000100"
+    },
+    {
+        "client_msg_id": "5489ecd8-7943-4aa7-a415-d4513230e422",
+        "type": "message",
+        "text": "hmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1538927704.000100"
+    },
+    {
+        "client_msg_id": "9ef34916-6c0e-4b5b-a0b4-c7f57689b679",
+        "type": "message",
+        "text": "1 sec",
+        "user": "U15HRTAHL",
+        "ts": "1538927707.000100"
+    },
+    {
+        "client_msg_id": "bc30b228-bd09-48f1-bd79-9e6338b9cddd",
+        "type": "message",
+        "text": "nothing I tried worked",
+        "user": "U15HY5TG8",
+        "ts": "1538927765.000100"
+    },
+    {
+        "client_msg_id": "176d0053-8c80-4fb8-8e79-29c9772d8bcd",
+        "type": "message",
+        "text": "why don’t you do this?",
+        "user": "U15HRTAHL",
+        "ts": "1538927968.000100"
+    },
+    {
+        "client_msg_id": "9ca23a9f-819d-4d86-a09b-3c5fc623e3e5",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/questions\/24131067\/deserialize-json-to-array-or-list-with-httpclient-readasasync-using-net-4-0-ta>",
+        "user": "U15HRTAHL",
+        "ts": "1538927970.000100",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Deserialize JSON to Array or List with HTTPClient .ReadAsAsync using .NET 4.0 Task pattern",
+                "title_link": "https:\/\/stackoverflow.com\/questions\/24131067\/deserialize-json-to-array-or-list-with-httpclient-readasasync-using-net-4-0-ta",
+                "text": "I'm trying to deserialize the JSON returned from <http:\/\/api.usa.gov\/jobs\/search.json?query=nursing+jobs> using the .NET 4.0 Task pattern. It returns this JSON ('Load JSON data' @ <http:\/\/jsonviewer>....",
+                "fallback": "Stack Overflow: Deserialize JSON to Array or List with HTTPClient .ReadAsAsync using .NET 4.0 Task pattern",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/questions\/24131067\/deserialize-json-to-array-or-list-with-httpclient-readasasync-using-net-4-0-ta",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/questions\/24131067\/deserialize-json-to-array-or-list-with-httpclient-readasasync-using-net-4-0-ta"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4f573b83-6d41-4e67-a772-020b884ca878",
+        "type": "message",
+        "text": "you don’t need the List when you deserialize it",
+        "user": "U15HRTAHL",
+        "ts": "1538927991.000100"
+    },
+    {
+        "client_msg_id": "0df78861-de2b-4ba1-992a-8b1047568bd3",
+        "type": "message",
+        "text": "you can just deserialize it to your Binance model",
+        "user": "U15HRTAHL",
+        "ts": "1538928003.000100"
+    },
+    {
+        "client_msg_id": "af1acc69-6afd-4cf1-9509-7f6d866b2d7d",
+        "type": "message",
+        "text": "hmm alright I can try that. It was working when it was only 1 level deep, but stopped working with layered JSON",
+        "user": "U15HY5TG8",
+        "ts": "1538928074.000100"
+    },
+    {
+        "client_msg_id": "04cc0bdc-f87c-4c17-bb30-77b190216e13",
+        "type": "message",
+        "text": "you have you modify your model to match the json it returns if I’m understanding what you’re saying",
+        "user": "U15HRTAHL",
+        "ts": "1538928118.000100"
+    },
+    {
+        "client_msg_id": "b517d625-ebfa-4b80-a659-c8b26aa2f505",
+        "type": "message",
+        "text": "right, but not sure how it would be modified really",
+        "user": "U15HY5TG8",
+        "ts": "1538928245.000100"
+    },
+    {
+        "client_msg_id": "5c10b5af-93ae-4871-a40d-da7793b0b0f2",
+        "type": "message",
+        "text": "I'm glad I figured out how to debug VS Code",
+        "user": "U15HY5TG8",
+        "ts": "1538929419.000100"
+    },
+    {
+        "client_msg_id": "f5fe55b0-293e-43ca-8b3a-b7af7aa3ce72",
+        "type": "message",
+        "text": "Badass! It worked!",
+        "user": "U15HY5TG8",
+        "ts": "1538929469.000100"
+    },
+    {
+        "client_msg_id": "01b4d8fe-2fc4-40d9-a11e-bb468f392987",
+        "type": "message",
+        "text": "noice",
+        "user": "U15HRTAHL",
+        "ts": "1538929472.000100"
+    },
+    {
+        "client_msg_id": "77f893e2-d020-49df-8a48-8e88c1ea9738",
+        "type": "message",
+        "text": "thanks man",
+        "user": "U15HY5TG8",
+        "ts": "1538929476.000100"
+    },
+    {
+        "client_msg_id": "e2583717-1920-40ca-926b-ad7a64942d81",
+        "type": "message",
+        "text": "I just need to be better at typing in the correct words for a google search",
+        "user": "U15HY5TG8",
+        "ts": "1538929492.000100"
+    },
+    {
+        "client_msg_id": "b0bea8b3-d818-4050-bf1c-eb90f0360467",
+        "type": "message",
+        "text": "yep that’s the hardest part lol",
+        "user": "U15HRTAHL",
+        "ts": "1538929508.000100"
+    },
+    {
+        "client_msg_id": "c8c62530-9194-49a9-b735-fa3d5959cb67",
+        "type": "message",
+        "text": "especially when it’s something you don’t know how to phrase",
+        "user": "U15HRTAHL",
+        "ts": "1538929522.000200"
+    },
+    {
+        "client_msg_id": "b4cd328a-0527-444f-9a92-1881b0853930",
+        "type": "message",
+        "text": "exactly haha what did you type?",
+        "user": "U15HY5TG8",
+        "ts": "1538929725.000100"
+    },
+    {
+        "client_msg_id": "9af4cb58-c4d6-40e4-a949-57176c579bdc",
+        "type": "message",
+        "text": "i did someting like parsing json api data into model",
+        "user": "U15HY5TG8",
+        "ts": "1538929758.000100"
+    },
+    {
+        "client_msg_id": "2c6efc0e-c5fd-441e-b237-68eefa0e2a36",
+        "type": "message",
+        "text": "anyone want a starter template for C#\/Angular? this was my final piece to getting it ready lol",
+        "user": "U15HY5TG8",
+        "ts": "1538929821.000100"
+    },
+    {
+        "client_msg_id": "d6dbf627-746c-4d32-9643-ce6ba0d5c793",
+        "type": "message",
+        "text": "besides database setup",
+        "user": "U15HY5TG8",
+        "ts": "1538929826.000100"
+    },
+    {
+        "client_msg_id": "625d555f-f354-4a0a-8c24-bc0d00ae85ec",
+        "type": "message",
+        "text": "I googled",
+        "user": "U15HRTAHL",
+        "ts": "1538930035.000100"
+    },
+    {
+        "client_msg_id": "3df93e38-9a2a-41b7-a234-0970c80717cc",
+        "type": "message",
+        "text": "c# http client jason deserialize",
+        "user": "U15HRTAHL",
+        "ts": "1538930058.000200"
+    },
+    {
+        "client_msg_id": "853f8c87-794c-43af-b956-1a64fc52d416",
+        "type": "message",
+        "text": "lol spelled out jason",
+        "user": "U15HRTAHL",
+        "ts": "1538930076.000100"
+    },
+    {
+        "client_msg_id": "323b42f1-dee7-4523-b9ba-7565ba381de3",
+        "type": "message",
+        "text": "ahhh sounds like I went too specific lol",
+        "user": "U15HY5TG8",
+        "ts": "1538930080.000100"
+    },
+    {
+        "client_msg_id": "b051c416-0249-47a3-84e3-dd83ffa8bc68",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1538930083.000100"
+    },
+    {
+        "client_msg_id": "39c3ec97-446a-481f-be3e-51b22aae492b",
+        "type": "message",
+        "text": "git is trash",
+        "user": "U15HY5TG8",
+        "ts": "1538957490.000100"
+    },
+    {
+        "client_msg_id": "c78e3325-2af6-4bd4-b23e-178136a1c135",
+        "type": "message",
+        "text": "Why",
+        "user": "U15HRTAHL",
+        "ts": "1538959807.000200"
+    },
+    {
+        "client_msg_id": "C0F7FF8B-8ED4-418E-964E-F442CA3D08A0",
+        "type": "message",
+        "text": "Cause i fucked up as andrew pointed out and now its fucked",
+        "user": "U15HY5TG8",
+        "ts": "1538960197.000100"
+    },
+    {
+        "client_msg_id": "57fef98d-3f0f-4f9d-aab7-f65d8ee93ef6",
+        "type": "message",
+        "text": "so I just committed the front end of my app and got flagged for a bootstrap vulnerability lol",
+        "user": "U15HY5TG8",
+        "ts": "1538963683.000100"
+    }
+]

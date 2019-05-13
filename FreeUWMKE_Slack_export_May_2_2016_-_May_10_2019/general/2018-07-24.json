@@ -1,0 +1,497 @@
+[
+    {
+        "client_msg_id": "7E409516-2AD7-47AA-9769-DE5643F53930",
+        "type": "message",
+        "text": "My fruit salad tastes awful ",
+        "user": "U15HZ01QX",
+        "ts": "1532438135.000382"
+    },
+    {
+        "client_msg_id": "4FF97715-5A75-4165-AE81-D7C9A631109F",
+        "type": "message",
+        "text": "I can’t be expected to work in these conditions ",
+        "user": "U15HZ01QX",
+        "ts": "1532438144.000304"
+    },
+    {
+        "client_msg_id": "129a4619-dc28-47b9-bc68-7ef91eea2bfa",
+        "type": "message",
+        "text": "Did you make it or buy it?",
+        "user": "U15HRTAHL",
+        "ts": "1532440883.000564"
+    },
+    {
+        "client_msg_id": "5320FF96-D215-4188-B363-8022FCF181EE",
+        "type": "message",
+        "text": "Buy it ",
+        "user": "U15HZ01QX",
+        "ts": "1532441085.000101"
+    },
+    {
+        "client_msg_id": "5f3e1129-947f-4f8d-8045-8fd430bc7368",
+        "type": "message",
+        "text": "found some qc35s for 250",
+        "user": "U15HZ01QX",
+        "ts": "1532441177.000024"
+    },
+    {
+        "client_msg_id": "e98fbcda-f4b8-43cb-ac5d-403b59807985",
+        "type": "message",
+        "text": "Did you buy them?",
+        "user": "U15HRTAHL",
+        "ts": "1532446877.000422"
+    },
+    {
+        "client_msg_id": "1b5e7ded-b315-4d36-8bb5-21fc9016db7b",
+        "type": "message",
+        "text": "no",
+        "user": "U15HZ01QX",
+        "ts": "1532446901.000402"
+    },
+    {
+        "client_msg_id": "36a322d1-8416-4f0b-bfd2-0a3cd1e966a4",
+        "type": "message",
+        "text": "<https:\/\/tenor.com\/UVpA.gif>",
+        "user": "U15HRTAHL",
+        "ts": "1532447029.000236",
+        "attachments": [
+            {
+                "fallback": "360x270px image",
+                "image_url": "https:\/\/tenor.com\/UVpA.gif",
+                "image_width": 360,
+                "image_height": 270,
+                "image_bytes": 2430051,
+                "is_animated": true,
+                "from_url": "https:\/\/tenor.com\/UVpA.gif",
+                "id": 1,
+                "original_url": "https:\/\/tenor.com\/UVpA.gif"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b99dc2c-b34b-4599-92aa-f629247d5259",
+        "type": "message",
+        "text": "I guess qdoba and cold stone closed down on oakland",
+        "user": "U15HRTAHL",
+        "ts": "1532455311.000552"
+    },
+    {
+        "client_msg_id": "de852faf-9bb8-49be-9517-2f8a3831584e",
+        "type": "message",
+        "text": "there’s some wing place at cold stone now",
+        "user": "U15HRTAHL",
+        "ts": "1532455319.000027"
+    },
+    {
+        "client_msg_id": "AA261B19-79EE-4333-A435-FBFB3C0AAEC0",
+        "type": "message",
+        "text": "Whaaaat",
+        "user": "U15HY5TG8",
+        "ts": "1532455335.000492"
+    },
+    {
+        "client_msg_id": "85dfeb62-8f4a-470e-b641-65098a801cb2",
+        "type": "message",
+        "text": "whats the name of it?",
+        "user": "U15HZ01QX",
+        "ts": "1532455363.000156"
+    },
+    {
+        "client_msg_id": "5a9c0cdf-ed94-413d-950d-280dbcc6dd7a",
+        "type": "message",
+        "text": "i heard about doba",
+        "user": "U15HZ01QX",
+        "ts": "1532455368.000182"
+    },
+    {
+        "client_msg_id": "271155c9-d6fa-49ed-93ed-e50571220e7a",
+        "type": "message",
+        "text": "such a shame cuz that place definetly got enough business",
+        "user": "U15HZ01QX",
+        "ts": "1532455380.000488"
+    },
+    {
+        "client_msg_id": "78f8609e-c855-409e-9ad8-881e25aa7cb2",
+        "type": "message",
+        "text": "Good Land Wing Co",
+        "user": "U15HRTAHL",
+        "ts": "1532455428.000392"
+    },
+    {
+        "client_msg_id": "cb89ea11-18f5-44b2-909e-842dde3abee8",
+        "type": "message",
+        "text": "never heard of it",
+        "user": "U15HZ01QX",
+        "ts": "1532455440.000542"
+    },
+    {
+        "client_msg_id": "24621d2a-53ad-4879-abcc-0026cb0116d4",
+        "type": "message",
+        "text": "<http:\/\/goodlandwingco.com\/>",
+        "user": "U15HRTAHL",
+        "ts": "1532455442.000134",
+        "attachments": [
+            {
+                "service_name": "Good Land Wing Co.",
+                "title": "GUILT FREE... NO CHEAT DAY NEEDED! NO FRYERS ALLOWED!",
+                "title_link": "http:\/\/goodlandwingco.com\/",
+                "text": "A NEW TYPE OF WING RESTAURANT WITH HEALTHY EATS! COMING IN FALL TO MKE!",
+                "fallback": "Good Land Wing Co.: GUILT FREE... NO CHEAT DAY NEEDED! NO FRYERS ALLOWED!",
+                "thumb_url": "http:\/\/img1.wsimg.com\/isteam\/stock\/14055",
+                "from_url": "http:\/\/goodlandwingco.com\/",
+                "thumb_width": 2160,
+                "thumb_height": 1440,
+                "id": 1,
+                "original_url": "http:\/\/goodlandwingco.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a28d7e92-6187-44a5-ba2d-0c12a4d8d02f",
+        "type": "message",
+        "text": "wings that arent fried",
+        "user": "U15HZ01QX",
+        "ts": "1532455482.000463"
+    },
+    {
+        "client_msg_id": "57c44916-5df2-4199-ac57-b483cbce1798",
+        "type": "message",
+        "text": "great",
+        "user": "U15HZ01QX",
+        "ts": "1532455487.000232"
+    },
+    {
+        "client_msg_id": "7E35B590-3A77-4692-90E4-4DFA298EB50D",
+        "type": "message",
+        "text": "Gross",
+        "user": "U15J5H60P",
+        "ts": "1532462061.000437"
+    },
+    {
+        "client_msg_id": "B86AF17E-5919-4608-BD53-C95F31AD25F1",
+        "type": "message",
+        "text": "Sad day about doba ",
+        "user": "U15J5H60P",
+        "ts": "1532462071.000271"
+    },
+    {
+        "client_msg_id": "D18279A3-EFCF-4262-AA0C-43DC71847E56",
+        "type": "message",
+        "text": "I used to go there on the reg",
+        "user": "U15J5H60P",
+        "ts": "1532462079.000182"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FBW8GGX7C",
+                "created": 1532462077,
+                "timestamp": 1532462077,
+                "name": "Screenshot_20180724-145416.png",
+                "title": "Screenshot_20180724-145416.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 706844,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FBW8GGX7C\/screenshot_20180724-145416.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FBW8GGX7C\/download\/screenshot_20180724-145416.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1422,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FBW8GGX7C-070e59a078\/screenshot_20180724-145416_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2560,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FBW8GGX7C\/screenshot_20180724-145416.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FBW8GGX7C-e02565e081",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1532462081.000498",
+        "client_msg_id": "6b57552c-5168-4746-8dd1-4a54069a39d5"
+    },
+    {
+        "client_msg_id": "D367B8EF-FBA9-4382-9739-85646E00471A",
+        "type": "message",
+        "text": "Happy day!",
+        "user": "U15J5H60P",
+        "ts": "1532462096.000045"
+    },
+    {
+        "client_msg_id": "EF4481A8-F69A-43ED-9E7C-415EEC2593B2",
+        "type": "message",
+        "text": "That was quite the roller coaster of emotions ",
+        "user": "U15J5H60P",
+        "ts": "1532462110.000450"
+    },
+    {
+        "client_msg_id": "cb521a92-08b8-4690-9aa0-ea1e97ef5f56",
+        "type": "message",
+        "text": "Demi Lovato was doing like DRUGS drugs huh?",
+        "user": "U15HZ01QX",
+        "ts": "1532464695.000313",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1532464711.000000"
+        }
+    },
+    {
+        "client_msg_id": "fec131cd-9f29-4edf-8843-271df56b5648",
+        "type": "message",
+        "text": "Old news ",
+        "user": "U15HRTAHL",
+        "ts": "1532464945.000244"
+    },
+    {
+        "client_msg_id": "12D3497C-A315-4FAE-AB22-8D748D352959",
+        "type": "message",
+        "text": "Was she?",
+        "user": "U15J5H60P",
+        "ts": "1532464955.000367"
+    },
+    {
+        "client_msg_id": "d510912d-3224-438c-8345-688fad5255bd",
+        "type": "message",
+        "text": "Wasn’t there a photo she posted on instagram or snap chat with her at the bathroom sink with a rolled up bill and a white substance next to her?",
+        "user": "U15HRTAHL",
+        "ts": "1532464986.000289"
+    },
+    {
+        "client_msg_id": "f975ab6a-abd7-4e85-afc5-c81774581bdd",
+        "type": "message",
+        "text": "this was years ago",
+        "user": "U15HRTAHL",
+        "ts": "1532464993.000032"
+    },
+    {
+        "client_msg_id": "6E92CBBA-713E-45C6-A5DB-81C298FE1B45",
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1532465003.000259"
+    },
+    {
+        "client_msg_id": "5E551946-9421-4717-BB40-E15636BBFCFA",
+        "type": "message",
+        "text": "She’s gross imo",
+        "user": "U15J5H60P",
+        "ts": "1532465006.000347"
+    },
+    {
+        "client_msg_id": "ef423e44-588b-4526-a372-d1561bce926b",
+        "type": "message",
+        "text": "no i knew about that already",
+        "user": "U15HZ01QX",
+        "ts": "1532465010.000096"
+    },
+    {
+        "client_msg_id": "88290c13-8bbd-4008-a2c7-cb5678d1f84a",
+        "type": "message",
+        "text": "she overdosed on heroin  just now",
+        "user": "U15HZ01QX",
+        "ts": "1532465023.000156"
+    },
+    {
+        "client_msg_id": "D7A486CC-622F-49CB-AE5F-90E6DAF67E9A",
+        "type": "message",
+        "text": "She’s dead?!",
+        "user": "U15J5H60P",
+        "ts": "1532465031.000225"
+    },
+    {
+        "client_msg_id": "77dcbedb-49b7-4e62-a195-cb077f4f77d3",
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U15HRTAHL",
+        "ts": "1532465033.000392"
+    },
+    {
+        "client_msg_id": "584c87ba-febb-4f51-99d5-753701d717c6",
+        "type": "message",
+        "text": "I doubt it",
+        "user": "U15HZ01QX",
+        "ts": "1532465040.000226"
+    },
+    {
+        "client_msg_id": "2ebb54f2-d83e-4ea7-9885-33e0bf595a84",
+        "type": "message",
+        "text": "you can overdose without dying",
+        "user": "U15HRTAHL",
+        "ts": "1532465042.000355"
+    },
+    {
+        "client_msg_id": "D3D07091-8E07-4DFF-9EB7-D970C4227DED",
+        "type": "message",
+        "text": "Jesus Christ",
+        "user": "U15J5H60P",
+        "ts": "1532465054.000323"
+    },
+    {
+        "client_msg_id": "25311871-8406-46C5-A057-08902CD546F5",
+        "type": "message",
+        "text": "Heroin isn’t even a cool drug",
+        "user": "U15J5H60P",
+        "ts": "1532465061.000421"
+    },
+    {
+        "client_msg_id": "A46C1A4C-648A-45F8-90A5-3475FD231047",
+        "type": "message",
+        "text": "It’s a poor person drug",
+        "user": "U15J5H60P",
+        "ts": "1532465066.000248"
+    },
+    {
+        "client_msg_id": "658E1F91-FD6A-448C-BE0C-C35CB23EF8CA",
+        "type": "message",
+        "text": "Like white trash, wtf",
+        "user": "U15J5H60P",
+        "ts": "1532465076.000089"
+    },
+    {
+        "client_msg_id": "055E1681-DFAB-4655-ACAB-D32FA38FF2B7",
+        "type": "message",
+        "text": "Stick with the cocaine",
+        "user": "U15J5H60P",
+        "ts": "1532465082.000145"
+    },
+    {
+        "client_msg_id": "d0a0142a-3865-4093-8739-dce136570cbb",
+        "type": "message",
+        "text": "maybe a doctor prescribed her some kind of narcotic and she got hooked",
+        "user": "U15HRTAHL",
+        "ts": "1532465104.000056"
+    },
+    {
+        "client_msg_id": "15811202-cad9-4a1a-a735-94e8725d0a53",
+        "type": "message",
+        "text": "it’s not always willingly getting into heroine",
+        "user": "U15HRTAHL",
+        "ts": "1532465130.000145"
+    },
+    {
+        "client_msg_id": "095AB68F-C669-4938-A9EA-0013D69B2212",
+        "type": "message",
+        "text": "No one prescribed her heroin",
+        "user": "U15J5H60P",
+        "ts": "1532465176.000074"
+    },
+    {
+        "client_msg_id": "89760d38-bf8c-403f-8c01-da64038d666d",
+        "type": "message",
+        "text": "correct",
+        "user": "U15HRTAHL",
+        "ts": "1532465184.000313"
+    },
+    {
+        "client_msg_id": "3483be88-3139-4f70-8de4-997e9f251b37",
+        "type": "message",
+        "text": "heroin is a opioid and so are pain killers",
+        "user": "U15HRTAHL",
+        "ts": "1532465199.000221",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1532465204.000000"
+        }
+    },
+    {
+        "client_msg_id": "ca975a76-1f3c-4359-b0f8-ab2974d0888e",
+        "type": "message",
+        "text": "not all of them",
+        "user": "U15HRTAHL",
+        "ts": "1532465206.000432"
+    },
+    {
+        "client_msg_id": "4945673D-2B68-4977-9AA4-55536CCD6F19",
+        "type": "message",
+        "text": "Stop liking opioids ",
+        "user": "U15J5H60P",
+        "ts": "1532465207.000423"
+    },
+    {
+        "client_msg_id": "D435AD1F-D66E-4005-947B-FFCF177EDB79",
+        "type": "message",
+        "text": "She needa get that figured out, homie. ",
+        "user": "U15J5H60P",
+        "ts": "1532465233.000053"
+    },
+    {
+        "client_msg_id": "D07E561B-9918-4693-9229-61D388AE03CB",
+        "type": "message",
+        "text": "Now there’s gonna be a bunch of opioid stuff in the press",
+        "user": "U15J5H60P",
+        "ts": "1532465248.000386"
+    },
+    {
+        "client_msg_id": "774F9316-E153-4BFE-9DF5-0AAC9766B5AB",
+        "type": "message",
+        "text": "Submit memes now",
+        "user": "U15J5H60P",
+        "ts": "1532465255.000377"
+    },
+    {
+        "client_msg_id": "0fbc2b6a-da4a-49b0-8fab-45a31c85b452",
+        "type": "message",
+        "text": "memes incoming",
+        "user": "U15HSHSS2",
+        "ts": "1532465305.000070"
+    },
+    {
+        "client_msg_id": "5f3882e9-f594-44eb-9bb1-44d023ce5fdd",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=xlOV8jV5wE4>",
+        "user": "U15HSHSS2",
+        "ts": "1532465309.000140",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "black shoes drama",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=xlOV8jV5wE4",
+                "author_name": "thatsideofutube 2",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCv4sUO7c7d8UA6F6mL0Pggw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/xlOV8jV5wE4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: black shoes drama",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/xlOV8jV5wE4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=xlOV8jV5wE4",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=xlOV8jV5wE4"
+            }
+        ]
+    }
+]

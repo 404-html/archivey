@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "f55a631d-7933-4492-9098-001ab1eb14e7",
+        "type": "message",
+        "text": "So I deployed that huge task I was talking to you guys about....it's a fucking cluster",
+        "user": "U15HY5TG8",
+        "ts": "1532540458.000448"
+    },
+    {
+        "client_msg_id": "0ec6df4d-add2-46f3-bdd7-72543dbfd92d",
+        "type": "message",
+        "text": "I now understand why companies have QA",
+        "user": "U15HY5TG8",
+        "ts": "1532540467.000399"
+    },
+    {
+        "client_msg_id": "92c6a704-ccdf-4f65-ab34-83965a0734c4",
+        "type": "message",
+        "text": "lol So you broke everything?",
+        "user": "U15J5H60P",
+        "ts": "1532540476.000226"
+    },
+    {
+        "client_msg_id": "a229f128-9324-4291-8950-6c053c8badbe",
+        "type": "message",
+        "text": "EVERYTHING",
+        "user": "U15HY5TG8",
+        "ts": "1532540537.000131"
+    },
+    {
+        "client_msg_id": "e03a968a-fa77-4705-ba26-7af566892813",
+        "type": "message",
+        "text": "Told ya!",
+        "user": "U15J5H60P",
+        "ts": "1532540547.000215"
+    },
+    {
+        "client_msg_id": "bf8b9238-b698-4d0c-a960-1e854dfed1dd",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1532540552.000191"
+    },
+    {
+        "client_msg_id": "b33aef57-d2d1-4700-aeea-6e8908901365",
+        "type": "message",
+        "text": "That's okay. Can you roll it back?",
+        "user": "U15J5H60P",
+        "ts": "1532540554.000464"
+    },
+    {
+        "client_msg_id": "7d854daf-33cd-4e87-be7d-32332809391e",
+        "type": "message",
+        "text": "nah it's not everything but there's little edge cases here and there that I didn't account for",
+        "user": "U15HY5TG8",
+        "ts": "1532540571.000319"
+    },
+    {
+        "client_msg_id": "2376ee52-e66d-453d-a209-24c4fddcf6e4",
+        "type": "message",
+        "text": "Whoops",
+        "user": "U15J5H60P",
+        "ts": "1532540578.000202"
+    },
+    {
+        "client_msg_id": "d7877c43-ce1e-4df9-b728-68585020fa3a",
+        "type": "message",
+        "text": "not rolling back, just powering through",
+        "user": "U15HY5TG8",
+        "ts": "1532540579.000347"
+    },
+    {
+        "client_msg_id": "0cde6cfb-067c-4be8-87ef-2a8df45f716c",
+        "type": "message",
+        "text": "If I roll it back, there will be a bunch of data loss at this point",
+        "user": "U15HY5TG8",
+        "ts": "1532540592.000249"
+    },
+    {
+        "client_msg_id": "655d07dd-4397-4625-af37-e7d9effede98",
+        "type": "message",
+        "text": "because some stuff gets through and other stuff doesn't",
+        "user": "U15HY5TG8",
+        "ts": "1532540602.000377"
+    },
+    {
+        "client_msg_id": "1164afff-3fff-45bc-8b6c-c8bb5a58fce5",
+        "type": "message",
+        "text": "and no one knows what cache is",
+        "user": "U15HY5TG8",
+        "ts": "1532540614.000075"
+    },
+    {
+        "client_msg_id": "03fa6c79-64f8-46da-b214-90b412da3561",
+        "type": "message",
+        "text": "so they're all trying to do stuff with the old js even though I just pushed new js to the server",
+        "user": "U15HY5TG8",
+        "ts": "1532540641.000289"
+    },
+    {
+        "client_msg_id": "28d8ab9f-f5ec-4fad-af8e-2c2f5c3531d2",
+        "type": "message",
+        "text": "<https:\/\/www.construct.net\/forum\/construct-2\/how-do-i-18\/can-i-force-browser-to-clear-c-81557>",
+        "user": "U15J5H60P",
+        "ts": "1532540686.000479",
+        "attachments": [
+            {
+                "title": "Can I force browser to clear cache after publishing changes? ★★★★★",
+                "title_link": "https:\/\/www.construct.net\/forum\/construct-2\/how-do-i-18\/can-i-force-browser-to-clear-c-81557",
+                "fallback": "Can I force browser to clear cache after publishing changes? ★★★★★",
+                "image_url": "https:\/\/s1.construct.net\/images\/v488\/siteicons\/ogg-image.png",
+                "from_url": "https:\/\/www.construct.net\/forum\/construct-2\/how-do-i-18\/can-i-force-browser-to-clear-c-81557",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 101306,
+                "service_icon": "https:\/\/s1.construct.net\/images\/v488\/r\/siteicons\/construct_v60.png",
+                "service_name": "construct.net",
+                "id": 1,
+                "original_url": "https:\/\/www.construct.net\/forum\/construct-2\/how-do-i-18\/can-i-force-browser-to-clear-c-81557"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ddc399b3-bee3-4c16-9599-26a7682e766a",
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HY5TG8",
+        "ts": "1532541017.000435"
+    }
+]

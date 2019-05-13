@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=vN4U5FqrOdQ>",
+        "user": "U15J5H60P",
+        "ts": "1466276321.000004",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Steve Jobs iPhone 2007 Presentation (HD)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=vN4U5FqrOdQ",
+                "author_name": "Jonathan Turetta",
+                "author_link": "https:\/\/www.youtube.com\/user\/turetta87",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/vN4U5FqrOdQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Steve Jobs iPhone 2007 Presentation (HD)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vN4U5FqrOdQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=vN4U5FqrOdQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Video really makes you appreciate the iPhone and realize how much of an innovation it was",
+        "user": "U15J5H60P",
+        "ts": "1466276339.000006"
+    },
+    {
+        "type": "message",
+        "text": "This is pretty much a documentary",
+        "user": "U15J5H60P",
+        "ts": "1466276483.000007"
+    },
+    {
+        "type": "message",
+        "text": "He listens to a Voice Mail message from Tim Cook",
+        "user": "U15J5H60P",
+        "ts": "1466276495.000008"
+    },
+    {
+        "type": "message",
+        "text": "Man, if I could tell my kids I attended this Keynote.",
+        "user": "U15J5H60P",
+        "ts": "1466276561.000009"
+    },
+    {
+        "type": "message",
+        "text": "Steve Jobs prank calls Starbucks.",
+        "user": "U15J5H60P",
+        "ts": "1466277317.000010"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1466277321.000011"
+    },
+    {
+        "type": "message",
+        "text": "I wish Steve was still around",
+        "user": "U15J5H60P",
+        "ts": "1466277714.000012"
+    },
+    {
+        "type": "message",
+        "text": "Do you miss him? Did you have personal relations?",
+        "user": "U15HY5TG8",
+        "ts": "1466283166.000013"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy I did not have relations",
+        "user": "U15J5H60P",
+        "ts": "1466283202.000014",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/A9DVs5it1HqmI>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/A9DVs5it1HqmI\/giphy.gif",
+                "image_width": 245,
+                "image_height": 200,
+                "image_bytes": 1048358,
+                "is_animated": true,
+                "title": "I did not have relations",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/A9DVs5it1HqmI"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "with steve jobs",
+        "user": "U15J5H60P",
+        "ts": "1466283205.000015"
+    },
+    {
+        "type": "message",
+        "text": "Dafuck",
+        "user": "U15HY5TG8",
+        "ts": "1466283219.000016"
+    }
+]

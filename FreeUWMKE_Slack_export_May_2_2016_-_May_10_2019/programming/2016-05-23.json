@@ -1,0 +1,737 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464050680.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1464050680.000003",
+        "text": "<@U15J5H60P> set the channel purpose: Discuss programming problems.",
+        "purpose": "Discuss programming problems."
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464050680.000004",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1464050699.000005",
+        "text": "<@U15J5H60P> set the channel topic: projects",
+        "topic": "projects"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_topic",
+        "ts": "1464050706.000006",
+        "text": "<@U15J5H60P> set the channel topic: \n",
+        "topic": "\n"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1464050713.000007",
+        "text": "<@U15J5H60P> set the channel purpose: Discuss programming problems and projects.",
+        "purpose": "Discuss programming problems and projects."
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>:",
+        "user": "U15J5H60P",
+        "ts": "1464050717.000008"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/dailyprogrammer\/comments\/4knivr\/20160523_challenge_268_easy_network_and_cards\/>",
+        "user": "U15J5H60P",
+        "ts": "1464050719.000009",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "[2016-05-23] Challenge #268 [Easy] Network and Cards: Part 1, The network • \/r\/dailyprogrammer",
+                "title_link": "https:\/\/www.reddit.com\/r\/dailyprogrammer\/comments\/4knivr\/20160523_challenge_268_easy_network_and_cards\/",
+                "text": "#Description This week we are creating a game playable over network. This will be a 3-parter. The first part is to set up a connection between a...",
+                "fallback": "reddit: [2016-05-23] Challenge #268 [Easy] Network and Cards: Part 1, The network • \/r\/dailyprogrammer",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/dailyprogrammer\/comments\/4knivr\/20160523_challenge_268_easy_network_and_cards\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Do this",
+        "user": "U15J5H60P",
+        "ts": "1464050720.000011"
+    },
+    {
+        "type": "message",
+        "text": "I highly suggest checking out this sub - <https:\/\/www.reddit.com\/r\/dailyprogrammer\/>",
+        "user": "U15J5H60P",
+        "ts": "1464050735.000012",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "For learning, refreshing, or just for fun! • \/r\/dailyprogrammer",
+                "title_link": "https:\/\/www.reddit.com\/r\/dailyprogrammer\/",
+                "text": "**Welcome to r\/DailyProgrammer!** First time visitors of Daily Programmer please [Read the Wiki]...",
+                "fallback": "reddit: For learning, refreshing, or just for fun! • \/r\/dailyprogrammer",
+                "thumb_url": "https:\/\/www.redditstatic.com\/icon.png",
+                "from_url": "https:\/\/www.reddit.com\/r\/dailyprogrammer\/",
+                "thumb_width": 256,
+                "thumb_height": 256,
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "i shalll",
+        "user": "U15HY5TG8",
+        "ts": "1464056898.000014"
+    },
+    {
+        "type": "message",
+        "text": "speaking of challenges, im on codefights and im trying to figure out a recursive gamma function method. is it possible do you think?",
+        "user": "U15HY5TG8",
+        "ts": "1464056933.000015"
+    },
+    {
+        "type": "message",
+        "text": "No idea what that is",
+        "user": "U15J5H60P",
+        "ts": "1464056943.000016"
+    },
+    {
+        "type": "message",
+        "text": "gamma of n = (n-1)!",
+        "user": "U15HY5TG8",
+        "ts": "1464056961.000017"
+    },
+    {
+        "type": "message",
+        "text": "lol Yeah that’s possible.",
+        "user": "U15J5H60P",
+        "ts": "1464057302.000018"
+    },
+    {
+        "type": "message",
+        "text": "one sec",
+        "user": "U15J5H60P",
+        "ts": "1464057311.000019"
+    },
+    {
+        "type": "message",
+        "text": "cause theres no way to subtract just 1 the first time around",
+        "user": "U15HY5TG8",
+        "ts": "1464057341.000020"
+    },
+    {
+        "type": "message",
+        "text": "return n * gamma(n-1)",
+        "user": "U15J5H60P",
+        "ts": "1464057345.000021"
+    },
+    {
+        "type": "message",
+        "text": "no thats just regular factorial",
+        "user": "U15HY5TG8",
+        "ts": "1464057357.000022"
+    },
+    {
+        "type": "message",
+        "text": "What’s gamma of 5?",
+        "user": "U15J5H60P",
+        "ts": "1464057390.000023"
+    },
+    {
+        "type": "message",
+        "text": "4*3*2*1",
+        "user": "U15HY5TG8",
+        "ts": "1464057401.000024"
+    },
+    {
+        "type": "message",
+        "text": "you subtract 1 from the start and then factorial the rest",
+        "user": "U15HY5TG8",
+        "ts": "1464057413.000025"
+    },
+    {
+        "type": "message",
+        "text": "then return (n-1) * gamma(n-1)",
+        "user": "U15J5H60P",
+        "ts": "1464057424.000026"
+    },
+    {
+        "type": "message",
+        "text": "Then your exit will be if n &lt; 1 then return 0",
+        "user": "U15J5H60P",
+        "ts": "1464057515.000027"
+    },
+    {
+        "type": "message",
+        "text": "yea that works",
+        "user": "U15HY5TG8",
+        "ts": "1464057528.000028"
+    },
+    {
+        "type": "message",
+        "text": "Wooo! I’m a genius!",
+        "user": "U15J5H60P",
+        "ts": "1464057538.000029"
+    },
+    {
+        "type": "message",
+        "text": "somehow these other fuckers are getting 41 characters and both of my solutions get 55",
+        "user": "U15HY5TG8",
+        "ts": "1464057554.000030"
+    },
+    {
+        "type": "message",
+        "text": "ooo ik how. theyre using a conditional statement",
+        "user": "U15HY5TG8",
+        "ts": "1464057658.000031"
+    },
+    {
+        "type": "message",
+        "text": "This is my solution",
+        "user": "U15J5H60P",
+        "ts": "1464057833.000032"
+    },
+    {
+        "type": "message",
+        "text": "`public int gamma(int n){\n        if(n&gt;1){\n            return (n-1) * gamma(n-1);\n        }else{\n            return 1;\n        }\n    }`",
+        "user": "U15J5H60P",
+        "ts": "1464057848.000033"
+    },
+    {
+        "type": "message",
+        "text": "`",
+        "user": "U15J5H60P",
+        "ts": "1464057850.000034"
+    },
+    {
+        "type": "message",
+        "text": "`public int gamma(int n){\n        if(n&gt;1){\n            return (n-1) * gamma(n-1);\n        }else{\n            return 1;\n        }\n    }",
+        "user": "U15J5H60P",
+        "ts": "1464057853.000035"
+    },
+    {
+        "type": "message",
+        "text": "How do you do code?",
+        "user": "U15J5H60P",
+        "ts": "1464057858.000036"
+    },
+    {
+        "type": "message",
+        "text": "`ass",
+        "user": "U15J5H60P",
+        "ts": "1464057860.000037"
+    },
+    {
+        "type": "message",
+        "text": "`ass`",
+        "user": "U15J5H60P",
+        "ts": "1464057866.000038"
+    },
+    {
+        "type": "message",
+        "text": "ah. But you can’t do multiline",
+        "user": "U15J5H60P",
+        "ts": "1464057872.000039"
+    },
+    {
+        "type": "message",
+        "text": "lame",
+        "user": "U15J5H60P",
+        "ts": "1464057874.000040"
+    },
+    {
+        "type": "message",
+        "text": "`public int gamma(int n){\n        if(n&gt;1){\n            return (n-1) * gamma(n-1);\n        }else{\n            return 1;\n        }\n    } `",
+        "user": "U15J5H60P",
+        "ts": "1464057888.000041"
+    },
+    {
+        "type": "message",
+        "text": "`",
+        "user": "U15J5H60P",
+        "ts": "1464057890.000042"
+    },
+    {
+        "type": "message",
+        "text": "`",
+        "user": "U15J5H60P",
+        "ts": "1464057890.000043"
+    },
+    {
+        "type": "message",
+        "text": "`",
+        "user": "U15J5H60P",
+        "ts": "1464057890.000044"
+    },
+    {
+        "type": "message",
+        "text": "`",
+        "user": "U15J5H60P",
+        "ts": "1464057892.000045"
+    },
+    {
+        "type": "message",
+        "text": "Anyways, that’s what I got.",
+        "user": "U15J5H60P",
+        "ts": "1464057900.000046"
+    },
+    {
+        "type": "message",
+        "text": "I suppose you could also use a ternary operator",
+        "user": "U15J5H60P",
+        "ts": "1464057920.000047"
+    },
+    {
+        "type": "message",
+        "text": "Got it",
+        "user": "U15J5H60P",
+        "ts": "1464057980.000048"
+    },
+    {
+        "type": "message",
+        "text": "i have",
+        "user": "U15HY5TG8",
+        "ts": "1464057986.000049"
+    },
+    {
+        "type": "message",
+        "text": "int gamma(int n){",
+        "user": "U15HY5TG8",
+        "ts": "1464057994.000050"
+    },
+    {
+        "type": "message",
+        "text": "`return (n&gt;1) ? (n-1)*gamma(n-1):1;`",
+        "user": "U15J5H60P",
+        "ts": "1464057995.000051"
+    },
+    {
+        "type": "message",
+        "text": "yea thats exactly what i have",
+        "user": "U15HY5TG8",
+        "ts": "1464058008.000052"
+    },
+    {
+        "type": "message",
+        "text": "Noice",
+        "user": "U15J5H60P",
+        "ts": "1464058012.000053"
+    },
+    {
+        "type": "message",
+        "text": "although i need to shave 5 characters off",
+        "user": "U15HY5TG8",
+        "ts": "1464058017.000054"
+    },
+    {
+        "type": "message",
+        "text": "take out the spaces",
+        "user": "U15J5H60P",
+        "ts": "1464058027.000055"
+    },
+    {
+        "type": "message",
+        "text": "and call the function something shorter",
+        "user": "U15J5H60P",
+        "ts": "1464058032.000056"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1464058033.000057"
+    },
+    {
+        "type": "message",
+        "text": "`return (n&gt;1)?(n-1)*g(n-1):1;`",
+        "user": "U15J5H60P",
+        "ts": "1464058049.000058"
+    },
+    {
+        "type": "message",
+        "text": "doesnt count spaces and cant rename the function lol already tried",
+        "user": "U15HY5TG8",
+        "ts": "1464058082.000059"
+    },
+    {
+        "type": "message",
+        "text": "damnit there is 14\/120 peoples solutions that have 41 characters. i have 45",
+        "user": "U15HY5TG8",
+        "ts": "1464058184.000060"
+    },
+    {
+        "type": "message",
+        "text": "You can take out the parentheses in the first part",
+        "user": "U15J5H60P",
+        "ts": "1464058208.000061"
+    },
+    {
+        "type": "message",
+        "text": "already did",
+        "user": "U15HY5TG8",
+        "ts": "1464058224.000062"
+    },
+    {
+        "type": "message",
+        "text": "`return n &gt; 1 ? (n-1) * gamma(n-1) : 1;`",
+        "user": "U15J5H60P",
+        "ts": "1464058226.000063"
+    },
+    {
+        "type": "message",
+        "text": "yup already did that part",
+        "user": "U15HY5TG8",
+        "ts": "1464058239.000064"
+    },
+    {
+        "type": "message",
+        "text": "is there another type of if statment?",
+        "user": "U15HY5TG8",
+        "ts": "1464058255.000065"
+    },
+    {
+        "type": "message",
+        "text": "so that’s 45?",
+        "user": "U15J5H60P",
+        "ts": "1464058255.000066"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HY5TG8",
+        "ts": "1464058258.000067"
+    },
+    {
+        "type": "message",
+        "text": "I don’t think so...",
+        "user": "U15J5H60P",
+        "ts": "1464058289.000068"
+    },
+    {
+        "type": "message",
+        "text": "it is lol",
+        "user": "U15HY5TG8",
+        "ts": "1464058307.000069"
+    },
+    {
+        "type": "message",
+        "text": "characters count includes method heading",
+        "user": "U15HY5TG8",
+        "ts": "1464058321.000070"
+    },
+    {
+        "type": "message",
+        "text": "Sorry, that was to your “Is there another type of if statement\"",
+        "user": "U15J5H60P",
+        "ts": "1464058324.000071"
+    },
+    {
+        "type": "message",
+        "text": "ooo gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1464058333.000072"
+    },
+    {
+        "type": "message",
+        "text": "i wonder if using a while loop would shorten it",
+        "user": "U15HY5TG8",
+        "ts": "1464058343.000073"
+    },
+    {
+        "type": "message",
+        "text": "no way",
+        "user": "U15J5H60P",
+        "ts": "1464058355.000074"
+    },
+    {
+        "type": "message",
+        "text": "we’re already to 1 line",
+        "user": "U15J5H60P",
+        "ts": "1464058361.000075"
+    },
+    {
+        "type": "message",
+        "text": "public int gamma(int n){\n        return n &gt; 1 ? (n-1) * gamma(n-1) : 1;\n    }",
+        "user": "U15J5H60P",
+        "ts": "1464058373.000076"
+    },
+    {
+        "type": "message",
+        "text": "right?",
+        "user": "U15J5H60P",
+        "ts": "1464058379.000077"
+    },
+    {
+        "type": "message",
+        "text": "correct",
+        "user": "U15HY5TG8",
+        "ts": "1464058390.000078"
+    },
+    {
+        "type": "message",
+        "text": "ik but it doesnt count spaces",
+        "user": "U15HY5TG8",
+        "ts": "1464058403.000079"
+    },
+    {
+        "type": "message",
+        "text": "yeaaa nope doesnt work. it would be about 50 chars",
+        "user": "U15HY5TG8",
+        "ts": "1464058462.000080"
+    },
+    {
+        "type": "message",
+        "text": "theres no way these guys trimmed 4 charcters off this",
+        "user": "U15HY5TG8",
+        "ts": "1464058621.000081"
+    },
+    {
+        "type": "message",
+        "text": "Fuck",
+        "user": "U15J5H60P",
+        "ts": "1464058623.000082"
+    },
+    {
+        "type": "message",
+        "text": "I can’t figure it out.",
+        "user": "U15J5H60P",
+        "ts": "1464058627.000083"
+    },
+    {
+        "type": "message",
+        "text": "ik. theres no other way to trim it",
+        "user": "U15HY5TG8",
+        "ts": "1464058664.000084"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. I can’t figure it out.",
+        "user": "U15J5H60P",
+        "ts": "1464059174.000085"
+    },
+    {
+        "type": "message",
+        "text": "me either. only way is if we could somehow get rid of those n-1's",
+        "user": "U15HY5TG8",
+        "ts": "1464059213.000086"
+    },
+    {
+        "type": "message",
+        "text": "damn i have to wait until tomorrow to see how these guys got the answer",
+        "user": "U15HY5TG8",
+        "ts": "1464059407.000087"
+    },
+    {
+        "type": "message",
+        "text": "Oh well. Move on to the next then?",
+        "user": "U15J5H60P",
+        "ts": "1464059427.000088"
+    },
+    {
+        "type": "message",
+        "text": "yuuup",
+        "user": "U15HY5TG8",
+        "ts": "1464059442.000089"
+    },
+    {
+        "type": "message",
+        "text": "whatre you doin andy",
+        "user": "U15HY5TG8",
+        "ts": "1464059884.000090"
+    },
+    {
+        "type": "message",
+        "text": "Trying to figure out how to make JUnit tests lol. hbu?",
+        "user": "U15J5H60P",
+        "ts": "1464059902.000091"
+    },
+    {
+        "type": "message",
+        "text": "lol isnt that easy to do?",
+        "user": "U15HY5TG8",
+        "ts": "1464059917.000092"
+    },
+    {
+        "type": "message",
+        "text": "and im on codefights tryin another problem",
+        "user": "U15HY5TG8",
+        "ts": "1464059927.000093"
+    },
+    {
+        "type": "message",
+        "text": "You would think. I can’t figure out how to import the classes though for Junit. What’s the problem you’re working on?",
+        "user": "U15J5H60P",
+        "ts": "1464059945.000094"
+    },
+    {
+        "type": "message",
+        "text": "why do you need to import the classes? why dont you just create the junit class in the same folder?",
+        "user": "U15HY5TG8",
+        "ts": "1464060004.000095"
+    },
+    {
+        "type": "message",
+        "text": "and its called a \"reverse challenge\". they give you nothing more than input and test cases. no description except the method heading and you have to finish the rest. it was the same for that gamma problem",
+        "user": "U15HY5TG8",
+        "ts": "1464060071.000096"
+    },
+    {
+        "type": "message",
+        "text": "Figured it out!",
+        "user": "U15J5H60P",
+        "ts": "1464060072.000097"
+    },
+    {
+        "type": "message",
+        "text": "noice",
+        "user": "U15HY5TG8",
+        "ts": "1464060077.000098"
+    },
+    {
+        "type": "message",
+        "text": "I’m going to go on Codefights",
+        "user": "U15J5H60P",
+        "ts": "1464060097.000099"
+    },
+    {
+        "type": "message",
+        "text": "dope",
+        "user": "U15HY5TG8",
+        "ts": "1464060106.000100"
+    },
+    {
+        "type": "message",
+        "text": "go to the cubicexpression challenge. thats the one im on",
+        "user": "U15HY5TG8",
+        "ts": "1464060125.000101"
+    },
+    {
+        "type": "message",
+        "text": "Lol I’m writing in Python though.. I got that for the Gamma challenge",
+        "user": "U15J5H60P",
+        "ts": "1464060532.000103"
+    },
+    {
+        "type": "message",
+        "text": "damnit lol go to java",
+        "user": "U15HY5TG8",
+        "ts": "1464060547.000104"
+    },
+    {
+        "type": "message",
+        "text": "I don’t get this...",
+        "user": "U15J5H60P",
+        "ts": "1464060655.000105"
+    },
+    {
+        "type": "message",
+        "text": "which?",
+        "user": "U15HY5TG8",
+        "ts": "1464060663.000106"
+    },
+    {
+        "type": "message",
+        "text": "I’m doing the CubicExpression Challenge",
+        "user": "U15J5H60P",
+        "ts": "1464060680.000107"
+    },
+    {
+        "type": "message",
+        "text": "yea idk what it could be",
+        "user": "U15HY5TG8",
+        "ts": "1464060694.000108"
+    },
+    {
+        "type": "message",
+        "text": "the answer to this one is about as long as the other one",
+        "user": "U15HY5TG8",
+        "ts": "1464060939.000109"
+    },
+    {
+        "type": "message",
+        "text": "fuck that one",
+        "user": "U15HY5TG8",
+        "ts": "1464061078.000110"
+    },
+    {
+        "type": "message",
+        "text": "I might be getting close",
+        "user": "U15J5H60P",
+        "ts": "1464062123.000111"
+    },
+    {
+        "type": "message",
+        "text": "nvm",
+        "user": "U15J5H60P",
+        "ts": "1464062151.000112"
+    },
+    {
+        "type": "message",
+        "text": "i just returned 2016 to pass the first one lol",
+        "user": "U15HY5TG8",
+        "ts": "1464062158.000113"
+    },
+    {
+        "type": "message",
+        "text": "theres not a good hint for that one",
+        "user": "U15HY5TG8",
+        "ts": "1464062183.000114"
+    },
+    {
+        "type": "message",
+        "text": "there is endless combinations for being a cubic expression",
+        "user": "U15HY5TG8",
+        "ts": "1464062204.000115"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1464063592.000116"
+    },
+    {
+        "type": "message",
+        "text": "I couldn’t figure it out.",
+        "user": "U15J5H60P",
+        "ts": "1464063596.000117"
+    },
+    {
+        "type": "message",
+        "text": "What’s your username on CodeFights",
+        "user": "U15J5H60P",
+        "ts": "1464063668.000118"
+    },
+    {
+        "type": "message",
+        "text": "i think its evanjb",
+        "user": "U15HY5TG8",
+        "ts": "1464064045.000119"
+    },
+    {
+        "type": "message",
+        "text": "yea it is",
+        "user": "U15HY5TG8",
+        "ts": "1464064074.000120"
+    }
+]

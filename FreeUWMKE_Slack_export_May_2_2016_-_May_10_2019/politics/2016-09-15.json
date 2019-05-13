@@ -1,0 +1,69 @@
+[
+    {
+        "type": "message",
+        "text": "My Updated iSideWith - <http:\/\/www.isidewith.com\/elections\/2016-presidential\/2574914694>",
+        "user": "U15J5H60P",
+        "ts": "1473980620.000002",
+        "attachments": [
+            {
+                "service_name": "iSideWith",
+                "title": "I side 78% with Jill Stein",
+                "title_link": "http:\/\/www.isidewith.com\/elections\/2016-presidential\/2574914694",
+                "text": "Based on my political beliefs, I side the most with Green candidate Jill Stein. Who do you side with?",
+                "fallback": "iSideWith: I side 78% with Jill Stein",
+                "from_url": "http:\/\/www.isidewith.com\/elections\/2016-presidential\/2574914694",
+                "thumb_url": "https:\/\/www.isidewith.com\/_styles\/2\/fb_star.png",
+                "thumb_width": 75,
+                "thumb_height": 75,
+                "service_icon": "http:\/\/www.isidewith.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Jesus, you guys should check out the How voters rate the candidates under the results.",
+        "user": "U15J5H60P",
+        "ts": "1473980697.000004"
+    },
+    {
+        "type": "message",
+        "text": "Also, since we’re entering the real world soon, check out how different candidate’s tax plans will affect you - <http:\/\/www.isidewith.com\/elections\/2016-presidential\/tax-plan-calculator>",
+        "user": "U15J5H60P",
+        "ts": "1473980832.000005",
+        "attachments": [
+            {
+                "service_name": "iSideWith",
+                "title": "Presidential Tax Plan Calculator",
+                "title_link": "http:\/\/www.isidewith.com\/elections\/2016-presidential\/tax-plan-calculator",
+                "text": "Calculate how each 2016 presidential candidate's tax plan will impact your finances",
+                "fallback": "iSideWith: Presidential Tax Plan Calculator",
+                "image_url": "https:\/\/isidewith.s3.amazonaws.com\/trump_vs_clinton_fb_2.jpg",
+                "from_url": "http:\/\/www.isidewith.com\/elections\/2016-presidential\/tax-plan-calculator",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 374704,
+                "service_icon": "http:\/\/www.isidewith.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "At 65,000 Trump will save these people $5000, Hillary won’t change anything about income at that level.",
+        "user": "U15J5H60P",
+        "ts": "1473980882.000007"
+    },
+    {
+        "type": "message",
+        "text": "Damn, Hillary looks like the best candidate in terms of Taxes.",
+        "user": "U15J5H60P",
+        "ts": "1473980956.000008"
+    },
+    {
+        "type": "message",
+        "text": "Even at $250,000 income taxes wouldn’t change. She’d reduce national debt by about $498 Billion whereas Trump will increase National Debt by $11.2 Trillion through 2026",
+        "user": "U15J5H60P",
+        "ts": "1473981008.000009"
+    }
+]

@@ -1,0 +1,388 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548266971.000200",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "client_msg_id": "28e55466-32d9-43dc-aeb2-b48468774fa9",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1548266975.000400"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548266977.000600",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "77b5814c-73d9-4515-9f19-9e339873061f",
+        "type": "message",
+        "text": "thanks",
+        "user": "U15HRTAHL",
+        "ts": "1548266979.000800"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548266980.001000",
+        "text": "<@U15HRTAHL> has left the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548267031.001200",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "client_msg_id": "9e0e00f1-97a7-4c0a-b37c-e32568f4e618",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HZ01QX",
+        "ts": "1548267132.001400"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548267136.001600",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "client_msg_id": "3acdd67a-b7f3-4190-8891-8b0afd0d9549",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15HZ01QX",
+        "ts": "1548267141.001800"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548267144.002000",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "client_msg_id": "922b9dca-e731-483c-96df-ad6f9c6d3f3e",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15HZ01QX",
+        "ts": "1548267166.002300"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548267178.002500",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HZ01QX"
+    },
+    {
+        "client_msg_id": "85332ee6-7ef6-45c7-b227-657e6ac0dd20",
+        "type": "message",
+        "text": "Wonder if I should look for houses or renew the lease for one more year once it's up",
+        "user": "U15HSHSS2",
+        "ts": "1548267361.003400"
+    },
+    {
+        "client_msg_id": "d9fc7103-7d45-469c-ba36-e7e83dd59758",
+        "type": "message",
+        "text": "lilly and I are in the same predicament",
+        "user": "U15HRTAHL",
+        "ts": "1548267389.003700"
+    },
+    {
+        "client_msg_id": "e6927cd6-2a42-43c2-a3c2-b86ef4177364",
+        "type": "message",
+        "text": "we can do month to month",
+        "user": "U15HRTAHL",
+        "ts": "1548267392.003900"
+    },
+    {
+        "client_msg_id": "66298C37-EEB8-436C-AAB8-EE3D252F98EE",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1548267426.004500"
+    },
+    {
+        "client_msg_id": "EC2EBBB7-6044-4446-A7A0-D2349D73FF91",
+        "type": "message",
+        "text": "Lakshmi said you guys are moving out of state so you should probably chat with her lol",
+        "user": "U15HZ01QX",
+        "ts": "1548267432.004800",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1548267439.000000"
+        }
+    },
+    {
+        "client_msg_id": "86143ce1-c5c0-4517-9141-b187efcd10d1",
+        "type": "message",
+        "text": "yeah texas!",
+        "user": "U15HRTAHL",
+        "ts": "1548267443.005100"
+    },
+    {
+        "client_msg_id": "BD5B9CB6-9C55-400C-BC21-321E7F3FD407",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1548267452.005300"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548268407.005500",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "client_msg_id": "c8c24797-87fa-4e01-95e0-0f7af5abc583",
+        "type": "message",
+        "text": "honestly now that ive looked more",
+        "user": "U15HZ01QX",
+        "ts": "1548269096.005800"
+    },
+    {
+        "client_msg_id": "a86a3181-e0bb-4f88-9776-31109b445864",
+        "type": "message",
+        "text": "i kinda like the original favorites alot more",
+        "user": "U15HZ01QX",
+        "ts": "1548269107.006100"
+    },
+    {
+        "client_msg_id": "d0c145f3-3dfb-4db1-979e-39a4efa984fd",
+        "type": "message",
+        "text": "<https:\/\/www.zillow.com\/homes\/for_sale\/110755628_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/4_p\/>",
+        "user": "U15HZ01QX",
+        "ts": "1548269108.006300",
+        "attachments": [
+            {
+                "title": "6383 W Darnel Ave, Brown Deer, WI 53223 | MLS #1617369 | Zillow",
+                "title_link": "https:\/\/www.zillow.com\/homes\/for_sale\/110755628_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/4_p\/",
+                "text": "For sale: $225,000. Impeccable mid-century ranch. Open floor plan. Newer KIT., full baths, roof, windows, mechanicals. New driveway, flooring KIT. and DR., garbage disposal, front landscaping, EDO, light fixtures. Plus new W\/D in revamped first floor laundry complete with a sliding barn door. MBR suite has several closets and private bath with a soaker tub. 4th BR. being used as a den. Beautiful bonus space open to LR., DR., and Kit. Huge carpeted REC. RM. has 50's padded bar. Spacious rear yard. Seller is a professional interior decorator. Wow factor plus high end quality.",
+                "fallback": "6383 W Darnel Ave, Brown Deer, WI 53223 | MLS #1617369 | Zillow",
+                "image_url": "https:\/\/photos.zillowstatic.com\/p_d\/ISyrvauszvopb01000000000.jpg",
+                "from_url": "https:\/\/www.zillow.com\/homes\/for_sale\/110755628_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/4_p\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 85226,
+                "service_icon": "https:\/\/www.zillowstatic.com\/static\/images\/m\/apple-touch-icon.png",
+                "service_name": "zillow.com",
+                "id": 1,
+                "original_url": "https:\/\/www.zillow.com\/homes\/for_sale\/110755628_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/4_p\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "214064a9-cd21-4618-a783-260b888c1ddd",
+        "type": "message",
+        "text": "<https:\/\/www.zillow.com\/homes\/for_sale\/40390243_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/>",
+        "user": "U15HZ01QX",
+        "ts": "1548269140.006600",
+        "attachments": [
+            {
+                "title": "7840 N 53rd St, Milwaukee, WI 53223 | MLS #1617735 | Zillow",
+                "title_link": "https:\/\/www.zillow.com\/homes\/for_sale\/40390243_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/",
+                "text": "For sale: $169,900. Outstanding Milwaukee ranch awaits it's new owner!Remodeled top to bottom this home offers refinished hardwood floors,natural fireplace, modern tiled baths ,beautifully updated kitchen with quartz counter top,stainless appliances, subway tile . Large windows offer abundant light.Wooded backyard with patio offers privacy for summer BBQ's.Partially finished basement adds extra space for entertaining your friends and family.Move in ready.Enjoy the home at it's fullest!",
+                "fallback": "7840 N 53rd St, Milwaukee, WI 53223 | MLS #1617735 | Zillow",
+                "image_url": "https:\/\/photos.zillowstatic.com\/p_d\/ISuw0j67b0w8vk1000000000.jpg",
+                "from_url": "https:\/\/www.zillow.com\/homes\/for_sale\/40390243_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 50761,
+                "service_icon": "https:\/\/www.zillowstatic.com\/static\/images\/m\/apple-touch-icon.png",
+                "service_name": "zillow.com",
+                "id": 1,
+                "original_url": "https:\/\/www.zillow.com\/homes\/for_sale\/40390243_zpid\/3-_beds\/globalrelevanceex_sort\/43.199857,-87.902728,43.121722,-88.050356_rect\/12_zm\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "897e7419-984f-4572-bd2d-f7e9acd6e890",
+        "type": "message",
+        "text": "hot damn",
+        "user": "U15HRTAHL",
+        "ts": "1548269166.007000"
+    },
+    {
+        "client_msg_id": "94e25b75-b580-4785-8e52-87ee8c41c6da",
+        "type": "message",
+        "text": "I like that one",
+        "user": "U15HRTAHL",
+        "ts": "1548269184.007200"
+    },
+    {
+        "client_msg_id": "a2b87ceb-9060-4c23-a1ba-408dfc520aaf",
+        "type": "message",
+        "text": "but man does that seem cheap",
+        "user": "U15HRTAHL",
+        "ts": "1548269188.007400"
+    },
+    {
+        "client_msg_id": "3408348a-4951-4585-89a3-7768d58f3e80",
+        "type": "message",
+        "text": "too cheap",
+        "user": "U15HRTAHL",
+        "ts": "1548269190.007600"
+    },
+    {
+        "client_msg_id": "a224611b-ee42-4746-ab62-b212e71fe8ae",
+        "type": "message",
+        "text": "its the curb appeal",
+        "user": "U15HZ01QX",
+        "ts": "1548269306.007800"
+    },
+    {
+        "client_msg_id": "bd5fc959-c0ae-4d5d-a38c-c4a3a53535a3",
+        "type": "message",
+        "text": "looks bad outside",
+        "user": "U15HZ01QX",
+        "ts": "1548269312.008000"
+    },
+    {
+        "client_msg_id": "941ada73-f049-4e57-a395-95f6ebb7aaf3",
+        "type": "message",
+        "text": "<https:\/\/shorelinerealestate.com\/apartments\/lexington\/>",
+        "user": "U15HSHSS2",
+        "ts": "1548269638.008200"
+    },
+    {
+        "client_msg_id": "e65068c4-c028-4432-93f3-a831e87d5410",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HSHSS2",
+        "ts": "1548269641.008400"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548269654.008600",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HSHSS2"
+    },
+    {
+        "client_msg_id": "4aeee68f-fcad-44ee-83f0-53ee935e8c61",
+        "type": "message",
+        "text": "those apartments are nice",
+        "user": "U15HZ01QX",
+        "ts": "1548269699.009100"
+    },
+    {
+        "client_msg_id": "2444ed55-6fa2-4262-94db-52260d078ce0",
+        "type": "message",
+        "text": "Dang tom",
+        "user": "U15J5H60P",
+        "ts": "1548269704.009300"
+    },
+    {
+        "client_msg_id": "aebe7a83-4f87-4d7f-87ca-17e86e435d42",
+        "type": "message",
+        "text": "Thanks",
+        "user": "U15J5H60P",
+        "ts": "1548269705.009500"
+    },
+    {
+        "client_msg_id": "5e54eabf-9797-4705-bc87-ec0d37ec7ed3",
+        "type": "message",
+        "text": "I'd bet it's $1000 for the shitties apartment that they have",
+        "user": "U15J5H60P",
+        "ts": "1548269755.009800"
+    },
+    {
+        "client_msg_id": "fa05764c-d233-47b9-bc89-4676fdde24c9",
+        "type": "message",
+        "text": "I'll check em out tho",
+        "user": "U15J5H60P",
+        "ts": "1548269757.010000"
+    },
+    {
+        "client_msg_id": "0dad4bf5-84ff-433d-bd69-d080ed6835de",
+        "type": "message",
+        "text": "<@U15HRTAHL> also im pretty sure theres no garage lol",
+        "user": "U15HZ01QX",
+        "ts": "1548272174.010300"
+    },
+    {
+        "client_msg_id": "4afba681-6478-400a-bb4e-cde3b0a5c174",
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1548272213.010500"
+    },
+    {
+        "client_msg_id": "1636c9eb-8934-4e19-8820-fcf2c588e04b",
+        "type": "message",
+        "text": "that’ll do it",
+        "user": "U15HRTAHL",
+        "ts": "1548272216.010700"
+    },
+    {
+        "client_msg_id": "4bbdbda0-0954-4766-b2db-22bf50ec560a",
+        "type": "message",
+        "text": "lol i was looking at pictures like wait is that it?",
+        "user": "U15HZ01QX",
+        "ts": "1548272236.011100"
+    },
+    {
+        "client_msg_id": "c1fa0724-58d7-4293-bc2a-5a3c8af68530",
+        "type": "message",
+        "text": "just a carport lol",
+        "user": "U15HY5TG8",
+        "ts": "1548273912.011300"
+    },
+    {
+        "client_msg_id": "4D407268-3B85-4C60-9FCA-A40FBE8F0813",
+        "type": "message",
+        "text": "What a joke",
+        "user": "U15HZ01QX",
+        "ts": "1548273929.011800"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1548273933.012000",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/snow-friend-week-G93FU0o7EPGOQ",
+                "image_url": "https:\/\/media3.giphy.com\/media\/G93FU0o7EPGOQ\/giphy-downsized.gif?cid=6104955e5c48c90577794279417ff422",
+                "image_width": 140,
+                "image_height": 250,
+                "image_bytes": 1229639,
+                "is_animated": true,
+                "title": "carport",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/snow-friend-week-G93FU0o7EPGOQ"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dfcdba76-018d-4295-8cd8-566b509969f1",
+        "type": "message",
+        "text": "who are these home architects building houses without garages in wisconsin? lol",
+        "user": "U15HY5TG8",
+        "ts": "1548273951.012300"
+    },
+    {
+        "client_msg_id": "e768cff2-340b-47bb-9298-e576b1b994b4",
+        "type": "message",
+        "text": "Idiots",
+        "user": "U15J5H60P",
+        "ts": "1548273958.012500"
+    }
+]

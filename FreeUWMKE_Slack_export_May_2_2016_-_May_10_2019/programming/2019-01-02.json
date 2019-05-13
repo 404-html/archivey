@@ -1,0 +1,222 @@
+[
+    {
+        "client_msg_id": "5d023d9d-b2c2-40e9-ae6a-a95c2fa82450",
+        "type": "message",
+        "text": "got in at 7:30 this morning. have literally just stared blankly at my screen for an hour so far",
+        "user": "U15HY5TG8",
+        "ts": "1546439885.078700"
+    },
+    {
+        "client_msg_id": "7ccfd8ce-c3d7-4fed-aae8-58394a698171",
+        "type": "message",
+        "text": "I hate working",
+        "user": "U15J5H60P",
+        "ts": "1546439994.078900"
+    },
+    {
+        "client_msg_id": "508dd1ce-db53-4a55-bc90-a3a3db882327",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1546440215.079100"
+    },
+    {
+        "client_msg_id": "05af5bbe-fcdd-44ff-ae0c-720a45dad84c",
+        "type": "message",
+        "text": "I didn’t get any sleep again last night",
+        "user": "U15HRTAHL",
+        "ts": "1546440227.079500"
+    },
+    {
+        "client_msg_id": "b93fa977-fb7b-4dc5-a393-4f0d08a17d20",
+        "type": "message",
+        "text": "i can’t stand work",
+        "user": "U15HRTAHL",
+        "ts": "1546440231.079700"
+    },
+    {
+        "client_msg_id": "cbd61067-7c65-4b7e-8ab0-cbda9057b399",
+        "type": "message",
+        "text": "and Idk if there is any job that I will “like”",
+        "user": "U15HRTAHL",
+        "ts": "1546440248.080100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1546440252.000000"
+        }
+    },
+    {
+        "client_msg_id": "18cb3e6e-7cd0-454b-bc49-8e4f21bea14c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1546440331.080500"
+    },
+    {
+        "client_msg_id": "66749045-b2fd-4e1c-91c1-5b58f3a7e8e7",
+        "type": "message",
+        "text": "I'm gonna go back to being a bartender",
+        "user": "U15HY5TG8",
+        "ts": "1546440344.080800"
+    },
+    {
+        "type": "message",
+        "text": "Look who wants to be my friend now",
+        "files": [
+            {
+                "id": "FF630MLQP",
+                "created": 1546449178,
+                "timestamp": 1546449178,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 403662,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF630MLQP\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF630MLQP\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF630MLQP-93a7f385ca\/image_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FF630MLQP\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FF630MLQP-90e3011215",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "02ED219B-709C-4F98-96C1-5BEF62939EAA",
+        "ts": "1546449178.080900"
+    },
+    {
+        "client_msg_id": "84b126b9-b798-4d63-a1f6-e4e8afbaa78e",
+        "type": "message",
+        "text": "huh",
+        "user": "U15HRTAHL",
+        "ts": "1546449200.081300"
+    },
+    {
+        "client_msg_id": "1fb9098e-ca90-4bc2-bbc7-a43b8218e300",
+        "type": "message",
+        "text": "I wonder why he’s reaching out to you",
+        "user": "U15HRTAHL",
+        "ts": "1546449205.081500"
+    },
+    {
+        "client_msg_id": "DE91BAFF-60C2-44A5-AC38-D306A0EBC0CF",
+        "type": "message",
+        "text": "No idea",
+        "user": "U15HY5TG8",
+        "ts": "1546449238.081700"
+    },
+    {
+        "client_msg_id": "1013B65A-FBEC-45E0-82A2-CC2C2B265E00",
+        "type": "message",
+        "text": "Maybe im \"good enough\" for him now",
+        "user": "U15HY5TG8",
+        "ts": "1546449248.082100"
+    },
+    {
+        "client_msg_id": "8001D7CE-D74B-43A5-ABB9-CE005C9123ED",
+        "type": "message",
+        "text": "Then he'll look at my resume and see i graduated with a 2.9 and tell me to fuck off again",
+        "user": "U15HY5TG8",
+        "ts": "1546449271.082900"
+    },
+    {
+        "client_msg_id": "BF72E3DA-C43F-4F37-8031-7168A5D9D31D",
+        "type": "message",
+        "text": "Ron is a jackass",
+        "user": "U15J5H60P",
+        "ts": "1546449386.083200"
+    },
+    {
+        "client_msg_id": "c2c4f0c2-89d1-425b-812b-88e5e776d310",
+        "type": "message",
+        "text": "Apparently the #5 top contributor to stackoverflow is from Madison",
+        "user": "U15HRTAHL",
+        "ts": "1546461900.083600"
+    },
+    {
+        "client_msg_id": "9fa36996-e42a-4a7b-93dd-65d823887867",
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.com\/users\/17034\/hans-passant>",
+        "user": "U15HRTAHL",
+        "ts": "1546461903.083800",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "User Hans Passant",
+                "title_link": "https:\/\/stackoverflow.com\/users\/17034\/hans-passant",
+                "text": "Stack Overflow | The World’s Largest Online Community for Developers",
+                "fallback": "Stack Overflow: User Hans Passant",
+                "thumb_url": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded",
+                "from_url": "https:\/\/stackoverflow.com\/users\/17034\/hans-passant",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/stackoverflow.com\/users\/17034\/hans-passant"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2d24c228-4e63-41dd-b5d4-5ede93ff8fb6",
+        "type": "message",
+        "text": "damn",
+        "user": "U15HY5TG8",
+        "ts": "1546462675.084100"
+    },
+    {
+        "client_msg_id": "10780a0b-0401-44ae-ad75-b672bfe9ec79",
+        "type": "message",
+        "text": "he works for sony",
+        "user": "U15HRTAHL",
+        "ts": "1546462721.084300"
+    },
+    {
+        "client_msg_id": "3c1be72c-69e3-4822-9cb5-7f461ac95580",
+        "type": "message",
+        "text": "in madison",
+        "user": "U15HRTAHL",
+        "ts": "1546462724.084500"
+    },
+    {
+        "client_msg_id": "8d147709-1a07-4ef9-bc6d-279c5182cf0e",
+        "type": "message",
+        "text": "that's pretty dope",
+        "user": "U15HY5TG8",
+        "ts": "1546462792.084700"
+    }
+]

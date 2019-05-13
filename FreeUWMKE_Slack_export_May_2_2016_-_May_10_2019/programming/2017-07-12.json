@@ -1,0 +1,326 @@
+[
+    {
+        "type": "message",
+        "text": "have you guys ever implemented a type ahead field from scratch?",
+        "user": "U15HRTAHL",
+        "ts": "1499884247.662761"
+    },
+    {
+        "type": "message",
+        "text": "Negative",
+        "user": "U15HY5TG8",
+        "ts": "1499884435.776552"
+    },
+    {
+        "type": "message",
+        "text": "Never heard of it.",
+        "user": "U15J5H60P",
+        "ts": "1499884676.918200"
+    },
+    {
+        "type": "message",
+        "text": "Neither did i. Its just predictive searches basically",
+        "user": "U15HY5TG8",
+        "ts": "1499884701.933525"
+    },
+    {
+        "type": "message",
+        "text": "pretty interesting stuff",
+        "user": "U15HRTAHL",
+        "ts": "1499884824.006074"
+    },
+    {
+        "type": "message",
+        "text": "I just made one",
+        "user": "U15HRTAHL",
+        "ts": "1499884826.007234"
+    },
+    {
+        "type": "message",
+        "text": "Noice",
+        "user": "U15HY5TG8",
+        "ts": "1499884842.016652"
+    },
+    {
+        "type": "message",
+        "text": "How was it?",
+        "user": "U15HY5TG8",
+        "ts": "1499884847.019766"
+    },
+    {
+        "type": "message",
+        "text": "I mean codewise",
+        "user": "U15HY5TG8",
+        "ts": "1499884931.069279"
+    },
+    {
+        "type": "message",
+        "text": "not too bad",
+        "user": "U15HRTAHL",
+        "ts": "1499884936.072554"
+    },
+    {
+        "type": "message",
+        "text": "```\n&lt;input type=\"text\" ng-change=\"handleOnChange()\" ng-show=\"mode == 'edit'\" ng-model=\"case.Caller__r.Name\" ng-keydown=\"selectItem($event, callerResults)\" \/&gt;\n&lt;div ng-show=\"callerResults &amp;&amp; callerResults.length &gt; 0 &amp;&amp; case.Member__r.Name\" style=\"position: absolute; background-color: lightblue;\" &gt;\n    &lt;div ng-class=\"{'focus': $index == indexVariable}\" ng-repeat=\"caller in callerResults\" style=\"padding : 5px; border-bottom: solid grey 1px;\"&gt;\n        &lt;div&gt;{{caller.Name}}&lt;\/div&gt;\n    &lt;\/div&gt;\n&lt;\/div&gt;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1499885001.110872"
+    },
+    {
+        "type": "message",
+        "text": "```\n$scope.handleOnChange = function() {\n\n                ForceRemoting('searchMembers', {name : $scope.case.Caller__r.Name}).then(function(res) {\n                    console.log(res);\n                    $scope.callerResults = res;\n                });\n            };\n\n            $scope.selectItem = function(keyCode, searchingSet) {\n                keyCode = keyCode.keyCode;\n                switch (keyCode) {\n                    case 38:\n                        console.log('up');\n                        if ($scope.indexVariable &gt; 0) $scope.indexVariable -= 1;\n                        break;\n                    case 40:\n                        console.log('down');\n                        if ($scope.indexVariable &lt; searchingSet.length - 1) $scope.indexVariable += 1;\n                        break;\n                    case 13:\n                        console.log('enter');\n                    case 27:\n                        console.log('esc');\n                        $scope.callerResults = [];\n                    default:\n                        \/\/\n                }\n                console.log($scope.indexVariable);\n\n\n            }\n```",
+        "user": "U15HRTAHL",
+        "ts": "1499885017.119791"
+    },
+    {
+        "type": "message",
+        "text": "Ahh nice nice!",
+        "user": "U15HY5TG8",
+        "ts": "1499885044.135697"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1499885671.511395"
+    },
+    {
+        "type": "message",
+        "text": "Man",
+        "user": "U15HRTAHL",
+        "ts": "1499885674.512951"
+    },
+    {
+        "type": "message",
+        "text": "Project Manager was expecting this page to be finished tomorrow by 1",
+        "user": "U15HRTAHL",
+        "ts": "1499885688.521725"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1499885689.522530"
+    },
+    {
+        "type": "message",
+        "text": "I just spent 3 hours working on a search field",
+        "user": "U15HRTAHL",
+        "ts": "1499885700.528930"
+    },
+    {
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HRTAHL",
+        "ts": "1499885701.529452"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1499885707.533045"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1499885707.533103"
+    },
+    {
+        "type": "message",
+        "text": "Do you have a demo or something?",
+        "user": "U15HY5TG8",
+        "ts": "1499885747.558106"
+    },
+    {
+        "type": "message",
+        "text": "I don't",
+        "user": "U15HRTAHL",
+        "ts": "1499887091.323594"
+    },
+    {
+        "type": "message",
+        "text": "pm does",
+        "user": "U15HRTAHL",
+        "ts": "1499887093.325089"
+    },
+    {
+        "type": "message",
+        "text": "not my problem lol",
+        "user": "U15HRTAHL",
+        "ts": "1499887099.328461"
+    },
+    {
+        "type": "message",
+        "text": "quit introducing new features and changing existing ones",
+        "user": "U15HRTAHL",
+        "ts": "1499887115.336809"
+    },
+    {
+        "type": "message",
+        "text": "we were also gone for a full week and she neglected to tell that to the client",
+        "user": "U15HRTAHL",
+        "ts": "1499887172.368917"
+    },
+    {
+        "type": "message",
+        "text": "once again, not my problem",
+        "user": "U15HRTAHL",
+        "ts": "1499887179.372552"
+    },
+    {
+        "type": "message",
+        "text": "Thats what i meant. And sounds likes theres dumbasses in every company",
+        "user": "U15HY5TG8",
+        "ts": "1499887365.472698"
+    },
+    {
+        "type": "message",
+        "text": "except this is a company full of dumbasses",
+        "user": "U15HRTAHL",
+        "ts": "1499887391.486871"
+    },
+    {
+        "type": "message",
+        "text": "According to that statement, you are a dumbass too",
+        "user": "U15HY5TG8",
+        "ts": "1499887430.507556"
+    },
+    {
+        "type": "message",
+        "text": "oh hell yeah",
+        "user": "U15HRTAHL",
+        "ts": "1499887438.511678"
+    },
+    {
+        "type": "message",
+        "text": "im not going to pretend i know what im doing lol",
+        "user": "U15HRTAHL",
+        "ts": "1499887452.519352"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1499887460.523338"
+    },
+    {
+        "type": "message",
+        "text": "Meanwhile i want to slap the shit out of one of the QA members here",
+        "user": "U15HY5TG8",
+        "ts": "1499887524.558931"
+    },
+    {
+        "type": "message",
+        "text": "for what",
+        "user": "U15HRTAHL",
+        "ts": "1499887742.676304"
+    },
+    {
+        "type": "message",
+        "text": "Just asking stupid questions",
+        "user": "U15HY5TG8",
+        "ts": "1499887774.693878"
+    },
+    {
+        "type": "message",
+        "text": "like",
+        "user": "U15HRTAHL",
+        "ts": "1499887842.731568"
+    },
+    {
+        "type": "message",
+        "text": "I cant think of an example right now but its at least once per day where i want to put my head through my desk",
+        "user": "U15HY5TG8",
+        "ts": "1499887934.782432"
+    },
+    {
+        "type": "message",
+        "text": "Lmfaooo",
+        "user": "U15HY5TG8",
+        "ts": "1499888500.085680"
+    },
+    {
+        "type": "message",
+        "text": "Alright ive got an example",
+        "user": "U15HY5TG8",
+        "ts": "1499888505.088039"
+    },
+    {
+        "type": "message",
+        "text": "So this QA lady just asked the devs if there was requirements around locked\/disabled form control buttons. ",
+        "user": "U15HY5TG8",
+        "ts": "1499888551.113064"
+    },
+    {
+        "type": "message",
+        "text": "The dev responded with a <http:\/\/getbootstrap.com|getbootstrap.com> link :joy::joy::joy:🤣:joy:🤣:joy:🤣:joy:🤣",
+        "user": "U15HY5TG8",
+        "ts": "1499888574.125371"
+    },
+    {
+        "type": "message",
+        "text": "LMFAO",
+        "user": "U15HRTAHL",
+        "ts": "1499888594.135979"
+    },
+    {
+        "type": "message",
+        "text": "Im dying over here lmao",
+        "user": "U15HY5TG8",
+        "ts": "1499888614.145574"
+    },
+    {
+        "type": "message",
+        "text": "thats as good as <http:\/\/lmgtfy.com|lmgtfy.com>",
+        "user": "U15HRTAHL",
+        "ts": "1499888641.159507"
+    },
+    {
+        "type": "message",
+        "text": "Yes. Yes it is haha",
+        "user": "U15HY5TG8",
+        "ts": "1499888655.166542"
+    },
+    {
+        "type": "message",
+        "text": "Im in the gray lol",
+        "user": "U15HY5TG8",
+        "ts": "1499889426.597248"
+    },
+    {
+        "type": "message",
+        "text": "is that guy cool?",
+        "user": "U15HRTAHL",
+        "ts": "1499889459.616275"
+    },
+    {
+        "type": "message",
+        "text": "Hes kinda like you i would say. Pretty cool but an asshole to the people that go about things wrong or waste time. Extremely good programmer though i guess",
+        "user": "U15HY5TG8",
+        "ts": "1499889562.675007"
+    },
+    {
+        "type": "message",
+        "text": "yup thats me, minus extremely good",
+        "user": "U15HRTAHL",
+        "ts": "1499889579.684675"
+    },
+    {
+        "type": "message",
+        "text": "Extremely fast is a better way to put things. He gets code checked in really fast but also has a bunch of small bugs ",
+        "user": "U15HY5TG8",
+        "ts": "1499889635.718248"
+    },
+    {
+        "type": "message",
+        "text": "Dude im still laughing at his response lol",
+        "user": "U15HY5TG8",
+        "ts": "1499889761.790549"
+    },
+    {
+        "type": "message",
+        "text": "I hope you use that one day",
+        "user": "U15HY5TG8",
+        "ts": "1499889772.796818"
+    }
+]

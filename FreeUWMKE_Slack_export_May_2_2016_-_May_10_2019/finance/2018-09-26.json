@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "87589874-144e-4479-81a7-75c4ff3fd06e",
+        "type": "message",
+        "text": "GoPro just got upgraded",
+        "user": "U15J5H60P",
+        "ts": "1537972799.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus gpro",
+        "user": "U15J5H60P",
+        "ts": "1537972803.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       GPRO               6.945               0.325                4.909 \n       Avg.                 ---                 ---               4.909% \n```\n<http:\/\/finviz.com\/chart.ashx?t=GPRO&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1537972803.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=GPRO&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33115,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=GPRO&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=GPRO&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    }
+]

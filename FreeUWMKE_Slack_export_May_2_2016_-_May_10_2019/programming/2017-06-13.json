@@ -1,0 +1,468 @@
+[
+    {
+        "type": "message",
+        "text": "Do you guys know if there is a standard function or something that can just check the value of an object in javascript and return false if it's  null, undefind, or an empty string\/just white space?",
+        "user": "U15HSHSS2",
+        "ts": "1497365690.408302"
+    },
+    {
+        "type": "message",
+        "text": "There's like 3 ways I've tried to do this that all don't quite work... and I'd prefer to not have multiple checks in the if statement",
+        "user": "U15HSHSS2",
+        "ts": "1497365743.432462"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1497365743.432607"
+    },
+    {
+        "type": "message",
+        "text": "if(object.certainField)",
+        "user": "U15J5H60P",
+        "ts": "1497365760.439286"
+    },
+    {
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1497365766.441671"
+    },
+    {
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1497365767.442003"
+    },
+    {
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1497365777.446545"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1497365778.446857"
+    },
+    {
+        "type": "message",
+        "text": "if(object.certainField)",
+        "user": "U15J5H60P",
+        "ts": "1497365784.449476"
+    },
+    {
+        "type": "message",
+        "text": "If it's something then it'll return true, otherwise false",
+        "user": "U15J5H60P",
+        "ts": "1497365795.453720"
+    },
+    {
+        "type": "message",
+        "text": "Ik there is in c# :grimacing:",
+        "user": "U15HY5TG8",
+        "ts": "1497365800.455531"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, that's how it's currently set up, which is actually what is causing the bug",
+        "user": "U15HSHSS2",
+        "ts": "1497365811.460433"
+    },
+    {
+        "type": "message",
+        "text": "Not sure if that works on empty strings though...",
+        "user": "U15J5H60P",
+        "ts": "1497365815.463280"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1497365815.463766"
+    },
+    {
+        "type": "message",
+        "text": "nevermind then",
+        "user": "U15J5H60P",
+        "ts": "1497365820.466573"
+    },
+    {
+        "type": "message",
+        "text": "I guess you're just going to have to do the checks.",
+        "user": "U15J5H60P",
+        "ts": "1497365830.470842"
+    },
+    {
+        "type": "message",
+        "text": "if object.certainfeild = 0 its still valid",
+        "user": "U15HSHSS2",
+        "ts": "1497365831.471139"
+    },
+    {
+        "type": "message",
+        "text": "but 0 equates to false",
+        "user": "U15HSHSS2",
+        "ts": "1497365835.473522"
+    },
+    {
+        "type": "message",
+        "text": "And that certain field exists?",
+        "user": "U15J5H60P",
+        "ts": "1497365845.477791"
+    },
+    {
+        "type": "message",
+        "text": "take the = 0 out",
+        "user": "U15J5H60P",
+        "ts": "1497365854.481793"
+    },
+    {
+        "type": "message",
+        "text": "if(object.CertainField){do stuff}",
+        "user": "U15J5H60P",
+        "ts": "1497365866.487195"
+    },
+    {
+        "type": "message",
+        "text": "No I mean if Object.CertainField = 0",
+        "user": "U15HSHSS2",
+        "ts": "1497365880.493633"
+    },
+    {
+        "type": "message",
+        "text": "if(object.CertainField) is false",
+        "user": "U15HSHSS2",
+        "ts": "1497365889.497503"
+    },
+    {
+        "type": "message",
+        "text": "I just looked it up, stack says to do if(!yourstring) do stuff",
+        "user": "U15HY5TG8",
+        "ts": "1497365891.498121"
+    },
+    {
+        "type": "message",
+        "text": "but it needs to be true because 0 is a valid number in this case",
+        "user": "U15HSHSS2",
+        "ts": "1497365909.506383"
+    },
+    {
+        "type": "message",
+        "text": "Ohhhhh",
+        "user": "U15J5H60P",
+        "ts": "1497365915.509172"
+    },
+    {
+        "type": "message",
+        "text": "If(!yourstring &amp;&amp; yourstring!=0)",
+        "user": "U15HY5TG8",
+        "ts": "1497365952.525218"
+    },
+    {
+        "type": "message",
+        "text": "I guess you could do something like a tryParse if they have that is js",
+        "user": "U15J5H60P",
+        "ts": "1497365962.529743"
+    },
+    {
+        "type": "message",
+        "text": "in js*",
+        "user": "U15J5H60P",
+        "ts": "1497365965.530892"
+    },
+    {
+        "type": "message",
+        "text": "I found isNaN(num) and it worked fine, which checks if num is a number or not",
+        "user": "U15HSHSS2",
+        "ts": "1497365966.531351"
+    },
+    {
+        "type": "message",
+        "text": "ahhhh",
+        "user": "U15J5H60P",
+        "ts": "1497365972.533770"
+    },
+    {
+        "type": "message",
+        "text": "but it fucking says \"\" and \" \" are numbers...",
+        "user": "U15HSHSS2",
+        "ts": "1497365974.534722"
+    },
+    {
+        "type": "message",
+        "text": "NaN is finiky",
+        "user": "U15HRTAHL",
+        "ts": "1497365975.535267"
+    },
+    {
+        "type": "message",
+        "text": "NaN is obnoxious. We don't use it at all.",
+        "user": "U15J5H60P",
+        "ts": "1497365996.544520"
+    },
+    {
+        "type": "message",
+        "text": "I'd just do the checks.",
+        "user": "U15J5H60P",
+        "ts": "1497365999.545849"
+    },
+    {
+        "type": "message",
+        "text": "Yeah...",
+        "user": "U15HSHSS2",
+        "ts": "1497366005.549232"
+    },
+    {
+        "type": "message",
+        "text": "Sorry, Tom",
+        "user": "U15J5H60P",
+        "ts": "1497366011.552429"
+    },
+    {
+        "type": "message",
+        "text": ":white_frowning_face:",
+        "user": "U15HSHSS2",
+        "ts": "1497366035.563992"
+    },
+    {
+        "type": "message",
+        "text": "omfg idk this is ridiculous",
+        "user": "U15HSHSS2",
+        "ts": "1497367180.070806"
+    },
+    {
+        "type": "message",
+        "text": "The zero case is causing this to all go to shit",
+        "user": "U15HSHSS2",
+        "ts": "1497367194.076908"
+    },
+    {
+        "type": "message",
+        "text": "Paste the block",
+        "user": "U15J5H60P",
+        "ts": "1497367196.077769"
+    },
+    {
+        "type": "message",
+        "text": "So this field you are checking can be of multiple types?",
+        "user": "U15J5H60P",
+        "ts": "1497367238.096356"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HSHSS2",
+        "ts": "1497367250.101338"
+    },
+    {
+        "type": "message",
+        "text": "It could technically be anything",
+        "user": "U15HSHSS2",
+        "ts": "1497367255.103737"
+    },
+    {
+        "type": "message",
+        "text": "What is it?",
+        "user": "U15J5H60P",
+        "ts": "1497367262.106636"
+    },
+    {
+        "type": "message",
+        "text": "Just a description field?",
+        "user": "U15J5H60P",
+        "ts": "1497367286.117413"
+    },
+    {
+        "type": "message",
+        "text": "What is an example of an invalid field?",
+        "user": "U15J5H60P",
+        "ts": "1497367299.123117"
+    },
+    {
+        "type": "message",
+        "text": "It's a cost, and sometimes its an actual number and sometimes its a string of the number",
+        "user": "U15HSHSS2",
+        "ts": "1497367307.126758"
+    },
+    {
+        "type": "message",
+        "text": "That's no good",
+        "user": "U15J5H60P",
+        "ts": "1497367318.131424"
+    },
+    {
+        "type": "message",
+        "text": "Parse it into an Int",
+        "user": "U15J5H60P",
+        "ts": "1497367327.135317"
+    },
+    {
+        "type": "message",
+        "text": "i could just cast it as an int but i really dont wnat to do that",
+        "user": "U15HSHSS2",
+        "ts": "1497367337.139836"
+    },
+    {
+        "type": "message",
+        "text": "Why not?",
+        "user": "U15J5H60P",
+        "ts": "1497367344.143051"
+    },
+    {
+        "type": "message",
+        "text": "is it a whole number?",
+        "user": "U15HRTAHL",
+        "ts": "1497367370.154177"
+    },
+    {
+        "type": "message",
+        "text": "cuz there has to be a better way to do this...",
+        "user": "U15HSHSS2",
+        "ts": "1497367372.155262"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1497367375.156724"
+    },
+    {
+        "type": "message",
+        "text": "will it ever be empty?",
+        "user": "U15HRTAHL",
+        "ts": "1497367381.158933"
+    },
+    {
+        "type": "message",
+        "text": "I'll look like a fool if I try to cast it and theres a better way lol",
+        "user": "U15HSHSS2",
+        "ts": "1497367391.163137"
+    },
+    {
+        "type": "message",
+        "text": "it could be empty yes",
+        "user": "U15HSHSS2",
+        "ts": "1497367396.165423"
+    },
+    {
+        "type": "message",
+        "text": "but 0 is valid?",
+        "user": "U15HRTAHL",
+        "ts": "1497367404.169073"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HSHSS2",
+        "ts": "1497367406.170089"
+    },
+    {
+        "type": "message",
+        "text": "ok, so what are you actually checking for?",
+        "user": "U15HRTAHL",
+        "ts": "1497367417.175066"
+    },
+    {
+        "type": "message",
+        "text": "letters?",
+        "user": "U15HRTAHL",
+        "ts": "1497367419.175991"
+    },
+    {
+        "type": "message",
+        "text": "If its null - false, undefined - false, empty string - false, number - true (string\/int\/float\/double)",
+        "user": "U15HSHSS2",
+        "ts": "1497367499.211033"
+    },
+    {
+        "type": "message",
+        "text": "The way it's set up it wont ever be letters",
+        "user": "U15HSHSS2",
+        "ts": "1497367520.220451"
+    },
+    {
+        "type": "message",
+        "text": "I'll try casting it to a string and see how bad it looks lol",
+        "user": "U15HSHSS2",
+        "ts": "1497367599.254782"
+    },
+    {
+        "type": "message",
+        "text": "Why cast to a string?",
+        "user": "U15J5H60P",
+        "ts": "1497367888.383365"
+    },
+    {
+        "type": "message",
+        "text": "Instead of an Int",
+        "user": "U15J5H60P",
+        "ts": "1497367908.392641"
+    },
+    {
+        "type": "message",
+        "text": "because \"0\" is true",
+        "user": "U15HSHSS2",
+        "ts": "1497367909.393074"
+    },
+    {
+        "type": "message",
+        "text": "0 is false",
+        "user": "U15HSHSS2",
+        "ts": "1497367913.394824"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15J5H60P",
+        "ts": "1497367914.395444"
+    },
+    {
+        "type": "message",
+        "text": "JS is dumb",
+        "user": "U15J5H60P",
+        "ts": "1497367931.402917"
+    },
+    {
+        "type": "message",
+        "text": "tell me about it",
+        "user": "U15HSHSS2",
+        "ts": "1497367937.405692"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/stackoverflow.blog\/2017\/06\/12\/new-kids-block-understanding-developers-entering-workforce-today\/?cb=1>",
+        "user": "U15HRTAHL",
+        "ts": "1497370729.588853",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow Blog",
+                "title": "New Kids on the Block: Understanding Developers Entering the Workforce Today - Stack Overflow Blog",
+                "title_link": "https:\/\/stackoverflow.blog\/2017\/06\/12\/new-kids-block-understanding-developers-entering-workforce-today\/?cb=1",
+                "text": "Another academic year has recently ended, bringing with it a new season of graduations to celebrate and a new crop of freshly-minted graduates entering the software industry. The 2017 Stack Overflow Developer Survey provides context and data for understanding developers who are just entering the workforce compared to more experienced developers. Let’s use this year’s survey results to gain a deeper understanding of these new graduates.",
+                "fallback": "Stack Overflow Blog: New Kids on the Block: Understanding Developers Entering the Workforce Today - Stack Overflow Blog",
+                "thumb_url": "https:\/\/zgab33vy595fw5zq-zippykid.netdna-ssl.com\/wp-content\/uploads\/2017\/06\/devtype-1-1024x853.png",
+                "ts": 1497272454,
+                "from_url": "https:\/\/stackoverflow.blog\/2017\/06\/12\/new-kids-block-understanding-developers-entering-workforce-today\/?cb=1",
+                "thumb_width": 1024,
+                "thumb_height": 853,
+                "service_icon": "https:\/\/zgab33vy595fw5zq-zippykid.netdna-ssl.com\/wp-content\/uploads\/2017\/03\/cropped-SO_Logo_glyph-use-this-one-smaller-180x180.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Work probably gets a solid 4 -5 hours out of me a day",
+        "user": "U15HRTAHL",
+        "ts": "1497376938.004873"
+    },
+    {
+        "type": "message",
+        "text": "the other 3 -4 is me doing everything but working",
+        "user": "U15HRTAHL",
+        "ts": "1497376950.009766"
+    }
+]

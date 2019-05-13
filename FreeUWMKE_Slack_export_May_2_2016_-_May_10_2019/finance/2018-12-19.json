@@ -1,0 +1,61 @@
+[
+    {
+        "client_msg_id": "a4a1c10c-f9d6-4746-8854-139ac2efd74d",
+        "type": "message",
+        "text": "fed raised interest rates",
+        "user": "U15HRTAHL",
+        "ts": "1545246204.001200"
+    },
+    {
+        "client_msg_id": "2073cc0c-f6a8-4758-b0d5-e0e4d18af816",
+        "type": "message",
+        "text": "the market is gonna go down",
+        "user": "U15HRTAHL",
+        "ts": "1545246213.001500"
+    },
+    {
+        "client_msg_id": "8b85d68a-4505-446d-be54-a3941bc28cf0",
+        "type": "message",
+        "text": "Neet",
+        "user": "U15J5H60P",
+        "ts": "1545246371.001700"
+    },
+    {
+        "client_msg_id": "738c9174-d29c-4220-acac-cae085626354",
+        "type": "message",
+        "text": "I can't believe how much we're winning",
+        "user": "U15J5H60P",
+        "ts": "1545246376.001900"
+    },
+    {
+        "client_msg_id": "ec291609-61ef-4942-b6f0-8eb16fdf8295",
+        "type": "message",
+        "text": "We're winning so hard that it hurts",
+        "user": "U15J5H60P",
+        "ts": "1545246381.002200"
+    },
+    {
+        "client_msg_id": "6393b331-cbfa-4a11-af49-b3ddb253ac17",
+        "type": "message",
+        "text": "<https:\/\/www.marketwatch.com\/story\/defying-trump-fed-hikes-interest-rates-by-a-quarter-point-2018-12-19>",
+        "user": "U15HRTAHL",
+        "ts": "1545246480.002400",
+        "attachments": [
+            {
+                "service_name": "MarketWatch",
+                "title": "Defying Trump, Fed hikes interest rates by a quarter-point",
+                "title_link": "https:\/\/www.marketwatch.com\/story\/defying-trump-fed-hikes-interest-rates-by-a-quarter-point-2018-12-19",
+                "text": "The Federal Reserve raised its benchmark interest rates in December and said it would watch developments closely",
+                "fallback": "MarketWatch: Defying Trump, Fed hikes interest rates by a quarter-point",
+                "image_url": "http:\/\/s.marketwatch.com\/public\/resources\/MWimages\/MW-HA618_powell_ZG_20181219085947.jpg",
+                "image_width": 445,
+                "image_height": 250,
+                "from_url": "https:\/\/www.marketwatch.com\/story\/defying-trump-fed-hikes-interest-rates-by-a-quarter-point-2018-12-19",
+                "image_bytes": 200576,
+                "service_icon": "https:\/\/www.marketwatch.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.marketwatch.com\/story\/defying-trump-fed-hikes-interest-rates-by-a-quarter-point-2018-12-19"
+            }
+        ]
+    }
+]

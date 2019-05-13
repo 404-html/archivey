@@ -1,0 +1,303 @@
+[
+    {
+        "client_msg_id": "5a53636b-494b-4029-80dd-2ff5e6f7b11c",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1547130443.000200"
+    },
+    {
+        "client_msg_id": "a305493e-fa93-412f-aeef-1ec8833f0f84",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1547130458.000500"
+    },
+    {
+        "client_msg_id": "fbcb33d9-98c9-46b8-aae0-4750d4a133bb",
+        "type": "message",
+        "text": "```\n{ \n    \"Description\" : \"Serverless backend for Sasquatch\",\n    \"Transform\" : \"AWS::Serverless-2016-10-31\",\n    \"Globals\" : {\n    },\n    \"Resources\" : {\n        \"db\" : {\n            \"Type\": \"AWS::RDS::DBInstance\",\n            \"Properties\" : {\n                \"AllocatedStorage\": \"20\",\n                \"DBInstanceClass\": \"db.t2.micro\",\n                \"DBName\": \"messing_with_sasquatch\",\n                \"DeleteAutomatedBackups\": true,\n                \"Engine\": \"postgres\",\n                \"MasterUsername\": \"sasquatch\",\n                \"MasterUserPassword\": \"******\",\n                \"PubliclyAccessible\": true\n            }\n        },\n        \"signIn\" : {\n            \"Type\": \"AWS::Serverless::Function\",\n            \"Properties\": {\n                \"Handler\": \"index.signIn\",\n                \"Runtime\": \"nodejs8.10\",\n                \"CodeUri\": \".\/src\",\n                \"FunctionName\": \"signIn\",\n                \"Timeout\": 10,\n                \"Events\": {\n                    \"SignIn\" : {\n                        \"Type\": \"Api\",\n                        \"Properties\" : {\n                            \"Path\" : \"\/signIn\",\n                            \"Method\" : \"post\"\n                        }\n                    }\n                }\n            }\n        },\n        \"Auth\" : {\n            \"Type\" : \"AWS::Cognito::UserPool\",\n            \"Properties\": {\n                \"Schema\" : [\n                    {\n                        \"AttributeDataType\": \"String\",\n                        \"Name\": \"email\",\n                        \"Mutable\": true,\n                        \"Required\": true\n                    },\n                    {\n                        \"AttributeDataType\": \"String\",\n                        \"Name\": \"family_name\",\n                        \"Mutable\": true,\n                        \"Required\": true\n                    },\n                    {\n                        \"AttributeDataType\": \"String\",\n                        \"Name\": \"given_name\",\n                        \"Mutable\": true,\n                        \"Required\": true\n                    },\n                    {\n                        \"AttributeDataType\": \"String\",\n                        \"Name\": \"houseId\",\n                        \"Mutable\": true\n                    },\n                    {\n                        \"AttributeDataType\": \"Boolean\",\n                        \"Name\": \"owner\",\n                        \"Mutable\": true\n                    }\n                ],\n                \"UsernameAttributes\": [\"email\"]\n            }\n        }\n    }\n  }\n```",
+        "user": "U15HRTAHL",
+        "ts": "1547130482.001000",
+        "thread_ts": "1547130482.001000",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1547609333.030100",
+        "reply_users": [
+            "U15J5H60P"
+        ],
+        "replies": [
+            {
+                "user": "U15J5H60P",
+                "ts": "1547609331.029900"
+            },
+            {
+                "user": "U15J5H60P",
+                "ts": "1547609333.030100"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4fa489c2-28f4-4be9-bb19-08e2a75cb1f9",
+        "type": "message",
+        "text": "that’s pretty bare bones",
+        "user": "U15HRTAHL",
+        "ts": "1547130498.001200"
+    },
+    {
+        "client_msg_id": "a7e9395a-73c5-402c-b805-b6a561bac93e",
+        "type": "message",
+        "text": "That looks like it spins a RDS db up",
+        "user": "U15J5H60P",
+        "ts": "1547130507.001600"
+    },
+    {
+        "client_msg_id": "cbd83533-9c25-4afc-97d3-07e81c25f0a7",
+        "type": "message",
+        "text": "yep",
+        "user": "U15HRTAHL",
+        "ts": "1547130511.001900"
+    },
+    {
+        "client_msg_id": "fdcd8cd0-44b8-454b-a5a6-e4ab3f3153b2",
+        "type": "message",
+        "text": "and declares a serverless function",
+        "user": "U15HRTAHL",
+        "ts": "1547130516.002100"
+    },
+    {
+        "client_msg_id": "432090a9-9569-42f0-82d1-fc7fdc426bfa",
+        "type": "message",
+        "text": "and sets up auth",
+        "user": "U15HRTAHL",
+        "ts": "1547130524.002400",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1547130526.000000"
+        }
+    },
+    {
+        "client_msg_id": "f0ba570b-95fd-4fb2-9d6d-33864c9a73cf",
+        "type": "message",
+        "text": "I have an RDS",
+        "user": "U15J5H60P",
+        "ts": "1547130526.002500"
+    },
+    {
+        "client_msg_id": "e3f2309b-f9fb-4779-8d3a-4fc48c4cdc29",
+        "type": "message",
+        "text": "So can I take that out?",
+        "user": "U15J5H60P",
+        "ts": "1547130531.002800"
+    },
+    {
+        "client_msg_id": "DEC599F3-6EEE-40EB-80F7-042607B0AFB4",
+        "type": "message",
+        "text": "What is rds",
+        "user": "U15HY5TG8",
+        "ts": "1547130534.003000"
+    },
+    {
+        "client_msg_id": "618bdc08-8566-473b-af16-b390701414f8",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1547130538.003200"
+    },
+    {
+        "client_msg_id": "d42fa2f2-69d6-44f3-ba60-9b6938bcabf2",
+        "type": "message",
+        "text": "you can modify this",
+        "user": "U15HRTAHL",
+        "ts": "1547130542.003400"
+    },
+    {
+        "client_msg_id": "bbdf910d-d600-4b05-829c-21226e7d0293",
+        "type": "message",
+        "text": "then the commands you need to know are these",
+        "user": "U15HRTAHL",
+        "ts": "1547130589.003800"
+    },
+    {
+        "client_msg_id": "d036391e-4820-4a43-aba7-bf1f4477d7fb",
+        "type": "message",
+        "text": "`sam package --s3-bucket your-s3-bucket --template-file template.json --output-template-file serverless.yml`",
+        "user": "U15HRTAHL",
+        "ts": "1547130620.004200"
+    },
+    {
+        "client_msg_id": "497dad08-ce6a-4bfb-8eff-6406df2455e8",
+        "type": "message",
+        "text": "that uploads your code and subsout variables with hardcoded Id’s",
+        "user": "U15HRTAHL",
+        "ts": "1547130660.005000"
+    },
+    {
+        "client_msg_id": "dc51944f-e4e9-411a-ad3a-68efac1d762f",
+        "type": "message",
+        "text": "`sam deploy --template-file serverless.yml --stack-name your-stack-name --capabilities CAPABILITY_IAM`",
+        "user": "U15HRTAHL",
+        "ts": "1547130677.005300"
+    },
+    {
+        "client_msg_id": "2fcc5c18-7046-4ca5-8757-ba0a64c2a0d1",
+        "type": "message",
+        "text": "that publishes any aws config changes",
+        "user": "U15HRTAHL",
+        "ts": "1547130684.005700"
+    },
+    {
+        "client_msg_id": "2b95f7ba-2322-40a2-8474-1a334eb56f35",
+        "type": "message",
+        "text": "Do I need an S3 bucket?",
+        "user": "U15J5H60P",
+        "ts": "1547130686.005800"
+    },
+    {
+        "client_msg_id": "61a22b7a-2268-4857-bd49-cece271d8cb5",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1547130695.006100"
+    },
+    {
+        "client_msg_id": "42b7b9ca-b292-4555-9586-f5e74d125e09",
+        "type": "message",
+        "text": "you can declare that in your template as well",
+        "user": "U15HRTAHL",
+        "ts": "1547130706.006500"
+    },
+    {
+        "client_msg_id": "50b6510f-15c0-4e2a-94ef-24cfd60bbafe",
+        "type": "message",
+        "text": "you need 2 cli tools",
+        "user": "U15HRTAHL",
+        "ts": "1547130714.006700"
+    },
+    {
+        "client_msg_id": "639d90d5-2be6-41f7-ac92-c941b7259e78",
+        "type": "message",
+        "text": "aws cli",
+        "user": "U15HRTAHL",
+        "ts": "1547130715.007000"
+    },
+    {
+        "client_msg_id": "e90b5768-b757-4be6-a642-8fb7be8a6872",
+        "type": "message",
+        "text": "Why do I need an S3 bucket?",
+        "user": "U15J5H60P",
+        "ts": "1547130718.007200"
+    },
+    {
+        "client_msg_id": "4f04e937-6ff8-4966-8fd9-ffa18e640acd",
+        "type": "message",
+        "text": "and sam-cli",
+        "user": "U15HRTAHL",
+        "ts": "1547130719.007300"
+    },
+    {
+        "client_msg_id": "77144dfb-ad6e-4bef-a992-23ff243ca370",
+        "type": "message",
+        "text": "that’s where aws gets your code from",
+        "user": "U15HRTAHL",
+        "ts": "1547130729.007700"
+    },
+    {
+        "client_msg_id": "c82a60c5-02db-419e-927b-4055f72528a6",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1547130734.007900"
+    },
+    {
+        "client_msg_id": "997b313c-78a7-4e5b-a9dd-9893aa486c47",
+        "type": "message",
+        "text": "<https:\/\/github.com\/awslabs\/aws-sam-cli\/blob\/develop\/docs\/deploying_serverless_applications.md>",
+        "user": "U15HRTAHL",
+        "ts": "1547130755.008100",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "awslabs\/aws-sam-cli",
+                "title_link": "https:\/\/github.com\/awslabs\/aws-sam-cli\/blob\/develop\/docs\/deploying_serverless_applications.md",
+                "text": "AWS SAM CLI :chipmunk: is a CLI tool for local development and testing of Serverless applications - awslabs\/aws-sam-cli",
+                "fallback": "GitHub: awslabs\/aws-sam-cli",
+                "from_url": "https:\/\/github.com\/awslabs\/aws-sam-cli\/blob\/develop\/docs\/deploying_serverless_applications.md",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3299148?s=400&v=4",
+                "thumb_width": 210,
+                "thumb_height": 210,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/awslabs\/aws-sam-cli\/blob\/develop\/docs\/deploying_serverless_applications.md"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "680ae898-fbbd-4cf6-bf17-f70e6f499505",
+        "type": "message",
+        "text": "<https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md#resource-types>",
+        "user": "U15HRTAHL",
+        "ts": "1547130813.008400",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "awslabs\/serverless-application-model",
+                "title_link": "https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md#resource-types",
+                "text": "AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS. - awslabs\/serverless-application-model",
+                "fallback": "GitHub: awslabs\/serverless-application-model",
+                "from_url": "https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md#resource-types",
+                "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3299148?s=400&v=4",
+                "thumb_width": 210,
+                "thumb_height": 210,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/awslabs\/serverless-application-model\/blob\/master\/versions\/2016-10-31.md#resource-types"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "adc4f2b7-cf60-4f44-9eed-f6c988da972b",
+        "type": "message",
+        "text": "One impportant thing to note is that AWS SAM is just a really simplified version of cloud formation",
+        "user": "U15HRTAHL",
+        "ts": "1547130898.009100"
+    },
+    {
+        "client_msg_id": "bd1c74e5-19fe-4b51-81d2-12599631a370",
+        "type": "message",
+        "text": "cloud formation is just an aws tool to keep track of your resources that work together to make a product",
+        "user": "U15HRTAHL",
+        "ts": "1547130919.009600"
+    },
+    {
+        "client_msg_id": "7d2d0fde-efcd-4d35-b615-ae5f5af32912",
+        "type": "message",
+        "text": "so in your sam template you can still declare cloud formation resources",
+        "user": "U15HRTAHL",
+        "ts": "1547130941.010000"
+    },
+    {
+        "client_msg_id": "a871ba89-15ea-407a-bf9b-c14ed5a8181d",
+        "type": "message",
+        "text": "<https:\/\/medium.com\/netflix-techblog>",
+        "user": "U15HRTAHL",
+        "ts": "1547132479.010300",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "Netflix TechBlog – Medium",
+                "title_link": "https:\/\/medium.com\/netflix-techblog",
+                "text": "Learn about Netflix’s world class engineering efforts, company culture, product developments and more.",
+                "fallback": "Medium: Netflix TechBlog – Medium",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*ty4NvNrGg4ReETxqU2N3Og.png",
+                "from_url": "https:\/\/medium.com\/netflix-techblog",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 15477,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*ty4NvNrGg4ReETxqU2N3Og.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/netflix-techblog"
+            }
+        ]
+    }
+]

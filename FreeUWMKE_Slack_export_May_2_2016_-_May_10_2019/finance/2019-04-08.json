@@ -1,0 +1,236 @@
+[
+    {
+        "client_msg_id": "1232e68e-d3c5-4108-8b88-8084bb71e445",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15J5H60P",
+        "ts": "1554738233.000200"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554738234.000300",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554738232,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "374.85",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-17.08 (-4.36%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "6,658,120",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "7,120,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (17 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "437.15 (+16.62%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32884,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b9853db-61df-472c-bf8b-57a7be010595",
+        "type": "message",
+        "text": "BUY MORE",
+        "user": "U15J5H60P",
+        "ts": "1554738241.000500"
+    },
+    {
+        "client_msg_id": "9f71c0a1-e202-4328-97da-0ca8a8962d4c",
+        "type": "message",
+        "text": "Right guise?",
+        "user": "U15J5H60P",
+        "ts": "1554738244.000700"
+    },
+    {
+        "client_msg_id": "7e41ddbe-bb48-4b45-9fbd-2b5fb4d2892a",
+        "type": "message",
+        "text": "you should have bought some blue apron when it was less than a dolla",
+        "user": "U15HRTAHL",
+        "ts": "1554738279.001000"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1554738302.001100",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "APRN - Blue Apron Holdings, Inc.",
+                "title": "APRN - Blue Apron Holdings, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=APRN&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=APRN|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=APRN|Finviz> | <http:\/\/stocktwits.com\/symbol\/APRN|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1554738281,
+                "color": "00be8c",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "1.15",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "+0.06 (+6.02%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "3,755,496",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "4,080,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.4\/5 (5 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "3.08 (+168.78%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "2125506305",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=APRN&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29340,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=APRN",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "37130a1c-61a8-4a10-a8fe-ab1e473347d1",
+        "type": "message",
+        "text": "Mmm",
+        "user": "U15J5H60P",
+        "ts": "1554738307.001400"
+    },
+    {
+        "client_msg_id": "758fc2c6-fec5-47fa-80ea-681a8be85923",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1554738308.001600"
+    }
+]

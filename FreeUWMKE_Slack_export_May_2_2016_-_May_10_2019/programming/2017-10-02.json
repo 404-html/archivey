@@ -1,0 +1,1020 @@
+[
+    {
+        "type": "message",
+        "text": "We use .Net MVC",
+        "user": "U15HSHSS2",
+        "ts": "1506953186.000097"
+    },
+    {
+        "type": "message",
+        "text": "How do you like it?",
+        "user": "U15HY5TG8",
+        "ts": "1506953598.000036"
+    },
+    {
+        "type": "message",
+        "text": "I like it, really simple. The view is controlled by the view model, and the view model calls the controller for back end.",
+        "user": "U15HSHSS2",
+        "ts": "1506953689.000465"
+    },
+    {
+        "type": "message",
+        "text": "Yea i saw that it works like that kinda. It doesnt use REST then right?",
+        "user": "U15HY5TG8",
+        "ts": "1506954080.000551"
+    },
+    {
+        "type": "message",
+        "text": "I'm guessing it does when the view model connects with the controller",
+        "user": "U15HRTAHL",
+        "ts": "1506954545.000263"
+    },
+    {
+        "type": "message",
+        "text": "hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1506954820.000543"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> do you use angularjs as well?",
+        "user": "U15HY5TG8",
+        "ts": "1506954963.000246"
+    },
+    {
+        "type": "message",
+        "text": "We use HTTP which might be the same thing as REST...? for the view model to talk to the controller. and the product I'm on we use KnockoutJS, but i think we have plans of moving all the prodcuts to angular soon",
+        "user": "U15HSHSS2",
+        "ts": "1506955379.000174"
+    },
+    {
+        "type": "message",
+        "text": "I think thats roughly the same yea. And gotcha gotcha. I'm having trouble connecting the angular to the rendered view",
+        "user": "U15HY5TG8",
+        "ts": "1506955425.000065"
+    },
+    {
+        "type": "message",
+        "text": "http is the transport protocol",
+        "user": "U15HRTAHL",
+        "ts": "1506955585.000806"
+    },
+    {
+        "type": "message",
+        "text": "whats in the body of the http determines if its rest",
+        "user": "U15HRTAHL",
+        "ts": "1506955593.000705"
+    },
+    {
+        "type": "message",
+        "text": "rest vs soap",
+        "user": "U15HRTAHL",
+        "ts": "1506955601.000474"
+    },
+    {
+        "type": "message",
+        "text": "its most likely rest",
+        "user": "U15HRTAHL",
+        "ts": "1506955606.000091"
+    },
+    {
+        "type": "message",
+        "text": "yea we only have like one place in our app that uses soap i guess",
+        "user": "U15HY5TG8",
+        "ts": "1506955632.000386"
+    },
+    {
+        "type": "message",
+        "text": "soap is old",
+        "user": "U15HRTAHL",
+        "ts": "1506955642.000211"
+    },
+    {
+        "type": "message",
+        "text": "and bad",
+        "user": "U15HRTAHL",
+        "ts": "1506955643.000820"
+    },
+    {
+        "type": "message",
+        "text": "really bad",
+        "user": "U15HRTAHL",
+        "ts": "1506955647.000213"
+    },
+    {
+        "type": "message",
+        "text": "I guess its powerful though?",
+        "user": "U15HY5TG8",
+        "ts": "1506955658.000094"
+    },
+    {
+        "type": "message",
+        "text": "rest is better",
+        "user": "U15HRTAHL",
+        "ts": "1506955716.000478"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1506955908.000256"
+    },
+    {
+        "type": "message",
+        "text": "I HATE SETTING PROJECTS UP FROM SCRATCH",
+        "user": "U15HY5TG8",
+        "ts": "1506956028.000442"
+    },
+    {
+        "type": "message",
+        "text": "rest is real interesting though",
+        "user": "U15HRTAHL",
+        "ts": "1506956167.000477"
+    },
+    {
+        "type": "message",
+        "text": "before i had this...",
+        "user": "U15HY5TG8",
+        "ts": "1506966122.000096"
+    },
+    {
+        "type": "message",
+        "text": "```&lt;div class=\"row\"&gt;\n        &lt;input type = \"text\" ng-model=\"headerModel\"&gt;&lt;\/div&gt;\n        &lt;h1&gt;{{headerModel}}&lt;\/h1&gt;\n        &lt;h1&gt;{{header}}&lt;\/h1&gt;\n    &lt;\/div&gt;\n    &lt;div class=\"row\"&gt;\n        &lt;input class=\"form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required\" type=\"number\" ng-model=\"input.text\"&gt;&lt;\/input&gt;\n        &lt;button class=\"btn btn-default\" ng-click=\"update(input.text, 'text1');update(input.text +1, 'text2');\"&gt;Compute Math&lt;\/button&gt;\n    &lt;\/div&gt;\n    &lt;div&gt;\n        \n            (Input*2): {{text1}}\n       \n        &lt;div class=\"row\" ng-show=\"text2\"&gt;\n            ((Input+1)*2): {{text2}}\n        &lt;\/div&gt;\n    &lt;\/div&gt;```",
+        "user": "U15HY5TG8",
+        "ts": "1506966127.000285"
+    },
+    {
+        "type": "message",
+        "text": "update() wouldnt work until i took out lines 2 and 3...why?",
+        "user": "U15HY5TG8",
+        "ts": "1506966160.000230"
+    },
+    {
+        "type": "message",
+        "text": "what was the error",
+        "user": "U15HRTAHL",
+        "ts": "1506966537.000158"
+    },
+    {
+        "type": "message",
+        "text": "no error. just wouldnt go into the update method on click",
+        "user": "U15HY5TG8",
+        "ts": "1506966640.000040"
+    },
+    {
+        "type": "message",
+        "text": "why do you have 2 methods on your onclick?",
+        "user": "U15HRTAHL",
+        "ts": "1506966668.000336"
+    },
+    {
+        "type": "message",
+        "text": "ng-click*",
+        "user": "U15HRTAHL",
+        "ts": "1506966676.000288"
+    },
+    {
+        "type": "message",
+        "text": "you should only have 1 method there",
+        "user": "U15HRTAHL",
+        "ts": "1506966690.000062"
+    },
+    {
+        "type": "message",
+        "text": "cause it updates 2 labels at the same time.",
+        "user": "U15HY5TG8",
+        "ts": "1506966764.000001"
+    },
+    {
+        "type": "message",
+        "text": "the problem isnt with how ng-click is used though, because it works flawlessly when lines 2 and 3 arent in there",
+        "user": "U15HY5TG8",
+        "ts": "1506966812.000428"
+    },
+    {
+        "type": "message",
+        "text": "yeah dont use 2 functions in your ng-click",
+        "user": "U15HRTAHL",
+        "ts": "1506971483.000682"
+    },
+    {
+        "type": "message",
+        "text": "you can have 1 function that does both",
+        "user": "U15HRTAHL",
+        "ts": "1506971488.000422"
+    },
+    {
+        "type": "message",
+        "text": "its just gross looking",
+        "user": "U15HRTAHL",
+        "ts": "1506971500.000001"
+    },
+    {
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1506971503.000609"
+    },
+    {
+        "type": "message",
+        "text": "and its easier to debug",
+        "user": "U15HRTAHL",
+        "ts": "1506971507.000385"
+    },
+    {
+        "type": "message",
+        "text": "fine here's the updated version lol",
+        "user": "U15HY5TG8",
+        "ts": "1506971585.000115"
+    },
+    {
+        "type": "message",
+        "text": "```&lt;div ng-controller=\"AboutController\" class=\"container-fluid\" &gt;\n\n    &lt;div class=\"row\"&gt;\n        &lt;input type = \"text\" ng-model=\"headerModel\"&gt;&lt;\/div&gt;\n        &lt;h1&gt;{{headerModel}}&lt;\/h1&gt;\n        &lt;h1&gt;{{header}}&lt;\/h1&gt;\n    &lt;\/div&gt;\n\n    &lt;div class=\"row\"&gt;\n        &lt;input class=\"form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required\" type=\"number\" ng-model=\"input.text\"&gt;&lt;\/input&gt;\n        &lt;button class=\"btn btn-default\" ng-click=\"update(input.text, 'text1')\"&gt;Compute Math&lt;\/button&gt;\n    &lt;\/div&gt;\n\n    &lt;div&gt;\n        &lt;div class=\"row\" ng-show=\"text1\"&gt;\n            &lt;label&gt;(Input*2): {{text1}}&lt;\/label&gt;    \n        &lt;\/div&gt;\n        &lt;div class=\"row\" ng-show=\"text2\"&gt;\n            &lt;label&gt;((Input+1)*2): {{text2}}&lt;\/label&gt;\n        &lt;\/div&gt;\n    &lt;\/div&gt;\n\n    &lt;div class=\"row\"&gt;\n        &lt;input class=\"form-control\" type=\"date\"&gt;\n    &lt;\/div&gt;\n&lt;\/div&gt;```",
+        "user": "U15HY5TG8",
+        "ts": "1506971589.000214"
+    },
+    {
+        "type": "message",
+        "text": "still doesnt work",
+        "user": "U15HY5TG8",
+        "ts": "1506971594.000371"
+    },
+    {
+        "type": "message",
+        "text": "```myApp.controller('AboutController', [\"$scope\", \"$http\", \"$location\", function($scope, $http, $location) {\n     \n        $scope.header = \"Angular App\";\n \n        $scope.text = 11;\n        $scope.update = function(parameter1, textVar){\n             console.log($scope.text);\n             $scope[textVar] = parameter1*2;\n        }; \n     \n }]);```",
+        "user": "U15HY5TG8",
+        "ts": "1506971618.000343"
+    },
+    {
+        "type": "message",
+        "text": "controller for reference",
+        "user": "U15HY5TG8",
+        "ts": "1506971623.000264"
+    },
+    {
+        "type": "message",
+        "text": "yeah you gotta format that code lol",
+        "user": "U15HRTAHL",
+        "ts": "1506971657.000418"
+    },
+    {
+        "type": "message",
+        "text": "what do you mean? how is it not formatted?",
+        "user": "U15HY5TG8",
+        "ts": "1506971676.000476"
+    },
+    {
+        "type": "message",
+        "text": "&lt;input type = \"text\" ng-model=\"headerModel\"&gt;&lt;\/div&gt;",
+        "user": "U15HRTAHL",
+        "ts": "1506971685.000208"
+    },
+    {
+        "type": "message",
+        "text": "ooo wtf",
+        "user": "U15HY5TG8",
+        "ts": "1506971693.000133"
+    },
+    {
+        "type": "message",
+        "text": "where the hell is that closing div coming from",
+        "user": "U15HRTAHL",
+        "ts": "1506971696.000518"
+    },
+    {
+        "type": "message",
+        "text": "vs code as a problem with intellisense sometimes",
+        "user": "U15HY5TG8",
+        "ts": "1506971741.000369"
+    },
+    {
+        "type": "message",
+        "text": "sooo",
+        "user": "U15HRTAHL",
+        "ts": "1506971793.000173"
+    },
+    {
+        "type": "message",
+        "text": "I think this is the issue but I'm not sure",
+        "user": "U15HRTAHL",
+        "ts": "1506971800.000103",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1506971805.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "I think {{}} is unbound",
+        "user": "U15HRTAHL",
+        "ts": "1506971818.000324"
+    },
+    {
+        "type": "message",
+        "text": "that i need glasses?",
+        "user": "U15HY5TG8",
+        "ts": "1506971818.000326"
+    },
+    {
+        "type": "message",
+        "text": "do this",
+        "user": "U15HRTAHL",
+        "ts": "1506971826.000110"
+    },
+    {
+        "type": "message",
+        "text": "no that fixed it lol it was just the input tag",
+        "user": "U15HY5TG8",
+        "ts": "1506971836.000432"
+    },
+    {
+        "type": "message",
+        "text": "fucking turkey",
+        "user": "U15HRTAHL",
+        "ts": "1506971846.000102"
+    },
+    {
+        "type": "message",
+        "text": "lol you didn't close it?",
+        "user": "U15HRTAHL",
+        "ts": "1506971857.000095"
+    },
+    {
+        "type": "message",
+        "text": "thats what i was saying lol is that vs code has problems with intellisense. So when i put the input tag in there and then went to close it with the end input tag, vs code just decided to put a div instead",
+        "user": "U15HY5TG8",
+        "ts": "1506971917.000339"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1506971926.000602"
+    },
+    {
+        "type": "message",
+        "text": "self terminate inputs fyi",
+        "user": "U15HRTAHL",
+        "ts": "1506971938.000136"
+    },
+    {
+        "type": "message",
+        "text": "why?",
+        "user": "U15HY5TG8",
+        "ts": "1506971948.000007"
+    },
+    {
+        "type": "message",
+        "text": "its just a standard",
+        "user": "U15HRTAHL",
+        "ts": "1506971965.000299"
+    },
+    {
+        "type": "message",
+        "text": "you don't really ever do this",
+        "user": "U15HRTAHL",
+        "ts": "1506971970.000004"
+    },
+    {
+        "type": "message",
+        "text": "&lt;input&gt;Text&lt;\/input&gt;",
+        "user": "U15HRTAHL",
+        "ts": "1506971979.000135"
+    },
+    {
+        "type": "message",
+        "text": "you do",
+        "user": "U15HRTAHL",
+        "ts": "1506971985.000194"
+    },
+    {
+        "type": "message",
+        "text": "&lt;input value=\"Text\"\/&gt;",
+        "user": "U15HRTAHL",
+        "ts": "1506971994.000398"
+    },
+    {
+        "type": "message",
+        "text": "unless you wanted to be a dickhead and autofill text right?",
+        "user": "U15HY5TG8",
+        "ts": "1506972017.000760"
+    },
+    {
+        "type": "message",
+        "text": "oooo that turns into a label",
+        "user": "U15HY5TG8",
+        "ts": "1506972073.000364"
+    },
+    {
+        "type": "message",
+        "text": "so you're good?",
+        "user": "U15HRTAHL",
+        "ts": "1506973944.000126"
+    },
+    {
+        "type": "message",
+        "text": "i sureee am haha thanks",
+        "user": "U15HY5TG8",
+        "ts": "1506974040.000654"
+    },
+    {
+        "type": "message",
+        "text": "also...bf1 tonight?",
+        "user": "U15HY5TG8",
+        "ts": "1506974050.000069"
+    },
+    {
+        "type": "message",
+        "text": "yessir",
+        "user": "U15HRTAHL",
+        "ts": "1506974134.000447"
+    },
+    {
+        "type": "message",
+        "text": "Im trying to unlock all the codex",
+        "user": "U15HRTAHL",
+        "ts": "1506974150.000128"
+    },
+    {
+        "type": "message",
+        "text": "sweeeeet. I'm gonna play for a while i think. I forgot my gym clothes so i think ill just run around in the game",
+        "user": "U15HY5TG8",
+        "ts": "1506974208.000619"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HRTAHL",
+        "ts": "1506974215.000410"
+    },
+    {
+        "type": "message",
+        "text": "that works right",
+        "user": "U15HRTAHL",
+        "ts": "1506974218.000223"
+    },
+    {
+        "type": "message",
+        "text": "i think so",
+        "user": "U15HY5TG8",
+        "ts": "1506974228.000022"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> how do you render tables? not the rows, but the tables themselves. I remember when i was at masterlock, they would declare all their tables in their js files along with the rules, widths, titles, etc. and i cant remember how it was done",
+        "user": "U15HY5TG8",
+        "ts": "1506975144.000020"
+    },
+    {
+        "type": "message",
+        "text": "uhh",
+        "user": "U15HRTAHL",
+        "ts": "1506975171.000116"
+    },
+    {
+        "type": "message",
+        "text": "not sure what you mean but here you go",
+        "user": "U15HRTAHL",
+        "ts": "1506975179.000277"
+    },
+    {
+        "type": "message",
+        "text": "```\n&lt;table class=\"table table-responsive\"&gt;\n   &lt;thead&gt;\n      &lt;th&gt;&lt;\/th&gt;\n      &lt;th&gt;Sent Date&lt;\/th&gt;\n      &lt;th&gt;Collection Name&lt;\/th&gt;\n      &lt;th&gt;Collection Number&lt;\/th&gt;\n   &lt;\/thead&gt;\n   &lt;tbody&gt;\n      &lt;tr ng-repeat=\"collection in collections\"&gt;\n         &lt;td&gt;&lt;input type=\"radio\" id=\"selectedCollection\" name=\"selectedCollection\" ng-value=\"collection.Id\" ng-model=\"collection.selected\" ng-change=\"logRadio(collection)\"\/&gt;&lt;\/td&gt;\n         &lt;td ng-bind=\"collection.sentDate__c\"&gt;&lt;\/td&gt;\n         &lt;td ng-bind=\"collection.collectionName__c\"&gt;&lt;\/td&gt;\n         &lt;td ng-bind=\"collection.collectionId__c\"&gt;&lt;\/td&gt;\n      &lt;\/tr&gt;\n   &lt;\/tbody&gt;\n&lt;\/table&gt;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1506975225.000371"
+    },
+    {
+        "type": "message",
+        "text": "Yeaaaa nah. hold on, ill create a quick example",
+        "user": "U15HY5TG8",
+        "ts": "1506975246.000031"
+    },
+    {
+        "type": "message",
+        "text": "this is what their table looked like in their javascript file and then they would just have the ng-repeat in the html",
+        "user": "U15HY5TG8",
+        "ts": "1506975417.000396"
+    },
+    {
+        "type": "message",
+        "text": "```table= {\n    row.column: {text=\"Date\", width=10%, disabled=function(){return true;}},\n    row.column: {text=\"Name\", width=50%, disabled=function(){return true;}},\n    row.column: {text=\"Numer\", width=40%, disabled=function(){return true;}},\n}```",
+        "user": "U15HY5TG8",
+        "ts": "1506975423.000355"
+    },
+    {
+        "type": "message",
+        "text": "I mean yeah you can do that",
+        "user": "U15HRTAHL",
+        "ts": "1506975496.000331"
+    },
+    {
+        "type": "message",
+        "text": "do you know what its called so that i can look it up?",
+        "user": "U15HY5TG8",
+        "ts": "1506975521.000005"
+    },
+    {
+        "type": "message",
+        "text": "its just a design pattern",
+        "user": "U15HRTAHL",
+        "ts": "1506975533.000168"
+    },
+    {
+        "type": "message",
+        "text": "it doesn't have a name",
+        "user": "U15HRTAHL",
+        "ts": "1506975537.000008"
+    },
+    {
+        "type": "message",
+        "text": "it just the way they structured their code",
+        "user": "U15HRTAHL",
+        "ts": "1506975544.000528"
+    },
+    {
+        "type": "message",
+        "text": "ahh ok, wasnt sure if there was a name for the structure",
+        "user": "U15HY5TG8",
+        "ts": "1506975581.000199"
+    },
+    {
+        "type": "message",
+        "text": "static table?",
+        "user": "U15HRTAHL",
+        "ts": "1506975588.000238"
+    },
+    {
+        "type": "message",
+        "text": "because you can only do that when you know what data you're putting in the table",
+        "user": "U15HRTAHL",
+        "ts": "1506975600.000308"
+    },
+    {
+        "type": "message",
+        "text": "no no no, this is still dynamic",
+        "user": "U15HY5TG8",
+        "ts": "1506975610.000568"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1506975615.000373"
+    },
+    {
+        "type": "message",
+        "text": "yes it is haha",
+        "user": "U15HY5TG8",
+        "ts": "1506975620.000553"
+    },
+    {
+        "type": "message",
+        "text": "you're declaring the table values",
+        "user": "U15HRTAHL",
+        "ts": "1506975622.000084"
+    },
+    {
+        "type": "message",
+        "text": "nope, just the columns and the column rules",
+        "user": "U15HY5TG8",
+        "ts": "1506975636.000674"
+    },
+    {
+        "type": "message",
+        "text": "ahhhh",
+        "user": "U15HRTAHL",
+        "ts": "1506975646.000438"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1506975648.000217"
+    },
+    {
+        "type": "message",
+        "text": "make sense",
+        "user": "U15HRTAHL",
+        "ts": "1506975654.000427"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. I'm guessing you havent seen it done this way then",
+        "user": "U15HY5TG8",
+        "ts": "1506975675.000258"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1506976595.000159"
+    },
+    {
+        "type": "message",
+        "text": "it makes sense though",
+        "user": "U15HRTAHL",
+        "ts": "1506976598.000056"
+    },
+    {
+        "type": "message",
+        "text": "In a way",
+        "user": "U15HRTAHL",
+        "ts": "1506976605.000531"
+    },
+    {
+        "type": "message",
+        "text": "idk",
+        "user": "U15HRTAHL",
+        "ts": "1506976606.000402"
+    },
+    {
+        "type": "message",
+        "text": "it all depends",
+        "user": "U15HRTAHL",
+        "ts": "1506976611.000587"
+    },
+    {
+        "type": "message",
+        "text": "your view should be separate from your controller",
+        "user": "U15HRTAHL",
+        "ts": "1506976630.000317"
+    },
+    {
+        "type": "message",
+        "text": "I think it was just a way to make the rules for the column easier",
+        "user": "U15HY5TG8",
+        "ts": "1506977004.000366"
+    },
+    {
+        "type": "message",
+        "text": "they still had like the ng-repeat stuff going on",
+        "user": "U15HY5TG8",
+        "ts": "1506977014.000138"
+    },
+    {
+        "type": "message",
+        "text": "yeah you need to have that",
+        "user": "U15HRTAHL",
+        "ts": "1506977135.000157"
+    },
+    {
+        "type": "message",
+        "text": "thats the only way to iterate in angular",
+        "user": "U15HRTAHL",
+        "ts": "1506977145.000304"
+    },
+    {
+        "type": "message",
+        "text": "right right but itd be cool to figure out this way of rendering the table",
+        "user": "U15HY5TG8",
+        "ts": "1506977165.000448"
+    },
+    {
+        "type": "message",
+        "text": "theres nothing to really figure out lol",
+        "user": "U15HRTAHL",
+        "ts": "1506977248.000254"
+    },
+    {
+        "type": "message",
+        "text": "you have a js object holding your column values",
+        "user": "U15HRTAHL",
+        "ts": "1506977260.000665"
+    },
+    {
+        "type": "message",
+        "text": "o...annnnd Hoan",
+        "user": "U15HY5TG8",
+        "ts": "1506977385.000277"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1506977743.000623"
+    },
+    {
+        "type": "message",
+        "text": "here it is",
+        "user": "U15HY5TG8",
+        "ts": "1506977759.000332"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/datatables.net\/examples\/data_sources\/js_array.html>",
+        "user": "U15HY5TG8",
+        "ts": "1506977761.000141"
+    },
+    {
+        "type": "message",
+        "text": "except thats with jQuery",
+        "user": "U15HY5TG8",
+        "ts": "1506977768.000379"
+    },
+    {
+        "type": "message",
+        "text": "heeeeere we go",
+        "user": "U15HY5TG8",
+        "ts": "1506978432.000174"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/docs.telerik.com\/kendo-ui\/AngularJS\/data-source>",
+        "user": "U15HY5TG8",
+        "ts": "1506978433.000328",
+        "attachments": [
+            {
+                "title": "Directives with DataSource | AngularJS Directives",
+                "title_link": "http:\/\/docs.telerik.com\/kendo-ui\/AngularJS\/data-source",
+                "text": "Learn more about the interaction between Kendo UI DataSource and AngularJS scope to take full advantage of AngularJS integration into Kendo UI controls.",
+                "fallback": "Directives with DataSource | AngularJS Directives",
+                "from_url": "http:\/\/docs.telerik.com\/kendo-ui\/AngularJS\/data-source",
+                "service_icon": "http:\/\/docs.telerik.com\/kendo-ui\/favicon.ico",
+                "service_name": "docs.telerik.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "in which case, i think youre still right lol",
+        "user": "U15HY5TG8",
+        "ts": "1506978480.000262"
+    },
+    {
+        "type": "message",
+        "text": "You don't need an external library for that",
+        "user": "U15HRTAHL",
+        "ts": "1506978624.000507"
+    },
+    {
+        "type": "message",
+        "text": "No ik that, I was just talking about the structure",
+        "user": "U15HY5TG8",
+        "ts": "1506978647.000105"
+    },
+    {
+        "type": "message",
+        "text": "ahh",
+        "user": "U15HRTAHL",
+        "ts": "1506978659.000212"
+    },
+    {
+        "type": "message",
+        "text": "without looking it up do you know the difference between `{}` and `[]`",
+        "user": "U15HRTAHL",
+        "ts": "1506978688.000250"
+    },
+    {
+        "type": "message",
+        "text": "in js",
+        "user": "U15HRTAHL",
+        "ts": "1506978706.000219"
+    },
+    {
+        "type": "message",
+        "text": "array vs json object",
+        "user": "U15HY5TG8",
+        "ts": "1506978793.000134"
+    },
+    {
+        "type": "message",
+        "text": "...nonrespective",
+        "user": "U15HY5TG8",
+        "ts": "1506978806.000132"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1506978812.000004"
+    },
+    {
+        "type": "message",
+        "text": "javascript is a real weird language",
+        "user": "U15HRTAHL",
+        "ts": "1506978831.000222"
+    },
+    {
+        "type": "message",
+        "text": "Yeah just a tiny bit",
+        "user": "U15HY5TG8",
+        "ts": "1506978841.000347"
+    },
+    {
+        "type": "message",
+        "text": "\"Javascript isnt real\" - Tian",
+        "user": "U15HY5TG8",
+        "ts": "1506978850.000310"
+    },
+    {
+        "type": "message",
+        "text": "```\nvar x = { \n  'herro' : ['hello', 'hola'],\n  'wat' : ['fat girl meme']\n};\n```",
+        "user": "U15HRTAHL",
+        "ts": "1506978896.000050"
+    },
+    {
+        "type": "message",
+        "text": "what kind of object is x if it was treated like a c# object",
+        "user": "U15HRTAHL",
+        "ts": "1506978923.000419"
+    },
+    {
+        "type": "message",
+        "text": "x['herro']",
+        "user": "U15HRTAHL",
+        "ts": "1506978938.000609"
+    },
+    {
+        "type": "message",
+        "text": "two dimensional array?",
+        "user": "U15HY5TG8",
+        "ts": "1506978962.000437"
+    },
+    {
+        "type": "message",
+        "text": "no thats not it",
+        "user": "U15HY5TG8",
+        "ts": "1506978985.000239"
+    },
+    {
+        "type": "message",
+        "text": "kind of",
+        "user": "U15HRTAHL",
+        "ts": "1506978989.000351"
+    },
+    {
+        "type": "message",
+        "text": "it has a special name",
+        "user": "U15HRTAHL",
+        "ts": "1506978993.000294"
+    },
+    {
+        "type": "message",
+        "text": "Dictionary",
+        "user": "U15HRTAHL",
+        "ts": "1506978999.000087"
+    },
+    {
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1506979002.000569"
+    },
+    {
+        "type": "message",
+        "text": "at least thats what it is in c#",
+        "user": "U15HRTAHL",
+        "ts": "1506979007.000393"
+    },
+    {
+        "type": "message",
+        "text": "in java its a map",
+        "user": "U15HRTAHL",
+        "ts": "1506979011.000063"
+    },
+    {
+        "type": "message",
+        "text": "very useful to know that",
+        "user": "U15HRTAHL",
+        "ts": "1506979016.000391"
+    },
+    {
+        "type": "message",
+        "text": "makes sense",
+        "user": "U15HY5TG8",
+        "ts": "1506979024.000125"
+    },
+    {
+        "type": "message",
+        "text": "cause herro technically isnt indexed",
+        "user": "U15HY5TG8",
+        "ts": "1506979036.000286"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1506979043.000064"
+    },
+    {
+        "type": "message",
+        "text": "this is where it gets weird tho",
+        "user": "U15HRTAHL",
+        "ts": "1506979054.000199"
+    },
+    {
+        "type": "message",
+        "text": "you CAN index it",
+        "user": "U15HRTAHL",
+        "ts": "1506979059.000050"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1506979065.000340"
+    },
+    {
+        "type": "message",
+        "text": "JAVASCRIPT ISNT REAL",
+        "user": "U15HY5TG8",
+        "ts": "1506979071.000351"
+    },
+    {
+        "type": "message",
+        "text": "Object.keys(x)",
+        "user": "U15HRTAHL",
+        "ts": "1506979089.000371"
+    },
+    {
+        "type": "message",
+        "text": "lol perfect",
+        "user": "U15HY5TG8",
+        "ts": "1506979108.000212"
+    },
+    {
+        "type": "message",
+        "text": "its so fucky",
+        "user": "U15HRTAHL",
+        "ts": "1506979121.000133"
+    },
+    {
+        "type": "message",
+        "text": "im not gonna lie, it took me a long as time to \"learn js\"",
+        "user": "U15HRTAHL",
+        "ts": "1506979134.000100"
+    },
+    {
+        "type": "message",
+        "text": "I believe it haha",
+        "user": "U15HY5TG8",
+        "ts": "1506979169.000534"
+    },
+    {
+        "type": "message",
+        "text": "you never really learn its power im sure",
+        "user": "U15HY5TG8",
+        "ts": "1506979188.000306"
+    },
+    {
+        "type": "message",
+        "text": "nah",
+        "user": "U15HRTAHL",
+        "ts": "1506979193.000217"
+    },
+    {
+        "type": "message",
+        "text": "theres shit that I don't even know but that guy at the brewers game is a wiz at",
+        "user": "U15HRTAHL",
+        "ts": "1506979208.000233"
+    },
+    {
+        "type": "message",
+        "text": "gotta learnnn",
+        "user": "U15HY5TG8",
+        "ts": "1506979265.000285"
+    },
+    {
+        "type": "message",
+        "text": "thats the weird thing about programming",
+        "user": "U15HRTAHL",
+        "ts": "1506979323.000078"
+    },
+    {
+        "type": "message",
+        "text": "you really don't know what to learn",
+        "user": "U15HRTAHL",
+        "ts": "1506979331.000421"
+    },
+    {
+        "type": "message",
+        "text": "you kind of just come across it when you need it",
+        "user": "U15HRTAHL",
+        "ts": "1506979337.000542"
+    },
+    {
+        "type": "message",
+        "text": "Yeaaaa and thats why i hate starting projects. Idk what to learn",
+        "user": "U15HY5TG8",
+        "ts": "1506980045.000296"
+    },
+    {
+        "type": "message",
+        "text": "I wrote 66 lines of code today",
+        "user": "U15HRTAHL",
+        "ts": "1506980350.000213"
+    },
+    {
+        "type": "message",
+        "text": "thats 8 lines an hour",
+        "user": "U15HRTAHL",
+        "ts": "1506980371.000098"
+    },
+    {
+        "type": "message",
+        "text": "Lolol i hope the rest was for research",
+        "user": "U15HY5TG8",
+        "ts": "1506980842.000533"
+    }
+]

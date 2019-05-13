@@ -1,0 +1,339 @@
+[
+    {
+        "client_msg_id": "05c469f5-2cf6-4bc5-999e-b56404fb2cc3",
+        "type": "message",
+        "text": "anybody going to <https:\/\/www.creamcitycode.com>",
+        "user": "U15HSHSS2",
+        "ts": "1536848659.000100",
+        "attachments": [
+            {
+                "service_name": "Cream City Code",
+                "title": "Welcome to Cream City Code! - Cream City Code",
+                "title_link": "https:\/\/www.creamcitycode.com\/",
+                "text": "Cream City Code is a one-day development conference in the Milwaukee area designed to bring together developers from the Midwest to explore new ideas, code, share knowledge and discover best practices.",
+                "fallback": "Cream City Code: Welcome to Cream City Code! - Cream City Code",
+                "image_url": "https:\/\/www.creamcitycode.com\/static\/CCC_EventBrite_Header-compressed.9c766ee0.jpg",
+                "from_url": "https:\/\/www.creamcitycode.com\/",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 267944,
+                "service_icon": "https:\/\/www.creamcitycode.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.creamcitycode.com"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b63f301-b4ac-4df0-b6dd-65aa65eb707c",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1536849560.000100"
+    },
+    {
+        "client_msg_id": "76c837ce-88a5-41d3-8434-e755ff0b14fc",
+        "type": "message",
+        "text": "Looks fun though!",
+        "user": "U15J5H60P",
+        "ts": "1536849576.000100"
+    },
+    {
+        "client_msg_id": "4BF66208-2126-462C-BD38-BB57588962B4",
+        "type": "message",
+        "text": "Didnt have plans to",
+        "user": "U15HY5TG8",
+        "ts": "1536861668.000100"
+    },
+    {
+        "client_msg_id": "17213DFF-20D9-4F2D-9EED-EC7C7BF98F71",
+        "type": "message",
+        "text": "No fucking way",
+        "user": "U15HY5TG8",
+        "ts": "1536879652.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCSP46C4R",
+                "created": 1536879656,
+                "timestamp": 1536879656,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 2955260,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCSP46C4R\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCSP46C4R\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCSP46C4R-f7556e393f\/image_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FCSP46C4R\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FCSP46C4R-ea672c152d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "85774AE5-C0B4-4454-B2C7-C7528394DB08",
+        "ts": "1536879661.000100"
+    },
+    {
+        "client_msg_id": "856D195D-9491-4CD0-AFC5-9D50C4ECDE2D",
+        "type": "message",
+        "text": "Imma swipe right",
+        "user": "U15HY5TG8",
+        "ts": "1536879663.000100"
+    },
+    {
+        "client_msg_id": "855E3C14-9EA7-4046-86A4-97D47C39FB34",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1536879673.000100"
+    },
+    {
+        "client_msg_id": "2B7CE597-BED3-45FF-85F3-FAFD86BD4C71",
+        "type": "message",
+        "text": "Oh my god",
+        "user": "U15HZ01QX",
+        "ts": "1536879684.000100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FCT4V4E12",
+                "created": 1536879693,
+                "timestamp": 1536879693,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 2907249,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCT4V4E12\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FCT4V4E12\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 450,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FCT4V4E12-7c90c555e3\/image_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FCT4V4E12\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FCT4V4E12-9414b79240",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "upload_reply_to": "D5BD37D0-F712-4523-A566-7EFB36087A26",
+        "ts": "1536879698.000100"
+    },
+    {
+        "client_msg_id": "D4088AFF-F78A-4056-A6B5-EDCE3AA394B9",
+        "type": "message",
+        "text": "Its a done deed",
+        "user": "U15HY5TG8",
+        "ts": "1536879699.000200"
+    },
+    {
+        "client_msg_id": "C372E690-28F0-4263-A4C0-B149841150D8",
+        "type": "message",
+        "text": "Well done",
+        "user": "U15J5H60P",
+        "ts": "1536879744.000100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1536879752.000000"
+        }
+    },
+    {
+        "client_msg_id": "4B354861-79A3-4EE3-8007-581497A96D56",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1536879754.000100"
+    },
+    {
+        "client_msg_id": "D0ED341F-273A-443C-B97D-5B260CF2C32D",
+        "type": "message",
+        "text": "I saw that",
+        "user": "U15HY5TG8",
+        "ts": "1536879760.000100"
+    },
+    {
+        "client_msg_id": "53D6C450-CC70-46DC-92CD-CCEAB1024052",
+        "type": "message",
+        "text": ":eyes:",
+        "user": "U15J5H60P",
+        "ts": "1536879767.000100"
+    },
+    {
+        "client_msg_id": "0184C024-8C7F-49A9-8EE8-3B7CCC8980E9",
+        "type": "message",
+        "text": "Ill take it as a compliment",
+        "user": "U15HY5TG8",
+        "ts": "1536879770.000100"
+    },
+    {
+        "client_msg_id": "F3187CBC-C19B-47EB-84F7-D72E102789C5",
+        "type": "message",
+        "text": "Good!",
+        "user": "U15J5H60P",
+        "ts": "1536879776.000100"
+    },
+    {
+        "client_msg_id": "1F63E02B-1BA7-46C0-A2BC-ACA758A95828",
+        "type": "message",
+        "text": "Fuck her in the butt",
+        "user": "U15J5H60P",
+        "ts": "1536879788.000200"
+    },
+    {
+        "client_msg_id": "675a9005-68d0-4b7d-9e01-60811ba453bc",
+        "type": "message",
+        "text": "I swear she changed her last name on linked in ",
+        "user": "U15HRTAHL",
+        "ts": "1536880033.000100"
+    },
+    {
+        "client_msg_id": "62EA1DA8-6701-428C-9E46-44CD141C82A0",
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯ ",
+        "user": "U15HY5TG8",
+        "ts": "1536880260.000100"
+    },
+    {
+        "client_msg_id": "214E6E93-D1F3-4939-90C9-91691CD03E03",
+        "type": "message",
+        "text": "Looks the same to me",
+        "user": "U15HY5TG8",
+        "ts": "1536880296.000200"
+    },
+    {
+        "client_msg_id": "78d7555f-2842-4315-9211-d88c4a0d3d60",
+        "type": "message",
+        "text": "There’s gonna be a Westworld Season 3",
+        "user": "U15J5H60P",
+        "ts": "1536881436.000100"
+    },
+    {
+        "client_msg_id": "1844e479-7755-46c7-880f-fa5cdb2b7d9a",
+        "type": "message",
+        "text": "…",
+        "user": "U15J5H60P",
+        "ts": "1536881437.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HSHSS2",
+        "ts": "1536881546.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/season-9-the-simpsons-9x10-l2JeblaV58QjPpfMs",
+                "image_url": "https:\/\/media0.giphy.com\/media\/l2JeblaV58QjPpfMs\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 190,
+                "image_bytes": 1095528,
+                "is_animated": true,
+                "title": "down the drain",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/season-9-the-simpsons-9x10-l2JeblaV58QjPpfMs"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a3547fd9-a04c-4ceb-a242-def961a54b82",
+        "type": "message",
+        "text": "Show started off so good too",
+        "user": "U15HSHSS2",
+        "ts": "1536881555.000100"
+    },
+    {
+        "client_msg_id": "b9402a29-47fe-40e9-b9a7-7f30cbd7bcbb",
+        "type": "message",
+        "text": "<@U15HSHSS2> did you download Ozark?",
+        "user": "U15HY5TG8",
+        "ts": "1536890037.000100"
+    },
+    {
+        "client_msg_id": "52BC8018-AC48-4622-A538-E7CA89BFF4B6",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HSHSS2",
+        "ts": "1536890307.000100"
+    },
+    {
+        "client_msg_id": "9a5d12f0-7f3f-4c37-a644-96c6d32ae1d0",
+        "type": "message",
+        "text": "noiceeee",
+        "user": "U15HY5TG8",
+        "ts": "1536890332.000100"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "type": "message",
+        "text": "Yes. Yes it does.",
+        "user": "U15J5H60P",
+        "ts": "1520280931.000519",
+        "attachments": [
+            {
+                "fallback": "[February 22nd, 2018 8:49 AM] james: I wonder if MU hits 50 before AAPL hits 200",
+                "ts": "1519310999.000122",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C6R3H2A7L",
+                "channel_name": "finance",
+                "is_msg_unfurl": true,
+                "text": "I wonder if MU hits 50 before AAPL hits 200",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C6R3H2A7L\/p1519310999000122",
+                "is_share": true,
+                "footer": "Posted in #finance"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus MU",
+        "user": "U15J5H60P",
+        "ts": "1520280941.000535"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n         MU              52.175                   3                6.109 \n       Avg.                 ---                 ---               6.109% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MU&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>\n",
+        "ts": "1520280941.000556",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 30499,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MU&ty=c&ta=1&p=d&s=l",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Nice",
+        "user": "U15HZ01QX",
+        "ts": "1520282791.000410"
+    }
+]

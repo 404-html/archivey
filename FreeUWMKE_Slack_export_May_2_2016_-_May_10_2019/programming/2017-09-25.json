@@ -1,0 +1,565 @@
+[
+    {
+        "type": "message",
+        "text": "Yesssss i got ng-view to work",
+        "user": "U15HY5TG8",
+        "ts": "1506344971.000647"
+    },
+    {
+        "type": "message",
+        "text": "i am however, now having trouble making the route see the controller",
+        "user": "U15HY5TG8",
+        "ts": "1506345671.000334"
+    },
+    {
+        "type": "message",
+        "text": "the route is pretty much the url without the base",
+        "user": "U15HRTAHL",
+        "ts": "1506346232.000363"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.mysite.com\/home|www.mysite.com\/home>",
+        "user": "U15HRTAHL",
+        "ts": "1506346239.000439"
+    },
+    {
+        "type": "message",
+        "text": "your route will be either \/home or home",
+        "user": "U15HRTAHL",
+        "ts": "1506346254.000197"
+    },
+    {
+        "type": "message",
+        "text": "no no i got that. I cant get the controller to kick in",
+        "user": "U15HY5TG8",
+        "ts": "1506346277.000196"
+    },
+    {
+        "type": "message",
+        "text": "``` app.config(function($routeProvider, $locationProvider){\n        $locationProvider.hashPrefix('');\n        $routeProvider\n        .when(\"\/\", {\n            templateUrl: \"App\/components\/Home\/main.html\",\n            controller: \"MainController\"\n        })\n        .when(\"\/About\", {\n            templateUrl: \"App\/components\/Users\/UserDetails.html\",\n            controller: \"UserController\"\n        })\n        .otherwise({redirectTo:\"aslkdjadfgsdfgfa\"});\n    });```",
+        "user": "U15HY5TG8",
+        "ts": "1506346294.000391"
+    },
+    {
+        "type": "message",
+        "text": "MainController",
+        "user": "U15HY5TG8",
+        "ts": "1506346299.000379"
+    },
+    {
+        "type": "message",
+        "text": "or UserController",
+        "user": "U15HY5TG8",
+        "ts": "1506346304.000037"
+    },
+    {
+        "type": "message",
+        "text": "oh",
+        "user": "U15HRTAHL",
+        "ts": "1506346491.000250"
+    },
+    {
+        "type": "message",
+        "text": "you need this",
+        "user": "U15HRTAHL",
+        "ts": "1506346494.000587"
+    },
+    {
+        "type": "message",
+        "text": "$locationProvider.html5Mode(true)",
+        "user": "U15HRTAHL",
+        "ts": "1506346530.000369"
+    },
+    {
+        "type": "message",
+        "text": "annnnnd i guess that they dont use routing here lol",
+        "user": "U15HY5TG8",
+        "ts": "1506346540.000629"
+    },
+    {
+        "type": "message",
+        "text": "take out that hash prefix",
+        "user": "U15HRTAHL",
+        "ts": "1506346546.000082"
+    },
+    {
+        "type": "message",
+        "text": "ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1506346556.000330"
+    },
+    {
+        "type": "message",
+        "text": "then itll be able to find any controller?",
+        "user": "U15HY5TG8",
+        "ts": "1506346569.000192"
+    },
+    {
+        "type": "message",
+        "text": "Joe you broke everything with me changing $locationProvider to that lol",
+        "user": "U15HY5TG8",
+        "ts": "1506346707.000149"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1506346839.000728"
+    },
+    {
+        "type": "message",
+        "text": "yeah idk",
+        "user": "U15HRTAHL",
+        "ts": "1506346983.000337"
+    },
+    {
+        "type": "message",
+        "text": "where are you declaring app?",
+        "user": "U15HRTAHL",
+        "ts": "1506347003.000531"
+    },
+    {
+        "type": "message",
+        "text": "also look at my snapchat",
+        "user": "U15HRTAHL",
+        "ts": "1506347011.000420"
+    },
+    {
+        "type": "message",
+        "text": "the real question is where should i declare app?",
+        "user": "U15HY5TG8",
+        "ts": "1506347068.000611"
+    },
+    {
+        "type": "message",
+        "text": "and lolol",
+        "user": "U15HY5TG8",
+        "ts": "1506347091.000290"
+    },
+    {
+        "type": "message",
+        "text": "in your routes and controller files",
+        "user": "U15HRTAHL",
+        "ts": "1506347153.000052"
+    },
+    {
+        "type": "message",
+        "text": "I mean thats where it is, I just dont know if its too far down the chain",
+        "user": "U15HY5TG8",
+        "ts": "1506347191.000250"
+    },
+    {
+        "type": "message",
+        "text": "its not declared in that snippet you sent me",
+        "user": "U15HRTAHL",
+        "ts": "1506347214.000510"
+    },
+    {
+        "type": "message",
+        "text": "its right above that",
+        "user": "U15HY5TG8",
+        "ts": "1506347230.000394"
+    },
+    {
+        "type": "message",
+        "text": "alright",
+        "user": "U15HRTAHL",
+        "ts": "1506347237.000187"
+    },
+    {
+        "type": "message",
+        "text": "```(function() {\n    'use strict';\n    var app = angular.module(\"myApp\", [\"ngRoute\"]);\n\n    app.config(function($routeProvider, $locationProvider){\n        $locationProvider.html5Mode(true);\n        $routeProvider\n        .when(\"\/\", {\n            templateUrl: \"App\/components\/Home\/main.html\",\n            controller: \"MainController\"\n        })\n        .when(\"\/About\", {\n            templateUrl: \"App\/components\/Users\/UserDetails.html\",\n            controller: \"UserController\"\n        })\n        .otherwise({redirectTo:\"aslkdjadfgsdfgfa\"});\n    });\n})();\n```",
+        "user": "U15HY5TG8",
+        "ts": "1506347239.000230"
+    },
+    {
+        "type": "message",
+        "text": "you don't need use strict",
+        "user": "U15HRTAHL",
+        "ts": "1506347248.000196"
+    },
+    {
+        "type": "message",
+        "text": "or any of that in a function",
+        "user": "U15HRTAHL",
+        "ts": "1506347263.000046"
+    },
+    {
+        "type": "message",
+        "text": "mannn im just following shitty tutorial points lol",
+        "user": "U15HY5TG8",
+        "ts": "1506347402.000786"
+    },
+    {
+        "type": "message",
+        "text": "Dude",
+        "user": "U15J5H60P",
+        "ts": "1506349123.000085"
+    },
+    {
+        "type": "message",
+        "text": "Tutorials are out of date the second they're posted",
+        "user": "U15J5H60P",
+        "ts": "1506349130.000040"
+    },
+    {
+        "type": "message",
+        "text": "It's obnoxious",
+        "user": "U15J5H60P",
+        "ts": "1506349132.000011"
+    },
+    {
+        "type": "message",
+        "text": "Follow a tutorial",
+        "user": "U15J5H60P",
+        "ts": "1506349138.000755"
+    },
+    {
+        "type": "message",
+        "text": "Compile",
+        "user": "U15J5H60P",
+        "ts": "1506349140.000228"
+    },
+    {
+        "type": "message",
+        "text": "Get a metric shitton of syntax errors",
+        "user": "U15J5H60P",
+        "ts": "1506349150.000044"
+    },
+    {
+        "type": "message",
+        "text": "And deprecated messages",
+        "user": "U15J5H60P",
+        "ts": "1506349162.000700"
+    },
+    {
+        "type": "message",
+        "text": "Dude I know lol its probably the main reason why i dont want to start personal projects",
+        "user": "U15HY5TG8",
+        "ts": "1506349170.000756"
+    },
+    {
+        "type": "message",
+        "text": "Well most of the tech you want to use probably uses a node environment",
+        "user": "U15J5H60P",
+        "ts": "1506349208.000391"
+    },
+    {
+        "type": "message",
+        "text": "Which in itself is a bitch to set up",
+        "user": "U15J5H60P",
+        "ts": "1506349213.000363"
+    },
+    {
+        "type": "message",
+        "text": "Me - \"I'm going to create an awesome one page iphone app today!\" *follows tutorial to step 5* *explosions in the console*",
+        "user": "U15HY5TG8",
+        "ts": "1506349228.000604"
+    },
+    {
+        "type": "message",
+        "text": "Me - \"Maybe next year\"",
+        "user": "U15HY5TG8",
+        "ts": "1506349236.000577"
+    },
+    {
+        "type": "message",
+        "text": "Computer starts on fire",
+        "user": "U15J5H60P",
+        "ts": "1506349239.000153"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1506349264.000551",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/dance-head-banging-4XL1BrT7OvaOQ",
+                "image_url": "https:\/\/media1.giphy.com\/media\/4XL1BrT7OvaOQ\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 186,
+                "image_bytes": 1022129,
+                "is_animated": true,
+                "title": "bang head on computer",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/dance-head-banging-4XL1BrT7OvaOQ"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "you guys say it like its a bad thing",
+        "user": "U15HRTAHL",
+        "ts": "1506349267.000300"
+    },
+    {
+        "type": "message",
+        "text": "thats job security",
+        "user": "U15HRTAHL",
+        "ts": "1506349271.000221"
+    },
+    {
+        "type": "message",
+        "text": "its the reason we're paid so well",
+        "user": "U15HRTAHL",
+        "ts": "1506349279.000487"
+    },
+    {
+        "type": "message",
+        "text": "yea and node modules i feel like dont come packaged very well",
+        "user": "U15HY5TG8",
+        "ts": "1506349281.000641"
+    },
+    {
+        "type": "message",
+        "text": "yea but then they should hire more people to update their damn tutorials",
+        "user": "U15HY5TG8",
+        "ts": "1506349299.000534"
+    },
+    {
+        "type": "message",
+        "text": "I hate working with clients",
+        "user": "U15HRTAHL",
+        "ts": "1506353170.000138"
+    },
+    {
+        "type": "message",
+        "text": "theres a \"bug\" about tab ordering",
+        "user": "U15HRTAHL",
+        "ts": "1506353178.000288"
+    },
+    {
+        "type": "message",
+        "text": "like hitting the tab button",
+        "user": "U15HRTAHL",
+        "ts": "1506353182.000069"
+    },
+    {
+        "type": "message",
+        "text": "so petty",
+        "user": "U15HRTAHL",
+        "ts": "1506353200.000464"
+    },
+    {
+        "type": "message",
+        "text": "that make no sense lol",
+        "user": "U15HY5TG8",
+        "ts": "1506353352.000096"
+    },
+    {
+        "type": "message",
+        "text": "like theyd rather have it go from the first form object to the 4th? lol",
+        "user": "U15HY5TG8",
+        "ts": "1506353379.000154"
+    },
+    {
+        "type": "message",
+        "text": "pretty much",
+        "user": "U15HRTAHL",
+        "ts": "1506353511.000251"
+    },
+    {
+        "type": "message",
+        "text": "when a field is populated theres some automation that automagically populates the next 2 if its good data",
+        "user": "U15HRTAHL",
+        "ts": "1506353542.000398"
+    },
+    {
+        "type": "message",
+        "text": "so usually they can skip those",
+        "user": "U15HRTAHL",
+        "ts": "1506353547.000132"
+    },
+    {
+        "type": "message",
+        "text": "so they want tab to entirely skip those",
+        "user": "U15HRTAHL",
+        "ts": "1506353556.000734"
+    },
+    {
+        "type": "message",
+        "text": "so",
+        "user": "U15HRTAHL",
+        "ts": "1506353558.000555"
+    },
+    {
+        "type": "message",
+        "text": "fucking",
+        "user": "U15HRTAHL",
+        "ts": "1506353559.000397"
+    },
+    {
+        "type": "message",
+        "text": "dumb",
+        "user": "U15HRTAHL",
+        "ts": "1506353560.000578"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1506353562.000422"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F789MHANP",
+                "created": 1506353583,
+                "timestamp": 1506353583,
+                "name": "tenor.gif",
+                "title": "tenor.gif",
+                "mimetype": "image\/gif",
+                "filetype": "gif",
+                "pretty_type": "GIF",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 1305122,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F789MHANP\/tenor.gif?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F789MHANP\/download\/tenor.gif?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F789MHANP-57286fc32a\/tenor_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F789MHANP-57286fc32a\/tenor_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F789MHANP-57286fc32a\/tenor_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 283,
+                "thumb_360_h": 200,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F789MHANP-57286fc32a\/tenor_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_gif": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F789MHANP-57286fc32a\/tenor_360.gif?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 283,
+                "original_h": 200,
+                "deanimate_gif": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F789MHANP-57286fc32a\/tenor_deanimate_gif.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F789MHANP\/tenor.gif",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F789MHANP-40ea81b615",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1506353584.000615"
+    },
+    {
+        "type": "message",
+        "text": "i could watch that all day lol",
+        "user": "U15HY5TG8",
+        "ts": "1506353631.000380"
+    },
+    {
+        "type": "message",
+        "text": "im gettin reallll sick of watching pluralsight all day",
+        "user": "U15HY5TG8",
+        "ts": "1506356490.000476"
+    },
+    {
+        "type": "message",
+        "text": "Watch porn hub instead",
+        "user": "U15HRTAHL",
+        "ts": "1506357196.000071"
+    },
+    {
+        "type": "message",
+        "text": "riiiiight",
+        "user": "U15HY5TG8",
+        "ts": "1506357352.000455"
+    },
+    {
+        "type": "message",
+        "text": "our software has 1.3 million lines of code",
+        "user": "U15HY5TG8",
+        "ts": "1506358168.000480"
+    },
+    {
+        "type": "message",
+        "text": "prove it",
+        "user": "U15HRTAHL",
+        "ts": "1506358291.000085"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> --",
+        "user": "U15HY5TG8",
+        "ts": "1506358600.000518"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh dear. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|30 points>]",
+        "ts": "1506358601.000771",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> --",
+        "user": "U15HRTAHL",
+        "ts": "1506358618.000312"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|33 points>]",
+        "ts": "1506358618.000376",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>--",
+        "user": "U15J5H60P",
+        "ts": "1506392049.000085"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|30 points>]",
+        "ts": "1506392049.000103",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> ++",
+        "user": "U15J5H60P",
+        "ts": "1506392070.000075"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Delicious. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|31 points>]",
+        "ts": "1506392070.000097",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> -- fuck yaself",
+        "user": "U15HY5TG8",
+        "ts": "1506392229.000160"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh dear. [<@U15J5H60P>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-62 points>]",
+        "ts": "1506392229.000187",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1506392234.000172"
+    }
+]

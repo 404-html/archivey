@@ -1,0 +1,222 @@
+[
+    {
+        "type": "message",
+        "text": "I have an sql question... but i'm not sure how to word it",
+        "user": "U15HSHSS2",
+        "ts": "1513790182.000264"
+    },
+    {
+        "type": "message",
+        "text": "I hate that",
+        "user": "U15HRTAHL",
+        "ts": "1513790191.000446"
+    },
+    {
+        "type": "message",
+        "text": "sql is so hard to word",
+        "user": "U15HRTAHL",
+        "ts": "1513790196.000091",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1513790198.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Lol hit us",
+        "user": "U15HY5TG8",
+        "ts": "1513790569.000107"
+    },
+    {
+        "type": "message",
+        "text": "Hmm... Alright imagine I have a group of marbles. I have a marbleGroup table which has the name and ID of the group, and a marble table which has the marbleGroupID and the color of the marble",
+        "user": "U15HSHSS2",
+        "ts": "1513790768.000436"
+    },
+    {
+        "type": "message",
+        "text": "following me?",
+        "user": "U15HSHSS2",
+        "ts": "1513790788.000408"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1513790816.000347"
+    },
+    {
+        "type": "message",
+        "text": "I want to run a query that returns marble groups that have at least 1 red marble",
+        "user": "U15HSHSS2",
+        "ts": "1513790846.000194"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1513790869.000753"
+    },
+    {
+        "type": "message",
+        "text": "How do I do that",
+        "user": "U15HSHSS2",
+        "ts": "1513790870.000473"
+    },
+    {
+        "type": "message",
+        "text": "give me 1 min",
+        "user": "U15HRTAHL",
+        "ts": "1513790875.000449"
+    },
+    {
+        "type": "message",
+        "text": "I'm trying to use COUNT() in the where clause but it's not working exactly as im expecting it to",
+        "user": "U15HSHSS2",
+        "ts": "1513790914.000012"
+    },
+    {
+        "type": "message",
+        "text": "Marbletable1 mb1 innerjoin marbletable2 mb2 on mb1.id =mb2.id where mb1.color ='red'",
+        "user": "U15HY5TG8",
+        "ts": "1513790938.000429"
+    },
+    {
+        "type": "message",
+        "text": "With your select statement before all that",
+        "user": "U15HY5TG8",
+        "ts": "1513790977.000125"
+    },
+    {
+        "type": "message",
+        "text": "Ooo",
+        "user": "U15HY5TG8",
+        "ts": "1513790998.000191"
+    },
+    {
+        "type": "message",
+        "text": "Yea dont do what i said lol",
+        "user": "U15HY5TG8",
+        "ts": "1513791016.000074"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1513791021.000235"
+    },
+    {
+        "type": "message",
+        "text": "Meh I can't do this without creating an actual table",
+        "user": "U15HRTAHL",
+        "ts": "1513791029.000111"
+    },
+    {
+        "type": "message",
+        "text": "You have to use some INs and groups and bys",
+        "user": "U15HY5TG8",
+        "ts": "1513791039.000701"
+    },
+    {
+        "type": "message",
+        "text": "never used any of that shit before lol",
+        "user": "U15HSHSS2",
+        "ts": "1513791060.000432"
+    },
+    {
+        "type": "message",
+        "text": "Is there a way to get the number of results returned in a query?",
+        "user": "U15HSHSS2",
+        "ts": "1513791125.000160"
+    },
+    {
+        "type": "message",
+        "text": "I would imagine you have to do something like select * from (select id from mb2 where color = 'red') AS mbTemp where mbTemp.id =mb1.id",
+        "user": "U15HY5TG8",
+        "ts": "1513791159.000618"
+    },
+    {
+        "type": "message",
+        "text": "Yea but you have to do some funky stuff with group bys",
+        "user": "U15HY5TG8",
+        "ts": "1513791181.000441"
+    },
+    {
+        "type": "message",
+        "text": "Oh yeah I just used group by and I think I can do this now",
+        "user": "U15HSHSS2",
+        "ts": "1513791252.000754"
+    },
+    {
+        "type": "message",
+        "text": "Sweet sweet!",
+        "user": "U15HY5TG8",
+        "ts": "1513791332.000512"
+    },
+    {
+        "type": "message",
+        "text": "Sweeet thanks",
+        "user": "U15HSHSS2",
+        "ts": "1513791342.000657"
+    },
+    {
+        "type": "message",
+        "text": "No problem",
+        "user": "U15HY5TG8",
+        "ts": "1513792275.000483"
+    },
+    {
+        "type": "message",
+        "text": "OMG",
+        "user": "U15J5H60P",
+        "ts": "1513797756.000256"
+    },
+    {
+        "type": "message",
+        "text": "I just deployed my first app on Heroku",
+        "user": "U15J5H60P",
+        "ts": "1513797762.000493"
+    },
+    {
+        "type": "message",
+        "text": "SO COOl",
+        "user": "U15J5H60P",
+        "ts": "1513797764.000283"
+    },
+    {
+        "type": "message",
+        "text": "Super easy!",
+        "user": "U15J5H60P",
+        "ts": "1513797777.000136"
+    },
+    {
+        "type": "message",
+        "text": "What is Heroku",
+        "user": "U15HSHSS2",
+        "ts": "1513797778.000649"
+    },
+    {
+        "type": "message",
+        "text": "It's a cloud platform as a service that serves as a web app deployment tool.",
+        "user": "U15J5H60P",
+        "ts": "1513797819.000118"
+    },
+    {
+        "type": "message",
+        "text": "its like app engine",
+        "user": "U15HRTAHL",
+        "ts": "1513797873.000090"
+    },
+    {
+        "type": "message",
+        "text": "except 100% easier",
+        "user": "U15HRTAHL",
+        "ts": "1513797876.000437"
+    },
+    {
+        "type": "message",
+        "text": "Its 100% built on top of aws which is ironic because Salesforce owns it and has its own cloud infrastructure",
+        "user": "U15HRTAHL",
+        "ts": "1513797907.000593"
+    }
+]

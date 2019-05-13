@@ -1,0 +1,156 @@
+[
+    {
+        "client_msg_id": "40310146-6619-46b8-b519-283794410d60",
+        "type": "message",
+        "text": "Annddddddd the stock market is crashing",
+        "user": "U15HRTAHL",
+        "ts": "1536156457.000100"
+    },
+    {
+        "client_msg_id": "43c13c72-6668-4a39-9059-4c94f6de836e",
+        "type": "message",
+        "text": "SELL SELL SELL",
+        "user": "U15HSHSS2",
+        "ts": "1536158239.000100"
+    },
+    {
+        "client_msg_id": "AE51A22E-36BD-41F7-9A5C-98A2D50FC0B4",
+        "type": "message",
+        "text": "BUY BUY BUY",
+        "user": "U15J5H60P",
+        "ts": "1536160756.000100"
+    },
+    {
+        "client_msg_id": "CA2B9EA4-93DA-4E37-9ADA-7EC2E82A71F0",
+        "type": "message",
+        "text": "FIRE SALE",
+        "user": "U15J5H60P",
+        "ts": "1536160772.000100"
+    },
+    {
+        "client_msg_id": "99fdd4f6-fee4-4bf3-870b-b46a26327602",
+        "type": "message",
+        "text": "SELL BUY SELL",
+        "user": "U15HSHSS2",
+        "ts": "1536160772.000200"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1536160812.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/tp4wr2j3wYDwA",
+                "image_url": "https:\/\/media2.giphy.com\/media\/tp4wr2j3wYDwA\/giphy.gif",
+                "image_width": 326,
+                "image_height": 256,
+                "image_bytes": 1232061,
+                "is_animated": true,
+                "title": "fire sale",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/tp4wr2j3wYDwA"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2BE7DF08-DD21-4539-81F4-387EB4AF954B",
+        "type": "message",
+        "text": "Apple was down like $3 earlier",
+        "user": "U15J5H60P",
+        "ts": "1536169502.000100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1536169515.000000"
+        }
+    },
+    {
+        "client_msg_id": "E79DC85E-76A8-4FFC-B0A8-41AAFC03FE73",
+        "type": "message",
+        "text": "Now it's up 5 cents",
+        "user": "U15J5H60P",
+        "ts": "1536169508.000100"
+    },
+    {
+        "client_msg_id": "a9dd88a2-f80a-4fc5-a653-5c5c48801eb7",
+        "type": "message",
+        "text": "I’m down on everything",
+        "user": "U15HRTAHL",
+        "ts": "1536169527.000100"
+    },
+    {
+        "client_msg_id": "4C83B316-3AB5-4C54-AF73-FE13B58A0ED1",
+        "type": "message",
+        "text": "Free money",
+        "user": "U15J5H60P",
+        "ts": "1536169544.000100"
+    },
+    {
+        "client_msg_id": "98B8D247-9A31-4E4A-819B-A270F2C7D200",
+        "type": "message",
+        "text": "I'm up on Apple and FDC",
+        "user": "U15J5H60P",
+        "ts": "1536169554.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus FDC",
+        "user": "U15HRTAHL",
+        "ts": "1536169698.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n        FDC              25.935               0.125                0.484 \n       Avg.                 ---                 ---               0.484% \n```\n<http:\/\/finviz.com\/chart.ashx?t=FDC&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1536169698.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=FDC&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31370,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=FDC&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=FDC&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b829ad75-ebce-4a88-ab05-850d66b1eb66",
+        "type": "message",
+        "text": "What is fdc?",
+        "user": "U15HRTAHL",
+        "ts": "1536169708.000100"
+    },
+    {
+        "client_msg_id": "B0E095DB-32E7-40E5-B1AE-362DD25C579F",
+        "type": "message",
+        "text": "Credit card transactions",
+        "user": "U15J5H60P",
+        "ts": "1536169820.000100"
+    },
+    {
+        "client_msg_id": "11B3F4E0-EA4C-4E98-88FB-48383451A00F",
+        "type": "message",
+        "text": "<https:\/\/www.firstdata.com\/en_us\/home.html>",
+        "user": "U15J5H60P",
+        "ts": "1536169868.000100",
+        "attachments": [
+            {
+                "title": "Credit Card Processing &amp; Payment Solutions for Merchants | First Data",
+                "title_link": "https:\/\/www.firstdata.com\/en_us\/home.html",
+                "text": "Meet the complete family of First Data solutions that free you to focus on what you love.",
+                "fallback": "Credit Card Processing &amp; Payment Solutions for Merchants | First Data",
+                "from_url": "https:\/\/www.firstdata.com\/en_us\/home.html",
+                "service_icon": "https:\/\/www.firstdata.com\/favicon.ico",
+                "service_name": "firstdata.com",
+                "id": 1,
+                "original_url": "https:\/\/www.firstdata.com\/en_us\/home.html"
+            }
+        ]
+    }
+]

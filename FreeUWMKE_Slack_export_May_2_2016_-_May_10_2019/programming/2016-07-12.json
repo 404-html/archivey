@@ -1,0 +1,115 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: LMFAO and this is correct",
+        "user": "U15HY5TG8",
+        "ts": "1468329640.000003"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: is there a way to clean up whats in the commented section?",
+        "user": "U15HY5TG8",
+        "ts": "1468334187.000003"
+    },
+    {
+        "type": "message",
+        "text": "The [] is throwing it off",
+        "user": "U15HY5TG8",
+        "ts": "1468334250.000004"
+    },
+    {
+        "type": "message",
+        "text": "ehhh try this maybe\n```\n$scope = {\n    user = [],\n    user.valid = false,\n    …etc\n};\n```",
+        "user": "U15HRTAHL",
+        "ts": "1468334257.000005"
+    },
+    {
+        "type": "message",
+        "text": "idk what you mean by clean up",
+        "user": "U15HRTAHL",
+        "ts": "1468334267.000006",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1468334272.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Yea like that",
+        "user": "U15HY5TG8",
+        "ts": "1468334286.000008"
+    },
+    {
+        "type": "message",
+        "text": "Nope it doesnt like that at all lol",
+        "user": "U15HY5TG8",
+        "ts": "1468334393.000009"
+    },
+    {
+        "type": "message",
+        "text": "do you guys do code reviews at master lock?",
+        "user": "U15HRTAHL",
+        "ts": "1468334531.000010"
+    },
+    {
+        "type": "message",
+        "text": "Alllllll of these are in progress because im waiting for results on code reviews",
+        "user": "U15HY5TG8",
+        "ts": "1468334596.000012"
+    },
+    {
+        "type": "message",
+        "text": "Did you see my recent regex pic? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1468334805.000013"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1468335038.000014"
+    },
+    {
+        "type": "message",
+        "text": "thats ridiculous",
+        "user": "U15HRTAHL",
+        "ts": "1468335049.000015"
+    },
+    {
+        "type": "message",
+        "text": "I have been able to cut it in half though since then but thats as short as you can get",
+        "user": "U15HY5TG8",
+        "ts": "1468335088.000016"
+    },
+    {
+        "type": "message",
+        "text": "I spent like 4 hours wonder why this feature im working on wasnt working",
+        "user": "U15HRTAHL",
+        "ts": "1468338066.000017"
+    },
+    {
+        "type": "message",
+        "text": "it was a fucking extension that did it",
+        "user": "U15HRTAHL",
+        "ts": "1468338075.000018"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1468338095.000019"
+    },
+    {
+        "type": "message",
+        "text": "perma fucking leave this bitch",
+        "user": "U15HRTAHL",
+        "ts": "1468361578.000020"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1468361581.000021",
+        "text": "<@U15HRTAHL> has left the channel"
+    }
+]

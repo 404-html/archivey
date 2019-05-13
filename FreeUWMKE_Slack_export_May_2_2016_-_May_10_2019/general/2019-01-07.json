@@ -1,0 +1,2753 @@
+[
+    {
+        "client_msg_id": "DA8734FB-BD4C-48A6-89D7-3CA043D02A10",
+        "type": "message",
+        "text": "I just opened up my creamer package and dumped it all into the garbage instead of into my coffee...",
+        "user": "U15HY5TG8",
+        "ts": "1546868309.001100"
+    },
+    {
+        "client_msg_id": "68DBBB55-A0C7-4A55-B2E9-F610015F5382",
+        "type": "message",
+        "text": "Lol happy Monday!",
+        "user": "U15J5H60P",
+        "ts": "1546868684.001300"
+    },
+    {
+        "client_msg_id": "9EF78167-1D41-4ECB-BCCB-987952D98304",
+        "type": "message",
+        "text": "Yeahhh",
+        "user": "U15HY5TG8",
+        "ts": "1546868865.001400"
+    },
+    {
+        "client_msg_id": "6393D9F2-9EB4-47C0-8D0F-77A9F772A6DB",
+        "type": "message",
+        "text": "Im so tired",
+        "user": "U15HY5TG8",
+        "ts": "1546868869.001600"
+    },
+    {
+        "client_msg_id": "0FC2FC92-76CF-4DA5-97DF-3A362038F76C",
+        "type": "message",
+        "text": "I should get hooked on melatonin again",
+        "user": "U15HY5TG8",
+        "ts": "1546868879.002000"
+    },
+    {
+        "client_msg_id": "C06BF82B-1BA8-4C7E-BAA5-6D02C20AB216",
+        "type": "message",
+        "text": "I’ll probably look later this week <https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546814575000700>",
+        "user": "U15HZ01QX",
+        "ts": "1546871483.002400",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546814575000700",
+                "fallback": "[January 6th, 2019 2:42 PM] ev: Have you guys checked out \"You\" on netflix yet?",
+                "ts": "1546814575.000700",
+                "author_id": "U15HY5TG8",
+                "author_subname": "Ev",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Have you guys checked out \"You\" on netflix yet?",
+                "author_name": "Ev",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-15\/480422119888_92da814beef2c4f02db6_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546814575000700",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BA33009F-6110-40F3-8788-A3A26372A1AA",
+        "type": "message",
+        "text": "Its kinda messed up",
+        "user": "U15HY5TG8",
+        "ts": "1546871508.002900"
+    },
+    {
+        "client_msg_id": "3EA594F3-8317-4253-B7A5-F9C680F7582F",
+        "type": "message",
+        "text": "I can give you a little background if you want",
+        "user": "U15HY5TG8",
+        "ts": "1546871527.003400"
+    },
+    {
+        "client_msg_id": "b17dafd8-187e-46a9-82e8-2a8ca37d2d9b",
+        "type": "message",
+        "text": "i watched the trailer but it wasnt enough to make me watch it right away",
+        "user": "U15HZ01QX",
+        "ts": "1546871590.003800"
+    },
+    {
+        "client_msg_id": "0cd30972-736b-4ef1-8860-0277a20a5cf5",
+        "type": "message",
+        "text": "ill get to it soon though",
+        "user": "U15HZ01QX",
+        "ts": "1546871601.004100"
+    },
+    {
+        "client_msg_id": "301701DD-1F4A-4B3C-806F-F6F4A406371B",
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1546871609.004300"
+    },
+    {
+        "client_msg_id": "24d6277b-20e8-4d17-9bd5-c70fff7da4a9",
+        "type": "message",
+        "text": "whats good in your bravo store <@U15J5H60P>",
+        "user": "U15HZ01QX",
+        "ts": "1546871730.004600"
+    },
+    {
+        "client_msg_id": "8f1a8dd2-3432-4080-9800-e9e9f9c90e61",
+        "type": "message",
+        "text": "Apple Watch",
+        "user": "U15J5H60P",
+        "ts": "1546872152.004900"
+    },
+    {
+        "client_msg_id": "c730fb0d-223c-4ab0-b382-b53fc29a1d7b",
+        "type": "message",
+        "text": "iPad",
+        "user": "U15J5H60P",
+        "ts": "1546872155.005100"
+    },
+    {
+        "client_msg_id": "5d9e8005-e5b2-4d32-ae6c-ad4517c422de",
+        "type": "message",
+        "text": "HomePod",
+        "user": "U15J5H60P",
+        "ts": "1546872159.005300"
+    },
+    {
+        "client_msg_id": "47f0b825-148f-4225-908f-2e9bb9ded00b",
+        "type": "message",
+        "text": "I have 3,800 points",
+        "user": "U15J5H60P",
+        "ts": "1546872801.005500"
+    },
+    {
+        "client_msg_id": "f497dfb8-dd6e-4c0c-99ac-4603ec2dc37b",
+        "type": "message",
+        "text": "But nothing to spend them on",
+        "user": "U15J5H60P",
+        "ts": "1546872805.005700"
+    },
+    {
+        "client_msg_id": "87acfd13-71eb-4547-b7b4-1f8236d459db",
+        "type": "message",
+        "text": "I guess I'm waiting for the next Apple Watch",
+        "user": "U15J5H60P",
+        "ts": "1546872812.006000"
+    },
+    {
+        "client_msg_id": "2c204d3f-653d-42e5-a2d7-4c8094eb5682",
+        "type": "message",
+        "text": "You could get another Switch",
+        "user": "U15J5H60P",
+        "ts": "1546872825.006200"
+    },
+    {
+        "client_msg_id": "C10ACDFD-6E3E-4458-B8CF-303D6CC32B64",
+        "type": "message",
+        "text": "I have 4125 now",
+        "user": "U15HZ01QX",
+        "ts": "1546872834.006400"
+    },
+    {
+        "client_msg_id": "617d6ae2-91e3-436f-85ea-f3c23455d0e6",
+        "type": "message",
+        "text": "Oh dang",
+        "user": "U15J5H60P",
+        "ts": "1546872840.006600"
+    },
+    {
+        "client_msg_id": "261413ee-5d1f-4d03-8b99-af9438c0beca",
+        "type": "message",
+        "text": "Very nice",
+        "user": "U15J5H60P",
+        "ts": "1546872842.006800"
+    },
+    {
+        "client_msg_id": "710930e1-fa90-485b-8fb9-ab227c4d2715",
+        "type": "message",
+        "text": "Even after you ordered the lock?",
+        "user": "U15J5H60P",
+        "ts": "1546872846.007000"
+    },
+    {
+        "client_msg_id": "db2e6930-e6d2-4406-9009-3b1082fd91da",
+        "type": "message",
+        "text": "Came across a windfall of Bravos!",
+        "user": "U15J5H60P",
+        "ts": "1546872862.007300"
+    },
+    {
+        "client_msg_id": "2912d83c-b9ab-4f0e-9f59-8630203a7888",
+        "type": "message",
+        "text": "Well, in the past, I just used it as \"I'll use these to get an Apple Watch every year\". But since you spend money on that instead, I would just get home stuff.",
+        "user": "U15J5H60P",
+        "ts": "1546872918.008100"
+    },
+    {
+        "client_msg_id": "3620ab2f-809f-449c-b172-543ff858e76b",
+        "type": "message",
+        "text": "I didnt get the lock lol",
+        "user": "U15HZ01QX",
+        "ts": "1546872989.008500"
+    },
+    {
+        "client_msg_id": "6687128a-09a8-41f2-ae9f-29f017ee9f01",
+        "type": "message",
+        "text": "O",
+        "user": "U15J5H60P",
+        "ts": "1546872996.008900"
+    },
+    {
+        "client_msg_id": "6a1e31d7-73fd-4a4a-9be7-d910ae8ef3b6",
+        "type": "message",
+        "text": "and yeah its not used very much here.  Managers get a yearly distribution and then right before the new year they just give it all away when they remember",
+        "user": "U15HZ01QX",
+        "ts": "1546873024.009500"
+    },
+    {
+        "client_msg_id": "291b5084-4906-4d74-861a-e52238140b69",
+        "type": "message",
+        "text": "Oh lol",
+        "user": "U15J5H60P",
+        "ts": "1546873033.009800"
+    },
+    {
+        "client_msg_id": "90a899c5-a910-43ac-a6dc-99c0566f0289",
+        "type": "message",
+        "text": "the lock should probably be on my list though",
+        "user": "U15HZ01QX",
+        "ts": "1546873044.010100"
+    },
+    {
+        "client_msg_id": "6a932ef1-885f-4204-b35e-d9d5d38ae523",
+        "type": "message",
+        "text": "but im like halfway to a fridge anyways",
+        "user": "U15HZ01QX",
+        "ts": "1546873054.010400"
+    },
+    {
+        "client_msg_id": "83f6439d-8ee0-411a-be32-8af2b602b703",
+        "type": "message",
+        "text": "You just got a fridge!",
+        "user": "U15J5H60P",
+        "ts": "1546873062.010600"
+    },
+    {
+        "client_msg_id": "2c202b8a-a3d5-43d4-ba40-52ee328f805d",
+        "type": "message",
+        "text": "I broke my oven last night",
+        "user": "U15HRTAHL",
+        "ts": "1546873070.011000"
+    },
+    {
+        "client_msg_id": "ffd3f2fc-82b1-4c7d-9a40-4cc81d334aba",
+        "type": "message",
+        "text": "How?",
+        "user": "U15J5H60P",
+        "ts": "1546873075.011200"
+    },
+    {
+        "client_msg_id": "bc23b699-b7ed-43da-998a-bb51cd473330",
+        "type": "message",
+        "text": "I was preheating it then I put something in there and spilled water on the glass see through door and it shattered",
+        "user": "U15HRTAHL",
+        "ts": "1546873102.011900"
+    },
+    {
+        "client_msg_id": "38a06c37-a6a2-4388-b887-2997281d537f",
+        "type": "message",
+        "text": "<@U15HZ01QX> You could've bought headphones",
+        "user": "U15J5H60P",
+        "ts": "1546873105.012100"
+    },
+    {
+        "client_msg_id": "faf70d01-8508-4414-840f-8e972bd850c0",
+        "type": "message",
+        "text": "Oh dang",
+        "user": "U15J5H60P",
+        "ts": "1546873121.012300"
+    },
+    {
+        "client_msg_id": "c95fec95-6f85-4876-b570-c52c38d6c0ef",
+        "type": "message",
+        "text": "They gonna charge you up the butthole for that",
+        "user": "U15J5H60P",
+        "ts": "1546873128.012600"
+    },
+    {
+        "type": "message",
+        "text": "I did not lol",
+        "user": "U15HZ01QX",
+        "ts": "1546873163.012700",
+        "attachments": [
+            {
+                "fallback": "[January 7th, 2019 8:57 AM] andrew: You just got a fridge!",
+                "ts": "1546873062.010600",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "You just got a fridge!",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/476971610272_c7b7e69ed939f91c37dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "color": "D0D0D0",
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873062010600",
+                "is_share": true,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89cd0059-368d-420c-b72f-5bad8c076e8a",
+        "type": "message",
+        "text": "yeah i biffed that one <https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873105012100>",
+        "user": "U15HZ01QX",
+        "ts": "1546873182.012900",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873105012100",
+                "fallback": "[January 7th, 2019 6:58 AM] andrew: <@U15HZ01QX> You could've bought headphones",
+                "ts": "1546873105.012100",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<@U15HZ01QX> You could've bought headphones",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/476971610272_c7b7e69ed939f91c37dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873105012100",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be28eb43-5f1e-4a58-a940-d1fd5855bcf8",
+        "type": "message",
+        "text": "Could've sworn you just got a fridge with a screen on it or something",
+        "user": "U15J5H60P",
+        "ts": "1546873198.013400"
+    },
+    {
+        "client_msg_id": "ac18b36e-1c02-48aa-84d6-958695c813d2",
+        "type": "message",
+        "text": "SCIENCE strikes again <https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873102011900>",
+        "user": "U15HZ01QX",
+        "ts": "1546873204.013700",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873102011900",
+                "fallback": "[January 7th, 2019 6:58 AM] joeythomaschaske: I was preheating it then I put something in there and spilled water on the glass see through door and it shattered",
+                "ts": "1546873102.011900",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "I was preheating it then I put something in there and spilled water on the glass see through door and it shattered",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873102011900",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05e890f0-8049-4ebf-9d4f-d971d52f1d3f",
+        "type": "message",
+        "text": "FAKE NEWS",
+        "user": "U15J5H60P",
+        "ts": "1546873214.014100"
+    },
+    {
+        "client_msg_id": "7bb9f9c3-0c4f-42b8-a59d-d155696b810d",
+        "type": "message",
+        "text": "Oh when we bought the oven we bought a fridge but then when we got him we measured and realized it wouldnt fit with the hanging cabinets <https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873198013400>",
+        "user": "U15HZ01QX",
+        "ts": "1546873243.014800",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873198013400",
+                "fallback": "[January 7th, 2019 6:59 AM] andrew: Could've sworn you just got a fridge with a screen on it or something",
+                "ts": "1546873198.013400",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Could've sworn you just got a fridge with a screen on it or something",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/476971610272_c7b7e69ed939f91c37dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1546873198013400",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "21c4b45f-2342-46ee-8446-98bfe8e4ebe0",
+        "type": "message",
+        "text": "but we got them knocked out now",
+        "user": "U15HZ01QX",
+        "ts": "1546873250.015100"
+    },
+    {
+        "client_msg_id": "cb88e6cc-a6fa-4f27-ab15-e46e161f8422",
+        "type": "message",
+        "text": "its only the interior glass and I was looking at a replacement part for it. It’ll be like $50",
+        "user": "U15HRTAHL",
+        "ts": "1546873431.015600"
+    },
+    {
+        "client_msg_id": "b4d1aef3-2322-4e72-829c-f1dc9bb5b731",
+        "type": "message",
+        "text": "but I’m debating on doing anything with it because I also read people have shattered theres and never replaced it and it’s fine",
+        "user": "U15HRTAHL",
+        "ts": "1546873447.016100"
+    },
+    {
+        "client_msg_id": "a1c40bd2-f335-4f53-b70e-b5a3b7f6898d",
+        "type": "message",
+        "text": "Hard to believe the people you rent from will just be like No biggie",
+        "user": "U15HZ01QX",
+        "ts": "1546873485.016600"
+    },
+    {
+        "client_msg_id": "c1281e60-6bfd-49f7-af0d-cebc47fe90ff",
+        "type": "message",
+        "text": "I’m not sweating over it",
+        "user": "U15HRTAHL",
+        "ts": "1546873678.017500"
+    },
+    {
+        "client_msg_id": "35F2B2C1-F267-470A-9514-DDCC0E6B0C80",
+        "type": "message",
+        "text": "<https:\/\/www.zillow.com\/homedetails\/7861-N-46th-St-Brown-Deer-WI-53223\/110708490_zpid\/>",
+        "user": "U15HZ01QX",
+        "ts": "1546873913.017700",
+        "attachments": [
+            {
+                "title": "7861 N 46th St, Brown Deer, WI 53223 | MLS #1602856 | Zillow",
+                "title_link": "https:\/\/www.zillow.com\/homedetails\/7861-N-46th-St-Brown-Deer-WI-53223\/110708490_zpid\/",
+                "text": "For sale: $239,900. Handsome low-maintenance ranch (10 years new) resting on a 1\/3 acre lot. Open concept floor plan with loads of natural natural light pouring through the over-sized windows. Master suite features Jacuzzi tub, separate shower, patio doors to back yard and large walk-in closet. Third bedroom perfect for office or den. Huge finished lower-level featuring cozy gas fireplace. Covered front porch perfect for your morning coffee. Convenient location, close to shopping and parks. You will love calling this ''home.''",
+                "fallback": "7861 N 46th St, Brown Deer, WI 53223 | MLS #1602856 | Zillow",
+                "image_url": "https:\/\/photos.zillowstatic.com\/p_d\/ISa5y287ug2xdc0000000000.jpg",
+                "from_url": "https:\/\/www.zillow.com\/homedetails\/7861-N-46th-St-Brown-Deer-WI-53223\/110708490_zpid\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 74530,
+                "service_icon": "https:\/\/www.zillowstatic.com\/static\/images\/m\/apple-touch-icon.png",
+                "service_name": "zillow.com",
+                "id": 1,
+                "original_url": "https:\/\/www.zillow.com\/homedetails\/7861-N-46th-St-Brown-Deer-WI-53223\/110708490_zpid\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "172d0b2b-8798-4eaa-94d4-8df65917fbf2",
+        "type": "message",
+        "text": "not bad",
+        "user": "U15HRTAHL",
+        "ts": "1546873980.018000"
+    },
+    {
+        "client_msg_id": "9a08b8cc-20c0-459e-9145-de019de9edba",
+        "type": "message",
+        "text": "Every house built in the late 2000s has way too much carpet and questionable wood coloring all over the kitchen",
+        "user": "U15HZ01QX",
+        "ts": "1546874025.018700"
+    },
+    {
+        "client_msg_id": "fa16b5b9-c205-4aae-9177-39213e2420cd",
+        "type": "message",
+        "text": "but 3 bathrooms is nice",
+        "user": "U15HZ01QX",
+        "ts": "1546874030.018900"
+    },
+    {
+        "client_msg_id": "212F2AC9-18D6-4DFE-85D6-D3E9BAE7A8B9",
+        "type": "message",
+        "text": "Go for the older houses without problems",
+        "user": "U15HY5TG8",
+        "ts": "1546874140.019300"
+    },
+    {
+        "client_msg_id": "d4e4280c-22da-4ebd-ad63-74d9d478beae",
+        "type": "message",
+        "text": "The older houses have more hardwood but theyre literally just worse houses",
+        "user": "U15HZ01QX",
+        "ts": "1546874246.019800"
+    },
+    {
+        "client_msg_id": "4209863a-c71f-4390-9c51-3d3412d89ffc",
+        "type": "message",
+        "text": "The best ones are the old ones that were remodeled in the last 5 years",
+        "user": "U15HZ01QX",
+        "ts": "1546874276.020200"
+    },
+    {
+        "client_msg_id": "eaf508f3-efd0-42f9-980f-dcc7600216d6",
+        "type": "message",
+        "text": "more granite, and dark wood, chrome or stainless steel appliances",
+        "user": "U15HZ01QX",
+        "ts": "1546874293.020700"
+    },
+    {
+        "client_msg_id": "a1f8a128-6320-42f1-9b59-4952b4512436",
+        "type": "message",
+        "text": "but they have like 1 bathroom and then a half in the basement somewhere",
+        "user": "U15HZ01QX",
+        "ts": "1546874309.021200"
+    },
+    {
+        "client_msg_id": "0239F5B9-1ABC-42D0-A999-7A428FD27A2E",
+        "type": "message",
+        "text": "Still better",
+        "user": "U15HY5TG8",
+        "ts": "1546874376.021400"
+    },
+    {
+        "client_msg_id": "4F04F888-6935-49E1-85A7-C7684993CB91",
+        "type": "message",
+        "text": "Better construction",
+        "user": "U15HY5TG8",
+        "ts": "1546874380.021700"
+    },
+    {
+        "client_msg_id": "22CC8954-9564-4058-A5B4-19520378CA08",
+        "type": "message",
+        "text": "So obviously I went snowboarding yesterday at the rock. Now my ads on facebook\/instagram are only about the rock",
+        "user": "U15HY5TG8",
+        "ts": "1546878209.022800"
+    },
+    {
+        "client_msg_id": "ad918d5c-d941-4998-af8c-7756497cb809",
+        "type": "message",
+        "text": "nice!",
+        "user": "U15HZ01QX",
+        "ts": "1546881149.023000"
+    },
+    {
+        "client_msg_id": "6b93bd84-ca42-407e-a509-3af9d771384a",
+        "type": "message",
+        "text": "Any of you guys use Amazon WorkSpaces at work?",
+        "user": "U15HZ01QX",
+        "ts": "1546881167.023400"
+    },
+    {
+        "client_msg_id": "D6CED2EB-CA8E-4219-B4DC-9253BB868E7E",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15HY5TG8",
+        "ts": "1546881184.023600"
+    },
+    {
+        "client_msg_id": "7ebd7a78-978b-4b0b-9d6c-0868095b70c0",
+        "type": "message",
+        "text": "what do you guys use? Citrix?",
+        "user": "U15HZ01QX",
+        "ts": "1546881198.023900"
+    },
+    {
+        "client_msg_id": "16C15C1B-86FA-45F9-A03E-8EBC9C2ED827",
+        "type": "message",
+        "text": "Np idea what youre referring to",
+        "user": "U15HY5TG8",
+        "ts": "1546881619.024400"
+    },
+    {
+        "client_msg_id": "7dbc31d7-9186-4746-b3ae-bbbc5c9c93e1",
+        "type": "message",
+        "text": "You guys use virtual desktops or virtualized apps for something right?",
+        "user": "U15HZ01QX",
+        "ts": "1546881659.024900"
+    },
+    {
+        "client_msg_id": "4724470F-F78E-426B-9EA2-7902E15A4BB8",
+        "type": "message",
+        "text": "O i used to use a vm at wonderbox for development. The was vmware",
+        "user": "U15HY5TG8",
+        "ts": "1546881712.026000"
+    },
+    {
+        "client_msg_id": "67527b86-c88c-4afc-a8f6-ffdfaca6b861",
+        "type": "message",
+        "text": "ok cool",
+        "user": "U15HZ01QX",
+        "ts": "1546881721.026200"
+    },
+    {
+        "client_msg_id": "8855dacf-779c-4b3b-ba9b-5e4ce6879696",
+        "type": "message",
+        "text": "Never had to use a virtual desktop at work",
+        "user": "U15HSHSS2",
+        "ts": "1546881732.026600"
+    },
+    {
+        "client_msg_id": "08EDB59A-B44B-4701-A3EE-13C357C3DB81",
+        "type": "message",
+        "text": "We use whatever we want",
+        "user": "U15J5H60P",
+        "ts": "1546881764.027000"
+    },
+    {
+        "client_msg_id": "AA716689-D2BE-454B-AB25-7D55A8858957",
+        "type": "message",
+        "text": "Some use AWS and some use Azure",
+        "user": "U15J5H60P",
+        "ts": "1546881771.027400"
+    },
+    {
+        "client_msg_id": "29abe282-4dcd-42b4-86b3-123d2333737e",
+        "type": "message",
+        "text": "damn right",
+        "user": "U15HSHSS2",
+        "ts": "1546881775.027600"
+    },
+    {
+        "client_msg_id": "69265996-749A-43E5-A0AD-0D5B19A64650",
+        "type": "message",
+        "text": "Also have on prem VMs",
+        "user": "U15J5H60P",
+        "ts": "1546881787.028100"
+    },
+    {
+        "client_msg_id": "82c99dc8-12af-4d32-b44c-c6b999b37536",
+        "type": "message",
+        "text": "You dont have any virtualized applications?",
+        "user": "U15HZ01QX",
+        "ts": "1546881790.028300"
+    },
+    {
+        "client_msg_id": "8399a685-d6af-4299-a804-9b0678a87e81",
+        "type": "message",
+        "text": "that were set up?",
+        "user": "U15HZ01QX",
+        "ts": "1546881796.028700"
+    },
+    {
+        "client_msg_id": "a0bfedc1-f545-45d7-8ccc-25b3beea1a58",
+        "type": "message",
+        "text": "You just all do your own thing?",
+        "user": "U15HZ01QX",
+        "ts": "1546881804.029200"
+    },
+    {
+        "client_msg_id": "C4E07E61-9316-4E12-8ACF-13361F3CC98B",
+        "type": "message",
+        "text": "I think we have a VMWare instance that no one uses",
+        "user": "U15J5H60P",
+        "ts": "1546881812.029500"
+    },
+    {
+        "client_msg_id": "ED0AF5EE-0366-4A2B-BC07-85AD7CFEB7E5",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1546881817.029700"
+    },
+    {
+        "client_msg_id": "F4E40A99-8455-417C-A977-C831BC81383B",
+        "type": "message",
+        "text": "We use the tools that we're most comfortable with",
+        "user": "U15J5H60P",
+        "ts": "1546881827.030200"
+    },
+    {
+        "client_msg_id": "1b77a578-28ff-4c42-9720-ce2594eb0545",
+        "type": "message",
+        "text": "Dynamic Licensing?",
+        "user": "U15HZ01QX",
+        "ts": "1546881833.030300"
+    },
+    {
+        "client_msg_id": "A7BE5B22-BB1B-4A74-A679-5FA818963A10",
+        "type": "message",
+        "text": "No idea",
+        "user": "U15J5H60P",
+        "ts": "1546881849.030800"
+    },
+    {
+        "client_msg_id": "543c6224-a89e-4ed0-b27c-959e1ac3b1b4",
+        "type": "message",
+        "text": "or did they just buy 10k from each and say go with comfort comrades",
+        "user": "U15HZ01QX",
+        "ts": "1546881853.031000"
+    },
+    {
+        "client_msg_id": "C5FF4E40-A771-415E-A319-4A77B6C55413",
+        "type": "message",
+        "text": "I don't deal with that junk",
+        "user": "U15J5H60P",
+        "ts": "1546881855.031200"
+    },
+    {
+        "client_msg_id": "3e2503f1-6b08-4bc4-9aac-df446d7053f9",
+        "type": "message",
+        "text": "you use it lol",
+        "user": "U15HZ01QX",
+        "ts": "1546881861.031400"
+    },
+    {
+        "client_msg_id": "B92C0EA5-6F1E-4602-86AC-DFAE2C141C2B",
+        "type": "message",
+        "text": "I use it, I have no idea what went into the licensing",
+        "user": "U15J5H60P",
+        "ts": "1546881875.032100"
+    },
+    {
+        "client_msg_id": "AC53EB74-04BD-4E47-82B1-C277500F560D",
+        "type": "message",
+        "text": "We had it run out and buy a license one at a time when we needed a new one",
+        "user": "U15HY5TG8",
+        "ts": "1546881892.033100"
+    },
+    {
+        "client_msg_id": "ca259173-6254-42bd-a397-4a64e16803d3",
+        "type": "message",
+        "text": "Ok i guess a better question is when you used AWS for the first time what did you do?",
+        "user": "U15HZ01QX",
+        "ts": "1546881911.033700"
+    },
+    {
+        "client_msg_id": "D7C5A7B9-1D89-4E7B-AA6D-AA09E802DFB0",
+        "type": "message",
+        "text": "IT*",
+        "user": "U15HY5TG8",
+        "ts": "1546881911.033900"
+    },
+    {
+        "client_msg_id": "728a400a-c734-45d0-9e97-cf8e28752cd6",
+        "type": "message",
+        "text": "Did you just sign in?",
+        "user": "U15HZ01QX",
+        "ts": "1546881919.034100"
+    },
+    {
+        "client_msg_id": "80028CFB-F4B8-4CFF-A3FF-150BF2E26B43",
+        "type": "message",
+        "text": "I signed in",
+        "user": "U15J5H60P",
+        "ts": "1546881923.034400"
+    },
+    {
+        "client_msg_id": "a03641e4-9d9e-42e4-ae02-fbcb3e0eab03",
+        "type": "message",
+        "text": "okay",
+        "user": "U15HZ01QX",
+        "ts": "1546881930.034800"
+    },
+    {
+        "client_msg_id": "CE158411-4749-4DE1-9EEF-7619332B5FAA",
+        "type": "message",
+        "text": "Got a VM assigned, then connected to it using MS Remote Desktop",
+        "user": "U15J5H60P",
+        "ts": "1546881943.035400"
+    },
+    {
+        "client_msg_id": "b3a8d69a-3c58-4590-99a0-a5263e1c9845",
+        "type": "message",
+        "text": "you dont have to report on how long youre using it or anything?",
+        "user": "U15HZ01QX",
+        "ts": "1546881963.035800"
+    },
+    {
+        "client_msg_id": "A2671612-476E-4BE3-896A-5D5D2C2C5E12",
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1546881975.036300"
+    },
+    {
+        "client_msg_id": "F60DB34A-2137-43E9-A8DA-F56DDD6933BA",
+        "type": "message",
+        "text": "That'd be super obnoxious",
+        "user": "U15J5H60P",
+        "ts": "1546881987.037300"
+    },
+    {
+        "client_msg_id": "be2cb7da-4af5-4d03-9d60-f5e39b3d15d8",
+        "type": "message",
+        "text": "ok so that makes it seem like they just copped a bunch",
+        "user": "U15HZ01QX",
+        "ts": "1546881991.037500"
+    },
+    {
+        "client_msg_id": "4664C011-4D16-4CCE-A31F-F457DCCADF3A",
+        "type": "message",
+        "text": "Wait how did you have a vm assigned if you were all supposed to choose what you were comfortable with?",
+        "user": "U15HY5TG8",
+        "ts": "1546881991.037600"
+    },
+    {
+        "client_msg_id": "80BCA594-B0F7-4383-A181-71BDEC0C19AF",
+        "type": "message",
+        "text": "Probably",
+        "user": "U15J5H60P",
+        "ts": "1546882002.037800"
+    },
+    {
+        "client_msg_id": "6d032065-6f6a-4bdc-a8f5-116ec67d00e5",
+        "type": "message",
+        "text": "thats awful",
+        "user": "U15HZ01QX",
+        "ts": "1546882010.038000"
+    },
+    {
+        "client_msg_id": "4BDE2A49-41BC-4A41-9BE2-628701A02645",
+        "type": "message",
+        "text": "I just signed in and got one",
+        "user": "U15J5H60P",
+        "ts": "1546882021.038400"
+    },
+    {
+        "client_msg_id": "10A7F556-6490-4CAF-A5C7-873A1AA50C32",
+        "type": "message",
+        "text": "I decided to get it from AWS",
+        "user": "U15J5H60P",
+        "ts": "1546882031.038700"
+    },
+    {
+        "client_msg_id": "267D524E-E7F9-4722-931D-442872A715BA",
+        "type": "message",
+        "text": "I can also get one from azure if I decided on it",
+        "user": "U15J5H60P",
+        "ts": "1546882040.039200"
+    },
+    {
+        "client_msg_id": "E0663C12-DFB2-4E6C-8B31-A04727685253",
+        "type": "message",
+        "text": "Signed in to what?",
+        "user": "U15HY5TG8",
+        "ts": "1546882043.039400"
+    },
+    {
+        "client_msg_id": "50085AC0-AAEB-494B-82B4-D0DE04AC515F",
+        "type": "message",
+        "text": "AWS console",
+        "user": "U15J5H60P",
+        "ts": "1546882049.039700"
+    },
+    {
+        "client_msg_id": "333b4de2-14e8-4017-9796-f5aaa4f5e627",
+        "type": "message",
+        "text": "using your AD credentials?",
+        "user": "U15HZ01QX",
+        "ts": "1546882058.040000"
+    },
+    {
+        "client_msg_id": "BCEB5523-DDB6-496D-A0AF-5F1D898C0F73",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1546882064.040300"
+    },
+    {
+        "client_msg_id": "F3179008-C24E-4436-AD92-2CC0A3546FAF",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1546882068.040700"
+    },
+    {
+        "client_msg_id": "84CF5268-955C-46BD-817F-0F1F7EABA458",
+        "type": "message",
+        "text": "Everything is connected with AD",
+        "user": "U15J5H60P",
+        "ts": "1546882071.040900"
+    },
+    {
+        "client_msg_id": "d2d8644e-9036-419b-9962-e003d4aec8a9",
+        "type": "message",
+        "text": "Thats incredible",
+        "user": "U15HZ01QX",
+        "ts": "1546882081.041200"
+    },
+    {
+        "client_msg_id": "896c7b09-5a19-44dd-b7f8-627f6be38cdf",
+        "type": "message",
+        "text": "it makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1546882100.041500"
+    },
+    {
+        "client_msg_id": "aa103fcf-a87a-44be-91fa-531deded80ab",
+        "type": "message",
+        "text": "spin up an ec2 server with windows",
+        "user": "U15HRTAHL",
+        "ts": "1546882108.042000"
+    },
+    {
+        "client_msg_id": "2ee779e9-1bde-4fab-9971-a533876e5fea",
+        "type": "message",
+        "text": "I mean the licensing model",
+        "user": "U15HZ01QX",
+        "ts": "1546882120.042500"
+    },
+    {
+        "client_msg_id": "83876691-2ffa-4942-a56c-81848b17515a",
+        "type": "message",
+        "text": "any time someone changes their ad information change their IAM record",
+        "user": "U15HRTAHL",
+        "ts": "1546882128.042900"
+    },
+    {
+        "client_msg_id": "c7bc422c-7673-494e-89d4-47ea9e692818",
+        "type": "message",
+        "text": "unless theyre like super dynamic.  In which case Andrew signs in gets a license, signs out and the license goes back to the library",
+        "user": "U15HZ01QX",
+        "ts": "1546882159.043500"
+    },
+    {
+        "client_msg_id": "501a75b9-dcf0-48e1-9c93-08056e26d5cb",
+        "type": "message",
+        "text": "what",
+        "user": "U15HRTAHL",
+        "ts": "1546882171.044000"
+    },
+    {
+        "client_msg_id": "28e8f027-6863-4d8a-9cce-b58a3e6dcb7d",
+        "type": "message",
+        "text": "I don’t think thats how that works",
+        "user": "U15HRTAHL",
+        "ts": "1546882177.044500"
+    },
+    {
+        "client_msg_id": "1BC05D06-34B3-412D-921F-B6973884B285",
+        "type": "message",
+        "text": "They're instances",
+        "user": "U15J5H60P",
+        "ts": "1546882181.044800"
+    },
+    {
+        "client_msg_id": "91AE6AE0-0E7C-4CE4-B220-28FC4B7392BF",
+        "type": "message",
+        "text": "Have you been cloud certified yet?",
+        "user": "U15J5H60P",
+        "ts": "1546882191.045200"
+    },
+    {
+        "client_msg_id": "B3EAFDE4-FABE-43EB-BB0D-1116B45F37D7",
+        "type": "message",
+        "text": "You might want to do that. Because you pay for the VMs while you use it. You don't deserve them. That's what the cloud is all about.",
+        "user": "U15J5H60P",
+        "ts": "1546882224.046900"
+    },
+    {
+        "client_msg_id": "5963A017-6226-47E8-BFED-4B16FADE5C33",
+        "type": "message",
+        "text": "You still need a license to create an instance though",
+        "user": "U15HY5TG8",
+        "ts": "1546882226.047000"
+    },
+    {
+        "client_msg_id": "d7d94125-42a8-4bd2-9cd3-f64257c45444",
+        "type": "message",
+        "text": "^",
+        "user": "U15HZ01QX",
+        "ts": "1546882231.047400"
+    },
+    {
+        "client_msg_id": "2DFBE217-6C58-475E-9269-A823255C03A9",
+        "type": "message",
+        "text": "... I'm not sure you're right",
+        "user": "U15J5H60P",
+        "ts": "1546882242.048000"
+    },
+    {
+        "client_msg_id": "4231b7d0-d768-4a25-a569-c158f753d52f",
+        "type": "message",
+        "text": "The license is for the service",
+        "user": "U15HZ01QX",
+        "ts": "1546882245.048200"
+    },
+    {
+        "client_msg_id": "c9efcdf5-ba7f-44e3-9761-70401031c78f",
+        "type": "message",
+        "text": "the instance was made before he started",
+        "user": "U15HRTAHL",
+        "ts": "1546882248.048400"
+    },
+    {
+        "client_msg_id": "f8c0b051-9435-44c5-afb7-d28e5b96147e",
+        "type": "message",
+        "text": "all they did was create an IAM record",
+        "user": "U15HRTAHL",
+        "ts": "1546882253.048800",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1546882255.000000"
+        }
+    },
+    {
+        "client_msg_id": "DE97822B-5FF3-48DB-A8EB-2F31D96AA85C",
+        "type": "message",
+        "text": "So like an Enterprise account?",
+        "user": "U15J5H60P",
+        "ts": "1546882256.049100"
+    },
+    {
+        "client_msg_id": "46A0A5A5-E4B6-409E-95D3-6518E07FFA50",
+        "type": "message",
+        "text": "Sure",
+        "user": "U15HY5TG8",
+        "ts": "1546882285.050300"
+    },
+    {
+        "client_msg_id": "5CE00E5A-8D13-4F55-BCBA-0159A76A212F",
+        "type": "message",
+        "text": "An Enterprise account has user accounts which can spin up VMs as needed",
+        "user": "U15J5H60P",
+        "ts": "1546882286.050400"
+    },
+    {
+        "client_msg_id": "1E7CCBC7-0317-4859-9942-93B497FD7053",
+        "type": "message",
+        "text": "I don't think I'm assigned a Windows license",
+        "user": "U15J5H60P",
+        "ts": "1546882303.051000"
+    },
+    {
+        "client_msg_id": "21F6262B-25C2-4118-8FD1-5EFA8F240119",
+        "type": "message",
+        "text": "I don't know how it works",
+        "user": "U15J5H60P",
+        "ts": "1546882309.051500"
+    },
+    {
+        "client_msg_id": "16428379-B233-4D68-A242-FA9BAAF90D74",
+        "type": "message",
+        "text": "So I could be wrong ",
+        "user": "U15J5H60P",
+        "ts": "1546882313.051800"
+    },
+    {
+        "client_msg_id": "F8FA1678-B5E5-425B-8422-C4F7AD533458",
+        "type": "message",
+        "text": "I think youre missing like the first half of setting up your VM",
+        "user": "U15HY5TG8",
+        "ts": "1546882317.052200"
+    },
+    {
+        "client_msg_id": "BC17B71F-6FE2-41C4-B3E1-10B28BAE4293",
+        "type": "message",
+        "text": "Am I?",
+        "user": "U15J5H60P",
+        "ts": "1546882332.052800"
+    },
+    {
+        "client_msg_id": "1A8B413F-5132-4CF9-85E2-83C73CE27DDE",
+        "type": "message",
+        "text": "I've done it at home on a Dev account too",
+        "user": "U15J5H60P",
+        "ts": "1546882338.053200"
+    },
+    {
+        "client_msg_id": "6BF6812C-1757-45DE-A895-AC44A9A5A0F5",
+        "type": "message",
+        "text": "I click and pick the VM I want then it gets spun up till I turn it off",
+        "user": "U15J5H60P",
+        "ts": "1546882355.054200"
+    },
+    {
+        "client_msg_id": "01EFC1F3-14E3-486F-8A60-A3E29188B45A",
+        "type": "message",
+        "text": "Then I pay $.30",
+        "user": "U15J5H60P",
+        "ts": "1546882365.054900"
+    },
+    {
+        "client_msg_id": "76DB5B51-3D0C-449D-BF02-50356C021469",
+        "type": "message",
+        "text": "For me, i downloaded VMware, had to get a license key from IT, then I could choose what type of instance i wanted",
+        "user": "U15HY5TG8",
+        "ts": "1546882368.055200"
+    },
+    {
+        "client_msg_id": "824A0957-6EC3-4C40-8EEF-63BDB11657CE",
+        "type": "message",
+        "text": "Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1546882387.055400"
+    },
+    {
+        "client_msg_id": "423825C5-C1D2-4962-B9D8-57931FCD68D8",
+        "type": "message",
+        "text": "I don't use VMWare",
+        "user": "U15J5H60P",
+        "ts": "1546882394.055800"
+    },
+    {
+        "client_msg_id": "C24C610E-CD6A-4B55-823F-3EEA1D0581B0",
+        "type": "message",
+        "text": "Ooo yours is pay as you go. Thats the part we were missing",
+        "user": "U15HY5TG8",
+        "ts": "1546882404.056400"
+    },
+    {
+        "client_msg_id": "C2F48EF2-2441-467E-A553-0D50837B0B87",
+        "type": "message",
+        "text": "That's what the cloud is all about",
+        "user": "U15J5H60P",
+        "ts": "1546882413.057000"
+    },
+    {
+        "client_msg_id": "E992263F-EF11-4F59-9BB6-D0CA04A0E1F9",
+        "type": "message",
+        "text": "Spin it up as you needbit",
+        "user": "U15J5H60P",
+        "ts": "1546882419.057400"
+    },
+    {
+        "client_msg_id": "040006BC-9B13-4513-B440-574B460EFA17",
+        "type": "message",
+        "text": "Normally using a cloud service requires you to pay for a license for that service especially in a work environment",
+        "user": "U15HZ01QX",
+        "ts": "1546882450.058800"
+    },
+    {
+        "client_msg_id": "C8FD1159-19F3-47FD-9588-274A4623DE84",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1546882484.059700"
+    },
+    {
+        "client_msg_id": "E2D3764B-B5DA-4493-A5EA-0960A9FF95EC",
+        "type": "message",
+        "text": "Now from what you’re saying maybe they pay amazon for a certain availability and not per user. ",
+        "user": "U15HZ01QX",
+        "ts": "1546882509.060000"
+    },
+    {
+        "client_msg_id": "F25FF0F5-9C70-45D4-AC6E-CE8C17590058",
+        "type": "message",
+        "text": "Which is smart",
+        "user": "U15HZ01QX",
+        "ts": "1546882510.060100"
+    },
+    {
+        "client_msg_id": "0A93B47C-1DA7-4DFD-B1D2-0BF8122BF85F",
+        "type": "message",
+        "text": "Remind me not to get the sweet and sour chicken from here again",
+        "user": "U15HY5TG8",
+        "ts": "1546882989.060700"
+    },
+    {
+        "client_msg_id": "2dd0ab94-697e-4429-a14c-4004ce487169",
+        "type": "message",
+        "text": "ok",
+        "user": "U15J5H60P",
+        "ts": "1546883192.060900"
+    },
+    {
+        "client_msg_id": "6bd06bcc-2446-4919-b0d5-a8400451f976",
+        "type": "message",
+        "text": "!remind <@U15HY5TG8> dont get the s&amp;s chicken",
+        "user": "U15J5H60P",
+        "ts": "1546883208.061300"
+    },
+    {
+        "client_msg_id": "651456F7-3803-4AFE-8034-DEB83B50C7DB",
+        "type": "message",
+        "text": "Who are these random girls that show up on the snapchat stories tile section?",
+        "user": "U15HY5TG8",
+        "ts": "1546883421.062400"
+    },
+    {
+        "client_msg_id": "436E248E-A26F-456A-ABFE-2E265B1198F1",
+        "type": "message",
+        "text": "Paid partners",
+        "user": "U15HZ01QX",
+        "ts": "1546883896.062700"
+    },
+    {
+        "client_msg_id": "6b43dcd0-b9ce-4bfa-ab4e-1c92db64eb36",
+        "type": "message",
+        "text": "thots",
+        "user": "U15HRTAHL",
+        "ts": "1546883912.062900"
+    },
+    {
+        "client_msg_id": "FBCBEAA0-7531-4689-87CF-2E422CD148FE",
+        "type": "message",
+        "text": "I think Joe is right",
+        "user": "U15HY5TG8",
+        "ts": "1546884067.063200"
+    },
+    {
+        "client_msg_id": "47690135-1895-4e70-b499-426164c2537e",
+        "type": "message",
+        "text": "why are new cars so fucking ugly",
+        "user": "U15HY5TG8",
+        "ts": "1546885005.063400"
+    },
+    {
+        "client_msg_id": "959B07CD-4A93-40B4-9091-2C1639CF5257",
+        "type": "message",
+        "text": "The new civic is fresh",
+        "user": "U15HZ01QX",
+        "ts": "1546885026.063800"
+    },
+    {
+        "client_msg_id": "ec718d8b-45c5-470c-a3a3-34064ebeaa8b",
+        "type": "message",
+        "text": "that's the exception. The old ones aren't too hard to beat",
+        "user": "U15HY5TG8",
+        "ts": "1546885106.064400"
+    },
+    {
+        "client_msg_id": "74c4477f-0922-45a8-85c4-7ce8b18aae5b",
+        "type": "message",
+        "text": "Dude",
+        "user": "U15J5H60P",
+        "ts": "1546885316.064600"
+    },
+    {
+        "client_msg_id": "687e65f1-bc42-4cc0-a7d0-8ecae0e9660e",
+        "type": "message",
+        "text": "The new Accord is sexy",
+        "user": "U15J5H60P",
+        "ts": "1546885321.064800"
+    },
+    {
+        "client_msg_id": "14019ade-a534-44cc-8d5d-a2461203793b",
+        "type": "message",
+        "text": "The new Audi S\/A7 is sexy",
+        "user": "U15J5H60P",
+        "ts": "1546885338.065100"
+    },
+    {
+        "client_msg_id": "55224e2b-8028-452d-bb91-f32e33d14ba9",
+        "type": "message",
+        "text": "What cars are ugly?",
+        "user": "U15J5H60P",
+        "ts": "1546885344.065300"
+    },
+    {
+        "client_msg_id": "dc5b89fa-8a0c-4f3a-b5d6-2692061d230d",
+        "type": "message",
+        "text": "the newer version of my car for example",
+        "user": "U15HY5TG8",
+        "ts": "1546885576.065600"
+    },
+    {
+        "client_msg_id": "57c4e889-625c-4078-aaec-f068f0f508bd",
+        "type": "message",
+        "text": "hideous",
+        "user": "U15HY5TG8",
+        "ts": "1546885578.065800"
+    },
+    {
+        "client_msg_id": "dde0a724-945a-4457-a1f7-b7ac3bd3fdaa",
+        "type": "message",
+        "text": "The accord fits the civic argument too",
+        "user": "U15HY5TG8",
+        "ts": "1546885601.066100"
+    },
+    {
+        "client_msg_id": "2d47a426-0d69-4b8c-b020-c87d5d8bf648",
+        "type": "message",
+        "text": "The new WRX looks okay. Subarus just aren't my style though. I would never buy one.",
+        "user": "U15J5H60P",
+        "ts": "1546885631.066600"
+    },
+    {
+        "client_msg_id": "40b65ae6-11ba-414a-975f-59c237f93d1b",
+        "type": "message",
+        "text": "I hate the new WRX look",
+        "user": "U15HY5TG8",
+        "ts": "1546885645.066900"
+    },
+    {
+        "client_msg_id": "e8ec5e57-9778-47e7-bdd5-150753387f90",
+        "type": "message",
+        "text": "I hate that there's no like definitive lines between trunk to cab to hood anymore",
+        "user": "U15HY5TG8",
+        "ts": "1546885667.067500"
+    },
+    {
+        "client_msg_id": "c8c3a38d-8c7d-40da-bd8e-39b9fc240585",
+        "type": "message",
+        "text": "They look almost the same",
+        "user": "U15J5H60P",
+        "ts": "1546885670.067700"
+    },
+    {
+        "client_msg_id": "0cadcb21-2485-47eb-a161-2e700ba2823d",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1546885680.068100"
+    },
+    {
+        "client_msg_id": "f9d8ea80-5302-4320-acba-c81f57c9cf89",
+        "type": "message",
+        "text": "everyone's driving around a stretched out VW beetle",
+        "user": "U15HY5TG8",
+        "ts": "1546885682.068200"
+    },
+    {
+        "client_msg_id": "fc66be3d-76fb-4579-82e7-124131145ff9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1546885698.068500"
+    },
+    {
+        "client_msg_id": "35c6d7c8-c052-4cbf-98c8-ef7c5c95053f",
+        "type": "message",
+        "text": "they’re not making those anymore",
+        "user": "U15HRTAHL",
+        "ts": "1546885717.068900"
+    },
+    {
+        "client_msg_id": "203264be-14b3-4dc8-aacc-be052d18263b",
+        "type": "message",
+        "text": "beetle is going to be discontinued",
+        "user": "U15HRTAHL",
+        "ts": "1546885729.069200"
+    },
+    {
+        "client_msg_id": "8c0a0a17-91ac-4687-a1b9-b4460c221344",
+        "type": "message",
+        "text": "Are they not making them?",
+        "user": "U15J5H60P",
+        "ts": "1546885745.069800"
+    },
+    {
+        "client_msg_id": "e0c37924-ee3f-4abb-915a-7c1bea98a0e3",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1546885750.070100"
+    },
+    {
+        "client_msg_id": "B5D913C5-7DDE-4B95-8E03-373251E188E3",
+        "type": "message",
+        "text": "Thats cause every other company has made them their own beetle",
+        "user": "U15HY5TG8",
+        "ts": "1546885753.070300"
+    },
+    {
+        "client_msg_id": "5b3ab480-7642-487d-861d-60e139b21814",
+        "type": "message",
+        "text": "Oh production ends this year",
+        "user": "U15J5H60P",
+        "ts": "1546885763.070600"
+    },
+    {
+        "client_msg_id": "82F884F6-8FBD-4330-8E88-F86758529709",
+        "type": "message",
+        "text": "VW should die anyways",
+        "user": "U15HY5TG8",
+        "ts": "1546885767.070800"
+    },
+    {
+        "client_msg_id": "e01a8aad-b89f-4523-b633-726b1628f302",
+        "type": "message",
+        "text": "There will be a final edition of the beetle",
+        "user": "U15J5H60P",
+        "ts": "1546885778.071100"
+    },
+    {
+        "client_msg_id": "04623244-3F45-49E5-BE13-FBD52F3177A5",
+        "type": "message",
+        "text": "There should be a final edition of VW this year",
+        "user": "U15HY5TG8",
+        "ts": "1546885805.071600"
+    },
+    {
+        "client_msg_id": "453c957e-94a3-4bdf-9d8c-fe79d77c7f0a",
+        "type": "message",
+        "text": "Good one",
+        "user": "U15J5H60P",
+        "ts": "1546885813.071800"
+    },
+    {
+        "client_msg_id": "8DE7DC3F-9F8F-4480-9690-A1D91C38A63C",
+        "type": "message",
+        "text": "If i were making a joke, itd be a good one",
+        "user": "U15HY5TG8",
+        "ts": "1546885830.072200"
+    },
+    {
+        "client_msg_id": "e709c007-89ab-4266-9601-5b203729ea71",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1546885839.072400"
+    },
+    {
+        "client_msg_id": "C4E99914-4BB8-48E6-A2DA-95B1675625A0",
+        "type": "message",
+        "text": "$5",
+        "user": "U15HY5TG8",
+        "ts": "1546886132.072600"
+    },
+    {
+        "client_msg_id": "7b3947ff-a2cd-420b-bc48-356380420962",
+        "type": "message",
+        "text": "trump told government workers who aren’t getting paid to “make adjustments”",
+        "user": "U15HRTAHL",
+        "ts": "1546888322.074800"
+    },
+    {
+        "client_msg_id": "ed283aab-d893-40a7-b165-1824ba0d8b8b",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1546888337.075000"
+    },
+    {
+        "client_msg_id": "ea344dad-fd39-4264-b73a-19952737982b",
+        "type": "message",
+        "text": "people are about to be standing on the front lawn in pitchforks real soon",
+        "user": "U15HY5TG8",
+        "ts": "1546888368.075500"
+    },
+    {
+        "client_msg_id": "e79004ab-98fd-487d-aa9c-27a245e0cf44",
+        "type": "message",
+        "text": "it’s crazy people still support him",
+        "user": "U15HRTAHL",
+        "ts": "1546888397.076100"
+    },
+    {
+        "client_msg_id": "244bf97a-ae45-4653-bc70-c9964c7f63e4",
+        "type": "message",
+        "text": "that scares me",
+        "user": "U15HRTAHL",
+        "ts": "1546888400.076300"
+    },
+    {
+        "client_msg_id": "d8b3ac6c-1960-4092-bee2-6aa677f3dc36",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1546888402.076500"
+    },
+    {
+        "client_msg_id": "1ae17670-375b-4d59-8f68-5017cc83a7e4",
+        "type": "message",
+        "text": "It's the fucking dems that are keeping the gov closed",
+        "user": "U15J5H60P",
+        "ts": "1546888415.076800"
+    },
+    {
+        "client_msg_id": "da83650e-a703-4600-845e-97b39b259986",
+        "type": "message",
+        "text": "They won't just fucking give in and allow it",
+        "user": "U15J5H60P",
+        "ts": "1546888428.077200"
+    },
+    {
+        "client_msg_id": "746822DD-C458-46AA-B478-E0BAC25B4621",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1546888441.077400"
+    },
+    {
+        "client_msg_id": "0c8dfd2f-5c1b-4b9d-af69-b0b4daafa851",
+        "type": "message",
+        "text": "$5.6bn for the wall",
+        "user": "U15J5H60P",
+        "ts": "1546888464.078200"
+    },
+    {
+        "client_msg_id": "83AA7414-39E8-4717-A764-ECBB7159C768",
+        "type": "message",
+        "text": "Do you think there are more rep or dem park rangers?",
+        "user": "U15HY5TG8",
+        "ts": "1546888465.078400"
+    },
+    {
+        "client_msg_id": "1b946c49-fdd6-409b-9f87-278986054c5f",
+        "type": "message",
+        "text": "That's all they want",
+        "user": "U15J5H60P",
+        "ts": "1546888467.078500"
+    },
+    {
+        "client_msg_id": "195d7433-b030-4cc0-9a54-9399dc6c4009",
+        "type": "message",
+        "text": "dem",
+        "user": "U15HRTAHL",
+        "ts": "1546888483.078800"
+    },
+    {
+        "client_msg_id": "b90b4fe0-2dff-4628-aeb8-3fb3156814cb",
+        "type": "message",
+        "text": "Dem",
+        "user": "U15J5H60P",
+        "ts": "1546888488.079000"
+    },
+    {
+        "client_msg_id": "57490C6B-D7C2-45A3-A1F5-DDD80A75EE22",
+        "type": "message",
+        "text": "Ok ok",
+        "user": "U15HY5TG8",
+        "ts": "1546888492.079300"
+    },
+    {
+        "client_msg_id": "80057f31-41f8-43b3-8da2-4f1d49967406",
+        "type": "message",
+        "text": "environment",
+        "user": "U15HRTAHL",
+        "ts": "1546888492.079400"
+    },
+    {
+        "client_msg_id": "51606E8F-13DE-40FC-8CD7-11D8AF5CD68B",
+        "type": "message",
+        "text": "Ahhh yeah",
+        "user": "U15HY5TG8",
+        "ts": "1546888499.079600"
+    },
+    {
+        "client_msg_id": "00d58461-f1da-4428-a82f-fab521facda7",
+        "type": "message",
+        "text": "Getting paid",
+        "user": "U15J5H60P",
+        "ts": "1546888502.079900"
+    },
+    {
+        "client_msg_id": "8782609f-df53-47ca-a58f-d3ed9d9cce00",
+        "type": "message",
+        "text": "Dude",
+        "user": "U15J5H60P",
+        "ts": "1546888514.080400"
+    },
+    {
+        "client_msg_id": "4F0328A0-A536-451D-AAB9-04B0142797A7",
+        "type": "message",
+        "text": "But theres nothing wrong with the environment",
+        "user": "U15HY5TG8",
+        "ts": "1546888516.080700"
+    },
+    {
+        "client_msg_id": "531a3638-73f0-4488-b63c-027030708f0b",
+        "type": "message",
+        "text": "How awesome would that be if the TSA just all quit",
+        "user": "U15J5H60P",
+        "ts": "1546888523.080900"
+    },
+    {
+        "client_msg_id": "e64aedf1-eb72-45a5-bd73-abad5fb4be75",
+        "type": "message",
+        "text": "<https:\/\/www.washingtonpost.com\/news\/wonk\/wp\/2015\/06\/03\/why-your-flight-attendant-is-probably-a-democrat\/?utm_term=.62a594074bf8>",
+        "user": "U15HRTAHL",
+        "ts": "1546888527.081100",
+        "attachments": [
+            {
+                "service_name": "Washington Post",
+                "title": "Chart: The most liberal and conservative jobs in America",
+                "title_link": "https:\/\/www.washingtonpost.com\/news\/wonk\/wp\/2015\/06\/03\/why-your-flight-attendant-is-probably-a-democrat\/?utm_term=.62a594074bf8",
+                "text": "Why your flight attendant is probably a Democrat",
+                "fallback": "Washington Post: Chart: The most liberal and conservative jobs in America",
+                "image_url": "https:\/\/www.washingtonpost.com\/rf\/image_1484w\/2010-2019\/WashingtonPost\/2015\/06\/03\/Interactivity\/Images\/iStock_000042534046_Full1433344451.jpg?t=20170517",
+                "from_url": "https:\/\/www.washingtonpost.com\/news\/wonk\/wp\/2015\/06\/03\/why-your-flight-attendant-is-probably-a-democrat\/?utm_term=.62a594074bf8",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 98133,
+                "id": 1,
+                "original_url": "https:\/\/www.washingtonpost.com\/news\/wonk\/wp\/2015\/06\/03\/why-your-flight-attendant-is-probably-a-democrat\/?utm_term=.62a594074bf8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6998D357-EE1A-4D75-94E8-AF36E935F96B",
+        "type": "message",
+        "text": "Thats be dope",
+        "user": "U15HY5TG8",
+        "ts": "1546888537.081500"
+    },
+    {
+        "client_msg_id": "09B30CED-C456-4083-98ED-9CA3C6719909",
+        "type": "message",
+        "text": "Not that it affects me really",
+        "user": "U15HY5TG8",
+        "ts": "1546888547.081900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FF9QFLKPY",
+                "created": 1546888550,
+                "timestamp": 1546888550,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-07, 1:15 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 32968,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF9QFLKPY\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FF9QFLKPY\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF9QFLKPY-aef88b9f45\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF9QFLKPY-aef88b9f45\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF9QFLKPY-aef88b9f45\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 116,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FF9QFLKPY-aef88b9f45\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 460,
+                "original_h": 148,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FF9QFLKPY\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FF9QFLKPY-9c0080996f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1546888553.082000"
+    },
+    {
+        "client_msg_id": "3EFE3841-CCBD-4791-959E-E184CA7891CA",
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1546888566.082400"
+    },
+    {
+        "client_msg_id": "2459869e-8a9c-4159-8c7b-c140822d3330",
+        "type": "message",
+        "text": "You'd think dentistry would be more liberal",
+        "user": "U15J5H60P",
+        "ts": "1546888640.082700"
+    },
+    {
+        "client_msg_id": "01e79dca-141d-403b-8804-354b05f02f4f",
+        "type": "message",
+        "text": "why",
+        "user": "U15HY5TG8",
+        "ts": "1546888665.083400"
+    },
+    {
+        "client_msg_id": "d5c6813f-d1d4-485e-bd4d-46166291ea75",
+        "type": "message",
+        "text": "Because it's usually included in health insurance packages",
+        "user": "U15J5H60P",
+        "ts": "1546888667.083600"
+    },
+    {
+        "client_msg_id": "8df1f766-3db1-4a8b-87fe-af9eee60bfb3",
+        "type": "message",
+        "text": "they're all their own offices",
+        "user": "U15HY5TG8",
+        "ts": "1546888670.083700"
+    },
+    {
+        "client_msg_id": "5f329552-c2d8-42aa-84b5-c9b39086259e",
+        "type": "message",
+        "text": "that doesn't matter",
+        "user": "U15HY5TG8",
+        "ts": "1546888684.083900"
+    },
+    {
+        "client_msg_id": "cd4bf787-d3cf-40ec-b3dc-a343afb3e7ef",
+        "type": "message",
+        "text": "If more people have insurance, the more customers you'll have",
+        "user": "U15J5H60P",
+        "ts": "1546888696.084400"
+    },
+    {
+        "client_msg_id": "f42af7c8-4f3b-4a4a-8235-eab16c99fe0a",
+        "type": "message",
+        "text": "ehhh",
+        "user": "U15HY5TG8",
+        "ts": "1546888712.085100"
+    },
+    {
+        "client_msg_id": "4c2bb96e-3ecf-4517-b6e7-8ec925161d26",
+        "type": "message",
+        "text": "Most of these jobs, The more moeny you have, the more conservative you are.",
+        "user": "U15J5H60P",
+        "ts": "1546888714.085200"
+    },
+    {
+        "client_msg_id": "74a28ffa-bb3e-46a8-b99c-542b73ef6417",
+        "type": "message",
+        "text": "I like the farmer section",
+        "user": "U15HRTAHL",
+        "ts": "1546888767.086100"
+    },
+    {
+        "client_msg_id": "a9f47b29-ad13-42bb-a863-4232d0a4831e",
+        "type": "message",
+        "text": "So something I learned about from wonderbox is that a lot a lot of their customers are medicaid\/medicare customers which are government customers, so they don't get paid shit for their work",
+        "user": "U15HY5TG8",
+        "ts": "1546888770.086400"
+    },
+    {
+        "client_msg_id": "24b686c8-e648-4de9-9fad-9361c192a4f7",
+        "type": "message",
+        "text": "all republican",
+        "user": "U15HRTAHL",
+        "ts": "1546888770.086500"
+    },
+    {
+        "client_msg_id": "16bb374c-a453-49f3-92a5-9381ea785dbd",
+        "type": "message",
+        "text": "Until they retire",
+        "user": "U15J5H60P",
+        "ts": "1546888775.086800"
+    },
+    {
+        "client_msg_id": "80cfcee9-7a1a-4a24-98ac-b51a96bf19a9",
+        "type": "message",
+        "text": "except retired farmers",
+        "user": "U15HRTAHL",
+        "ts": "1546888776.087000"
+    },
+    {
+        "client_msg_id": "4a356e03-0a43-461a-b109-02615e84ba6e",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1546888777.087300"
+    },
+    {
+        "client_msg_id": "8f4cb96e-7e86-491a-b134-05cb60fcd9af",
+        "type": "message",
+        "text": "Fucking asses",
+        "user": "U15J5H60P",
+        "ts": "1546888778.087400"
+    },
+    {
+        "client_msg_id": "1c550b67-e894-4709-924e-88d34b18e6dc",
+        "type": "message",
+        "text": "I want one of these infographics for money",
+        "user": "U15J5H60P",
+        "ts": "1546888811.087800"
+    },
+    {
+        "client_msg_id": "64ef2463-65bc-4dd7-a78e-7cd0542f49ac",
+        "type": "message",
+        "text": "When do you make enough money where being conservative makes more sense for you",
+        "user": "U15J5H60P",
+        "ts": "1546888824.088100"
+    },
+    {
+        "client_msg_id": "d92415fa-3749-48b0-840a-5ef9d972b0b8",
+        "type": "message",
+        "text": "lol my mom cracks me up when it comes to that argument",
+        "user": "U15HY5TG8",
+        "ts": "1546888858.088400"
+    },
+    {
+        "client_msg_id": "a4a0d7b5-eac9-4099-b53c-e029812d39ed",
+        "type": "message",
+        "text": "she works with a bunch of republicans at childrens and she says her coworkers are like \"I'm voting down ticket for everything, and yes for a school referendum for creating a new school\" my mom- \"then that's not downticket, and you're a democrat\"",
+        "user": "U15HY5TG8",
+        "ts": "1546888960.090100"
+    },
+    {
+        "client_msg_id": "3d41ac00-522a-4d44-8217-0db01152c901",
+        "type": "message",
+        "text": "and she stopped buying those people's children's girl scout cookies and stuff lmao",
+        "user": "U15HY5TG8",
+        "ts": "1546888985.090600"
+    },
+    {
+        "client_msg_id": "fea47543-2707-4cf4-8c4e-299e8913e0cd",
+        "type": "message",
+        "text": "What's down ticket?",
+        "user": "U15J5H60P",
+        "ts": "1546889014.090800"
+    },
+    {
+        "client_msg_id": "43d92a6e-1c21-4ffa-87a7-93673330df9a",
+        "type": "message",
+        "text": "republican",
+        "user": "U15HY5TG8",
+        "ts": "1546889021.091000"
+    },
+    {
+        "client_msg_id": "5f2fac24-71a3-4357-9bcd-5d51798a389a",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1546889035.091400"
+    },
+    {
+        "client_msg_id": "b58cc428-236e-47fc-ad00-bf7a5e1152b5",
+        "type": "message",
+        "text": "lol \"I'm voting against myself and for myself simultaneously\"",
+        "user": "U15J5H60P",
+        "ts": "1546889048.092000"
+    },
+    {
+        "client_msg_id": "26a62ea4-24dc-4f90-a35a-d3770e7111f6",
+        "type": "message",
+        "text": "I want a new school, but I don't want to pay for it.",
+        "user": "U15J5H60P",
+        "ts": "1546889057.092500"
+    },
+    {
+        "client_msg_id": "6300a090-ed73-42c2-a366-352d473113db",
+        "type": "message",
+        "text": "so essentially, her coworkers will say they're voting for all republican but then want the rest of the city to pay for a new school for her kids",
+        "user": "U15HY5TG8",
+        "ts": "1546889059.092600"
+    },
+    {
+        "client_msg_id": "9aa11a9a-cbe0-4ea0-98f0-0f1a39775507",
+        "type": "message",
+        "text": "yup exactly lol",
+        "user": "U15HY5TG8",
+        "ts": "1546889063.092800"
+    },
+    {
+        "client_msg_id": "a57253cb-0db7-4469-b193-3bafbac84014",
+        "type": "message",
+        "text": "Fucking unbelievable.",
+        "user": "U15J5H60P",
+        "ts": "1546889071.093000"
+    },
+    {
+        "client_msg_id": "5c155028-2a88-4527-8c00-3f8b60182b3c",
+        "type": "message",
+        "text": "yeah lol",
+        "user": "U15HY5TG8",
+        "ts": "1546889075.093200"
+    },
+    {
+        "client_msg_id": "892a3b93-c3e9-4b3f-83da-6356299aab60",
+        "type": "message",
+        "text": "my mom goes off on some people",
+        "user": "U15HY5TG8",
+        "ts": "1546889088.093500"
+    },
+    {
+        "client_msg_id": "a1d86862-6b1a-44a8-b44d-4bb43dc2fbd6",
+        "type": "message",
+        "text": "crazy mexican lady lol",
+        "user": "U15HY5TG8",
+        "ts": "1546889098.093700"
+    },
+    {
+        "client_msg_id": "d5bc5c60-c4b8-47ca-aa92-3ea75ef01e87",
+        "type": "message",
+        "text": "<https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/Earn%20vs%20Vote.png>",
+        "user": "U15HRTAHL",
+        "ts": "1546889175.093900",
+        "attachments": [
+            {
+                "fallback": "700x500px image",
+                "image_url": "https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/Earn%20vs%20Vote.png",
+                "image_width": 700,
+                "image_height": 500,
+                "image_bytes": 89758,
+                "from_url": "https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/Earn%20vs%20Vote.png",
+                "id": 1,
+                "original_url": "https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/Earn%20vs%20Vote.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a686ca0a-c496-49bf-88fc-05fd9df57925",
+        "type": "message",
+        "text": "<https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/1men%20women%20by%20income.png>",
+        "user": "U15HRTAHL",
+        "ts": "1546889205.094200",
+        "attachments": [
+            {
+                "fallback": "625x536px image",
+                "image_url": "https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/1men%20women%20by%20income.png",
+                "image_width": 625,
+                "image_height": 536,
+                "image_bytes": 173389,
+                "from_url": "https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/1men%20women%20by%20income.png",
+                "id": 1,
+                "original_url": "https:\/\/cdn.theatlantic.com\/static\/mt\/assets\/business\/1men%20women%20by%20income.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8738e04b-d12f-4c84-bcf4-f551bd3350ef",
+        "type": "message",
+        "text": "so we should all be republican by those charts",
+        "user": "U15HY5TG8",
+        "ts": "1546889252.094700"
+    },
+    {
+        "client_msg_id": "c02d3e9d-3e34-4768-aa88-673690532a4c",
+        "type": "message",
+        "text": "yeah but we’re not dumb",
+        "user": "U15HRTAHL",
+        "ts": "1546889279.095100"
+    },
+    {
+        "client_msg_id": "597bf59d-fa82-4c5d-9d94-8f111b892147",
+        "type": "message",
+        "text": "agreed",
+        "user": "U15HY5TG8",
+        "ts": "1546889306.095300"
+    },
+    {
+        "client_msg_id": "cbdda1fd-4447-445b-ac94-16daec956fb2",
+        "type": "message",
+        "text": "and I think we all sorta grew up lower middle class?",
+        "user": "U15HY5TG8",
+        "ts": "1546889334.095900"
+    },
+    {
+        "client_msg_id": "4eb709bf-620b-42ed-af42-59fe6516ddec",
+        "type": "message",
+        "text": "Have you guys seen Fahrenheit 11\/9?",
+        "user": "U15HSHSS2",
+        "ts": "1546889430.096400"
+    },
+    {
+        "client_msg_id": "066e8a04-f170-4804-abf5-26b5d4011263",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1546889437.096600"
+    },
+    {
+        "client_msg_id": "7c3349ab-d846-4595-b799-3b620cd6edda",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HY5TG8",
+        "ts": "1546889444.096800"
+    },
+    {
+        "client_msg_id": "88b36762-b712-4ef0-bdf6-e7bab9e4943a",
+        "type": "message",
+        "text": "is that a paraody?",
+        "user": "U15HY5TG8",
+        "ts": "1546889447.097000"
+    },
+    {
+        "client_msg_id": "81aa76a1-4b59-4d24-923e-bf65ae923401",
+        "type": "message",
+        "text": "No, it's a documentary",
+        "user": "U15HSHSS2",
+        "ts": "1546889476.097300"
+    },
+    {
+        "client_msg_id": "880769e9-9afe-48e5-bf0f-60732cf653bc",
+        "type": "message",
+        "text": "Michael Moore's \"Fahrenheit 11\/9\" is a provocative and comedic look at the times in which we live. It will explore the two most important .",
+        "user": "U15HY5TG8",
+        "ts": "1546889505.097500"
+    },
+    {
+        "client_msg_id": "061d5091-ecb1-4821-aa35-92ab8dba211e",
+        "type": "message",
+        "text": "but still sort of like a \"lol we're fucked up as a society\" it seems?",
+        "user": "U15HY5TG8",
+        "ts": "1546889535.098200"
+    },
+    {
+        "client_msg_id": "9965d4c7-601d-4f73-a84a-9b82ea1d86e3",
+        "type": "message",
+        "text": "Yeah, the theme of it is how the fuck did we get to a point where Donald Trump is our president",
+        "user": "U15HSHSS2",
+        "ts": "1546889672.098900"
+    },
+    {
+        "client_msg_id": "5d89b007-89fd-4866-af68-e4b3f440783c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=WRQv9xMQ3E0>",
+        "user": "U15HSHSS2",
+        "ts": "1546889677.099100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Michael Moore’s FAHRENHEIT 11\/9 : OFFICIAL TRAILER - In Theaters 9\/21",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=WRQv9xMQ3E0",
+                "author_name": "mmflint",
+                "author_link": "https:\/\/www.youtube.com\/user\/mmflint",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/WRQv9xMQ3E0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Michael Moore’s FAHRENHEIT 11\/9 : OFFICIAL TRAILER - In Theaters 9\/21",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/WRQv9xMQ3E0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=WRQv9xMQ3E0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=WRQv9xMQ3E0"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ef185e63-b7fc-486e-8157-30a04043ac8b",
+        "type": "message",
+        "text": "I watched it the other day, it's pretty good",
+        "user": "U15HSHSS2",
+        "ts": "1546889685.099500"
+    },
+    {
+        "client_msg_id": "e8f81f0c-44b6-477b-9b1c-889d9ef27930",
+        "type": "message",
+        "text": "seems terrifying",
+        "user": "U15HRTAHL",
+        "ts": "1546889825.101100"
+    },
+    {
+        "client_msg_id": "a122249d-280c-44be-83f6-f586a7f8657d",
+        "type": "message",
+        "text": "The intro is great lol goes over footage from election night and how Hillary fans were straight up oblivious to the fact that they even had a possibility of losing",
+        "user": "U15HSHSS2",
+        "ts": "1546889853.101400"
+    },
+    {
+        "client_msg_id": "B466AF91-64AC-4A1C-ADBD-35B1FED21FCF",
+        "type": "message",
+        "text": "I still remember that night",
+        "user": "U15HY5TG8",
+        "ts": "1546889919.103100"
+    },
+    {
+        "client_msg_id": "b98dda42-9f2a-406f-b800-054fa20839d2",
+        "type": "message",
+        "text": "I was in that group",
+        "user": "U15HRTAHL",
+        "ts": "1546889920.103200"
+    },
+    {
+        "client_msg_id": "14f5b87d-3a8d-4afa-827c-ccfc80349d73",
+        "type": "message",
+        "text": "Huge venue constantly blasting \"THIS IS MY FIGHT SONG!\" everyone holding hands singing together screaming with joy about how America has finally elected a woman president. The venue had glass ceiling, and everyone is like ITS TIME TO BREAK THAT CEILING!",
+        "user": "U15HSHSS2",
+        "ts": "1546889936.104200"
+    },
+    {
+        "client_msg_id": "53bf3c3d-47fc-4f05-a701-b416d8d00e13",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15HSHSS2",
+        "ts": "1546889940.104500"
+    },
+    {
+        "client_msg_id": "336E987A-E4B4-4F53-8C65-E400B524A7E1",
+        "type": "message",
+        "text": "Nick and I were taunting joe like \"lolol trump is gonna win!\" Not actually thinking he would and then i woke up and was like \"lol we're fucked\"",
+        "user": "U15HY5TG8",
+        "ts": "1546889959.105200"
+    },
+    {
+        "client_msg_id": "b4669a5c-f1b7-472a-b623-906b120943b8",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1546890089.105600"
+    },
+    {
+        "client_msg_id": "2373b974-1779-46f9-8962-29a9f5709466",
+        "type": "message",
+        "text": "I couldn't believe it",
+        "user": "U15J5H60P",
+        "ts": "1546890093.105800"
+    },
+    {
+        "client_msg_id": "9D0A188C-44D0-43C1-871C-D6E621CB1677",
+        "type": "message",
+        "text": "You know there’s a case it was for the best",
+        "user": "U15HZ01QX",
+        "ts": "1546890123.106100"
+    },
+    {
+        "client_msg_id": "4ed6b4d6-befb-46d3-b8be-ca805685fa4a",
+        "type": "message",
+        "text": "Yeah, HC was senile",
+        "user": "U15J5H60P",
+        "ts": "1546890140.106900"
+    },
+    {
+        "client_msg_id": "d10e07b8-35d4-4a4d-a32a-1e628c3735f6",
+        "type": "message",
+        "text": "Would've ruined the US",
+        "user": "U15J5H60P",
+        "ts": "1546890146.107300"
+    },
+    {
+        "client_msg_id": "17EC736D-4702-4141-A53C-30EB7391952A",
+        "type": "message",
+        "text": "Hillary wins and republicans would literally sweep every election last november",
+        "user": "U15HZ01QX",
+        "ts": "1546890147.107400"
+    },
+    {
+        "client_msg_id": "0f99ea1e-08be-44a1-9842-faafb362b12d",
+        "type": "message",
+        "text": "TRU",
+        "user": "U15J5H60P",
+        "ts": "1546890152.107800"
+    },
+    {
+        "client_msg_id": "822c0c6f-37c8-4c02-be49-9fcd8c62b737",
+        "type": "message",
+        "text": "Good point",
+        "user": "U15J5H60P",
+        "ts": "1546890154.108000"
+    },
+    {
+        "client_msg_id": "87FBA537-6726-482A-85EA-01F629AA26B1",
+        "type": "message",
+        "text": "They would’ve gerrymandered every state and we’d literally never win again lol",
+        "user": "U15HZ01QX",
+        "ts": "1546890172.108600"
+    },
+    {
+        "client_msg_id": "44DF3551-5555-49F2-B920-484456B99D48",
+        "type": "message",
+        "text": "We lost some Supreme Court spots which is tough",
+        "user": "U15HZ01QX",
+        "ts": "1546890190.109100"
+    },
+    {
+        "client_msg_id": "5D9AAA43-F00E-403B-A801-B3537261FFF9",
+        "type": "message",
+        "text": "But you know, silver linings",
+        "user": "U15HZ01QX",
+        "ts": "1546890208.109300"
+    },
+    {
+        "client_msg_id": "a7077cf0-113c-4045-b9ea-5273dc5d06d6",
+        "type": "message",
+        "text": "ruth is about to croak soon",
+        "user": "U15HRTAHL",
+        "ts": "1546890568.109500"
+    },
+    {
+        "client_msg_id": "61298ad2-2907-42c8-9d01-c45cb9f91701",
+        "type": "message",
+        "text": "Thats an awful thing to say",
+        "user": "U15HZ01QX",
+        "ts": "1546890589.109800"
+    },
+    {
+        "client_msg_id": "63631c3a-8f91-4db9-a38b-8b9a6b77e082",
+        "type": "message",
+        "text": "true doe",
+        "user": "U15HSHSS2",
+        "ts": "1546890709.110500"
+    },
+    {
+        "client_msg_id": "677D14F0-F80E-4351-84B5-E9ADD4340167",
+        "type": "message",
+        "text": "She needs to at least survive until nancy takes the chair",
+        "user": "U15HY5TG8",
+        "ts": "1546890710.110700"
+    },
+    {
+        "client_msg_id": "a4ce2697-b562-4f45-9f2c-f221e5bf510c",
+        "type": "message",
+        "text": "There's a part in Fahrenheit 11\/9 about Flint Michigan too",
+        "user": "U15HSHSS2",
+        "ts": "1546891153.111300"
+    },
+    {
+        "client_msg_id": "7f6e9720-24d7-4c1d-8451-1bf39e952d23",
+        "type": "message",
+        "text": "Man I didn't realize how fucked that place was",
+        "user": "U15HSHSS2",
+        "ts": "1546891168.111600"
+    },
+    {
+        "client_msg_id": "a1a38704-8d9d-491c-813c-cfe08ee54f44",
+        "type": "message",
+        "text": "Yeah it's fucked",
+        "user": "U15HY5TG8",
+        "ts": "1546894800.111800"
+    },
+    {
+        "client_msg_id": "fe7d2b87-d80d-42b4-aa9e-74030776f13c",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15HRTAHL",
+        "ts": "1546900721.112100"
+    },
+    {
+        "client_msg_id": "73046EB1-D3D2-460F-B9ED-63A3BECEB353",
+        "type": "message",
+        "text": "There is a disgusting amount of people at the gym",
+        "user": "U15HY5TG8",
+        "ts": "1546901888.112600"
+    },
+    {
+        "client_msg_id": "CEA4BAD5-9775-4779-B32B-93673F080741",
+        "type": "message",
+        "text": "I forgot its the new year",
+        "user": "U15HY5TG8",
+        "ts": "1546901896.112900"
+    },
+    {
+        "client_msg_id": "71951DD3-43FC-4FE9-86FE-CF85C0FCCC5A",
+        "type": "message",
+        "text": "Yup. Pretty annoying",
+        "user": "U15J5H60P",
+        "ts": "1546901926.113200"
+    },
+    {
+        "client_msg_id": "C00200E5-8B66-4E4C-94DA-17B5F39630BA",
+        "type": "message",
+        "text": "<@U15HRTAHL> ",
+        "user": "U15HSHSS2",
+        "ts": "1546903194.113400"
+    },
+    {
+        "client_msg_id": "41DAD8BF-A69F-4D9A-B3F1-9C27464EFA4A",
+        "type": "message",
+        "text": "Fucking bucks game",
+        "user": "U15HY5TG8",
+        "ts": "1546904141.113800"
+    },
+    {
+        "client_msg_id": "99E9B054-631A-4BAF-95E5-738FD1100789",
+        "type": "message",
+        "text": "It’s not for 2 hours lol",
+        "user": "U15HZ01QX",
+        "ts": "1546904282.114000"
+    },
+    {
+        "client_msg_id": "F9485BD6-D076-4683-8188-BC1CB5A8D1E7",
+        "type": "message",
+        "text": "Alright alright nvm. Someone decided to crash into a pole at the same intesecrion",
+        "user": "U15HY5TG8",
+        "ts": "1546904412.114900"
+    },
+    {
+        "client_msg_id": "3BFA2DEE-3592-4C69-9FCC-FA6614EC7196",
+        "type": "message",
+        "text": "Kid I graduated with murdered Lily’s old co-worker",
+        "user": "U15HSHSS2",
+        "ts": "1546904649.115700"
+    },
+    {
+        "client_msg_id": "2C711591-0414-4E51-BFF5-B9A8C4BA5D12",
+        "type": "message",
+        "text": "Read as, \"My best friend murdered Lilly's coworker",
+        "user": "U15J5H60P",
+        "ts": "1546904696.116300"
+    },
+    {
+        "client_msg_id": "0E2528E0-F902-4F7A-B5B4-2BFC3C53FBEF",
+        "type": "message",
+        "text": "\"",
+        "user": "U15J5H60P",
+        "ts": "1546904698.116400"
+    },
+    {
+        "client_msg_id": "92FAB734-698B-404C-82A0-CBD77709288E",
+        "type": "message",
+        "text": "What was the last name",
+        "user": "U15J5H60P",
+        "ts": "1546904710.116700"
+    },
+    {
+        "client_msg_id": "85395DBF-3B1D-46B1-A1C5-AD640C9E62E0",
+        "type": "message",
+        "text": "What was the first name lol",
+        "user": "U15HZ01QX",
+        "ts": "1546904724.117100"
+    },
+    {
+        "client_msg_id": "CBB93105-E984-4EF4-8924-29248DBE49DC",
+        "type": "message",
+        "text": "Joanne",
+        "user": "U15J5H60P",
+        "ts": "1546904733.117300"
+    },
+    {
+        "client_msg_id": "6BF2BBB7-26E7-427A-B133-4AA7159996F3",
+        "type": "message",
+        "text": "Smdh <@U15J5H60P> ",
+        "user": "U15HY5TG8",
+        "ts": "1546904746.117500"
+    },
+    {
+        "client_msg_id": "854FAAF9-E097-4461-BA86-0DD197B75F33",
+        "type": "message",
+        "text": "Not her name",
+        "user": "U15HY5TG8",
+        "ts": "1546904750.117800"
+    },
+    {
+        "client_msg_id": "758FB1C5-5F4F-40B0-960C-76D5E66614F3",
+        "type": "message",
+        "text": "Oh lol",
+        "user": "U15J5H60P",
+        "ts": "1546904754.118000"
+    },
+    {
+        "client_msg_id": "E02EC4A2-53FD-4BCA-9DAD-A80D51967CA4",
+        "type": "message",
+        "text": "<https:\/\/fox6now.com\/2019\/01\/07\/26-year-old-pewaukee-man-charged-in-death-of-joanne-curley\/>",
+        "user": "U15HSHSS2",
+        "ts": "1546904828.118700",
+        "attachments": [
+            {
+                "service_name": "FOX6Now.com",
+                "service_url": "http:\/\/fox6now.com",
+                "title": "Prosecutors: Body of Pewaukee woman found in plastic bag in basement; man charged",
+                "title_link": "https:\/\/fox6now.com\/2019\/01\/07\/26-year-old-pewaukee-man-charged-in-death-of-joanne-curley\/",
+                "author_name": "Derica Williams",
+                "author_link": "https:\/\/fox6now.com\/author\/dericawilliams\/",
+                "thumb_url": "https:\/\/localtvwiti.files.wordpress.com\/2019\/01\/pew3-1.jpg?quality=85&strip=all&fit=200%2C150",
+                "thumb_width": 199,
+                "thumb_height": 112,
+                "text": "Joanne Curley\nPEWAUKEE -- A 26-year-old Pewaukee man is charged in connection with the death of Joanne Curley, 56.&nbsp; The accused is Adrian Thomas. Prosecutors said Thomas killed Curley, who was a neighbor to Thomas' mother and stepfather, and then drove around in her vehicle, used her credit\/debit cards and essentially lived in her condo.\nPolice have been investigating the suspicious death at a residence&nbsp;near Meadowcreek Drive and Lexington Street since Thursday night, Jan. 3 -- when Curley's body was found.\nThomas is charged with the following:\nFirst degree intentional homicide\nHiding a corpse\nOperating a vehicle without owner's consent\nIdentity theft (three counts)\nAccording to a criminal complaint,&nbsp;police responded to the condo building for a well-being check, after receiving a call from the owner of the building, who said she went to check on Curley as no one had seen or heard from her since Dec. 31. She said Curley was staying at the residence with two dogs and a cat, and when she responded, there were \"numerous items out of place.\" In the basement, she found \"a large garbage bag that was tied, located under an overturned mattress.\" She got a neighbor and when they lifted the mattress, they believed there might be a body in the bag. Officers located Curley's body in the plastic bag. An autopsy revealed she died as a result of strangulation.\nAdrian Thomas\nDuring a search of the residence, officers found medications with the name: Adrian Thomas, along with a wallet believed owned by Thomas -- containing Curley's credit cards and a Walmart receipt. Investigators responded to Walmart and took a look at surveillance video, which showed Thomas making a purchase with Curley's card on the morning of Jan. 1. He was caught on camera getting into Curley's vehicle after purchasing \"two bottles of bleach, Playtex gloves, black Hefty 30-gallon bags\" and other miscellaneous items that were found in Curley's condo.\nThe complaint said Thomas was also caught on camera at Home Depot on Bluemound Road in Waukesha, where he purchased items with Curley's card, including gloves, a sledge hammer, a tarp, a Tyvek suit, a razor knife and a bucket. The bucket and sledge hammer were found at Curley's condo -- and the other items were found near her body.\nAccording to the complaint, Curley was found wearing her work uniform, and her cellphone was found in a dresser, on vibrate. The last call was made on Dec. 31.\nInvestigators spoke with a man who said he had contact with Thomas between Jan. 1 and Jan. 3. He said on Jan. 1, Thomas wanted to meet up, and came to his home driving Curley's vehicle -- telling the man he was dog sitting for a neighbor who was in Florida. They hung out before Thomas drove the man home. The man noted that Thomas \"had cash on that date, which was unusual, and he was not aware of (Thomas) having any type of employment.\"\nAdrian Thomas\nThey met up again the next day, on Jan. 2. The man said Thomas picked him up from work, and Thomas was drunk. They drove toward the condo building on Meadowcreek Drive in Pewaukee, which is where Thomas indicated he was dog sitting. He gave the man a tour of the place, and Thomas indicated \"this is where they let him stay when he was having problems with his stepfather.\" They ate leftover pizza and played PlayStation 4 until they passed out. They next afternoon they \"went to a mall and ate at Red Robin.\" The man said he worked on Jan. 3, and that night, Thomas picked him up again. They drove to the residence on Morris Street where Curley's vehicle was eventually found by the landlord, and hung out with a friend there. The next morning, the man said he saw a marked squad near Curley's vehicle, and believed Thomas might not have permission to be driving it. Thomas said he \"had no idea why the cops were behind his car.\" They walked back to the condo building on Meadowcreek Drive and saw \"a bunch of squad cars in the driveway.\" Thomas \"insisted he didn't know\" what was going on, but the friend said \"Thomas became super nervous\" and they walked to the friend's house for the night. On Jan. 5, the man said he had to go to work and wanted his iPad and PS4 back, and Thomas left.&nbsp; The man thought Thomas was going to retrieve his items. That afternoon, police contacted the man and said Thomas was in custody \"for killing someone.\"\nThe complaint indicates investigators spoke with a woman Thomas had dated, who said they had contact on Jan. 1, when Thomas came to her home in Curley's vehicle. She said they drove to a condo building -- where she stayed overnight -- drinking, smoking marijuana and ordering pizza and pasta with Curley's card. Concerned friends ended up showing up to pick her up, and she said Thomas tried to block her exit from the condo.\nJoanne Curley\nPolice made contact with Thomas on the afternoon of Jan. 4, as he walked on Morris Street (where Curley's vehicle was located). He was taken to the police department, and indicated \"he left his mom and stepdad's residence on Meadowcreek at the beginning of December, and since then, he had been flopping around from house to house.\" Thomas was asked about the woman who lives next to his mother and stepfather's condo, and he said he would see her let her dogs out and smoke outside, but said he never spoke to her and he had never been inside her condo. He said he didn't know what kind of car she drove. He then changed his statement and said sometimes he did chat with the woman. He changed his statement further, indicating nine months ago, he shared with the woman that he didn't like living with his mom because she knew he didn't like his stepfather. He said he slept on the couch and hadn't been back to the condo since that time six months ago. He changed his statement again, saying that Curley let him stay in her condo for two nights around Christmas, but said he never stayed there after that. He denied ordering pizza, driving the victim's vehicle and using her cards. When shown surveillance video of him at Walmart, the complaint said Thomas was asked to tell the whole story, and said \"you already seem to know it.\" The complaint noted there was a bite mark on Thomas, along with an abrasion on his cheek.\nThe complaint said investigators found a search on Thomas' phone for Curley's workplace on Dec. 31. She worked until nearly midnight that night.\nVillage of Pewaukee police presence in neighborhood\nThomas made his initial appearance in court on Jan. 7. His past history was brought up, as Thomas has a pending case in Arizona -- with a warrant out on a domestic abuse related charge, with intent to injure. A witness said Thomas claimed he tried to kill his ex-girlfriend. A hearing was set for Jan. 10 -- and cash bond was set at $1 million.\n\t\t\n\t\t\t43.079134\n\t\t\t-88.233073",
+                "fallback": "FOX6Now.com Link: Prosecutors: Body of Pewaukee woman found in plastic bag in basement; man&nbsp;charged",
+                "from_url": "https:\/\/fox6now.com\/2019\/01\/07\/26-year-old-pewaukee-man-charged-in-death-of-joanne-curley\/",
+                "service_icon": "https:\/\/secure.gravatar.com\/blavatar\/6c174f1af90d3de8afc154eb8bcd6c4a?s=114",
+                "id": 1,
+                "original_url": "https:\/\/fox6now.com\/2019\/01\/07\/26-year-old-pewaukee-man-charged-in-death-of-joanne-curley\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5E06C9E-2405-4060-9B65-66EA07A2EE4D",
+        "type": "message",
+        "text": "That link is better",
+        "user": "U15HSHSS2",
+        "ts": "1546904836.119100"
+    },
+    {
+        "client_msg_id": "AE42C93E-7F0A-4347-9CD1-DF7130A729F8",
+        "type": "message",
+        "text": "He looks like a bright young soul",
+        "user": "U15HY5TG8",
+        "ts": "1546904887.120500"
+    },
+    {
+        "type": "message",
+        "text": "Worst criminal in the world",
+        "files": [
+            {
+                "id": "FFA1BJU14",
+                "created": 1546904885,
+                "timestamp": 1546904885,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 151261,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFA1BJU14\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFA1BJU14\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 294,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 392,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 587,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 653,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 783,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFA1BJU14-c01b221e6f\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 835,
+                "image_exif_rotation": 1,
+                "original_w": 1233,
+                "original_h": 1006,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FFA1BJU14\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFA1BJU14-ebe63a912f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1546904889.120600"
+    },
+    {
+        "client_msg_id": "FA077C77-BC1A-4395-B2E3-C287E6E5B326",
+        "type": "message",
+        "text": "It was her name ya ass",
+        "user": "U15J5H60P",
+        "ts": "1546904895.121100"
+    },
+    {
+        "client_msg_id": "F3322D26-C5B1-4952-9DCC-34FBB990A9F9",
+        "type": "message",
+        "text": "Jesus",
+        "user": "U15J5H60P",
+        "ts": "1546904925.121700"
+    },
+    {
+        "client_msg_id": "F6B3CA10-A644-4BD4-AE9E-B60379DA435D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1546904926.121900"
+    },
+    {
+        "client_msg_id": "BE14DE41-FFE7-4182-9D27-108FE76BC340",
+        "type": "message",
+        "text": "Our friend who’s a cop found out a few days ago, and asked us to guess the most likely candidate from our grade that would kill someone, Adrian was our second guess lol",
+        "user": "U15HSHSS2",
+        "ts": "1546904936.122300"
+    },
+    {
+        "client_msg_id": "37DA1A60-7BDA-4B24-A2B4-BFEC266C6F2E",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1546904947.122900"
+    },
+    {
+        "client_msg_id": "A4FAAB70-584D-447B-B2D2-D3BAF91503D2",
+        "type": "message",
+        "text": "He wore a trench coat to school every day with shades",
+        "user": "U15HSHSS2",
+        "ts": "1546904957.123400"
+    },
+    {
+        "client_msg_id": "00789AC1-5B32-4CF4-877C-F1975FFEB783",
+        "type": "message",
+        "text": "<@U15J5H60P> nvm",
+        "user": "U15HY5TG8",
+        "ts": "1546904959.123600"
+    },
+    {
+        "client_msg_id": "F91A1513-703D-49A6-885A-DB03516D4C98",
+        "type": "message",
+        "text": "Always talked about cleansing the school",
+        "user": "U15HSHSS2",
+        "ts": "1546904974.124200"
+    },
+    {
+        "client_msg_id": "7F6479D5-AF76-42F1-A966-7564EE695BAA",
+        "type": "message",
+        "text": "When joe said it was lilly's coworker, i totally pictured it being a younger girl getting murdered",
+        "user": "U15HY5TG8",
+        "ts": "1546905003.125200"
+    },
+    {
+        "client_msg_id": "51BA883F-4807-48B8-B988-821CA3282A18",
+        "type": "message",
+        "text": "Me too lol",
+        "user": "U15HZ01QX",
+        "ts": "1546905011.125400"
+    },
+    {
+        "client_msg_id": "F75BED9C-1439-49E3-96C3-4A2B3F1253E6",
+        "type": "message",
+        "text": "Nah",
+        "user": "U15HSHSS2",
+        "ts": "1546905036.126300"
+    },
+    {
+        "client_msg_id": "6AF8C71C-FEF2-4586-848B-F917B6FDD390",
+        "type": "message",
+        "text": "So I’m gathering the guy was flopping around. Decided to stay at his neighbors house. Killed her for kicks?",
+        "user": "U15HZ01QX",
+        "ts": "1546905042.126600"
+    },
+    {
+        "client_msg_id": "F38CE80A-4423-49BF-B0A0-504910A40AAA",
+        "type": "message",
+        "text": "And then just lived with her money for a few weeks",
+        "user": "U15HZ01QX",
+        "ts": "1546905058.127300"
+    },
+    {
+        "client_msg_id": "3BC357B6-F7D4-4EB6-8EA9-FD699B02E89A",
+        "type": "message",
+        "text": "Seems like it",
+        "user": "U15HSHSS2",
+        "ts": "1546905059.127400"
+    },
+    {
+        "client_msg_id": "D7A41366-5DC7-4EBB-8744-978E2E833220",
+        "type": "message",
+        "text": "Had parties every night while she was dead in the basement",
+        "user": "U15HSHSS2",
+        "ts": "1546905082.128300"
+    },
+    {
+        "client_msg_id": "1786326C-C89B-4551-BD4B-F9E714F4F409",
+        "type": "message",
+        "text": "And you went?",
+        "user": "U15HZ01QX",
+        "ts": "1546905094.128500"
+    },
+    {
+        "client_msg_id": "286AAD75-8509-4EAE-8C7C-A2812D46C3C6",
+        "type": "message",
+        "text": "Couldn’t turn down them video games",
+        "user": "U15HSHSS2",
+        "ts": "1546905115.128900"
+    },
+    {
+        "client_msg_id": "a8495fd3-e07e-4f2b-8fa4-e6d9da716351",
+        "type": "message",
+        "text": "Yeah that's what I was going to ask you about",
+        "user": "U15HRTAHL",
+        "ts": "1546905151.129600"
+    },
+    {
+        "client_msg_id": "33026373-aa63-416c-843b-82e9c838b66c",
+        "type": "message",
+        "text": "See if you knew him",
+        "user": "U15HRTAHL",
+        "ts": "1546905154.129900"
+    },
+    {
+        "client_msg_id": "EA8B33FF-DF16-47DB-8500-BB09A9E55F4C",
+        "type": "message",
+        "text": "Mmmmm well stay out of slack until you get that cleared up",
+        "user": "U15HZ01QX",
+        "ts": "1546905162.130400"
+    },
+    {
+        "client_msg_id": "34e21e53-ce04-4209-ab3b-fcc9102dcb9c",
+        "type": "message",
+        "text": "Apparently he also went to my high school too ",
+        "user": "U15HRTAHL",
+        "ts": "1546905171.131000"
+    },
+    {
+        "client_msg_id": "8FB787F1-6B94-4240-8A37-F34A9BBF53C2",
+        "type": "message",
+        "text": "Can’t be associated with lady killer friends",
+        "user": "U15HZ01QX",
+        "ts": "1546905174.131300"
+    },
+    {
+        "client_msg_id": "F3EAA8E6-3DA3-4D7B-B618-4132ADAA1F51",
+        "type": "message",
+        "text": "Kinda looks like Tommy",
+        "user": "U15J5H60P",
+        "ts": "1546905175.131400",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U15HY5TG8"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3F55904B-9FE1-4B08-BE0D-FBDCBF07DBBC",
+        "type": "message",
+        "text": "Alright now.",
+        "user": "U15HSHSS2",
+        "ts": "1546905185.131600"
+    },
+    {
+        "client_msg_id": "73E40AAA-99C6-41C1-9389-5F50913B7CEB",
+        "type": "message",
+        "text": "When’s the last time you bought bleach?",
+        "user": "U15HZ01QX",
+        "ts": "1546905212.132300"
+    },
+    {
+        "client_msg_id": "364309AB-3ADD-4A6E-854D-E5C7C20B03BF",
+        "type": "message",
+        "text": "\"what's bleach?\"",
+        "user": "U15J5H60P",
+        "ts": "1546905258.133900"
+    },
+    {
+        "client_msg_id": "8911e609-80c8-45ca-ba68-0f7c57043203",
+        "type": "message",
+        "text": "I feel bad for the dog ",
+        "user": "U15HRTAHL",
+        "ts": "1546905260.134300"
+    },
+    {
+        "client_msg_id": "3d320824-5be3-4f2a-96c5-25e0102fef7f",
+        "type": "message",
+        "text": "The dog could probably smell it's owner ",
+        "user": "U15HRTAHL",
+        "ts": "1546905268.135100"
+    },
+    {
+        "client_msg_id": "1681899F-DDB0-4514-9C9E-7DA17DD497E8",
+        "type": "message",
+        "text": "Yeah not the lady",
+        "user": "U15HZ01QX",
+        "ts": "1546905271.135500"
+    },
+    {
+        "client_msg_id": "A0274E48-591F-4D8D-BAA8-FF0219A577AB",
+        "type": "message",
+        "text": "I remember he had this weird condition where his body couldn’t fully produce ear wax, so he would just have yellow goo running out of his ears and down his cheeks half the time",
+        "user": "U15HSHSS2",
+        "ts": "1546905276.136000"
+    },
+    {
+        "client_msg_id": "C65361AC-F4EF-4155-ACC4-6DAE7AF85AE9",
+        "type": "message",
+        "text": "\"Last time I got in a fight with Big L\"",
+        "user": "U15J5H60P",
+        "ts": "1546905277.136100"
+    },
+    {
+        "client_msg_id": "DC48E574-26D4-4AD2-B6CA-13071A84ADF7",
+        "type": "message",
+        "text": "The fuck",
+        "user": "U15HZ01QX",
+        "ts": "1546905292.136400"
+    },
+    {
+        "client_msg_id": "50361599-c5af-4bec-bc47-05eeb1f7b5c8",
+        "type": "message",
+        "text": "And you bullied him",
+        "user": "U15HRTAHL",
+        "ts": "1546905294.136600"
+    },
+    {
+        "client_msg_id": "6cf49cde-34fe-454b-b537-001f3a1a521a",
+        "type": "message",
+        "text": "And now here we are ",
+        "user": "U15HRTAHL",
+        "ts": "1546905298.136800"
+    },
+    {
+        "client_msg_id": "73B7BD5B-78F9-46B3-9897-52BEB5EFE8CA",
+        "type": "message",
+        "text": "He was a weird kid",
+        "user": "U15HSHSS2",
+        "ts": "1546905329.137300"
+    },
+    {
+        "client_msg_id": "0AE4704C-EB53-4910-B1B2-3A80C5123788",
+        "type": "message",
+        "text": "Did anime running in the hall and shit all the time",
+        "user": "U15HSHSS2",
+        "ts": "1546905361.138000"
+    },
+    {
+        "client_msg_id": "966E989E-2B16-455B-8A0C-F24FC909EE58",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1546905394.138900"
+    },
+    {
+        "client_msg_id": "E6214DFD-881B-4C1B-A094-4A6A8F83BADD",
+        "type": "message",
+        "text": "I got home and was like “hey babe one of Tommy’s friends killed one of Joes friends.” ",
+        "user": "U15HZ01QX",
+        "ts": "1546905397.139000"
+    },
+    {
+        "client_msg_id": "0493EBA6-9C14-4291-93A9-E169F8CEE9D8",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15HSHSS2",
+        "ts": "1546905410.139200"
+    },
+    {
+        "client_msg_id": "ED992749-F8C2-4337-8543-D224A641E69C",
+        "type": "message",
+        "text": "I clarified a bit. She might not want to go to your house this weekend if she thinks you’re kickin it with the mentally ill",
+        "user": "U15HZ01QX",
+        "ts": "1546905520.140400"
+    },
+    {
+        "client_msg_id": "2ABB91A7-2473-48EA-B7C7-CDBCEB8DD405",
+        "type": "message",
+        "text": "Lmaooo",
+        "user": "U15HY5TG8",
+        "ts": "1546906403.140700"
+    },
+    {
+        "client_msg_id": "AC24F781-F2F5-4DCC-A936-DCCA130F5BBF",
+        "type": "message",
+        "text": "I can totally picture you walking in the door saying that too",
+        "user": "U15HY5TG8",
+        "ts": "1546906419.141200"
+    },
+    {
+        "client_msg_id": "2E983F9A-4710-46C8-8F35-61424A9A148C",
+        "type": "message",
+        "text": "James, I have Ciera's wine opener jsyk",
+        "user": "U15J5H60P",
+        "ts": "1546919533.141700"
+    },
+    {
+        "client_msg_id": "F3D63839-E7B3-4D25-B50F-73C3F6F7D4AE",
+        "type": "message",
+        "text": "Evan, did you say you needed me to pick up something from your place?",
+        "user": "U15J5H60P",
+        "ts": "1546919562.142500"
+    },
+    {
+        "client_msg_id": "A9148E38-4BBD-4641-B403-429B6E4121A2",
+        "type": "message",
+        "text": "Oh right gotcha",
+        "user": "U15HZ01QX",
+        "ts": "1546919565.142600"
+    },
+    {
+        "client_msg_id": "6BAA251C-4D10-4FEC-B08A-671CF3111C8A",
+        "type": "message",
+        "text": "No rush on picking it up",
+        "user": "U15J5H60P",
+        "ts": "1546919573.142800"
+    }
+]

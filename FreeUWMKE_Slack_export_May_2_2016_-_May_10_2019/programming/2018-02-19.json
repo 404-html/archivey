@@ -1,0 +1,134 @@
+[
+    {
+        "type": "message",
+        "text": "Can you piggyback javascript?",
+        "user": "U15HY5TG8",
+        "ts": "1519052038.000151"
+    },
+    {
+        "type": "message",
+        "text": "Like \nVar date = new Date(someString).toISOString()",
+        "user": "U15HY5TG8",
+        "ts": "1519052080.000532"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1519052585.000654"
+    },
+    {
+        "type": "message",
+        "text": "but that's gonna give you a string",
+        "user": "U15HRTAHL",
+        "ts": "1519052593.000285"
+    },
+    {
+        "type": "message",
+        "text": "Well wtf",
+        "user": "U15HY5TG8",
+        "ts": "1519054957.000236"
+    },
+    {
+        "type": "message",
+        "text": "toISOString",
+        "user": "U15HRTAHL",
+        "ts": "1519055053.000143"
+    },
+    {
+        "type": "message",
+        "text": "it says string lol",
+        "user": "U15HRTAHL",
+        "ts": "1519055058.000286"
+    },
+    {
+        "type": "message",
+        "text": "The wtf wasnt to that. So i did the line mentioned above but QA is giving me a bug that shows in the dev tools \"Object doesnt support property or method 'toISOString'\"",
+        "user": "U15HY5TG8",
+        "ts": "1519055371.000581"
+    },
+    {
+        "type": "message",
+        "text": "it's probably not constructing the date properly when you try to convert it",
+        "user": "U15HRTAHL",
+        "ts": "1519055474.000371"
+    },
+    {
+        "type": "message",
+        "text": "so `someString` is wrong",
+        "user": "U15HRTAHL",
+        "ts": "1519055489.000197"
+    },
+    {
+        "type": "message",
+        "text": "yyyy-mm-dd",
+        "user": "U15HRTAHL",
+        "ts": "1519055497.000636"
+    },
+    {
+        "type": "message",
+        "text": "When i debug, its fine. When it gets deployed to QA, it returns errors",
+        "user": "U15HY5TG8",
+        "ts": "1519055759.000282"
+    },
+    {
+        "type": "message",
+        "text": "whats their testing environment",
+        "user": "U15HRTAHL",
+        "ts": "1519055910.000585"
+    },
+    {
+        "type": "message",
+        "text": "is QA manually create the dates or what?",
+        "user": "U15HRTAHL",
+        "ts": "1519055973.000176"
+    },
+    {
+        "type": "message",
+        "text": "someString has to be wrong",
+        "user": "U15HRTAHL",
+        "ts": "1519055977.000454"
+    },
+    {
+        "type": "message",
+        "text": "request that they send it over to you",
+        "user": "U15HRTAHL",
+        "ts": "1519055986.000409"
+    },
+    {
+        "type": "message",
+        "text": "Its not their string. Its a hidden field that has a string as a placeholder. But it converts fine on localhost but not on their servers",
+        "user": "U15HY5TG8",
+        "ts": "1519056750.000508"
+    },
+    {
+        "type": "message",
+        "text": "I cant get anything done today. Looks like im working after work again...when no one is bothering me",
+        "user": "U15HY5TG8",
+        "ts": "1519061973.000513"
+    },
+    {
+        "type": "message",
+        "text": "im doing some code fights lol",
+        "user": "U15HRTAHL",
+        "ts": "1519063749.000303"
+    },
+    {
+        "type": "message",
+        "text": "day 3 of code fights",
+        "user": "U15HRTAHL",
+        "ts": "1519064488.000272"
+    },
+    {
+        "type": "message",
+        "text": "gotta use docker images",
+        "user": "U15J5H60P",
+        "ts": "1519066586.000446"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1519068070.000027"
+    }
+]

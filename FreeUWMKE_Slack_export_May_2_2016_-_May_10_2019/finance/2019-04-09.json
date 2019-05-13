@@ -1,0 +1,47 @@
+[
+    {
+        "client_msg_id": "2f5a1bf1-26b0-424f-a3de-ebb73502c805",
+        "type": "message",
+        "text": "<https:\/\/www.bloomberg.com\/news\/articles\/2019-04-09\/college-grads-sell-stakes-in-themselves-to-wall-street>",
+        "user": "U15HRTAHL",
+        "ts": "1554840239.000200",
+        "attachments": [
+            {
+                "service_name": "Bloomberg.com",
+                "title": "College Grads Sell Stakes in Themselves to Wall Street",
+                "title_link": "https:\/\/www.bloomberg.com\/news\/articles\/2019-04-09\/college-grads-sell-stakes-in-themselves-to-wall-street",
+                "text": "Instead of taking out loans, students can agree to hand over part of their future earnings in return for investment.",
+                "fallback": "Bloomberg.com: College Grads Sell Stakes in Themselves to Wall Street",
+                "image_url": "https:\/\/assets.bwbx.io\/images\/users\/iqjWHBFdfxIU\/i_4HbV8zsqlU\/v0\/1200x630.jpg",
+                "from_url": "https:\/\/www.bloomberg.com\/news\/articles\/2019-04-09\/college-grads-sell-stakes-in-themselves-to-wall-street",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 64133,
+                "service_icon": "https:\/\/assets.bwbx.io\/s3\/javelin\/public\/javelin\/images\/favicon-black-63fe5249d3.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bloomberg.com\/news\/articles\/2019-04-09\/college-grads-sell-stakes-in-themselves-to-wall-street"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5a1b5c2-afc5-4544-961a-c9183a23c709",
+        "type": "message",
+        "text": "```Every month, for eight-and-a-half years, she must turn over a set percentage of her salary to investors. Today, about a year after graduation, Wroblewski makes $50,000 a year as a higher education recruiter in Winchester, Va. So the cut comes to $279 a month, less than her car payment.\n\nIf the 23-year-old becomes a star in her field, she could pay twice as much. If she loses her job, she won't have to pay anything, and investors will be out of luck until she finds work.```",
+        "user": "U15HRTAHL",
+        "ts": "1554840257.000600"
+    },
+    {
+        "client_msg_id": "f711bd5b-ce0b-4546-8f16-74ede85a25b1",
+        "type": "message",
+        "text": "if my math is right I think they take 10%",
+        "user": "U15HRTAHL",
+        "ts": "1554840339.000900"
+    },
+    {
+        "client_msg_id": "0706728a-4933-493d-968b-fcc42b05515d",
+        "type": "message",
+        "text": "post tax",
+        "user": "U15HRTAHL",
+        "ts": "1554840359.001100"
+    }
+]

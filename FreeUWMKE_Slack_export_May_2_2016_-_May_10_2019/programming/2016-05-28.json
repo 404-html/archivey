@@ -1,0 +1,278 @@
+[
+    {
+        "type": "message",
+        "text": "the math one. for some reason mine wouldnt pass the tests even though i did all of the math options",
+        "user": "U15HY5TG8",
+        "ts": "1464440829.000002"
+    },
+    {
+        "type": "message",
+        "text": "I'll check your solution when I get a chance",
+        "user": "U15J5H60P",
+        "ts": "1464447660.000002"
+    },
+    {
+        "type": "message",
+        "text": "Aight",
+        "user": "U15HY5TG8",
+        "ts": "1464458250.000002"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464475225.000002",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "ASSHOLES",
+        "user": "U15HRTAHL",
+        "ts": "1464475255.000003"
+    },
+    {
+        "type": "message",
+        "text": "Sup",
+        "user": "U15J5H60P",
+        "ts": "1464484375.000004"
+    },
+    {
+        "type": "message",
+        "text": "ugly as fuck",
+        "user": "U15HRTAHL",
+        "ts": "1464484816.000005"
+    },
+    {
+        "type": "message",
+        "text": "4 real",
+        "user": "U15J5H60P",
+        "ts": "1464484821.000006"
+    },
+    {
+        "type": "message",
+        "text": "Haskell is another doozy",
+        "user": "U15J5H60P",
+        "ts": "1464484849.000007"
+    },
+    {
+        "type": "message",
+        "text": "```  pos =: (] ,&amp;\": ((10 2 $ 'thstndrdthththththth'){~  10&amp;|)`('th'\"_)@.(1 = 10 &lt;.@%~ 100&amp;|))\n   ([ , ', ' , ])&amp;dltb\/ 25 (] pos\"0@:-.~  &gt;:@i.@[) 2\n1st, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th, 21st, 22nd, 23rd, 24th, 25th```",
+        "user": "U15J5H60P",
+        "ts": "1464484867.000008"
+    },
+    {
+        "type": "message",
+        "text": "lmaoooooooo",
+        "user": "U15J5H60P",
+        "ts": "1464484871.000009"
+    },
+    {
+        "type": "message",
+        "text": "Fuck that.",
+        "user": "U15J5H60P",
+        "ts": "1464484873.000010"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: can you explain why the solution for number 15 is the solution for a 21x21 grid?",
+        "user": "U15HRTAHL",
+        "ts": "1464485275.000011"
+    },
+    {
+        "type": "message",
+        "text": "and not a 20x20 grid",
+        "user": "U15HRTAHL",
+        "ts": "1464485280.000012"
+    },
+    {
+        "type": "message",
+        "text": "Did it work?",
+        "user": "U15J5H60P",
+        "ts": "1464485341.000013"
+    },
+    {
+        "type": "message",
+        "text": "the 21x21 did",
+        "user": "U15HRTAHL",
+        "ts": "1464485346.000014"
+    },
+    {
+        "type": "message",
+        "text": "not the 20x20",
+        "user": "U15HRTAHL",
+        "ts": "1464485349.000015"
+    },
+    {
+        "type": "message",
+        "text": "```\n1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 \n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 \n1 3 6 10 15 21 28 36 45 55 66 78 91 105 120 136 153 171 190 210 231 \n1 4 10 20 35 56 84 120 165 220 286 364 455 560 680 816 969 1140 1330 1540 1771 \n1 5 15 35 70 126 210 330 495 715 1001 1365 1820 2380 3060 3876 4845 5985 7315 8855 10626 \n1 6 21 56 126 252 462 792 1287 2002 3003 4368 6188 8568 11628 15504 20349 26334 33649 42504 53130 \n1 7 28 84 210 462 924 1716 3003 5005 8008 12376 18564 27132 38760 54264 74613 100947 134596 177100 230230 \n1 8 36 120 330 792 1716 3432 6435 11440 19448 31824 50388 77520 116280 170544 245157 346104 480700 657800 888030 \n1 9 45 165 495 1287 3003 6435 12870 24310 43758 75582 125970 203490 319770 490314 <tel:7354711081575|735471 1081575> 1562275 2220075 3108105 \n1 10 55 220 715 2002 5005 11440 24310 48620 92378 167960 293930 497420 <tel:8171901307504|817190 1307504> 2042975 3124550 4686825 6906900 10015005 \n1 11 66 286 1001 3003 8008 19448 43758 92378 184756 352716 <tel:6466461144066|646646 1144066> 1961256 3268760 5311735 8436285 13123110 20030010 30045015 \n1 12 78 364 1365 4368 12376 31824 75582 167960 352716 <tel:7054321352078|705432 1352078> 2496144 4457400 7726160 13037895 21474180 34597290 54627300 84672315 \n1 13 91 455 1820 6188 18564 50388 125970 293930 <tel:6466461352078|646646 1352078> 2704156 5200300 9657700 17383860 30421755 51895935 86493225 141120525 225792840 \n1 14 105 560 2380 8568 27132 77520 203490 <tel:4974201144066|497420 1144066> 2496144 5200300 10400600 20058300 37442160 67863915 119759850 206253075 347373600 573166440 \n1 15 120 680 3060 11628 38760 116280 319770 <tel:8171901961256|817190 1961256> 4457400 9657700 20058300 40116600 77558760 145422675 265182525 471435600 818809200 1391975640 \n1 16 136 816 3876 15504 54264 170544 <tel:4903141307504|490314 1307504> 3268760 7726160 17383860 37442160 77558760 155117520 300540195 565722720 1037158320 1855967520 3247943160 \n1 17 153 969 4845 20349 74613 245157 <tel:7354712042975|735471 2042975> 5311735 13037895 30421755 67863915 145422675 300540195 601080390 1166803110 2203961430 4059928950 7307872110 \n1 18 171 1140 5985 26334 100947 <tel:3461041081575|346104 1081575> 3124550 8436285 21474180 51895935 119759850 265182525 565722720 1166803110 2333606220 4537567650 8597496600 15905368710 \n1 19 190 1330 7315 33649 134596 <tel:4807001562275|480700 1562275> 4686825 13123110 34597290 86493225 206253075 471435600 1037158320 2203961430 4537567650 9075135300 17672631900 33578000610 \n1 20 210 1540 8855 42504 177100 <tel:6578002220075|657800 2220075> 6906900 20030010 54627300 141120525 347373600 818809200 1855967520 4059928950 8597496600 17672631900 35345263800 68923264410 \n1 21 231 1771 10626 53130 230230 <tel:8880303108105|888030 3108105> 10015005 30045015 84672315 225792840 573166440 1391975640 3247943160 7307872110 15905368710 33578000610 68923264410 137846528820\n```",
+        "user": "U15HRTAHL",
+        "ts": "1464485373.000016"
+    },
+    {
+        "type": "message",
+        "text": "there are 21 columns and 21 rows",
+        "user": "U15HRTAHL",
+        "ts": "1464485382.000017"
+    },
+    {
+        "type": "message",
+        "text": "(21,21) has the solution for a (20,20) grid",
+        "user": "U15HRTAHL",
+        "ts": "1464485397.000018"
+    },
+    {
+        "type": "message",
+        "text": "I don't understand that",
+        "user": "U15HRTAHL",
+        "ts": "1464485401.000019"
+    },
+    {
+        "type": "message",
+        "text": "Show me my solution",
+        "user": "U15J5H60P",
+        "ts": "1464485404.000020"
+    },
+    {
+        "type": "message",
+        "text": "idk your solution",
+        "user": "U15HRTAHL",
+        "ts": "1464485410.000021"
+    },
+    {
+        "type": "message",
+        "text": "Oh I probably didn't do it ",
+        "user": "U15J5H60P",
+        "ts": "1464485421.000022"
+    },
+    {
+        "type": "message",
+        "text": "is it on github?",
+        "user": "U15HRTAHL",
+        "ts": "1464485430.000023"
+    },
+    {
+        "type": "message",
+        "text": "Idk",
+        "user": "U15J5H60P",
+        "ts": "1464485435.000024"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464485833.000025",
+        "text": "<@U15HSHSS2> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: do you know the answer to that question?",
+        "user": "U15HRTAHL",
+        "ts": "1464485961.000026"
+    },
+    {
+        "type": "message",
+        "text": "What's the question?",
+        "user": "U15HSHSS2",
+        "ts": "1464485977.000027"
+    },
+    {
+        "type": "message",
+        "text": "for number 15, it asks for a 20 x 20 grid solution",
+        "user": "U15HRTAHL",
+        "ts": "1464485990.000028"
+    },
+    {
+        "type": "message",
+        "text": "but the 20 x 20 grid solution is actually the solution for a 21 x 21 grid",
+        "user": "U15HRTAHL",
+        "ts": "1464486005.000029"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/projecteuler.net\/problem=15>",
+        "user": "U15HRTAHL",
+        "ts": "1464486024.000030",
+        "attachments": [
+            {
+                "title": "Problem 15 - Project Euler",
+                "title_link": "https:\/\/projecteuler.net\/problem=15",
+                "text": "A website dedicated to the fascinating world of mathematics and programming",
+                "fallback": "Problem 15 - Project Euler",
+                "from_url": "https:\/\/projecteuler.net\/problem=15",
+                "service_icon": "https:\/\/projecteuler.net\/favicon.ico",
+                "service_name": "projecteuler.net",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "What solution are you referring to?",
+        "user": "U15HSHSS2",
+        "ts": "1464486119.000032"
+    },
+    {
+        "type": "message",
+        "text": "my solution which I think is very similar to your solution",
+        "user": "U15HRTAHL",
+        "ts": "1464486143.000033"
+    },
+    {
+        "type": "message",
+        "text": "Oh like your calculating how many paths are in a 21 X 21 grid using your solution and it's actually the answer for the 20 X 20 grid?",
+        "user": "U15HSHSS2",
+        "ts": "1464486268.000034"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1464486295.000035",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1464486298.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "When you do a 2 X 2 grid do you get 6?",
+        "user": "U15HSHSS2",
+        "ts": "1464486314.000037"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1464486318.000038"
+    },
+    {
+        "type": "message",
+        "text": "Hmm....",
+        "user": "U15HSHSS2",
+        "ts": "1464486335.000039"
+    },
+    {
+        "type": "message",
+        "text": "wait maybe not",
+        "user": "U15HRTAHL",
+        "ts": "1464486346.000040"
+    },
+    {
+        "type": "message",
+        "text": "look at your solution",
+        "user": "U15HRTAHL",
+        "ts": "1464486354.000041"
+    },
+    {
+        "type": "message",
+        "text": "yours is a 21 x 21 grid",
+        "user": "U15HRTAHL",
+        "ts": "1464486362.000042"
+    },
+    {
+        "type": "message",
+        "text": "do you get what i mean?",
+        "user": "U15HRTAHL",
+        "ts": "1464486524.000043"
+    }
+]

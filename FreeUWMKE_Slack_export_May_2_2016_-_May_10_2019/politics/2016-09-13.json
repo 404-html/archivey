@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "text": "\/giphy stroke",
+        "user": "U15J5H60P",
+        "ts": "1473777455.000002",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/2SHaYLYnqQD7i>",
+                "image_url": "https:\/\/media.giphy.com\/media\/2SHaYLYnqQD7i\/giphy-tumblr.gif",
+                "image_width": 157,
+                "image_height": 250,
+                "image_bytes": 1067356,
+                "is_animated": true,
+                "title": "stroke",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/2SHaYLYnqQD7i"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/giphy pneumonia",
+        "user": "U15J5H60P",
+        "ts": "1473777465.000003",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/death-from-infoviz-EnxIm2jrgmMaA>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/EnxIm2jrgmMaA\/giphy.gif",
+                "image_width": 1920,
+                "image_height": 1080,
+                "image_bytes": 803825,
+                "is_animated": true,
+                "title": "pneumonia",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/death-from-infoviz-EnxIm2jrgmMaA"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lol ",
+        "user": "U15HY5TG8",
+        "ts": "1473777491.000004"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy trump",
+        "user": "U15HY5TG8",
+        "ts": "1473777498.000005",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/gop-rnc-2016-l46C5xKwO5z7TZ8go>",
+                "image_url": "http:\/\/media.giphy.com\/media\/l46C5xKwO5z7TZ8go\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 133,
+                "image_bytes": 1120263,
+                "is_animated": true,
+                "title": "trump",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/gop-rnc-2016-l46C5xKwO5z7TZ8go"
+            }
+        ]
+    }
+]

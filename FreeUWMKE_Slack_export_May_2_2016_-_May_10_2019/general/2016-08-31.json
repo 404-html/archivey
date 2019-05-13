@@ -1,0 +1,107 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: you ever been to ward4?",
+        "user": "U15HZ01QX",
+        "ts": "1472652555.000002"
+    },
+    {
+        "type": "message",
+        "text": "No, whats that?",
+        "user": "U15HRTAHL",
+        "ts": "1472652567.000003"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.ward4mke.com\/> ",
+        "user": "U15HZ01QX",
+        "ts": "1472652661.000004",
+        "attachments": [
+            {
+                "service_name": "Ward 4",
+                "title": "Home",
+                "title_link": "http:\/\/www.ward4mke.com\/",
+                "text": "Ward4   MILWAUKEE'S COWORKING SPACE Become a member",
+                "fallback": "Ward 4: Home",
+                "thumb_url": "http:\/\/static1.squarespace.com\/static\/56fc2eadab48de8601ee6be9\/t\/56fc5a2d2b8ddee40365e334\/1468600294259\/?format=1000w",
+                "from_url": "http:\/\/www.ward4mke.com\/",
+                "thumb_width": 399,
+                "thumb_height": 399,
+                "service_icon": "http:\/\/www.ward4mke.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "It's a coworking space",
+        "user": "U15HZ01QX",
+        "ts": "1472652668.000006"
+    },
+    {
+        "type": "message",
+        "text": "It's where gener8tor is set up",
+        "user": "U15HZ01QX",
+        "ts": "1472652678.000007"
+    },
+    {
+        "type": "message",
+        "text": "thats pretty cool, why do you ask?",
+        "user": "U15HRTAHL",
+        "ts": "1472652848.000008"
+    },
+    {
+        "type": "message",
+        "text": "I was thinking of working there this fall",
+        "user": "U15HZ01QX",
+        "ts": "1472653004.000009"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: wings? Im already meeting or riding with my friend joe",
+        "user": "U15HY5TG8",
+        "ts": "1472659643.000002"
+    },
+    {
+        "type": "message",
+        "text": "Possibly I'll let you know this afternoon ",
+        "user": "U15HZ01QX",
+        "ts": "1472660434.000003"
+    },
+    {
+        "type": "message",
+        "text": "Alright",
+        "user": "U15HY5TG8",
+        "ts": "1472660600.000004"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: hey tom what do the quality assurance engineers do?",
+        "user": "U15HZ01QX",
+        "ts": "1472696929.000002"
+    },
+    {
+        "type": "message",
+        "text": "They test all the shit that the product is supposed to do",
+        "user": "U15HSHSS2",
+        "ts": "1472704204.000002"
+    },
+    {
+        "type": "message",
+        "text": "So when the developers finish a piece of functionality, they send it to QA for testing",
+        "user": "U15HSHSS2",
+        "ts": "1472704238.000003"
+    },
+    {
+        "type": "message",
+        "text": "I might apply for it, idk if it'll still be open in December ",
+        "user": "U15HZ01QX",
+        "ts": "1472704260.000004"
+    },
+    {
+        "type": "message",
+        "text": "Worth a shot",
+        "user": "U15HSHSS2",
+        "ts": "1472704283.000005"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "client_msg_id": "ABBD9781-F1FD-40C9-8B8B-892DCC4B99EF",
+        "type": "message",
+        "text": "Is there a way to keep formatting of a normal textbox when used in a different setting? Ex: someone types in the textbox a list of items but when stored in the db its just a normal string. Then the string gets put into an email but they want it in the same list format",
+        "user": "U15HY5TG8",
+        "ts": "1524362804.000064"
+    }
+]

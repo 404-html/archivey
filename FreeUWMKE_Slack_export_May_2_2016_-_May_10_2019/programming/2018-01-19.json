@@ -1,0 +1,65 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/blog.getbootstrap.com\/2018\/01\/18\/bootstrap-4\/>",
+        "user": "U15HRTAHL",
+        "ts": "1516379891.000276",
+        "attachments": [
+            {
+                "title": "Bootstrap 4",
+                "title_link": "http:\/\/blog.getbootstrap.com\/2018\/01\/18\/bootstrap-4\/",
+                "text": "The most popular HTML, CSS, and JS framework in the world.",
+                "fallback": "Bootstrap 4",
+                "thumb_url": "http:\/\/blog.getbootstrap.com\/img\/bootstrap-social-logo.png",
+                "from_url": "http:\/\/blog.getbootstrap.com\/2018\/01\/18\/bootstrap-4\/",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "http:\/\/blog.getbootstrap.com\/apple-touch-icon.png",
+                "service_name": "blog.getbootstrap.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "finally done with beta",
+        "user": "U15HRTAHL",
+        "ts": "1516379902.000089"
+    },
+    {
+        "type": "message",
+        "text": "Niiiice",
+        "user": "U15HY5TG8",
+        "ts": "1516382217.000465"
+    },
+    {
+        "type": "message",
+        "text": "no more col-sm-6",
+        "user": "U15HRTAHL",
+        "ts": "1516382427.000737"
+    },
+    {
+        "type": "message",
+        "text": "i just works",
+        "user": "U15HRTAHL",
+        "ts": "1516382432.000178"
+    },
+    {
+        "type": "message",
+        "text": "col",
+        "user": "U15HRTAHL",
+        "ts": "1516382433.000520"
+    },
+    {
+        "type": "message",
+        "text": "What?",
+        "user": "U15HY5TG8",
+        "ts": "1516383086.000377"
+    },
+    {
+        "type": "message",
+        "text": "Why is there no col-sm-6?",
+        "user": "U15HY5TG8",
+        "ts": "1516383107.000397"
+    }
+]

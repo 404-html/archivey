@@ -1,0 +1,511 @@
+[
+    {
+        "client_msg_id": "59a53d25-cc1c-41f6-875e-6b73bb8b4658",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1552922425.000300"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1552922426.000400",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "BA - Boeing Company",
+                "title": "BA - Boeing Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=BA&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=BA|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=BA|Finviz> | <http:\/\/stocktwits.com\/symbol\/BA|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1552922418,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "370.84",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-8.14 (-2.15%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "6,185,441",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "6,350,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.1\/5 (12 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "430.00 (+15.95%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "15764",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "15764",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=BA&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31464,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=BA",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "91f41cfc-7b57-4940-b1f4-2575a9f5c1dc",
+        "type": "message",
+        "text": "Double down?",
+        "user": "U15J5H60P",
+        "ts": "1552922563.000600"
+    },
+    {
+        "client_msg_id": "8e7d57fd-488a-4688-b288-7c8320cc1e2e",
+        "type": "message",
+        "text": "Alright, I'm trying this options BS",
+        "user": "U15J5H60P",
+        "ts": "1552931259.000800"
+    },
+    {
+        "client_msg_id": "5b61cc0c-fe98-40a8-b857-48ce7a89ac83",
+        "type": "message",
+        "text": "I bought PUT options on BA",
+        "user": "U15J5H60P",
+        "ts": "1552931274.001200"
+    },
+    {
+        "client_msg_id": "c20702ce-c620-49b4-90bb-3252685dc266",
+        "type": "message",
+        "text": "$175, due next week Friday",
+        "user": "U15J5H60P",
+        "ts": "1552931282.001500"
+    },
+    {
+        "client_msg_id": "49a04472-ca0e-4ffc-ba20-900724931a98",
+        "type": "message",
+        "text": "I have 0 idea how I make money",
+        "user": "U15J5H60P",
+        "ts": "1552931293.001700"
+    },
+    {
+        "client_msg_id": "ec4dc429-3ee5-4cf6-b799-528c20db3e7e",
+        "type": "message",
+        "text": "But, we'll figure it out",
+        "user": "U15J5H60P",
+        "ts": "1552931299.001900"
+    },
+    {
+        "client_msg_id": "b665409f-050f-47be-b72f-6219a7ea7adf",
+        "type": "message",
+        "text": "Do I sell as soon as it hits $175?",
+        "user": "U15J5H60P",
+        "ts": "1552931322.002200"
+    },
+    {
+        "client_msg_id": "094adc45-ff74-4b33-89d5-3dd008ddc8d8",
+        "type": "message",
+        "text": "Or do I want it to go over $175?",
+        "user": "U15J5H60P",
+        "ts": "1552931330.002500"
+    },
+    {
+        "client_msg_id": "7ad746b6-9fd3-423b-b23d-435b417f5e0c",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15J5H60P",
+        "ts": "1552931470.002700"
+    },
+    {
+        "client_msg_id": "87B529EE-306D-4144-B1E9-3F685C5B7A68",
+        "type": "message",
+        "text": "A put means you think it’ll go below",
+        "user": "U15HZ01QX",
+        "ts": "1552931625.003100"
+    },
+    {
+        "client_msg_id": "f6067622-68eb-4b81-b7d5-dad951723641",
+        "type": "message",
+        "text": "O...",
+        "user": "U15J5H60P",
+        "ts": "1552932572.003300"
+    },
+    {
+        "client_msg_id": "c4b8ceb4-ec38-4d35-9da5-f1d5744bb81d",
+        "type": "message",
+        "text": "Welp",
+        "user": "U15J5H60P",
+        "ts": "1552932574.003500"
+    },
+    {
+        "client_msg_id": "57dfe2fa-8dd6-4f23-8478-fa0b80a103db",
+        "type": "message",
+        "text": "I'm fucked",
+        "user": "U15J5H60P",
+        "ts": "1552932581.003700"
+    },
+    {
+        "client_msg_id": "5c3c56c7-90f9-43de-96f3-8553f60c0686",
+        "type": "message",
+        "text": "did you buy a contract or make a contract?",
+        "user": "U15HRTAHL",
+        "ts": "1552932613.004000"
+    },
+    {
+        "client_msg_id": "4c21633c-cee2-4177-9626-93f805767b98",
+        "type": "message",
+        "text": "im assuming bought",
+        "user": "U15HRTAHL",
+        "ts": "1552932621.004200"
+    },
+    {
+        "client_msg_id": "9f27ba13-ea03-4e36-8831-ff9b935f3a57",
+        "type": "message",
+        "text": "nvm",
+        "user": "U15HRTAHL",
+        "ts": "1552932708.004400"
+    },
+    {
+        "client_msg_id": "a34011e1-6287-4ac3-9639-5f9580ef31f3",
+        "type": "message",
+        "text": "I'm getting a ban",
+        "user": "U15J5H60P",
+        "ts": "1552932791.004600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH2GHN1CJ",
+                "created": 1552932801,
+                "timestamp": 1552932801,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-18, 1:13 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 40937,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH2GHN1CJ\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH2GHN1CJ\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 39,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 52,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 78,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 87,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 104,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH2GHN1CJ-54bbe06ba7\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 111,
+                "image_exif_rotation": 1,
+                "original_w": 1572,
+                "original_h": 170,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FH2GHN1CJ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FH2GHN1CJ-93b4edb235",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1552932804.004700"
+    },
+    {
+        "client_msg_id": "ffd613ee-ba0e-41e4-ace0-de2c807588fc",
+        "type": "message",
+        "text": "I think it was a CALL",
+        "user": "U15J5H60P",
+        "ts": "1552932809.005100"
+    },
+    {
+        "client_msg_id": "74885404-e83d-4959-a04e-f856c4b5ebe4",
+        "type": "message",
+        "text": "C means call I think",
+        "user": "U15J5H60P",
+        "ts": "1552932816.005300"
+    },
+    {
+        "client_msg_id": "fce0f63b-f260-4ade-96db-5d5d1be226cf",
+        "type": "message",
+        "text": "<@U15HZ01QX> Do you want to buy calls that are in the money?",
+        "user": "U15J5H60P",
+        "ts": "1552932894.005600"
+    },
+    {
+        "client_msg_id": "f88b2c7b-88d2-4a4f-b2cf-ccf1f93e2625",
+        "type": "message",
+        "text": "Or out of the money?",
+        "user": "U15J5H60P",
+        "ts": "1552932896.005800"
+    },
+    {
+        "client_msg_id": "1ae0f737-bd8c-4437-b011-d3343f855f08",
+        "type": "message",
+        "text": "Sounds pretty intuitive, but why would you ever buy out of the money options?",
+        "user": "U15J5H60P",
+        "ts": "1552932910.006100"
+    },
+    {
+        "client_msg_id": "E1B9C37D-4264-490D-A2BB-14A60E5D1DD8",
+        "type": "message",
+        "text": "Because they’re cheaper",
+        "user": "U15HZ01QX",
+        "ts": "1552933000.006400"
+    },
+    {
+        "client_msg_id": "16EAE5FD-C384-4F8A-9300-10ED87C7E3AF",
+        "type": "message",
+        "text": "That’s how you make money",
+        "user": "U15HZ01QX",
+        "ts": "1552933006.006600"
+    },
+    {
+        "client_msg_id": "c8853ae7-50de-4e50-9549-a40f6fc63687",
+        "type": "message",
+        "text": "So I want boeing to go down?",
+        "user": "U15J5H60P",
+        "ts": "1552933032.007100"
+    },
+    {
+        "client_msg_id": "35320678-4821-4a9b-b9b6-cb9f87028653",
+        "type": "message",
+        "text": "As far away from 177 as possible",
+        "user": "U15J5H60P",
+        "ts": "1552933042.007600"
+    },
+    {
+        "client_msg_id": "9AC911C4-ACCB-4BDF-8B93-6A9B2D145F06",
+        "type": "message",
+        "text": "Buying at 377.50 means you paid a shit ton for the contract",
+        "user": "U15HZ01QX",
+        "ts": "1552933057.008100"
+    },
+    {
+        "client_msg_id": "28096A75-A51C-4849-9099-D109D797D4F9",
+        "type": "message",
+        "text": "Means your line for making money is a lot higher",
+        "user": "U15HZ01QX",
+        "ts": "1552933070.008700"
+    },
+    {
+        "client_msg_id": "b7c94dbc-7349-4b42-a323-5f3f48efe392",
+        "type": "message",
+        "text": "So I'm not going to make money pretty much",
+        "user": "U15J5H60P",
+        "ts": "1552933086.009000"
+    },
+    {
+        "client_msg_id": "b426b262-0848-419c-a229-298ef14c4f65",
+        "type": "message",
+        "text": "I don't fricken get it",
+        "user": "U15J5H60P",
+        "ts": "1552933097.009200"
+    },
+    {
+        "client_msg_id": "4725f59e-9672-430c-b9f0-fe76d9c7ef3f",
+        "type": "message",
+        "text": "I don't like that I don't get it lol",
+        "user": "U15J5H60P",
+        "ts": "1552933102.009600"
+    },
+    {
+        "client_msg_id": "A27E65BD-B98D-4E7B-82CD-BA47E1A204B0",
+        "type": "message",
+        "text": "You might make money. But you have to make enough money to offset the cost of the contract",
+        "user": "U15HZ01QX",
+        "ts": "1552933136.010600"
+    },
+    {
+        "client_msg_id": "bff1de64-6301-4ded-a373-2756a6a421fe",
+        "type": "message",
+        "text": "How does the contract go up in value?",
+        "user": "U15J5H60P",
+        "ts": "1552933164.011100"
+    },
+    {
+        "client_msg_id": "FA9B2011-71AC-4F77-8ED0-D8907ED90E9E",
+        "type": "message",
+        "text": "By the price of the stock going up in value",
+        "user": "U15HZ01QX",
+        "ts": "1552933182.011800"
+    },
+    {
+        "client_msg_id": "A7E17EA0-FB00-4CB1-8EA3-95F73F2EC548",
+        "type": "message",
+        "text": "If the price goes above 377.50 then that means your contract is worth more",
+        "user": "U15HZ01QX",
+        "ts": "1552933214.013000"
+    },
+    {
+        "client_msg_id": "cfe547b2-6b43-4a39-b162-7b81dd34f940",
+        "type": "message",
+        "text": "it has to go over the strike price for it to be worth anything",
+        "user": "U15HRTAHL",
+        "ts": "1552933214.013100"
+    },
+    {
+        "client_msg_id": "981F06D9-DB44-479F-A333-B1A6C799F9D1",
+        "type": "message",
+        "text": "But it has to go over a lot because you also spent 500 bucks just on the contract",
+        "user": "U15HZ01QX",
+        "ts": "1552933236.014100"
+    },
+    {
+        "client_msg_id": "96e2d0ae-ffb6-4be0-903a-4d5e74a0d93c",
+        "type": "message",
+        "text": "Welp.",
+        "user": "U15J5H60P",
+        "ts": "1552933274.014300"
+    },
+    {
+        "client_msg_id": "d9f2adaa-3e8e-4ac5-a335-1cbbfe2faf59",
+        "type": "message",
+        "text": "That was fun.",
+        "user": "U15J5H60P",
+        "ts": "1552933282.014600"
+    },
+    {
+        "client_msg_id": "900348b0-bfbd-4247-99d1-ea63fa870f75",
+        "type": "message",
+        "text": "you should have bought one that was farther out than friday",
+        "user": "U15HRTAHL",
+        "ts": "1552933292.014900",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1552933297.000000"
+        }
+    },
+    {
+        "client_msg_id": "40703cfa-9e0d-44f3-8941-5ed7c743198b",
+        "type": "message",
+        "text": "I think it's gonna hit $180 by the end of this week",
+        "user": "U15J5H60P",
+        "ts": "1552933313.015600"
+    },
+    {
+        "client_msg_id": "71C9E978-A570-485F-8A24-6D8C43821F1F",
+        "type": "message",
+        "text": "So your break even price is $383.23",
+        "user": "U15HZ01QX",
+        "ts": "1552933317.015800"
+    },
+    {
+        "client_msg_id": "25C2455A-0F31-43CF-9761-BBAED4A537CA",
+        "type": "message",
+        "text": "Stop saying 180",
+        "user": "U15HZ01QX",
+        "ts": "1552933326.016200"
+    },
+    {
+        "client_msg_id": "ffd9c513-4953-46ab-85e6-490e308fb42d",
+        "type": "message",
+        "text": "Why?",
+        "user": "U15J5H60P",
+        "ts": "1552933331.016400"
+    },
+    {
+        "client_msg_id": "136CF3C7-C566-4DFC-A40A-3D460B2BBEB6",
+        "type": "message",
+        "text": "Because it’s 380",
+        "user": "U15HZ01QX",
+        "ts": "1552933341.016700"
+    },
+    {
+        "client_msg_id": "f9055cd6-b8e9-42a3-8a99-53dc781dad29",
+        "type": "message",
+        "text": "Ohh lol Why did I keep saying that",
+        "user": "U15J5H60P",
+        "ts": "1552933360.017200"
+    },
+    {
+        "client_msg_id": "e33f4aac-e1e2-474c-8830-f55bcd6db705",
+        "type": "message",
+        "text": "I think it'll go up to $380",
+        "user": "U15J5H60P",
+        "ts": "1552933373.017500"
+    },
+    {
+        "client_msg_id": "D1284630-38A4-4AB4-9FEB-2B1175E41BE8",
+        "type": "message",
+        "text": "Well it needs to go up to 383.23 to cover your contract cost",
+        "user": "U15HZ01QX",
+        "ts": "1552933557.018200"
+    },
+    {
+        "client_msg_id": "9676017c-0445-4c55-a0b2-2d91a9597447",
+        "type": "message",
+        "text": "Yeah, so hopefully a small loss...",
+        "user": "U15J5H60P",
+        "ts": "1552933577.018500"
+    }
+]

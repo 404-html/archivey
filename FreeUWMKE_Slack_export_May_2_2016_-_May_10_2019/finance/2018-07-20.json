@@ -1,0 +1,678 @@
+[
+    {
+        "client_msg_id": "52bb5ce7-ef11-45a8-8779-236d7c0f7d8a",
+        "type": "message",
+        "text": "We're really doing this trade war thing huh",
+        "user": "U15HZ01QX",
+        "ts": "1532093484.000140"
+    },
+    {
+        "client_msg_id": "835C5238-080C-4570-A8C8-7CED5FF31500",
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯ ",
+        "user": "U15HY5TG8",
+        "ts": "1532093626.000058"
+    },
+    {
+        "client_msg_id": "6ade3229-ec9a-4c41-a519-4c248c941572",
+        "type": "message",
+        "text": "Today",
+        "user": "U15J5H60P",
+        "ts": "1532093648.000191"
+    },
+    {
+        "client_msg_id": "c644ca29-950d-49bc-8488-c450bd738a2a",
+        "type": "message",
+        "text": "Daaaammmnnnn",
+        "user": "U15J5H60P",
+        "ts": "1532093665.000351"
+    },
+    {
+        "client_msg_id": "47a0bc44-800e-4eaa-a295-4ce2b1a83377",
+        "type": "message",
+        "text": "MSFT is up $3",
+        "user": "U15J5H60P",
+        "ts": "1532093670.000064"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus MSFT",
+        "user": "U15J5H60P",
+        "ts": "1532093676.000228"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       MSFT              107.25                2.85                2.730 \n       Avg.                 ---                 ---               2.730% \n```\n<http:\/\/finviz.com\/chart.ashx?t=MSFT&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1532093676.000238",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=MSFT&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 30308,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=MSFT&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=MSFT&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e9bd1d8b-1093-4e47-a151-a803c54d81ca",
+        "type": "message",
+        "text": "I needa get rid of MU",
+        "user": "U15J5H60P",
+        "ts": "1532093690.000353"
+    },
+    {
+        "client_msg_id": "54477C60-634C-4E60-BC53-26D14F1B1FAA",
+        "type": "message",
+        "text": "You need to double up on MU",
+        "user": "U15HZ01QX",
+        "ts": "1532093724.000204"
+    },
+    {
+        "client_msg_id": "7aae801b-9413-4448-bf2a-d2eacc44366b",
+        "type": "message",
+        "text": "I'm not buying $2000 more MU",
+        "user": "U15J5H60P",
+        "ts": "1532093737.000287"
+    },
+    {
+        "client_msg_id": "27BAF23B-5839-4698-AD4E-AEF672222179",
+        "type": "message",
+        "text": "Why",
+        "user": "U15HZ01QX",
+        "ts": "1532093766.000182"
+    },
+    {
+        "client_msg_id": "6F373C38-C592-4B01-B9EB-A1B654A6AED2",
+        "type": "message",
+        "text": "Do you have 2000 MU in the first place",
+        "user": "U15HZ01QX",
+        "ts": "1532093775.000473"
+    },
+    {
+        "client_msg_id": "93dcf411-6a18-4c2d-934d-48382e6a68fb",
+        "type": "message",
+        "text": "Had good price targets",
+        "user": "U15J5H60P",
+        "ts": "1532093807.000296"
+    },
+    {
+        "client_msg_id": "eacd7155-5fae-4e09-9349-dfafb768841b",
+        "type": "message",
+        "text": "Still does technically",
+        "user": "U15J5H60P",
+        "ts": "1532093813.000367"
+    },
+    {
+        "client_msg_id": "ED20D822-1C4E-4B47-B1A7-4991117AD1C8",
+        "type": "message",
+        "text": "I don’t get you",
+        "user": "U15HZ01QX",
+        "ts": "1532093814.000333"
+    },
+    {
+        "client_msg_id": "ce648d56-10af-4eb9-8510-9d15a703a706",
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1532093821.000180"
+    },
+    {
+        "client_msg_id": "E866A1C2-14CA-4515-9851-9A8379DB66C8",
+        "type": "message",
+        "text": "You’ll dump thousands into manually owned stocks, but no calls no puts. ",
+        "user": "U15HZ01QX",
+        "ts": "1532093837.000097"
+    },
+    {
+        "client_msg_id": "84841f4b-cdd4-4df4-9624-c667ed44d3ad",
+        "type": "message",
+        "text": "I can't do calls\/puts",
+        "user": "U15J5H60P",
+        "ts": "1532093844.000155"
+    },
+    {
+        "client_msg_id": "7ae7d988-ee10-440a-97e6-03b8d2928ae0",
+        "type": "message",
+        "text": "I have to do year long holds",
+        "user": "U15J5H60P",
+        "ts": "1532093849.000252"
+    },
+    {
+        "client_msg_id": "27E78437-33D5-4B17-9893-29A0E411356E",
+        "type": "message",
+        "text": "If you’re going to play with that much anyways it seems like a waste",
+        "user": "U15HZ01QX",
+        "ts": "1532093853.000130"
+    },
+    {
+        "client_msg_id": "E12EF53C-B3AB-4CB7-AA21-C1004CD999E1",
+        "type": "message",
+        "text": "It IS a waste ",
+        "user": "U15HZ01QX",
+        "ts": "1532093863.000367"
+    },
+    {
+        "client_msg_id": "282a839b-cfee-46c2-9edf-a8da692b4f97",
+        "type": "message",
+        "text": "It's not a waste",
+        "user": "U15J5H60P",
+        "ts": "1532093870.000402"
+    },
+    {
+        "client_msg_id": "cedf92e8-7f48-4587-a333-0a1da15fe069",
+        "type": "message",
+        "text": "I'm not playing with it",
+        "user": "U15J5H60P",
+        "ts": "1532093883.000124"
+    },
+    {
+        "client_msg_id": "09080ce9-93ab-4987-8057-2242f79192d2",
+        "type": "message",
+        "text": "It's a good hold",
+        "user": "U15J5H60P",
+        "ts": "1532093886.000330"
+    },
+    {
+        "client_msg_id": "75eda675-476b-4043-8942-27c0c7b04473",
+        "type": "message",
+        "text": "Buy ratings from pretty much everyone",
+        "user": "U15J5H60P",
+        "ts": "1532093897.000096"
+    },
+    {
+        "client_msg_id": "987bef9a-1f67-4a21-9047-ae1e58a8b352",
+        "type": "message",
+        "text": "Except UBS group",
+        "user": "U15J5H60P",
+        "ts": "1532093900.000047"
+    },
+    {
+        "client_msg_id": "c639c2f1-3bbc-4d90-83d1-8832f2f356e4",
+        "type": "message",
+        "text": "Overweight rating from Barclays",
+        "user": "U15J5H60P",
+        "ts": "1532093916.000382"
+    },
+    {
+        "client_msg_id": "0da83e65-d202-4d8e-bc3f-750db3c9c6fd",
+        "type": "message",
+        "text": "and Cowen",
+        "user": "U15J5H60P",
+        "ts": "1532093922.000003"
+    },
+    {
+        "client_msg_id": "129846cc-6a40-45ee-b6c0-063a574c0da3",
+        "type": "message",
+        "text": "and JPMorgan",
+        "user": "U15J5H60P",
+        "ts": "1532093925.000036"
+    },
+    {
+        "client_msg_id": "48098E43-E4D2-418F-8D76-4DD611668550",
+        "type": "message",
+        "text": "I thought you were avoiding those to be hyper cautious but putting tons of money on any stock by yourself means you have a higher risk tolerance than most",
+        "user": "U15HZ01QX",
+        "ts": "1532093925.000238"
+    },
+    {
+        "client_msg_id": "222CDF8F-0D05-45D1-860B-1F86F5A12A21",
+        "type": "message",
+        "text": "You really need to look into it",
+        "user": "U15HZ01QX",
+        "ts": "1532093940.000170"
+    },
+    {
+        "client_msg_id": "dc227582-d35a-42ca-a857-c436a27f305e",
+        "type": "message",
+        "text": "Did I say I was being hyper cautious?",
+        "user": "U15J5H60P",
+        "ts": "1532093940.000259"
+    },
+    {
+        "client_msg_id": "0d0dc79d-d5dc-45d8-8e91-cc3d9dd98b6d",
+        "type": "message",
+        "text": "I don't remember that",
+        "user": "U15J5H60P",
+        "ts": "1532093943.000124"
+    },
+    {
+        "client_msg_id": "0F805A65-7DBD-4AA5-835F-1A87309652ED",
+        "type": "message",
+        "text": "Then what’s the reason",
+        "user": "U15HZ01QX",
+        "ts": "1532093961.000203"
+    },
+    {
+        "client_msg_id": "8d746880-2922-44da-8b03-6aadbaefa94f",
+        "type": "message",
+        "text": "My entire portfolio is a ticking time bomb",
+        "user": "U15J5H60P",
+        "ts": "1532093966.000068"
+    },
+    {
+        "client_msg_id": "d40d1df5-8931-4678-a97d-78a2fe1d2b75",
+        "type": "message",
+        "text": "What's the reason for what?",
+        "user": "U15J5H60P",
+        "ts": "1532093970.000561"
+    },
+    {
+        "client_msg_id": "1fa2570d-cbe9-4ef0-bcbb-1e522f519409",
+        "type": "message",
+        "text": "Buying MU?",
+        "user": "U15J5H60P",
+        "ts": "1532093975.000073"
+    },
+    {
+        "client_msg_id": "cbd8e918-c784-44fb-9fc2-bcd64ac9ccff",
+        "type": "message",
+        "text": "Analysts all say buy",
+        "user": "U15J5H60P",
+        "ts": "1532093980.000164"
+    },
+    {
+        "client_msg_id": "4A3C5884-2547-413E-B018-02457DBB4CA5",
+        "type": "message",
+        "text": "For avoiding calls and puts",
+        "user": "U15HZ01QX",
+        "ts": "1532093980.000263"
+    },
+    {
+        "client_msg_id": "621cdf90-161f-4b47-924c-7e79ba97164c",
+        "type": "message",
+        "text": "I CAN'T",
+        "user": "U15J5H60P",
+        "ts": "1532093983.000499"
+    },
+    {
+        "client_msg_id": "b1b465e6-592b-48ad-afbd-9176f923687b",
+        "type": "message",
+        "text": "CANNOT",
+        "user": "U15J5H60P",
+        "ts": "1532093985.000096"
+    },
+    {
+        "client_msg_id": "af7b5764-d2e1-419a-947c-f38d6b1f3669",
+        "type": "message",
+        "text": "My job doesn't let me",
+        "user": "U15J5H60P",
+        "ts": "1532093989.000397"
+    },
+    {
+        "client_msg_id": "7EB73B57-0B9B-45B2-9AA6-E78D91EE65B2",
+        "type": "message",
+        "text": "Mentally?",
+        "user": "U15HZ01QX",
+        "ts": "1532093991.000208"
+    },
+    {
+        "client_msg_id": "7FF46FE9-E1A3-4E0B-BD7D-E09130145589",
+        "type": "message",
+        "text": "What???",
+        "user": "U15HZ01QX",
+        "ts": "1532093997.000102"
+    },
+    {
+        "client_msg_id": "7696985E-0BCA-4609-8140-A7467361FD3B",
+        "type": "message",
+        "text": "What do you mean lol",
+        "user": "U15HZ01QX",
+        "ts": "1532094005.000016"
+    },
+    {
+        "client_msg_id": "d5201562-0936-4e4e-ad2f-374e42ae21ef",
+        "type": "message",
+        "text": "He has stated this a few times",
+        "user": "U15HRTAHL",
+        "ts": "1532094013.000509"
+    },
+    {
+        "client_msg_id": "a7cb2617-3287-417b-9b06-bd8e50ae22e8",
+        "type": "message",
+        "text": "I feel like we've been through this a million times",
+        "user": "U15J5H60P",
+        "ts": "1532094015.000049"
+    },
+    {
+        "client_msg_id": "30C7187B-84EC-4421-9853-B364F6B71BBD",
+        "type": "message",
+        "text": "He stated I can’t use Robinhood because my job doesn’t let me",
+        "user": "U15HZ01QX",
+        "ts": "1532094032.000069"
+    },
+    {
+        "client_msg_id": "5BBA311A-85A9-4764-8A91-48A44723C2BE",
+        "type": "message",
+        "text": "That was last week",
+        "user": "U15HZ01QX",
+        "ts": "1532094035.000233"
+    },
+    {
+        "client_msg_id": "FED16C19-C304-4FF3-B17B-0111D1DC967D",
+        "type": "message",
+        "text": "That’s all I heard of it",
+        "user": "U15HZ01QX",
+        "ts": "1532094040.000107"
+    },
+    {
+        "client_msg_id": "60BF6277-49FE-4C06-AFAC-DAFB6E122CCE",
+        "type": "message",
+        "text": "Ever",
+        "user": "U15HZ01QX",
+        "ts": "1532094041.000553"
+    },
+    {
+        "client_msg_id": "a425c51f-4f0c-4eda-b359-07383c4cce25",
+        "type": "message",
+        "text": "And I stated that I have a lot of restrictions due to my job",
+        "user": "U15J5H60P",
+        "ts": "1532094043.000243"
+    },
+    {
+        "client_msg_id": "ee7cdbc4-ede7-4c8f-8f08-e5d9ce9f0f04",
+        "type": "message",
+        "text": "I work in investments",
+        "user": "U15J5H60P",
+        "ts": "1532094045.000546"
+    },
+    {
+        "client_msg_id": "c954606b-6ffa-481f-ad03-04915ca213ce",
+        "type": "message",
+        "text": "That means I am under regulation",
+        "user": "U15J5H60P",
+        "ts": "1532094050.000534"
+    },
+    {
+        "client_msg_id": "95b75fb6-718a-4264-811e-a21e59e8705b",
+        "type": "message",
+        "text": "The reason I can't use Robinhood is because they don't tell my job everything I'm doing",
+        "user": "U15J5H60P",
+        "ts": "1532094072.000130"
+    },
+    {
+        "client_msg_id": "C5384CE2-7146-4546-829D-B737EDBE5112",
+        "type": "message",
+        "text": "Makes perfect sense",
+        "user": "U15HZ01QX",
+        "ts": "1532094082.000325"
+    },
+    {
+        "client_msg_id": "0e021079-a1a3-4c99-a3cc-963c0cb84a26",
+        "type": "message",
+        "text": "When I buy something, I HAVE to hold it for more than 90 days",
+        "user": "U15J5H60P",
+        "ts": "1532094094.000182"
+    },
+    {
+        "client_msg_id": "890acd78-bbbf-4b2b-be88-4b1796751e9f",
+        "type": "message",
+        "text": "So even if I watch Apple tank to $3, there's nothing I can do without causing a major fine",
+        "user": "U15J5H60P",
+        "ts": "1532094116.000055"
+    },
+    {
+        "client_msg_id": "a790cdf6-47ca-4117-bdc1-1c37f6bf315d",
+        "type": "message",
+        "text": "Whatever major means",
+        "user": "U15J5H60P",
+        "ts": "1532094130.000004"
+    },
+    {
+        "client_msg_id": "36762CD6-EA12-4504-AEBC-2A8C22D00E8A",
+        "type": "message",
+        "text": "Ok I’m with you",
+        "user": "U15HZ01QX",
+        "ts": "1532094190.000333"
+    },
+    {
+        "client_msg_id": "a2c5e460-8b4e-47e1-96e5-7eaae902f363",
+        "type": "message",
+        "text": "Every quarter I have to go through a certification where I talk about what I own and why I own it. And \"Did you hear anything about that from our analysts? Are you part of an investment club? Do you attend meetings about our holdings, etc\"",
+        "user": "U15J5H60P",
+        "ts": "1532094206.000174"
+    },
+    {
+        "client_msg_id": "7A629A40-FDFE-48C0-B05A-BC9561D70A1C",
+        "type": "message",
+        "text": "Still with you",
+        "user": "U15HZ01QX",
+        "ts": "1532094247.000292"
+    },
+    {
+        "client_msg_id": "5697eb85-d814-4920-8263-50bbc4b6f0db",
+        "type": "message",
+        "text": "When I go through the compliance system, I have to disclose my intents before I make any trades",
+        "user": "U15J5H60P",
+        "ts": "1532094397.000204"
+    },
+    {
+        "client_msg_id": "2530c2ef-cc07-4c36-b5bd-f3d1bf26e004",
+        "type": "message",
+        "text": "I can only buy and sell, Activity type gives me one option when I put in Buy\/Sell. Either Security Disposition or Security Acquisition.",
+        "user": "U15J5H60P",
+        "ts": "1532094435.000113"
+    },
+    {
+        "client_msg_id": "2B3AF4DF-57BF-4DBD-AAFE-4297E40CF6A2",
+        "type": "message",
+        "text": "So did they tell you you can’t trade options? Or is it just because that form doesn’t highlight options as a specific section?",
+        "user": "U15HZ01QX",
+        "ts": "1532094503.000362"
+    },
+    {
+        "client_msg_id": "1f58f2ce-a29f-4748-bd01-1a73a39a7233",
+        "type": "message",
+        "text": "They told us that we can't unless we get a special certification. Which I'm not going to do.",
+        "user": "U15J5H60P",
+        "ts": "1532094587.000056"
+    },
+    {
+        "client_msg_id": "c74aa66c-56fb-41c1-9ab7-85cda1573657",
+        "type": "message",
+        "text": "The reason they're grayed out is because I am not certified.",
+        "user": "U15J5H60P",
+        "ts": "1532094601.000010"
+    },
+    {
+        "client_msg_id": "939c6fc2-f84a-447d-9c8a-1822b0a31db7",
+        "type": "message",
+        "text": "I might get certified",
+        "user": "U15J5H60P",
+        "ts": "1532094709.000533"
+    },
+    {
+        "client_msg_id": "026f7534-3140-49bf-b559-49b6df1da1d7",
+        "type": "message",
+        "text": "If I learn how to do it. I'll try them on Market Watch and see how far I get with $2000",
+        "user": "U15J5H60P",
+        "ts": "1532094727.000263"
+    },
+    {
+        "client_msg_id": "F727A894-0864-4B93-B4E7-C0EA9E4C6460",
+        "type": "message",
+        "text": "Ok makes sense ",
+        "user": "U15HZ01QX",
+        "ts": "1532094749.000175"
+    },
+    {
+        "client_msg_id": "bb396a93-89d3-4bf7-9711-6d72a308f0cb",
+        "type": "message",
+        "text": "How long should I make my simulation for?",
+        "user": "U15J5H60P",
+        "ts": "1532094762.000081"
+    },
+    {
+        "client_msg_id": "d62e0307-2812-45e4-ac91-f3fa25295949",
+        "type": "message",
+        "text": "Is $2000 enough to start out with?",
+        "user": "U15J5H60P",
+        "ts": "1532094766.000512"
+    },
+    {
+        "client_msg_id": "a1fe57b2-fc82-4814-8124-b1319fc02ea4",
+        "type": "message",
+        "text": "How much time do I need for options?",
+        "user": "U15J5H60P",
+        "ts": "1532094772.000225"
+    },
+    {
+        "client_msg_id": "b9a15c6b-a208-41ed-ab61-b681b5caa8fc",
+        "type": "message",
+        "text": "What should I put calls\/puts on right now?",
+        "user": "U15J5H60P",
+        "ts": "1532094827.000392"
+    },
+    {
+        "client_msg_id": "a3174ca1-9dd1-473f-b519-7fd82e5bf90a",
+        "type": "message",
+        "text": "Market Watch doesn't do options",
+        "user": "U15J5H60P",
+        "ts": "1532094868.000530"
+    },
+    {
+        "client_msg_id": "36d92c85-dba7-4a53-97f2-5687f344e418",
+        "type": "message",
+        "text": "Unbelievable",
+        "user": "U15J5H60P",
+        "ts": "1532094870.000340"
+    },
+    {
+        "client_msg_id": "E1EE44B4-5E03-487B-8149-472A2ADA3DA3",
+        "type": "message",
+        "text": "Any amount works, if I was mirroring your holdings I would put money on Apple for after earnings",
+        "user": "U15HZ01QX",
+        "ts": "1532094879.000186"
+    },
+    {
+        "client_msg_id": "df352564-58fb-4918-a118-bf9ead8f1475",
+        "type": "message",
+        "text": "So do I buy calls or puts?",
+        "user": "U15J5H60P",
+        "ts": "1532095148.000566"
+    },
+    {
+        "client_msg_id": "9451CFC5-34C4-44C2-A030-508778D34B8E",
+        "type": "message",
+        "text": "For Apple Prolly calls",
+        "user": "U15HZ01QX",
+        "ts": "1532096566.000018"
+    },
+    {
+        "client_msg_id": "a5b700a8-a4da-48fd-8e49-9ed4674646f7",
+        "type": "message",
+        "text": "Betting on?",
+        "user": "U15J5H60P",
+        "ts": "1532096576.000096"
+    },
+    {
+        "client_msg_id": "aa2c1c5c-9c5b-44a4-84a8-eb41b5dd617c",
+        "type": "message",
+        "text": "I'm really sad that I can't use robinhood",
+        "user": "U15J5H60P",
+        "ts": "1532096592.000075"
+    },
+    {
+        "client_msg_id": "b72c4fad-b7f1-4e03-8496-59002822d6f7",
+        "type": "message",
+        "text": "I love how it explains everything to you",
+        "user": "U15J5H60P",
+        "ts": "1532096597.000138"
+    },
+    {
+        "client_msg_id": "331821d3-e535-4624-8846-b929c13bcb62",
+        "type": "message",
+        "text": "I don't think it'll go above $205",
+        "user": "U15J5H60P",
+        "ts": "1532096671.000227"
+    },
+    {
+        "client_msg_id": "493B8535-8C78-452F-A0C0-80093B919ED3",
+        "type": "message",
+        "text": "I mean, you don’t have to.",
+        "user": "U15HZ01QX",
+        "ts": "1532096800.000404"
+    },
+    {
+        "client_msg_id": "BDB1DE5A-02EF-4467-B9E1-588DA2CA2AE0",
+        "type": "message",
+        "text": "But if it hits 198 or something in August or September you’ll be able to sell it for a very very large amount of money",
+        "user": "U15HZ01QX",
+        "ts": "1532096829.000491"
+    },
+    {
+        "client_msg_id": "585fc20c-8eb8-4f74-8ddb-1e568b44f98d",
+        "type": "message",
+        "text": "There are no calls at $200 on investopedia",
+        "user": "U15J5H60P",
+        "ts": "1532100453.000532"
+    },
+    {
+        "client_msg_id": "68c35bfa-0dde-4634-bf9c-bdef175bb53c",
+        "type": "message",
+        "text": "197.50",
+        "user": "U15J5H60P",
+        "ts": "1532100455.000464"
+    },
+    {
+        "client_msg_id": "42145dba-672b-4034-8dd1-20b3f8689519",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/vojkkxta5ds01.jpg>",
+        "user": "U15HSHSS2",
+        "ts": "1532100555.000184",
+        "attachments": [
+            {
+                "fallback": "750x885px image",
+                "image_url": "https:\/\/i.redd.it\/vojkkxta5ds01.jpg",
+                "image_width": 750,
+                "image_height": 885,
+                "image_bytes": 111474,
+                "from_url": "https:\/\/i.redd.it\/vojkkxta5ds01.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/vojkkxta5ds01.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a54bd624-4e33-4219-ad9a-828ea14d337f",
+        "type": "message",
+        "text": "lololol",
+        "user": "U15J5H60P",
+        "ts": "1532100586.000164"
+    },
+    {
+        "client_msg_id": "b4ec1a6e-1b31-47ac-8bba-48f57975711c",
+        "type": "message",
+        "text": "<https:\/\/gfycat.com\/CoordinatedOrdinaryBronco>",
+        "user": "U15HSHSS2",
+        "ts": "1532100749.000397",
+        "attachments": [
+            {
+                "service_name": "Gfycat",
+                "title": "iseedeadtendies2 - Create, Discover and Share GIFs on Gfycat",
+                "title_link": "https:\/\/gfycat.com\/CoordinatedOrdinaryBronco",
+                "text": "Watch iseedeadtendies2 GIF on Gfycat. Discover more GIFS online at Gfycat.",
+                "fallback": "Gfycat: iseedeadtendies2 - Create, Discover and Share GIFs on Gfycat",
+                "thumb_url": "https:\/\/thumbs.gfycat.com\/CoordinatedOrdinaryBronco-size_restricted.gif",
+                "from_url": "https:\/\/gfycat.com\/CoordinatedOrdinaryBronco",
+                "thumb_width": 444,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/assets.gfycat.com\/static\/apple-touch-icon\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/gfycat.com\/CoordinatedOrdinaryBronco"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5f7d216-64f7-4566-af64-48b384794de4",
+        "type": "message",
+        "text": "r\/wallstreetbets is just a circlejerk of shitposts lol",
+        "user": "U15HSHSS2",
+        "ts": "1532100798.000137"
+    }
+]

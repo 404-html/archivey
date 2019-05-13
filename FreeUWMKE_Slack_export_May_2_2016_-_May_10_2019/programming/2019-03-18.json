@@ -1,0 +1,515 @@
+[
+    {
+        "client_msg_id": "281154d7-fb28-4871-8aa8-1a4673b8bbfb",
+        "type": "message",
+        "text": "I got that thing I was bitching and moaning about to work",
+        "user": "U15HRTAHL",
+        "ts": "1552918940.000300",
+        "reactions": [
+            {
+                "name": "star2",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c401307a-fe90-4b7d-909b-f4fd9b3451ec",
+        "type": "message",
+        "text": "Good job, buddy.",
+        "user": "U15J5H60P",
+        "ts": "1552920315.000500"
+    },
+    {
+        "client_msg_id": "45623FD4-6E98-4092-B09B-5ED094CED697",
+        "type": "message",
+        "text": "Niiiice",
+        "user": "U15HY5TG8",
+        "ts": "1552921156.000800"
+    },
+    {
+        "client_msg_id": "0163e393-2f20-4e66-855c-638b9324a76f",
+        "type": "message",
+        "text": "note to self: do this later - <https:\/\/github.com\/tdmalone\/working-plusplus>",
+        "user": "U15HY5TG8",
+        "ts": "1552922974.001300",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "tdmalone\/working-plusplus",
+                "title_link": "https:\/\/github.com\/tdmalone\/working-plusplus",
+                "text": "Like plusplus.chat, but one that actually works, because you can host it yourself :wink: - tdmalone\/working-plusplus",
+                "fallback": "GitHub: tdmalone\/working-plusplus",
+                "from_url": "https:\/\/github.com\/tdmalone\/working-plusplus",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/900469?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/tdmalone\/working-plusplus"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73eb7ae9-1c2d-42a1-9538-6a6155f5d37c",
+        "type": "message",
+        "text": "noice",
+        "user": "U15J5H60P",
+        "ts": "1552922997.001600"
+    },
+    {
+        "client_msg_id": "7305bd3d-f90b-4378-b94d-1a133ea8ec54",
+        "type": "message",
+        "text": "yeah, requires us to host this shit ourselves though. unreal",
+        "user": "U15HY5TG8",
+        "ts": "1552923025.002000"
+    },
+    {
+        "client_msg_id": "d144b2c9-eb98-457b-96ee-db6f8b2a0378",
+        "type": "message",
+        "text": "Get a free vm on AWS",
+        "user": "U15J5H60P",
+        "ts": "1552923300.002500"
+    },
+    {
+        "client_msg_id": "3037bf5d-f6db-44ce-8ec9-ee4963dd1c94",
+        "type": "message",
+        "text": "not a bad idea",
+        "user": "U15HY5TG8",
+        "ts": "1552923329.002700"
+    },
+    {
+        "client_msg_id": "a98d1684-2931-450a-b56a-6241e4ccad45",
+        "type": "message",
+        "text": "I have to go through so much work to ruin your guys day with all the \"--\"s",
+        "user": "U15HY5TG8",
+        "ts": "1552923373.003300"
+    },
+    {
+        "client_msg_id": "5716dce8-1219-4752-b128-6118fed27f75",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1552923385.003500"
+    },
+    {
+        "client_msg_id": "f2c67eae-4654-427b-8257-83eca6a37154",
+        "type": "message",
+        "text": "<@U15J5H60P> have you ever looked into working at bright cellars?",
+        "user": "U15HRTAHL",
+        "ts": "1552933697.003800"
+    },
+    {
+        "client_msg_id": "1d839b56-6c3b-4f98-825d-19b151dbab69",
+        "type": "message",
+        "text": "Nope.",
+        "user": "U15J5H60P",
+        "ts": "1552933705.004200"
+    },
+    {
+        "client_msg_id": "1559ef83-9ec9-41db-8bad-b179e9a30be6",
+        "type": "message",
+        "text": "Tony just accepted an offer. Pay is good and you get equity",
+        "user": "U15HRTAHL",
+        "ts": "1552933710.004400"
+    },
+    {
+        "client_msg_id": "ae6d6adf-20a5-4240-9e15-440a6dd778c9",
+        "type": "message",
+        "text": "I don't believe in their product lol",
+        "user": "U15J5H60P",
+        "ts": "1552933726.004600"
+    },
+    {
+        "client_msg_id": "a681631e-591a-403e-ba3d-08f7f9250d46",
+        "type": "message",
+        "text": "I learned my lesson with startups",
+        "user": "U15J5H60P",
+        "ts": "1552933744.004800"
+    },
+    {
+        "client_msg_id": "4ed62eb5-602e-4a4f-a039-329ed42e23ad",
+        "type": "message",
+        "text": "David Faber works there",
+        "user": "U15J5H60P",
+        "ts": "1552933750.005100"
+    },
+    {
+        "client_msg_id": "cc8a56cb-e916-4b50-8046-8ef956ebda41",
+        "type": "message",
+        "text": "He worked at MilJobs",
+        "user": "U15J5H60P",
+        "ts": "1552933755.005400"
+    },
+    {
+        "client_msg_id": "19aef067-59b1-4eaf-888e-898a48a0ea25",
+        "type": "message",
+        "text": "I’m starting to believe if you make something reasonably well someone will buy it",
+        "user": "U15HRTAHL",
+        "ts": "1552933769.005700"
+    },
+    {
+        "client_msg_id": "ad0812e2-47e8-4dad-922a-4f3a22a6dde1",
+        "type": "message",
+        "text": "there are so many stupid fucking companies out there that employ hundreds of people and make a profit",
+        "user": "U15HRTAHL",
+        "ts": "1552933794.006400"
+    },
+    {
+        "client_msg_id": "1bf50abb-0a31-48c6-9e2c-b61a388a7e70",
+        "type": "message",
+        "text": "I don’t get it, but they do",
+        "user": "U15HRTAHL",
+        "ts": "1552933799.006600"
+    },
+    {
+        "client_msg_id": "10edb1c7-64b5-45a9-b82d-3e5988dc93e4",
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15HRTAHL",
+        "ts": "1552938753.006800"
+    },
+    {
+        "client_msg_id": "00C6940C-FE0A-40A6-9F9C-8DF4EE1BF163",
+        "type": "message",
+        "text": "Sup",
+        "user": "U15HY5TG8",
+        "ts": "1552938763.007000"
+    },
+    {
+        "client_msg_id": "0346c977-a9cd-4d19-8847-deff32c78978",
+        "type": "message",
+        "text": "Entity Framework question",
+        "user": "U15HRTAHL",
+        "ts": "1552938773.007300"
+    },
+    {
+        "client_msg_id": "5B99EAFF-C312-4930-BF80-862C934736D0",
+        "type": "message",
+        "text": "Lulz",
+        "user": "U15HY5TG8",
+        "ts": "1552938779.007500"
+    },
+    {
+        "client_msg_id": "d7527571-55b6-4a53-a3a8-b17cc027d3dd",
+        "type": "message",
+        "text": "An endpoint calls a db stored proc through ef. I updated the stored proc and refreshed ef. ef generates a model class but it doesn’t add the new column I selected",
+        "user": "U15HRTAHL",
+        "ts": "1552938833.008400"
+    },
+    {
+        "client_msg_id": "9cdd29bb-0b89-4c71-848e-0ebf8fcfc3b6",
+        "type": "message",
+        "text": "but it shows up in the designer",
+        "user": "U15HRTAHL",
+        "ts": "1552938841.008700"
+    },
+    {
+        "client_msg_id": "6615b774-dcca-4ac2-9064-54898dc3f502",
+        "type": "message",
+        "text": "and when I manually update the model with the new column it’s null",
+        "user": "U15HRTAHL",
+        "ts": "1552938872.009100"
+    },
+    {
+        "client_msg_id": "6a55a1cb-00cd-4921-a736-4a3ce6fd75fc",
+        "type": "message",
+        "text": "and if I refresh ef the model removes it",
+        "user": "U15HRTAHL",
+        "ts": "1552938887.009600"
+    },
+    {
+        "client_msg_id": "05b5cd01-51be-4c61-ada9-1e4d8bce61cd",
+        "type": "message",
+        "text": "Usually, you have to go to the object browser when you have the edmx file selected and there should be like a Functional Imports section. You'll want to update the functional import model for that stored procedure. Also (this is only for an advanced\/complex SP), another goofy thing is if you have custom computed columns, aka columns that are not physical columns of any table used in the SP, you need to comment out like the whole SP and make a simple select statement at the bottom, do your sync so that it picks up the column, then go back and uncomment the SP and comment out the select statement",
+        "user": "U15HY5TG8",
+        "ts": "1552939108.013200"
+    },
+    {
+        "client_msg_id": "6170bd13-bce1-474c-a600-f7a95f8b2e7f",
+        "type": "message",
+        "text": "once the VM unbricks itself we’ll see what we have",
+        "user": "U15HRTAHL",
+        "ts": "1552939271.013500"
+    },
+    {
+        "client_msg_id": "aad9ccfa-028f-4320-8cf3-d850cf559f53",
+        "type": "message",
+        "text": "sounds gooood",
+        "user": "U15HY5TG8",
+        "ts": "1552939284.013700"
+    },
+    {
+        "client_msg_id": "2809e192-2b6a-4a81-971a-db7ff13afb28",
+        "type": "message",
+        "text": "I unfortunately don't have a live example anymore here. I don't think we have a single stored procedure that we use",
+        "user": "U15HY5TG8",
+        "ts": "1552939324.014300"
+    },
+    {
+        "client_msg_id": "c9811e41-52a5-491b-abe2-71d893e9a740",
+        "type": "message",
+        "text": "lucky",
+        "user": "U15HRTAHL",
+        "ts": "1552939644.014500"
+    },
+    {
+        "client_msg_id": "17f46724-4256-4d63-a0c2-baa909033f2a",
+        "type": "message",
+        "text": "must be clean fucking code",
+        "user": "U15HRTAHL",
+        "ts": "1552939648.014700"
+    },
+    {
+        "client_msg_id": "29155d19-d383-406e-8d1b-0f97616dba7f",
+        "type": "message",
+        "text": "shit that actually makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1552939658.015000"
+    },
+    {
+        "client_msg_id": "6d8e4c55-5948-40f5-9053-2e36256a2d2e",
+        "type": "message",
+        "text": "ehhh",
+        "user": "U15HY5TG8",
+        "ts": "1552939662.015200"
+    },
+    {
+        "client_msg_id": "24057ff8-9514-4d38-8a43-6a8d507f8338",
+        "type": "message",
+        "text": "We just don't have a whole lot of user generated code",
+        "user": "U15HY5TG8",
+        "ts": "1552939674.015500"
+    },
+    {
+        "client_msg_id": "160ddcc3-7fba-4b55-9985-f461a0391d9f",
+        "type": "message",
+        "text": "dynamic sql?",
+        "user": "U15HRTAHL",
+        "ts": "1552939697.016300"
+    },
+    {
+        "client_msg_id": "aab3242c-a002-4dec-888d-4441932d7425",
+        "type": "message",
+        "text": "all of that made sense? lol",
+        "user": "U15HY5TG8",
+        "ts": "1552939698.016400"
+    },
+    {
+        "client_msg_id": "81a70eb1-36ad-48ac-b18e-d9fff057612c",
+        "type": "message",
+        "text": "not sure. Had to restart windows and it decided to apply an update",
+        "user": "U15HRTAHL",
+        "ts": "1552939716.016800"
+    },
+    {
+        "client_msg_id": "022f7f06-30ae-40c4-8b51-7156f2b756a0",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1552939724.017000"
+    },
+    {
+        "client_msg_id": "ebdc1c78-eae4-488e-89d1-d3b59753884a",
+        "type": "message",
+        "text": "fucking windows",
+        "user": "U15HRTAHL",
+        "ts": "1552939729.017300"
+    },
+    {
+        "client_msg_id": "7dc6c82e-d3dd-4f01-adcb-6349d6ba4c01",
+        "type": "message",
+        "text": "dynamic sql is a perfect example of that extra step probably",
+        "user": "U15HY5TG8",
+        "ts": "1552939741.017600"
+    },
+    {
+        "client_msg_id": "f9aabcc2-9b48-4bfe-9fa9-395f94e0785a",
+        "type": "message",
+        "text": "weird",
+        "user": "U15HRTAHL",
+        "ts": "1552940109.017800"
+    },
+    {
+        "client_msg_id": "47c4b5c0-8e6b-41a6-b634-e02b08866448",
+        "type": "message",
+        "text": "I think I got it",
+        "user": "U15HRTAHL",
+        "ts": "1552940111.018000"
+    },
+    {
+        "client_msg_id": "307a2187-985d-4f8c-bc80-f333039c05d6",
+        "type": "message",
+        "text": "whatd you do",
+        "user": "U15HY5TG8",
+        "ts": "1552940123.018400"
+    },
+    {
+        "client_msg_id": "7881acd1-0d76-44b4-a086-89cc742e8617",
+        "type": "message",
+        "text": "I had to go into the model browser for the edmx",
+        "user": "U15HRTAHL",
+        "ts": "1552940129.018600"
+    },
+    {
+        "client_msg_id": "d88cd821-bdae-4c96-857d-f6ae7cfdcb3d",
+        "type": "message",
+        "text": "yup yup",
+        "user": "U15HY5TG8",
+        "ts": "1552940136.018900"
+    },
+    {
+        "client_msg_id": "1b9cfeb4-63b5-48ed-bc7b-0d351d96461e",
+        "type": "message",
+        "text": "open function imports folder",
+        "user": "U15HRTAHL",
+        "ts": "1552940137.019100"
+    },
+    {
+        "client_msg_id": "e0d7b1ec-7a7e-4dfb-bb7d-7c42235e76ae",
+        "type": "message",
+        "text": "double click my function",
+        "user": "U15HRTAHL",
+        "ts": "1552940151.019400"
+    },
+    {
+        "client_msg_id": "3fdaa1a6-edce-4413-8301-173ecba55863",
+        "type": "message",
+        "text": "yeah it's goofy",
+        "user": "U15HY5TG8",
+        "ts": "1552940153.019600"
+    },
+    {
+        "client_msg_id": "25104d62-fc6f-47e1-9f97-efaddc1be6e6",
+        "type": "message",
+        "text": "then click update",
+        "user": "U15HRTAHL",
+        "ts": "1552940155.019800"
+    },
+    {
+        "client_msg_id": "9400d779-c124-42fa-aac2-97e8f98aea94",
+        "type": "message",
+        "text": "I always forgot that part",
+        "user": "U15HY5TG8",
+        "ts": "1552940159.019900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH090488Y",
+                "created": 1552940175,
+                "timestamp": 1552940175,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-18, 3:16 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 37003,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH090488Y\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FH090488Y\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH090488Y-06e3bf9c26\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH090488Y-06e3bf9c26\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH090488Y-06e3bf9c26\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 296,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH090488Y-06e3bf9c26\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 395,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FH090488Y-06e3bf9c26\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 511,
+                "original_h": 621,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FH090488Y\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FH090488Y-3ae5646f2e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1552940178.020100"
+    },
+    {
+        "client_msg_id": "111c00f5-255b-4597-a62a-710ce275c32f",
+        "type": "message",
+        "text": "idk why it just doesn’t do that after you update the model from the db",
+        "user": "U15HRTAHL",
+        "ts": "1552940186.020700"
+    },
+    {
+        "client_msg_id": "41847819-c77b-4b9e-8713-e4055e280aed",
+        "type": "message",
+        "text": "yup yup",
+        "user": "U15HY5TG8",
+        "ts": "1552940186.020800"
+    },
+    {
+        "client_msg_id": "628c1e15-ddaa-45bc-abeb-fb5027433cb6",
+        "type": "message",
+        "text": "yeah it's stupid",
+        "user": "U15HY5TG8",
+        "ts": "1552940234.021500"
+    },
+    {
+        "client_msg_id": "79cc60a1-b0fe-49c8-a130-8dfc8d923402",
+        "type": "message",
+        "text": "I don't get why it doesn't",
+        "user": "U15HY5TG8",
+        "ts": "1552940240.021700"
+    },
+    {
+        "client_msg_id": "55ee809f-6a21-4f93-8bee-fe853c531e7d",
+        "type": "message",
+        "text": "I'm sure it's gotta be so that it doesn't waste time diving into and computing every SP to find what they return",
+        "user": "U15HY5TG8",
+        "ts": "1552940277.022400"
+    },
+    {
+        "client_msg_id": "3b980be5-71ae-4fc7-8734-31ecf8bc884b",
+        "type": "message",
+        "text": "which is probably good, since the regular refresh takes a lifetime already",
+        "user": "U15HY5TG8",
+        "ts": "1552940292.022800"
+    },
+    {
+        "client_msg_id": "749760a6-03d5-49fd-aecb-4afb6803d8e2",
+        "type": "message",
+        "text": "that worked",
+        "user": "U15HRTAHL",
+        "ts": "1552940320.023000"
+    },
+    {
+        "client_msg_id": "857a3059-6422-4054-b255-628525234931",
+        "type": "message",
+        "text": "thank god",
+        "user": "U15HRTAHL",
+        "ts": "1552940322.023300"
+    },
+    {
+        "client_msg_id": "81e25d48-4b73-44db-a066-610e1ba799b0",
+        "type": "message",
+        "text": "fucking .net",
+        "user": "U15HRTAHL",
+        "ts": "1552940327.023500"
+    },
+    {
+        "client_msg_id": "333b0345-5fd5-47a6-a592-e35960441af2",
+        "type": "message",
+        "text": "haha glad I can remember at least some things",
+        "user": "U15HY5TG8",
+        "ts": "1552940411.023800"
+    }
+]

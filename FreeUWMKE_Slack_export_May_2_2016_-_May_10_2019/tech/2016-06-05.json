@@ -1,0 +1,40 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=tV8EOQNYC-8>",
+        "user": "U15J5H60P",
+        "ts": "1465145422.000002",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Artificial Intelligence | Elon Musk, SpaceX and Tesla | Code Conference 2016",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=tV8EOQNYC-8",
+                "author_name": "Recode",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCMDxbhGcsE7EnknxPEzC_Iw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/tV8EOQNYC-8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Artificial Intelligence | Elon Musk, SpaceX and Tesla | Code Conference 2016",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/tV8EOQNYC-8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=tV8EOQNYC-8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Elon Musk is so smart that he can’t articulate his ideas.",
+        "user": "U15J5H60P",
+        "ts": "1465145432.000004"
+    },
+    {
+        "type": "message",
+        "text": "I barely understood what he was talking about.",
+        "user": "U15J5H60P",
+        "ts": "1465145444.000005"
+    }
+]

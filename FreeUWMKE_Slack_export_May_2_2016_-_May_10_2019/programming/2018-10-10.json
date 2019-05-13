@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "cc97a9a5-60c7-4c4c-835b-b374dfee235f",
+        "type": "message",
+        "text": "I didn’t realize entity framework brings over constraints in the db model",
+        "user": "U15HRTAHL",
+        "ts": "1539183897.000100"
+    },
+    {
+        "client_msg_id": "bec291a8-7377-4a40-a2b9-e5a52f1bee00",
+        "type": "message",
+        "text": "seems redundant since the db is going to be performing those anyways",
+        "user": "U15HRTAHL",
+        "ts": "1539183916.000100"
+    },
+    {
+        "client_msg_id": "F7EE6C3F-C351-42D7-8A77-9B9EC14B60FA",
+        "type": "message",
+        "text": "Well one of the main things about entity is to decouple the database from the code. So you can move from Sql Server to Oracle to MySql or whatever. Then when you make the move, you can actually create the database model from the entity model in your app",
+        "user": "U15HY5TG8",
+        "ts": "1539184400.000100"
+    },
+    {
+        "client_msg_id": "2dcc6aea-710b-4aef-8a6d-d4d371d89593",
+        "type": "message",
+        "text": "ahhhh",
+        "user": "U15HRTAHL",
+        "ts": "1539184433.000100"
+    },
+    {
+        "client_msg_id": "25096f3e-9f5d-478d-a5d6-8d5dfd93fea4",
+        "type": "message",
+        "text": "that’s pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1539184435.000100"
+    },
+    {
+        "client_msg_id": "CE14B729-7ECA-4151-8854-6EB7784BFE5A",
+        "type": "message",
+        "text": "Yup yup",
+        "user": "U15HY5TG8",
+        "ts": "1539184462.000100"
+    },
+    {
+        "client_msg_id": "27e3c140-7d69-4790-8249-b079ba5740f8",
+        "type": "message",
+        "text": "whole lotta if statements",
+        "user": "U15HRTAHL",
+        "ts": "1539184520.000100"
+    },
+    {
+        "client_msg_id": "F08FBE03-E115-4F97-8927-3BB7519DA7BC",
+        "type": "message",
+        "text": "In your code? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1539184602.000100"
+    },
+    {
+        "client_msg_id": "541719de-b4b7-4a3c-a965-c9e95868e390",
+        "type": "message",
+        "text": "no in enttiy",
+        "user": "U15HRTAHL",
+        "ts": "1539184608.000100"
+    },
+    {
+        "client_msg_id": "FFCD0943-FE32-4C64-8C2C-BF0031B3633D",
+        "type": "message",
+        "text": "Ahh not sure ive ever looked lol",
+        "user": "U15HY5TG8",
+        "ts": "1539184629.000100"
+    },
+    {
+        "client_msg_id": "d5f3a658-d3b0-41b8-afa6-9acd6c7f19d7",
+        "type": "message",
+        "text": "if (mysql) use mysql commands\nelse if (sqlServer) use sqlserveer commands\n.\n.\n.\nelse if (some piece of shit db) use piece of shit sql commands",
+        "user": "U15HRTAHL",
+        "ts": "1539184664.000100"
+    },
+    {
+        "client_msg_id": "8B143952-0E78-4AAA-83D0-BAE6F72047E9",
+        "type": "message",
+        "text": "Ahhhh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1539184686.000100"
+    },
+    {
+        "client_msg_id": "b0db2297-e01b-42a9-b403-9a3567201fc1",
+        "type": "message",
+        "text": "I’m just being sarcastic",
+        "user": "U15HRTAHL",
+        "ts": "1539184700.000100"
+    },
+    {
+        "client_msg_id": "bcfb0eb5-3261-44f9-b335-8c01ef9282cb",
+        "type": "message",
+        "text": "it’s like that meme where the guy is sitting behind a desk saying “AI is just a bunch of if statements, change my mind”",
+        "user": "U15HRTAHL",
+        "ts": "1539184737.000100"
+    },
+    {
+        "client_msg_id": "b91b8678-9ec9-46ba-9ff5-16a82f93f898",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/827m1q\/if_this_then_that\/>",
+        "user": "U15HRTAHL",
+        "ts": "1539184761.000200",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/ProgrammerHumor - If This Then That?",
+                "title_link": "https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/827m1q\/if_this_then_that\/",
+                "text": "20,132 votes and 727 comments so far on Reddit",
+                "fallback": "reddit: r\/ProgrammerHumor - If This Then That?",
+                "thumb_url": "https:\/\/external-preview.redd.it\/B_lQeKFyKYYGhEiMc3-FmczG4HxqnDMBtiWYNVcaExg.jpg?s=c56905a251a2b44425e5c9bb04fc1e4c590493c3",
+                "from_url": "https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/827m1q\/if_this_then_that\/",
+                "thumb_width": 680,
+                "thumb_height": 680,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/827m1q\/if_this_then_that\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BEB2E4FC-D511-41E3-BBC7-3E69D243B904",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1539185154.000100"
+    }
+]

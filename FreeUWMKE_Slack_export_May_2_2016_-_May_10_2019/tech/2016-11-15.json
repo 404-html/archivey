@@ -1,0 +1,70 @@
+[
+    {
+        "type": "message",
+        "text": "we should make a tinder bot lol",
+        "user": "U15HSHSS2",
+        "ts": "1479224212.000002"
+    },
+    {
+        "type": "message",
+        "text": "I looked into it lol",
+        "user": "U15HY5TG8",
+        "ts": "1479224231.000003"
+    },
+    {
+        "type": "message",
+        "text": "does tinder have an API?",
+        "user": "U15HSHSS2",
+        "ts": "1479224249.000004"
+    },
+    {
+        "type": "message",
+        "text": "Mostly because i wanted to break each one i encountered",
+        "user": "U15HY5TG8",
+        "ts": "1479224251.000005"
+    },
+    {
+        "type": "message",
+        "text": "I dont remember exactly but i think yes",
+        "user": "U15HY5TG8",
+        "ts": "1479224278.000006"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> will be getting this <https:\/\/www.youtube.com\/watch?v=IkskY9bL9Bk>",
+        "user": "U15HSHSS2",
+        "ts": "1479229231.000007",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "“Designed by Apple in California” Chronicles 20 Years of Apple Design",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=IkskY9bL9Bk",
+                "author_name": "Casa BRUTUS",
+                "author_link": "https:\/\/www.youtube.com\/user\/CasaBRUTUSmag",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/IkskY9bL9Bk\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: “Designed by Apple in California” Chronicles 20 Years of Apple Design",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/IkskY9bL9Bk?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=IkskY9bL9Bk",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15J5H60P",
+        "ts": "1479235814.000009"
+    },
+    {
+        "type": "message",
+        "text": "Yeah right",
+        "user": "U15J5H60P",
+        "ts": "1479235817.000010"
+    }
+]

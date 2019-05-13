@@ -1,0 +1,251 @@
+[
+    {
+        "client_msg_id": "76a8564c-fedf-4216-bafb-6d7730e41693",
+        "type": "message",
+        "text": "are you guys familiar with odata with web api 2?",
+        "user": "U15HRTAHL",
+        "ts": "1543347264.000400"
+    },
+    {
+        "client_msg_id": "0E77F14A-43FC-4E0B-A918-359A300AC97F",
+        "type": "message",
+        "text": "I am not",
+        "user": "U15HY5TG8",
+        "ts": "1543361676.000200"
+    },
+    {
+        "client_msg_id": "7DE07764-9A73-4D47-881C-CCDA735D235E",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1543361987.000400"
+    },
+    {
+        "client_msg_id": "1ffc0978-2968-4000-b0a2-d4bf6f406448",
+        "type": "message",
+        "text": "I think I found a security hole in Heroku",
+        "user": "U15HRTAHL",
+        "ts": "1543375528.000500"
+    },
+    {
+        "client_msg_id": "0c016a14-8005-4883-8b61-8067cb253225",
+        "type": "message",
+        "text": "they have a bug bounty program",
+        "user": "U15HRTAHL",
+        "ts": "1543375533.000800"
+    },
+    {
+        "client_msg_id": "0c16811b-8298-4c94-9182-3e65de18cdcf",
+        "type": "message",
+        "text": "I think I'm going to try it",
+        "user": "U15HRTAHL",
+        "ts": "1543375538.001000"
+    },
+    {
+        "client_msg_id": "7466A146-B5A1-4647-9156-41889A0FC1AF",
+        "type": "message",
+        "text": "Nice nice",
+        "user": "U15J5H60P",
+        "ts": "1543375551.001200"
+    },
+    {
+        "client_msg_id": "FA5F68E9-EE3A-42CB-B063-68322E01B6D1",
+        "type": "message",
+        "text": "What's the security hole?",
+        "user": "U15J5H60P",
+        "ts": "1543375562.001600"
+    },
+    {
+        "client_msg_id": "fb3a83bc-70c8-409b-977e-a26175621df4",
+        "type": "message",
+        "text": "I have a postgres db running on heroku and I'm using pgadmin as a db studio",
+        "user": "U15HRTAHL",
+        "ts": "1543375593.002200"
+    },
+    {
+        "client_msg_id": "c8f8756d-03b4-4d20-b1af-6bb73fe3256e",
+        "type": "message",
+        "text": "I can see other people's databases",
+        "user": "U15HRTAHL",
+        "ts": "1543375599.002400"
+    },
+    {
+        "client_msg_id": "E771EACD-D5D5-4BED-AA3F-F12D0BA68413",
+        "type": "message",
+        "text": "Can you see the data as well?",
+        "user": "U15J5H60P",
+        "ts": "1543375609.003000"
+    },
+    {
+        "client_msg_id": "84ae2174-05be-4765-a4dd-cf56c6ea103e",
+        "type": "message",
+        "text": "which isn't an issue because I can't access them",
+        "user": "U15HRTAHL",
+        "ts": "1543375609.003100"
+    },
+    {
+        "client_msg_id": "c33171f6-530b-4f41-be5f-583433710dbc",
+        "type": "message",
+        "text": "but",
+        "user": "U15HRTAHL",
+        "ts": "1543375613.003300"
+    },
+    {
+        "client_msg_id": "7BC6962F-F761-4A4A-8F23-DA17CBA9D87E",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1543375614.003500"
+    },
+    {
+        "type": "message",
+        "text": "I can terminate their sessions",
+        "files": [
+            {
+                "id": "FEDU2GHHT",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": null,
+        "ts": "1543375658.003600"
+    },
+    {
+        "client_msg_id": "31ABDB50-7069-4597-B629-BFC5EC74F077",
+        "type": "message",
+        "text": "Ah, that is interesting. ",
+        "user": "U15J5H60P",
+        "ts": "1543375687.004200"
+    },
+    {
+        "client_msg_id": "A94E137E-9E2D-43A3-B2FC-B795A49E1E54",
+        "type": "message",
+        "text": "What’s heroku?",
+        "user": "U15HSHSS2",
+        "ts": "1543375700.004600"
+    },
+    {
+        "client_msg_id": "63D9430B-61BE-4091-922E-AFD2B9672C1A",
+        "type": "message",
+        "text": "Do you have to provide a fix to claim the bounty?",
+        "user": "U15J5H60P",
+        "ts": "1543375712.005100"
+    },
+    {
+        "client_msg_id": "3CC32756-9D89-40B9-B4B1-8D6B839A0E5F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1543375732.005800"
+    },
+    {
+        "client_msg_id": "A9C4201B-F388-42AA-9FD6-E00720FC41CE",
+        "type": "message",
+        "text": "Heroku is a cloud hosting platform",
+        "user": "U15J5H60P",
+        "ts": "1543375734.005900"
+    },
+    {
+        "client_msg_id": "2DD7083C-DD88-4499-A97B-25387CEFC956",
+        "type": "message",
+        "text": "Server hosting <@U15HSHSS2> ",
+        "user": "U15HY5TG8",
+        "ts": "1543375740.006400"
+    },
+    {
+        "client_msg_id": "AC0BF624-320C-4A91-B1C1-9A7DB79110B1",
+        "type": "message",
+        "text": "PaaS",
+        "user": "U15J5H60P",
+        "ts": "1543375740.006500",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1543375794.000000"
+        }
+    },
+    {
+        "client_msg_id": "AA5DF06E-ED06-4394-BDE6-C569B7B532B0",
+        "type": "message",
+        "text": "?",
+        "user": "U15J5H60P",
+        "ts": "1543375744.006700"
+    },
+    {
+        "client_msg_id": "dbbf7302-a8d8-4d68-9051-ba0cc6abc767",
+        "type": "message",
+        "text": "I can also see the clients they're using to connect to their databases",
+        "user": "U15HRTAHL",
+        "ts": "1543375754.007000"
+    },
+    {
+        "client_msg_id": "312629CB-32DE-4EA1-BD12-4B8A8CB57EA3",
+        "type": "message",
+        "text": "\"Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.\"",
+        "user": "U15J5H60P",
+        "ts": "1543375775.007600"
+    },
+    {
+        "client_msg_id": "34c592aa-3bea-491d-97a7-61493983189f",
+        "type": "message",
+        "text": "imagine if one of those clients had a bug, I can find all the databases that use it and exploit it",
+        "user": "U15HRTAHL",
+        "ts": "1543375785.007800"
+    },
+    {
+        "client_msg_id": "F78CFBF9-02A5-4290-9B32-2CB8A8D2824B",
+        "type": "message",
+        "text": "Yeet. It's surprising that it hasn't been exploited and addressed already. I remember us talking about this a while ago as well",
+        "user": "U15J5H60P",
+        "ts": "1543375848.009000"
+    },
+    {
+        "client_msg_id": "4ffd6f3f-ecf8-4fac-821a-4043bcc8b3d4",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1543375854.009200"
+    },
+    {
+        "client_msg_id": "cf6b5013-84c7-4e98-bbca-9482d68c331f",
+        "type": "message",
+        "text": "I didn't realize I could terminate their sessions",
+        "user": "U15HRTAHL",
+        "ts": "1543375862.009500"
+    },
+    {
+        "client_msg_id": "68925F1A-43D1-4CB4-B689-969B922ED3CC",
+        "type": "message",
+        "text": "Let us know how that bounty thing goes!",
+        "user": "U15J5H60P",
+        "ts": "1543375883.009900"
+    },
+    {
+        "client_msg_id": "1B2C7A0A-65F9-4D9E-8CE3-B7EC2344802F",
+        "type": "message",
+        "text": "Sensitive Data Exposure has a P5 technical severity which Heroku doesn’t pay out for it looks like. But if you can terminate or whatever that’ll probably be higher than a P5",
+        "user": "U15HSHSS2",
+        "ts": "1543376388.012700"
+    },
+    {
+        "client_msg_id": "7db974e4-0d6b-4180-8cdd-2e9a6c9fb231",
+        "type": "message",
+        "text": "I set the topic as p4 - detailed server information",
+        "user": "U15HRTAHL",
+        "ts": "1543377110.013000"
+    },
+    {
+        "client_msg_id": "06f584de-6511-45d7-82e2-ae4132bbe7e2",
+        "type": "message",
+        "text": "average payout is $916",
+        "user": "U15HRTAHL",
+        "ts": "1543377288.013300"
+    },
+    {
+        "client_msg_id": "2835C3D4-865E-4A02-860F-7C9F77A4F2B5",
+        "type": "message",
+        "text": "Bad ass",
+        "user": "U15J5H60P",
+        "ts": "1543377372.013500"
+    }
+]

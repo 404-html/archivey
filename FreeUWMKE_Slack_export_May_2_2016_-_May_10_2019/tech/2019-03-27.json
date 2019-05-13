@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "35302a73-e834-4794-83bb-83f34d88e485",
+        "type": "message",
+        "text": "apparently teslas have a knack of brake checking vehicles behind them",
+        "user": "U15HRTAHL",
+        "ts": "1553720796.001900"
+    },
+    {
+        "client_msg_id": "67530c02-a089-42da-abae-fd53bc512e7d",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/teslamotors\/comments\/b5yx1o\/welp_this_happened_today_while_in_autopilot\/>",
+        "user": "U15HRTAHL",
+        "ts": "1553720804.002100",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/teslamotors - Welp, this happened today while in Autopilot.",
+                "title_link": "https:\/\/www.reddit.com\/r\/teslamotors\/comments\/b5yx1o\/welp_this_happened_today_while_in_autopilot\/",
+                "text": "508 votes and 365 comments so far on Reddit",
+                "fallback": "reddit: r\/teslamotors - Welp, this happened today while in Autopilot.",
+                "thumb_url": "https:\/\/external-preview.redd.it\/UlQkRjxCya1JZsU-wP8Z1zMPyYceNu_f0eZ4TOeRIMk.png?format=pjpg&auto=webp&s=7bb5e106c6ec5082ba81ffd35fe3e0f0660be7b4",
+                "from_url": "https:\/\/www.reddit.com\/r\/teslamotors\/comments\/b5yx1o\/welp_this_happened_today_while_in_autopilot\/",
+                "thumb_width": 1280,
+                "thumb_height": 960,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/teslamotors\/comments\/b5yx1o\/welp_this_happened_today_while_in_autopilot\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "BBA1F162-15A7-42B1-A9EF-25AF07DEECC5",
+        "type": "message",
+        "text": "Yikes",
+        "user": "U15HSHSS2",
+        "ts": "1553725260.000300"
+    }
+]

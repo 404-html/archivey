@@ -1,0 +1,302 @@
+[
+    {
+        "type": "message",
+        "text": "They want the enter button to trigger a search, but its already used on a different search feature on the same apge",
+        "user": "U15HRTAHL",
+        "ts": "1505319752.000087"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1505319815.000331"
+    },
+    {
+        "type": "message",
+        "text": "What does this page look like?",
+        "user": "U15HY5TG8",
+        "ts": "1505319897.000019"
+    },
+    {
+        "type": "message",
+        "text": "Did you use ng-submit?",
+        "user": "U15HY5TG8",
+        "ts": "1505320177.000172"
+    },
+    {
+        "type": "message",
+        "text": "thats for forms",
+        "user": "U15HRTAHL",
+        "ts": "1505320186.000268"
+    },
+    {
+        "type": "message",
+        "text": "Ahh yea i didnt see your screenshot until after i sent my message",
+        "user": "U15HY5TG8",
+        "ts": "1505320218.000172"
+    },
+    {
+        "type": "message",
+        "text": "I built that whole thing out besides the left side bar",
+        "user": "U15HRTAHL",
+        "ts": "1505320305.000688"
+    },
+    {
+        "type": "message",
+        "text": "its been a clusterfuck the whole time",
+        "user": "U15HRTAHL",
+        "ts": "1505320317.000545"
+    },
+    {
+        "type": "message",
+        "text": "All the data is on the clients servers",
+        "user": "U15HRTAHL",
+        "ts": "1505320333.000142"
+    },
+    {
+        "type": "message",
+        "text": "so each one of those expandable lists on the bottom usually don't work because they haven't buitl ot the functionality for it yet",
+        "user": "U15HRTAHL",
+        "ts": "1505320356.000176"
+    },
+    {
+        "type": "message",
+        "text": "Could you not use like an ng-keypress or ui-keypress per field?",
+        "user": "U15HY5TG8",
+        "ts": "1505320376.000746"
+    },
+    {
+        "type": "message",
+        "text": "But lol",
+        "user": "U15HY5TG8",
+        "ts": "1505320390.000324"
+    },
+    {
+        "type": "message",
+        "text": "the problem is idk what the user is expecting to happen",
+        "user": "U15HRTAHL",
+        "ts": "1505320396.000502"
+    },
+    {
+        "type": "message",
+        "text": "are they expecting feature 1 to search or feature 2?",
+        "user": "U15HRTAHL",
+        "ts": "1505320404.000625"
+    },
+    {
+        "type": "message",
+        "text": "you can't use enter to expect what you're searching if its used for two different things",
+        "user": "U15HRTAHL",
+        "ts": "1505320464.000038"
+    },
+    {
+        "type": "message",
+        "text": "Feature 1 is the left nav and feature 2 is the global search at the top right?",
+        "user": "U15HY5TG8",
+        "ts": "1505320477.000447"
+    },
+    {
+        "type": "message",
+        "text": "I'll show you",
+        "user": "U15HRTAHL",
+        "ts": "1505320494.000587"
+    },
+    {
+        "type": "message",
+        "text": "but enter is already being used for the first feature",
+        "user": "U15HRTAHL",
+        "ts": "1505320568.000265"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha gotcha. But could you not put a keypress listener in each textbox to kick off a function on \"enter\"?",
+        "user": "U15HY5TG8",
+        "ts": "1505320638.000107"
+    },
+    {
+        "type": "message",
+        "text": "hmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1505320717.000242"
+    },
+    {
+        "type": "message",
+        "text": "not a bad idea",
+        "user": "U15HRTAHL",
+        "ts": "1505320720.000635"
+    },
+    {
+        "type": "message",
+        "text": "right now I just have window event listener listening to anything typed",
+        "user": "U15HRTAHL",
+        "ts": "1505320746.000180"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh gotcha. Yea id assume thats just a global declaration in your controller then. Ive had to use a keypress for a field before",
+        "user": "U15HY5TG8",
+        "ts": "1505320801.000268"
+    },
+    {
+        "type": "message",
+        "text": "yeah good idea ev",
+        "user": "U15HRTAHL",
+        "ts": "1505320822.000329"
+    },
+    {
+        "type": "message",
+        "text": "Thanks mannnnn",
+        "user": "U15HY5TG8",
+        "ts": "1505320902.000509"
+    },
+    {
+        "type": "message",
+        "text": "I hate clients",
+        "user": "U15HRTAHL",
+        "ts": "1505321671.000241"
+    },
+    {
+        "type": "message",
+        "text": "theres a bug because chrome renders dates as MM\/DD\/YYY and internet explorer renders them as YYYY-MM-DD",
+        "user": "U15HRTAHL",
+        "ts": "1505321701.000336"
+    },
+    {
+        "type": "message",
+        "text": "or something like that",
+        "user": "U15HRTAHL",
+        "ts": "1505321711.000388"
+    },
+    {
+        "type": "message",
+        "text": "I want to say download chrome. All your problems are solved",
+        "user": "U15HRTAHL",
+        "ts": "1505321733.000168"
+    },
+    {
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1505321742.000007"
+    },
+    {
+        "type": "message",
+        "text": "Do a datetime to string method i guess",
+        "user": "U15HY5TG8",
+        "ts": "1505321757.000756"
+    },
+    {
+        "type": "message",
+        "text": "its how input type = date renders",
+        "user": "U15HRTAHL",
+        "ts": "1505321772.000138"
+    },
+    {
+        "type": "message",
+        "text": "Tell them to goddamn format it server side",
+        "user": "U15HY5TG8",
+        "ts": "1505321954.000257"
+    },
+    {
+        "type": "message",
+        "text": "no its how the html is rendered for the input field",
+        "user": "U15HRTAHL",
+        "ts": "1505322556.000340"
+    },
+    {
+        "type": "message",
+        "text": "I dont understand why they would render differently",
+        "user": "U15HY5TG8",
+        "ts": "1505322766.000665"
+    },
+    {
+        "type": "message",
+        "text": "its how the browser renders it",
+        "user": "U15HRTAHL",
+        "ts": "1505322823.000192"
+    },
+    {
+        "type": "message",
+        "text": "Oooo type=date. I overlooked that",
+        "user": "U15HY5TG8",
+        "ts": "1505322842.000053"
+    },
+    {
+        "type": "message",
+        "text": "I download postegresql and I'm dabbling into it a bit",
+        "user": "U15HRTAHL",
+        "ts": "1505352787.000085"
+    },
+    {
+        "type": "message",
+        "text": "Databases are such a grey area for me",
+        "user": "U15HRTAHL",
+        "ts": "1505352797.000145"
+    },
+    {
+        "type": "message",
+        "text": "I know how to query but I don't really know much beyond that",
+        "user": "U15HRTAHL",
+        "ts": "1505352811.000146"
+    },
+    {
+        "type": "message",
+        "text": "indexing",
+        "user": "U15HRTAHL",
+        "ts": "1505352815.000134"
+    },
+    {
+        "type": "message",
+        "text": "views",
+        "user": "U15HRTAHL",
+        "ts": "1505352816.000198"
+    },
+    {
+        "type": "message",
+        "text": "constraints",
+        "user": "U15HRTAHL",
+        "ts": "1505352820.000203"
+    },
+    {
+        "type": "message",
+        "text": "postgres is pretty cool though",
+        "user": "U15HRTAHL",
+        "ts": "1505352832.000237"
+    },
+    {
+        "type": "message",
+        "text": "Yea im about to get into that kinda shit too haha",
+        "user": "U15HY5TG8",
+        "ts": "1505353411.000171"
+    },
+    {
+        "type": "message",
+        "text": "donwload postgess",
+        "user": "U15HRTAHL",
+        "ts": "1505353434.000115"
+    },
+    {
+        "type": "message",
+        "text": "I might",
+        "user": "U15HY5TG8",
+        "ts": "1505353466.000220"
+    },
+    {
+        "type": "message",
+        "text": "Did you figure out the keypress deal?",
+        "user": "U15HY5TG8",
+        "ts": "1505357831.000073"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I did what you said ",
+        "user": "U15HRTAHL",
+        "ts": "1505358517.000087"
+    },
+    {
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15HY5TG8",
+        "ts": "1505359280.000109"
+    }
+]

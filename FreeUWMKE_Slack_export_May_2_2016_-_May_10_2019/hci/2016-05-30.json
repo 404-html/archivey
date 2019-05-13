@@ -1,0 +1,21 @@
+[
+    {
+        "type": "message",
+        "text": "WE CAN ARCHIVE THIS!",
+        "user": "U15J5H60P",
+        "ts": "1464657144.000002"
+    },
+    {
+        "type": "message",
+        "text": "WOOOOOOOO!",
+        "user": "U15J5H60P",
+        "ts": "1464657146.000003"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1464657161.000004",
+        "text": "<@U15J5H60P> archived the channel"
+    }
+]

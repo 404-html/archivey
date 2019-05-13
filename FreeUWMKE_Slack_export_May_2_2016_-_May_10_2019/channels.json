@@ -1,0 +1,932 @@
+[
+    {
+        "id": "C15HP1TGC",
+        "name": "general",
+        "created": "1462235292",
+        "creator": "U15HZ01QX",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "U15GJQVMZ",
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P",
+            "U19HSQP3M",
+            "U5VC3HJBY",
+            "U73HW3CER",
+            "UA3GNPSKS"
+        ],
+        "pins": [
+            {
+                "id": "1542648531.028100",
+                "type": "C",
+                "created": 1542648589,
+                "user": "U15HRTAHL",
+                "owner": "U15HZ01QX"
+            }
+        ],
+        "topic": {
+            "value": "\r\n",
+            "creator": "U15HZ01QX",
+            "last_set": "1462379848"
+        },
+        "purpose": {
+            "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C15RS4VFV",
+        "name": "random",
+        "created": "1462312755",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Shit post to your heart's desire. ❤️",
+            "creator": "U15J5H60P",
+            "last_set": "1473781886"
+        }
+    },
+    {
+        "id": "C15RSP7BM",
+        "name": "tech",
+        "created": "1462312885",
+        "creator": "U15HRTAHL",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P",
+            "U73HW3CER"
+        ],
+        "topic": {
+            "value": "Discuss tech, setups, and gadgets.",
+            "creator": "U15J5H60P",
+            "last_set": "1463587865"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C15T666TA",
+        "name": "pron",
+        "created": "1462312914",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C15T8DUF7",
+        "name": "politics",
+        "created": "1462312904",
+        "creator": "U15HRTAHL",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HSHSS2",
+            "U15HZ01QX"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Andrew is not allowed here at all",
+            "creator": "U15HRTAHL",
+            "last_set": "1462312905"
+        }
+    },
+    {
+        "id": "C15UXE7PF",
+        "name": "music",
+        "created": "1462332688",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C164T1BRB",
+        "name": "cars",
+        "created": "1462378493",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C17Q0G2C9",
+        "name": "hci",
+        "created": "1462915128",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1926JQQ3",
+        "name": "scamming-sonnybrooks",
+        "created": "1463364222",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C193SMAKT",
+        "name": "samsung",
+        "created": "1463364209",
+        "creator": "U15HY5TG8",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1943R5C5",
+        "name": "andrewupboat",
+        "created": "1463373984",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1946HCTB",
+        "name": "hillary4prison",
+        "created": "1463372527",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C19JHE0FP",
+        "name": "osprep",
+        "created": "1463504742",
+        "creator": "U15HZ01QX",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "WE ARE FUUUUCKED",
+            "creator": "U15HY5TG8",
+            "last_set": "1463578924"
+        },
+        "purpose": {
+            "value": "OS stuff",
+            "creator": "U15HZ01QX",
+            "last_set": "1463504743"
+        }
+    },
+    {
+        "id": "C1B6JA124",
+        "name": "programming",
+        "created": "1464050680",
+        "creator": "U15J5H60P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15J5H60P"
+        ],
+        "topic": {
+            "value": "\r\n",
+            "creator": "U15J5H60P",
+            "last_set": "1464050706"
+        },
+        "purpose": {
+            "value": "Discuss programming problems and projects.",
+            "creator": "U15J5H60P",
+            "last_set": "1464050714"
+        }
+    },
+    {
+        "id": "C1CGU23NJ",
+        "name": "whitepeopleshit",
+        "created": "1464495585",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1CRK414Z",
+        "name": "movies",
+        "created": "1464656303",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1F4ZR42K",
+        "name": "trump-2016",
+        "created": "1465397118",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1QDU2HLZ",
+        "name": "pokemon",
+        "created": "1468208802",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1R51A264",
+        "name": "joes-safe-space",
+        "created": "1468361611",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Don’t bother joe",
+            "creator": "U15HRTAHL",
+            "last_set": "1468361611"
+        }
+    },
+    {
+        "id": "C1R5J3SQZ",
+        "name": "evans_rad_pad",
+        "created": "1468362880",
+        "creator": "U15HY5TG8",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C1RHN5EQY",
+        "name": "netflix",
+        "created": "1468456796",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Discuss movies, TV shows, documentaries, etc. found on the popular streaming platform Netflix.",
+            "creator": "U15J5H60P",
+            "last_set": "1468456796"
+        }
+    },
+    {
+        "id": "C2M8X97DM",
+        "name": "memes",
+        "created": "1476068348",
+        "creator": "U15HY5TG8",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "All the crude memes",
+            "creator": "U15HY5TG8",
+            "last_set": "1476068349"
+        }
+    },
+    {
+        "id": "C2R4L06ES",
+        "name": "careers",
+        "created": "1476838705",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C2RJY5B0R",
+        "name": "security",
+        "created": "1476909650",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C30J1CQ0G",
+        "name": "blackfriday",
+        "created": "1478835092",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "The Hottest Deals in Town",
+            "creator": "U15J5H60P",
+            "last_set": "1478835093"
+        }
+    },
+    {
+        "id": "C3AGB7342",
+        "name": "westworld",
+        "created": "1480923054",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Discuss Westworld",
+            "creator": "U15J5H60P",
+            "last_set": "1480923055"
+        }
+    },
+    {
+        "id": "C5W5B9LFQ",
+        "name": "games",
+        "created": "1497709645",
+        "creator": "U15J5H60P",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C6R3H2A7L",
+        "name": "finance",
+        "created": "1503248951",
+        "creator": "U15J5H60P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Discuss Investment Strategy, Cryptocurrency, and other topics",
+            "creator": "U15J5H60P",
+            "last_set": "1503248952"
+        }
+    },
+    {
+        "id": "C721XG0TD",
+        "name": "freeandroid",
+        "created": "1505252903",
+        "creator": "U15HRTAHL",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C7607F1MH",
+        "name": "natural-selection",
+        "created": "1505918371",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Talk about sports and injuries",
+            "creator": "U15HRTAHL",
+            "last_set": "1505918446"
+        }
+    },
+    {
+        "id": "C7AK3SHAS",
+        "name": "purelyinappropriate",
+        "created": "1506529155",
+        "creator": "U15HY5TG8",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "All the inappropriateness",
+            "creator": "U15HY5TG8",
+            "last_set": "1506529156"
+        }
+    },
+    {
+        "id": "C7THQ034H",
+        "name": "james-unapprovals",
+        "created": "1509645260",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "To discuss things James will not condone",
+            "creator": "U15HRTAHL",
+            "last_set": "1509645261"
+        }
+    },
+    {
+        "id": "C98CVPJBH",
+        "name": "vegas",
+        "created": "1518370840",
+        "creator": "U15HRTAHL",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P"
+        ],
+        "pins": [
+            {
+                "id": "1529938130.000259",
+                "type": "C",
+                "created": 1529938135,
+                "user": "U15J5H60P",
+                "owner": "U15J5H60P"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C9P7KRQH3",
+        "name": "tommys-safe-space",
+        "created": "1520953907",
+        "creator": "U15HRTAHL",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HSHSS2"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "C9VFAF76U",
+        "name": "joes-wedding",
+        "created": "1522080729",
+        "creator": "U15J5H60P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15J5H60P",
+            "UA3GNPSKS"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Get all the deets on the big day",
+            "creator": "U15J5H60P",
+            "last_set": "1522080730"
+        }
+    },
+    {
+        "id": "CBB446EPQ",
+        "name": "test",
+        "created": "1529420791",
+        "creator": "U15J5H60P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15J5H60P"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CBHC7Q8VA",
+        "name": "vegas2",
+        "created": "1530548787",
+        "creator": "U15HY5TG8",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CBPF9DDJQ",
+        "name": "video-gaming-no-andy",
+        "created": "1531425861",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CFKQY450U",
+        "name": "game-of-thrones",
+        "created": "1548174253",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CFN9D2XP1",
+        "name": "home-wreckers",
+        "created": "1548266971",
+        "creator": "U15HRTAHL",
+        "is_archived": true,
+        "is_general": false,
+        "members": [],
+        "pins": [
+            {
+                "id": "1548346316.033100",
+                "type": "C",
+                "created": 1548346350,
+                "user": "U15J5H60P",
+                "owner": "U15J5H60P"
+            }
+        ],
+        "topic": {
+            "value": "Wanna hate life? - <https:\/\/usmortgagecalculator.org\/>",
+            "creator": "U15J5H60P",
+            "last_set": "1548346379"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CFNBC3H51",
+        "name": "houses",
+        "created": "1548359126",
+        "creator": "U15HZ01QX",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P"
+        ],
+        "topic": {
+            "value": "Wanna hate life? - <https:\/\/usmortgagecalculator.org\/>",
+            "creator": "U15J5H60P",
+            "last_set": "1548430062"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CFQMRS5LY",
+        "name": "random2",
+        "created": "1548715014",
+        "creator": "U15HY5TG8",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CG3KGDQA3",
+        "name": "nsfw",
+        "created": "1549681093",
+        "creator": "U15J5H60P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CHRLWDWAF",
+        "name": "travel",
+        "created": "1555958041",
+        "creator": "U15J5H60P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "U15HRTAHL",
+            "U15HSHSS2",
+            "U15HY5TG8",
+            "U15HZ01QX",
+            "U15J5H60P"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "Discuss Travel",
+            "creator": "U15J5H60P",
+            "last_set": "1555958041"
+        }
+    }
+]

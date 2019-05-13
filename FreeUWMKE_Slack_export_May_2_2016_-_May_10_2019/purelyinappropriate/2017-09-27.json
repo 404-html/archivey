@@ -1,0 +1,66 @@
+[
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1506529155.000856",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1506529156.000152",
+        "text": "<@U15HY5TG8> set the channel purpose: All the inappropriateness",
+        "purpose": "All the inappropriateness"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1506529156.000182",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1506529156.000242",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U72Q808MN",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1506529156.000293",
+        "text": "<@U72Q808MN> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "type": "message",
+        "text": "hey yall",
+        "user": "U15HY5TG8",
+        "ts": "1506529243.000093"
+    },
+    {
+        "type": "message",
+        "text": "Nooopppeeee",
+        "user": "U15J5H60P",
+        "ts": "1506531173.000017"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1506531176.000728",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "type": "message",
+        "text": "Lo damn",
+        "user": "U15HY5TG8",
+        "ts": "1506531458.000533"
+    }
+]

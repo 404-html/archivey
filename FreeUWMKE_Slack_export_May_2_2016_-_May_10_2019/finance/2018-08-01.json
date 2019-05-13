@@ -1,0 +1,188 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1533130635.000003",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "3e6293fd-5674-4816-84b9-94e6f1bdc19e",
+        "type": "message",
+        "text": "I'M BACK MOTHA FUCKAS",
+        "user": "U15J5H60P",
+        "ts": "1533130639.000539"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1533130655.000137"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL             198.755               8.465                4.448 \n       Avg.                 ---                 ---               4.448% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1533130655.000155",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 36935,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "333cb266-1c81-4518-b317-b8d3f6b3e199",
+        "type": "message",
+        "text": "2 THA MOON",
+        "user": "U15J5H60P",
+        "ts": "1533130675.000248"
+    },
+    {
+        "client_msg_id": "4d7ceee4-c5d8-456c-9b79-34a0173591ce",
+        "type": "message",
+        "text": "I LOVE MONEY",
+        "user": "U15J5H60P",
+        "ts": "1533130807.000619"
+    },
+    {
+        "client_msg_id": "db2b97fb-9d03-439f-b4de-1b1a4a119d30",
+        "type": "message",
+        "text": "YA YA YAAAAA",
+        "user": "U15J5H60P",
+        "ts": "1533130811.000243"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1533130832.000309",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/mrw-summer-sale-uFtywzELtkFzi",
+                "image_url": "https:\/\/media2.giphy.com\/media\/uFtywzELtkFzi\/giphy-downsized.gif",
+                "image_width": 252,
+                "image_height": 142,
+                "image_bytes": 595258,
+                "is_animated": true,
+                "title": "make it rain",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/mrw-summer-sale-uFtywzELtkFzi"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a46e1df9-2314-46ef-82a4-4c7aee24d1f7",
+        "type": "message",
+        "text": "Vegas Round 2!!!!!!",
+        "user": "U15J5H60P",
+        "ts": "1533130847.000524"
+    },
+    {
+        "client_msg_id": "f3ea4196-b598-4720-8c25-0ca2531204b5",
+        "type": "message",
+        "text": ":party_parrot:",
+        "user": "U15J5H60P",
+        "ts": "1533130850.000528"
+    },
+    {
+        "client_msg_id": "6cf08cf4-0602-41ce-bff7-86b36a080f41",
+        "type": "message",
+        "text": "Tomorrow: \"Fuck the stock market\" _andrew left <#C6R3H2A7L|finance>_",
+        "user": "U15J5H60P",
+        "ts": "1533130871.000158"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus AAPL",
+        "user": "U15J5H60P",
+        "ts": "1533138798.000155"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              200.07                9.78                5.140 \n       Avg.                 ---                 ---               5.140% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1533138798.000163",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33653,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "142f5350-0654-424f-bfdd-47194221eedf",
+        "type": "message",
+        "text": "ABOVE 2 HUNDO",
+        "user": "U15J5H60P",
+        "ts": "1533138805.000355"
+    },
+    {
+        "client_msg_id": "1fbacbc1-57b5-4ebf-b44d-26f139c09a6a",
+        "type": "message",
+        "text": "YAAAAAAA",
+        "user": "U15J5H60P",
+        "ts": "1533138812.000580"
+    },
+    {
+        "client_msg_id": "00799c55-09f3-48d2-9ae2-4951081ad0e1",
+        "type": "message",
+        "text": "<@U15HZ01QX> i bet you made a killing on those options",
+        "user": "U15HRTAHL",
+        "ts": "1533138851.000687",
+        "reactions": [
+            {
+                "name": "confetti_ball",
+                "users": [
+                    "U15HZ01QX",
+                    "U15J5H60P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw>",
+        "user": "USLACKBOT",
+        "ts": "1533138852.000158",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "https:\/\/giphy.com\/",
+                "image_url": "https:\/\/media3.giphy.com\/media\/4TvmE1mBPBp2YsXHmw\/giphy.gif",
+                "image_width": 480,
+                "image_height": 480,
+                "image_bytes": 4721410,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1,
+                "original_url": "https:\/\/giphy.com\/gifs\/redbull-ninja-fortnite-4TvmE1mBPBp2YsXHmw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2716d1a-1e16-4ee0-8b0c-addf6c98f4fa",
+        "type": "message",
+        "text": "lol I love how that randomly pops up when you don’t even mean for it to",
+        "user": "U15HRTAHL",
+        "ts": "1533138871.000654"
+    }
+]

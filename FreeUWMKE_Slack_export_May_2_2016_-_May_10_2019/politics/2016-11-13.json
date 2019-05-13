@@ -1,0 +1,50 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/Jg0gWBo.gifv>",
+        "user": "U15J5H60P",
+        "ts": "1479068969.000002",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Imgur GIF",
+                "title_link": "https:\/\/i.imgur.com\/Jg0gWBo.gifv",
+                "fallback": "Imgur: Imgur GIF",
+                "thumb_url": "https:\/\/i.imgur.com\/Jg0gWBoh.jpg",
+                "video_html_width": "560",
+                "video_html_height": "374",
+                "video_url": "https:\/\/i.imgur.com\/Jg0gWBo.mp4",
+                "video_html": "<video poster=\"https:\/\/i.imgur.com\/Jg0gWBoh.jpg\" src=\"https:\/\/i.imgur.com\/Jg0gWBo.mp4\" width=\"560\" height=\"374\" autoplay=\"autoplay\" preload=\"auto\" muted=\"muted\" loop=\"loop\" webkit-playsinline><\/video>",
+                "from_url": "https:\/\/i.imgur.com\/Jg0gWBo.gifv",
+                "thumb_width": 560,
+                "thumb_height": 374,
+                "service_icon": "https:\/\/i.imgur.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1479068972.000004"
+    },
+    {
+        "type": "message",
+        "text": "I hate Hillary so much",
+        "user": "U15J5H60P",
+        "ts": "1479068979.000005"
+    },
+    {
+        "type": "message",
+        "text": "I mean I wish she won there presidency ",
+        "user": "U15J5H60P",
+        "ts": "1479068989.000006"
+    },
+    {
+        "type": "message",
+        "text": "But she is just so damn unlikable",
+        "user": "U15J5H60P",
+        "ts": "1479069000.000007"
+    }
+]

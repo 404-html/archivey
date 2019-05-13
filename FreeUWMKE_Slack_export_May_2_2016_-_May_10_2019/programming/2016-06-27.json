@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "text": "Where does a line like this go?  \nScope.validatedateformat(angular.isundefined(scope.model[scope.field()]); ",
+        "user": "U15HY5TG8",
+        "ts": "1467036006.000002"
+    },
+    {
+        "type": "message",
+        "text": "controller",
+        "user": "U15HRTAHL",
+        "ts": "1467036133.000003"
+    },
+    {
+        "type": "message",
+        "text": "its checking to make sure some field is populated",
+        "user": "U15HRTAHL",
+        "ts": "1467036144.000004"
+    },
+    {
+        "type": "message",
+        "text": "This is in the controller though lol",
+        "user": "U15HY5TG8",
+        "ts": "1467036234.000005"
+    },
+    {
+        "type": "message",
+        "text": "then you know where the line goes",
+        "user": "U15HRTAHL",
+        "ts": "1467036251.000006"
+    },
+    {
+        "type": "message",
+        "text": "idk what you’re asking",
+        "user": "U15HRTAHL",
+        "ts": "1467036254.000007"
+    },
+    {
+        "type": "message",
+        "text": "Sorry i meant where does it lead to",
+        "user": "U15HY5TG8",
+        "ts": "1467036277.000008"
+    },
+    {
+        "type": "message",
+        "text": "scope.field is a field being used somewhere, probably a form",
+        "user": "U15HRTAHL",
+        "ts": "1467036318.000009",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1467036323.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "find the page that this controller is controlling",
+        "user": "U15HRTAHL",
+        "ts": "1467036334.000011"
+    },
+    {
+        "type": "message",
+        "text": "Its a directive that validates a date for any field with a calendar attached",
+        "user": "U15HY5TG8",
+        "ts": "1467036378.000012"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: do you have vs enterprise or pro?",
+        "user": "U15HY5TG8",
+        "ts": "1467057998.000013"
+    },
+    {
+        "type": "message",
+        "text": "Idk",
+        "user": "U15J5H60P",
+        "ts": "1467058045.000014"
+    },
+    {
+        "type": "message",
+        "text": "MSVS Ultimate 2013",
+        "user": "U15J5H60P",
+        "ts": "1467058061.000015"
+    },
+    {
+        "type": "message",
+        "text": "Dont know what level that is",
+        "user": "U15HY5TG8",
+        "ts": "1467058183.000016"
+    },
+    {
+        "type": "message",
+        "text": "Do you use code coverage in debugging?",
+        "user": "U15HY5TG8",
+        "ts": "1467058196.000017"
+    },
+    {
+        "type": "message",
+        "text": "For unit tests",
+        "user": "U15HY5TG8",
+        "ts": "1467058203.000018"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1467061010.000019"
+    },
+    {
+        "type": "message",
+        "text": "Ahh ok",
+        "user": "U15HY5TG8",
+        "ts": "1467061993.000020"
+    }
+]

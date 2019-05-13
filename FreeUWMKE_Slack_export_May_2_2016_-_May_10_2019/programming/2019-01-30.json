@@ -1,0 +1,187 @@
+[
+    {
+        "client_msg_id": "7cac6c7f-98c5-40ce-aa5d-3db5e2b13b55",
+        "type": "message",
+        "text": "are GUIDs nullable by default?",
+        "user": "U15HSHSS2",
+        "ts": "1548876192.000300"
+    },
+    {
+        "client_msg_id": "42f69111-9820-49c7-b17e-2a95483dbaa2",
+        "type": "message",
+        "text": "in C#",
+        "user": "U15HSHSS2",
+        "ts": "1548876199.000500"
+    },
+    {
+        "client_msg_id": "87ed0e38-689f-4b5e-ba95-5c5198957a2f",
+        "type": "message",
+        "text": "I don't think they are...",
+        "user": "U15HSHSS2",
+        "ts": "1548876224.000900"
+    },
+    {
+        "client_msg_id": "87EC5417-C0ED-4916-A78B-FA2E200224E6",
+        "type": "message",
+        "text": "I thought if you newed up a guid it just created a full guid right away",
+        "user": "U15HY5TG8",
+        "ts": "1548876242.001600"
+    },
+    {
+        "client_msg_id": "e3ab8c41-cafe-47fe-99b0-275897d15b50",
+        "type": "message",
+        "text": "I'm just wondering if this will give an error\n\npublic Guid g = null",
+        "user": "U15HSHSS2",
+        "ts": "1548876306.002300"
+    },
+    {
+        "client_msg_id": "5922DDF6-6217-4BE4-B384-A06DB9ECB5A8",
+        "type": "message",
+        "text": "Probably not",
+        "user": "U15HY5TG8",
+        "ts": "1548876335.002600"
+    },
+    {
+        "client_msg_id": "0536F78A-0EC3-40BD-ACAD-1492CE72AC91",
+        "type": "message",
+        "text": "I think you can start any object off as null",
+        "user": "U15HY5TG8",
+        "ts": "1548876355.003100"
+    },
+    {
+        "client_msg_id": "e43f4b8f-5c08-4220-ae62-78eb686823b7",
+        "type": "message",
+        "text": "not all datatypes are nullable",
+        "user": "U15HSHSS2",
+        "ts": "1548876370.003400"
+    },
+    {
+        "client_msg_id": "eee6be42-fe02-46bc-b1b5-b7149833cf5d",
+        "type": "message",
+        "text": "int isnt",
+        "user": "U15HSHSS2",
+        "ts": "1548876373.003600"
+    },
+    {
+        "client_msg_id": "b12385a6-fd4d-40fe-94a6-a8ff1536a9f4",
+        "type": "message",
+        "text": "int? is though",
+        "user": "U15HSHSS2",
+        "ts": "1548876381.004000"
+    },
+    {
+        "client_msg_id": "08B55F4F-95A6-4A8F-92A0-939074155D11",
+        "type": "message",
+        "text": "Technically it is",
+        "user": "U15HY5TG8",
+        "ts": "1548876382.004100"
+    },
+    {
+        "client_msg_id": "0DA46DD9-EE0D-427A-BEC2-21728A19D969",
+        "type": "message",
+        "text": "Yeah that",
+        "user": "U15HY5TG8",
+        "ts": "1548876385.004300"
+    },
+    {
+        "client_msg_id": "41a944c9-0f39-4b61-b408-139d1ac69c54",
+        "type": "message",
+        "text": "string is",
+        "user": "U15HSHSS2",
+        "ts": "1548876394.004500"
+    },
+    {
+        "client_msg_id": "fac30457-08fc-4ee7-b043-c06e98b0703f",
+        "type": "message",
+        "text": "you don't need string?",
+        "user": "U15HSHSS2",
+        "ts": "1548876400.004700"
+    },
+    {
+        "client_msg_id": "BD099042-A792-4696-9FDB-93E25ED53A93",
+        "type": "message",
+        "text": "Right right",
+        "user": "U15HY5TG8",
+        "ts": "1548876407.005000"
+    },
+    {
+        "client_msg_id": "e8e61a7f-2625-495e-91b4-0e3bae676f4c",
+        "type": "message",
+        "text": "okay Guid isn't nullable by default, need Guid?",
+        "user": "U15HSHSS2",
+        "ts": "1548876421.005600"
+    },
+    {
+        "client_msg_id": "1d930135-ccc0-4cc0-af22-f34d9df39196",
+        "type": "message",
+        "text": "we good",
+        "user": "U15HSHSS2",
+        "ts": "1548876424.005900"
+    },
+    {
+        "client_msg_id": "3DA6516A-0499-4930-A401-B6896D47FD7D",
+        "type": "message",
+        "text": "Nullables led me down some bad coding practices lol",
+        "user": "U15HY5TG8",
+        "ts": "1548876436.006300"
+    },
+    {
+        "client_msg_id": "259ded1d-d3fd-4b74-be88-c08983ef86cc",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1548876442.006500"
+    },
+    {
+        "client_msg_id": "71c14e50-52f2-4968-9969-a6a7c3629d70",
+        "type": "message",
+        "text": "kotlin is pretty cool with nullables",
+        "user": "U15HRTAHL",
+        "ts": "1548876605.006700"
+    },
+    {
+        "client_msg_id": "4d736eba-55b9-42be-a131-02973ca42b46",
+        "type": "message",
+        "text": "either forces you to set a value, or forces you to check the value before using it",
+        "user": "U15HRTAHL",
+        "ts": "1548876622.007100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1548876625.000000"
+        }
+    },
+    {
+        "client_msg_id": "4CB05E56-84F7-4151-9577-02D110155DE5",
+        "type": "message",
+        "text": "Yeah but i mean bad coding practices such as using casting alllll the time when it comes to inserting into the database using EF",
+        "user": "U15HY5TG8",
+        "ts": "1548876681.008500"
+    },
+    {
+        "client_msg_id": "a7452e8d-276a-472f-bbdc-b8b1b3626879",
+        "type": "message",
+        "text": "Apparently the #8 game on android’s app store is made by a firm in madison",
+        "user": "U15HRTAHL",
+        "ts": "1548876978.009000"
+    },
+    {
+        "client_msg_id": "4f6dffc2-82c5-4a44-b15a-f2436dc4ec52",
+        "type": "message",
+        "text": "<http:\/\/www.perblue.com\/games\/Default.aspx>",
+        "user": "U15HRTAHL",
+        "ts": "1548876987.009200",
+        "attachments": [
+            {
+                "service_name": "PerBlue",
+                "title": "PerBlue - Freedom of Play",
+                "title_link": "http:\/\/www.perblue.com\/games\/Default.aspx",
+                "text": "PerBlue is an independent mobile games studio based in Madison, Wisconsin. We make free-to-play midcore RPG and Strategy games played by millions of people around the world.",
+                "fallback": "PerBlue: PerBlue - Freedom of Play",
+                "from_url": "http:\/\/www.perblue.com\/games\/Default.aspx",
+                "service_icon": "http:\/\/www.perblue.com\/images\/favicon.png",
+                "id": 1,
+                "original_url": "http:\/\/www.perblue.com\/games\/Default.aspx"
+            }
+        ]
+    }
+]

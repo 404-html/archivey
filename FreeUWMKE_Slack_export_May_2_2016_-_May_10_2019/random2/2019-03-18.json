@@ -1,0 +1,38 @@
+[
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552916646.000200",
+        "text": "<@U15HZ01QX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/WTF\/comments\/b2hamu\/leap_of_faith\/?utm_source=share&amp;utm_medium=ios_app>",
+        "user": "U15HZ01QX",
+        "ts": "1552925514.000300",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/WTF - Leap of Faith",
+                "title_link": "https:\/\/www.reddit.com\/r\/WTF\/comments\/b2hamu\/leap_of_faith\/?utm_source=share&utm_medium=ios_app",
+                "text": "10,696 votes and 1,025 comments so far on Reddit",
+                "fallback": "reddit: r\/WTF - Leap of Faith",
+                "thumb_url": "https:\/\/external-preview.redd.it\/LNPsRBmI7t96gz5Z5jZ5hfsOZoQ9m_J4ETXcbB_QavE.png?format=pjpg&auto=webp&s=81b392b698ccb97a9b6a9c25fe45666c3e59eb51",
+                "from_url": "https:\/\/www.reddit.com\/r\/WTF\/comments\/b2hamu\/leap_of_faith\/?utm_source=share&utm_medium=ios_app",
+                "thumb_width": 460,
+                "thumb_height": 344,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/WTF\/comments\/b2hamu\/leap_of_faith\/?utm_source=share&amp;utm_medium=ios_app"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "86B6FB79-FC65-4BED-825D-52C025C6ED8E",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1552931646.000600"
+    }
+]

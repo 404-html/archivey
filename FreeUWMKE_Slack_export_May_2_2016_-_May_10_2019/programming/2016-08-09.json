@@ -1,0 +1,91 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: ok after debugging i have found out that the http response returns a null list",
+        "user": "U15HY5TG8",
+        "ts": "1470754385.000002"
+    },
+    {
+        "type": "message",
+        "text": "looks like you need to handle that",
+        "user": "U15HRTAHL",
+        "ts": "1470754416.000003"
+    },
+    {
+        "type": "message",
+        "text": "K",
+        "user": "U15HY5TG8",
+        "ts": "1470754441.000004"
+    },
+    {
+        "type": "message",
+        "text": "if(!list) list = []",
+        "user": "U15HRTAHL",
+        "ts": "1470754443.000005"
+    },
+    {
+        "type": "message",
+        "text": "I dont want it to return null fgt",
+        "user": "U15HY5TG8",
+        "ts": "1470754469.000006"
+    },
+    {
+        "type": "message",
+        "text": "Stop talking about Joe.",
+        "user": "USLACKBOT",
+        "ts": "1470754470.000007"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1470754487.000008"
+    },
+    {
+        "type": "message",
+        "text": "i have no idea about your business, sorry for helping",
+        "user": "U15HRTAHL",
+        "ts": "1470754494.000009"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/cdn.meme.am\/instances\/51804760.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1470754511.000010",
+        "attachments": [
+            {
+                "fallback": "480x360px image",
+                "image_url": "https:\/\/cdn.meme.am\/instances\/51804760.jpg",
+                "image_width": 480,
+                "image_height": 360,
+                "image_bytes": 77225,
+                "from_url": "https:\/\/cdn.meme.am\/instances\/51804760.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Been giving me sarcastic answers all morning :unamused:",
+        "user": "U15HY5TG8",
+        "ts": "1470754554.000012"
+    },
+    {
+        "type": "message",
+        "text": "how is this sarcastic `if(!list) list = []`",
+        "user": "U15HRTAHL",
+        "ts": "1470754579.000013"
+    },
+    {
+        "type": "message",
+        "text": "also how am I supposed to help you if I dont know what the code is",
+        "user": "U15HRTAHL",
+        "ts": "1470754594.000014"
+    },
+    {
+        "type": "message",
+        "text": "That seemed sarcastic sorry",
+        "user": "U15HY5TG8",
+        "ts": "1470754615.000015"
+    }
+]

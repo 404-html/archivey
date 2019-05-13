@@ -1,0 +1,4082 @@
+[
+    {
+        "client_msg_id": "71F4EE71-D249-40C4-8297-F75106D71AFA",
+        "type": "message",
+        "text": "Heres our destination boys",
+        "user": "U15HY5TG8",
+        "ts": "1550496297.000200"
+    },
+    {
+        "client_msg_id": "2ECC28AF-50BD-4938-A101-CDB033166763",
+        "type": "message",
+        "text": "<http:\/\/www.cbs8.com\/story\/39943582\/hawaii-flights-drop-to-327-roundtrip-as-southwest-completes-first-flight>",
+        "user": "U15HY5TG8",
+        "ts": "1550496300.000400",
+        "attachments": [
+            {
+                "title": "Hawaii flights drop to $327 roundtrip as Southwest completes first flight",
+                "title_link": "http:\/\/www.cbs8.com\/story\/39943582\/hawaii-flights-drop-to-327-roundtrip-as-southwest-completes-first-flight",
+                "text": "As Southwest Airlines prepares to launch service to Hawaii, competing airlines are dropping their prices.",
+                "fallback": "Hawaii flights drop to $327 roundtrip as Southwest completes first flight",
+                "image_url": "https:\/\/KFMB.images.worldnow.com\/images\/18105297_G.jpg?lastEditedDate=20190211132125",
+                "from_url": "http:\/\/www.cbs8.com\/story\/39943582\/hawaii-flights-drop-to-327-roundtrip-as-southwest-completes-first-flight",
+                "image_width": 349,
+                "image_height": 250,
+                "image_bytes": 123842,
+                "service_icon": "https:\/\/ftpcontent.worldnow.com\/kfmb\/images\/ios_cbs8_57.png",
+                "service_name": "cbs8.com",
+                "id": 1,
+                "original_url": "http:\/\/www.cbs8.com\/story\/39943582\/hawaii-flights-drop-to-327-roundtrip-as-southwest-completes-first-flight"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8FEFB1AF-3DB2-4E45-B859-AC74C5986374",
+        "type": "message",
+        "text": "Awwwww yisssssss",
+        "user": "U15J5H60P",
+        "ts": "1550497149.000800"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/money\/status\/1097194863068618752?s=12>\n\nAnother one",
+        "user": "U15HZ01QX",
+        "ts": "1550501316.000900",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/MONEY|@MONEY>: This woman saved $100,000 in 3.5 years on a $54,000 salary. Here’s how <http:\/\/bit.ly\/2EdpXYe>",
+                "ts": 1550426614,
+                "author_name": "Money",
+                "author_link": "https:\/\/twitter.com\/MONEY\/status\/1097194863068618752",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/872175851097411584\/J9Eg3cTV_normal.jpg",
+                "author_subname": "@MONEY",
+                "text": "This woman saved $100,000 in 3.5 years on a $54,000 salary. Here’s how <http:\/\/bit.ly\/2EdpXYe>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/money\/status\/1097194863068618752?s=12",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/money\/status\/1097194863068618752?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/d_weezy\/status\/1097260808562724870?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1550501323.001100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/d_weezy|@d_weezy>: 1. Parents paid for college\n2. Job basically fed her\n3. 3-5k per wedding as a photographer as a second job\n4. 25K a year blog\n5. She's married with a working husband <https:\/\/twitter.com\/MONEY\/status\/1097194863068618752>",
+                "ts": 1550442337,
+                "author_name": "Alphonse Le'Roy",
+                "author_link": "https:\/\/twitter.com\/d_weezy\/status\/1097260808562724870",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1066885364114051072\/Kh1dvk63_normal.jpg",
+                "author_subname": "@d_weezy",
+                "text": "1. Parents paid for college\n2. Job basically fed her\n3. 3-5k per wedding as a photographer as a second job\n4. 25K a year blog\n5. She's married with a working husband <https:\/\/twitter.com\/MONEY\/status\/1097194863068618752>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/d_weezy\/status\/1097260808562724870?s=12",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/d_weezy\/status\/1097260808562724870?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "fallback": "<https:\/\/twitter.com\/MONEY|@MONEY>: This woman saved $100,000 in 3.5 years on a $54,000 salary. Here’s how <http:\/\/bit.ly\/2EdpXYe>",
+                "ts": 1550426614,
+                "author_name": "Money",
+                "author_link": "https:\/\/twitter.com\/MONEY\/status\/1097194863068618752",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/872175851097411584\/J9Eg3cTV_normal.jpg",
+                "author_subname": "@MONEY",
+                "text": "This woman saved $100,000 in 3.5 years on a $54,000 salary. Here’s how <http:\/\/bit.ly\/2EdpXYe>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/MONEY\/status\/1097194863068618752",
+                "indent": true,
+                "color": "32BBF3",
+                "id": 2,
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DF6FCDDF-296C-4BB5-9B37-536533113191",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1550501876.001500"
+    },
+    {
+        "client_msg_id": "3dc98778-739e-4407-a61f-11880edca896",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/kf5fo0q4z8h21.jpg>",
+        "user": "U15HRTAHL",
+        "ts": "1550502349.001700",
+        "attachments": [
+            {
+                "fallback": "1189x1581px image",
+                "image_url": "https:\/\/i.redd.it\/kf5fo0q4z8h21.jpg",
+                "image_width": 1189,
+                "image_height": 1581,
+                "image_bytes": 131938,
+                "from_url": "https:\/\/i.redd.it\/kf5fo0q4z8h21.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/kf5fo0q4z8h21.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6D5DAE23-933F-490E-80BF-9679404D1599",
+        "type": "message",
+        "text": "<@U15J5H60P> <@U15HRTAHL> <@U15HSHSS2> wanna join us for breakfast on the 2nd",
+        "user": "U15HZ01QX",
+        "ts": "1550502602.002400",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1550502689.000000"
+        }
+    },
+    {
+        "client_msg_id": "EB143D4D-AD50-4A4D-9787-0A4913F4C926",
+        "type": "message",
+        "text": "<@U15HY5TG8> also what do you want to have before the shuffle? Pancakes and omelette is what I’m planning",
+        "user": "U15HZ01QX",
+        "ts": "1550502637.003500"
+    },
+    {
+        "client_msg_id": "842f392f-c9ab-4445-b631-5fadc18b6036",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1550502844.003900"
+    },
+    {
+        "client_msg_id": "8765753c-d7a6-443f-8f17-87b97c359920",
+        "type": "message",
+        "text": "Where at?",
+        "user": "U15J5H60P",
+        "ts": "1550502851.004100"
+    },
+    {
+        "client_msg_id": "D00FDECC-B519-41EC-A365-70AAB9E95D15",
+        "type": "message",
+        "text": "I’ll get you the address when I can remember ",
+        "user": "U15HZ01QX",
+        "ts": "1550502874.004600"
+    },
+    {
+        "client_msg_id": "d38401ca-34fe-4015-9081-72ec69ec7eaa",
+        "type": "message",
+        "text": "Okie dokie.",
+        "user": "U15J5H60P",
+        "ts": "1550502897.004800"
+    },
+    {
+        "client_msg_id": "25ae2a8c-4692-4163-89b9-fba4bdbf1a91",
+        "type": "message",
+        "text": "Are you inviting Andrea and I?",
+        "user": "U15J5H60P",
+        "ts": "1550502901.005000"
+    },
+    {
+        "client_msg_id": "7708c339-0157-45a4-9059-1a0758d630ee",
+        "type": "message",
+        "text": "Or just myself?",
+        "user": "U15J5H60P",
+        "ts": "1550502904.005200"
+    },
+    {
+        "client_msg_id": "7D5B4F82-F439-4737-8DF8-9801377FD7AB",
+        "type": "message",
+        "text": "I imagine she’ll be with you ",
+        "user": "U15HZ01QX",
+        "ts": "1550502918.005600"
+    },
+    {
+        "client_msg_id": "9437b747-406e-447d-807e-48a9fc98270f",
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1550502921.005800"
+    },
+    {
+        "client_msg_id": "4223D912-BE29-41A9-8830-0029F2A1830C",
+        "type": "message",
+        "text": "Pancakes fo sho",
+        "user": "U15HY5TG8",
+        "ts": "1550502931.006000"
+    },
+    {
+        "client_msg_id": "7853925f-a286-4d5f-af80-2b07c97644be",
+        "type": "message",
+        "text": "Who else is going?",
+        "user": "U15J5H60P",
+        "ts": "1550502942.006400"
+    },
+    {
+        "client_msg_id": "DB854905-6A1C-4C73-8885-434D06333FC4",
+        "type": "message",
+        "text": "Lol just leave her at your house and be like yeah I’ll be back in a few hours ",
+        "user": "U15HZ01QX",
+        "ts": "1550502966.007100"
+    },
+    {
+        "client_msg_id": "6521ed2f-b263-456d-86bd-4f4eef27e680",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550503018.007300"
+    },
+    {
+        "client_msg_id": "ee83f203-6bbd-4c01-9ba2-463a11970a79",
+        "type": "message",
+        "text": "She's a maybe as of right now.",
+        "user": "U15J5H60P",
+        "ts": "1550503025.007500"
+    },
+    {
+        "client_msg_id": "fc2e6723-d047-4cef-b07b-a44fb8105396",
+        "type": "message",
+        "text": "She's asking a lot of questions lol",
+        "user": "U15J5H60P",
+        "ts": "1550503036.007800"
+    },
+    {
+        "client_msg_id": "28ee795a-cb83-41e3-befb-57a30aad5d91",
+        "type": "message",
+        "text": "\"Anyone we like going?\"",
+        "user": "U15J5H60P",
+        "ts": "1550503042.008000"
+    },
+    {
+        "client_msg_id": "9d070d73-1599-4689-bbee-2d9eef617ca7",
+        "type": "message",
+        "text": "James and Ciera",
+        "user": "U15J5H60P",
+        "ts": "1550503045.008200"
+    },
+    {
+        "client_msg_id": "b4447504-abc8-443b-b31b-1da7aa48641f",
+        "type": "message",
+        "text": "\"James set this up?\"",
+        "user": "U15J5H60P",
+        "ts": "1550503049.008400"
+    },
+    {
+        "client_msg_id": "f9952a31-eb2c-4359-ac39-d311683cd581",
+        "type": "message",
+        "text": "I don't know. But he invited us.",
+        "user": "U15J5H60P",
+        "ts": "1550503054.008600"
+    },
+    {
+        "client_msg_id": "48E389B0-8273-4798-B2A1-95D8EE3A4494",
+        "type": "message",
+        "text": "Ouch",
+        "user": "U15HY5TG8",
+        "ts": "1550503061.008800"
+    },
+    {
+        "client_msg_id": "f75138cc-f4fe-408f-8be1-419149d437a3",
+        "type": "message",
+        "text": "Are you going, Evan?",
+        "user": "U15J5H60P",
+        "ts": "1550503074.009200"
+    },
+    {
+        "client_msg_id": "26559366-b84e-4334-99fb-16aeb9249585",
+        "type": "message",
+        "text": "Wait is this before shamrock shuffle?",
+        "user": "U15J5H60P",
+        "ts": "1550503080.009600"
+    },
+    {
+        "client_msg_id": "36D83E29-6934-4E4A-A7D3-7B62D7AF3253",
+        "type": "message",
+        "text": "Smgdmfh",
+        "user": "U15HY5TG8",
+        "ts": "1550503083.009900"
+    },
+    {
+        "client_msg_id": "48B0129A-0CD6-4589-9B89-011094438A8C",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1550503086.010200"
+    },
+    {
+        "client_msg_id": "1EF58DA1-A632-46DF-8951-7711A512A72A",
+        "type": "message",
+        "text": "Lol it’s just breakfast before the shuffle",
+        "user": "U15HZ01QX",
+        "ts": "1550503086.010300"
+    },
+    {
+        "client_msg_id": "6b433054-dea7-4a38-8ee9-761831ff7817",
+        "type": "message",
+        "text": "Ohhh",
+        "user": "U15J5H60P",
+        "ts": "1550503088.010500"
+    },
+    {
+        "client_msg_id": "7328894d-2c3c-4841-a749-2abf8d6cdd27",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1550503089.010800"
+    },
+    {
+        "client_msg_id": "4F609446-F0F0-4F9E-B135-C1C6BC6B7203",
+        "type": "message",
+        "text": "Geez",
+        "user": "U15HZ01QX",
+        "ts": "1550503089.010900"
+    },
+    {
+        "client_msg_id": "B69196E1-365C-4A33-BF97-AE117BFCBC33",
+        "type": "message",
+        "text": "It’s just down the street from you guys so I figured I’d invite you",
+        "user": "U15HZ01QX",
+        "ts": "1550503109.011500"
+    },
+    {
+        "client_msg_id": "C0FB1DC7-2BFF-4556-B296-06F993B01BDF",
+        "type": "message",
+        "text": "Anyone we like going lol",
+        "user": "U15HZ01QX",
+        "ts": "1550503124.012000"
+    },
+    {
+        "client_msg_id": "42B4CD33-C994-486B-9452-7F4438319FA3",
+        "type": "message",
+        "text": "Ma fischers?",
+        "user": "U15HY5TG8",
+        "ts": "1550503124.012100"
+    },
+    {
+        "client_msg_id": "61fc2f15-5372-4b01-8684-731f62d150dd",
+        "type": "message",
+        "text": "I appreciate the invite. I am planning on going.",
+        "user": "U15J5H60P",
+        "ts": "1550503130.012500"
+    },
+    {
+        "client_msg_id": "87C3A6D1-704A-4DCE-AD9B-4F12EBC3ED68",
+        "type": "message",
+        "text": "No at Mo’s house",
+        "user": "U15HZ01QX",
+        "ts": "1550503134.012700"
+    },
+    {
+        "client_msg_id": "34D91E70-D7AE-438F-B0E2-853CCC9CFF06",
+        "type": "message",
+        "text": "Never heard of it",
+        "user": "U15HY5TG8",
+        "ts": "1550503142.013000"
+    },
+    {
+        "client_msg_id": "4f931c37-e7bb-429f-a734-a6769477685d",
+        "type": "message",
+        "text": "Evansville Indiana?",
+        "user": "U15J5H60P",
+        "ts": "1550503152.013400"
+    },
+    {
+        "client_msg_id": "EC694920-A771-4973-8189-E2F0882ACB30",
+        "type": "message",
+        "text": "It’s a house of a friend lol",
+        "user": "U15HZ01QX",
+        "ts": "1550503155.013600"
+    },
+    {
+        "client_msg_id": "a00754a8-f224-4b31-97a4-58453ff9d6f2",
+        "type": "message",
+        "text": "Oh.",
+        "user": "U15J5H60P",
+        "ts": "1550503158.013800"
+    },
+    {
+        "client_msg_id": "9e4f9758-5849-4897-a659-f8b5c994258c",
+        "type": "message",
+        "text": "Are you sure you can invite all of us like that to someone else's house?",
+        "user": "U15J5H60P",
+        "ts": "1550503181.014100"
+    },
+    {
+        "client_msg_id": "1709ce8e-52d1-4df2-91af-f56092b1463f",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550503182.014300"
+    },
+    {
+        "client_msg_id": "3C023E95-D811-4132-AA05-4038C293FCD7",
+        "type": "message",
+        "text": "NOPE!",
+        "user": "U15HZ01QX",
+        "ts": "1550503190.014500"
+    },
+    {
+        "client_msg_id": "7a661c77-081e-42c3-9da1-a033759e8d00",
+        "type": "message",
+        "text": "Aw man... Im gunna be gone durring shamrock shuffle??",
+        "user": "U15HSHSS2",
+        "ts": "1550503210.015100"
+    },
+    {
+        "client_msg_id": "c15340e9-1ead-4fd6-a3b3-4625bfcf3962",
+        "type": "message",
+        "text": "its on the 2nd?",
+        "user": "U15HSHSS2",
+        "ts": "1550503215.015400"
+    },
+    {
+        "client_msg_id": "4B447D5F-174C-4E6C-9FDD-FB2603667D5D",
+        "type": "message",
+        "text": "I’m paying for the stuff, her and Ciera are hosting and cooking",
+        "user": "U15HZ01QX",
+        "ts": "1550503230.015900"
+    },
+    {
+        "client_msg_id": "88FA9AA3-2DF2-4934-B9B2-740D845364D0",
+        "type": "message",
+        "text": "Yeah Tom",
+        "user": "U15HZ01QX",
+        "ts": "1550503256.016100"
+    },
+    {
+        "client_msg_id": "DFA83B11-2C09-4C92-8CFF-6D2BEC3EC6C6",
+        "type": "message",
+        "text": "<@U15HRTAHL> you should come by and eat. It’ll be a good start to your Saturday ",
+        "user": "U15HZ01QX",
+        "ts": "1550503289.016800"
+    },
+    {
+        "client_msg_id": "fb784a3a-4bfc-4ca2-b970-a636c8eb8068",
+        "type": "message",
+        "text": "Joe and I are going to ditch and eat instant pot pancakes",
+        "user": "U15J5H60P",
+        "ts": "1550503954.017100"
+    },
+    {
+        "client_msg_id": "ef7541d1-58dd-4e35-ba93-8b6565443ad1",
+        "type": "message",
+        "text": "Yeah I'll probably go",
+        "user": "U15HRTAHL",
+        "ts": "1550504077.017300"
+    },
+    {
+        "client_msg_id": "20AD2156-2303-4135-B03D-59BEB068309D",
+        "type": "message",
+        "text": "Sophia just asked if she could come with like 10 people.",
+        "user": "U15HZ01QX",
+        "ts": "1550504207.017800"
+    },
+    {
+        "client_msg_id": "39485771-4846-4f83-8415-21dc553ceca2",
+        "type": "message",
+        "text": "That sounds like Sophia",
+        "user": "U15J5H60P",
+        "ts": "1550504213.018200"
+    },
+    {
+        "client_msg_id": "D4CCB66C-4757-4FE6-A720-F18EFA5E7D5E",
+        "type": "message",
+        "text": "I don’t think that’s gonna fit",
+        "user": "U15HZ01QX",
+        "ts": "1550504215.018300"
+    },
+    {
+        "client_msg_id": "ebb45084-4d05-4d3a-ae80-7da88c8f73e3",
+        "type": "message",
+        "text": "I don't know why you're inviting a ton of people to someone's condo lol",
+        "user": "U15J5H60P",
+        "ts": "1550504225.018600"
+    },
+    {
+        "client_msg_id": "6570b110-d7be-41d1-ad40-75aa52858a8a",
+        "type": "message",
+        "text": "That doesn't sound right",
+        "user": "U15J5H60P",
+        "ts": "1550504228.018800"
+    },
+    {
+        "client_msg_id": "6DDD56AF-D47A-4B3F-A699-693F142676F6",
+        "type": "message",
+        "text": "I didn’t even invite her",
+        "user": "U15HZ01QX",
+        "ts": "1550504267.019300"
+    },
+    {
+        "client_msg_id": "35ebfeb4-f7c7-4075-ad2a-a41cf3cc46e4",
+        "type": "message",
+        "text": "But u du u homie",
+        "user": "U15J5H60P",
+        "ts": "1550504267.019400"
+    },
+    {
+        "client_msg_id": "558c7fd0-663a-4276-b03e-56cb1f4eb328",
+        "type": "message",
+        "text": "Who did?",
+        "user": "U15J5H60P",
+        "ts": "1550504274.019800"
+    },
+    {
+        "client_msg_id": "686D2538-F934-49A8-9B02-182B5E9C1712",
+        "type": "message",
+        "text": ":man-shrugging::skin-tone-5::man-shrugging::skin-tone-5: she just mysteriously text me out of the blue",
+        "user": "U15HZ01QX",
+        "ts": "1550504290.020400"
+    },
+    {
+        "client_msg_id": "e4ace7c7-29b9-4fc6-bb0d-c155ba8fbf7a",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1550504293.020700"
+    },
+    {
+        "client_msg_id": "49B3431A-7817-436F-ACD4-DC74459FB496",
+        "type": "message",
+        "text": "I figured you 4 people wouldn’t be pushing the limits",
+        "user": "U15HZ01QX",
+        "ts": "1550504320.021200"
+    },
+    {
+        "client_msg_id": "77D4E40B-3F11-4F9B-9829-34CEC84C96AF",
+        "type": "message",
+        "text": "That might not be a good idea lmao",
+        "user": "U15HY5TG8",
+        "ts": "1550504559.021600"
+    },
+    {
+        "client_msg_id": "8E94EC87-726D-489C-9F1B-C0B811BAEF0E",
+        "type": "message",
+        "text": "We had like 18 for New Years ",
+        "user": "U15HZ01QX",
+        "ts": "1550504606.022200"
+    },
+    {
+        "client_msg_id": "0A6F3557-2C78-45E8-A2DA-798E2F00E83C",
+        "type": "message",
+        "text": "Im talking about sophia lol",
+        "user": "U15HY5TG8",
+        "ts": "1550504616.022600"
+    },
+    {
+        "client_msg_id": "6D9128A1-5770-4CE6-A777-E7DC2D16D51B",
+        "type": "message",
+        "text": "Oh yeah that’s not gonna work",
+        "user": "U15HZ01QX",
+        "ts": "1550504626.022900"
+    },
+    {
+        "client_msg_id": "83A8B862-4C9C-4E67-8E69-C831BECAA5A5",
+        "type": "message",
+        "text": "Oh you’re not even talking about logistics",
+        "user": "U15HZ01QX",
+        "ts": "1550504645.023300"
+    },
+    {
+        "client_msg_id": "DAC1395E-7F2C-4BE2-9B5D-265D0C86F670",
+        "type": "message",
+        "text": "You’re just being a bot lol",
+        "user": "U15HZ01QX",
+        "ts": "1550504650.023500"
+    },
+    {
+        "client_msg_id": "47607FD0-6845-4FA8-BBF4-03B9EBB9D3E1",
+        "type": "message",
+        "text": "Im talking about her deleting me from her life lol",
+        "user": "U15HY5TG8",
+        "ts": "1550504670.024000"
+    },
+    {
+        "client_msg_id": "0DD0F552-8BC3-4A13-A846-43E75D34E891",
+        "type": "message",
+        "text": "Logistically, it would also be a pain though",
+        "user": "U15HY5TG8",
+        "ts": "1550504688.024500"
+    },
+    {
+        "client_msg_id": "A41B0884-E330-4A4C-908F-2CA56B4716CA",
+        "type": "message",
+        "text": "You chose the worse girl. You have to live with the consequences lol",
+        "user": "U15HZ01QX",
+        "ts": "1550504700.025000"
+    },
+    {
+        "client_msg_id": "FC22E63E-79EA-4FAF-86CE-CC683349405D",
+        "type": "message",
+        "text": "Ehhh",
+        "user": "U15HY5TG8",
+        "ts": "1550504736.025200"
+    },
+    {
+        "client_msg_id": "3D71969A-0AEF-4FC9-AF31-21E988D1A0F6",
+        "type": "message",
+        "text": "I chose who was right in the situation lol",
+        "user": "U15HY5TG8",
+        "ts": "1550504753.025800"
+    },
+    {
+        "client_msg_id": "CCFF5354-B1CB-49F7-8429-AFE66E7E18DA",
+        "type": "message",
+        "text": "Maybe she’ll get drunk and yell at you. That would be a fun start to spring",
+        "user": "U15HZ01QX",
+        "ts": "1550504954.026500"
+    },
+    {
+        "client_msg_id": "d9415abb-9ff9-403a-9da5-bf89f5343a81",
+        "type": "message",
+        "text": "I thought you didn't choose anyone",
+        "user": "U15J5H60P",
+        "ts": "1550505178.026700"
+    },
+    {
+        "client_msg_id": "53e88e2c-0a95-4f38-a0ba-10b1d918a60e",
+        "type": "message",
+        "text": "Also",
+        "user": "U15J5H60P",
+        "ts": "1550505180.026900"
+    },
+    {
+        "client_msg_id": "f92f7f87-b059-4e6b-80ea-7d6847a7f74e",
+        "type": "message",
+        "text": "Are y'all dating yet?",
+        "user": "U15J5H60P",
+        "ts": "1550505183.027100"
+    },
+    {
+        "client_msg_id": "a9887bfd-8882-4745-a62e-7dd72aecbff8",
+        "type": "message",
+        "text": "Wtf is going on with that",
+        "user": "U15J5H60P",
+        "ts": "1550505186.027300"
+    },
+    {
+        "client_msg_id": "6e77acf6-cfe6-4eb2-9e7e-1e6f7ca21af8",
+        "type": "message",
+        "text": "She's back from Mexico",
+        "user": "U15J5H60P",
+        "ts": "1550505189.027500"
+    },
+    {
+        "client_msg_id": "1017A82A-DC2B-4383-9402-4B5C5691F8BC",
+        "type": "message",
+        "text": ":-1::skin-tone-5:",
+        "user": "U15HZ01QX",
+        "ts": "1550505202.027700"
+    },
+    {
+        "client_msg_id": "70FF2064-6EBE-42CE-A63F-BD8B5ED3F161",
+        "type": "message",
+        "text": "She said it’s ok for Sophia’s gang to come. Are you both cool with that or should I still tell her no <@U15HY5TG8> <@U15J5H60P> ",
+        "user": "U15HZ01QX",
+        "ts": "1550505290.028800"
+    },
+    {
+        "client_msg_id": "64bada35-5d51-4c38-a425-8cde9d6a9be5",
+        "type": "message",
+        "text": "I'm 100% fine with Sophia",
+        "user": "U15J5H60P",
+        "ts": "1550505441.029000"
+    },
+    {
+        "client_msg_id": "6a32b392-ee35-4c1b-bb65-4229b5e2d3c2",
+        "type": "message",
+        "text": "She might have issues with me, but I wouldn't be sure why",
+        "user": "U15J5H60P",
+        "ts": "1550505451.029300"
+    },
+    {
+        "client_msg_id": "4871D20A-9892-40B7-B7EA-6BF679385FCC",
+        "type": "message",
+        "text": "No <@U15J5H60P> lol and im the same as <@U15J5H60P>. Fine with her, but she prob isnt fine with us",
+        "user": "U15HY5TG8",
+        "ts": "1550505601.030300"
+    },
+    {
+        "client_msg_id": "94aad4cf-096d-4a68-9a85-a6dbb2b104aa",
+        "type": "message",
+        "text": "Welp, I understand why she might be upset with you Evan",
+        "user": "U15J5H60P",
+        "ts": "1550505619.030600"
+    },
+    {
+        "client_msg_id": "1d463266-93b0-4d26-ba93-9efefeeee9a7",
+        "type": "message",
+        "text": "lo",
+        "user": "U15J5H60P",
+        "ts": "1550505620.030800"
+    },
+    {
+        "client_msg_id": "6c73ea4c-308b-4b74-accf-603b84375f9c",
+        "type": "message",
+        "text": "l",
+        "user": "U15J5H60P",
+        "ts": "1550505621.031000"
+    },
+    {
+        "client_msg_id": "D8E37B84-ED3B-4584-9E58-5AC8AD432022",
+        "type": "message",
+        "text": "Why? Youre no different lol its not like we didnt all hang out after the fact",
+        "user": "U15HY5TG8",
+        "ts": "1550505658.031700"
+    },
+    {
+        "client_msg_id": "7A8411AC-2257-4DF9-A535-56DBB2C9CA67",
+        "type": "message",
+        "text": "Alright I’m gonna invite her. Better not hear any whining",
+        "user": "U15HZ01QX",
+        "ts": "1550505817.032300"
+    },
+    {
+        "client_msg_id": "9114435F-2ED8-4024-9EAD-1508443A67AE",
+        "type": "message",
+        "text": "Aight ",
+        "user": "U15HY5TG8",
+        "ts": "1550505871.032800"
+    },
+    {
+        "client_msg_id": "F2F6D77A-727D-482C-B8E9-377D7B99A8F0",
+        "type": "message",
+        "text": "2043 N commerce is the address.",
+        "user": "U15HZ01QX",
+        "ts": "1550506006.033300"
+    },
+    {
+        "client_msg_id": "66CB35B8-50EA-4DF6-BCBF-CE48E7DD1938",
+        "type": "message",
+        "text": "So far awayyy",
+        "user": "U15HY5TG8",
+        "ts": "1550506222.033600"
+    },
+    {
+        "client_msg_id": "0F2E730D-FF3B-42A2-9383-D1773FDDF198",
+        "type": "message",
+        "text": "That’s where we were when I dropped off your bottle",
+        "user": "U15HZ01QX",
+        "ts": "1550506240.034100",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1550506248.000000"
+        }
+    },
+    {
+        "client_msg_id": "CB476E54-7F87-4D18-B696-9EF42E5BF1B4",
+        "type": "message",
+        "text": "You can walk that",
+        "user": "U15HZ01QX",
+        "ts": "1550506256.034400"
+    },
+    {
+        "client_msg_id": "CE697058-64FE-43AC-BC4A-7EA1E0B2306E",
+        "type": "message",
+        "text": "I was kidding. Just thought id whine now instead of later",
+        "user": "U15HY5TG8",
+        "ts": "1550506358.035100"
+    },
+    {
+        "client_msg_id": "9ecf05d3-5163-407f-9a3b-e4fc7c9b8b5f",
+        "type": "message",
+        "text": "you guys remember the ebola outbreak?",
+        "user": "U15HRTAHL",
+        "ts": "1550507965.035500"
+    },
+    {
+        "client_msg_id": "fed6bfae-3e36-48c2-8a1d-536412b93487",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1550508510.035700"
+    },
+    {
+        "client_msg_id": "283d8eeb-9b5c-4be0-b6ac-2fe66e5db00a",
+        "type": "message",
+        "text": "Now it's poliio",
+        "user": "U15J5H60P",
+        "ts": "1550508518.035900"
+    },
+    {
+        "client_msg_id": "2336E24F-7D96-4CCD-B447-DCFB1EB14BA6",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1550510388.036100"
+    },
+    {
+        "client_msg_id": "f58d44ed-f250-4fa6-8347-e516b5d3419a",
+        "type": "message",
+        "text": "measles",
+        "user": "U15HRTAHL",
+        "ts": "1550510407.036300"
+    },
+    {
+        "client_msg_id": "6216C6DA-F2F4-4378-9D68-003D47F4EA98",
+        "type": "message",
+        "text": "Noiceeee",
+        "user": "U15HY5TG8",
+        "ts": "1550510436.036500"
+    },
+    {
+        "client_msg_id": "C5DA44DF-FEB9-46B9-B17E-F17FD0638461",
+        "type": "message",
+        "text": "We're safe right?",
+        "user": "U15HY5TG8",
+        "ts": "1550510443.036800"
+    },
+    {
+        "client_msg_id": "70c76f8f-cc81-4199-a07e-4760a3ce0322",
+        "type": "message",
+        "text": "I should probably go to the doctor and get vaccinated",
+        "user": "U15HRTAHL",
+        "ts": "1550510484.037100"
+    },
+    {
+        "client_msg_id": "3f06c571-b9aa-4daa-bf31-38631ceef864",
+        "type": "message",
+        "text": "I have no idea if my parents ever did get me vaccinated",
+        "user": "U15HRTAHL",
+        "ts": "1550510495.037500"
+    },
+    {
+        "client_msg_id": "63906616-68e8-4c20-9341-f9bce4409ef4",
+        "type": "message",
+        "text": "or how long those things last for",
+        "user": "U15HRTAHL",
+        "ts": "1550510499.037700"
+    },
+    {
+        "client_msg_id": "9b346371-f735-4a95-876e-75972a1fee0c",
+        "type": "message",
+        "text": "think you need boosters every 10 or so years",
+        "user": "U15HZ01QX",
+        "ts": "1550510522.038200"
+    },
+    {
+        "client_msg_id": "376155cf-fcf1-4852-8622-6f1ed344d3bd",
+        "type": "message",
+        "text": "maybe thats just tetnus",
+        "user": "U15HZ01QX",
+        "ts": "1550510529.038500"
+    },
+    {
+        "client_msg_id": "f4eb46d9-fb7a-4df0-8302-42c04859dbd7",
+        "type": "message",
+        "text": "the doctor was more of a thing you went to after you fucked up and broke something",
+        "user": "U15HRTAHL",
+        "ts": "1550510539.038700"
+    },
+    {
+        "client_msg_id": "a2417ffc-f616-47d0-8bfe-f007c2127ad2",
+        "type": "message",
+        "text": "not really preventative in my house",
+        "user": "U15HRTAHL",
+        "ts": "1550510547.039000"
+    },
+    {
+        "client_msg_id": "7f38bb5a-9d1d-48e4-8fbb-a2c518858132",
+        "type": "message",
+        "text": "better than most still",
+        "user": "U15HZ01QX",
+        "ts": "1550510571.039200"
+    },
+    {
+        "client_msg_id": "b7c3cfec-f8a5-46c1-9674-0a199a2500aa",
+        "type": "message",
+        "text": "people sometimes just do home stuff for everything",
+        "user": "U15HZ01QX",
+        "ts": "1550510584.039900"
+    },
+    {
+        "client_msg_id": "4c88c2ec-33e4-4db2-a386-efb8583f8509",
+        "type": "message",
+        "text": "Measles doesn't need a booster",
+        "user": "U15HSHSS2",
+        "ts": "1550510587.040200"
+    },
+    {
+        "client_msg_id": "24FC22E5-6FFD-46EB-A86F-8731D048AAAF",
+        "type": "message",
+        "text": "Didn't uwm require us to have those up to date?",
+        "user": "U15J5H60P",
+        "ts": "1550510599.040600"
+    },
+    {
+        "client_msg_id": "524e995f-c0ed-4635-b1bd-36aecc2f3b53",
+        "type": "message",
+        "text": "did they?",
+        "user": "U15HZ01QX",
+        "ts": "1550510611.040900"
+    },
+    {
+        "client_msg_id": "17D6CA56-9205-4577-927E-3D78F53FCCF1",
+        "type": "message",
+        "text": "I remember having to send them my vaccination records ",
+        "user": "U15J5H60P",
+        "ts": "1550510620.041300"
+    },
+    {
+        "client_msg_id": "63fdcdb1-ab96-4175-9389-00603d806bf1",
+        "type": "message",
+        "text": "I don't remember giving any medical records to UWM",
+        "user": "U15HSHSS2",
+        "ts": "1550510632.041700"
+    },
+    {
+        "client_msg_id": "F56F5B6A-4DE4-4272-9015-EA83F48A07B0",
+        "type": "message",
+        "text": "I was bamboozled",
+        "user": "U15J5H60P",
+        "ts": "1550510644.042100"
+    },
+    {
+        "client_msg_id": "93bc88cf-1430-4727-a268-5816f02e5e29",
+        "type": "message",
+        "text": "I vaguely remember this",
+        "user": "U15HRTAHL",
+        "ts": "1550510668.042500"
+    },
+    {
+        "client_msg_id": "fd8853db-6cb6-4dda-a7fb-b22b97c2cdea",
+        "type": "message",
+        "text": "what do you all need for vaccines anyways?",
+        "user": "U15HRTAHL",
+        "ts": "1550510708.043500"
+    },
+    {
+        "client_msg_id": "80921dd2-520a-4d25-bfe9-a585f2a53564",
+        "type": "message",
+        "text": "<mailto:Staff@UWSchools.com|Staff@UWSchools.com> probably emailed you and you gave him all your medical and financial documents",
+        "user": "U15HSHSS2",
+        "ts": "1550510708.043600"
+    },
+    {
+        "client_msg_id": "2db38736-179b-4bcf-8aca-fab3cac35a10",
+        "type": "message",
+        "text": "measles?",
+        "user": "U15HRTAHL",
+        "ts": "1550510709.043800"
+    },
+    {
+        "client_msg_id": "fb4ab28d-d6c8-4bb8-aac8-250522bfbf35",
+        "type": "message",
+        "text": "polio?",
+        "user": "U15HRTAHL",
+        "ts": "1550510712.044000"
+    },
+    {
+        "client_msg_id": "9e281c88-8897-4d7c-ac86-c92bef2582c8",
+        "type": "message",
+        "text": "what else?",
+        "user": "U15HRTAHL",
+        "ts": "1550510717.044200"
+    },
+    {
+        "client_msg_id": "d3b98074-0e39-4068-a906-a7f6b3f640f3",
+        "type": "message",
+        "text": "diphtheria, tetanus, and pertussis (called the Tdap vaccine)\nmeasles, mumps, rubella (the MMR vaccine)\nhepatitis A\nhepatitis B\nmeningococcal disease (e.g., meningitis)\nhuman papillomavirus (HPV)\nvaricella (chickenpox) if you have not had the disease\npolio\nflu (influenza)",
+        "user": "U15HSHSS2",
+        "ts": "1550510762.044500"
+    },
+    {
+        "client_msg_id": "5ea6839a-ad33-463d-8bfd-481ec2b293c8",
+        "type": "message",
+        "text": "mmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1550510774.044700"
+    },
+    {
+        "client_msg_id": "a23267f0-e20e-4259-a07c-0729c924b982",
+        "type": "message",
+        "text": "im gonna die",
+        "user": "U15HRTAHL",
+        "ts": "1550510776.044900"
+    },
+    {
+        "client_msg_id": "a452e17e-4986-4772-a67e-6ed547caaadb",
+        "type": "message",
+        "text": "I probably have 2 of those",
+        "user": "U15HRTAHL",
+        "ts": "1550510785.045200"
+    },
+    {
+        "client_msg_id": "6A734921-C781-4ABC-BF9A-E248EA74DFF9",
+        "type": "message",
+        "text": "That's okay",
+        "user": "U15J5H60P",
+        "ts": "1550510787.045400"
+    },
+    {
+        "client_msg_id": "56786dab-b28e-4434-8fc7-c709efcb084a",
+        "type": "message",
+        "text": "i mean they can combine all of them or something lol",
+        "user": "U15HZ01QX",
+        "ts": "1550510795.045600"
+    },
+    {
+        "client_msg_id": "B37F393C-B13B-4539-B3BA-C54D1CDAED4A",
+        "type": "message",
+        "text": "You lived a full life",
+        "user": "U15J5H60P",
+        "ts": "1550510802.046000"
+    },
+    {
+        "client_msg_id": "841c93c6-0d92-4c21-b1e1-3f5239deb0e6",
+        "type": "message",
+        "text": "just give you a cup of fluid to drink",
+        "user": "U15HZ01QX",
+        "ts": "1550510811.046300"
+    },
+    {
+        "client_msg_id": "E068B4BC-A2FB-4BBC-AADB-174702810426",
+        "type": "message",
+        "text": "Population control",
+        "user": "U15HY5TG8",
+        "ts": "1550510908.046600"
+    },
+    {
+        "client_msg_id": "219391C1-A840-4C06-839C-031C3F47607F",
+        "type": "message",
+        "text": "One side or the other is pop control. We'll see whos right",
+        "user": "U15HY5TG8",
+        "ts": "1550510952.047900"
+    },
+    {
+        "client_msg_id": "e361246d-1c41-41d4-b995-4660f79aed52",
+        "type": "message",
+        "text": "This whole measles thing fucking started cuz a group of anti-vax parents and their kids were at some event, and a foreign dude with measles sneezed by them, and then they all spread it",
+        "user": "U15HSHSS2",
+        "ts": "1550510979.048600"
+    },
+    {
+        "client_msg_id": "25f32427-bd4c-4e17-bef3-fa36e1d4dd55",
+        "type": "message",
+        "text": "phew I'm vaccinated",
+        "user": "U15HRTAHL",
+        "ts": "1550510995.048800"
+    },
+    {
+        "client_msg_id": "A5752761-4413-449A-B059-C323F159181A",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550511001.049100"
+    },
+    {
+        "client_msg_id": "ce79c377-d24c-4ffa-a10a-65b155739d82",
+        "type": "message",
+        "text": "I found my immunization records",
+        "user": "U15HRTAHL",
+        "ts": "1550511003.049300"
+    },
+    {
+        "client_msg_id": "BBB12390-ECAA-4ADE-87DA-A776DA656D04",
+        "type": "message",
+        "text": "You are a bundle of anxiety",
+        "user": "U15J5H60P",
+        "ts": "1550511011.049700"
+    },
+    {
+        "client_msg_id": "4c2b7573-cb5d-4732-9975-8743bffb5fca",
+        "type": "message",
+        "text": "93\n94\n98\n06",
+        "user": "U15HRTAHL",
+        "ts": "1550511021.050300"
+    },
+    {
+        "client_msg_id": "94CD4939-3912-40D5-8B1E-48DCC617F2D7",
+        "type": "message",
+        "text": "Literally have been fine for 25 years",
+        "user": "U15J5H60P",
+        "ts": "1550511025.050600"
+    },
+    {
+        "client_msg_id": "d05ae047-814d-41f3-9506-107aaa8bce12",
+        "type": "message",
+        "text": "there's a thing called herd immunity",
+        "user": "U15HRTAHL",
+        "ts": "1550511039.051700"
+    },
+    {
+        "client_msg_id": "7C297549-C10D-4191-B36F-9E782AF5B588",
+        "type": "message",
+        "text": "So measles is just a normal sickness everywhere else or what",
+        "user": "U15HY5TG8",
+        "ts": "1550511041.052000"
+    },
+    {
+        "client_msg_id": "C77EFD7E-B4CD-4A7E-AC4B-FE292FB5D341",
+        "type": "message",
+        "text": "Suddenly, one person gets the measels you get knocked off your rocker ",
+        "user": "U15J5H60P",
+        "ts": "1550511049.052200"
+    },
+    {
+        "client_msg_id": "805B90D0-4BD4-4544-A860-6392628FB57E",
+        "type": "message",
+        "text": "Joes a hypo",
+        "user": "U15HY5TG8",
+        "ts": "1550511064.052500"
+    },
+    {
+        "client_msg_id": "965f49e6-1e6f-4907-b977-1000453e362d",
+        "type": "message",
+        "text": "do you guys remember getting vaccinated?",
+        "user": "U15HRTAHL",
+        "ts": "1550511096.052800"
+    },
+    {
+        "client_msg_id": "B7266BDA-DDB9-42B1-8E50-9725CD791A84",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1550511104.053100"
+    },
+    {
+        "client_msg_id": "E84B27B6-B58E-422D-8015-879A51173CDF",
+        "type": "message",
+        "text": "I was like 2 minutes old",
+        "user": "U15HY5TG8",
+        "ts": "1550511109.053500"
+    },
+    {
+        "client_msg_id": "1C01ED06-81F5-4255-AC19-70E2A8F8278E",
+        "type": "message",
+        "text": "They had to pretty much strap me down",
+        "user": "U15J5H60P",
+        "ts": "1550511117.053800"
+    },
+    {
+        "client_msg_id": "193196C0-38DF-46E6-8E77-C7C90D9F9AE2",
+        "type": "message",
+        "text": "Flu shots suck",
+        "user": "U15J5H60P",
+        "ts": "1550511123.054100"
+    },
+    {
+        "client_msg_id": "E0B4A4BA-619B-4241-8373-695C51FC39B3",
+        "type": "message",
+        "text": "I didnt get a flu shot this year",
+        "user": "U15HY5TG8",
+        "ts": "1550511144.054600"
+    },
+    {
+        "client_msg_id": "97827525-cdc1-4d6c-b06e-a93beaf644d6",
+        "type": "message",
+        "text": "I never get the flu shot",
+        "user": "U15HRTAHL",
+        "ts": "1550511173.055300"
+    },
+    {
+        "client_msg_id": "3FE1FEAE-8599-42DA-A5A4-36C15CC1A369",
+        "type": "message",
+        "text": "I have no memory of getting vaccinated. Probabaly never was ",
+        "user": "U15HSHSS2",
+        "ts": "1550511180.055500"
+    },
+    {
+        "client_msg_id": "A3E5397D-560C-40AF-A4DB-5E14DF29C165",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550511190.055900"
+    },
+    {
+        "client_msg_id": "ea6421c3-9d99-415e-8f08-7dedc4ecb0d7",
+        "type": "message",
+        "text": "there'sa vaccine for chicken pox",
+        "user": "U15HRTAHL",
+        "ts": "1550511303.056200"
+    },
+    {
+        "client_msg_id": "566596e9-d9c6-4c8e-97c7-7bc6b9a27758",
+        "type": "message",
+        "text": "I got chicken pox",
+        "user": "U15HRTAHL",
+        "ts": "1550511310.056400"
+    },
+    {
+        "client_msg_id": "C5206F8A-3056-462B-88F5-FEE9EFCA611C",
+        "type": "message",
+        "text": "Same",
+        "user": "U15HY5TG8",
+        "ts": "1550511317.056800"
+    },
+    {
+        "client_msg_id": "066e5a08-7763-4a23-a13e-4e86d6a5974c",
+        "type": "message",
+        "text": "that shit sucked",
+        "user": "U15HRTAHL",
+        "ts": "1550511318.056900"
+    },
+    {
+        "client_msg_id": "38d00619-2771-4869-8445-e98b06360f91",
+        "type": "message",
+        "text": "I remember that",
+        "user": "U15HRTAHL",
+        "ts": "1550511319.057100"
+    },
+    {
+        "client_msg_id": "8816AE33-9737-4AD4-A006-DABBCD5AD42F",
+        "type": "message",
+        "text": "I luckily do not",
+        "user": "U15HY5TG8",
+        "ts": "1550511329.057500"
+    },
+    {
+        "client_msg_id": "53E1C8EE-CC68-4BD7-9E3E-88A3E8E81EB4",
+        "type": "message",
+        "text": "But...my mom has a picture of me with it and im smiling, so i guess it wasnt that bad",
+        "user": "U15HY5TG8",
+        "ts": "1550511362.058600"
+    },
+    {
+        "client_msg_id": "56f951fe-9aa8-494c-8622-fc379b87a584",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1550511366.058800"
+    },
+    {
+        "client_msg_id": "10f52308-f27d-473c-b652-009f52dab515",
+        "type": "message",
+        "text": "looks like I never got the hepatitis A shot",
+        "user": "U15HRTAHL",
+        "ts": "1550511389.059100"
+    },
+    {
+        "client_msg_id": "c87d07ae-fe7a-47dd-b51b-7a6bf6b1ceba",
+        "type": "message",
+        "text": "Idk if I believe that cause I got the hepatitis b shot",
+        "user": "U15HRTAHL",
+        "ts": "1550511408.059700"
+    },
+    {
+        "client_msg_id": "FE2A0676-4F3F-447D-A3B5-919F2194CD46",
+        "type": "message",
+        "text": "I got chicken pox",
+        "user": "U15J5H60P",
+        "ts": "1550511420.059900"
+    },
+    {
+        "client_msg_id": "58BDC323-CDEE-4174-B870-9D09D5687CD3",
+        "type": "message",
+        "text": "It was great ",
+        "user": "U15J5H60P",
+        "ts": "1550511423.060100"
+    },
+    {
+        "client_msg_id": "BAE0DCB9-C788-4F5B-937E-B8E4BDB86B0B",
+        "type": "message",
+        "text": "Stayed home for a week",
+        "user": "U15J5H60P",
+        "ts": "1550511455.060700"
+    },
+    {
+        "client_msg_id": "CD0F552A-0174-4319-9D81-EF908A5E89A4",
+        "type": "message",
+        "text": "Cause no school right?",
+        "user": "U15HY5TG8",
+        "ts": "1550511456.060800"
+    },
+    {
+        "client_msg_id": "E3C555F1-AC99-4D9C-A017-AE808D8E2921",
+        "type": "message",
+        "text": "No because I had chicken pox",
+        "user": "U15J5H60P",
+        "ts": "1550511489.061400"
+    },
+    {
+        "client_msg_id": "469144C9-7A53-482A-A3DA-307ADF314902",
+        "type": "message",
+        "text": "I felt fine other than the itchy spots ",
+        "user": "U15J5H60P",
+        "ts": "1550511498.061800"
+    },
+    {
+        "client_msg_id": "A5210270-6079-48E1-928E-9351C0DD0A11",
+        "type": "message",
+        "text": "I remember playing Rayman ",
+        "user": "U15J5H60P",
+        "ts": "1550511508.062100"
+    },
+    {
+        "client_msg_id": "B639BDFF-9809-4BCB-AA0C-74016E1F2C36",
+        "type": "message",
+        "text": "That was fun",
+        "user": "U15J5H60P",
+        "ts": "1550511511.062400"
+    },
+    {
+        "client_msg_id": "067F95CF-46AA-4E42-88C1-256EDEADF290",
+        "type": "message",
+        "text": "Im scared for shingles",
+        "user": "U15HY5TG8",
+        "ts": "1550511518.062700"
+    },
+    {
+        "client_msg_id": "AC76F4C3-3D36-4050-B32E-6E747389C237",
+        "type": "message",
+        "text": "Luckily ill prob die before then",
+        "user": "U15HY5TG8",
+        "ts": "1550511530.063100"
+    },
+    {
+        "client_msg_id": "89000333-98B7-455A-B748-1D7B18E44CBE",
+        "type": "message",
+        "text": "My ex's dad had that for a bit",
+        "user": "U15J5H60P",
+        "ts": "1550511548.063500"
+    },
+    {
+        "client_msg_id": "04A04859-8C7B-4682-B324-C55CE0E9ADBD",
+        "type": "message",
+        "text": "It went away with meds though",
+        "user": "U15J5H60P",
+        "ts": "1550511555.063800"
+    },
+    {
+        "client_msg_id": "8D05BFD7-4FDE-4EAF-8959-5EDB259FD0B1",
+        "type": "message",
+        "text": "True",
+        "user": "U15HY5TG8",
+        "ts": "1550511595.064000"
+    },
+    {
+        "client_msg_id": "76CDCCC6-0DC7-4AD0-A540-3289D5F79CE3",
+        "type": "message",
+        "text": "Store bought chili is just so much worse than homemade",
+        "user": "U15HY5TG8",
+        "ts": "1550513668.064500"
+    },
+    {
+        "client_msg_id": "47825938-18c8-4f72-90f6-71143f3c020f",
+        "type": "message",
+        "text": "Left a bad review for Chevy when I took my car in last week, and they called me back in like 30 mins. Trying to see if they'll install bluetooth auido for free to make up for it lol",
+        "user": "U15HSHSS2",
+        "ts": "1550515180.065800"
+    },
+    {
+        "client_msg_id": "cd15cdaa-3c91-459c-bea4-f6a45c223e56",
+        "type": "message",
+        "text": "Why was it a poor experience?",
+        "user": "U15HRTAHL",
+        "ts": "1550515226.066100"
+    },
+    {
+        "client_msg_id": "DE8ECD89-C676-46AA-B567-3C714942E9F6",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1550515477.070000"
+    },
+    {
+        "client_msg_id": "a86e9e93-3bdb-4b33-b0a2-e5ba553050c8",
+        "type": "message",
+        "text": "o thats a deal",
+        "user": "U15HZ01QX",
+        "ts": "1550515478.070200"
+    },
+    {
+        "client_msg_id": "8b90fce6-f23a-46eb-af60-b01df63ffbbd",
+        "type": "message",
+        "text": "I'll start from the beginning with CarMax. The model I picked, normally doesn't come with remote start, but the one I got had it (not some 3rd party shit one, it was the actual chevy remote start for that car). but when I went to buy the car it wasn't working. the chick said maybe it was the cold (cuz this was when it was -50), and that I should try it agian in a few days and if it doesn't work they'll take care of it. So it never ended up working, took it in, and they tried some stuff with the key and weren't able to get it to work. So they said they'll have to look at the remote start mechanism and see why it's not working. so after about 30 mins they come back and say, the car doesn't have remote start installed in it lol",
+        "user": "U15HSHSS2",
+        "ts": "1550515486.070400"
+    },
+    {
+        "client_msg_id": "9080D4F3-3A64-4944-847D-E8ABEFBAD087",
+        "type": "message",
+        "text": "So why is it chevys fault lol",
+        "user": "U15HY5TG8",
+        "ts": "1550515530.071600"
+    },
+    {
+        "client_msg_id": "7a8dfe00-d75f-4b8f-8e2f-abc715ad226b",
+        "type": "message",
+        "text": "So they tell me it will have to be installed, so I ask how long that will take, and they say that they can't install it. Chevy has to install it themselves because it's an offical chevy remote start thing blah blah blah",
+        "user": "U15HSHSS2",
+        "ts": "1550515546.071800"
+    },
+    {
+        "client_msg_id": "2622352A-36AE-4FC4-8FF4-4D07A36299BF",
+        "type": "message",
+        "text": "O sorry",
+        "user": "U15HY5TG8",
+        "ts": "1550515558.072300"
+    },
+    {
+        "client_msg_id": "9f58c75e-9e5c-41b0-bf78-f3f298731bf6",
+        "type": "message",
+        "text": "So we setup an appointment with Chevy to get it in stalled, and it just so happens that my appointment day coincided with the last huge blizzard we had",
+        "user": "U15HSHSS2",
+        "ts": "1550515579.072700"
+    },
+    {
+        "client_msg_id": "d225e438-a5de-4965-bf9e-b632da9a00e8",
+        "type": "message",
+        "text": "So I call to see if they are still open, and that my appointment is still on, and i got the go ahead to come in, so I drive 30 mins to the shop in the blizzard, and drop off my car",
+        "user": "U15HSHSS2",
+        "ts": "1550515627.073600"
+    },
+    {
+        "client_msg_id": "a6b36ebe-28c0-47e0-a0fd-b5f83f41441d",
+        "type": "message",
+        "text": "they didn't know why i was there or anything about my appointment lol but eventually figured it out and told me I could wait in the waiting room until the work was done on my car",
+        "user": "U15HSHSS2",
+        "ts": "1550515661.074400"
+    },
+    {
+        "client_msg_id": "0fa550f3-5264-45ce-ad12-6f274c4ee741",
+        "type": "message",
+        "text": "I'm in the waiting room for an hour (they said it could take up to 2 hours) and the guy comes in and is like \"yeah we don't have the remote start part here in the shop...\" and when I setup my appointment the girl specifically said the part had been ordered and would be ready when I came in",
+        "user": "U15HSHSS2",
+        "ts": "1550515730.075800"
+    },
+    {
+        "client_msg_id": "8cdaed81-7722-4bbd-a432-65d8eca88b53",
+        "type": "message",
+        "text": "They said they'd call me when a part came in, should be very soon...",
+        "user": "U15HSHSS2",
+        "ts": "1550515752.076400"
+    },
+    {
+        "client_msg_id": "db7f6eb7-24a7-4a31-a86a-5be44cb5d8ec",
+        "type": "message",
+        "text": "So i drive back home in the blizzard, after like 2 hours of being there, with zero progress made on my car lol",
+        "user": "U15HSHSS2",
+        "ts": "1550515778.077000"
+    },
+    {
+        "client_msg_id": "53d91793-b36b-4947-aafb-bc19b46c3b35",
+        "type": "message",
+        "text": "over a week later, and I never got a call from them",
+        "user": "U15HSHSS2",
+        "ts": "1550515792.077400"
+    },
+    {
+        "client_msg_id": "6e8ff201-ef47-428a-90a4-3f4e17551303",
+        "type": "message",
+        "text": "but I got an email saying \"we see your service has been completed! tell us about your experience!\" with a survey. So i took it and left a review with everything that happened to me lol",
+        "user": "U15HSHSS2",
+        "ts": "1550515837.078300"
+    },
+    {
+        "client_msg_id": "EA80CA94-6721-499A-8C20-BC7A5635101A",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HY5TG8",
+        "ts": "1550515839.078600"
+    },
+    {
+        "client_msg_id": "1C2F689D-11B3-4060-87C6-1BDB70E557A3",
+        "type": "message",
+        "text": "And lol",
+        "user": "U15HY5TG8",
+        "ts": "1550515849.079000"
+    },
+    {
+        "client_msg_id": "76f9a7f4-8863-4116-8ecb-69f41bfb6abe",
+        "type": "message",
+        "text": "oh yeah they deserve that review",
+        "user": "U15HRTAHL",
+        "ts": "1550515852.079200"
+    },
+    {
+        "client_msg_id": "eff15dbd-afbe-4fed-8ce1-88fb27dc3fb8",
+        "type": "message",
+        "text": "did you leave a review for both the dealership and service center?",
+        "user": "U15HRTAHL",
+        "ts": "1550515864.079900"
+    },
+    {
+        "client_msg_id": "095C416F-E8FF-4929-BC09-CDDA0417F19B",
+        "type": "message",
+        "text": "I was hoping they would call back as you pulled back into your apt lol",
+        "user": "U15HY5TG8",
+        "ts": "1550515865.080000"
+    },
+    {
+        "client_msg_id": "344f1768-a3b8-4fba-9b12-eacbf637710c",
+        "type": "message",
+        "text": "Wait",
+        "user": "U15J5H60P",
+        "ts": "1550515873.080200"
+    },
+    {
+        "client_msg_id": "b40fb003-49c0-468e-827f-78fa57fbd232",
+        "type": "message",
+        "text": "You bought a car without bluetooth audio?",
+        "user": "U15J5H60P",
+        "ts": "1550515880.080500"
+    },
+    {
+        "client_msg_id": "431f1f11-3787-47f8-a61a-199afabb9660",
+        "type": "message",
+        "text": "That's the real crime here",
+        "user": "U15J5H60P",
+        "ts": "1550515882.080700"
+    },
+    {
+        "client_msg_id": "5F2DE360-D47D-43FA-9E72-E810E718B7B1",
+        "type": "message",
+        "text": "Bluetooth sucks",
+        "user": "U15HY5TG8",
+        "ts": "1550515900.080900"
+    },
+    {
+        "client_msg_id": "0b8f27b4-28f1-489c-a49a-cd2136152c75",
+        "type": "message",
+        "text": "I blame false advertisement",
+        "user": "U15HSHSS2",
+        "ts": "1550515907.081100"
+    },
+    {
+        "client_msg_id": "e78c56a3-78ac-433e-8429-9d556b547c66",
+        "type": "message",
+        "text": "the car has bluetooth",
+        "user": "U15HSHSS2",
+        "ts": "1550515911.081300"
+    },
+    {
+        "client_msg_id": "ef26d6f1-81d1-4ee3-bffe-9fe5ee1b3f97",
+        "type": "message",
+        "text": "i can connect my phone",
+        "user": "U15HSHSS2",
+        "ts": "1550515916.081500"
+    },
+    {
+        "client_msg_id": "50078453-b094-4ac0-ac35-e6995c054fad",
+        "type": "message",
+        "text": "use it to call people and shit",
+        "user": "U15HSHSS2",
+        "ts": "1550515921.081700"
+    },
+    {
+        "client_msg_id": "0141f2f2-45fc-4ded-87df-4a9c22820d7e",
+        "type": "message",
+        "text": "but it doesn't play audio",
+        "user": "U15HSHSS2",
+        "ts": "1550515928.082100"
+    },
+    {
+        "client_msg_id": "ebcae09a-453b-4320-99be-f00463e5b2c1",
+        "type": "message",
+        "text": "becuase that's not a feature of the LS model, the LT model has bluetooth audio",
+        "user": "U15HSHSS2",
+        "ts": "1550515947.082700"
+    },
+    {
+        "client_msg_id": "B3D4CA89-AA69-44C7-96CF-9EDAF22D6FE1",
+        "type": "message",
+        "text": "Do you have a usb port?",
+        "user": "U15HY5TG8",
+        "ts": "1550515951.082900"
+    },
+    {
+        "client_msg_id": "45780981-a99f-45a7-b6e8-a408eee5dba6",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1550515954.083100"
+    },
+    {
+        "client_msg_id": "A5B6D16C-254A-4639-8CE7-8DE13698CB75",
+        "type": "message",
+        "text": "At least itll play from there",
+        "user": "U15HY5TG8",
+        "ts": "1550515964.083400"
+    },
+    {
+        "client_msg_id": "6a4747eb-ec2b-4f41-acc4-509a51cffb1d",
+        "type": "message",
+        "text": "yeah, and I bought a bluetooth adapter so it will basically be the same thing",
+        "user": "U15HSHSS2",
+        "ts": "1550515988.083900"
+    },
+    {
+        "client_msg_id": "fe89643c-55e2-4139-aeae-d4303fc9f312",
+        "type": "message",
+        "text": "just wold be nice to have it built in",
+        "user": "U15HSHSS2",
+        "ts": "1550515997.084200"
+    },
+    {
+        "client_msg_id": "8AD070C0-5183-4FB6-91DA-7927E819348A",
+        "type": "message",
+        "text": "True",
+        "user": "U15HY5TG8",
+        "ts": "1550516017.084400"
+    },
+    {
+        "client_msg_id": "DBBB31FE-4019-4588-8FD4-4A2395A155AC",
+        "type": "message",
+        "text": "Ive been contemplating swapping my stereo to have everything built in too",
+        "user": "U15HY5TG8",
+        "ts": "1550516043.085200"
+    },
+    {
+        "client_msg_id": "681ebb81-74bb-4bd3-a25b-2bd367294211",
+        "type": "message",
+        "text": "Take the car back tom",
+        "user": "U15HZ01QX",
+        "ts": "1550516055.085700"
+    },
+    {
+        "client_msg_id": "C91E943D-834D-41AF-9B04-CBBBC0E4BF6B",
+        "type": "message",
+        "text": "Do you know how much yours would cost otherwise?",
+        "user": "U15HY5TG8",
+        "ts": "1550516057.086000"
+    },
+    {
+        "client_msg_id": "ee2d0bd0-aecb-4edc-8964-cfacb5001e34",
+        "type": "message",
+        "text": "im surprised youre not more upset at carmax",
+        "user": "U15HZ01QX",
+        "ts": "1550516065.086200"
+    },
+    {
+        "client_msg_id": "5D80514A-3EC1-4C15-BA7E-1D1D30DFD4AB",
+        "type": "message",
+        "text": "Yeah leave them a bad review lol",
+        "user": "U15HY5TG8",
+        "ts": "1550516081.087000"
+    },
+    {
+        "client_msg_id": "8954c20f-a558-4b9f-97c3-f194bdbde43a",
+        "type": "message",
+        "text": "I'm upset with everybody lol",
+        "user": "U15HSHSS2",
+        "ts": "1550516082.087200"
+    },
+    {
+        "client_msg_id": "94BAB42F-21A1-4648-9783-191689C44B40",
+        "type": "message",
+        "text": "Demand a refund",
+        "user": "U15HY5TG8",
+        "ts": "1550516090.087400"
+    },
+    {
+        "client_msg_id": "fdcc9007-3099-43b9-b485-78a2ad566035",
+        "type": "message",
+        "text": "they said hey heres a giant investment and one of the main features is completely nonexistent",
+        "user": "U15HZ01QX",
+        "ts": "1550516092.087700"
+    },
+    {
+        "client_msg_id": "F88F1BAF-C0CF-4DA6-88BC-7B31B2EC8A83",
+        "type": "message",
+        "text": "Claim lemon law",
+        "user": "U15HY5TG8",
+        "ts": "1550516093.087900"
+    },
+    {
+        "client_msg_id": "26e7a361-8524-42e4-b5ea-e71aa8351728",
+        "type": "message",
+        "text": "<@U15HSHSS2> I wanna see the review you left",
+        "user": "U15HRTAHL",
+        "ts": "1550516102.088100"
+    },
+    {
+        "client_msg_id": "dd52181c-f009-4087-9074-e8e821c52c27",
+        "type": "message",
+        "text": "copy pasta it",
+        "user": "U15HRTAHL",
+        "ts": "1550516106.088400"
+    },
+    {
+        "client_msg_id": "8B2CBE55-2E6E-4C69-811C-679B63663F9D",
+        "type": "message",
+        "text": "He just pasted it",
+        "user": "U15HY5TG8",
+        "ts": "1550516110.088600"
+    },
+    {
+        "client_msg_id": "f3451783-1195-4eab-ab9e-4bbb974a561e",
+        "type": "message",
+        "text": "he explained the situation, not the review",
+        "user": "U15HRTAHL",
+        "ts": "1550516122.088900"
+    },
+    {
+        "client_msg_id": "404c8196-e043-40fe-bd78-d49f46b3642d",
+        "type": "message",
+        "text": "also so wait, carmax said hey your car doesnt have this and YOU have to pay chevy to put it in",
+        "user": "U15HZ01QX",
+        "ts": "1550516159.089400"
+    },
+    {
+        "client_msg_id": "bbdba53f-c36d-49d3-896b-383150360872",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550516295.089700"
+    },
+    {
+        "client_msg_id": "b2b707a4-381a-4e5c-80e9-f0a3947585b2",
+        "type": "message",
+        "text": "Joe loves bad reviews",
+        "user": "U15J5H60P",
+        "ts": "1550516300.089900"
+    },
+    {
+        "client_msg_id": "0b4e8fd9-e11e-4798-992a-228d32c42515",
+        "type": "message",
+        "text": "\"Setup an appointment with Chevy last week to get remote start installed in my vehicle. It just so happened to be a blizzard the day of the appointment, so I called ahead to confirm the shop was open, and that my appointment was still on because I didn't want to drive in that weather if I didn't have to. Got the go ahead to come in, dropped off my car and was told to wait in the waiting area until the work was done. About an hour later someone comes in and tells me that the parts for my car that were going to be installed never got delivered, and weren't in the shop, so I wouldn't be able to have the work done on my car. I was told when setting up my appointment that the parts had been ordered and would be there when I arrived. They said I would get a call when the parts were delivered to the store. Then had to drive 30 mins back home in the blizzard with zero progress made on my car. That was over a week ago, haven't heard anything since. I received an email asking me how the service on my car went, so I'm assuming on Chevy's end it looks like the service on my car has been completed, and I'm going to have to call in, and explain this whole scenario over again... Overall very poor experience thus far.\"",
+        "user": "U15HSHSS2",
+        "ts": "1550516314.090200"
+    },
+    {
+        "client_msg_id": "c3c38a32-b554-4fab-96aa-106eb2c66e78",
+        "type": "message",
+        "text": "CarMax is paying for it",
+        "user": "U15HSHSS2",
+        "ts": "1550516323.090500"
+    },
+    {
+        "client_msg_id": "00de020d-2f10-4fdf-936f-289bd5b4afed",
+        "type": "message",
+        "text": "So I'm hoping they do the same with the bluetooth thing but idk",
+        "user": "U15HSHSS2",
+        "ts": "1550516343.091200"
+    },
+    {
+        "client_msg_id": "789B3D3B-AA51-48F3-B30C-3335D5209B16",
+        "type": "message",
+        "text": "And your time?",
+        "user": "U15HY5TG8",
+        "ts": "1550516347.091700"
+    },
+    {
+        "client_msg_id": "5e5fe7f4-9000-4372-a386-e9dc9fb7f4b9",
+        "type": "message",
+        "text": "ohh got it",
+        "user": "U15HZ01QX",
+        "ts": "1550516348.091800"
+    },
+    {
+        "client_msg_id": "855d4fb4-cc0e-4ce1-ab9c-0ac163cf11cc",
+        "type": "message",
+        "text": "idk if it can even be installed",
+        "user": "U15HSHSS2",
+        "ts": "1550516353.092100"
+    },
+    {
+        "client_msg_id": "430ec54b-0c04-47b6-a03a-aa92ad1e67d8",
+        "type": "message",
+        "text": "Honestly though, they should just knock a couple grand off of your price",
+        "user": "U15J5H60P",
+        "ts": "1550516354.092200"
+    },
+    {
+        "client_msg_id": "5b95cd6e-5cbd-43fe-b7d3-ea1bfca047c8",
+        "type": "message",
+        "text": "ok good deal then",
+        "user": "U15HZ01QX",
+        "ts": "1550516357.092300"
+    },
+    {
+        "client_msg_id": "b3f9b592-6d9d-48e2-8290-d22c53bc3371",
+        "type": "message",
+        "text": "<@U15HSHSS2> how many stars",
+        "user": "U15HRTAHL",
+        "ts": "1550516373.092800"
+    },
+    {
+        "client_msg_id": "28f9c7cf-2c35-4514-b813-635b9bd6fea3",
+        "type": "message",
+        "text": "Adding it afterwards is just wasting your time",
+        "user": "U15J5H60P",
+        "ts": "1550516374.092900"
+    },
+    {
+        "client_msg_id": "25d9d7c3-8dfd-4815-b7da-52f8adf3c591",
+        "type": "message",
+        "text": "Tell Joe how many stars you left",
+        "user": "U15J5H60P",
+        "ts": "1550516384.093500"
+    },
+    {
+        "client_msg_id": "ea04ecb0-1e93-4461-835e-585487867e23",
+        "type": "message",
+        "text": "He's about to cum",
+        "user": "U15J5H60P",
+        "ts": "1550516386.093700"
+    },
+    {
+        "client_msg_id": "ac02a322-ffb7-4f8b-98f9-8ba3a0b1cdce",
+        "type": "message",
+        "text": "good deal would have been everything works and is in the car as advertised lol",
+        "user": "U15HSHSS2",
+        "ts": "1550516389.093900"
+    },
+    {
+        "client_msg_id": "562ca2ae-e07d-41dc-ba31-d4b42d5cf51e",
+        "type": "message",
+        "text": "1 lol",
+        "user": "U15HSHSS2",
+        "ts": "1550516400.094100"
+    },
+    {
+        "client_msg_id": "0d480d20-bbc0-482d-a856-60f5ddb8a264",
+        "type": "message",
+        "text": "mmmmm baby",
+        "user": "U15HRTAHL",
+        "ts": "1550516402.094300"
+    },
+    {
+        "client_msg_id": "15e36037-25e7-4d59-8f9e-d107945687b2",
+        "type": "message",
+        "text": ":boom:",
+        "user": "U15HRTAHL",
+        "ts": "1550516404.094500"
+    },
+    {
+        "client_msg_id": "d820736f-cf28-4d4a-b0b2-29fd5152d93b",
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1550516407.094700"
+    },
+    {
+        "client_msg_id": "aee16c8e-0c80-4040-91ed-4cb29e593452",
+        "type": "message",
+        "text": "i would be livid if someone sold me a car and financed it at 20% and it was missing half the features",
+        "user": "U15HZ01QX",
+        "ts": "1550516450.095300"
+    },
+    {
+        "client_msg_id": "6ee24d34-0a75-4ab8-9dcc-00f6f3cca847",
+        "type": "message",
+        "text": "you should sue",
+        "user": "U15HZ01QX",
+        "ts": "1550516458.095600"
+    },
+    {
+        "client_msg_id": "7732929f-4197-4517-8373-4bae9957623c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1550516471.095800"
+    },
+    {
+        "client_msg_id": "9b126393-0302-428d-9878-b76a6eb64b92",
+        "type": "message",
+        "text": "I wonder what they'll say to the whole missing bluetooth audio thing",
+        "user": "U15HSHSS2",
+        "ts": "1550516483.096200"
+    },
+    {
+        "client_msg_id": "ca3f80b1-1fc1-47c4-a046-6dee0b463dba",
+        "type": "message",
+        "text": "cuz it was advertised as \"Includes Bluetooth\"",
+        "user": "U15HSHSS2",
+        "ts": "1550516500.096900"
+    },
+    {
+        "client_msg_id": "F0A8B42D-4064-45F4-B511-A0E263591459",
+        "type": "message",
+        "text": "<@U15HZ01QX> thats why im saying Lemon law! Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550516503.097200"
+    },
+    {
+        "client_msg_id": "90b926bc-6eba-4464-8c91-59cd95ea3806",
+        "type": "message",
+        "text": "which it technically has...",
+        "user": "U15HSHSS2",
+        "ts": "1550516504.097300"
+    },
+    {
+        "client_msg_id": "298f2819-7133-4ca3-9210-8bf47576c968",
+        "type": "message",
+        "text": "just not bluetooth audio",
+        "user": "U15HSHSS2",
+        "ts": "1550516510.097500"
+    },
+    {
+        "client_msg_id": "3F514535-42AF-46CE-B7F2-64AA23BDDA45",
+        "type": "message",
+        "text": "Did you leave a review for carmax too?",
+        "user": "U15HY5TG8",
+        "ts": "1550516533.097900"
+    },
+    {
+        "client_msg_id": "13da9263-be02-47e2-892a-5df2f36df8df",
+        "type": "message",
+        "text": "nah",
+        "user": "U15HSHSS2",
+        "ts": "1550516537.098100"
+    },
+    {
+        "client_msg_id": "1CAABE90-7862-4EB1-825C-9F3175CF8E20",
+        "type": "message",
+        "text": "Do itttt",
+        "user": "U15HY5TG8",
+        "ts": "1550516542.098400"
+    },
+    {
+        "client_msg_id": "3393d4b3-6f0e-4515-9001-4f0d2929ba83",
+        "type": "message",
+        "text": "I don't like leaving bad reviews",
+        "user": "U15HSHSS2",
+        "ts": "1550516546.098600"
+    },
+    {
+        "client_msg_id": "e0e9b09a-e01f-4323-9079-48b7f23088e9",
+        "type": "message",
+        "text": "unless i'm really getting cucked",
+        "user": "U15HSHSS2",
+        "ts": "1550516554.099100"
+    },
+    {
+        "client_msg_id": "B173CEC5-624F-45CC-A67F-B0247F7F892A",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550516562.099400"
+    },
+    {
+        "client_msg_id": "645974E2-87B8-460A-86B7-E3B2735DEFCC",
+        "type": "message",
+        "text": "Leave that as the review",
+        "user": "U15HY5TG8",
+        "ts": "1550516574.099900"
+    },
+    {
+        "client_msg_id": "6b13cc6d-a94f-4829-b0d2-4bc045510e16",
+        "type": "message",
+        "text": "which at the time I was still willing to work with everybody and be lenient",
+        "user": "U15HSHSS2",
+        "ts": "1550516577.100200"
+    },
+    {
+        "client_msg_id": "b94f353a-ea74-43df-9a94-8fe712e53699",
+        "type": "message",
+        "text": "but now it's like, just give me the fucking shit i'm supposed to have",
+        "user": "U15HSHSS2",
+        "ts": "1550516586.100800"
+    },
+    {
+        "client_msg_id": "FE19BAC8-324A-4783-A995-9DBB46ADEC71",
+        "type": "message",
+        "text": "\"Usually i dont like leaving bad reviews...unless i get cucked. So here i am\"",
+        "user": "U15HY5TG8",
+        "ts": "1550516596.101300"
+    },
+    {
+        "client_msg_id": "ea0b587d-190e-4ac1-b293-ca9cbf2b7ddb",
+        "type": "message",
+        "text": "id be beyond upset",
+        "user": "U15HZ01QX",
+        "ts": "1550516615.101800"
+    },
+    {
+        "client_msg_id": "f5d22c91-ca55-4ec6-b6fe-7b3260a84f1e",
+        "type": "message",
+        "text": "I wonder how carmax\/dealership fucked up by not knowing it wasn't installed in the car",
+        "user": "U15HRTAHL",
+        "ts": "1550516624.102100"
+    },
+    {
+        "client_msg_id": "43E18FCB-F117-4465-AEAE-875B96DD7C3C",
+        "type": "message",
+        "text": "Ehhh have you seen whos on the floors?",
+        "user": "U15HY5TG8",
+        "ts": "1550516653.102700"
+    },
+    {
+        "client_msg_id": "dd28c82d-bcff-43ef-bd7f-afb69502887e",
+        "type": "message",
+        "text": "they probably copy and pasted the description for the LT model",
+        "user": "U15HSHSS2",
+        "ts": "1550516661.103100"
+    },
+    {
+        "client_msg_id": "839087E8-B209-4309-9CD3-008571987E5C",
+        "type": "message",
+        "text": "Bunch of goons",
+        "user": "U15HY5TG8",
+        "ts": "1550516665.103200"
+    },
+    {
+        "client_msg_id": "768fd7e1-2f56-4b4c-879e-6cdb9e17c459",
+        "type": "message",
+        "text": "Tom",
+        "user": "U15J5H60P",
+        "ts": "1550516713.103400"
+    },
+    {
+        "client_msg_id": "3e44f37e-00a5-4862-b661-f10983a29a1a",
+        "type": "message",
+        "text": "You are being cucked",
+        "user": "U15J5H60P",
+        "ts": "1550516717.103600"
+    },
+    {
+        "client_msg_id": "9e17b13a-bdfd-4c3a-8e2c-6b1b16444409",
+        "type": "message",
+        "text": "20% is not a good interest rate",
+        "user": "U15J5H60P",
+        "ts": "1550516722.103800"
+    },
+    {
+        "client_msg_id": "1c74937a-a89c-41b2-9af7-afa02678ac4b",
+        "type": "message",
+        "text": "Plus now",
+        "user": "U15J5H60P",
+        "ts": "1550516747.104200"
+    },
+    {
+        "client_msg_id": "3af2795c-e239-4c96-991b-4e46fa7e0050",
+        "type": "message",
+        "text": "You are giving up your hard earned time to go get shit installed",
+        "user": "U15J5H60P",
+        "ts": "1550516757.104700"
+    },
+    {
+        "client_msg_id": "c8fc2233-9b26-4d43-81f7-58bc1986e559",
+        "type": "message",
+        "text": "Do they know how much your time is worth?",
+        "user": "U15J5H60P",
+        "ts": "1550516762.105100"
+    },
+    {
+        "client_msg_id": "c7d62d0b-cdaa-47c9-aa74-67b93c05fcf0",
+        "type": "message",
+        "text": "James is being James lol we talked about this, its like 5% or something",
+        "user": "U15HSHSS2",
+        "ts": "1550516765.105300"
+    },
+    {
+        "client_msg_id": "53124fb2-d880-4a72-9f69-5eb834ead778",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1550516771.105700"
+    },
+    {
+        "client_msg_id": "af99474a-875d-4ad0-98d7-85b2b685d837",
+        "type": "message",
+        "text": "Like he said",
+        "user": "U15J5H60P",
+        "ts": "1550516773.105900"
+    },
+    {
+        "client_msg_id": "2ab46940-41bb-4828-aefa-6ed683936932",
+        "type": "message",
+        "text": "its 6%",
+        "user": "U15HZ01QX",
+        "ts": "1550516774.106100"
+    },
+    {
+        "client_msg_id": "05a82acf-5006-4314-87e1-a8a9e5711919",
+        "type": "message",
+        "text": "20%",
+        "user": "U15J5H60P",
+        "ts": "1550516774.106200"
+    },
+    {
+        "client_msg_id": "e7bf5bcb-c80a-4594-9647-0835eb7306aa",
+        "type": "message",
+        "text": "which is like 20",
+        "user": "U15HZ01QX",
+        "ts": "1550516779.106400"
+    },
+    {
+        "client_msg_id": "4bf58ba8-49a8-47d4-a649-bcfad3286aad",
+        "type": "message",
+        "text": "Same thing",
+        "user": "U15J5H60P",
+        "ts": "1550516784.106800"
+    },
+    {
+        "client_msg_id": "0d4effc2-88b5-4bd9-9e4a-2ba08fefe009",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1550516786.107000"
+    },
+    {
+        "client_msg_id": "213cc345-6759-474f-a851-9a72b7b1e072",
+        "type": "message",
+        "text": "its a scam, which would barely be ok if they didnt ALSO scam you into buying a car missing the stuff",
+        "user": "U15HZ01QX",
+        "ts": "1550516812.107600"
+    },
+    {
+        "client_msg_id": "B8759523-3A2A-4A47-8583-22E6DAD5C0C5",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1550517076.107800"
+    },
+    {
+        "client_msg_id": "B16E01F0-590F-4336-A3CF-3F2D61FCE4A0",
+        "type": "message",
+        "text": "Today is going by kinda fast",
+        "user": "U15HY5TG8",
+        "ts": "1550518664.108300"
+    },
+    {
+        "client_msg_id": "2cd033cc-9ec4-4e1a-9f9f-a5cdbc47ebcf",
+        "type": "message",
+        "text": "I forgot that I have an interview at 4",
+        "user": "U15J5H60P",
+        "ts": "1550518681.108700",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1550518684.000000"
+        }
+    },
+    {
+        "client_msg_id": "d0b21be4-76a2-43cc-9a4b-4a350036d854",
+        "type": "message",
+        "text": "Whoops",
+        "user": "U15J5H60P",
+        "ts": "1550518686.109000"
+    },
+    {
+        "client_msg_id": "219F8F25-DD5D-4974-BA00-66355A0272F3",
+        "type": "message",
+        "text": "Youre fake news",
+        "user": "U15HY5TG8",
+        "ts": "1550518692.109300"
+    },
+    {
+        "client_msg_id": "6b4ca0c5-9709-44f2-88b0-a1b447d1da7d",
+        "type": "message",
+        "text": "Okie dokie",
+        "user": "U15J5H60P",
+        "ts": "1550518701.109500"
+    },
+    {
+        "client_msg_id": "90D26BF4-486C-4135-A983-8B8F61FD9DA8",
+        "type": "message",
+        "text": "Im not saying you dont have an interview, just reiterating your Autozone nonsense you pulled",
+        "user": "U15HY5TG8",
+        "ts": "1550518742.110600"
+    },
+    {
+        "client_msg_id": "f1a9d72d-da5b-416f-96b4-98839f090c43",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1550518847.110800"
+    },
+    {
+        "client_msg_id": "7b000c96-d8f2-4ea2-9b6c-02a2e478dfc5",
+        "type": "message",
+        "text": "How is it nonsense?",
+        "user": "U15J5H60P",
+        "ts": "1550518872.111000"
+    },
+    {
+        "client_msg_id": "1b2143f3-90bf-423c-9674-86068a23648a",
+        "type": "message",
+        "text": "I don't understand you people",
+        "user": "U15J5H60P",
+        "ts": "1550518876.111200"
+    },
+    {
+        "client_msg_id": "a7d75eb0-b878-4a1b-b4fe-0bff990a8582",
+        "type": "message",
+        "text": "Even Andrea turned against me",
+        "user": "U15J5H60P",
+        "ts": "1550518880.111400"
+    },
+    {
+        "client_msg_id": "1d128224-2422-42cd-8dbc-facd2ae3503e",
+        "type": "message",
+        "text": "It's a free trip",
+        "user": "U15J5H60P",
+        "ts": "1550518883.111600"
+    },
+    {
+        "client_msg_id": "927a51a0-5d1a-45a6-82c8-85f55aac7781",
+        "type": "message",
+        "text": "Why would you not want that?",
+        "user": "U15J5H60P",
+        "ts": "1550518888.111900"
+    },
+    {
+        "client_msg_id": "53cd8e8c-37b4-49b9-9b22-cf7e8da25bc1",
+        "type": "message",
+        "text": "All expenses paid",
+        "user": "U15J5H60P",
+        "ts": "1550518890.112200"
+    },
+    {
+        "client_msg_id": "28b70f1b-e929-4eaa-9638-ab8fdc907555",
+        "type": "message",
+        "text": "Yeah, it's Memphis",
+        "user": "U15J5H60P",
+        "ts": "1550518895.112500"
+    },
+    {
+        "client_msg_id": "D77878B1-D777-4639-9DE4-69ABB5C2344C",
+        "type": "message",
+        "text": "I dont remember but i remember it resulted in a ban",
+        "user": "U15HY5TG8",
+        "ts": "1550518901.113000"
+    },
+    {
+        "client_msg_id": "a27f9b85-a1cf-429d-a231-6f564d156e6b",
+        "type": "message",
+        "text": "I've never been, so why wouldn't I want to go?",
+        "user": "U15J5H60P",
+        "ts": "1550518910.113300",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1550518923.000000"
+        }
+    },
+    {
+        "client_msg_id": "F0C783B7-B7CC-4417-B7AE-999AABFF4940",
+        "type": "message",
+        "text": "Ban",
+        "user": "U15HSHSS2",
+        "ts": "1550518921.113600"
+    },
+    {
+        "client_msg_id": "4d4b9523-b63d-4288-9feb-f9111f44b22a",
+        "type": "message",
+        "text": "So be it, man. I don't get it lol",
+        "user": "U15J5H60P",
+        "ts": "1550518935.114100"
+    },
+    {
+        "client_msg_id": "3B5CDD4D-A3F6-48B1-B28F-98DE6C37FC53",
+        "type": "message",
+        "text": "It’s the travel equivalent of buying something with the sole purpose of checking it out for a bit and returning it lol",
+        "user": "U15HSHSS2",
+        "ts": "1550518956.115100"
+    },
+    {
+        "client_msg_id": "9B72A76D-A60F-4875-BAC6-87BFF8FEC289",
+        "type": "message",
+        "text": "You got banned because you weren’t actually going yet",
+        "user": "U15HZ01QX",
+        "ts": "1550518959.115300"
+    },
+    {
+        "client_msg_id": "418ab5e8-9c7d-44c9-a335-c0c8286897f4",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1550518966.115600"
+    },
+    {
+        "client_msg_id": "0064CA6B-67A9-4A1F-86C3-7A33E018CC35",
+        "type": "message",
+        "text": "That’s why",
+        "user": "U15HZ01QX",
+        "ts": "1550518968.115700"
+    },
+    {
+        "client_msg_id": "5FD60347-C8A0-4408-8891-4AC7E46723BC",
+        "type": "message",
+        "text": "haha oh yeah that too, you didn’t even setup the interview yet, and were complaining Andrea wouldn’t go with you on your nonexistent trip",
+        "user": "U15HSHSS2",
+        "ts": "1550519023.118400"
+    },
+    {
+        "client_msg_id": "000a6720-8f72-44b7-8888-6b1a96f9d98d",
+        "type": "message",
+        "text": "Fair enough",
+        "user": "U15J5H60P",
+        "ts": "1550519040.119100"
+    },
+    {
+        "client_msg_id": "F55F2E63-6C09-4DF2-99DA-5923A719CAE7",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1550518956115100>\n\nThis. Explains. Everything.",
+        "user": "U15HY5TG8",
+        "ts": "1550519046.119500",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1550518956115100",
+                "fallback": "[February 18th, 2019 11:42 AM] tommy: It’s the travel equivalent of buying something with the sole purpose of checking it out for a bit and returning it lol",
+                "ts": "1550518956.115100",
+                "author_id": "U15HSHSS2",
+                "author_subname": "Thomas Domenico",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "It’s the travel equivalent of buying something with the sole purpose of checking it out for a bit and returning it lol",
+                "author_name": "Thomas Domenico",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HSHSS2",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-14\/141557591652_fa319b0a85eaed6cdf72_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1550518956115100",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ceb8bd84-dd06-488b-b70d-e5c85f3311a1",
+        "type": "message",
+        "text": "I don't get why you are all so sensitive about that",
+        "user": "U15J5H60P",
+        "ts": "1550519057.119900"
+    },
+    {
+        "client_msg_id": "70511821-cd24-4ae6-9e3a-90a0dd6deb6b",
+        "type": "message",
+        "text": "It's not like I'm doing it at a Mom &amp; Pop shop",
+        "user": "U15J5H60P",
+        "ts": "1550519065.120400"
+    },
+    {
+        "client_msg_id": "b04aeb87-48f4-492a-89f2-1135a16fd0b0",
+        "type": "message",
+        "text": "It's fucking best buy",
+        "user": "U15J5H60P",
+        "ts": "1550519068.120800"
+    },
+    {
+        "client_msg_id": "15dfaa8e-2bfd-413e-96ea-9b08bf439203",
+        "type": "message",
+        "text": "Y'all needa get off y'alls high horses",
+        "user": "U15J5H60P",
+        "ts": "1550519079.121700"
+    },
+    {
+        "client_msg_id": "095AEC62-A33A-4077-8E98-775F83853F37",
+        "type": "message",
+        "text": "If i had made tommys connection right away, prob wouldve offset your ban",
+        "user": "U15HY5TG8",
+        "ts": "1550519081.121900"
+    },
+    {
+        "client_msg_id": "1BAB868B-BFF6-4C1E-A71A-5116D730254D",
+        "type": "message",
+        "text": "I’m fine with returns",
+        "user": "U15HZ01QX",
+        "ts": "1550519082.122000"
+    },
+    {
+        "client_msg_id": "AA7EC2CC-3648-4B34-AD65-AEAC7C01C9BD",
+        "type": "message",
+        "text": "But you never have any actual intention of keeping the thing",
+        "user": "U15HZ01QX",
+        "ts": "1550519096.122500"
+    },
+    {
+        "client_msg_id": "1F12FA43-F9D7-486C-AD16-43FDF4B028AD",
+        "type": "message",
+        "text": "Ever",
+        "user": "U15HZ01QX",
+        "ts": "1550519099.122700"
+    },
+    {
+        "client_msg_id": "4E2F1728-208A-449E-ADB1-21CC90A80D94",
+        "type": "message",
+        "text": "At all",
+        "user": "U15HZ01QX",
+        "ts": "1550519101.122800"
+    },
+    {
+        "client_msg_id": "0AAFC44F-E319-4C39-8F17-1C9052D21FDA",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HZ01QX",
+        "ts": "1550519102.123000"
+    },
+    {
+        "client_msg_id": "b2bfd01c-1463-41e3-a2ef-8d96143fec6e",
+        "type": "message",
+        "text": "Why does it matter?",
+        "user": "U15J5H60P",
+        "ts": "1550519132.123800"
+    },
+    {
+        "client_msg_id": "267A596A-C01D-4C2C-8895-E60DE603F4CF",
+        "type": "message",
+        "text": "Im not kidding at all, you have a rep at any store you do it often lol",
+        "user": "U15HY5TG8",
+        "ts": "1550519149.124800"
+    },
+    {
+        "client_msg_id": "d57f75aa-727b-4c8f-8d06-6ece44204ee7",
+        "type": "message",
+        "text": "I know I do",
+        "user": "U15J5H60P",
+        "ts": "1550519157.125100"
+    },
+    {
+        "client_msg_id": "48a4850b-ade7-4b76-a362-52722178ab37",
+        "type": "message",
+        "text": "One day I'm going to try returning something and they'll tell me to fuck off",
+        "user": "U15J5H60P",
+        "ts": "1550519167.125700"
+    },
+    {
+        "client_msg_id": "cb8706f2-3c8b-4514-8716-f3edc250d368",
+        "type": "message",
+        "text": "But until then",
+        "user": "U15J5H60P",
+        "ts": "1550519170.126000"
+    },
+    {
+        "client_msg_id": "0D5A690A-1175-4E21-8C3D-CEF22BED7648",
+        "type": "message",
+        "text": "Cuz it’s just making unnecessary work for people who are just trying to make a living ",
+        "user": "U15HZ01QX",
+        "ts": "1550519172.126200"
+    },
+    {
+        "client_msg_id": "728768f1-d17e-4f12-8704-1d205766fbfb",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1550519177.126400"
+    },
+    {
+        "client_msg_id": "2a1b901d-3f6c-49cc-ae7a-05cba4619fcc",
+        "type": "message",
+        "text": "Best Buy?",
+        "user": "U15J5H60P",
+        "ts": "1550519179.126600"
+    },
+    {
+        "client_msg_id": "4f801f74-beea-4962-bece-14102c6f7f40",
+        "type": "message",
+        "text": "Are you serious?",
+        "user": "U15J5H60P",
+        "ts": "1550519181.126800"
+    },
+    {
+        "client_msg_id": "D86702BC-DE18-45FA-AAAF-BE6205548170",
+        "type": "message",
+        "text": "Yeha",
+        "user": "U15HY5TG8",
+        "ts": "1550519182.127000"
+    },
+    {
+        "client_msg_id": "F61B5C7D-49C2-4D97-A695-A4EB6A257663",
+        "type": "message",
+        "text": "People work at Best Buy ",
+        "user": "U15HZ01QX",
+        "ts": "1550519190.127500"
+    },
+    {
+        "client_msg_id": "99b0b096-e44a-401a-b7e5-e235c17a4d73",
+        "type": "message",
+        "text": "People that are paid to take returns?",
+        "user": "U15J5H60P",
+        "ts": "1550519193.127900"
+    },
+    {
+        "client_msg_id": "71763fd8-9a44-4d89-a3e5-8580cc104545",
+        "type": "message",
+        "text": "That are usually just sitting there doing nothing anyways?",
+        "user": "U15J5H60P",
+        "ts": "1550519200.128500"
+    },
+    {
+        "client_msg_id": "5640249F-B7E0-4E43-91A4-51F2ABAF2E1D",
+        "type": "message",
+        "text": "It’s not some robot entity named Best Buy.",
+        "user": "U15HZ01QX",
+        "ts": "1550519203.128800"
+    },
+    {
+        "client_msg_id": "CF8FE746-089E-4D58-9FBE-0651D947F844",
+        "type": "message",
+        "text": "Some guy has to repackage your shit taking away from time to help people who actually want to buy something lol",
+        "user": "U15HY5TG8",
+        "ts": "1550519217.129700"
+    },
+    {
+        "client_msg_id": "B1A7B453-4ADC-46E4-BDAD-7AF31CCFE65A",
+        "type": "message",
+        "text": "They’re paid to do a bunch. ",
+        "user": "U15HZ01QX",
+        "ts": "1550519218.129800"
+    },
+    {
+        "client_msg_id": "af16cd09-a4f7-4591-b20d-d783aeb6e675",
+        "type": "message",
+        "text": "Okie dokie.",
+        "user": "U15J5H60P",
+        "ts": "1550519222.130000"
+    },
+    {
+        "client_msg_id": "ED415B80-9F23-4D2E-B007-32240739043C",
+        "type": "message",
+        "text": "My level of upsetness on this is like a 1 out of 10. But I get what Evans saying",
+        "user": "U15HZ01QX",
+        "ts": "1550519250.130800",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1550519260.000000"
+        }
+    },
+    {
+        "client_msg_id": "52be7b8a-d3d5-4829-8dea-f7446e6f6d00",
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯",
+        "user": "U15J5H60P",
+        "ts": "1550519276.131000"
+    },
+    {
+        "client_msg_id": "731A69FE-C08B-4F6E-935B-2F69AF1C56FD",
+        "type": "message",
+        "text": "And i was small scale retail. Cant imagine all the returns best buy does ",
+        "user": "U15HY5TG8",
+        "ts": "1550519298.131700"
+    },
+    {
+        "client_msg_id": "FEE300DA-35AA-4D80-96CF-736774ACE34A",
+        "type": "message",
+        "text": "Sophia asked about Andrew ",
+        "user": "U15HZ01QX",
+        "ts": "1550521469.132100"
+    },
+    {
+        "client_msg_id": "F289427D-4F50-48A6-AFBE-D5BB8F5CDDF1",
+        "type": "message",
+        "text": "Looks like you’re in the clear Evan",
+        "user": "U15HZ01QX",
+        "ts": "1550521479.132500"
+    },
+    {
+        "client_msg_id": "75A19306-AC79-493A-85F4-75E8AA781FAD",
+        "type": "message",
+        "text": "Wait how",
+        "user": "U15HY5TG8",
+        "ts": "1550521487.132700"
+    },
+    {
+        "client_msg_id": "61113F4D-1970-467F-BC84-AB3B977A6AA5",
+        "type": "message",
+        "text": "Maybe she just forgot i existed ",
+        "user": "U15HY5TG8",
+        "ts": "1550521500.133100"
+    },
+    {
+        "client_msg_id": "66979BC7-325C-4E2B-A444-A163E965C1C9",
+        "type": "message",
+        "text": "Or andrews betrayal is worse than mine",
+        "user": "U15HY5TG8",
+        "ts": "1550521523.133700"
+    },
+    {
+        "client_msg_id": "ddf521d1-b666-4061-a891-404e5b8a4b0f",
+        "type": "message",
+        "text": "she kept bugging me about who was going to be there, and i just kept saying friends of me and john",
+        "user": "U15HZ01QX",
+        "ts": "1550521535.134000"
+    },
+    {
+        "client_msg_id": "B9FF1701-0780-44A0-AAF2-59A77C17B98C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550521545.134200"
+    },
+    {
+        "client_msg_id": "807847F4-6B6C-4E5D-8648-B1C27E0DC1C5",
+        "type": "message",
+        "text": "Just say our names and see if she backs out",
+        "user": "U15HY5TG8",
+        "ts": "1550521555.134600"
+    },
+    {
+        "client_msg_id": "040a0943-a303-43b7-adb2-449a57a26939",
+        "type": "message",
+        "text": "well she asked about andrew so i said hes not doing the shuffle but hell be there for breakfast",
+        "user": "U15HZ01QX",
+        "ts": "1550521591.135200"
+    },
+    {
+        "client_msg_id": "759EDCD5-59DD-44EF-A13C-04017B20FB22",
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1550521610.135500"
+    },
+    {
+        "client_msg_id": "70677c90-b4af-4636-aa75-a0bc20d041c7",
+        "type": "message",
+        "text": "yeah didnt even mention you",
+        "user": "U15HZ01QX",
+        "ts": "1550521764.135700"
+    },
+    {
+        "client_msg_id": "20214202-5469-4e36-be87-31ed4fe19a9f",
+        "type": "message",
+        "text": "guess youre forgiven",
+        "user": "U15HZ01QX",
+        "ts": "1550521770.135900"
+    },
+    {
+        "client_msg_id": "56C4318E-1D89-4295-BB0E-B45F5E4D2E50",
+        "type": "message",
+        "text": "Alrighty whatever lol",
+        "user": "U15HY5TG8",
+        "ts": "1550521845.136300"
+    },
+    {
+        "client_msg_id": "eeac01f0-1416-4ed9-993a-cbe3c3295b60",
+        "type": "message",
+        "text": "Andrew done fucked up",
+        "user": "U15HSHSS2",
+        "ts": "1550521896.136600"
+    },
+    {
+        "client_msg_id": "f3a669e8-8ffa-4ab7-9d89-31f85820e56d",
+        "type": "message",
+        "text": "good luck with your interview andrew",
+        "user": "U15HZ01QX",
+        "ts": "1550521900.136800"
+    },
+    {
+        "client_msg_id": "41ab2614-fa07-4e6c-bf56-e2398ee7456c",
+        "type": "message",
+        "text": "<@U15HSHSS2> where are you going out of town?",
+        "user": "U15HZ01QX",
+        "ts": "1550521908.137100"
+    },
+    {
+        "client_msg_id": "c62e183a-2615-45e1-9f2a-18986ea82be9",
+        "type": "message",
+        "text": "Buddy asked me to be in his wedding, his bachelor party is that weekend. Going up north to our other buddy's cabin",
+        "user": "U15HSHSS2",
+        "ts": "1550521948.137800"
+    },
+    {
+        "client_msg_id": "1f1c222d-dadb-4689-83c2-140a44a51d9a",
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HZ01QX",
+        "ts": "1550521958.138000"
+    },
+    {
+        "client_msg_id": "cedf542f-0045-41d9-a38c-e730ace855ab",
+        "type": "message",
+        "text": "youre just packin weddings in",
+        "user": "U15HZ01QX",
+        "ts": "1550521967.138300"
+    },
+    {
+        "client_msg_id": "2373b61e-0def-414f-aff7-f302052cb77c",
+        "type": "message",
+        "text": "thats like 5 in 7 months",
+        "user": "U15HZ01QX",
+        "ts": "1550521978.138600"
+    },
+    {
+        "client_msg_id": "c9345979-ee45-487c-9a57-12d963fdb2b3",
+        "type": "message",
+        "text": "I didn't do anything wrong lol",
+        "user": "U15J5H60P",
+        "ts": "1550521988.138800"
+    },
+    {
+        "client_msg_id": "2df73ab6-bbde-41c4-923b-afa2e09ae282",
+        "type": "message",
+        "text": "She's the one that called me bawling her eyes out",
+        "user": "U15J5H60P",
+        "ts": "1550521997.139100"
+    },
+    {
+        "client_msg_id": "DB0FBF84-BB01-41B3-9A9F-5118FC20A617",
+        "type": "message",
+        "text": ":rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing::rolling_on_the_floor_laughing:",
+        "user": "U15HY5TG8",
+        "ts": "1550522088.139300"
+    },
+    {
+        "client_msg_id": "E1B2A7F2-23E6-4C1A-A2C2-9542C4E1622D",
+        "type": "message",
+        "text": "Well you guys can slug it out on the porch or whatever",
+        "user": "U15HZ01QX",
+        "ts": "1550522372.139900"
+    },
+    {
+        "client_msg_id": "e1e203f5-ba8b-4f29-ac41-da76ab5cfaa3",
+        "type": "message",
+        "text": "Nah, I don't want any part of that. It's between her and Aimee.",
+        "user": "U15J5H60P",
+        "ts": "1550522517.140200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGB7QFA79",
+                "created": 1550522519,
+                "timestamp": 1550522519,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 123828,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGB7QFA79\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGB7QFA79\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGB7QFA79-326182c0e5\/image_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 513,
+                "image_exif_rotation": 1,
+                "original_w": 2048,
+                "original_h": 1025,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FGB7QFA79\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGB7QFA79-8f62a28daa",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1550522522.140300",
+        "client_msg_id": "0F330849-38D6-45F7-92BF-A57DF4E59698"
+    },
+    {
+        "client_msg_id": "55273F0D-9A7F-4A80-9996-EE3B4DD9459E",
+        "type": "message",
+        "text": "Well Aimee can’t come",
+        "user": "U15HZ01QX",
+        "ts": "1550522553.140800"
+    },
+    {
+        "client_msg_id": "F4E46525-CC73-45AD-BC99-6FF7C34E2F66",
+        "type": "message",
+        "text": "Anyone who wouldn’t date Evan would ruin a brunch",
+        "user": "U15HZ01QX",
+        "ts": "1550522566.141300",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1550522601.000000"
+        }
+    },
+    {
+        "client_msg_id": "EBDD733D-A014-47D1-9F4D-5A0450AA3C30",
+        "type": "message",
+        "text": "Sophia texts like that...",
+        "user": "U15HY5TG8",
+        "ts": "1550522583.141700"
+    },
+    {
+        "client_msg_id": "840AB216-7AA8-4446-8979-AAE137E89D08",
+        "type": "message",
+        "text": "Good point ",
+        "user": "U15HZ01QX",
+        "ts": "1550522611.142000"
+    },
+    {
+        "client_msg_id": "B1045855-2863-4777-BCB1-F53FCAA337D3",
+        "type": "message",
+        "text": "But dont worry. None of us are inviting her",
+        "user": "U15HY5TG8",
+        "ts": "1550522643.142400"
+    },
+    {
+        "client_msg_id": "90798CC9-5CF7-47C7-946A-90BD527F364C",
+        "type": "message",
+        "text": "None of you should invite anyone. We’ll barely be able to get us in there as is",
+        "user": "U15HZ01QX",
+        "ts": "1550522673.143200"
+    },
+    {
+        "client_msg_id": "5F9E6360-A1AB-40F6-8316-67E506F9CB6F",
+        "type": "message",
+        "text": "How many people is it?",
+        "user": "U15HY5TG8",
+        "ts": "1550522692.143500"
+    },
+    {
+        "client_msg_id": "70D2FFA0-2385-442A-A583-88FABEED739B",
+        "type": "message",
+        "text": "23ish",
+        "user": "U15HZ01QX",
+        "ts": "1550522784.143800"
+    },
+    {
+        "client_msg_id": "A72B997D-C3F5-4D2E-8F3A-5E9566ED2DF7",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1550523437.144000"
+    },
+    {
+        "client_msg_id": "0789A052-8204-47CB-84F2-28EDE6065F48",
+        "type": "message",
+        "text": "I might skip",
+        "user": "U15J5H60P",
+        "ts": "1550523440.144200"
+    },
+    {
+        "client_msg_id": "D3565658-0932-47A0-A2B9-D3C8D805F742",
+        "type": "message",
+        "text": "Andrew",
+        "user": "U15HZ01QX",
+        "ts": "1550523453.144400"
+    },
+    {
+        "client_msg_id": "6A4B45D5-7D27-4A3F-8B33-55C36FADB699",
+        "type": "message",
+        "text": "That's too much stimulation for me",
+        "user": "U15J5H60P",
+        "ts": "1550523454.144600"
+    },
+    {
+        "client_msg_id": "43EC512E-CCBF-4474-9FC0-FD21C697E214",
+        "type": "message",
+        "text": "I specifically asked lol",
+        "user": "U15HZ01QX",
+        "ts": "1550523463.145000"
+    },
+    {
+        "client_msg_id": "652AD055-F18F-4640-AE45-22EEFD4007E0",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550523477.145400"
+    },
+    {
+        "client_msg_id": "F09559E3-4431-4399-B878-33FC47205C48",
+        "type": "message",
+        "text": "We'll see lol",
+        "user": "U15J5H60P",
+        "ts": "1550523480.145500"
+    },
+    {
+        "client_msg_id": "B863C633-BD0F-484C-B26B-8B0FBD82FD3D",
+        "type": "message",
+        "text": "I'll make an honest effort",
+        "user": "U15J5H60P",
+        "ts": "1550523489.146000"
+    },
+    {
+        "client_msg_id": "34098DCF-79AA-460A-9ED8-D7136022CBD9",
+        "type": "message",
+        "text": "You can hang with me",
+        "user": "U15HY5TG8",
+        "ts": "1550523494.146300"
+    },
+    {
+        "client_msg_id": "70A3843B-45DB-4965-A7A9-02EA2BB7D095",
+        "type": "message",
+        "text": "Un",
+        "user": "U15HZ01QX",
+        "ts": "1550523495.146400"
+    },
+    {
+        "client_msg_id": "9B2B55F9-9559-41E2-BE6B-7D86ADE7EE2D",
+        "type": "message",
+        "text": "Fucking",
+        "user": "U15HZ01QX",
+        "ts": "1550523498.146600"
+    },
+    {
+        "client_msg_id": "5AB2668B-B6E8-4786-8DE6-D123CC71EB70",
+        "type": "message",
+        "text": "No thanks",
+        "user": "U15J5H60P",
+        "ts": "1550523500.146800"
+    },
+    {
+        "client_msg_id": "C6B8E7CA-EF05-4DC6-9E3F-1D1A0402011E",
+        "type": "message",
+        "text": "Believable ",
+        "user": "U15HZ01QX",
+        "ts": "1550523508.147200"
+    },
+    {
+        "client_msg_id": "897E3D1A-7DB7-4694-8AE7-95C209B7A052",
+        "type": "message",
+        "text": "Damn",
+        "user": "U15HY5TG8",
+        "ts": "1550523508.147300"
+    },
+    {
+        "client_msg_id": "169D15FD-631E-49C8-904A-1E100AB4EAF7",
+        "type": "message",
+        "text": "Lol jk buddy",
+        "user": "U15J5H60P",
+        "ts": "1550523513.147500"
+    },
+    {
+        "client_msg_id": "253CD7D0-2BC0-4F52-B40C-205889E2688E",
+        "type": "message",
+        "text": "Theres a little truth in every joke",
+        "user": "U15HY5TG8",
+        "ts": "1550523526.147900"
+    },
+    {
+        "client_msg_id": "aa290864-8712-4754-9b80-9727fe98957a",
+        "type": "message",
+        "text": "Okie dokie",
+        "user": "U15J5H60P",
+        "ts": "1550523530.148200"
+    },
+    {
+        "client_msg_id": "914E66B8-C927-487E-83E5-BFFE7E04682D",
+        "type": "message",
+        "text": "Ya asshole",
+        "user": "U15HY5TG8",
+        "ts": "1550523531.148300"
+    },
+    {
+        "client_msg_id": "8546adf1-24e1-4006-b75d-4473e9c317e7",
+        "type": "message",
+        "text": "\"lol jk\"",
+        "user": "U15J5H60P",
+        "ts": "1550523538.148500"
+    },
+    {
+        "client_msg_id": "57C6E9A0-85E2-400F-9E46-A830546D2D31",
+        "type": "message",
+        "text": "Jk",
+        "user": "U15HY5TG8",
+        "ts": "1550523542.148700"
+    },
+    {
+        "client_msg_id": "2620455E-DDE1-4B04-8970-6DDDDF80F55C",
+        "type": "message",
+        "text": "Damnit",
+        "user": "U15HY5TG8",
+        "ts": "1550523545.148900"
+    },
+    {
+        "client_msg_id": "23b7cb42-c849-4f14-a12a-e3efc4f58e26",
+        "type": "message",
+        "text": "I'll bring some cake",
+        "user": "U15J5H60P",
+        "ts": "1550523555.149100"
+    },
+    {
+        "client_msg_id": "e3611261-6d9b-4875-a8e8-b8f6cdc1850d",
+        "type": "message",
+        "text": "But make sure not to eat too much",
+        "user": "U15J5H60P",
+        "ts": "1550523560.149300"
+    },
+    {
+        "client_msg_id": "7cbd2f99-6f81-473c-8e37-a822886dfdc6",
+        "type": "message",
+        "text": "I'm going to take it back after the breakfast",
+        "user": "U15J5H60P",
+        "ts": "1550523567.149600"
+    },
+    {
+        "client_msg_id": "3C135052-6E14-476A-BDFE-4B72221AA5F9",
+        "type": "message",
+        "text": "Who wants cake at 9am",
+        "user": "U15HZ01QX",
+        "ts": "1550523702.150000"
+    },
+    {
+        "client_msg_id": "F7356B60-570C-45D4-B359-C1310A4D305B",
+        "type": "message",
+        "text": "Ive eaten cake for breakfast",
+        "user": "U15HY5TG8",
+        "ts": "1550523726.150400"
+    },
+    {
+        "client_msg_id": "665ed208-d9aa-4f30-b14a-97cad59c5fba",
+        "type": "message",
+        "text": "Who doesn't want cake at 9am",
+        "user": "U15J5H60P",
+        "ts": "1550523749.150700"
+    },
+    {
+        "client_msg_id": "f72b31bd-833a-414f-9b41-40ff5f89c5bd",
+        "type": "message",
+        "text": "Filthy casual",
+        "user": "U15J5H60P",
+        "ts": "1550523755.151100"
+    },
+    {
+        "client_msg_id": "C6119E15-D745-4124-A5EC-EAE6A4EA74E7",
+        "type": "message",
+        "text": "Its just a muffin in a square shape",
+        "user": "U15HY5TG8",
+        "ts": "1550523761.151300"
+    },
+    {
+        "client_msg_id": "39DDA96A-DD9B-41AD-9483-01E6613165A9",
+        "type": "message",
+        "text": "I’m just gonna Buy like 10 bottles of orange juice and a bunch of champagne",
+        "user": "U15HZ01QX",
+        "ts": "1550523933.152000"
+    },
+    {
+        "client_msg_id": "56ae72d4-9005-466b-a12c-c6526b352097",
+        "type": "message",
+        "text": "With frosting",
+        "user": "U15J5H60P",
+        "ts": "1550523935.152200"
+    },
+    {
+        "client_msg_id": "a6556edf-5725-45d6-a435-0ea3437aecfa",
+        "type": "message",
+        "text": "Why",
+        "user": "U15J5H60P",
+        "ts": "1550523938.152400"
+    },
+    {
+        "client_msg_id": "7b23b65c-d270-4240-af45-6e27eb5a3bbc",
+        "type": "message",
+        "text": "What are y'all bringing?",
+        "user": "U15J5H60P",
+        "ts": "1550523949.152900"
+    },
+    {
+        "client_msg_id": "9bc1801e-b690-431e-8530-9291230a4fa6",
+        "type": "message",
+        "text": "Should I bring anything?",
+        "user": "U15J5H60P",
+        "ts": "1550523952.153200"
+    },
+    {
+        "client_msg_id": "128B2CF5-FF6F-4A3F-A70B-885D94F99CF8",
+        "type": "message",
+        "text": "What do you drink with your brunch?",
+        "user": "U15HZ01QX",
+        "ts": "1550523957.153500"
+    },
+    {
+        "client_msg_id": "10e97083-7ed3-4073-8b2e-69f855ecbb16",
+        "type": "message",
+        "text": "Water",
+        "user": "U15J5H60P",
+        "ts": "1550523961.153900"
+    },
+    {
+        "client_msg_id": "60BDD278-D9C8-467E-856F-6AB6B41F4769",
+        "type": "message",
+        "text": "Something i can carry for a mile",
+        "user": "U15HY5TG8",
+        "ts": "1550523962.154000"
+    },
+    {
+        "client_msg_id": "1597defa-5693-4e27-b68d-83f697e5e06b",
+        "type": "message",
+        "text": "Bring bottles of water",
+        "user": "U15J5H60P",
+        "ts": "1550523970.154200"
+    },
+    {
+        "client_msg_id": "73BDC413-EDAC-4F15-9187-4F9889D0C847",
+        "type": "message",
+        "text": "Ha",
+        "user": "U15HY5TG8",
+        "ts": "1550523974.154400"
+    },
+    {
+        "client_msg_id": "1131bb0a-055c-470a-8e9c-b8fb9cdbf2f7",
+        "type": "message",
+        "text": "James",
+        "user": "U15J5H60P",
+        "ts": "1550523978.154600"
+    },
+    {
+        "client_msg_id": "3c2ee5e8-9111-416f-9ede-3fee91b74c70",
+        "type": "message",
+        "text": "Not you",
+        "user": "U15J5H60P",
+        "ts": "1550523979.154800"
+    },
+    {
+        "client_msg_id": "4C7D859E-F695-466D-8A1D-87268CDD334A",
+        "type": "message",
+        "text": "I’m bringing all the food and drink stuff",
+        "user": "U15HZ01QX",
+        "ts": "1550524008.154900"
+    },
+    {
+        "client_msg_id": "C90855C1-6CAB-44E5-A98E-BFDDBAC8177B",
+        "type": "message",
+        "text": "Pancake mix, eggs waffle maker fruit etc..",
+        "user": "U15HZ01QX",
+        "ts": "1550524026.155200"
+    },
+    {
+        "client_msg_id": "ef8be19c-b86f-4135-aee8-1a7bcb90f750",
+        "type": "message",
+        "text": "Then bring some water",
+        "user": "U15J5H60P",
+        "ts": "1550524747.155400"
+    },
+    {
+        "client_msg_id": "d3663de7-3e63-4fe9-ab72-44fe563425f2",
+        "type": "message",
+        "text": "my grandma called and said a tv show activated her google home and she spit out her water",
+        "user": "U15HZ01QX",
+        "ts": "1550525968.156200"
+    },
+    {
+        "client_msg_id": "b2ac1f62-a678-4baf-8e1b-d6cb1f9cf09a",
+        "type": "message",
+        "text": "lol i shouldve had my dad disable the mic",
+        "user": "U15HZ01QX",
+        "ts": "1550525982.156500"
+    },
+    {
+        "client_msg_id": "EDEE4746-962D-4A5F-BA97-081A50C622E4",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550525985.156700"
+    },
+    {
+        "client_msg_id": "6619AAB4-8834-4836-9959-385ABC0289B1",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1550525997.156900"
+    },
+    {
+        "client_msg_id": "4B33DFCC-355E-4606-AC41-FCB5A8348ABA",
+        "type": "message",
+        "text": "Similar things happen to my parents with alexa",
+        "user": "U15HY5TG8",
+        "ts": "1550526013.157400"
+    },
+    {
+        "client_msg_id": "24B3F437-ABCA-4401-879B-305D399E4F95",
+        "type": "message",
+        "text": "Can you alias their names?",
+        "user": "U15HY5TG8",
+        "ts": "1550526043.158200"
+    },
+    {
+        "client_msg_id": "c56bff2e-44b3-474f-9317-3f46ef2f16a8",
+        "type": "message",
+        "text": "lol i just wanted a nifty digital picture frame i told her i wasnt expecting her to actually use the features on it",
+        "user": "U15HZ01QX",
+        "ts": "1550526043.158300"
+    },
+    {
+        "client_msg_id": "aed67f1c-d11d-48bc-8dc8-fbf6532ce760",
+        "type": "message",
+        "text": "im not sure what she called it but whatever it was got said on tv lol",
+        "user": "U15HZ01QX",
+        "ts": "1550526074.158800"
+    },
+    {
+        "client_msg_id": "A9411D11-CA12-45FB-B390-278D18060A69",
+        "type": "message",
+        "text": "Ooo i assumed she had a commercial on that made a google command",
+        "user": "U15HY5TG8",
+        "ts": "1550526105.159500"
+    },
+    {
+        "client_msg_id": "52945b5f-42ef-40db-bcd0-18a3123597d3",
+        "type": "message",
+        "text": "i think most commercials are patched into the devices to prevent that",
+        "user": "U15HZ01QX",
+        "ts": "1550526166.159900"
+    },
+    {
+        "client_msg_id": "5F654885-8937-478B-BE67-0B9AA66F7E93",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1550526179.160100"
+    },
+    {
+        "client_msg_id": "f84ad346-cb23-4e34-a3f7-0fbcfb41aba7",
+        "type": "message",
+        "text": "i know for sure most of the amazon alexa ones are",
+        "user": "U15HZ01QX",
+        "ts": "1550526193.160500"
+    },
+    {
+        "client_msg_id": "E3007430-4558-499D-BF38-1D0ABFA3DBB1",
+        "type": "message",
+        "text": "Interesting",
+        "user": "U15HY5TG8",
+        "ts": "1550526201.160900"
+    },
+    {
+        "client_msg_id": "FE60DCC3-3DEF-4612-9E27-50E9E5010AC2",
+        "type": "message",
+        "text": "How does alexa patch itself though",
+        "user": "U15HY5TG8",
+        "ts": "1550526210.161400"
+    },
+    {
+        "client_msg_id": "7064162a-e2f8-45ad-bd06-919e08a192b3",
+        "type": "message",
+        "text": "cuz you can see them light up and then immediately turn off the mic when they hear the phrases",
+        "user": "U15HZ01QX",
+        "ts": "1550526220.161600"
+    },
+    {
+        "client_msg_id": "D667BE63-B814-4A4A-A65F-05830D42DBE7",
+        "type": "message",
+        "text": "But like...they say normal phrases on the commercial too",
+        "user": "U15HY5TG8",
+        "ts": "1550526252.162400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGA5GD1QC",
+                "created": 1550526280,
+                "timestamp": 1550526280,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-18, 3:44 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 58737,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGA5GD1QC\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGA5GD1QC\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 80,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 106,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 160,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGA5GD1QC-57c84bdcd4\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 177,
+                "image_exif_rotation": 1,
+                "original_w": 942,
+                "original_h": 209,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FGA5GD1QC\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGA5GD1QC-bc10c0a28f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1550526283.162500"
+    },
+    {
+        "client_msg_id": "2790d6f2-f77e-4c30-997f-97926397b695",
+        "type": "message",
+        "text": "Developers are so smart",
+        "user": "U15HZ01QX",
+        "ts": "1550526293.163000"
+    },
+    {
+        "client_msg_id": "D01923C3-DEBE-441F-BF59-8DF5C7A79CED",
+        "type": "message",
+        "text": "Ahhh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1550526357.163200"
+    },
+    {
+        "client_msg_id": "8C97126A-3914-43CD-81A0-8AD4F414759E",
+        "type": "message",
+        "text": "So i was just looking at my statement from the gym, and idk whos paying my bill but its definitely not me",
+        "user": "U15HY5TG8",
+        "ts": "1550526417.164200"
+    },
+    {
+        "client_msg_id": "7884e8bc-8f35-4340-9ff8-92a447a3af76",
+        "type": "message",
+        "text": "loool",
+        "user": "U15HZ01QX",
+        "ts": "1550526425.164400"
+    },
+    {
+        "client_msg_id": "549ce4b1-85ed-48f5-b309-67fa48d4b607",
+        "type": "message",
+        "text": "well you found a way to save",
+        "user": "U15HZ01QX",
+        "ts": "1550526439.164700"
+    },
+    {
+        "client_msg_id": "ef135cd3-6f83-47df-b159-ca713dfcac45",
+        "type": "message",
+        "text": "What makes you think its not you?",
+        "user": "U15HSHSS2",
+        "ts": "1550526463.165100"
+    },
+    {
+        "client_msg_id": "4EACB3BE-27EF-4368-B0EC-AE90375D52D1",
+        "type": "message",
+        "text": "Im gonna get hit with a $600 bill once they figure it out",
+        "user": "U15HY5TG8",
+        "ts": "1550526478.165700"
+    },
+    {
+        "client_msg_id": "9C495D19-45F9-495F-B753-356B36A2AB74",
+        "type": "message",
+        "text": "Cause i only see like gatorade charges and court fees on my statements for the past few months lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526506.166600"
+    },
+    {
+        "client_msg_id": "FDF9E05E-E9E6-475E-9BF7-654A119CA512",
+        "type": "message",
+        "text": "Jesus",
+        "user": "U15J5H60P",
+        "ts": "1550526524.166800"
+    },
+    {
+        "client_msg_id": "2A45FD07-99E0-41C8-8EB9-30387133E4FD",
+        "type": "message",
+        "text": "That's no good",
+        "user": "U15J5H60P",
+        "ts": "1550526528.167000"
+    },
+    {
+        "client_msg_id": "ED81DA4E-905A-4EBA-830F-F8BFCFBAFE01",
+        "type": "message",
+        "text": "Is it a separate bill?",
+        "user": "U15J5H60P",
+        "ts": "1550526539.167400"
+    },
+    {
+        "client_msg_id": "EB39837C-EF92-4D3E-88E2-C57D680D6E7B",
+        "type": "message",
+        "text": "Nope, they just used to bill Wonderbox directly so that wonderbox could subtract it off my check lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526578.168600"
+    },
+    {
+        "client_msg_id": "A37DAE4F-2534-4D99-B5D5-B2494346B1EE",
+        "type": "message",
+        "text": "Wonderbox is still footing the bill",
+        "user": "U15HY5TG8",
+        "ts": "1550526589.169000"
+    },
+    {
+        "client_msg_id": "7C2D1C6D-C304-4C1E-BDC4-2F1F2527BBDB",
+        "type": "message",
+        "text": "Is what im assuming",
+        "user": "U15HY5TG8",
+        "ts": "1550526596.169300"
+    },
+    {
+        "client_msg_id": "ec5f7a2d-f503-495d-bea7-8dc7174223eb",
+        "type": "message",
+        "text": "oh no evan",
+        "user": "U15HZ01QX",
+        "ts": "1550526599.169500"
+    },
+    {
+        "client_msg_id": "c7ba045f-094a-4231-84b0-ffa05c3de215",
+        "type": "message",
+        "text": "ohhhh nooo",
+        "user": "U15HZ01QX",
+        "ts": "1550526602.169700"
+    },
+    {
+        "client_msg_id": "26bf4419-6704-4c82-bcd6-b714c971a215",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HZ01QX",
+        "ts": "1550526605.169900"
+    },
+    {
+        "client_msg_id": "831fdc86-4c4b-47f7-9601-a79c81a6bf09",
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1550526608.170100"
+    },
+    {
+        "client_msg_id": "69C17C6A-2494-4CE1-910A-6A6E332E7CDD",
+        "type": "message",
+        "text": "???",
+        "user": "U15HY5TG8",
+        "ts": "1550526614.170300"
+    },
+    {
+        "client_msg_id": "10395D1E-0AE4-48E0-87B4-A4F23B76AA36",
+        "type": "message",
+        "text": "Hows that my fault lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526621.170700"
+    },
+    {
+        "client_msg_id": "12a44484-abaa-4324-96fc-6f1ee40e365d",
+        "type": "message",
+        "text": "its not",
+        "user": "U15HZ01QX",
+        "ts": "1550526625.170900"
+    },
+    {
+        "client_msg_id": "ecfe82e3-d164-4fee-9f16-bf843cae099c",
+        "type": "message",
+        "text": "im just saying this sucks",
+        "user": "U15HZ01QX",
+        "ts": "1550526630.171100"
+    },
+    {
+        "client_msg_id": "B47B97C3-5F27-44E9-B719-58043725DA9C",
+        "type": "message",
+        "text": "Why? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526638.171500"
+    },
+    {
+        "client_msg_id": "0faf662b-d405-4b84-ad5b-c3e3936fed4a",
+        "type": "message",
+        "text": "cuz youre going to have to back pay all the money i would assume",
+        "user": "U15HZ01QX",
+        "ts": "1550526655.171900"
+    },
+    {
+        "client_msg_id": "70CEBEBB-1A58-4853-9BD9-12056214CE9D",
+        "type": "message",
+        "text": "Probably. Ill just keep that money reserved away",
+        "user": "U15HY5TG8",
+        "ts": "1550526677.172400"
+    },
+    {
+        "client_msg_id": "ED2DB525-24D8-4661-AE32-486049CD8875",
+        "type": "message",
+        "text": "For the day they realize",
+        "user": "U15HY5TG8",
+        "ts": "1550526687.172800"
+    },
+    {
+        "client_msg_id": "149A2106-2CDB-499A-971E-776B1D58DC6A",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1550526699.173200"
+    },
+    {
+        "client_msg_id": "16D61FD7-5756-4FBD-9A2E-E07F6CF0A66A",
+        "type": "message",
+        "text": "You should probably just come clean ",
+        "user": "U15J5H60P",
+        "ts": "1550526704.173500"
+    },
+    {
+        "client_msg_id": "800f717c-242b-4b01-876c-7008832bbae1",
+        "type": "message",
+        "text": "my first year working during the school year at sc johnson part time. they paid me my regular full time salary instead of my part time one for like 6 months.",
+        "user": "U15HZ01QX",
+        "ts": "1550526728.174000"
+    },
+    {
+        "client_msg_id": "985a4cca-a314-4b6f-814e-bfe294789711",
+        "type": "message",
+        "text": "When they found out",
+        "user": "U15HZ01QX",
+        "ts": "1550526733.174200"
+    },
+    {
+        "client_msg_id": "321e38dd-c69d-4073-aa29-c9769e161a12",
+        "type": "message",
+        "text": "boy i was salty",
+        "user": "U15HZ01QX",
+        "ts": "1550526742.174500"
+    },
+    {
+        "client_msg_id": "6143DB7A-DC74-407B-B456-DE96349705B5",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1550526746.174800"
+    },
+    {
+        "client_msg_id": "147e032b-3b25-4c4d-a243-57808ccd6cb8",
+        "type": "message",
+        "text": "just tell them now",
+        "user": "U15HZ01QX",
+        "ts": "1550526748.174900"
+    },
+    {
+        "client_msg_id": "D3F0D867-03C9-44EE-812A-6B6234A57DA2",
+        "type": "message",
+        "text": "You had to pay back?",
+        "user": "U15HY5TG8",
+        "ts": "1550526753.175400"
+    },
+    {
+        "client_msg_id": "62BEE0B5-F4EB-4333-9E17-E345C46FC65B",
+        "type": "message",
+        "text": "James over here getting free money ",
+        "user": "U15J5H60P",
+        "ts": "1550526754.175500"
+    },
+    {
+        "client_msg_id": "de7ec48a-cc45-4eda-9460-c411a84e3691",
+        "type": "message",
+        "text": "they were like yeah you can either write us a check for like a million dollars.",
+        "user": "U15HZ01QX",
+        "ts": "1550526779.176500"
+    },
+    {
+        "client_msg_id": "802E5C0F-A295-49B7-B3E4-9002BF81103F",
+        "type": "message",
+        "text": "Ill tell the gym to stop billing them but im bot calling wonderbox",
+        "user": "U15HY5TG8",
+        "ts": "1550526783.176800"
+    },
+    {
+        "client_msg_id": "d870130c-d9ac-47e1-8ee9-fac8c7c5f355",
+        "type": "message",
+        "text": "and i was like uhhhhhhh",
+        "user": "U15HZ01QX",
+        "ts": "1550526785.176900"
+    },
+    {
+        "client_msg_id": "8FAC133B-954C-42C5-AB05-B97620D6C5E1",
+        "type": "message",
+        "text": "\"or you can suck mah dick\"",
+        "user": "U15J5H60P",
+        "ts": "1550526811.177800",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1550526828.000000"
+        }
+    },
+    {
+        "client_msg_id": "F2819EF7-48B4-4656-AADC-FCE6B82146BB",
+        "type": "message",
+        "text": "James sucked some dick that day",
+        "user": "U15J5H60P",
+        "ts": "1550526817.178200",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1550526823.000000"
+        }
+    },
+    {
+        "client_msg_id": "33d7d6cf-f584-4335-a353-edfa31fbeaa7",
+        "type": "message",
+        "text": "Wonder if you were legally obligated to pay them back",
+        "user": "U15HSHSS2",
+        "ts": "1550526836.179000"
+    },
+    {
+        "client_msg_id": "0a839844-69e4-4aa9-9868-2e0e777c6823",
+        "type": "message",
+        "text": "so they paid me like 40% of my salary for the rest of the school year and then like 20% of my next two summer full time checks",
+        "user": "U15HZ01QX",
+        "ts": "1550526838.179100"
+    },
+    {
+        "client_msg_id": "E2FB2235-73B7-422D-A78F-F705CD2878DC",
+        "type": "message",
+        "text": "Fuuuuck lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526851.179600"
+    },
+    {
+        "client_msg_id": "E6926CE1-ED13-4FBA-8B4D-24876FDD05F2",
+        "type": "message",
+        "text": "That seems like a lot of maintenance on their part",
+        "user": "U15J5H60P",
+        "ts": "1550526861.179900"
+    },
+    {
+        "client_msg_id": "8B6A3CEB-982F-4D43-8469-7D28999F287D",
+        "type": "message",
+        "text": "Accidentally jacks it up to 140%",
+        "user": "U15HY5TG8",
+        "ts": "1550526881.180800"
+    },
+    {
+        "client_msg_id": "d829db4c-c85a-4083-80e7-b225f8b2d70b",
+        "type": "message",
+        "text": "I bet you coulda quit and kept the money",
+        "user": "U15HSHSS2",
+        "ts": "1550526884.181000"
+    },
+    {
+        "client_msg_id": "bee56811-f031-4c9c-817e-df97369aa3a3",
+        "type": "message",
+        "text": "yeah but it was easier than literally emptying my account",
+        "user": "U15HZ01QX",
+        "ts": "1550526885.181100"
+    },
+    {
+        "client_msg_id": "630FD469-5764-449A-9BBB-45B61B99906A",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526896.181300"
+    },
+    {
+        "client_msg_id": "2b95efff-1c91-4a86-9ccd-dd32856a61b9",
+        "type": "message",
+        "text": "They fucked up",
+        "user": "U15HSHSS2",
+        "ts": "1550526904.181700"
+    },
+    {
+        "client_msg_id": "086c053b-7a61-48af-a528-2dfc191cbd9e",
+        "type": "message",
+        "text": "i honestly had set most of that money aside.  In college I used to really only spend woodmans money and just use internship money for rent",
+        "user": "U15HZ01QX",
+        "ts": "1550526926.182400"
+    },
+    {
+        "client_msg_id": "25E66A8D-5B2D-4A7E-A77F-853B12CA7133",
+        "type": "message",
+        "text": "Should've invested all of that money!",
+        "user": "U15J5H60P",
+        "ts": "1550526927.182600"
+    },
+    {
+        "client_msg_id": "63F5C706-05CA-41EB-8DCC-B960AF77A8C7",
+        "type": "message",
+        "text": "Bitcoin was hot at the time if I remember correctly",
+        "user": "U15J5H60P",
+        "ts": "1550526948.183200"
+    },
+    {
+        "client_msg_id": "E4E8EC91-0F4A-4433-836A-D57A6D924F8D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550526953.183400"
+    },
+    {
+        "client_msg_id": "b58d713f-2340-4fce-b0ab-907f61164e54",
+        "type": "message",
+        "text": "<@U15HSHSS2> i mean the contract you sign is only legally valid for that amount. so if theyre paying you more than double i doubt that would hold up in court",
+        "user": "U15HZ01QX",
+        "ts": "1550526976.183900"
+    },
+    {
+        "client_msg_id": "f7869011-073a-4dba-a13a-5eb3c1f1ffab",
+        "type": "message",
+        "text": "<@U15J5H60P> 2015?",
+        "user": "U15HZ01QX",
+        "ts": "1550526988.184200"
+    },
+    {
+        "client_msg_id": "640e24d4-ed7b-4a78-9d10-3796fe5b09b6",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1550526992.184400"
+    },
+    {
+        "client_msg_id": "B16D83C7-4F93-473A-8079-4F3434A790E8",
+        "type": "message",
+        "text": "Yeet",
+        "user": "U15J5H60P",
+        "ts": "1550526995.184600"
+    },
+    {
+        "client_msg_id": "FC9AF232-CE9F-47F6-B39F-A3D8B2F59BA6",
+        "type": "message",
+        "text": "I dont want to tell them their mistake",
+        "user": "U15HY5TG8",
+        "ts": "1550527016.185100"
+    },
+    {
+        "client_msg_id": "13ad7f60-3ec9-4760-8620-f649ae1add39",
+        "type": "message",
+        "text": "You don't even work there anymore",
+        "user": "U15HSHSS2",
+        "ts": "1550527029.185600"
+    },
+    {
+        "client_msg_id": "BA3CA128-DB5C-4561-BB91-1275D63F1F81",
+        "type": "message",
+        "text": "But also dont want to pay back later",
+        "user": "U15HY5TG8",
+        "ts": "1550527030.185900"
+    },
+    {
+        "client_msg_id": "2b734b56-ee88-4b68-80e8-9c66387802f2",
+        "type": "message",
+        "text": "thats on them to figure out",
+        "user": "U15HSHSS2",
+        "ts": "1550527032.186000"
+    },
+    {
+        "client_msg_id": "F5A8CF83-6F8D-4F31-8297-71F0566F1142",
+        "type": "message",
+        "text": "I support toms feedback",
+        "user": "U15HY5TG8",
+        "ts": "1550527043.186400"
+    },
+    {
+        "client_msg_id": "c24c099d-f642-42d7-97d2-935acd7347a9",
+        "type": "message",
+        "text": "How did you get Wonderbox to pay for your gym in the first place?",
+        "user": "U15HSHSS2",
+        "ts": "1550527077.187700"
+    },
+    {
+        "client_msg_id": "e85c953c-1784-4a38-babc-3378003b8e65",
+        "type": "message",
+        "text": "<@U15HY5TG8> lol if youre saving the money anyways youre just gonna end up with some bloated account with 3k in it like 5 years from now.  And theyll literally come and flame your ass",
+        "user": "U15HZ01QX",
+        "ts": "1550527083.188100"
+    },
+    {
+        "client_msg_id": "AE81A07E-960A-4E85-B696-99AA40410611",
+        "type": "message",
+        "text": "<@U15HSHSS2> because they discounted the membership, so in order to keep track, theyre like \"hey tell us where you work that way they can lock down your paycheck and deduct it straight from there\"",
+        "user": "U15HY5TG8",
+        "ts": "1550527173.190200"
+    },
+    {
+        "client_msg_id": "7EC63882-EACB-4819-BBFA-F7020E6AFD38",
+        "type": "message",
+        "text": "<@U15HZ01QX> orrrrrr they could just not notice, pay my bill for 5 years, go out of business, etc",
+        "user": "U15HY5TG8",
+        "ts": "1550527206.191300"
+    },
+    {
+        "client_msg_id": "cda7b333-9b3e-4ef5-af91-9c4b3e6c89c9",
+        "type": "message",
+        "text": "youre getting a tax return back in like a week anyways",
+        "user": "U15HZ01QX",
+        "ts": "1550527216.191700"
+    },
+    {
+        "client_msg_id": "8eacb75c-7805-4256-a622-82574d5f98c9",
+        "type": "message",
+        "text": "just rip the band aid off",
+        "user": "U15HZ01QX",
+        "ts": "1550527223.192000"
+    },
+    {
+        "client_msg_id": "310F73F4-B918-4889-971E-8895221E6EC4",
+        "type": "message",
+        "text": "I get back like $300",
+        "user": "U15HY5TG8",
+        "ts": "1550527241.192500"
+    },
+    {
+        "client_msg_id": "76341686-0af6-4345-999d-a1b78bd16b5c",
+        "type": "message",
+        "text": "So your pay at wonderbox just had a deduction taken from it?",
+        "user": "U15HSHSS2",
+        "ts": "1550527271.193100"
+    },
+    {
+        "client_msg_id": "BF8F5F68-CF5E-418F-807D-81865E129B5C",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15HY5TG8",
+        "ts": "1550527282.193500"
+    },
+    {
+        "client_msg_id": "24AC8193-19F6-433E-8CA4-90686E4F26B9",
+        "type": "message",
+        "text": "Like you could see -$30 for health paymebt",
+        "user": "U15HY5TG8",
+        "ts": "1550527297.194300"
+    },
+    {
+        "client_msg_id": "5685215e-56d1-4661-a03e-fe50ed9ccaf2",
+        "type": "message",
+        "text": "if that's the case how is the gym getting paid now? lol you obviously don't have a paycheck coming from them anymore",
+        "user": "U15HSHSS2",
+        "ts": "1550527297.194400"
+    },
+    {
+        "client_msg_id": "94F4D8FA-2691-48C5-B4C2-51F74F773882",
+        "type": "message",
+        "text": "THATS WHAT IM SAYING LOLOL",
+        "user": "U15HY5TG8",
+        "ts": "1550527310.194800"
+    },
+    {
+        "client_msg_id": "907edc7c-bc2a-4b9b-b5ee-78fad476e741",
+        "type": "message",
+        "text": "because wonderbox isnt literally taking the money from evan and sending it to the gym.",
+        "user": "U15HZ01QX",
+        "ts": "1550527324.195300"
+    },
+    {
+        "client_msg_id": "A439B15A-C575-46C7-A417-997E3270F119",
+        "type": "message",
+        "text": "this is why you log exceptions in your code!",
+        "user": "U15HY5TG8",
+        "ts": "1550527331.195800"
+    },
+    {
+        "client_msg_id": "88073522-cd70-49b4-bb5e-c3d2ea95692b",
+        "type": "message",
+        "text": "They gym charges wonderbox this certain amount of money",
+        "user": "U15HZ01QX",
+        "ts": "1550527336.196000"
+    },
+    {
+        "client_msg_id": "b5ccff50-fb96-4481-878f-f16feaf50ca4",
+        "type": "message",
+        "text": "ah, just paying it and then charging ev",
+        "user": "U15HSHSS2",
+        "ts": "1550527340.196300"
+    },
+    {
+        "client_msg_id": "c1fbd7bf-e9ba-4a63-ade0-b7a8f934a08c",
+        "type": "message",
+        "text": "yup",
+        "user": "U15HZ01QX",
+        "ts": "1550527345.196600"
+    },
+    {
+        "client_msg_id": "1740FC23-9FDD-4184-8A98-FFC1FC6F9AFE",
+        "type": "message",
+        "text": "But now theres no one to charge lol",
+        "user": "U15HY5TG8",
+        "ts": "1550527359.197000"
+    },
+    {
+        "client_msg_id": "00C58A2D-312A-4B83-977A-C08EB2E562B4",
+        "type": "message",
+        "text": "Which should throw an exception lol",
+        "user": "U15HY5TG8",
+        "ts": "1550527368.197600"
+    },
+    {
+        "client_msg_id": "49e4f199-2377-4d44-a559-1b12a5e9a4bd",
+        "type": "message",
+        "text": "They probably charge the list of people who are on the gym list",
+        "user": "U15HZ01QX",
+        "ts": "1550527377.198000"
+    },
+    {
+        "client_msg_id": "3d1320ba-d16c-4229-85a2-743b3e5c575f",
+        "type": "message",
+        "text": "someone should probably check to make sure the numbers line up...",
+        "user": "U15HZ01QX",
+        "ts": "1550527390.198500"
+    },
+    {
+        "client_msg_id": "0f02784c-9628-43bb-833d-0973af3248ec",
+        "type": "message",
+        "text": "but still",
+        "user": "U15HZ01QX",
+        "ts": "1550527394.198700"
+    },
+    {
+        "client_msg_id": "52B5A522-92EC-43BD-B4DB-63623E6A65E4",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550527397.198900"
+    },
+    {
+        "client_msg_id": "ba0444d6-0b11-4e5a-9a07-5074bf0d9111",
+        "type": "message",
+        "text": "That would suck for someone who quits and just assumes their gym membership was terminated as well because it was paid through work. So they find a new gym, then 3 years later Wonderbox tracks them down and is like \"hey you owe us $2,000.00 for your gym membership we were paying for\"",
+        "user": "U15HSHSS2",
+        "ts": "1550527490.200500"
+    },
+    {
+        "client_msg_id": "73FBAFFF-D696-402C-A9D2-F59193A518C5",
+        "type": "message",
+        "text": "Yeahhh that would suck",
+        "user": "U15HY5TG8",
+        "ts": "1550527651.201000"
+    },
+    {
+        "client_msg_id": "ae678c4d-23bd-4941-b3b2-77736544477c",
+        "type": "message",
+        "text": "Tom you make a really good point",
+        "user": "U15HZ01QX",
+        "ts": "1550527652.201100"
+    },
+    {
+        "client_msg_id": "83e5f477-7402-409d-b22b-288ad9d3cc77",
+        "type": "message",
+        "text": "in that case i would refuse to pay it",
+        "user": "U15HZ01QX",
+        "ts": "1550527661.201700"
+    },
+    {
+        "client_msg_id": "F0F2F442-CB70-4ED2-A4AB-A8085766D4EA",
+        "type": "message",
+        "text": "But i dont see myself going anywhere",
+        "user": "U15HY5TG8",
+        "ts": "1550527664.201900"
+    },
+    {
+        "client_msg_id": "00d7a676-c959-4356-a9a9-6d1608632778",
+        "type": "message",
+        "text": "like you can say hey i stopped going to that gym so its your fault",
+        "user": "U15HZ01QX",
+        "ts": "1550527689.203100"
+    },
+    {
+        "client_msg_id": "BF9B86FF-8510-4A96-A815-2255B25B6A76",
+        "type": "message",
+        "text": "Also i have to change my membership terms in september anyways. If they dont catch it then....",
+        "user": "U15HY5TG8",
+        "ts": "1550527694.203400"
+    },
+    {
+        "client_msg_id": "0bdf59c0-713c-44ba-b2d6-779e6fe7f41d",
+        "type": "message",
+        "text": "evan just pay it lol",
+        "user": "U15HZ01QX",
+        "ts": "1550527703.203700"
+    },
+    {
+        "client_msg_id": "96CBCAC7-4C6A-4317-AD1A-B75C30740A32",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550527718.204100"
+    },
+    {
+        "client_msg_id": "0ea6f374-4fdf-4f3f-880e-e9262eec9ae3",
+        "type": "message",
+        "text": "Did you have a month to month sub or was it for like a year",
+        "user": "U15HSHSS2",
+        "ts": "1550527725.204400",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1550527727.000000"
+        }
+    },
+    {
+        "client_msg_id": "0b891077-e602-4cef-83fe-cb5616069490",
+        "type": "message",
+        "text": "maybe your work bought a year cuz it was the most cost efficient option and just planned on taking the month to month break down out of your check for the next year",
+        "user": "U15HSHSS2",
+        "ts": "1550527768.205600"
+    },
+    {
+        "client_msg_id": "8BC9FD51-862E-4A6A-954B-F6BA2D08F425",
+        "type": "message",
+        "text": "Its a month to month transaction from my credit card at least",
+        "user": "U15HY5TG8",
+        "ts": "1550527782.206100"
+    },
+    {
+        "client_msg_id": "B81CD860-3F17-42AA-87C9-C61886711E69",
+        "type": "message",
+        "text": "That could be, but yeah idk",
+        "user": "U15HY5TG8",
+        "ts": "1550527797.206600"
+    },
+    {
+        "client_msg_id": "d64ea6a3-aafe-4cab-ba04-e9510cd69333",
+        "type": "message",
+        "text": "the longer you wait the higher a chance some poor hr generalist is going to get fired evan",
+        "user": "U15HZ01QX",
+        "ts": "1550528300.207100"
+    },
+    {
+        "client_msg_id": "6AC6FEC8-0F1F-410B-84D4-9FDCCAFB3E45",
+        "type": "message",
+        "text": "Hmmmm",
+        "user": "U15HY5TG8",
+        "ts": "1550528350.207300"
+    },
+    {
+        "client_msg_id": "F460C1EE-979F-4EF3-B08B-DA56B44F7AA9",
+        "type": "message",
+        "text": "Don't pay it",
+        "user": "U15J5H60P",
+        "ts": "1550532204.207500"
+    },
+    {
+        "client_msg_id": "BBA158E5-30E3-4AC5-89D6-317402CB3EFE",
+        "type": "message",
+        "text": "They won't notice",
+        "user": "U15J5H60P",
+        "ts": "1550532207.207700"
+    },
+    {
+        "client_msg_id": "016329D1-396B-4868-8C6B-8692729A4FFD",
+        "type": "message",
+        "text": "Unless they do",
+        "user": "U15J5H60P",
+        "ts": "1550532212.207900"
+    },
+    {
+        "client_msg_id": "DEBCB97A-A464-4A91-9B0A-346BA2ABC98C",
+        "type": "message",
+        "text": "Then they'll stone you to death",
+        "user": "U15J5H60P",
+        "ts": "1550532226.208300"
+    },
+    {
+        "client_msg_id": "B1EA9390-C7BA-4E02-8ED2-5B27C189C8F5",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1550532710.208500"
+    },
+    {
+        "client_msg_id": "71A08AD2-3B07-4A25-B1EA-F89763469740",
+        "type": "message",
+        "text": "They have a documentary on george w bush playing in the locker room lol",
+        "user": "U15HY5TG8",
+        "ts": "1550533708.209200"
+    },
+    {
+        "client_msg_id": "9B2EAA59-2F41-4232-B0B2-00FD7AF3EF7A",
+        "type": "message",
+        "text": "Can anyone tell me what happened with Justin Trudeau?",
+        "user": "U15J5H60P",
+        "ts": "1550552259.000800"
+    },
+    {
+        "client_msg_id": "31C1F8DE-9C84-4260-864D-2C63658A9DF7",
+        "type": "message",
+        "text": "I thought Canada was in love with him",
+        "user": "U15J5H60P",
+        "ts": "1550552268.001200"
+    },
+    {
+        "client_msg_id": "C06C6591-AFC2-40D5-AB5A-46EDEB0EF1B2",
+        "type": "message",
+        "text": "Now that seems to have changed",
+        "user": "U15J5H60P",
+        "ts": "1550552270.001300"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "client_msg_id": "b24fc8b8-5ee4-4848-a8c7-c9c3449f9007",
+        "type": "message",
+        "text": "<https:\/\/www.zillow.com\/homes\/for_sale\/CO\/2106189450_zpid\/10_rid\/39.311922,-106.723852,39.196143,-106.885386_rect\/12_zm\/>",
+        "user": "U15HRTAHL",
+        "ts": "1552663114.000200",
+        "attachments": [
+            {
+                "title": "6067 Woody Creek Rd, Woody Creek, CO 81656 | MLS #148750 | Zillow",
+                "title_link": "https:\/\/www.zillow.com\/homes\/for_sale\/CO\/2106189450_zpid\/10_rid\/39.311922,-106.723852,39.196143,-106.885386_rect\/12_zm\/",
+                "text": "For sale: $6,295,000. For the quality, value buyer you must see this Woody Creek Estate. Located just 25 minutes from Aspen, this 15 acre, 7,300 square foot Woody Creek estate just outside of Aspen, boasts, spectacular views, water, and privacy. Tile floors are from an 18th century abbey, 9,000 lb. wood beams from an Oregon sawmill and Albertini windows from Italy are among many of the distinguished characteristics in this timeless masterpiece. Wonderful views, beautiful landscaping, multiple ponds and a creek flowing through this private enclave.Generous bedrooms, butler's kitchen, large pantry, outdoor fireplace, and enclosed horse stable.",
+                "fallback": "6067 Woody Creek Rd, Woody Creek, CO 81656 | MLS #148750 | Zillow",
+                "image_url": "https:\/\/photos.zillowstatic.com\/p_d\/ISukjt1hjdle9q1000000000.jpg",
+                "from_url": "https:\/\/www.zillow.com\/homes\/for_sale\/CO\/2106189450_zpid\/10_rid\/39.311922,-106.723852,39.196143,-106.885386_rect\/12_zm\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 78065,
+                "service_icon": "https:\/\/www.zillowstatic.com\/static\/images\/m\/apple-touch-icon.png",
+                "service_name": "zillow.com",
+                "id": 1,
+                "original_url": "https:\/\/www.zillow.com\/homes\/for_sale\/CO\/2106189450_zpid\/10_rid\/39.311922,-106.723852,39.196143,-106.885386_rect\/12_zm\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c70a1c92-79c8-4965-aa2b-ba22f01b834c",
+        "type": "message",
+        "text": "this is what I meant",
+        "user": "U15HRTAHL",
+        "ts": "1552663117.000500"
+    },
+    {
+        "client_msg_id": "975625f4-8808-4708-bbcd-5cf223f601ba",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1552663122.000700"
+    },
+    {
+        "client_msg_id": "2750d710-9e69-43ad-a415-e3d95347bbc4",
+        "type": "message",
+        "text": "<https:\/\/www.zillow.com\/homes\/for_sale\/278-Carbil-Rd,-Muscoda,-Wi_rb\/>",
+        "user": "U15J5H60P",
+        "ts": "1552663138.001200",
+        "attachments": [
+            {
+                "title": "278 Carbil Rd, Muscoda, WI 53573 | Zillow",
+                "title_link": "https:\/\/www.zillow.com\/homes\/for_sale\/278-Carbil-Rd,-Muscoda,-Wi_rb\/",
+                "text": "Zestimate® Home Value: $199,314. 278 Carbil Rd, Muscoda, WI is a single family home. The Zestimate for this house is $199,314, which has decreased by $542 in the last 30 days. The Rent Zestimate for this home is $950\/mo, which has increased by $27\/mo in the last 30 days.",
+                "fallback": "278 Carbil Rd, Muscoda, WI 53573 | Zillow",
+                "image_url": "https:\/\/www.zillowstatic.com\/static\/images\/nophoto_p_d.png",
+                "from_url": "https:\/\/www.zillow.com\/homes\/for_sale\/278-Carbil-Rd,-Muscoda,-Wi_rb\/",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 1484,
+                "service_icon": "https:\/\/www.zillowstatic.com\/static\/images\/m\/apple-touch-icon.png",
+                "service_name": "zillow.com",
+                "id": 1,
+                "original_url": "https:\/\/www.zillow.com\/homes\/for_sale\/278-Carbil-Rd,-Muscoda,-Wi_rb\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "22bc8e9d-0086-403c-adb0-efaa5704a24c",
+        "type": "message",
+        "text": "I think zillow is made for rich people to show off their homes",
+        "user": "U15HRTAHL",
+        "ts": "1552663141.001500"
+    },
+    {
+        "client_msg_id": "6b5b491c-97ad-49dc-9146-a8a1b07527ae",
+        "type": "message",
+        "text": "That was my house",
+        "user": "U15J5H60P",
+        "ts": "1552663141.001600"
+    },
+    {
+        "client_msg_id": "b5ba7b6e-16cf-449a-aee3-1c745a3820a6",
+        "type": "message",
+        "text": "google maps doesn’t even go out there",
+        "user": "U15HRTAHL",
+        "ts": "1552663189.002000"
+    },
+    {
+        "client_msg_id": "9286334c-ffcd-47fb-abd1-5489f6573170",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1552663204.002200"
+    }
+]

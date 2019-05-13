@@ -1,0 +1,398 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGJA1C484",
+                "created": 1551279060,
+                "timestamp": 1551279060,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-27, 8:51 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 6950,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGJA1C484\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGJA1C484\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJA1C484-558fcb74b3\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJA1C484-558fcb74b3\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJA1C484-558fcb74b3\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 55,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJA1C484-558fcb74b3\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 390,
+                "original_h": 60,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGJA1C484\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGJA1C484-1d2335a6b5",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1551279064.000100"
+    },
+    {
+        "client_msg_id": "21e3f941-301d-46e8-98ee-db417ebd0bdd",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1551279071.000500"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1551279081.000700",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "TTWO - Take-Two Interactive Software, Inc.",
+                "title": "TTWO - Take-Two Interactive Software, Inc.",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=TTWO&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=TTWO|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=TTWO|Finviz> | <http:\/\/stocktwits.com\/symbol\/TTWO|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1551279077,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "87.10",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.24 (-0.27%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "163,528",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "3,120,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "4.2\/5 (10 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "142.38 (+63.46%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "20847",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "20847",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=TTWO&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 33362,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=TTWO",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b2991f5b-262c-4603-9802-fdf1eb5d62e2",
+        "type": "message",
+        "text": "Watch TTWO being a key player in Pokemon Sword and Shield and they skyrocket",
+        "user": "U15J5H60P",
+        "ts": "1551279092.001000"
+    },
+    {
+        "client_msg_id": "abf0aa5f-06d8-4c6b-b38d-943d4c3c755d",
+        "type": "message",
+        "text": "Price target is $142",
+        "user": "U15J5H60P",
+        "ts": "1551279100.001300"
+    },
+    {
+        "client_msg_id": "1fcc1f38-44ff-4535-99c0-a18787de1591",
+        "type": "message",
+        "text": "Wow",
+        "user": "U15J5H60P",
+        "ts": "1551279109.001700"
+    },
+    {
+        "client_msg_id": "198eb715-3c95-4385-8279-543c7db3b1b4",
+        "type": "message",
+        "text": "That's a great price target",
+        "user": "U15J5H60P",
+        "ts": "1551279113.002000"
+    },
+    {
+        "client_msg_id": "b4d90659-4e96-429f-9889-33517e5925ab",
+        "type": "message",
+        "text": "I think James bought at like 160",
+        "user": "U15HRTAHL",
+        "ts": "1551279114.002100"
+    },
+    {
+        "client_msg_id": "9d662532-7446-4cfb-ba00-a35118f558e6",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1551279116.002300"
+    },
+    {
+        "client_msg_id": "fd6d128c-e60b-4d04-bce3-976547df1a7a",
+        "type": "message",
+        "text": "Oh jesus",
+        "user": "U15J5H60P",
+        "ts": "1551279118.002500"
+    },
+    {
+        "client_msg_id": "966181C5-A718-47DF-A39F-F1239B6D7F4A",
+        "type": "message",
+        "text": "They’ve never even been to 160",
+        "user": "U15HZ01QX",
+        "ts": "1551279288.003000"
+    },
+    {
+        "client_msg_id": "fc2ffcfc-3940-4afc-b8bd-ec199d94d08a",
+        "type": "message",
+        "text": "They have great rating",
+        "user": "U15J5H60P",
+        "ts": "1551279470.003200"
+    },
+    {
+        "client_msg_id": "1bb55a0b-f4e6-4168-8bb7-c60fe9cf1ab5",
+        "type": "message",
+        "text": "s",
+        "user": "U15J5H60P",
+        "ts": "1551279470.003500"
+    },
+    {
+        "client_msg_id": "d05a953a-be64-422a-a69e-971ddc8f7793",
+        "type": "message",
+        "text": "17 BUY ratings, 1 Hold, and 1 Sell",
+        "user": "U15J5H60P",
+        "ts": "1551279485.003800"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGJAAK8CU",
+                "created": 1551279499,
+                "timestamp": 1551279499,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-27, 8:58 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 314399,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGJAAK8CU\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGJAAK8CU\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 176,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 235,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 352,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 391,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 469,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJAAK8CU-c0009e6c48\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 500,
+                "image_exif_rotation": 1,
+                "original_w": 2206,
+                "original_h": 1078,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FGJAAK8CU\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGJAAK8CU-74b4e8aad6",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1551279502.004000"
+    },
+    {
+        "client_msg_id": "d1b598bb-d85b-43db-bac4-c1287d969e7c",
+        "type": "message",
+        "text": "Recent ratings",
+        "user": "U15J5H60P",
+        "ts": "1551279506.004400"
+    },
+    {
+        "client_msg_id": "865bf17d-0eb1-419d-950a-4d01a604ac7a",
+        "type": "message",
+        "text": "I think the $142 price target is a little high",
+        "user": "U15J5H60P",
+        "ts": "1551279523.004700"
+    },
+    {
+        "client_msg_id": "4bb88023-1d1c-4a74-900b-1982e67343d3",
+        "type": "message",
+        "text": "<@U15J5H60P> whats that site you use? I really like that",
+        "user": "U15HRTAHL",
+        "ts": "1551279555.005000"
+    },
+    {
+        "client_msg_id": "a073a28c-9afd-4280-8df0-62804e412abb",
+        "type": "message",
+        "text": "MarketBeat",
+        "user": "U15J5H60P",
+        "ts": "1551279738.005200"
+    },
+    {
+        "client_msg_id": "cd987236-39a0-4e83-83e8-101975927156",
+        "type": "message",
+        "text": "<https:\/\/www.marketbeat.com\/stocks\/NASDAQ\/TTWO\/price-target\/>",
+        "user": "U15J5H60P",
+        "ts": "1551279744.005500",
+        "attachments": [
+            {
+                "title": "NASDAQ:TTWO - Price Target &amp; Analyst Ratings for TAKE-TWO INTERACTIVE SOFTWARE$ TTWO",
+                "title_link": "https:\/\/www.marketbeat.com\/stocks\/NASDAQ\/TTWO\/price-target\/",
+                "text": "What are top-rated research analysts are saying about TAKE-TWO INTERACTIVE SOFTWARE (NASDAQ:TTWO)? View TTWO's most recent analyst ratings, recommendations and price targets at MarketBeat.",
+                "fallback": "NASDAQ:TTWO - Price Target &amp; Analyst Ratings for TAKE-TWO INTERACTIVE SOFTWARE$ TTWO",
+                "thumb_url": "https:\/\/www.marketbeat.com\/logos\/take-two-logo.jpg",
+                "from_url": "https:\/\/www.marketbeat.com\/stocks\/NASDAQ\/TTWO\/price-target\/",
+                "thumb_width": 200,
+                "thumb_height": 99,
+                "service_icon": "https:\/\/www.marketbeat.com\/images\/apple-touch-icon-precomposed.png",
+                "service_name": "marketbeat.com",
+                "id": 1,
+                "original_url": "https:\/\/www.marketbeat.com\/stocks\/NASDAQ\/TTWO\/price-target\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c3b61bfa-1f48-4a09-84c1-e54bfd51532f",
+        "type": "message",
+        "text": "That's what I've been using to make decisions lately",
+        "user": "U15J5H60P",
+        "ts": "1551279754.005900"
+    },
+    {
+        "client_msg_id": "5134b94e-d5ab-4045-8ef4-09eed88bca87",
+        "type": "message",
+        "text": "What's cool is that you can also click on the Brokerage to see all of their recent ratings - <https:\/\/www.marketbeat.com\/ratings\/by-issuer\/71\/>",
+        "user": "U15J5H60P",
+        "ts": "1551279780.006200",
+        "attachments": [
+            {
+                "title": "  Morgan Stanley Analyst Ratings &amp; Stock Recommendations (NYSE:MS) | MarketBeat ",
+                "title_link": "https:\/\/www.marketbeat.com\/ratings\/by-issuer\/71\/",
+                "text": "View recent analyst ratings, stock recommendations and price targets from research analysts at Morgan Stanley (NYSE:MS) on <http:\/\/MarketBeat.com|MarketBeat.com>",
+                "fallback": "  Morgan Stanley Analyst Ratings &amp; Stock Recommendations (NYSE:MS) | MarketBeat ",
+                "image_url": "http:\/\/marketbeat.com\/images\/marketbeat-logo-400-400.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/www.marketbeat.com\/ratings\/by-issuer\/71\/",
+                "image_bytes": 2665,
+                "service_icon": "https:\/\/www.marketbeat.com\/images\/apple-touch-icon-precomposed.png",
+                "service_name": "marketbeat.com",
+                "id": 1,
+                "original_url": "https:\/\/www.marketbeat.com\/ratings\/by-issuer\/71\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99ba9564-2248-4577-a7c7-b6d3924fd270",
+        "type": "message",
+        "text": "I check in on Morgan Stanley and J.P. Morgan the most",
+        "user": "U15J5H60P",
+        "ts": "1551279798.006700"
+    },
+    {
+        "client_msg_id": "3633e6cb-ae47-450c-bc0b-726f43b67e9e",
+        "type": "message",
+        "text": "<https:\/\/www.marketbeat.com\/ratings\/by-issuer\/43\/>",
+        "user": "U15J5H60P",
+        "ts": "1551279814.006900",
+        "attachments": [
+            {
+                "title": "  JPMorgan Chase &amp; Co. Analyst Ratings &amp; Stock Recommendations (NYSE:JPM) | MarketBeat ",
+                "title_link": "https:\/\/www.marketbeat.com\/ratings\/by-issuer\/43\/",
+                "text": "View recent analyst ratings, stock recommendations and price targets from research analysts at JPMorgan Chase &amp; Co. (NYSE:JPM) on <http:\/\/MarketBeat.com|MarketBeat.com>",
+                "fallback": "  JPMorgan Chase &amp; Co. Analyst Ratings &amp; Stock Recommendations (NYSE:JPM) | MarketBeat ",
+                "image_url": "http:\/\/marketbeat.com\/images\/marketbeat-logo-400-400.png",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/www.marketbeat.com\/ratings\/by-issuer\/43\/",
+                "image_bytes": 2665,
+                "service_icon": "https:\/\/www.marketbeat.com\/images\/apple-touch-icon-precomposed.png",
+                "service_name": "marketbeat.com",
+                "id": 1,
+                "original_url": "https:\/\/www.marketbeat.com\/ratings\/by-issuer\/43\/"
+            }
+        ]
+    }
+]

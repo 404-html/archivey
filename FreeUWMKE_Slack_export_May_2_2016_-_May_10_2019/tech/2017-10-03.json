@@ -1,0 +1,1381 @@
+[
+    {
+        "type": "message",
+        "text": "Pixel Event tomorrow!",
+        "user": "U15HRTAHL",
+        "ts": "1507038868.000765"
+    },
+    {
+        "type": "message",
+        "text": "What’s that",
+        "user": "U15HZ01QX",
+        "ts": "1507038880.000224"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HY5TG8",
+        "ts": "1507038909.000171",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/HZdGyIy7gtSa4",
+                "image_url": "https:\/\/media1.giphy.com\/media\/HZdGyIy7gtSa4\/giphy-downsized.gif",
+                "image_width": 320,
+                "image_height": 240,
+                "image_bytes": 737951,
+                "is_animated": true,
+                "title": "ha gayyyyy",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/HZdGyIy7gtSa4"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Its this cool event where they announce things coming to the iphones in 2 years",
+        "user": "U15HRTAHL",
+        "ts": "1507038912.000103",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "U15HSHSS2"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1490702368904517>",
+        "user": "U15HZ01QX",
+        "ts": "1507038916.000546",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1490702368904517",
+                "fallback": "[March 28th, 2017 4:59 AM] andrew: Never heard of it",
+                "ts": "1490702368.904517",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Never heard of it",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1507038923.000373"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> -- for his candor this morning",
+        "user": "U15HRTAHL",
+        "ts": "1507038938.000656"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|99 points>] :high_heel:",
+        "ts": "1507038939.000324",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HY5TG8",
+        "ts": "1507038959.000194",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/sucks-wV0XDfE05XZ4s",
+                "image_url": "https:\/\/media2.giphy.com\/media\/wV0XDfE05XZ4s\/giphy.gif",
+                "image_width": 260,
+                "image_height": 261,
+                "image_bytes": 1417902,
+                "is_animated": true,
+                "title": "google sucks",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/sucks-wV0XDfE05XZ4s"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "you suck evan",
+        "user": "U15HRTAHL",
+        "ts": "1507038972.000299"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> --",
+        "user": "U15HY5TG8",
+        "ts": "1507038980.000123"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|26 points>]",
+        "ts": "1507038980.000611",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1489632683855020>",
+        "user": "U15HZ01QX",
+        "ts": "1507038986.000331",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1489632683855020",
+                "fallback": "[March 15th, 2017 7:51 PM] ev: Quit being racist",
+                "ts": "1489632683.855020",
+                "author_id": "U15HY5TG8",
+                "author_subname": "evan bauer",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Quit being racist",
+                "author_name": "evan bauer",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-09-12\/239404104704_fee318d7efffca069e69_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> ++",
+        "user": "U15HY5TG8",
+        "ts": "1507038994.000744"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Noted. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|100 points>] :high_heel:",
+        "ts": "1507038995.000408",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "youre just saying i suck because im mexican",
+        "user": "U15HY5TG8",
+        "ts": "1507039006.000627"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> -- for using the race card in an inapplicable manner",
+        "user": "U15HRTAHL",
+        "ts": "1507039007.000113"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, really? [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|99 points>] :high_heel:",
+        "ts": "1507039008.000058",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "i think his reasoning is valid",
+        "user": "U15HY5TG8",
+        "ts": "1507039026.000190"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> -- for being a turkey",
+        "user": "U15HRTAHL",
+        "ts": "1507039044.000313"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|20 points>]",
+        "ts": "1507039046.000092",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HY5TG8",
+        "ts": "1507039076.000510",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/sheep-goYcLpPX7Y85W",
+                "image_url": "https:\/\/media2.giphy.com\/media\/goYcLpPX7Y85W\/giphy.gif",
+                "image_width": 384,
+                "image_height": 216,
+                "image_bytes": 1694623,
+                "is_animated": true,
+                "title": "joe is a sheep",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/sheep-goYcLpPX7Y85W"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "actual footage of Joe and his future kids",
+        "user": "U15HY5TG8",
+        "ts": "1507039088.000067"
+    },
+    {
+        "type": "message",
+        "text": "I'm excited for the event.",
+        "user": "U15J5H60P",
+        "ts": "1507039098.000066"
+    },
+    {
+        "type": "message",
+        "text": "They always have interesting events.",
+        "user": "U15J5H60P",
+        "ts": "1507039104.000188"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1484709214000006>",
+        "user": "U15HZ01QX",
+        "ts": "1507039131.000337",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1484709214000006",
+                "fallback": "[January 17th, 2017 7:13 PM] andrew: That’d be a shame if I killed you just now",
+                "ts": "1484709214.000006",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "That’d be a shame if I killed you just now",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> ++ for being excited about things im excited about",
+        "user": "U15HRTAHL",
+        "ts": "1507039151.000015"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well played.  [<@U15J5H60P>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-70 points>]",
+        "ts": "1507039152.000034",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1507039184.000663"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1497535629143792>",
+        "user": "U15HZ01QX",
+        "ts": "1507039256.000698",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1497535629143792",
+                "fallback": "[June 15th, 2017 7:07 AM] andrew: Fucking gay",
+                "ts": "1497535629.143792",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Fucking gay",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1507039257.000063"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1501265088259118>",
+        "user": "U15HZ01QX",
+        "ts": "1507039312.000493",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1501265088259118",
+                "fallback": "[July 28th, 2017 11:04 AM] joeythomaschaske: Yeah should be a gay old time",
+                "ts": "1501265088.259118",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "Yeah should be a gay old time",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Ok I’m done",
+        "user": "U15HZ01QX",
+        "ts": "1507039320.000281"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1506349400000640>",
+        "user": "U15HY5TG8",
+        "ts": "1507039322.000064",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1506349400000640",
+                "fallback": "[September 25th, 2017 7:23 AM] andrew: Stop antagonizing your friend",
+                "ts": "1506349400.000640",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Stop antagonizing your friend",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1498355660158599>",
+        "user": "U15HZ01QX",
+        "ts": "1507039368.000427",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1498355660158599",
+                "fallback": "[June 24th, 2017 6:54 PM] andrew: Evan, u gay tho",
+                "ts": "1498355660.158599",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Evan, u gay tho",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lois",
+        "user": "U15J5H60P",
+        "ts": "1507039420.000054"
+    },
+    {
+        "type": "message",
+        "text": "The old grandma that Ev was knocking up",
+        "user": "U15J5H60P",
+        "ts": "1507039429.000290"
+    },
+    {
+        "type": "message",
+        "text": "smh",
+        "user": "U15HY5TG8",
+        "ts": "1507039447.000463"
+    },
+    {
+        "type": "message",
+        "text": ":mask:",
+        "user": "U15HZ01QX",
+        "ts": "1507039452.000218"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> -- <@U15J5H60P> -- <@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1507039463.000298"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|25 points>]",
+        "ts": "1507039463.000776",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch. [<@U15J5H60P>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-71 points>]",
+        "ts": "1507039464.000516",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|98 points>] :high_heel:",
+        "ts": "1507039465.000622",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HZ01QX",
+        "ts": "1507039479.000071",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/thegoodfilms-sad-depressed-want-VS3zCR5S6frDW",
+                "image_url": "https:\/\/media3.giphy.com\/media\/VS3zCR5S6frDW\/giphy-downsized.gif",
+                "image_width": 500,
+                "image_height": 208,
+                "image_bytes": 973852,
+                "is_animated": true,
+                "title": "sad",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/thegoodfilms\/|The Good Films>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/thegoodfilms-sad-depressed-want-VS3zCR5S6frDW"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> --",
+        "user": "U15HZ01QX",
+        "ts": "1507039506.000598"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|19 points>]",
+        "ts": "1507039507.000249",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1504328443000055>",
+        "user": "U15HY5TG8",
+        "ts": "1507039675.000061",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1504328443000055",
+                "fallback": "[September 1st, 2017 10:00 PM] joeythomaschaske: K",
+                "ts": "1504328443.000055",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joseph Thomaschaske",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "K",
+                "author_name": "Joseph Thomaschaske",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39618197601_70be165dc04ef2c7bbc5_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1499048985975246>",
+        "user": "U15HZ01QX",
+        "ts": "1507039777.000723",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1499048985975246",
+                "fallback": "[July 2nd, 2017 7:29 PM] james: You're gonna die like shit",
+                "ts": "1499048985.975246",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "You're gonna die like shit",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "geez",
+        "user": "U15HZ01QX",
+        "ts": "1507039782.000301"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1507039819.000141"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|102 points>] :high_heel:",
+        "ts": "1507039819.000588",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": ":information_desk_person::skin-tone-5:",
+        "user": "U15HZ01QX",
+        "ts": "1507039831.000120"
+    },
+    {
+        "type": "message",
+        "text": "How does james keep getting back above 100...",
+        "user": "U15J5H60P",
+        "ts": "1507039849.000763"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HZ01QX",
+        "ts": "1507039864.000076",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/ritaora-rita-ora-xT9IgEP83Fa3p4vrYA",
+                "image_url": "https:\/\/media1.giphy.com\/media\/xT9IgEP83Fa3p4vrYA\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1113377,
+                "is_animated": true,
+                "title": "sassy",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/ritaora\/|Rita Ora>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/ritaora-rita-ora-xT9IgEP83Fa3p4vrYA"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "terrific gif",
+        "user": "U15HZ01QX",
+        "ts": "1507039878.000015"
+    },
+    {
+        "type": "message",
+        "text": "Andrew House is leaving Sony",
+        "user": "U15J5H60P",
+        "ts": "1507039903.000576"
+    },
+    {
+        "type": "message",
+        "text": "evan secretly gives me points",
+        "user": "U15HZ01QX",
+        "ts": "1507039903.000739"
+    },
+    {
+        "type": "message",
+        "text": "nooo idea",
+        "user": "U15HY5TG8",
+        "ts": "1507040011.000246"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1507040016.000474"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well, then. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|101 points>] :high_heel:",
+        "ts": "1507040017.000411",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "im not going under with you",
+        "user": "U15HY5TG8",
+        "ts": "1507040021.000595"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> invited a fake user and plus pluses himself",
+        "user": "U15HY5TG8",
+        "ts": "1507040047.000673"
+    },
+    {
+        "type": "message",
+        "text": "the user list is public info",
+        "user": "U15HZ01QX",
+        "ts": "1507040118.000027"
+    },
+    {
+        "type": "message",
+        "text": "its either you or joe",
+        "user": "U15HZ01QX",
+        "ts": "1507040123.000555"
+    },
+    {
+        "type": "message",
+        "text": "Why doesn't anyone ever think that it's Tommy.",
+        "user": "U15J5H60P",
+        "ts": "1507040135.000207"
+    },
+    {
+        "type": "message",
+        "text": "Tommy is the quiet one.",
+        "user": "U15J5H60P",
+        "ts": "1507040146.000024"
+    },
+    {
+        "type": "message",
+        "text": "He's probably doing this to turn us against each other.",
+        "user": "U15J5H60P",
+        "ts": "1507040157.000144"
+    },
+    {
+        "type": "message",
+        "text": "because james is setting autoresponses from slackbot lololololol",
+        "user": "U15HY5TG8",
+        "ts": "1507040171.000435"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1505922515000220>",
+        "user": "U15HZ01QX",
+        "ts": "1507040172.000087",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1505922515000220",
+                "fallback": "[September 20th, 2017 8:48 AM] james: yeah i cant remember who that is",
+                "ts": "1505922515.000220",
+                "author_id": "U15HZ01QX",
+                "author_subname": "James Edwards",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "yeah i cant remember who that is",
+                "author_name": "James Edwards",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HZ01QX",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2016-05-02\/39623985698_192575cf39c03f4d25cd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1507040191.000372"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|139 points>] :high_heel:",
+        "ts": "1507040192.000312",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "Hella",
+        "user": "U15J5H60P",
+        "ts": "1507040193.000186"
+    },
+    {
+        "type": "message",
+        "text": "Ass",
+        "user": "U15J5H60P",
+        "ts": "1507040194.000231"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15HY5TG8",
+        "ts": "1507040195.000206"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "I see. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|138 points>] :high_heel:",
+        "ts": "1507040196.000121",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15J5H60P",
+        "ts": "1507040198.000036"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HZ01QX> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040198.000134"
+    },
+    {
+        "type": "message",
+        "text": "Doesn't even work",
+        "user": "U15J5H60P",
+        "ts": "1507040203.000451"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15J5H60P",
+        "ts": "1507040206.000561"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Well, then. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|138 points>] :high_heel:",
+        "ts": "1507040207.000190",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15J5H60P",
+        "ts": "1507040209.000324"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> --",
+        "user": "U15J5H60P",
+        "ts": "1507040210.000058"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Ouch. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|137 points>] :high_heel:",
+        "ts": "1507040210.000210",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh dear. [<@U15HZ01QX>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|136 points>] :high_heel:",
+        "ts": "1507040210.000757",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX> ==",
+        "user": "U15J5H60P",
+        "ts": "1507040216.000436"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "FYI <@U15J5H60P>, <@U15HZ01QX> has <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|137 points>",
+        "ts": "1507040217.000111",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "slander",
+        "user": "U15HZ01QX",
+        "ts": "1507040218.000381"
+    },
+    {
+        "type": "message",
+        "text": "Hella",
+        "user": "U15J5H60P",
+        "ts": "1507040220.000049"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HZ01QX",
+        "ts": "1507040221.000088"
+    },
+    {
+        "type": "message",
+        "text": "Ass",
+        "user": "U15J5H60P",
+        "ts": "1507040221.000287"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HZ01QX",
+        "ts": "1507040222.000348"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HZ01QX",
+        "ts": "1507040223.000493"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040257.000239"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040257.000303"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040259.000410"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040259.000467"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040261.000251"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040261.000331"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040276.000291"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040276.000379"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040277.000293"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040277.000384"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040278.000848"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040279.000105"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040280.000532"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040280.000641"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040281.000523"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040282.000074"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040282.000809"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040283.000076"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040284.000233"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040284.000294"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040285.000256"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040285.000373"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040286.000603"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040286.000687"
+    },
+    {
+        "type": "message",
+        "text": "jee",
+        "user": "U15HY5TG8",
+        "ts": "1507040287.000556"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "<@U15HY5TG8> ++",
+        "user": "USLACKBOT",
+        "ts": "1507040288.000066"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1507040292.000360"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1507040292.000433",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@U15HZ01QX>  [164 points] :high_heel:\n2.  <@U15HY5TG8>  [32 points] \n3.  <@U15HRTAHL>  [25 points] \n4.  <@U15HSHSS2>  [-3 points] \n5.  <@U15J5H60P>  [-71 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bunnies  [1 point] :cocktail:\n1.  @lilly  [1 point] \n1.  @nm  [1 point] \n2.  @NM  [-1 points] \n2.  @ev  [-1 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> ==",
+        "user": "U15J5H60P",
+        "ts": "1507040328.000156"
+    },
+    {
+        "type": "message",
+        "text": "It's dead",
+        "user": "U15J5H60P",
+        "ts": "1507040336.000370"
+    },
+    {
+        "type": "message",
+        "text": "thats enough of that",
+        "user": "U15HRTAHL",
+        "ts": "1507040342.000602"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1507040348.000631"
+    },
+    {
+        "type": "message",
+        "text": "<@U72Q808MN> leaderboard",
+        "user": "U15HY5TG8",
+        "ts": "1507040379.000362"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "",
+        "ts": "1507040379.000444",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ",
+        "attachments": [
+            {
+                "fallback": "Leaderboard",
+                "text": "As requested. Also, <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|See full list>",
+                "id": 1,
+                "color": "b46ab1",
+                "fields": [
+                    {
+                        "title": "Users",
+                        "value": "1.  <@U15HZ01QX>  [164 points] :high_heel:\n2.  <@U15HY5TG8>  [32 points] \n3.  <@U15HRTAHL>  [25 points] \n4.  <@U15HSHSS2>  [-3 points] \n5.  <@U15J5H60P>  [-71 points] ",
+                        "short": true
+                    },
+                    {
+                        "title": "Things",
+                        "value": "1.  @bunnies  [1 point] :cocktail:\n1.  @lilly  [1 point] \n1.  @nm  [1 point] \n2.  @NM  [-1 points] \n2.  @ev  [-1 points] ",
+                        "short": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "ayyy",
+        "user": "U15HY5TG8",
+        "ts": "1507040382.000345"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> --",
+        "user": "U15HY5TG8",
+        "ts": "1507040390.000514"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Not so fast. [<@U15HRTAHL>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|24 points>]",
+        "ts": "1507040391.000152",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/g.co\/madebygoogle2017>",
+        "user": "U15HRTAHL",
+        "ts": "1507040672.000271",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "October 4th - Google Event",
+                "title_link": "http:\/\/g.co\/madebygoogle2017",
+                "text": "There's something new to love on October 4th.",
+                "fallback": "YouTube: October 4th - Google Event",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0YGoxbeSzLc\/maxresdefault_live.jpg",
+                "from_url": "http:\/\/g.co\/madebygoogle2017",
+                "thumb_width": 1280,
+                "thumb_height": 720,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "!Remindme on Ocober 4th",
+        "user": "U15J5H60P",
+        "ts": "1507040698.000126"
+    },
+    {
+        "type": "message",
+        "text": "That would've been nice if they could get that screen all the way to the bottom tho",
+        "user": "U15J5H60P",
+        "ts": "1507040746.000340"
+    },
+    {
+        "type": "message",
+        "text": "Do you guys use wikibuy when ordering things from amazon?",
+        "user": "U15HY5TG8",
+        "ts": "1507045143.000784"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HZ01QX",
+        "ts": "1507045170.000462"
+    },
+    {
+        "type": "message",
+        "text": "have you heard of it? or do you just not use it",
+        "user": "U15HY5TG8",
+        "ts": "1507045220.000413"
+    },
+    {
+        "type": "message",
+        "text": "the former",
+        "user": "U15HZ01QX",
+        "ts": "1507045312.000350"
+    },
+    {
+        "type": "message",
+        "text": "I use it.",
+        "user": "U15J5H60P",
+        "ts": "1507045338.000491"
+    },
+    {
+        "type": "message",
+        "text": "never heard of it",
+        "user": "U15HRTAHL",
+        "ts": "1507045376.000397"
+    },
+    {
+        "type": "message",
+        "text": "gotcha. and nice nice! i was just curious if you cared if you got it through amazon or if you would just wait depending on what it is, for the cheaper price",
+        "user": "U15HY5TG8",
+        "ts": "1507045377.000482"
+    },
+    {
+        "type": "message",
+        "text": "what is it",
+        "user": "U15HRTAHL",
+        "ts": "1507045379.000055"
+    },
+    {
+        "type": "message",
+        "text": "It's a chrome plugin",
+        "user": "U15J5H60P",
+        "ts": "1507045400.000161"
+    },
+    {
+        "type": "message",
+        "text": "chrome extension that runs while youre viewing a product on amazon to determine if its the best price",
+        "user": "U15HY5TG8",
+        "ts": "1507045402.000077"
+    },
+    {
+        "type": "message",
+        "text": "^",
+        "user": "U15J5H60P",
+        "ts": "1507045405.000563"
+    },
+    {
+        "type": "message",
+        "text": "sweet",
+        "user": "U15HRTAHL",
+        "ts": "1507045407.000292"
+    },
+    {
+        "type": "message",
+        "text": "That way you get the best price on your grill.",
+        "user": "U15J5H60P",
+        "ts": "1507045419.000485"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1507045425.000277"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>-- <@U15J5H60P>-- for not mentioning this before I bought the grill",
+        "user": "U15HRTAHL",
+        "ts": "1507045467.000021"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Oh, I see. [<@U15HY5TG8>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1507045468.000490",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "Condolences. [<@U15J5H60P>, now at <http:\/\/slack.com\/oauth\/authorize?scope=identity.basic,identity.team&amp;client_id=155258850855.159311307222&amp;redirect_uri=http:\/\/plusplus.chat\/leaderboards\/freeuwmke\/team_leaderboard&amp;state=weloveplusplus|-1 point>]",
+        "ts": "1507045469.000238",
+        "username": "PlusPlus",
+        "bot_id": "B74ANQZBQ"
+    },
+    {
+        "type": "message",
+        "text": ":disappointed:",
+        "user": "U15J5H60P",
+        "ts": "1507045476.000146"
+    },
+    {
+        "type": "message",
+        "text": "Should never have brought it up.",
+        "user": "U15J5H60P",
+        "ts": "1507045480.000508"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1507045539.000718"
+    },
+    {
+        "type": "message",
+        "text": "alright tell me how this makes sense. Im ordering keurig cups right now. You have the choices of $11.99 - 24 count or $50.99 for 72 count....is amazon fucking high?",
+        "user": "U15HY5TG8",
+        "ts": "1507045652.000179"
+    },
+    {
+        "type": "message",
+        "text": "Vendors set prices",
+        "user": "U15J5H60P",
+        "ts": "1507045672.000158"
+    },
+    {
+        "type": "message",
+        "text": "Not Amazon",
+        "user": "U15J5H60P",
+        "ts": "1507045674.000030",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1507045678.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "^",
+        "user": "U15HZ01QX",
+        "ts": "1507045686.000656"
+    },
+    {
+        "type": "message",
+        "text": "in this case, the product says \"distributed and sold by Amazon\"",
+        "user": "U15HY5TG8",
+        "ts": "1507045692.000068"
+    },
+    {
+        "type": "message",
+        "text": "Still comes from Vendors",
+        "user": "U15J5H60P",
+        "ts": "1507045700.000660"
+    },
+    {
+        "type": "message",
+        "text": "i dont think it does in this case though. I think Amazon is a buyer of the cups at wholesale price, so they are the real seller",
+        "user": "U15HY5TG8",
+        "ts": "1507045769.000291"
+    },
+    {
+        "type": "message",
+        "text": "but anyways, whether its amazon or some other seller, are they totally high?",
+        "user": "U15HY5TG8",
+        "ts": "1507045824.000449"
+    },
+    {
+        "type": "message",
+        "text": "picture for proof that im not an idiot like all the others that think amazon sells everything",
+        "user": "U15HY5TG8",
+        "ts": "1507045936.000785"
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "client_msg_id": "c91b6ceb-fcf2-4002-87e3-4d1e55737834",
+        "type": "message",
+        "text": "my robinhood app is fucking up",
+        "user": "U15HRTAHL",
+        "ts": "1555339671.000200"
+    },
+    {
+        "client_msg_id": "82ed7da4-88a7-4fe9-b2e0-8d315f7cfca1",
+        "type": "message",
+        "text": "it said I’m down $400 today",
+        "user": "U15HRTAHL",
+        "ts": "1555339678.000500"
+    },
+    {
+        "client_msg_id": "b5bb4f96-5fe6-45c0-9bde-74f4cd3f93b8",
+        "type": "message",
+        "text": "and it says GE is down 73%",
+        "user": "U15HRTAHL",
+        "ts": "1555339687.000800"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<@U15J5H60P> fetched a quote with: `\/quote`",
+        "ts": "1555339700.001000",
+        "bot_id": "BG61J4SBC",
+        "attachments": [
+            {
+                "callback_id": "quote",
+                "fallback": "GE - General Electric Company",
+                "title": "GE - General Electric Company",
+                "footer": "<http:\/\/finance.yahoo.com\/q?s=GE&amp;ql=1|Yahoo!> | <http:\/\/www.google.com\/finance?q=GE|Google> | <http:\/\/finviz.com\/quote.ashx?a=116802528&amp;t=GE|Finviz> | <http:\/\/stocktwits.com\/symbol\/GE|ST>",
+                "id": 1,
+                "title_link": "https:\/\/closingbell.co",
+                "ts": 1555339666,
+                "color": "dc3c5a",
+                "fields": [
+                    {
+                        "title": "Price",
+                        "value": "8.81",
+                        "short": true
+                    },
+                    {
+                        "title": "Change",
+                        "value": "-0.19 (-2.17%)",
+                        "short": true
+                    },
+                    {
+                        "title": "Volume",
+                        "value": "23,536,396",
+                        "short": true
+                    },
+                    {
+                        "title": "Avg Volume",
+                        "value": "97,610,000",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating",
+                        "value": "3.4\/5 (13 analysts)",
+                        "short": true
+                    },
+                    {
+                        "title": "Price Target",
+                        "value": "12.59 (+43.01%)",
+                        "short": true
+                    }
+                ],
+                "actions": [
+                    {
+                        "id": "1",
+                        "name": "chart",
+                        "text": "↻ Chart",
+                        "type": "button",
+                        "value": "4455",
+                        "style": "primary"
+                    },
+                    {
+                        "id": "2",
+                        "name": "news",
+                        "text": "News",
+                        "type": "button",
+                        "value": "4455",
+                        "style": ""
+                    },
+                    {
+                        "id": "3",
+                        "name": "about",
+                        "text": "About",
+                        "type": "button",
+                        "value": "4455",
+                        "style": ""
+                    },
+                    {
+                        "id": "4",
+                        "name": "stats",
+                        "text": "Stats",
+                        "type": "button",
+                        "value": "4455",
+                        "style": ""
+                    }
+                ]
+            },
+            {
+                "fallback": "Chart",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?a=116802528&t=GE&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 32479,
+                "title": "Chart",
+                "id": 2,
+                "title_link": "http:\/\/finviz.com\/quote.ashx?a=116802528&t=GE",
+                "color": "00465a"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "44e836ea-6149-4b16-8a27-226c70eb4f5a",
+        "type": "message",
+        "text": "I'd laugh if GE was actually down 73%",
+        "user": "U15J5H60P",
+        "ts": "1555339706.001200"
+    },
+    {
+        "client_msg_id": "92e4b667-a63b-4e7f-ac0e-e3c21d63abe4",
+        "type": "message",
+        "text": "it’s believable",
+        "user": "U15HRTAHL",
+        "ts": "1555339713.001400"
+    },
+    {
+        "client_msg_id": "c4b34fbd-e76f-416c-a4aa-e838f62640d7",
+        "type": "message",
+        "text": "My robinhood has the correct info",
+        "user": "U15J5H60P",
+        "ts": "1555339741.001700"
+    },
+    {
+        "client_msg_id": "4ae8264f-24a0-4c95-bdd9-e85990da2723",
+        "type": "message",
+        "text": "#AndroidProblems",
+        "user": "U15J5H60P",
+        "ts": "1555339746.001900"
+    },
+    {
+        "client_msg_id": "ef64f780-407d-4ff0-839b-b074a5c65ee5",
+        "type": "message",
+        "text": "you don’t have robinhood?",
+        "user": "U15HRTAHL",
+        "ts": "1555339752.002200"
+    },
+    {
+        "client_msg_id": "9e24af35-021a-4c40-9152-56b790f15a13",
+        "type": "message",
+        "text": "I have the app and I use it frequently to research.",
+        "user": "U15J5H60P",
+        "ts": "1555339763.002500"
+    },
+    {
+        "client_msg_id": "90953e2a-f345-4dd0-a654-28ce69be6b74",
+        "type": "message",
+        "text": "so you have $0",
+        "user": "U15HRTAHL",
+        "ts": "1555339772.002700"
+    },
+    {
+        "client_msg_id": "47b5948a-5323-4313-b887-3a306d079340",
+        "type": "message",
+        "text": "and it’s showing a loss of $0",
+        "user": "U15HRTAHL",
+        "ts": "1555339777.002900"
+    },
+    {
+        "client_msg_id": "c69ff9dd-5683-4d4d-81eb-5984d2834d63",
+        "type": "message",
+        "text": "of course its working for you",
+        "user": "U15HRTAHL",
+        "ts": "1555339782.003200"
+    },
+    {
+        "client_msg_id": "859993be-afe7-4cda-9f45-98b9ec7a4672",
+        "type": "message",
+        "text": "But it's showing me the correct quote for GE",
+        "user": "U15J5H60P",
+        "ts": "1555339799.003700"
+    },
+    {
+        "client_msg_id": "2eee9895-063f-41c7-b216-dd982f5fe4dd",
+        "type": "message",
+        "text": "never said it was the quote",
+        "user": "U15HRTAHL",
+        "ts": "1555339807.003900"
+    },
+    {
+        "client_msg_id": "87e33e54-6f07-4625-a067-9317265ed2f5",
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1555339817.004100"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHK3PLFFU",
+                "created": 1555339827,
+                "timestamp": 1555339827,
+                "name": "Screenshot_20190415-092902.png",
+                "title": "Screenshot_20190415-092902.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 49424,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHK3PLFFU\/screenshot_20190415-092902.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHK3PLFFU\/download\/screenshot_20190415-092902.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK3PLFFU-060f4bd025\/screenshot_20190415-092902_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2160,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHK3PLFFU\/screenshot_20190415-092902.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHK3PLFFU-7f7f45dc9b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1555339827.004200",
+        "client_msg_id": "e766d2c0-61fc-4fe2-a1b3-7aad89b3f51b",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHK1C49C3",
+                "created": 1555339927,
+                "timestamp": 1555339927,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 52433,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHK1C49C3\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHK1C49C3\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 317,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 422,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 633,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 703,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 844,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHK1C49C3-cb53d39f6a\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 900,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 1092,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FHK1C49C3\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHK1C49C3-1796d3be47",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1555339930.004600"
+    },
+    {
+        "client_msg_id": "dc79fa4a-ceee-4850-bfe5-20f237ef2392",
+        "type": "message",
+        "text": "is your loss for today accurate?",
+        "user": "U15HRTAHL",
+        "ts": "1555339957.005000"
+    },
+    {
+        "client_msg_id": "F5A5CCC0-4CF4-44D8-80D3-35EB4D33A6FA",
+        "type": "message",
+        "text": "Yea",
+        "user": "U15HZ01QX",
+        "ts": "1555339992.005300"
+    },
+    {
+        "client_msg_id": "e9c30bb1-e9a3-4566-9ad8-bc6d06350fd9",
+        "type": "message",
+        "text": "That's 69% down from it's all time high",
+        "user": "U15J5H60P",
+        "ts": "1555340007.005600"
+    },
+    {
+        "client_msg_id": "cc2968b6-2f63-4eea-acc2-5f301e27451a",
+        "type": "message",
+        "text": "i have no idea why it’s saying down $400",
+        "user": "U15HRTAHL",
+        "ts": "1555340187.006000"
+    },
+    {
+        "client_msg_id": "A36EA437-554F-4103-8F78-B742AEFC6CB5",
+        "type": "message",
+        "text": "Probably includes your whole weekend",
+        "user": "U15HZ01QX",
+        "ts": "1555340213.006500"
+    },
+    {
+        "client_msg_id": "0b4043a8-48c7-426a-bf74-8be67dff8901",
+        "type": "message",
+        "text": "that doesn’t make sense",
+        "user": "U15HRTAHL",
+        "ts": "1555340243.006800"
+    }
+]

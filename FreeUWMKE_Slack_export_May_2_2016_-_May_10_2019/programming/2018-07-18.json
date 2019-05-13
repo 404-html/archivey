@@ -1,0 +1,797 @@
+[
+    {
+        "client_msg_id": "fdd5d520-de0c-42b0-97ea-4e1e52a56f30",
+        "type": "message",
+        "text": "<@U15HY5TG8> remember our Tractor sensor thing?",
+        "user": "U15HRTAHL",
+        "ts": "1531936993.000583"
+    },
+    {
+        "client_msg_id": "fd0ab294-37d4-477a-ab0d-080058aca5cd",
+        "type": "message",
+        "text": "yea, did they pull it off?",
+        "user": "U15HY5TG8",
+        "ts": "1531937024.000117"
+    },
+    {
+        "client_msg_id": "f35b2ae2-8024-4457-abd6-020e7e170931",
+        "type": "message",
+        "text": "Nah, I was just thinking about that.",
+        "user": "U15HRTAHL",
+        "ts": "1531937037.000187"
+    },
+    {
+        "client_msg_id": "9f8b3112-a10f-4a5a-ac31-ad9299821dfe",
+        "type": "message",
+        "text": "My coworker who I’m taking over for has his own startup and is using bluetooth tags to track inventory and we were chatting about developing bluetooth things",
+        "user": "U15HRTAHL",
+        "ts": "1531937075.000371"
+    },
+    {
+        "client_msg_id": "0919336d-ecfa-4e72-98e5-5e1512188c85",
+        "type": "message",
+        "text": "He ran into the same issue I ran into",
+        "user": "U15HRTAHL",
+        "ts": "1531937078.000499"
+    },
+    {
+        "client_msg_id": "73115f38-cf04-4a4b-b12d-a824edf5a114",
+        "type": "message",
+        "text": "Bluetooth is completely different from Bluetooth low energy",
+        "user": "U15HRTAHL",
+        "ts": "1531937092.000602"
+    },
+    {
+        "client_msg_id": "7c7918ca-ea2a-4206-b9e0-ce7ace125ea5",
+        "type": "message",
+        "text": "Building software that interacts with hardware is pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1531937128.000310"
+    },
+    {
+        "client_msg_id": "39f1a78a-4ffd-4966-b7a3-607d0c2d13e9",
+        "type": "message",
+        "text": "I might have to dust off my arduino kit",
+        "user": "U15HRTAHL",
+        "ts": "1531937136.000324"
+    },
+    {
+        "client_msg_id": "64c9ff87-f0dd-41b0-9f2d-48a50d637467",
+        "type": "message",
+        "text": "What was the issue again? and yeah I want to build an irrigation system for my plants with my raspberry pi",
+        "user": "U15HY5TG8",
+        "ts": "1531937255.000173"
+    },
+    {
+        "client_msg_id": "ae514061-961a-454a-b870-92df4a5dc7a4",
+        "type": "message",
+        "text": "I was using a bluetooth library to try to connect with the arduino",
+        "user": "U15HRTAHL",
+        "ts": "1531937310.000462"
+    },
+    {
+        "client_msg_id": "751de38e-42bf-4bd2-9ffa-1c94bafb7637",
+        "type": "message",
+        "text": "and it wasn’t working",
+        "user": "U15HRTAHL",
+        "ts": "1531937314.000180"
+    },
+    {
+        "client_msg_id": "3322ff2a-9243-4dfc-ace5-455cc60630a0",
+        "type": "message",
+        "text": "And then I had to use a bluetooth low energy library and it started working",
+        "user": "U15HRTAHL",
+        "ts": "1531937331.000212"
+    },
+    {
+        "client_msg_id": "d58c7e83-c8b5-4d21-be55-a55f224ad38e",
+        "type": "message",
+        "text": "ahhh ok yeah that's right",
+        "user": "U15HY5TG8",
+        "ts": "1531937450.000287"
+    },
+    {
+        "client_msg_id": "e6c53a34-6981-4f02-9c4f-6419f2f12940",
+        "type": "message",
+        "text": "What are you going to use to control the flow?",
+        "user": "U15HRTAHL",
+        "ts": "1531937705.000170"
+    },
+    {
+        "client_msg_id": "4b3b6dc1-5edc-4f54-a4f0-d4105c80cd44",
+        "type": "message",
+        "text": "not sure yet",
+        "user": "U15HY5TG8",
+        "ts": "1531937729.000367"
+    },
+    {
+        "client_msg_id": "b70c1a10-1e57-4caf-a94b-51a7eb80fbc2",
+        "type": "message",
+        "text": "there's a bunch of tutorials out there, but prob a little motor that opens a door to allow water out",
+        "user": "U15HY5TG8",
+        "ts": "1531937753.000219"
+    },
+    {
+        "client_msg_id": "a165d05b-0788-44e6-a9be-de5e9130ff30",
+        "type": "message",
+        "text": "You could probably use a balloon with a string tied around it controlled by a motor that loosens or tightens the string",
+        "user": "U15HRTAHL",
+        "ts": "1531937765.000186"
+    },
+    {
+        "client_msg_id": "14898d41-5758-4b7d-8be7-47aea8a9dacf",
+        "type": "message",
+        "text": "You could buy a water pump",
+        "user": "U15J5H60P",
+        "ts": "1531937907.000010"
+    },
+    {
+        "client_msg_id": "1b181162-039a-4e40-b744-c4e9abdfe104",
+        "type": "message",
+        "text": "<https:\/\/www.miniinthebox.com\/en\/p\/dc-3v-small-water-pump-4-5v-5v-6v-is-available_p6070066.html?currency=USD&amp;litb_from=paid_adwords_shopping&amp;country_code=us&amp;utm_source=google_shopping&amp;utm_medium=cpc&amp;adword_mt=&amp;adword_ct=222735008582&amp;adword_kw=&amp;adword_pos=1o2&amp;adword_pl=&amp;adword_net=g&amp;adword_tar=&amp;adw_src_id=33249133621_866623160_52298577732_pla-363458930361&amp;gclid=CjwKCAjwyrvaBRACEiwAcyuzRIWSavYnbwY9EkuQt-QyCW-VDu1i6iOw8qXsiT8L9-obA9HE8NxyahoCpQAQAvD_BwE>",
+        "user": "U15J5H60P",
+        "ts": "1531937918.000480",
+        "attachments": [
+            {
+                "service_name": "Miniinthebox.com",
+                "title": "[$2.99] High Quality Dc 3V Small Water Pump 4.5V 5V 6V Is Available",
+                "title_link": "https:\/\/www.miniinthebox.com\/en\/p\/dc-3v-small-water-pump-4-5v-5v-6v-is-available_p6070066.html?currency=USD&litb_from=paid_adwords_shopping&country_code=us&utm_source=google_shopping&utm_medium=cpc&adword_mt=&adword_ct=222735008582&adword_kw=&adword_pos=1o2&adword_pl=&adword_net=g&adword_tar=&adw_src_id=33249133621_866623160_52298577732_pla-363458930361&gclid=CjwKCAjwyrvaBRACEiwAcyuzRIWSavYnbwY9EkuQt-QyCW-VDu1i6iOw8qXsiT8L9-obA9HE8NxyahoCpQAQAvD_BwE",
+                "text": "I like this. Do you think I should buy it?",
+                "fallback": "Miniinthebox.com: [$2.99] High Quality Dc 3V Small Water Pump 4.5V 5V 6V Is Available",
+                "thumb_url": "https:\/\/mi0.rightinthebox.com\/images\/384x384\/201707\/jjjalq1501497786657.jpg",
+                "from_url": "https:\/\/www.miniinthebox.com\/en\/p\/dc-3v-small-water-pump-4-5v-5v-6v-is-available_p6070066.html?currency=USD&litb_from=paid_adwords_shopping&country_code=us&utm_source=google_shopping&utm_medium=cpc&adword_mt=&adword_ct=222735008582&adword_kw=&adword_pos=1o2&adword_pl=&adword_net=g&adword_tar=&adw_src_id=33249133621_866623160_52298577732_pla-363458930361&gclid=CjwKCAjwyrvaBRACEiwAcyuzRIWSavYnbwY9EkuQt-QyCW-VDu1i6iOw8qXsiT8L9-obA9HE8NxyahoCpQAQAvD_BwE",
+                "thumb_width": 384,
+                "thumb_height": 384,
+                "service_icon": "https:\/\/www.miniinthebox.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.miniinthebox.com\/en\/p\/dc-3v-small-water-pump-4-5v-5v-6v-is-available_p6070066.html?currency=USD&amp;litb_from=paid_adwords_shopping&amp;country_code=us&amp;utm_source=google_shopping&amp;utm_medium=cpc&amp;adword_mt=&amp;adword_ct=222735008582&amp;adword_kw=&amp;adword_pos=1o2&amp;adword_pl=&amp;adword_net=g&amp;adword_tar=&amp;adw_src_id=33249133621_866623160_52298577732_pla-363458930361&amp;gclid=CjwKCAjwyrvaBRACEiwAcyuzRIWSavYnbwY9EkuQt-QyCW-VDu1i6iOw8qXsiT8L9-obA9HE8NxyahoCpQAQAvD_BwE"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2a931ba2-cb0c-41df-8000-f40ecc09ee70",
+        "type": "message",
+        "text": "I mean that would be the smartest thing",
+        "user": "U15HRTAHL",
+        "ts": "1531937946.000599"
+    },
+    {
+        "client_msg_id": "e951b9f2-b490-4ca9-afbb-dff884c83b75",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1531937948.000347"
+    },
+    {
+        "client_msg_id": "1c3b8711-8d81-497c-bc13-d4586433e413",
+        "type": "message",
+        "text": "Yeahhh that's what I was meaning. Motor was not the original idea in my head haha",
+        "user": "U15HY5TG8",
+        "ts": "1531937977.000501"
+    },
+    {
+        "client_msg_id": "679bbdc9-6eb4-4802-bb71-3a4f16af9daf",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/temperature-15GPH-Water-Pump-grade\/dp\/B004HHW0FU\/ref=sr_1_3?s=industrial&amp;ie=UTF8&amp;qid=1344832496&amp;sr=1-3&amp;keywords=dc+water+pump>",
+        "user": "U15J5H60P",
+        "ts": "1531937980.000478"
+    },
+    {
+        "client_msg_id": "d41bf453-5af1-4224-9289-7e87e7f9581e",
+        "type": "message",
+        "text": "Lots of options",
+        "user": "U15J5H60P",
+        "ts": "1531937988.000390"
+    },
+    {
+        "client_msg_id": "445f8add-c157-470b-99b8-5ea8fde04dff",
+        "type": "message",
+        "text": "but I also already have a moisture sensor that I bought too",
+        "user": "U15HY5TG8",
+        "ts": "1531937992.000038"
+    },
+    {
+        "client_msg_id": "a9c01cc0-1114-4b07-b723-0a6a9ed6ae3b",
+        "type": "message",
+        "text": "Yeah I should really just sit down and do this",
+        "user": "U15HY5TG8",
+        "ts": "1531938903.000145"
+    },
+    {
+        "client_msg_id": "9f848801-8ac4-47d6-a5c2-4a1c077b914e",
+        "type": "message",
+        "text": "my cilantro already died",
+        "user": "U15HY5TG8",
+        "ts": "1531938908.000245"
+    },
+    {
+        "client_msg_id": "87e676fb-3256-4815-9330-12bfde3c3560",
+        "type": "message",
+        "text": "herbs are hard to grow",
+        "user": "U15HRTAHL",
+        "ts": "1531939041.000266"
+    },
+    {
+        "client_msg_id": "9402bfaa-a6b1-406b-aa7f-570c622c33be",
+        "type": "message",
+        "text": "I’ve had 2 rosemary plants die",
+        "user": "U15HRTAHL",
+        "ts": "1531939057.000073"
+    },
+    {
+        "client_msg_id": "6c559d8f-d537-48d3-a35c-6c68ebf0ba9e",
+        "type": "message",
+        "text": "They absolutely need to be outside",
+        "user": "U15HRTAHL",
+        "ts": "1531939065.000495"
+    },
+    {
+        "client_msg_id": "4B01C31E-7AA1-452B-83A4-7AFB14427020",
+        "type": "message",
+        "text": "Mine were fine until i went to vegas haha",
+        "user": "U15HY5TG8",
+        "ts": "1531939169.000135"
+    },
+    {
+        "client_msg_id": "E552806A-420B-436F-957E-3A3F9674275B",
+        "type": "message",
+        "text": "But yeah theyre hard",
+        "user": "U15HY5TG8",
+        "ts": "1531939175.000042"
+    },
+    {
+        "client_msg_id": "3EF1B290-0894-4DC1-B777-2568A0BCD811",
+        "type": "message",
+        "text": "My basil plant is soaking up everything though i think",
+        "user": "U15HY5TG8",
+        "ts": "1531939188.000273"
+    },
+    {
+        "client_msg_id": "BF1CB5DE-12B7-421D-A2A2-54EBFC2E67B1",
+        "type": "message",
+        "text": "<@U15HRTAHL> eric wants to use our software lol",
+        "user": "U15HY5TG8",
+        "ts": "1531952600.000066"
+    },
+    {
+        "client_msg_id": "255FBD30-53A6-4F31-B1BA-4A7AB9281006",
+        "type": "message",
+        "text": "$10000 or no deal",
+        "user": "U15J5H60P",
+        "ts": "1531954448.000206"
+    },
+    {
+        "client_msg_id": "A27CAF95-5056-4424-979F-5C587BFCAF43",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531954912.000093"
+    },
+    {
+        "client_msg_id": "70C52746-2C60-4612-8873-02526CDF2F6A",
+        "type": "message",
+        "text": "Hes telling me between 15-21% between 3 of us. Joe, mitch, and I",
+        "user": "U15HY5TG8",
+        "ts": "1531954943.000028"
+    },
+    {
+        "client_msg_id": "B9C298CF-AE34-452D-8A56-6030FBCF6EAB",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1531954956.000207"
+    },
+    {
+        "client_msg_id": "D4FC5DE1-0041-4721-A01B-0815A40F2F35",
+        "type": "message",
+        "text": "15-21% of 0 is still 0",
+        "user": "U15J5H60P",
+        "ts": "1531954969.000298"
+    },
+    {
+        "client_msg_id": "B2E58301-36A9-42B9-A789-9B6BDE7233FF",
+        "type": "message",
+        "text": "Lol right?",
+        "user": "U15HY5TG8",
+        "ts": "1531954992.000027"
+    },
+    {
+        "client_msg_id": "B6B8072D-977F-4CBA-BFBA-C49036562C5D",
+        "type": "message",
+        "text": "He's full of it lol",
+        "user": "U15J5H60P",
+        "ts": "1531955005.000180"
+    },
+    {
+        "client_msg_id": "B2B03D56-C9D0-4BAF-BF43-46152A791E7F",
+        "type": "message",
+        "text": "Idc though haha",
+        "user": "U15HY5TG8",
+        "ts": "1531955016.000260"
+    },
+    {
+        "client_msg_id": "D70BF46A-812D-4A87-AA3C-8B11462A1030",
+        "type": "message",
+        "text": "Im just changing quick",
+        "user": "U15HY5TG8",
+        "ts": "1531955097.000227"
+    },
+    {
+        "client_msg_id": "503F08BC-D77E-4BD2-B95F-AAE1D42D0DD2",
+        "type": "message",
+        "text": "How fast was it to set up bird?",
+        "user": "U15HY5TG8",
+        "ts": "1531955109.000129"
+    },
+    {
+        "client_msg_id": "870C2720-4404-4F35-BD4B-1E28BD18CBA3",
+        "type": "message",
+        "text": "5 minutes",
+        "user": "U15J5H60P",
+        "ts": "1531955231.000177"
+    },
+    {
+        "client_msg_id": "37d1e1bb-9496-4c13-a76c-1bcec39212d6",
+        "type": "message",
+        "text": "No sale ",
+        "user": "U15HRTAHL",
+        "ts": "1531968420.000170"
+    },
+    {
+        "client_msg_id": "0c4ccee7-3533-4826-8087-b311c70e446d",
+        "type": "message",
+        "text": "He can make it himself",
+        "user": "U15HRTAHL",
+        "ts": "1531968429.000210"
+    },
+    {
+        "client_msg_id": "8A25167F-DB5D-4049-A76C-D74A13293CDB",
+        "type": "message",
+        "text": "I'll remake it with you Evan",
+        "user": "U15J5H60P",
+        "ts": "1531968445.000002"
+    },
+    {
+        "client_msg_id": "336280C9-3A5B-4EAB-A4C5-69DF6379AF52",
+        "type": "message",
+        "text": "Then we can sell it",
+        "user": "U15J5H60P",
+        "ts": "1531968452.000069"
+    },
+    {
+        "client_msg_id": "DC70E40D-A1E3-4F14-87AD-9288FE96CC64",
+        "type": "message",
+        "text": "Its all good. The rest of them reported back with \"they can go fuck themselves\"",
+        "user": "U15HY5TG8",
+        "ts": "1531968479.000093"
+    },
+    {
+        "client_msg_id": "55888482-1a8a-4ac9-bb9a-d0224bf962c2",
+        "type": "message",
+        "text": "Sweet ",
+        "user": "U15HRTAHL",
+        "ts": "1531968487.000211"
+    },
+    {
+        "client_msg_id": "666AA0E8-A815-48AC-8461-7BF92BFFB8CF",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1531968491.000024"
+    },
+    {
+        "client_msg_id": "5380AF09-81C8-4772-A6E2-3B5C92F9AC37",
+        "type": "message",
+        "text": "<@U15HY5TG8> they have no idea what software costs",
+        "user": "U15J5H60P",
+        "ts": "1531968630.000051"
+    },
+    {
+        "client_msg_id": "035ADEC7-4D8B-43A2-8F18-B9C92E5B7981",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531968645.000075"
+    },
+    {
+        "client_msg_id": "EAAFB9BA-52F9-4EEB-83AD-5BE8022165BC",
+        "type": "message",
+        "text": "Yeah ik",
+        "user": "U15HY5TG8",
+        "ts": "1531968648.000028"
+    },
+    {
+        "client_msg_id": "D25F08B4-0C6D-4625-8F67-082D0C10A49B",
+        "type": "message",
+        "text": "\"just make it this weekend really quick. I'll give you $500\"",
+        "user": "U15J5H60P",
+        "ts": "1531968667.000025"
+    },
+    {
+        "client_msg_id": "1F74BAB6-4126-4EB7-BFEF-1A82B88F5F43",
+        "type": "message",
+        "text": "Also no idea how it works...even though they have a fullstack dev and 2 IT people",
+        "user": "U15HY5TG8",
+        "ts": "1531968669.000107"
+    },
+    {
+        "client_msg_id": "39482dea-b209-4ea9-b9fd-419d12244436",
+        "type": "message",
+        "text": "<@U15HY5TG8> tell them to research task rabbit",
+        "user": "U15HRTAHL",
+        "ts": "1531968695.000104"
+    },
+    {
+        "client_msg_id": "B02CAD09-31AA-4B5D-A405-B7B6C468AA53",
+        "type": "message",
+        "text": "Lol good luck",
+        "user": "U15J5H60P",
+        "ts": "1531968698.000019"
+    },
+    {
+        "client_msg_id": "DC1C09C6-EFCC-45A1-BAC9-D6042CFD0602",
+        "type": "message",
+        "text": "Thats literally what i told them to do lol",
+        "user": "U15HY5TG8",
+        "ts": "1531968710.000014"
+    },
+    {
+        "client_msg_id": "B8D055A4-2ED2-40AE-97ED-EC32FC6144C2",
+        "type": "message",
+        "text": "Or tell them to research the cost of a 21st century software service",
+        "user": "U15J5H60P",
+        "ts": "1531968721.000047"
+    },
+    {
+        "client_msg_id": "D4F842EF-AA93-47A1-8BD6-0C565125D5B7",
+        "type": "message",
+        "text": "I said you guys are making an exact replica of task rabbit....except for an even more miltered market",
+        "user": "U15HY5TG8",
+        "ts": "1531968745.000090"
+    },
+    {
+        "client_msg_id": "a832094b-3e9d-4f75-abf5-fccaee1cf828",
+        "type": "message",
+        "text": "Task rabbit does background checks",
+        "user": "U15HRTAHL",
+        "ts": "1531968760.000166"
+    },
+    {
+        "client_msg_id": "31C9FA97-3622-462D-B176-5875392BBFC4",
+        "type": "message",
+        "text": "Even if we were to make it ourselves, we would need investors to pay for our compute costs",
+        "user": "U15J5H60P",
+        "ts": "1531968763.000161"
+    },
+    {
+        "client_msg_id": "6b593de6-a7be-459d-bc3e-9e2e57e3c809",
+        "type": "message",
+        "text": "Andrew does background copy cats ",
+        "user": "U15HRTAHL",
+        "ts": "1531968781.000057"
+    },
+    {
+        "client_msg_id": "482C6B73-4DEE-4875-BE77-FB518ADB0867",
+        "type": "message",
+        "text": "I don't get it",
+        "user": "U15J5H60P",
+        "ts": "1531968792.000016"
+    },
+    {
+        "client_msg_id": "16e9e258-a5af-469d-9e30-8a38b00943a5",
+        "type": "message",
+        "text": "Domain squatting ",
+        "user": "U15HRTAHL",
+        "ts": "1531968801.000180"
+    },
+    {
+        "client_msg_id": "56c53847-bda5-4353-ae60-676799c90435",
+        "type": "message",
+        "text": "He's a cheat ",
+        "user": "U15HRTAHL",
+        "ts": "1531968807.000036"
+    },
+    {
+        "client_msg_id": "4C295515-CB37-461E-9454-87BD284FB51A",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1531968810.000039"
+    },
+    {
+        "client_msg_id": "557a2fbf-0b55-448e-b4d2-95c4551371b0",
+        "type": "message",
+        "text": "Don't listen to him ",
+        "user": "U15HRTAHL",
+        "ts": "1531968813.000166"
+    },
+    {
+        "client_msg_id": "CC184613-2D2D-4530-9B78-482D2DD7AEDE",
+        "type": "message",
+        "text": "Yeah I used to do that in college",
+        "user": "U15J5H60P",
+        "ts": "1531968819.000049"
+    },
+    {
+        "client_msg_id": "E095CD3F-A3DA-4F28-BDE8-2F97D5D1CFD6",
+        "type": "message",
+        "text": "For literally one website",
+        "user": "U15J5H60P",
+        "ts": "1531968825.000011"
+    },
+    {
+        "client_msg_id": "23B67AC0-54C3-4AB4-AD76-E81CC660862F",
+        "type": "message",
+        "text": "Yeah ik, theyre trying to account for background checks",
+        "user": "U15HY5TG8",
+        "ts": "1531968825.000092"
+    },
+    {
+        "client_msg_id": "6a315662-7c56-4a3d-af77-4c87f4f2ba69",
+        "type": "message",
+        "text": "You're still in college",
+        "user": "U15HRTAHL",
+        "ts": "1531968829.000103"
+    },
+    {
+        "client_msg_id": "23D4638A-02DC-478C-943E-CD59911E371C",
+        "type": "message",
+        "text": "Uwmceo",
+        "user": "U15J5H60P",
+        "ts": "1531968830.000202"
+    },
+    {
+        "client_msg_id": "B0C7C501-270D-4AC8-AF69-28DDBB3A058E",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531968831.000148"
+    },
+    {
+        "client_msg_id": "CB2F1F53-CBED-476A-A96A-21BEA0DE6B92",
+        "type": "message",
+        "text": "I wish I were still in college",
+        "user": "U15J5H60P",
+        "ts": "1531968856.000088"
+    },
+    {
+        "client_msg_id": "DC520939-75D6-43DD-ADB1-9821617A3DD6",
+        "type": "message",
+        "text": "Noooo",
+        "user": "U15HY5TG8",
+        "ts": "1531968867.000147"
+    },
+    {
+        "client_msg_id": "cc581845-53a2-40a2-9584-d03dfd2ef0bf",
+        "type": "message",
+        "text": "Kelly ",
+        "user": "U15HRTAHL",
+        "ts": "1531968875.000054"
+    },
+    {
+        "client_msg_id": "C32EB393-2A10-4654-BED8-A3482E826F17",
+        "type": "message",
+        "text": "Ahhhhh yissssss",
+        "user": "U15J5H60P",
+        "ts": "1531968881.000128"
+    },
+    {
+        "client_msg_id": "01E21548-2EC8-4132-A0C4-804D3F8EDFD2",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531968882.000188"
+    },
+    {
+        "client_msg_id": "E6633BC9-63E6-4E83-A238-0E8F6DA81858",
+        "type": "message",
+        "text": "Ok yeah i feel ya",
+        "user": "U15HY5TG8",
+        "ts": "1531968888.000116"
+    },
+    {
+        "client_msg_id": "175F9E03-66B4-41AA-BA46-52ACE9264713",
+        "type": "message",
+        "text": "That pussy was good",
+        "user": "U15J5H60P",
+        "ts": "1531968890.000027"
+    },
+    {
+        "client_msg_id": "F90F7270-D2BB-4CCE-900D-429935B54FEF",
+        "type": "message",
+        "text": "And Dem titties",
+        "user": "U15J5H60P",
+        "ts": "1531968905.000193"
+    },
+    {
+        "client_msg_id": "1E4B91B0-EA10-45CD-8B9B-375B689A34C0",
+        "type": "message",
+        "text": "Feels good man",
+        "user": "U15J5H60P",
+        "ts": "1531968920.000096"
+    },
+    {
+        "client_msg_id": "92D78268-7DA0-42AA-99ED-A3C34C083A80",
+        "type": "message",
+        "text": "She still with him?",
+        "user": "U15HY5TG8",
+        "ts": "1531968935.000068"
+    },
+    {
+        "client_msg_id": "8BA0A833-C530-479E-85C9-427AA6720339",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1531968939.000153"
+    },
+    {
+        "client_msg_id": "5F0CD64D-EC32-4440-9401-09BF55FE35FB",
+        "type": "message",
+        "text": "Whoever the guy was",
+        "user": "U15HY5TG8",
+        "ts": "1531968952.000150"
+    },
+    {
+        "client_msg_id": "F3F08398-6FEB-45BD-9663-ED9235EFE995",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1531968953.000157"
+    },
+    {
+        "client_msg_id": "EF0A4B32-BDEB-4620-8EB3-2F6678DDB565",
+        "type": "message",
+        "text": "Her bf",
+        "user": "U15HY5TG8",
+        "ts": "1531968973.000007"
+    },
+    {
+        "client_msg_id": "83F87162-B5E5-4687-8BC6-82D9FDE0C310",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1531968995.000155"
+    },
+    {
+        "client_msg_id": "f643e183-9962-4525-bbb0-dcb65cfe1823",
+        "type": "message",
+        "text": "FlADuSzHSvRVBJCDbOFwCdzvV6lSoFSpUqBUqVKgVKlSoFTZEDAqRkEEEeYOxpUqBlpbJGiRxqFRFCKo6KqgBQPYAAKlpUqBUqVKgVKlSoFSpUqD",
+        "user": "U15HRTAHL",
+        "ts": "1531969008.000113"
+    },
+    {
+        "client_msg_id": "21403B42-309A-4709-97B8-030E912BEF55",
+        "type": "message",
+        "text": "<@U15J5H60P> kellys",
+        "user": "U15HY5TG8",
+        "ts": "1531969021.000124"
+    },
+    {
+        "client_msg_id": "B46C9475-BB61-4B47-B928-9A6FA984D450",
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15HY5TG8",
+        "ts": "1531969024.000115"
+    },
+    {
+        "client_msg_id": "3C047E43-9514-4342-B415-A16A35A5B02C",
+        "type": "message",
+        "text": "Who????",
+        "user": "U15J5H60P",
+        "ts": "1531969028.000027"
+    },
+    {
+        "client_msg_id": "4A47BD1A-F1D4-41ED-BB4B-7612FA2B3228",
+        "type": "message",
+        "text": "I give up",
+        "user": "U15HY5TG8",
+        "ts": "1531969036.000028"
+    },
+    {
+        "client_msg_id": "7E896F10-BBA6-410E-AB2C-7A225C0C8A81",
+        "type": "message",
+        "text": "Never heard of him",
+        "user": "U15J5H60P",
+        "ts": "1531969037.000096"
+    },
+    {
+        "client_msg_id": "09CC6B41-68FC-416C-A916-4E56B3B0E88C",
+        "type": "message",
+        "text": "What are you talking about lol",
+        "user": "U15HY5TG8",
+        "ts": "1531969049.000021"
+    },
+    {
+        "client_msg_id": "6C9CB62C-AA3F-4B6C-A59B-68D34654D10F",
+        "type": "message",
+        "text": "Idk his name",
+        "user": "U15HY5TG8",
+        "ts": "1531969052.000042"
+    },
+    {
+        "client_msg_id": "873EDCCA-86F6-4F1C-81A7-0E2F7DD0D2E0",
+        "type": "message",
+        "text": "No idea what you talking about holmes",
+        "user": "U15J5H60P",
+        "ts": "1531969053.000043"
+    },
+    {
+        "client_msg_id": "3B41D150-8135-4ED6-836F-40C4A3D428A4",
+        "type": "message",
+        "text": "Who's Kelly?",
+        "user": "U15J5H60P",
+        "ts": "1531969057.000038"
+    },
+    {
+        "client_msg_id": "E643B0C8-2B60-4F2A-80DB-C12FDEDC8BD1",
+        "type": "message",
+        "text": "Ok",
+        "user": "U15HY5TG8",
+        "ts": "1531969060.000130",
+        "reactions": [
+            {
+                "name": "trollface",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9EB98504-8B3A-4454-B672-8F1544704C9D",
+        "type": "message",
+        "text": ":joy::joy::joy:",
+        "user": "U15J5H60P",
+        "ts": "1531969091.000124"
+    },
+    {
+        "client_msg_id": "B869F53C-D39C-4C87-AABB-BC03A9C19195",
+        "type": "message",
+        "text": "Im glad i added that lol",
+        "user": "U15HY5TG8",
+        "ts": "1531969096.000016"
+    },
+    {
+        "client_msg_id": "BC5C750E-15A0-4045-A68E-6F78563A0B05",
+        "type": "message",
+        "text": ":troll: ",
+        "user": "U15J5H60P",
+        "ts": "1531969113.000215"
+    },
+    {
+        "client_msg_id": "4244F31C-E455-489D-96A8-2452B32BFD99",
+        "type": "message",
+        "text": "Oh Kelly",
+        "user": "U15J5H60P",
+        "ts": "1531969131.000139"
+    },
+    {
+        "client_msg_id": "8E06F122-93E7-49BC-A2E5-F3323486EF1A",
+        "type": "message",
+        "text": "How I'd fuck her again",
+        "user": "U15J5H60P",
+        "ts": "1531969137.000148"
+    },
+    {
+        "client_msg_id": "6D474693-AAD2-4BC6-B192-A12FAE24BF9F",
+        "type": "message",
+        "text": "Stupid ass military boyfriend",
+        "user": "U15J5H60P",
+        "ts": "1531969151.000136"
+    },
+    {
+        "client_msg_id": "1705AE18-DAC3-41B6-800E-CC8FC5F22ACB",
+        "type": "message",
+        "text": "Unbelievable",
+        "user": "U15J5H60P",
+        "ts": "1531969158.000111"
+    },
+    {
+        "client_msg_id": "54670342-F6DA-4A97-9336-45FD6AF0F285",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1531969489.000067"
+    }
+]

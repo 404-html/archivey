@@ -1,0 +1,290 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/github.com\/raywenderlich\/swift-algorithm-club>",
+        "user": "U15J5H60P",
+        "ts": "1475727858.000002",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "raywenderlich\/swift-algorithm-club",
+                "title_link": "https:\/\/github.com\/raywenderlich\/swift-algorithm-club",
+                "text": "swift-algorithm-club - Algorithms and data structures in Swift, with explanations!",
+                "fallback": "GitHub: raywenderlich\/swift-algorithm-club",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/4722515?v=3&s=400",
+                "from_url": "https:\/\/github.com\/raywenderlich\/swift-algorithm-club",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "e.v.a.n.",
+        "user": "U15J5H60P",
+        "ts": "1475727912.000004"
+    },
+    {
+        "type": "message",
+        "text": "Do you know what this is",
+        "user": "U15J5H60P",
+        "ts": "1475727916.000005"
+    },
+    {
+        "type": "message",
+        "text": "```public var count: Int {\n    return array.count\n  }\n```",
+        "user": "U15J5H60P",
+        "ts": "1475727919.000006"
+    },
+    {
+        "type": "message",
+        "text": "not sure if trick question orrrrr",
+        "user": "U15HY5TG8",
+        "ts": "1475727992.000007"
+    },
+    {
+        "type": "message",
+        "text": "Not a trick question.",
+        "user": "U15J5H60P",
+        "ts": "1475728009.000008"
+    },
+    {
+        "type": "message",
+        "text": "It looks like it acts like a function",
+        "user": "U15J5H60P",
+        "ts": "1475728016.000009"
+    },
+    {
+        "type": "message",
+        "text": "Oh that’s right",
+        "user": "U15J5H60P",
+        "ts": "1475728019.000010"
+    },
+    {
+        "type": "message",
+        "text": "You don’t do swift",
+        "user": "U15J5H60P",
+        "ts": "1475728022.000011"
+    },
+    {
+        "type": "message",
+        "text": "nevermind",
+        "user": "U15J5H60P",
+        "ts": "1475728023.000012"
+    },
+    {
+        "type": "message",
+        "text": "well i have to guess its basically like a lamda function",
+        "user": "U15HY5TG8",
+        "ts": "1475728073.000013"
+    },
+    {
+        "type": "message",
+        "text": "What’s a lambda funciton",
+        "user": "U15J5H60P",
+        "ts": "1475728085.000014"
+    },
+    {
+        "type": "message",
+        "text": "where you are creating a variable that is assigned by an unnamed function basically",
+        "user": "U15HY5TG8",
+        "ts": "1475728137.000015"
+    },
+    {
+        "type": "message",
+        "text": "Ahhhhhhh",
+        "user": "U15J5H60P",
+        "ts": "1475728149.000016"
+    },
+    {
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1475728151.000017"
+    },
+    {
+        "type": "message",
+        "text": "You taught me something. That’s new.",
+        "user": "U15J5H60P",
+        "ts": "1475728159.000018"
+    },
+    {
+        "type": "message",
+        "text": "its just another way of saying what we learned in Tian's class",
+        "user": "U15HY5TG8",
+        "ts": "1475728179.000019"
+    },
+    {
+        "type": "message",
+        "text": "Oh that explains it. I didn’t learn anything in that class.",
+        "user": "U15J5H60P",
+        "ts": "1475728194.000020"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1475728199.000021"
+    },
+    {
+        "type": "message",
+        "text": "i had to write unit tests at masterlock that revolved around lambda's",
+        "user": "U15HY5TG8",
+        "ts": "1475728215.000022"
+    },
+    {
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1475728222.000023"
+    },
+    {
+        "type": "message",
+        "text": "yea haha",
+        "user": "U15HY5TG8",
+        "ts": "1475728231.000024"
+    },
+    {
+        "type": "message",
+        "text": "so is what i just said how the code you sent is treated?",
+        "user": "U15HY5TG8",
+        "ts": "1475728250.000025"
+    },
+    {
+        "type": "message",
+        "text": "Yup.",
+        "user": "U15J5H60P",
+        "ts": "1475728316.000026"
+    },
+    {
+        "type": "message",
+        "text": "You were right.",
+        "user": "U15J5H60P",
+        "ts": "1475728319.000027"
+    },
+    {
+        "type": "message",
+        "text": "nice nice ha",
+        "user": "U15HY5TG8",
+        "ts": "1475728323.000028"
+    },
+    {
+        "type": "message",
+        "text": "Someone should make a reddit app for apple tv",
+        "user": "U15J5H60P",
+        "ts": "1475728348.000029"
+    },
+    {
+        "type": "message",
+        "text": "why",
+        "user": "U15HY5TG8",
+        "ts": "1475728355.000030"
+    },
+    {
+        "type": "message",
+        "text": "Because the only one available sucks because it costs money  lol",
+        "user": "U15J5H60P",
+        "ts": "1475728369.000031"
+    },
+    {
+        "type": "message",
+        "text": "i guess im asking why you use reddit on apple tv",
+        "user": "U15HY5TG8",
+        "ts": "1475728405.000032"
+    },
+    {
+        "type": "message",
+        "text": "This is a cool collection of swift help - <https:\/\/github.com\/vsouza\/awesome-ios>",
+        "user": "U15J5H60P",
+        "ts": "1475728406.000033",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "vsouza\/awesome-ios",
+                "title_link": "https:\/\/github.com\/vsouza\/awesome-ios",
+                "text": "awesome-ios - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
+                "fallback": "GitHub: vsouza\/awesome-ios",
+                "thumb_url": "https:\/\/avatars3.githubusercontent.com\/u\/484656?v=3&s=400",
+                "from_url": "https:\/\/github.com\/vsouza\/awesome-ios",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/github.com\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "and frameworks",
+        "user": "U15J5H60P",
+        "ts": "1475728409.000035"
+    },
+    {
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1475728420.000036"
+    },
+    {
+        "type": "message",
+        "text": "Because porn",
+        "user": "U15J5H60P",
+        "ts": "1475728422.000037"
+    },
+    {
+        "type": "message",
+        "text": "you use reddit for porn?",
+        "user": "U15HY5TG8",
+        "ts": "1475728477.000038"
+    },
+    {
+        "type": "message",
+        "text": "To warm up. Yeah.",
+        "user": "U15J5H60P",
+        "ts": "1475728485.000039"
+    },
+    {
+        "type": "message",
+        "text": "lol sad",
+        "user": "U15HY5TG8",
+        "ts": "1475728493.000040"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/redditp.com\/user\/Budzy05\/m\/myish>",
+        "user": "U15J5H60P",
+        "ts": "1475728507.000041",
+        "attachments": [
+            {
+                "title": "redditP",
+                "title_link": "http:\/\/redditp.com\/user\/Budzy05\/m\/myish",
+                "text": "A fullscreen presentation or slide show of reddit. RedditP",
+                "fallback": "redditP",
+                "from_url": "http:\/\/redditp.com\/user\/Budzy05\/m\/myish",
+                "service_icon": "http:\/\/redditp.com\/images\/favicon.png",
+                "service_name": "redditp.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "why did tinder allow for spotify connection?",
+        "user": "U15HY5TG8",
+        "ts": "1475728521.000043"
+    },
+    {
+        "type": "message",
+        "text": "To have people find interests in the same music",
+        "user": "U15J5H60P",
+        "ts": "1475728539.000044"
+    },
+    {
+        "type": "message",
+        "text": "haha nice slideshow and hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1475728573.000045"
+    }
+]

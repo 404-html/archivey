@@ -1,0 +1,26 @@
+[
+    {
+        "client_msg_id": "90e2393c-e191-43cf-b1d6-d647e702467e",
+        "type": "message",
+        "text": "<https:\/\/www.augur.net\/>",
+        "user": "U15HRTAHL",
+        "ts": "1537475114.000200",
+        "attachments": [
+            {
+                "title": "Augur | A Decentralized Oracle &amp; Prediction Market Protocol",
+                "title_link": "https:\/\/www.augur.net\/",
+                "text": "Augur is a decentralized oracle and prediction market protocol built on the Ethereum blockchain. It allows you to forecast events and be rewarded for predicting them correctly.",
+                "fallback": "Augur | A Decentralized Oracle &amp; Prediction Market Protocol",
+                "image_url": "https:\/\/augur.net\/dist\/images\/meta_logo.png",
+                "from_url": "https:\/\/www.augur.net\/",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 41145,
+                "service_icon": "https:\/\/www.augur.net\/favicon\/apple-icon-57x57.png",
+                "service_name": "augur.net",
+                "id": 1,
+                "original_url": "https:\/\/www.augur.net\/"
+            }
+        ]
+    }
+]

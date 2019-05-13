@@ -1,0 +1,511 @@
+[
+    {
+        "type": "message",
+        "text": "I am not ready to be back here",
+        "user": "U15HRTAHL",
+        "ts": "1499260759.261614"
+    },
+    {
+        "type": "message",
+        "text": "I hear ya loud and clear",
+        "user": "U15J5H60P",
+        "ts": "1499260855.308027"
+    },
+    {
+        "type": "message",
+        "text": "Did you guys take off monday?",
+        "user": "U15HY5TG8",
+        "ts": "1499261234.493676"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1499261745.757831"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh nice nice",
+        "user": "U15HY5TG8",
+        "ts": "1499261775.773144"
+    },
+    {
+        "type": "message",
+        "text": "Feels like going back to school after spring break smh",
+        "user": "U15HZ01QX",
+        "ts": "1499262163.978782"
+    },
+    {
+        "type": "message",
+        "text": "My slack is broken apparently ",
+        "user": "U15HZ01QX",
+        "ts": "1499262190.993118"
+    },
+    {
+        "type": "message",
+        "text": "Looks like its working to me",
+        "user": "U15HY5TG8",
+        "ts": "1499262752.302605"
+    },
+    {
+        "type": "message",
+        "text": "I'm wondering if I should have taken the rest of the week off",
+        "user": "U15HZ01QX",
+        "ts": "1499262781.319222"
+    },
+    {
+        "type": "message",
+        "text": "Probably",
+        "user": "U15HY5TG8",
+        "ts": "1499262815.338599"
+    },
+    {
+        "type": "message",
+        "text": "I wish I had",
+        "user": "U15HRTAHL",
+        "ts": "1499262949.416620"
+    },
+    {
+        "type": "message",
+        "text": "I wish I had as well",
+        "user": "U15J5H60P",
+        "ts": "1499262986.437636"
+    },
+    {
+        "type": "message",
+        "text": "I start my new rotation today but pretty much my entire team is gone",
+        "user": "U15HZ01QX",
+        "ts": "1499263147.531469"
+    },
+    {
+        "type": "message",
+        "text": "lol nice",
+        "user": "U15HRTAHL",
+        "ts": "1499263158.537844"
+    },
+    {
+        "type": "message",
+        "text": "Niiice",
+        "user": "U15HY5TG8",
+        "ts": "1499263165.542069"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1499263166.542625"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> do you know anyone from the \"Digital Innovations and Product Support Department\"",
+        "user": "U15HRTAHL",
+        "ts": "1499264278.187433"
+    },
+    {
+        "type": "message",
+        "text": "Nope!",
+        "user": "U15J5H60P",
+        "ts": "1499266050.255297"
+    },
+    {
+        "type": "message",
+        "text": "Whats the easiest way to check an array so that a type is in order? For example \nItem1\nItem1\nItem1\nItem2\nItem2\nItem1 &lt;-- this should be up with the others",
+        "user": "U15HY5TG8",
+        "ts": "1499289258.424955"
+    },
+    {
+        "type": "message",
+        "text": "sort?",
+        "user": "U15HRTAHL",
+        "ts": "1499289370.471553"
+    },
+    {
+        "type": "message",
+        "text": "or what do you mean check?",
+        "user": "U15HRTAHL",
+        "ts": "1499289376.474259"
+    },
+    {
+        "type": "message",
+        "text": "Are you just checking if its in order? or trying to order an ordered list?",
+        "user": "U15HSHSS2",
+        "ts": "1499289376.474392"
+    },
+    {
+        "type": "message",
+        "text": "```\ncollection.sort(function(a,b) {\n    return a-b;\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1499289433.498033"
+    },
+    {
+        "type": "message",
+        "text": "that will sort it",
+        "user": "U15HRTAHL",
+        "ts": "1499289437.499695"
+    },
+    {
+        "type": "message",
+        "text": "granted its an array of integers",
+        "user": "U15HRTAHL",
+        "ts": "1499289446.503272"
+    },
+    {
+        "type": "message",
+        "text": "but you can customize the sort function",
+        "user": "U15HRTAHL",
+        "ts": "1499289454.506326"
+    },
+    {
+        "type": "message",
+        "text": "Checking. I dont want to sort it",
+        "user": "U15HY5TG8",
+        "ts": "1499289537.540838"
+    },
+    {
+        "type": "message",
+        "text": "You probably have to go through the list element by element then assuming it's in order, then when you find something you arn't expecting it means it's not in order",
+        "user": "U15HSHSS2",
+        "ts": "1499289592.564010"
+    },
+    {
+        "type": "message",
+        "text": "Assuming you know nothing about the order the list is in",
+        "user": "U15HSHSS2",
+        "ts": "1499289618.574653"
+    },
+    {
+        "type": "message",
+        "text": "make a copy",
+        "user": "U15HRTAHL",
+        "ts": "1499290515.944509"
+    },
+    {
+        "type": "message",
+        "text": "sort the copy",
+        "user": "U15HRTAHL",
+        "ts": "1499290518.945985"
+    },
+    {
+        "type": "message",
+        "text": "compare the original to the copy",
+        "user": "U15HRTAHL",
+        "ts": "1499290524.948144"
+    },
+    {
+        "type": "message",
+        "text": "The only thing im hung up on is that the length has a potential to never be the same. And <@U15HSHSS2> thats what i was doing except i am expecting the element to change, so do i keep track of like a boolean and count how many times it changes?",
+        "user": "U15HY5TG8",
+        "ts": "1499291553.329341"
+    },
+    {
+        "type": "message",
+        "text": "The only thing im hung up on is that the length has a potential to never be the same. And <@U15HSHSS2> thats what i was doing except i am expecting the element to change, so do i keep track of like a boolean and count how many times it changes? ",
+        "user": "U15HY5TG8",
+        "ts": "1499291597.345042"
+    },
+    {
+        "type": "message",
+        "text": "Are you trying to insert or just check?",
+        "user": "U15J5H60P",
+        "ts": "1499291618.352238"
+    },
+    {
+        "type": "message",
+        "text": "Just check",
+        "user": "U15HY5TG8",
+        "ts": "1499291661.367713"
+    },
+    {
+        "type": "message",
+        "text": "I guess idk exactly what you are trying to do, but if your just checking a list I would start with a boolean set to true, then just go through the list, if you find something that is out of order, set it to false and stop searching",
+        "user": "U15HSHSS2",
+        "ts": "1499291667.369703"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, I have no idea what you're asking. ",
+        "user": "U15J5H60P",
+        "ts": "1499291707.384120"
+    },
+    {
+        "type": "message",
+        "text": "Ok thats what i was doing basically",
+        "user": "U15HY5TG8",
+        "ts": "1499291708.384528"
+    },
+    {
+        "type": "message",
+        "text": "Literally just checking the order of a list?",
+        "user": "U15J5H60P",
+        "ts": "1499291724.390370"
+    },
+    {
+        "type": "message",
+        "text": "The best way to explain it is checking precedence.",
+        "user": "U15HY5TG8",
+        "ts": "1499291779.409669"
+    },
+    {
+        "type": "message",
+        "text": "Ah gotcha. ",
+        "user": "U15J5H60P",
+        "ts": "1499291789.413498"
+    },
+    {
+        "type": "message",
+        "text": "If you want to avoid writing code you could just go with joe's suggestion though",
+        "user": "U15HSHSS2",
+        "ts": "1499291837.431002"
+    },
+    {
+        "type": "message",
+        "text": "Isnt his sorting though",
+        "user": "U15HY5TG8",
+        "ts": "1499291849.435420"
+    },
+    {
+        "type": "message",
+        "text": "Sorting is involved, but its just checking the list in the end",
+        "user": "U15HSHSS2",
+        "ts": "1499291868.442481"
+    },
+    {
+        "type": "message",
+        "text": "just going through the elements one by one like you are doing now is more preformant though",
+        "user": "U15HSHSS2",
+        "ts": "1499291905.455324",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1499291954.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Maybe giving us some context will help us help you",
+        "user": "U15J5H60P",
+        "ts": "1499291905.455345"
+    },
+    {
+        "type": "message",
+        "text": "Ok ill set it up better then. Give me a minute",
+        "user": "U15HY5TG8",
+        "ts": "1499291947.470302"
+    },
+    {
+        "type": "message",
+        "text": "```list{ \nprecedence 1,\nprecedence 1,\nprecedence 1,\nprecedence 2\n}```",
+        "user": "U15HY5TG8",
+        "ts": "1499292287.590925",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1499292308.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Thats how i want it to be",
+        "user": "U15HY5TG8",
+        "ts": "1499292319.601302"
+    },
+    {
+        "type": "message",
+        "text": "Oh. Alright. ",
+        "user": "U15J5H60P",
+        "ts": "1499292370.617554"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15J5H60P",
+        "ts": "1499292397.626267"
+    },
+    {
+        "type": "message",
+        "text": "lol that's pretty much the same thing posted above but instead of the word 'item' its 'precedence', but from what im getting there are items, and each item has a precedence, and you are sorting by that...?",
+        "user": "U15HSHSS2",
+        "ts": "1499292427.635689"
+    },
+    {
+        "type": "message",
+        "text": "As far as context this is for like filling out documents, so you want \"In Progress\" documents to be listed first ahead of \"Not started\"",
+        "user": "U15HY5TG8",
+        "ts": "1499292443.640813"
+    },
+    {
+        "type": "message",
+        "text": "So you want to sort the list. ",
+        "user": "U15J5H60P",
+        "ts": "1499292469.648915"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1499292488.654914"
+    },
+    {
+        "type": "message",
+        "text": "But since im in automation, i dont sort, i check lol so i have to replicate how they sort, and that it is correct",
+        "user": "U15HY5TG8",
+        "ts": "1499292512.662263"
+    },
+    {
+        "type": "message",
+        "text": "You can make an Enum and then traverse the list whilst comparing using the Enum. ",
+        "user": "U15J5H60P",
+        "ts": "1499292553.674728"
+    },
+    {
+        "type": "message",
+        "text": "honestly if all you are doing is checking the order, just go through the list until you find something that isn't in order, if you never find something then it's in order",
+        "user": "U15HSHSS2",
+        "ts": "1499292610.692974",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "i was thinking about giving each type a value like that and just comparing that the previous is greater",
+        "user": "U15HY5TG8",
+        "ts": "1499292612.693522"
+    },
+    {
+        "type": "message",
+        "text": "Thats what i was kind of thinking but wasnt sure if you had a better option or something that does the job a little bit better",
+        "user": "U15HY5TG8",
+        "ts": "1499292662.709478"
+    },
+    {
+        "type": "message",
+        "text": "I'd go Tommy's route tbh",
+        "user": "U15J5H60P",
+        "ts": "1499292670.711965"
+    },
+    {
+        "type": "message",
+        "text": "alrighty fair enough, thanks",
+        "user": "U15HY5TG8",
+        "ts": "1499292682.716143"
+    },
+    {
+        "type": "message",
+        "text": "I not sure that there's a better way to do it. If you know nothing about the order of the list, you have to go through and check every element to make sure it's where it should be",
+        "user": "U15HSHSS2",
+        "ts": "1499292782.747268"
+    },
+    {
+        "type": "message",
+        "text": "Yea i just didnt know if using a boolean out be best",
+        "user": "U15HY5TG8",
+        "ts": "1499292953.799612"
+    },
+    {
+        "type": "message",
+        "text": "Wait you're in testing ",
+        "user": "U15HRTAHL",
+        "ts": "1499293047.827291"
+    },
+    {
+        "type": "message",
+        "text": "Dont you make the test data inputs and know the output?",
+        "user": "U15HRTAHL",
+        "ts": "1499293063.831949"
+    },
+    {
+        "type": "message",
+        "text": "Or know the expected output ",
+        "user": "U15HRTAHL",
+        "ts": "1499293081.837431"
+    },
+    {
+        "type": "message",
+        "text": "Yes and no. We know what to expect on the page from a high level, but we write tests in a way that most things are randomized",
+        "user": "U15HY5TG8",
+        "ts": "1499293206.874173"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face: ",
+        "user": "U15HRTAHL",
+        "ts": "1499293234.882278"
+    },
+    {
+        "type": "message",
+        "text": "Weird ",
+        "user": "U15HRTAHL",
+        "ts": "1499293237.883058"
+    },
+    {
+        "type": "message",
+        "text": "So i have a function the chooses these 5 items but idk at which precedence each of the 5 are until i check them",
+        "user": "U15HY5TG8",
+        "ts": "1499293248.886383"
+    },
+    {
+        "type": "message",
+        "text": "You should know your edge cases and test them with data you know ",
+        "user": "U15HRTAHL",
+        "ts": "1499293263.890847"
+    },
+    {
+        "type": "message",
+        "text": "And know the expected outcome ",
+        "user": "U15HRTAHL",
+        "ts": "1499293273.893365"
+    },
+    {
+        "type": "message",
+        "text": "Are you testing ui or process?",
+        "user": "U15HRTAHL",
+        "ts": "1499293418.937828"
+    },
+    {
+        "type": "message",
+        "text": "Yea but then its basically restricted to that data, and the database wont allow duplicates of some stuff",
+        "user": "U15HY5TG8",
+        "ts": "1499293446.946008"
+    },
+    {
+        "type": "message",
+        "text": "Process",
+        "user": "U15HY5TG8",
+        "ts": "1499293446.946010"
+    },
+    {
+        "type": "message",
+        "text": "When i do test ui stuff, i keep track of the data i put in",
+        "user": "U15HY5TG8",
+        "ts": "1499293461.950575"
+    },
+    {
+        "type": "message",
+        "text": "Hmm yeah idk what you're doing then seems really weird you don't know what the data is",
+        "user": "U15HRTAHL",
+        "ts": "1499293483.957249"
+    },
+    {
+        "type": "message",
+        "text": "Its just not the way that some parts of our tests are written. When filling out forms, yes we do keep track of string inputs and then compare them to the database. In the case of elements of a list, we choose them at random, then compare them to the database say by like creation date",
+        "user": "U15HY5TG8",
+        "ts": "1499293716.025616"
+    },
+    {
+        "type": "message",
+        "text": "But either way i still have to check that theyre in the correct precedence",
+        "user": "U15HY5TG8",
+        "ts": "1499293731.029856"
+    },
+    {
+        "type": "message",
+        "text": "The time trials are even more insane ",
+        "user": "U15HRTAHL",
+        "ts": "1499304488.398829"
+    }
+]

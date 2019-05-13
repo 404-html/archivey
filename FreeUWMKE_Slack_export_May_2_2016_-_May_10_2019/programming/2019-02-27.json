@@ -1,0 +1,286 @@
+[
+    {
+        "client_msg_id": "ccd1cc5a-a1e7-44fb-9e36-371c02866094",
+        "type": "message",
+        "text": "why the fuck",
+        "user": "U15HY5TG8",
+        "ts": "1551301654.000200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGKSM3CPR",
+                "created": 1551301656,
+                "timestamp": 1551301656,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-27, 3:07 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 7520,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGKSM3CPR\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGKSM3CPR\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGKSM3CPR-53b258cfdb\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGKSM3CPR-53b258cfdb\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGKSM3CPR-53b258cfdb\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 110,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGKSM3CPR-53b258cfdb\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 147,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGKSM3CPR-53b258cfdb\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 612,
+                "original_h": 187,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/FGKSM3CPR\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGKSM3CPR-56bbbb697f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1551301660.000300"
+    },
+    {
+        "client_msg_id": "513735d6-835b-448d-8ee2-cf181ab10c7c",
+        "type": "message",
+        "text": "my css\n```.catalog-list-container{\n    margin:auto;\n    width:600px;\n    background-color:dimgray;\n}\n\n.catalog-tile {\n    margin: 30px;\n    width: 80px;\n    height: 120px;\n    outline: 2px dashed blue;\n    display: inline-grid;\n    background-color: lightgray;\n}\n.catalog-tile &gt; div{\n    margin:auto;\n}\n```",
+        "user": "U15HY5TG8",
+        "ts": "1551301694.000800"
+    },
+    {
+        "client_msg_id": "f24e2f88-b2a1-4db7-a7f8-501abaf090fe",
+        "type": "message",
+        "text": "my code\n```&lt;div style=\"text-align:center\"&gt;\n    &lt;div class=\"catalog-list-container\"&gt;\n        @foreach (var catalog in Model)\n        {\n            &lt;div class=\"catalog-tile\"&gt;\n                &lt;div&gt;@catalog.Description&lt;\/div&gt;\n            &lt;\/div&gt;\n        }\n\n        &lt;div class=\"catalog-tile\"&gt;\n            &lt;div&gt;Create New Catalog&lt;\/div&gt;\n        &lt;\/div&gt;\n    &lt;\/div&gt;\n&lt;\/div&gt;```",
+        "user": "U15HY5TG8",
+        "ts": "1551301716.001100"
+    },
+    {
+        "client_msg_id": "87f3a2f2-4e0b-4f29-8361-1f40d1d33eee",
+        "type": "message",
+        "text": "did you write that css?",
+        "user": "U15HRTAHL",
+        "ts": "1551301743.001300"
+    },
+    {
+        "client_msg_id": "0d1719db-09ee-40ef-bd7d-39ef17148413",
+        "type": "message",
+        "text": "yeah lol",
+        "user": "U15HY5TG8",
+        "ts": "1551301749.001500"
+    },
+    {
+        "client_msg_id": "aaeba144-8e38-4ad8-8ac4-8cbbb7c15de9",
+        "type": "message",
+        "text": "use flexbox",
+        "user": "U15HRTAHL",
+        "ts": "1551301752.001700"
+    },
+    {
+        "client_msg_id": "d1fb3c33-4ed3-4185-8a1e-370858cb4ca6",
+        "type": "message",
+        "text": "i tried that route too",
+        "user": "U15HY5TG8",
+        "ts": "1551301768.001900"
+    },
+    {
+        "client_msg_id": "ed4ad4c8-be0b-4a13-84aa-4be1e8efa956",
+        "type": "message",
+        "text": "didn't improve a damn thing",
+        "user": "U15HY5TG8",
+        "ts": "1551301774.002100"
+    },
+    {
+        "client_msg_id": "4a0c47fa-a93d-4b0a-984a-3e4a7fa736c5",
+        "type": "message",
+        "text": "for some reason, on the second box, it adds an extra margin",
+        "user": "U15HY5TG8",
+        "ts": "1551301821.002500"
+    },
+    {
+        "client_msg_id": "8ba4c014-c8e8-457e-a14d-5326c8a486fc",
+        "type": "message",
+        "text": "no idea how",
+        "user": "U15HY5TG8",
+        "ts": "1551301823.002700"
+    },
+    {
+        "client_msg_id": "fd36d58b-79fe-4398-a3a0-2d85fd43e61d",
+        "type": "message",
+        "text": "inspect the element and see if it’s picking up something from somewhere else",
+        "user": "U15HRTAHL",
+        "ts": "1551301875.003800"
+    },
+    {
+        "client_msg_id": "6baa9a49-4371-466c-a9cb-6e48e72fdbe6",
+        "type": "message",
+        "text": "currently what I'm doing",
+        "user": "U15HY5TG8",
+        "ts": "1551301926.004200"
+    },
+    {
+        "client_msg_id": "d144bd93-504d-4750-8505-b39189c78483",
+        "type": "message",
+        "text": "it's something funky with this ```.catalog-tile &gt; div{\n    margin:auto;\n}```",
+        "user": "U15HY5TG8",
+        "ts": "1551302060.004500"
+    },
+    {
+        "client_msg_id": "8ab3f150-386c-473c-b3eb-cf250dac8c30",
+        "type": "message",
+        "text": "`flexbox`",
+        "user": "U15HRTAHL",
+        "ts": "1551302097.004700"
+    },
+    {
+        "client_msg_id": "8ef50f38-ee06-4f1d-8929-8e3ce3649573",
+        "type": "message",
+        "text": "shut cho face",
+        "user": "U15HY5TG8",
+        "ts": "1551302107.004900"
+    },
+    {
+        "client_msg_id": "6C74FD1C-45A9-40B1-A4ED-AE4313E23717",
+        "type": "message",
+        "text": "Weird flexbox but okay",
+        "user": "U15J5H60P",
+        "ts": "1551302110.005100"
+    },
+    {
+        "client_msg_id": "e7dce938-50d8-4f43-bf83-21917c92009b",
+        "type": "message",
+        "text": ":face_with_rolling_eyes:",
+        "user": "U15HY5TG8",
+        "ts": "1551302132.005400"
+    },
+    {
+        "type": "message",
+        "text": "End of project... Lol",
+        "files": [
+            {
+                "id": "FGJF12GPK",
+                "created": 1551322664,
+                "timestamp": 1551322664,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 68138,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGJF12GPK\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGJF12GPK\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJF12GPK-421f52565f\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJF12GPK-421f52565f\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJF12GPK-421f52565f\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 357,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJF12GPK-421f52565f\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 477,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FGJF12GPK-421f52565f\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 712,
+                "original_h": 707,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FGJF12GPK\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGJF12GPK-875e59bb0a",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1551322664.005500",
+        "client_msg_id": "4BCA8F05-77CE-4CFF-B03C-FA6A6782B0E4"
+    },
+    {
+        "client_msg_id": "5f1fbe10-842b-4ce3-a378-c8608659f4da",
+        "type": "message",
+        "text": "that's me after a week on a project",
+        "user": "U15HRTAHL",
+        "ts": "1551322841.006000"
+    },
+    {
+        "client_msg_id": "3412683D-5112-4ED6-B08E-037FDF029E68",
+        "type": "message",
+        "text": "Same loo",
+        "user": "U15J5H60P",
+        "ts": "1551322865.006200"
+    },
+    {
+        "client_msg_id": "A92888BA-B04D-4CBA-8022-2AA7DF88231D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1551322866.006400"
+    },
+    {
+        "client_msg_id": "D51EBBA5-78A8-4139-B661-D267FA39B2C5",
+        "type": "message",
+        "text": "So projects even end?",
+        "user": "U15J5H60P",
+        "ts": "1551322871.006600"
+    },
+    {
+        "client_msg_id": "9D40FD0C-AC41-4D3D-8D55-E831B47CB8CF",
+        "type": "message",
+        "text": "Is that a thing?",
+        "user": "U15J5H60P",
+        "ts": "1551322875.006800"
+    },
+    {
+        "client_msg_id": "e01f6678-f676-4679-999d-7ca84e3d223e",
+        "type": "message",
+        "text": "no because when you're done you have to redo it because tech got updated",
+        "user": "U15HRTAHL",
+        "ts": "1551323161.007300"
+    },
+    {
+        "client_msg_id": "67a17f56-1384-4657-beae-1cbb364f1d65",
+        "type": "message",
+        "text": "MVC 2 is now MVC 3",
+        "user": "U15HRTAHL",
+        "ts": "1551323168.007500"
+    },
+    {
+        "client_msg_id": "c6ed3c51-3377-4f02-9894-48af79db4d43",
+        "type": "message",
+        "text": "react?",
+        "user": "U15HRTAHL",
+        "ts": "1551323169.007700"
+    },
+    {
+        "client_msg_id": "83244f28-6c1c-415c-96df-f5c98ca779a1",
+        "type": "message",
+        "text": "pshhhh, now its some other framework called flow",
+        "user": "U15HRTAHL",
+        "ts": "1551323182.008000"
+    },
+    {
+        "client_msg_id": "7D288706-E5D4-4520-9EDC-F2AC50C56272",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1551323183.008200"
+    }
+]

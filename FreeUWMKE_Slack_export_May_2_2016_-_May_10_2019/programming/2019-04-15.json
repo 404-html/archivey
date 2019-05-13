@@ -1,0 +1,276 @@
+[
+    {
+        "client_msg_id": "89e466c8-e7be-4273-aacb-27d83801444a",
+        "type": "message",
+        "text": "Anyone use python for data transfer?",
+        "user": "U15J5H60P",
+        "ts": "1555348211.000300"
+    },
+    {
+        "client_msg_id": "c3016994-745b-42db-9671-664f19b1ee41",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1555348213.000500"
+    },
+    {
+        "client_msg_id": "9ce582b6-d4ed-4417-91c7-864622be2bac",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1555348215.000700"
+    },
+    {
+        "client_msg_id": "d5d7a5a7-c853-468d-bf15-333614cd9cc8",
+        "type": "message",
+        "text": "what makes it a python specific issue? arent you pretty much just hitting an endpoint and setting some data in a http body?",
+        "user": "U15HRTAHL",
+        "ts": "1555348418.001600"
+    },
+    {
+        "client_msg_id": "daf80bb9-e714-4e00-b0ee-a535cbcab18f",
+        "type": "message",
+        "text": "It's ETL. Doing an `executemany` on a raw SQL query and I'm trying to figure out how to reuse a parameter\/variable",
+        "user": "U15J5H60P",
+        "ts": "1555348467.002300"
+    },
+    {
+        "client_msg_id": "8265f8cb-9f13-4573-9f5d-5c6a1eaa5916",
+        "type": "message",
+        "text": "Python specific because the script I intercepted is in python",
+        "user": "U15J5H60P",
+        "ts": "1555348497.002900"
+    },
+    {
+        "client_msg_id": "be37b6ba-30fc-4675-9740-44e4786cfb1d",
+        "type": "message",
+        "text": "are you using a commercial tool or did someone hack an etl tool together using python?",
+        "user": "U15HRTAHL",
+        "ts": "1555348503.003300"
+    },
+    {
+        "client_msg_id": "6a0a760b-ee89-441b-b125-1e718b812205",
+        "type": "message",
+        "text": "I know how I can do it, but doing it via a loop isn't a good idea, allegedly",
+        "user": "U15J5H60P",
+        "ts": "1555348506.003400",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1555348516.000000"
+        }
+    },
+    {
+        "client_msg_id": "1845cc75-07d3-4920-b0ae-0572398badc1",
+        "type": "message",
+        "text": "Pandas?",
+        "user": "U15J5H60P",
+        "ts": "1555348507.003600"
+    },
+    {
+        "client_msg_id": "4bd41a88-e4c4-4dc7-8a87-a78ba0d8f237",
+        "type": "message",
+        "text": "interesting",
+        "user": "U15HRTAHL",
+        "ts": "1555348526.003900"
+    },
+    {
+        "client_msg_id": "59ee1b1f-8370-493e-8c4b-58b9685130a4",
+        "type": "message",
+        "text": "Confirmed - Pandas",
+        "user": "U15J5H60P",
+        "ts": "1555348533.004100"
+    },
+    {
+        "client_msg_id": "caa9ecc2-7bf0-4a2e-ba1a-d2b4a8182ce6",
+        "type": "message",
+        "text": "I 100% cant answer your question but why are you using execute many?",
+        "user": "U15HRTAHL",
+        "ts": "1555348703.004500"
+    },
+    {
+        "client_msg_id": "53819ac1-ea54-467f-9d4b-37c464bfba35",
+        "type": "message",
+        "text": "Because I have a list of rows in which the SQL command needs to be run on",
+        "user": "U15J5H60P",
+        "ts": "1555348729.004800"
+    },
+    {
+        "client_msg_id": "a67fd7fb-b2c0-4957-8daf-6c5eacf8e61d",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1555348745.005200"
+    },
+    {
+        "client_msg_id": "2c0ee52f-f73b-43d3-8c0e-22952e75ab48",
+        "type": "message",
+        "text": "And apparently using a for loop should be a last ditch thing",
+        "user": "U15J5H60P",
+        "ts": "1555348760.005500"
+    },
+    {
+        "client_msg_id": "6ec8e048-cf8c-40e9-b4b5-9cf7c7340b51",
+        "type": "message",
+        "text": ":shrug:",
+        "user": "U15J5H60P",
+        "ts": "1555348766.005800"
+    },
+    {
+        "client_msg_id": "69536FFE-75DC-4832-AC88-2E8D7217F8C1",
+        "type": "message",
+        "text": "I think my coworker has an actual inability to thinking outside the box",
+        "user": "U15HY5TG8",
+        "ts": "1555349894.007000"
+    },
+    {
+        "client_msg_id": "b19f800a-92b4-48c0-a762-9cb13149854b",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1555349903.007200"
+    },
+    {
+        "client_msg_id": "aa86716b-bc3a-471e-a8dd-7bac9bbbfb77",
+        "type": "message",
+        "text": "Do you feel like you get a lot done?",
+        "user": "U15J5H60P",
+        "ts": "1555349911.007500"
+    },
+    {
+        "client_msg_id": "de8b4595-1be0-416e-886d-79b706b47539",
+        "type": "message",
+        "text": "Or do you guys feel like you're being paid way too much to do way too little?",
+        "user": "U15J5H60P",
+        "ts": "1555349926.007900"
+    },
+    {
+        "client_msg_id": "a60c4cd3-7c8d-4e61-9298-35e61c4bc215",
+        "type": "message",
+        "text": "somewhere in the middle",
+        "user": "U15HY5TG8",
+        "ts": "1555349939.008100"
+    },
+    {
+        "client_msg_id": "795d335e-1820-4dcf-92cb-04f31918f4ec",
+        "type": "message",
+        "text": "If I actually stayed off of my phone for the day, I think i'd run out of stuff to do by the end of day 4 of the sprint",
+        "user": "U15HY5TG8",
+        "ts": "1555349966.008800"
+    },
+    {
+        "client_msg_id": "f0f353a0-7816-4146-868c-661b12a79dd9",
+        "type": "message",
+        "text": "but i live on the edge, so i cram it all into the last two days just to stress myself out",
+        "user": "U15HY5TG8",
+        "ts": "1555349983.009400"
+    },
+    {
+        "client_msg_id": "45732de3-01e7-4ed4-9b73-ea308d395a19",
+        "type": "message",
+        "text": "Do you have standup every day?",
+        "user": "U15J5H60P",
+        "ts": "1555349984.009500"
+    },
+    {
+        "client_msg_id": "6404ffe3-f6d5-4175-ae4c-a60f0f0d3e14",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HY5TG8",
+        "ts": "1555349991.009700"
+    },
+    {
+        "client_msg_id": "5d01e17a-eb71-4eba-8a1f-bb62ddf6adeb",
+        "type": "message",
+        "text": "there is a lot I could do",
+        "user": "U15HRTAHL",
+        "ts": "1555350000.010100"
+    },
+    {
+        "client_msg_id": "1a7248f5-e3c3-481a-b3fc-7b2ab537e335",
+        "type": "message",
+        "text": "So how do you get away with not doing anything until the end of the sprint?",
+        "user": "U15J5H60P",
+        "ts": "1555350005.010300"
+    },
+    {
+        "client_msg_id": "76c35283-0014-44ff-856d-4fbbbbefdc89",
+        "type": "message",
+        "text": "way more than I’m capable of doing myself",
+        "user": "U15HRTAHL",
+        "ts": "1555350008.010500"
+    },
+    {
+        "client_msg_id": "7a08e134-f63e-428f-ab2f-95f055e3e11d",
+        "type": "message",
+        "text": "so I just kind of float lol",
+        "user": "U15HRTAHL",
+        "ts": "1555350015.010800"
+    },
+    {
+        "client_msg_id": "96d2299b-5465-4f3f-9d28-dc8a620cc538",
+        "type": "message",
+        "text": "I mean I still do things, but it's like I coast through the days making a bunch of progress, but I really button things up and refactor everything in like the last two days",
+        "user": "U15HY5TG8",
+        "ts": "1555350059.011700"
+    },
+    {
+        "client_msg_id": "1915e4ec-f18a-4a52-a715-3527044848da",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1555350076.011900"
+    },
+    {
+        "client_msg_id": "977f7fed-dc4f-4e4a-a842-201211d9ba85",
+        "type": "message",
+        "text": "<https:\/\/en.wikipedia.org\/wiki\/Notre-Dame_de_Paris>",
+        "user": "U15J5H60P",
+        "ts": "1555350386.012100",
+        "attachments": [
+            {
+                "image_url": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Notre_Dame_de_Paris_DSC_0846w.jpg\/1200px-Notre_Dame_de_Paris_DSC_0846w.jpg",
+                "image_width": 1200,
+                "image_height": 1620,
+                "image_bytes": 476855,
+                "title": "Notre-Dame de Paris",
+                "title_link": "https:\/\/en.wikipedia.org\/wiki\/Notre-Dame_de_Paris",
+                "from_url": "https:\/\/en.wikipedia.org\/wiki\/Notre-Dame_de_Paris",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "Notre-Dame de Paris (; French: [nɔtʁə dam də paʁi] (listen); meaning \"Our Lady of Paris\"), also known as Notre-Dame Cathedral or simply Notre-Dame, is a medieval Catholic cathedral on the Île de la Cité in the fourth arrondissement of Paris, France. The cathedral is considered to be one of the finest examples of French Gothic architecture. The innovative use of the rib vault and flying buttress, the enormous and colorful rose windows, and the naturalism and abundance of its sculptural decoration all set it apart from earlier Romanesque architecture.The cathedral was begun in 1160 and largely completed by 1260, though it was modified frequently in the following centuries. In the 1790s, Notre-Dame suffered desecration during the French Revolution when much of its religious imagery was damaged or destroyed. Soon after the publication of Victor Hugo's novel The Hunchback of Notre Dame in 1831, popular interest in the building revived. A major restoration project supervised by Eugène Viollet-le-Duc began in 1845 and continued for twenty-five years. Beginning in 1963, the facade of the Cathedral was cleaned of centuries of soot and grime, returning it to its original color. Another campaign of cleaning and restoration was carried out from 1991-2000.\nIt is curently on fire\n\nAs the cathedral of the Archdiocese of Paris, Notre-Dame contains the cathedra of the Archbishop of Paris (Michel Aupetit). 12 million people visit Notre-Dame yearly, it thus being the most visited monument in Paris.On 15th April 2019, the Cathedral caught fire, especially the Spire. The cause of the fire is currently unknown.",
+                "fallback": "wikipedia: Notre-Dame de Paris",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.wikipedia.org\/wiki\/Notre-Dame_de_Paris"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d9f66daf-e1a1-4cda-824f-2fb0ce44ff27",
+        "type": "message",
+        "text": "LMAO",
+        "user": "U15J5H60P",
+        "ts": "1555350387.012400"
+    },
+    {
+        "client_msg_id": "a4779164-cf89-408f-af69-33565d94e90a",
+        "type": "message",
+        "text": "Look at the \"Functional status\"",
+        "user": "U15J5H60P",
+        "ts": "1555350392.012600"
+    },
+    {
+        "client_msg_id": "32005aa1-8bf2-478d-b17f-4a2ea9db8a2e",
+        "type": "message",
+        "text": "idk what the hell this guy programmed before",
+        "user": "U15HY5TG8",
+        "ts": "1555359550.013000"
+    },
+    {
+        "client_msg_id": "3b65714a-effa-43f1-9951-9a50fd6e958f",
+        "type": "message",
+        "text": "filtering a grid is a brand new concept",
+        "user": "U15HY5TG8",
+        "ts": "1555359558.013300"
+    }
+]

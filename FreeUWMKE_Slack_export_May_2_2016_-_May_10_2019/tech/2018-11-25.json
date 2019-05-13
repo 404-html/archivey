@@ -1,0 +1,343 @@
+[
+    {
+        "client_msg_id": "BC5C182C-68A9-4B60-A90D-E04F77A71362",
+        "type": "message",
+        "text": "The new echo is 50% off",
+        "user": "U15J5H60P",
+        "ts": "1543162754.000300"
+    },
+    {
+        "client_msg_id": "06064386-94F1-4AD4-9F2D-B6B6125E3CDA",
+        "type": "message",
+        "text": "All-new Echo Dot (3rd Gen) - Smart speaker with Alexa - Charcoal <https:\/\/www.amazon.com\/dp\/B0792KTHKJ\/ref=cm_sw_r_cp_api_LTS-BbH53SZPK>",
+        "user": "U15J5H60P",
+        "ts": "1543162757.000500",
+        "attachments": [
+            {
+                "title": "All-new Echo Dot (3rd Gen) - Smart speaker with Alexa - Charcoal",
+                "title_link": "https:\/\/www.amazon.com\/dp\/B0792KTHKJ\/ref=cm_sw_r_cp_api_LTS-BbH53SZPK",
+                "text": "Smart speaker with Alexa",
+                "fallback": "All-new Echo Dot (3rd Gen) - Smart speaker with Alexa - Charcoal",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41CRnvYqmqL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(1548%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.com\/dp\/B0792KTHKJ\/ref=cm_sw_r_cp_api_LTS-BbH53SZPK",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 12487,
+                "service_icon": "https:\/\/www.amazon.com\/favicon.ico",
+                "service_name": "amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.com\/dp\/B0792KTHKJ\/ref=cm_sw_r_cp_api_LTS-BbH53SZPK"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7e98f49b-8ca3-43a8-9037-20fb95c3556d",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1543165248.000800"
+    },
+    {
+        "client_msg_id": "5db62da5-5f5f-4e84-9ab6-ef1c5504187f",
+        "type": "message",
+        "text": "The Nest is on sale for $180",
+        "user": "U15J5H60P",
+        "ts": "1543165253.001000"
+    },
+    {
+        "client_msg_id": "0793f0a4-c7aa-4f99-b0d0-ab3f4deba36e",
+        "type": "message",
+        "text": "<https:\/\/linksynergy.walmart.com\/deeplink?id=kXQk6%2AivFEQ&amp;mid=2149&amp;u1=trd-5434902136132920916&amp;murl=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-Stainless-Steel%2F46667636>",
+        "user": "U15J5H60P",
+        "ts": "1543165259.001200",
+        "attachments": [
+            {
+                "service_name": "Walmart.com",
+                "title": "Nest Learning Thermostat - 3rd Generation - Stainless Steel - Walmart.com",
+                "title_link": "https:\/\/linksynergy.walmart.com\/deeplink?id=kXQk6%2AivFEQ&mid=2149&u1=trd-5434902136132920916&murl=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-Stainless-Steel%2F46667636",
+                "text": "Buy Nest Learning Thermostat - 3rd Generation - Stainless Steel at <http:\/\/Walmart.com|Walmart.com>",
+                "fallback": "Walmart.com: Nest Learning Thermostat - 3rd Generation - Stainless Steel - Walmart.com",
+                "from_url": "https:\/\/linksynergy.walmart.com\/deeplink?id=kXQk6%2AivFEQ&mid=2149&u1=trd-5434902136132920916&murl=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-Stainless-Steel%2F46667636",
+                "service_icon": "https:\/\/www.walmart.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/linksynergy.walmart.com\/deeplink?id=kXQk6%2AivFEQ&amp;mid=2149&amp;u1=trd-5434902136132920916&amp;murl=https%3A%2F%2Fwww.walmart.com%2Fip%2FNest-Learning-Thermostat-3rd-Generation-Stainless-Steel%2F46667636"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C680B88F-145E-4B5C-B5B3-B7396D94B2A3",
+        "type": "message",
+        "text": "Yeah I got that on Black Friday",
+        "user": "U15HSHSS2",
+        "ts": "1543169263.000500"
+    },
+    {
+        "client_msg_id": "AF58683F-AD6F-4E9C-B561-FD70F124F8F6",
+        "type": "message",
+        "text": "Dude the smart lock is sick lol",
+        "user": "U15HSHSS2",
+        "ts": "1543169270.000800"
+    },
+    {
+        "client_msg_id": "163CAA42-01A4-48A9-9018-068B58E462E9",
+        "type": "message",
+        "text": "Which one did you go with",
+        "user": "U15HZ01QX",
+        "ts": "1543169419.001100"
+    },
+    {
+        "client_msg_id": "89AAE202-94DA-492B-A17D-F40CB61DA1F9",
+        "type": "message",
+        "text": "August Smart Lock Pro + Connect ",
+        "user": "U15HSHSS2",
+        "ts": "1543170946.000800"
+    },
+    {
+        "client_msg_id": "fee37d02-59fe-4a01-b3bc-c06e0d3a5ac7",
+        "type": "message",
+        "text": "Oh dang!",
+        "user": "U15J5H60P",
+        "ts": "1543180390.000200"
+    },
+    {
+        "client_msg_id": "dc3014e0-cf09-4e6b-a016-bbdb11940cd7",
+        "type": "message",
+        "text": "So you can still use your existing key with that one",
+        "user": "U15J5H60P",
+        "ts": "1543180398.000500"
+    },
+    {
+        "client_msg_id": "279efd1f-5cb7-4803-8555-3cbd4047c407",
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1543180399.000700"
+    },
+    {
+        "client_msg_id": "6f6850f4-9fad-4c37-9028-4b2dc349b08c",
+        "type": "message",
+        "text": "Can you open it with your apple watch?",
+        "user": "U15J5H60P",
+        "ts": "1543180412.001000"
+    },
+    {
+        "client_msg_id": "95191398-5FD2-4430-B9C1-C5C7E8394708",
+        "type": "message",
+        "text": "I know you can set it up though Siri and open it through your watch like that. I’m sure there is a Apple Watch app too that would work, but I haven’t looked into that",
+        "user": "U15HSHSS2",
+        "ts": "1543180481.002600"
+    },
+    {
+        "client_msg_id": "6e441dc0-28e6-42a9-b0bd-69239707d6aa",
+        "type": "message",
+        "text": "Gotcha gotcha. Very cool",
+        "user": "U15J5H60P",
+        "ts": "1543180495.002900"
+    },
+    {
+        "client_msg_id": "AF82FCF7-6B5F-4E3F-9CA6-3A543E13C06A",
+        "type": "message",
+        "text": "Yeah it’s pretty sweet. Installing to was super easy",
+        "user": "U15HSHSS2",
+        "ts": "1543180518.003500"
+    },
+    {
+        "client_msg_id": "1f96b01b-c04b-486d-8f00-ef8be7eae984",
+        "type": "message",
+        "text": "Did you get a deal on it?",
+        "user": "U15J5H60P",
+        "ts": "1543180532.003900"
+    },
+    {
+        "client_msg_id": "c5a5c1b0-1713-4a7e-9756-ea75db514fd7",
+        "type": "message",
+        "text": "They’re pretty expensive.",
+        "user": "U15J5H60P",
+        "ts": "1543180535.004200"
+    },
+    {
+        "client_msg_id": "85649352-BD0D-4106-A758-5AC14677BDEE",
+        "type": "message",
+        "text": "Yeah, but it wasn’t much. I got it for $199 I think",
+        "user": "U15HSHSS2",
+        "ts": "1543180571.004800"
+    },
+    {
+        "client_msg_id": "03825e21-a7bb-4eba-9864-0ac24745e799",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1543180586.005200"
+    },
+    {
+        "client_msg_id": "9a1526d9-7aeb-454a-beb9-03c7e61c5cdd",
+        "type": "message",
+        "text": "Anything in particular that you’re finding really cool about it?",
+        "user": "U15J5H60P",
+        "ts": "1543180594.005500"
+    },
+    {
+        "client_msg_id": "13F75EA0-8138-4F67-9046-B5A9A4D5085B",
+        "type": "message",
+        "text": "I set it up with the google homes I bought which is cool, can just tell google to lock and unlock my door. And the app notifies you whenever the door is unlocked or locked and by who and gives you a timeline of who and when has unlocked\/locked the door",
+        "user": "U15HSHSS2",
+        "ts": "1543180675.007700",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1543180931.000000"
+        }
+    },
+    {
+        "client_msg_id": "26B971A9-49F1-469C-B62B-99C927464C9A",
+        "type": "message",
+        "text": "If I needed a friend to stop by the apartment or something while I was at work, I could just unlock it when they get there and lock it when they leave",
+        "user": "U15HSHSS2",
+        "ts": "1543180789.009300"
+    },
+    {
+        "client_msg_id": "3939dcbe-67a3-489a-a388-df9746d84400",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1543202397.000300"
+    },
+    {
+        "client_msg_id": "437bd3e8-59c0-486b-bce6-6923075c2da5",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/August-Smart-Lock-Pro-generation\/dp\/B0765JNS2D?tag=thewire06-20&amp;linkCode=xm2&amp;ascsubtag=cw18dealspage>",
+        "user": "U15J5H60P",
+        "ts": "1543202399.000500",
+        "attachments": [
+            {
+                "title": "August Smart Lock Pro, 3rd generation - Silver, Works with Alexa",
+                "title_link": "https:\/\/www.amazon.com\/August-Smart-Lock-Pro-generation\/dp\/B0765JNS2D?tag=thewire06-20&linkCode=xm2&ascsubtag=cw18dealspage",
+                "text": "Make your front door smarter with an August Smart Lock Pro. Control keyless access and keep track of who comes and goes, all from your phone.",
+                "fallback": "August Smart Lock Pro, 3rd generation - Silver, Works with Alexa",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/41BvooZWgEL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(307%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.com\/August-Smart-Lock-Pro-generation\/dp\/B0765JNS2D?tag=thewire06-20&linkCode=xm2&ascsubtag=cw18dealspage",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 10600,
+                "service_icon": "https:\/\/www.amazon.com\/favicon.ico",
+                "service_name": "amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.com\/August-Smart-Lock-Pro-generation\/dp\/B0765JNS2D?tag=thewire06-20&amp;linkCode=xm2&amp;ascsubtag=cw18dealspage"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50dc4479-610c-41b3-b8f8-98bdd62ebee9",
+        "type": "message",
+        "text": "Oh, doesn’t come with the little dongle thing",
+        "user": "U15J5H60P",
+        "ts": "1543202414.000900"
+    },
+    {
+        "client_msg_id": "f5c3b128-400e-45b6-b39d-78798fc2cfee",
+        "type": "message",
+        "text": "<https:\/\/thewirecutter.com\/deals\/cyber-monday\/>",
+        "user": "U15J5H60P",
+        "ts": "1543202419.001100",
+        "attachments": [
+            {
+                "service_name": "Wirecutter: Reviews for the Real World",
+                "title": "Cyber Monday Deals",
+                "title_link": "https:\/\/thewirecutter.com\/deals\/cyber-monday\/",
+                "text": "Smart shoppers know the deals aren't over after Cyber Monday, but the savviest deal hunters let Wirecutter put in the effort for them.",
+                "fallback": "Wirecutter: Reviews for the Real World: Cyber Monday Deals",
+                "image_url": "https:\/\/cdn.thewirecutter.com\/wp-content\/uploads\/2018\/11\/cw_promo_all_cm_1200x628_fb.png",
+                "from_url": "https:\/\/thewirecutter.com\/deals\/cyber-monday\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 193585,
+                "service_icon": "https:\/\/cdn.thewirecutter.com\/wp-content\/themes\/yeti\/assets\/img\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/thewirecutter.com\/deals\/cyber-monday\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7F079C3B-4F6F-41A6-8CD1-9CF343492B03",
+        "type": "message",
+        "text": "I might cop",
+        "user": "U15HZ01QX",
+        "ts": "1543202515.001500"
+    },
+    {
+        "client_msg_id": "6bfef8aa-a4e0-4359-9c17-a8553f3072d6",
+        "type": "message",
+        "text": "iRobot Roomba 960",
+        "user": "U15J5H60P",
+        "ts": "1543202535.001700"
+    },
+    {
+        "client_msg_id": "d14d26ad-156d-4bab-9cba-6122b4b6064b",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/iRobot-Roomba-960-Connectivity-Carpets\/dp\/B01ID8H6NO?tag=thewire06-20&amp;linkCode=xm2&amp;ascsubtag=cw18dealspage>",
+        "user": "U15J5H60P",
+        "ts": "1543202540.001900"
+    },
+    {
+        "client_msg_id": "198d93f5-5a63-450c-b7bc-bd101a373239",
+        "type": "message",
+        "text": "I think that one has the carpet mode",
+        "user": "U15J5H60P",
+        "ts": "1543202557.002200"
+    },
+    {
+        "client_msg_id": "5b6a390f-7c35-45c4-ab30-f946aa63c8d8",
+        "type": "message",
+        "text": "<https:\/\/www.amazon.com\/iRobot-Roomba-Vacuum-Connectivity-Carpets\/dp\/B06XRT2B3P?tag=thewire06-20&amp;linkCode=xm2&amp;ascsubtag=edtest>",
+        "user": "U15J5H60P",
+        "ts": "1543202867.002500",
+        "attachments": [
+            {
+                "title": "iRobot Roomba 690 Robot Vacuum with Wi-Fi Connectivity, Works with Alexa, Good for Pet Hair, Carpets, Hard Floors",
+                "title_link": "https:\/\/www.amazon.com\/iRobot-Roomba-Vacuum-Connectivity-Carpets\/dp\/B06XRT2B3P?tag=thewire06-20&linkCode=xm2&ascsubtag=edtest",
+                "text": "Connect to clean from anywhere with the Roomba 690 robot vacuum. The patented 3-Stage Cleaning System is specially engineered to loosen, lift, and suction everything from small particles to large debris from carpets and hard floors. Dirt Detect™ sensors alert the Roomba robot vacuum to clean more...",
+                "fallback": "iRobot Roomba 690 Robot Vacuum with Wi-Fi Connectivity, Works with Alexa, Good for Pet Hair, Carpets, Hard Floors",
+                "image_url": "https:\/\/images-na.ssl-images-amazon.com\/images\/I\/51BqUz9234L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(2091%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+                "from_url": "https:\/\/www.amazon.com\/iRobot-Roomba-Vacuum-Connectivity-Carpets\/dp\/B06XRT2B3P?tag=thewire06-20&linkCode=xm2&ascsubtag=edtest",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 17817,
+                "service_icon": "https:\/\/www.amazon.com\/favicon.ico",
+                "service_name": "amazon.com",
+                "id": 1,
+                "original_url": "https:\/\/www.amazon.com\/iRobot-Roomba-Vacuum-Connectivity-Carpets\/dp\/B06XRT2B3P?tag=thewire06-20&amp;linkCode=xm2&amp;ascsubtag=edtest"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d5ce04fb-548d-4b74-a82b-0edf6613b1ff",
+        "type": "message",
+        "text": "690 for 250",
+        "user": "U15J5H60P",
+        "ts": "1543202871.002800"
+    },
+    {
+        "client_msg_id": "D11FA002-9108-4380-862F-557FDC3F9662",
+        "type": "message",
+        "text": "These are the same prices since like Wednesday ",
+        "user": "U15HZ01QX",
+        "ts": "1543202890.003200"
+    },
+    {
+        "client_msg_id": "66c3bdf3-f31f-4a65-951c-0ca7cb4545a8",
+        "type": "message",
+        "text": "Oh really? Dang, sorry. I’ll stop brining them up. I didn’t pay attention much to BF",
+        "user": "U15J5H60P",
+        "ts": "1543202921.003800",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1543202925.000000"
+        }
+    },
+    {
+        "client_msg_id": "E6B03E2D-45D7-456F-97DA-96DCCE7D1030",
+        "type": "message",
+        "text": "Took about 15 mins to install",
+        "user": "U15HSHSS2",
+        "ts": "1543212956.000700"
+    }
+]

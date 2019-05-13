@@ -1,0 +1,705 @@
+[
+    {
+        "type": "message",
+        "text": "\"Oh sorry we can't keep you at our current introductory rate\"\n\"Ok I'd like to close my account\"\n\"Oh look I just saw we can lower the rate to $52\"",
+        "user": "U15HRTAHL",
+        "ts": "1527345938.000058",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1527346041.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1527345949.000006"
+    },
+    {
+        "client_msg_id": "8AF27D37-2D99-4CA8-A1DD-57CC92F4A318",
+        "type": "message",
+        "text": "What number?",
+        "user": "U15J5H60P",
+        "ts": "1527345966.000022"
+    },
+    {
+        "client_msg_id": "397FCAAB-0266-432C-AF75-EDBD02608700",
+        "type": "message",
+        "text": "Did you call",
+        "user": "U15J5H60P",
+        "ts": "1527345969.000095"
+    },
+    {
+        "type": "message",
+        "text": "1 sec",
+        "user": "U15HRTAHL",
+        "ts": "1527345975.000031"
+    },
+    {
+        "type": "message",
+        "text": "1 877 772 2253",
+        "user": "U15HRTAHL",
+        "ts": "1527346015.000048"
+    },
+    {
+        "client_msg_id": "9F504CD0-8565-48D1-85D2-19C1B21F9D99",
+        "type": "message",
+        "text": "Thx",
+        "user": "U15J5H60P",
+        "ts": "1527346023.000053"
+    },
+    {
+        "client_msg_id": "409D8ECE-410D-45DF-A937-D9438FA39F3A",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1527347390.000123"
+    },
+    {
+        "client_msg_id": "A0014DCB-BBE7-4EDE-8FD0-148A7D174AC8",
+        "type": "message",
+        "text": "For spectrum?",
+        "user": "U15HY5TG8",
+        "ts": "1527347405.000008"
+    },
+    {
+        "type": "message",
+        "text": "yep",
+        "user": "U15HRTAHL",
+        "ts": "1527347960.000087"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FAWQDJK3L",
+                "created": 1527350491,
+                "timestamp": 1527350491,
+                "name": "download_20180526_110116.jpg",
+                "title": "download_20180526_110116.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 128439,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAWQDJK3L\/download_20180526_110116.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FAWQDJK3L\/download\/download_20180526_110116.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FAWQDJK3L-142d2c5788\/download_20180526_110116_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1536,
+                "original_h": 2048,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FAWQDJK3L\/download_20180526_110116.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FAWQDJK3L-ebe4421b37",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1527350495.000044"
+    },
+    {
+        "client_msg_id": "FAC30FDF-F03E-413C-B139-F11D3109A1B4",
+        "type": "message",
+        "text": "?!?!",
+        "user": "U15J5H60P",
+        "ts": "1527350524.000145"
+    },
+    {
+        "client_msg_id": "a2db8931-7a3b-4700-9cfb-dc7fd8a831da",
+        "type": "message",
+        "text": "Someone is behind you",
+        "user": "U15HRTAHL",
+        "ts": "1527350542.000099"
+    },
+    {
+        "client_msg_id": "E05FC03A-4D55-4DC6-9C78-84D5F8E96770",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1527350548.000116"
+    },
+    {
+        "client_msg_id": "6d7cf4ee-7245-433b-a564-8e8784c62136",
+        "type": "message",
+        "text": "Kyle",
+        "user": "U15HRTAHL",
+        "ts": "1527350552.000045"
+    },
+    {
+        "client_msg_id": "82C9129A-FC99-4E74-A8E2-7903143FE855",
+        "type": "message",
+        "text": "Nice!!",
+        "user": "U15J5H60P",
+        "ts": "1527350576.000021"
+    },
+    {
+        "client_msg_id": "28ac88dd-3486-46ad-97f0-be35147f14dc",
+        "type": "message",
+        "text": "Have fun in Johnson Creek!",
+        "user": "U15HRTAHL",
+        "ts": "1527350992.000075"
+    },
+    {
+        "client_msg_id": "76DBFA4E-4DD3-4F0E-AE04-CA9C9B8F3248",
+        "type": "message",
+        "text": "Lol I’m getting McDonald’s ",
+        "user": "U15J5H60P",
+        "ts": "1527351004.000032"
+    },
+    {
+        "client_msg_id": "ADB80872-D6E6-4856-91DE-3C7C61D56B83",
+        "type": "message",
+        "text": "Small world ",
+        "user": "U15J5H60P",
+        "ts": "1527351011.000054"
+    },
+    {
+        "client_msg_id": "6C912A67-DE92-478A-9F61-A56201C36B1F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1527351124.000137"
+    },
+    {
+        "client_msg_id": "543458bb-7020-4633-b596-fe786c775994",
+        "type": "message",
+        "text": "Lol my cieling is leaking again",
+        "user": "U15HRTAHL",
+        "ts": "1527363932.000071"
+    },
+    {
+        "client_msg_id": "151F561B-28E5-4C46-97AB-A22DE41DDFAB",
+        "type": "message",
+        "text": "Damnnn lol",
+        "user": "U15HY5TG8",
+        "ts": "1527363970.000119"
+    },
+    {
+        "client_msg_id": "2980A274-251C-4537-872D-4641E7B51E32",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1527364939.000004"
+    },
+    {
+        "client_msg_id": "7DABCF43-2436-4FFA-A672-20EBC2DF923B",
+        "type": "message",
+        "text": "Anyone want a tv?",
+        "user": "U15HZ01QX",
+        "ts": "1527366619.000023"
+    },
+    {
+        "client_msg_id": "F059E959-59CB-49EA-8F5F-64ED7160EA7A",
+        "type": "message",
+        "text": " Sorry to hear that joe",
+        "user": "U15HZ01QX",
+        "ts": "1527366627.000081"
+    },
+    {
+        "client_msg_id": "187DA526-E665-4230-B0AD-F9E998DD66DA",
+        "type": "message",
+        "text": "How big?",
+        "user": "U15J5H60P",
+        "ts": "1527366654.000105"
+    },
+    {
+        "client_msg_id": "5F9CE0C1-EF9F-4E73-BC29-CB3BF553F329",
+        "type": "message",
+        "text": "I’m looking for a smaller one for my bedroom",
+        "user": "U15J5H60P",
+        "ts": "1527366663.000063"
+    },
+    {
+        "client_msg_id": "04A426FA-FFB0-4593-92C1-DC96C50BCACB",
+        "type": "message",
+        "text": "Free?",
+        "user": "U15HY5TG8",
+        "ts": "1527366669.000068"
+    },
+    {
+        "client_msg_id": "2D6CD6C7-B4AD-4D75-A0F4-30AAF508D87F",
+        "type": "message",
+        "text": "You can take your pick of any of mine and no not free 40,49,50",
+        "user": "U15HZ01QX",
+        "ts": "1527366684.000064"
+    },
+    {
+        "client_msg_id": "1D4D8F4B-F06F-4234-9193-AB5AB8707313",
+        "type": "message",
+        "text": "Ah no thanks. ",
+        "user": "U15J5H60P",
+        "ts": "1527366700.000028"
+    },
+    {
+        "client_msg_id": "E7AFA036-D3F8-4B82-831F-B595CF548F05",
+        "type": "message",
+        "text": "Saame",
+        "user": "U15HY5TG8",
+        "ts": "1527366710.000078"
+    },
+    {
+        "client_msg_id": "3E28119C-4CAA-44E5-B08D-C835F2C436AC",
+        "type": "message",
+        "text": "Upgrading your TVs?",
+        "user": "U15HSHSS2",
+        "ts": "1527366743.000083"
+    },
+    {
+        "client_msg_id": "DC2FD2A5-F24E-4FB4-89CA-7471FE70D507",
+        "type": "message",
+        "text": "Came across a jig that I’m debating on",
+        "user": "U15HZ01QX",
+        "ts": "1527366784.000017"
+    },
+    {
+        "client_msg_id": "E7C61DC8-C426-4E80-BF09-4E3FDF410601",
+        "type": "message",
+        "text": "Would mean I could get rid of one of mine",
+        "user": "U15HZ01QX",
+        "ts": "1527366792.000005"
+    },
+    {
+        "client_msg_id": "951B9B51-A699-4196-A02E-E29FC65ECC25",
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1527366797.000003"
+    },
+    {
+        "client_msg_id": "B4C52B5E-05EC-4231-8E58-A6EF874EAC0D",
+        "type": "message",
+        "text": "It’s 500 degrees ",
+        "user": "U15HZ01QX",
+        "ts": "1527367314.000001"
+    },
+    {
+        "client_msg_id": "F8EC81AD-7807-4DB4-AD0A-92E37971F1DF",
+        "type": "message",
+        "text": "At least",
+        "user": "U15J5H60P",
+        "ts": "1527368084.000075"
+    },
+    {
+        "client_msg_id": "B8ACAB54-99F6-48DC-A068-CDC65404241B",
+        "type": "message",
+        "text": "I’m dying",
+        "user": "U15J5H60P",
+        "ts": "1527368092.000069"
+    },
+    {
+        "client_msg_id": "F6951282-06D3-49C6-9334-851543394402",
+        "type": "message",
+        "text": "I’m out in Madison and there is no end to this heat",
+        "user": "U15J5H60P",
+        "ts": "1527368112.000006"
+    },
+    {
+        "client_msg_id": "9BDEBD4B-74AD-45A0-BCBB-0A4F6D7D412C",
+        "type": "message",
+        "text": " No nice lake breeze or anything ",
+        "user": "U15J5H60P",
+        "ts": "1527368120.000010"
+    },
+    {
+        "client_msg_id": "1EB83964-165B-4749-9592-28CDAF715B33",
+        "type": "message",
+        "text": "Wisconsin sucks ass",
+        "user": "U15HZ01QX",
+        "ts": "1527368133.000033"
+    },
+    {
+        "client_msg_id": "BE9DB5D6-48B4-40BA-B853-B767DBC7FEEE",
+        "type": "message",
+        "text": "Thats what you get for going there",
+        "user": "U15HY5TG8",
+        "ts": "1527368137.000110"
+    },
+    {
+        "client_msg_id": "6B1C762B-6C63-46E2-BFD8-48D779B855C8",
+        "type": "message",
+        "text": "Yee",
+        "user": "U15J5H60P",
+        "ts": "1527368141.000046"
+    },
+    {
+        "client_msg_id": "06916FD6-73DA-4F8F-A102-2047CF8EBA03",
+        "type": "message",
+        "text": "They needa tear everything down on North and put up a nice walkable shopping mall",
+        "user": "U15J5H60P",
+        "ts": "1527369247.000012"
+    },
+    {
+        "client_msg_id": "F86782B2-7DE1-4720-8F10-725489F29D8C",
+        "type": "message",
+        "text": "Turn it into a state street",
+        "user": "U15J5H60P",
+        "ts": "1527369324.000021"
+    },
+    {
+        "client_msg_id": "28aacdd6-03cb-4406-915e-f53fc6958534",
+        "type": "message",
+        "text": "That'd be dope",
+        "user": "U15HRTAHL",
+        "ts": "1527371033.000044"
+    },
+    {
+        "client_msg_id": "D4FB5D6B-5469-4C58-B09A-0025C10C456A",
+        "type": "message",
+        "text": "Ciera didn’t like her straight hair? <@U15HZ01QX> ",
+        "user": "U15J5H60P",
+        "ts": "1527379557.000054"
+    },
+    {
+        "client_msg_id": "346822AB-FA3A-4666-8EF4-5F68A8B0BD6B",
+        "type": "message",
+        "text": "Weird question ",
+        "user": "U15HZ01QX",
+        "ts": "1527379621.000004"
+    },
+    {
+        "client_msg_id": "004A090C-182B-4E85-9572-536345C9FA02",
+        "type": "message",
+        "text": "So no?",
+        "user": "U15J5H60P",
+        "ts": "1527379636.000009"
+    },
+    {
+        "client_msg_id": "133B4BD5-D9B5-48EB-B017-68251D854DB5",
+        "type": "message",
+        "text": "Or?",
+        "user": "U15J5H60P",
+        "ts": "1527379640.000049"
+    },
+    {
+        "client_msg_id": "353D6C4D-2EE7-41E0-8939-FE7687F06669",
+        "type": "message",
+        "text": "Just wanted a change?",
+        "user": "U15J5H60P",
+        "ts": "1527379650.000086"
+    },
+    {
+        "client_msg_id": "410AAC83-3C55-4EFD-80BE-E119AFDE1C11",
+        "type": "message",
+        "text": "Aiight",
+        "user": "U15J5H60P",
+        "ts": "1527381734.000007"
+    },
+    {
+        "client_msg_id": "801A4543-792D-4E6B-85DD-21360F0E2358",
+        "type": "message",
+        "text": "Andreas brother giving me shut for having a fucked to hairline ",
+        "user": "U15J5H60P",
+        "ts": "1527381887.000060"
+    },
+    {
+        "client_msg_id": "290E76B4-94E1-4CA8-9EB4-715C16902B9C",
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1527381941.000047"
+    },
+    {
+        "client_msg_id": "824CE390-0420-42AA-A349-0DCA106AB130",
+        "type": "message",
+        "text": "Cut my hairs",
+        "user": "U15J5H60P",
+        "ts": "1527381955.000071"
+    },
+    {
+        "client_msg_id": "C2835F43-E946-41AF-9AD5-8A317D73F1C6",
+        "type": "message",
+        "text": "This butch making me sleep at her brothers house",
+        "user": "U15J5H60P",
+        "ts": "1527382015.000040"
+    },
+    {
+        "client_msg_id": "E4F4C7F1-A22B-4944-89D5-C5966890BA8B",
+        "type": "message",
+        "text": "I’m pissed ",
+        "user": "U15J5H60P",
+        "ts": "1527382026.000014"
+    },
+    {
+        "client_msg_id": "be86f9c7-bba7-4fa4-9b7f-0f5a676abba8",
+        "type": "message",
+        "text": "Fucked to hairline?",
+        "user": "U15HRTAHL",
+        "ts": "1527387993.000070"
+    },
+    {
+        "client_msg_id": "aa95fdd4-6237-4d7d-b755-58634ffc141b",
+        "type": "message",
+        "text": "Lol I go to cost cutters",
+        "user": "U15HRTAHL",
+        "ts": "1527388003.000011"
+    },
+    {
+        "client_msg_id": "BE0FEE45-96AA-4E5C-8B63-4F97049BD5FE",
+        "type": "message",
+        "text": "On the back of my head",
+        "user": "U15J5H60P",
+        "ts": "1527388007.000005"
+    },
+    {
+        "client_msg_id": "41FD1253-CB33-4A43-A7DB-AD455DBE709D",
+        "type": "message",
+        "text": "Apparently it’s crooked ",
+        "user": "U15J5H60P",
+        "ts": "1527388016.000021"
+    },
+    {
+        "client_msg_id": "02AD7A21-E7AD-4A63-95A4-F924DB811858",
+        "type": "message",
+        "text": "I got it from groom ",
+        "user": "U15J5H60P",
+        "ts": "1527388070.000081"
+    },
+    {
+        "client_msg_id": "8DCF596B-E5B0-4889-A2D5-1AD0866E4E02",
+        "type": "message",
+        "text": "I think it’s from the shit they put in my hair ",
+        "user": "U15J5H60P",
+        "ts": "1527388089.000079"
+    },
+    {
+        "client_msg_id": "78fe7df4-e2bd-4030-af08-6c2216ab4dc2",
+        "type": "message",
+        "text": "Yeah fuck groom. Now that you've seen both ends of the spectrum you know it's better just to go the cheaper route",
+        "user": "U15HRTAHL",
+        "ts": "1527388736.000066"
+    },
+    {
+        "client_msg_id": "6ccffebc-221a-472c-9f33-bef170142f10",
+        "type": "message",
+        "text": "Especially since the cheaper route sees more customers they technically have more experience",
+        "user": "U15HRTAHL",
+        "ts": "1527388791.000073"
+    },
+    {
+        "client_msg_id": "A3E1F8CB-CB28-4D76-ACFA-F36F8347F65C",
+        "type": "message",
+        "text": "I swear they put fucking glue in my hair",
+        "user": "U15J5H60P",
+        "ts": "1527388888.000081"
+    },
+    {
+        "client_msg_id": "3C08934D-06A3-41C3-BB27-DF8FC2F4A79E",
+        "type": "message",
+        "text": "It was impossible to wash out",
+        "user": "U15J5H60P",
+        "ts": "1527388896.000022"
+    },
+    {
+        "client_msg_id": "134AC11B-30E1-487A-B5D5-F63927FD433B",
+        "type": "message",
+        "text": "Her brother be stunting on me all night ",
+        "user": "U15J5H60P",
+        "ts": "1527389421.000033"
+    },
+    {
+        "client_msg_id": "EFCCCE10-78F4-4547-AA97-9B63DF1B7A47",
+        "type": "message",
+        "text": "Over my hair",
+        "user": "U15J5H60P",
+        "ts": "1527389426.000020"
+    },
+    {
+        "client_msg_id": "0E1F97B9-09E0-4238-B727-DFF5D90DDECC",
+        "type": "message",
+        "text": "In front of other ppl ",
+        "user": "U15J5H60P",
+        "ts": "1527389448.000053"
+    },
+    {
+        "client_msg_id": "CA920B24-A620-41AD-811F-789A8AB0E447",
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15J5H60P",
+        "ts": "1527389450.000015"
+    },
+    {
+        "client_msg_id": "EF457AD5-D7E2-44D1-B68B-AC195C1C5C44",
+        "type": "message",
+        "text": "Bruh at least you dont have my hair lol",
+        "user": "U15HY5TG8",
+        "ts": "1527391271.000082"
+    },
+    {
+        "client_msg_id": "80765A88-1B20-42D9-AEE7-1DEF91C2CE3D",
+        "type": "message",
+        "text": "What’s wrong with your hair?",
+        "user": "U15J5H60P",
+        "ts": "1527391289.000002"
+    },
+    {
+        "client_msg_id": "11FB503D-B275-401C-956F-59E1242A93EA",
+        "type": "message",
+        "text": "Fucking thin everywhere without a reason",
+        "user": "U15HY5TG8",
+        "ts": "1527391293.000090"
+    },
+    {
+        "client_msg_id": "78EC2B80-D2AB-4DE8-9784-5632A651180B",
+        "type": "message",
+        "text": "Let it grow out",
+        "user": "U15J5H60P",
+        "ts": "1527391308.000042"
+    },
+    {
+        "client_msg_id": "6EFB3E94-B190-4AB4-BF14-556C9A8B29EB",
+        "type": "message",
+        "text": "You’re fine",
+        "user": "U15J5H60P",
+        "ts": "1527391312.000064"
+    },
+    {
+        "client_msg_id": "126D2FE6-A10F-4529-9F4D-7645C90A5DE4",
+        "type": "message",
+        "text": "Nawww",
+        "user": "U15HY5TG8",
+        "ts": "1527391316.000052"
+    },
+    {
+        "client_msg_id": "FE39A70D-CE02-4D5E-AC55-E2D19DD4AF66",
+        "type": "message",
+        "text": "Itll look worse",
+        "user": "U15HY5TG8",
+        "ts": "1527391323.000004"
+    },
+    {
+        "client_msg_id": "D9A3F954-2F0B-4E23-8052-9BD4B8582B4B",
+        "type": "message",
+        "text": "Or go completely bald",
+        "user": "U15J5H60P",
+        "ts": "1527391329.000052"
+    },
+    {
+        "client_msg_id": "11BE1BB0-DDEB-4A18-B754-B420E98B012E",
+        "type": "message",
+        "text": "Go hard or go home",
+        "user": "U15J5H60P",
+        "ts": "1527391340.000076"
+    },
+    {
+        "client_msg_id": "EB3F19AF-77B9-48F8-8423-8B485AAD9F77",
+        "type": "message",
+        "text": "Buzz cut after james wedding fo sho",
+        "user": "U15HY5TG8",
+        "ts": "1527391341.000051"
+    },
+    {
+        "client_msg_id": "0C8A3D6E-D49B-4583-A11F-EC9B68EA0C80",
+        "type": "message",
+        "text": "Yeeeeeee",
+        "user": "U15J5H60P",
+        "ts": "1527391348.000029"
+    },
+    {
+        "client_msg_id": "70AB2CB8-99C6-4813-A82D-B5D53F842FCE",
+        "type": "message",
+        "text": "Cant go completely unless i get this birthmark removed",
+        "user": "U15HY5TG8",
+        "ts": "1527391714.000051"
+    },
+    {
+        "client_msg_id": "62CE6D0D-8ADC-4CDE-B143-2F1556D5BDD2",
+        "type": "message",
+        "text": "Own it",
+        "user": "U15J5H60P",
+        "ts": "1527392980.000037"
+    },
+    {
+        "client_msg_id": "D78CAFE9-DE20-4610-83B2-B22C7AE5CAE7",
+        "type": "message",
+        "text": "Ehhhh",
+        "user": "U15HY5TG8",
+        "ts": "1527393216.000061"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1527394829.000029",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/v8nNEgDJhqwcU",
+                "image_url": "https:\/\/media0.giphy.com\/media\/v8nNEgDJhqwcU\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1482303,
+                "is_animated": true,
+                "title": "rogaine",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/v8nNEgDJhqwcU"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/historyinflicks\/status\/1000589960267882496?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1527395385.000030",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/historyinflicks|@historyinflicks>: one prediction down, one more to go <https:\/\/pbs.twimg.com\/media\/DeLPK2PUQAAy4ZM.jpg>",
+                "ts": 1527394211,
+                "author_name": "maple cocaine",
+                "author_link": "https:\/\/twitter.com\/historyinflicks\/status\/1000589960267882496",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/875394295875883009\/iokrMPnB_normal.jpg",
+                "author_subname": "@historyinflicks",
+                "text": "one prediction down, one more to go <https:\/\/pbs.twimg.com\/media\/DeLPK2PUQAAy4ZM.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/historyinflicks\/status\/1000589960267882496?s=12",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DeLPK2PUQAAy4ZM.jpg",
+                "image_width": 632,
+                "image_height": 374,
+                "image_bytes": 32046,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/historyinflicks\/status\/1000589960267882496?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/DeLPL3MVQAIdzEa.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DeLPL3MVQAIdzEa.jpg",
+                "image_width": 638,
+                "image_height": 582,
+                "image_bytes": 46463,
+                "id": 2
+            }
+        ]
+    }
+]

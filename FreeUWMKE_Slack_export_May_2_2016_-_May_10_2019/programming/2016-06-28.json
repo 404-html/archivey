@@ -1,0 +1,110 @@
+[
+    {
+        "type": "message",
+        "text": "Localhost is pissing me off today",
+        "user": "U15HY5TG8",
+        "ts": "1467125856.000002"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: in chrome debugger i get \"reference error: scope is not defined\" ",
+        "user": "U15HY5TG8",
+        "ts": "1467134593.000003"
+    },
+    {
+        "type": "message",
+        "text": "is$scope being assigned to a variable in the controller?",
+        "user": "U15HRTAHL",
+        "ts": "1467134622.000004"
+    },
+    {
+        "type": "message",
+        "text": "sometimes you can get rid of Scope all together",
+        "user": "U15HRTAHL",
+        "ts": "1467134631.000005"
+    },
+    {
+        "type": "message",
+        "text": "Scope is but not $scope",
+        "user": "U15HY5TG8",
+        "ts": "1467134679.000006"
+    },
+    {
+        "type": "message",
+        "text": "at penrod we yse vm as everything",
+        "user": "U15HRTAHL",
+        "ts": "1467134696.000007"
+    },
+    {
+        "type": "message",
+        "text": "do you guys have a Routes file?",
+        "user": "U15HRTAHL",
+        "ts": "1467134704.000008"
+    },
+    {
+        "type": "message",
+        "text": "Whats that",
+        "user": "U15HY5TG8",
+        "ts": "1467134714.000009"
+    },
+    {
+        "type": "message",
+        "text": "Basically tells you what page gets what controller",
+        "user": "U15HRTAHL",
+        "ts": "1467134728.000010"
+    },
+    {
+        "type": "message",
+        "text": "```\n.when(ROUTES.Home, {\n                templateUrl: CONFIG.sitePrefix + '\/dq_External_Provider_FAD',\n                controller: 'FindDentistCtrl',\n                controllerAs: 'vm',\n                label: 'Find a Dentist',\n            })\n```",
+        "user": "U15HRTAHL",
+        "ts": "1467134732.000011"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1467134736.000012"
+    },
+    {
+        "type": "message",
+        "text": "see that controllerAs thing?",
+        "user": "U15HRTAHL",
+        "ts": "1467134747.000013"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15HY5TG8",
+        "ts": "1467134757.000014"
+    },
+    {
+        "type": "message",
+        "text": "that eliminates $scope",
+        "user": "U15HRTAHL",
+        "ts": "1467134770.000015"
+    },
+    {
+        "type": "message",
+        "text": "see if yours is doing the same thing",
+        "user": "U15HRTAHL",
+        "ts": "1467134780.000016"
+    },
+    {
+        "type": "message",
+        "text": "Ok ill check it out",
+        "user": "U15HY5TG8",
+        "ts": "1467134825.000017"
+    },
+    {
+        "type": "message",
+        "text": "Actually i dont think this controller has a route file",
+        "user": "U15HY5TG8",
+        "ts": "1467134909.000018"
+    },
+    {
+        "type": "message",
+        "text": "The error was caused by using scope.model instead of this.model",
+        "user": "U15HY5TG8",
+        "ts": "1467135263.000019"
+    }
+]

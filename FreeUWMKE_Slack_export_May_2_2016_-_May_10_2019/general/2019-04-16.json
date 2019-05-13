@@ -1,0 +1,1058 @@
+[
+    {
+        "client_msg_id": "42DDF46C-145A-4F0A-8E97-C86CD3244088",
+        "type": "message",
+        "text": "How much do you guys pay for auto insurance?",
+        "user": "U15HY5TG8",
+        "ts": "1555418177.000500"
+    },
+    {
+        "client_msg_id": "F529D403-3DBF-4D50-B1CA-633F23982438",
+        "type": "message",
+        "text": "$500ish every 6 months",
+        "user": "U15J5H60P",
+        "ts": "1555418326.001100"
+    },
+    {
+        "client_msg_id": "9C6B6DC2-9E35-48F2-B18D-FBF596E8C3C2",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=08kMdn8L7Yw>",
+        "user": "U15J5H60P",
+        "ts": "1555418328.001300",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "If insects had to introduce themselves.",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=08kMdn8L7Yw",
+                "author_name": "CalebCity",
+                "author_link": "https:\/\/www.youtube.com\/user\/GizzlyB3aver",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/08kMdn8L7Yw\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: If insects had to introduce themselves.",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/08kMdn8L7Yw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=08kMdn8L7Yw",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=08kMdn8L7Yw"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4BA01B38-F5EE-4E76-92EC-ED07D561CBE7",
+        "type": "message",
+        "text": "This dude makes great videos",
+        "user": "U15J5H60P",
+        "ts": "1555418337.001700"
+    },
+    {
+        "client_msg_id": "A274CA8E-8451-4C7F-8C01-1BB8FCE1A855",
+        "type": "message",
+        "text": "Ahh ok thats not too bad",
+        "user": "U15HY5TG8",
+        "ts": "1555418446.002000"
+    },
+    {
+        "client_msg_id": "7C58648B-DDD2-4AFB-A0E0-C609C5F9F55C",
+        "type": "message",
+        "text": "I just got quoted for $430 every 6 i think",
+        "user": "U15HY5TG8",
+        "ts": "1555418516.002500"
+    },
+    {
+        "client_msg_id": "0B4545D3-9114-41D8-A14C-B84BD8208C35",
+        "type": "message",
+        "text": "Very nice! From who?",
+        "user": "U15J5H60P",
+        "ts": "1555418535.002900"
+    },
+    {
+        "client_msg_id": "21FC15BC-84B2-4B02-9BA6-AB401ED6D7A4",
+        "type": "message",
+        "text": "Just checked $455",
+        "user": "U15J5H60P",
+        "ts": "1555418646.003200"
+    },
+    {
+        "client_msg_id": "F47F434C-412F-4C89-9A2C-C815B73B626C",
+        "type": "message",
+        "text": "Noice! Progressive",
+        "user": "U15HY5TG8",
+        "ts": "1555418812.003600"
+    },
+    {
+        "client_msg_id": "4E8A2FFD-3F09-4CA8-9E25-A6A9230BCD70",
+        "type": "message",
+        "text": "With both cars on ",
+        "user": "U15HY5TG8",
+        "ts": "1555418821.003900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJ1DF7VK8",
+                "created": 1555419032,
+                "timestamp": 1555419032,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 39904,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJ1DF7VK8\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJ1DF7VK8\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJ1DF7VK8-84b09dc681\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJ1DF7VK8-84b09dc681\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJ1DF7VK8-84b09dc681\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 313,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJ1DF7VK8-84b09dc681\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 418,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJ1DF7VK8-84b09dc681\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 701,
+                "original_h": 610,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FJ1DF7VK8\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FJ1DF7VK8-085b314d61",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1555419033.004000",
+        "client_msg_id": "18B2648E-ABF8-4BA5-A222-09BF529B85BA"
+    },
+    {
+        "client_msg_id": "7040990F-6E74-40A0-8310-F0F491FB0DA7",
+        "type": "message",
+        "text": "Oh dang, that’s cheap ",
+        "user": "U15J5H60P",
+        "ts": "1555419042.004500"
+    },
+    {
+        "client_msg_id": "8D26DB18-69BF-4B47-83FF-E34775ED0B4C",
+        "type": "message",
+        "text": "Are you sure it’s every 6? Not every quarter?",
+        "user": "U15J5H60P",
+        "ts": "1555419072.005100"
+    },
+    {
+        "client_msg_id": "5a72559c-620a-43cb-8081-4be429743103",
+        "type": "message",
+        "text": "yeah its every 6",
+        "user": "U15HY5TG8",
+        "ts": "1555419090.005300"
+    },
+    {
+        "client_msg_id": "7D819BF5-5C39-4E47-87AF-6708F6814232",
+        "type": "message",
+        "text": "O shit",
+        "user": "U15J5H60P",
+        "ts": "1555419099.005700"
+    },
+    {
+        "client_msg_id": "2dfb3ee7-6d12-4277-b1ca-304364b42d78",
+        "type": "message",
+        "text": "you don't get penalized for having 2 cars",
+        "user": "U15HY5TG8",
+        "ts": "1555419100.005900"
+    },
+    {
+        "client_msg_id": "CB2F5615-E95C-47FD-A85A-A2017D3E3207",
+        "type": "message",
+        "text": "I’m getting ripped",
+        "user": "U15J5H60P",
+        "ts": "1555419105.006100"
+    },
+    {
+        "client_msg_id": "2b2b123c-982a-40e2-a943-424cbd3e33d7",
+        "type": "message",
+        "text": "get a second car!",
+        "user": "U15HY5TG8",
+        "ts": "1555419112.006300"
+    },
+    {
+        "client_msg_id": "a9d60340-4cb8-4475-88be-34371e551789",
+        "type": "message",
+        "text": "jk",
+        "user": "U15HY5TG8",
+        "ts": "1555419114.006500"
+    },
+    {
+        "client_msg_id": "FFC68F78-58A9-439B-83C0-BDD5E28671FC",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1555419118.006700"
+    },
+    {
+        "client_msg_id": "1a0b68c7-3a0b-4f54-886e-c1942fd4e638",
+        "type": "message",
+        "text": "I just remembered that the 240 was recommended to not have any extra coverage",
+        "user": "U15HY5TG8",
+        "ts": "1555419144.007300"
+    },
+    {
+        "client_msg_id": "0ffa0274-b461-40e7-a657-498c86f4e2aa",
+        "type": "message",
+        "text": "I swear they repaint the walls here every other month",
+        "user": "U15HY5TG8",
+        "ts": "1555431389.007600"
+    },
+    {
+        "client_msg_id": "E073F828-0ED5-4836-A607-F74DCB82697B",
+        "type": "message",
+        "text": "Nice",
+        "user": "U15J5H60P",
+        "ts": "1555432016.007800"
+    },
+    {
+        "client_msg_id": "bd46594c-80de-4c36-a03b-2f29d2fab37e",
+        "type": "message",
+        "text": "Milwaukee tool by day",
+        "user": "U15HRTAHL",
+        "ts": "1555432093.008100"
+    },
+    {
+        "client_msg_id": "6b4ed52c-2424-4845-b8df-7d0ddaff101e",
+        "type": "message",
+        "text": "Inane asylum by night",
+        "user": "U15HRTAHL",
+        "ts": "1555432106.008600"
+    },
+    {
+        "client_msg_id": "dbc922a9-84c7-42db-b587-300f08fa7b7d",
+        "type": "message",
+        "text": "perfect combo",
+        "user": "U15HY5TG8",
+        "ts": "1555432117.008800"
+    },
+    {
+        "client_msg_id": "edc526e8-5f0b-4c8a-a32c-1ca1ebed8032",
+        "type": "message",
+        "text": "dude I can't fathom making 30k per year",
+        "user": "U15HY5TG8",
+        "ts": "1555432127.009100"
+    },
+    {
+        "client_msg_id": "b7482de7-5447-4612-b5d6-e6194fd1ce17",
+        "type": "message",
+        "text": "wtf",
+        "user": "U15HY5TG8",
+        "ts": "1555432128.009300"
+    },
+    {
+        "client_msg_id": "089dbe50-f343-4064-bcf1-58b12ed85821",
+        "type": "message",
+        "text": "That's the reality for some",
+        "user": "U15HRTAHL",
+        "ts": "1555432194.009700"
+    },
+    {
+        "client_msg_id": "3708E320-4B0D-4D65-981E-437571D70196",
+        "type": "message",
+        "text": "I would die",
+        "user": "U15J5H60P",
+        "ts": "1555432197.009800"
+    },
+    {
+        "client_msg_id": "f64be286-b60c-44e1-b71e-a7ae05337dfd",
+        "type": "message",
+        "text": "And I'm glad we all realize it",
+        "user": "U15HRTAHL",
+        "ts": "1555432205.010100"
+    },
+    {
+        "client_msg_id": "97725B0D-EA81-477A-8BCF-D2B6923CECEF",
+        "type": "message",
+        "text": "Unless they live with their parents",
+        "user": "U15J5H60P",
+        "ts": "1555432212.010400"
+    },
+    {
+        "client_msg_id": "CEF19908-A2C1-49CA-9448-C77D21CBAED4",
+        "type": "message",
+        "text": "And don’t pay any bills ",
+        "user": "U15J5H60P",
+        "ts": "1555432216.010700"
+    },
+    {
+        "client_msg_id": "d1125f8b-273f-441e-acde-d0e18141354d",
+        "type": "message",
+        "text": "Yeah dude",
+        "user": "U15HY5TG8",
+        "ts": "1555432221.011000"
+    },
+    {
+        "client_msg_id": "4a4bd64c-a7dc-406f-bb22-0d37af1986bf",
+        "type": "message",
+        "text": "unreal",
+        "user": "U15HY5TG8",
+        "ts": "1555432232.011500"
+    },
+    {
+        "client_msg_id": "D9370065-5CC0-4F1E-B322-57000E330BAA",
+        "type": "message",
+        "text": "But still think getting a luxury apartment by yourself is viable. ",
+        "user": "U15J5H60P",
+        "ts": "1555432233.011600"
+    },
+    {
+        "client_msg_id": "2C9B6F82-E84D-4C82-887F-084DEB3FA679",
+        "type": "message",
+        "text": "And need to eat all specialty food",
+        "user": "U15J5H60P",
+        "ts": "1555432254.012100"
+    },
+    {
+        "client_msg_id": "125e3839-47c0-4ad4-af96-aef56fca3fe1",
+        "type": "message",
+        "text": "oooooook, you've left that era of your life. stop coming back",
+        "user": "U15HY5TG8",
+        "ts": "1555432257.012300"
+    },
+    {
+        "client_msg_id": "3605D636-B7E8-4338-A46B-AF7D6ABF88F9",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1555432263.012500"
+    },
+    {
+        "client_msg_id": "66859b82-78cc-4816-bfd5-ddf87dfe93cf",
+        "type": "message",
+        "text": "you'll be together during 2019",
+        "user": "U15HY5TG8",
+        "ts": "1555432279.012800"
+    },
+    {
+        "client_msg_id": "13FD5D99-C7F6-40AE-A6C8-D04E93DBD901",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1555432287.013000"
+    },
+    {
+        "client_msg_id": "ddbf9721-5d9b-4a47-b8e0-59a3ccafbf68",
+        "type": "message",
+        "text": "bet",
+        "user": "U15HY5TG8",
+        "ts": "1555432296.013400"
+    },
+    {
+        "client_msg_id": "a05a00b9-534a-4198-8760-5f2ada460352",
+        "type": "message",
+        "text": "Who?",
+        "user": "U15J5H60P",
+        "ts": "1555433517.013800"
+    },
+    {
+        "client_msg_id": "6a7e5ebf-7623-4340-804f-c2a61e6ff683",
+        "type": "message",
+        "text": "What?",
+        "user": "U15HY5TG8",
+        "ts": "1555433997.014000"
+    },
+    {
+        "client_msg_id": "70aa9798-8597-4a1e-a320-85503e386dfc",
+        "type": "message",
+        "text": "...",
+        "user": "U15J5H60P",
+        "ts": "1555434011.014300"
+    },
+    {
+        "client_msg_id": "98de88f1-bb63-4286-a158-24ae6e09e303",
+        "type": "message",
+        "text": "When?",
+        "user": "U15HY5TG8",
+        "ts": "1555434017.014600"
+    },
+    {
+        "client_msg_id": "93d8646c-cf87-4608-b1f6-7c11b03f06ae",
+        "type": "message",
+        "text": "You'll be together during 2019. Me and who?",
+        "user": "U15J5H60P",
+        "ts": "1555434019.014800"
+    },
+    {
+        "client_msg_id": "454d60d8-7d93-4e8b-82a5-925db0b0967e",
+        "type": "message",
+        "text": "Ffs",
+        "user": "U15J5H60P",
+        "ts": "1555434020.015000"
+    },
+    {
+        "client_msg_id": "1fa50974-6597-4a4e-bf6f-42f7bee52a09",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1555434021.015200"
+    },
+    {
+        "client_msg_id": "86edba2f-7a13-4233-8d9e-b3f9a4c4477e",
+        "type": "message",
+        "text": "Where?",
+        "user": "U15HY5TG8",
+        "ts": "1555434032.015400"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1555434338.015700",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/3o7aTuFSbugZXppHb2",
+                "image_url": "https:\/\/media0.giphy.com\/media\/3o7aTuFSbugZXppHb2\/giphy.gif?cid=6104955e5cb60b605866466863430506",
+                "image_width": 480,
+                "image_height": 204,
+                "image_bytes": 505712,
+                "is_animated": true,
+                "title": "turn your brain on",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/3o7aTuFSbugZXppHb2"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c70ddbe6-72b6-4da7-8487-17abd88a061c",
+        "type": "message",
+        "text": "Obviously he's talking about you and Andrea",
+        "user": "U15HRTAHL",
+        "ts": "1555434352.016100"
+    },
+    {
+        "client_msg_id": "57875f39-f8d8-4726-8033-070f6beb4cb1",
+        "type": "message",
+        "text": "Mmm.",
+        "user": "U15J5H60P",
+        "ts": "1555434404.016400"
+    },
+    {
+        "client_msg_id": "5af20292-ec10-4730-97bf-e405f7a2eeae",
+        "type": "message",
+        "text": "mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm bet",
+        "user": "U15HY5TG8",
+        "ts": "1555435470.016600"
+    },
+    {
+        "client_msg_id": "440b2b85-8c57-45e3-9fc0-f5dd8215025d",
+        "type": "message",
+        "text": "I hate you",
+        "user": "U15J5H60P",
+        "ts": "1555436371.016800"
+    },
+    {
+        "client_msg_id": "5b7ef0ff-f40a-4ea2-909c-a702d647e66b",
+        "type": "message",
+        "text": "s'all good. most people prob do",
+        "user": "U15HY5TG8",
+        "ts": "1555436511.017300"
+    },
+    {
+        "client_msg_id": "4a30803f-7eff-4fde-91b9-fd0fd5cf23b7",
+        "type": "message",
+        "text": "i don’t hate you",
+        "user": "U15HRTAHL",
+        "ts": "1555436567.017500"
+    },
+    {
+        "client_msg_id": "242c0443-b85d-4c2e-85db-36e7a07384b2",
+        "type": "message",
+        "text": "i hate your guts!",
+        "user": "U15HRTAHL",
+        "ts": "1555436571.017700"
+    },
+    {
+        "client_msg_id": "11d90ff0-a406-4e4b-8a9a-871a410d7393",
+        "type": "message",
+        "text": ":disappointed:",
+        "user": "U15HY5TG8",
+        "ts": "1555436631.017900"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1555436813.018100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/lol-vine-deez-nuts-CYU3D3bQnlLIk",
+                "image_url": "https:\/\/media0.giphy.com\/media\/CYU3D3bQnlLIk\/giphy-downsized.gif?cid=6104955e5cb6150a44336f4973310804",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 1281450,
+                "is_animated": true,
+                "title": "got eem",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/lol-vine-deez-nuts-CYU3D3bQnlLIk"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c234926f-b25a-4518-bdc3-c3a5103a8f01",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/pls6fitlfms21.png>",
+        "user": "U15HRTAHL",
+        "ts": "1555441495.018300",
+        "attachments": [
+            {
+                "fallback": "650x848px image",
+                "image_url": "https:\/\/i.redd.it\/pls6fitlfms21.png",
+                "image_width": 650,
+                "image_height": 848,
+                "image_bytes": 739903,
+                "from_url": "https:\/\/i.redd.it\/pls6fitlfms21.png",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/pls6fitlfms21.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1431AACF-9993-4AEB-9BE5-27A611FECA65",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1555441784.018600"
+    },
+    {
+        "client_msg_id": "cb49f56f-d60a-4338-afbb-6e57a3efab75",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1555441817.018800"
+    },
+    {
+        "client_msg_id": "e3472867-face-403c-9890-554f9baa1a16",
+        "type": "message",
+        "text": "speaking of, they separated the Status into the History section on wikipedia",
+        "user": "U15HY5TG8",
+        "ts": "1555441912.019500"
+    },
+    {
+        "client_msg_id": "db38954c-1d1f-46b3-bc3a-761b9029c601",
+        "type": "message",
+        "text": "Anyone trying to go to the Brewer's game tomorrow?",
+        "user": "U15J5H60P",
+        "ts": "1555449360.019800"
+    },
+    {
+        "client_msg_id": "5bb0b77c-9d26-414c-a904-31322339f45c",
+        "type": "message",
+        "text": "Free tix",
+        "user": "U15J5H60P",
+        "ts": "1555449422.020000"
+    },
+    {
+        "client_msg_id": "CD13FB47-4E49-4753-A6DE-C2FB406B0270",
+        "type": "message",
+        "text": "Almost got stuck in the elevator with a super hot girl after i got back from the gym. I was going to be so embarrassed if we actually got stuck",
+        "user": "U15HY5TG8",
+        "ts": "1555454847.001500"
+    },
+    {
+        "client_msg_id": "9B8589DA-77B6-4131-8949-33C4FDF7634C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1555454873.001700"
+    },
+    {
+        "client_msg_id": "8092A832-B329-4DB1-9785-BA91BA4FD8B3",
+        "type": "message",
+        "text": "Why? Because you made it stop?",
+        "user": "U15J5H60P",
+        "ts": "1555454881.002000"
+    },
+    {
+        "client_msg_id": "D0332C25-C8FA-4B3D-BADA-790C24104498",
+        "type": "message",
+        "text": "Mostly cause i smell from the gym, but also cause it prob woulda been my fault since i made it stop at my floor first lol",
+        "user": "U15HY5TG8",
+        "ts": "1555454925.003200"
+    },
+    {
+        "client_msg_id": "BEC4C73F-C45A-4430-A45B-475E85CDDB33",
+        "type": "message",
+        "text": "And im prob pass on the brewers",
+        "user": "U15HY5TG8",
+        "ts": "1555455008.003600"
+    },
+    {
+        "client_msg_id": "23871312-F035-46BA-BA31-BF546626A301",
+        "type": "message",
+        "text": "Prob?",
+        "user": "U15J5H60P",
+        "ts": "1555455021.003900"
+    },
+    {
+        "client_msg_id": "EC1F702A-63F1-4A1B-909A-5035EA25ABE9",
+        "type": "message",
+        "text": "Thanks though",
+        "user": "U15HY5TG8",
+        "ts": "1555455021.004000"
+    },
+    {
+        "client_msg_id": "EB3D8B0F-760B-4E40-B5E7-3AE3A7366482",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1555455024.004200"
+    },
+    {
+        "client_msg_id": "14015247-37DC-4566-A35A-CA877CCE47E1",
+        "type": "message",
+        "text": "No problem ",
+        "user": "U15J5H60P",
+        "ts": "1555455026.004500"
+    },
+    {
+        "client_msg_id": "AA7CC1B9-BF57-4973-9635-08816CE7B2BF",
+        "type": "message",
+        "text": "Yeah prob.",
+        "user": "U15HY5TG8",
+        "ts": "1555455032.004800"
+    },
+    {
+        "client_msg_id": "0620817E-6A01-4528-8515-E51211912D46",
+        "type": "message",
+        "text": "That would’ve been funny ",
+        "user": "U15J5H60P",
+        "ts": "1555455033.005000"
+    },
+    {
+        "client_msg_id": "5E25047D-D55E-4B09-B337-6F77190A3CDB",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1555455034.005200"
+    },
+    {
+        "client_msg_id": "B8D154C2-DFB7-4333-A250-4496DF7F8C49",
+        "type": "message",
+        "text": "Coulda been my shot at true love",
+        "user": "U15HY5TG8",
+        "ts": "1555455056.005600"
+    },
+    {
+        "client_msg_id": "4AFF00DB-19F8-463D-BD70-75D64366A491",
+        "type": "message",
+        "text": " So could the brewers game ",
+        "user": "U15J5H60P",
+        "ts": "1555455069.005900"
+    },
+    {
+        "client_msg_id": "5DAC111E-8235-41D6-86E6-FDFA583BDA23",
+        "type": "message",
+        "text": "Youre not wrong",
+        "user": "U15HY5TG8",
+        "ts": "1555455085.006300"
+    },
+    {
+        "client_msg_id": "262BD14C-1DDC-43C2-8489-613B84DAB1CA",
+        "type": "message",
+        "text": "But its also supposed to be thunderstorming, so basically the only good part of going to the game will be ruined",
+        "user": "U15HY5TG8",
+        "ts": "1555455137.007400"
+    },
+    {
+        "client_msg_id": "c42baafd-0f44-4ace-8821-24a810534232",
+        "type": "message",
+        "text": "Good thing there's a roof",
+        "user": "U15HRTAHL",
+        "ts": "1555455180.007700"
+    },
+    {
+        "client_msg_id": "CDFD7BDA-4449-42FB-B034-D5D0DFF50E61",
+        "type": "message",
+        "text": "You could catch a real home run! ",
+        "user": "U15J5H60P",
+        "ts": "1555455181.007800"
+    },
+    {
+        "client_msg_id": "2C6F14EC-5E4A-44B5-A64C-8245A75AB810",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455180007700>\n\nYou clearly didnt understand",
+        "user": "U15HY5TG8",
+        "ts": "1555455214.008400",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455180007700",
+                "fallback": "[April 16th, 2019 3:53 PM] joeythomaschaske: Good thing there's a roof",
+                "ts": "1555455180.007700",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "Good thing there's a roof",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455180007700",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f5d4e02-5716-4e55-89f6-eceff76df196",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455137007400>\nLeaving isn't the best part?",
+        "user": "U15HRTAHL",
+        "ts": "1555455318.008900",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455137007400",
+                "fallback": "[April 16th, 2019 3:52 PM] ev: But its also supposed to be thunderstorming, so basically the only good part of going to the game will be ruined",
+                "ts": "1555455137.007400",
+                "author_id": "U15HY5TG8",
+                "author_subname": "Ev",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "But its also supposed to be thunderstorming, so basically the only good part of going to the game will be ruined",
+                "author_name": "Ev",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-15\/480422119888_92da814beef2c4f02db6_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455137007400",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "CA018C04-3B5D-4031-B884-12AD2292BBDD",
+        "type": "message",
+        "text": "Ha",
+        "user": "U15J5H60P",
+        "ts": "1555455327.009200"
+    },
+    {
+        "client_msg_id": "B9D13B02-C8C5-498D-9374-F921045E452E",
+        "type": "message",
+        "text": "Tailgating ",
+        "user": "U15J5H60P",
+        "ts": "1555455333.009400"
+    },
+    {
+        "client_msg_id": "D68DA3FC-86DD-4EB7-A2C3-DE5064A033EC",
+        "type": "message",
+        "text": "I want a hot dog",
+        "user": "U15J5H60P",
+        "ts": "1555455338.009600"
+    },
+    {
+        "client_msg_id": "65f93154-e7e0-42d0-a7e8-420831a68b76",
+        "type": "message",
+        "text": "I got a sausage for ya",
+        "user": "U15HRTAHL",
+        "ts": "1555455359.010400"
+    },
+    {
+        "client_msg_id": "7A1A6F35-0EAF-4C76-BE2E-05BDA9F69ADC",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455318008900>\n\nEVEN LEAVING DOESNT HAVE A ROOF",
+        "user": "U15HY5TG8",
+        "ts": "1555455367.010800",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455318008900",
+                "fallback": "[April 16th, 2019 3:55 PM] joeythomaschaske: <https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455137007400>\nLeaving isn't the best part?",
+                "ts": "1555455318.008900",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455137007400>\nLeaving isn't the best part?\n<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455137007400>",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455318008900",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "be1a3fd8-5945-43ff-bd43-60e59db3e840",
+        "type": "message",
+        "text": "You ruined the roof on your car?\n<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455367010800>",
+        "user": "U15HRTAHL",
+        "ts": "1555455395.011400",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455367010800",
+                "fallback": "[April 16th, 2019 3:56 PM] ev: <https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455318008900>\n\nEVEN LEAVING DOESNT HAVE A ROOF",
+                "ts": "1555455367.010800",
+                "author_id": "U15HY5TG8",
+                "author_subname": "Ev",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455318008900>\n\nEVEN LEAVING DOESNT HAVE A ROOF\n<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455318008900>",
+                "author_name": "Ev",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-15\/480422119888_92da814beef2c4f02db6_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455367010800",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C55E76B9-8FC1-40F2-9EF0-5067C9785264",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455395011400>\nYoure a pleb. You know that?",
+        "user": "U15HY5TG8",
+        "ts": "1555455423.012000",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455395011400",
+                "fallback": "[April 16th, 2019 3:56 PM] joeythomaschaske: You ruined the roof on your car?\n<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455367010800>",
+                "ts": "1555455395.011400",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15HP1TGC",
+                "channel_name": "general",
+                "is_msg_unfurl": true,
+                "text": "You ruined the roof on your car?\n<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455367010800>\n<https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455367010800>",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15HP1TGC\/p1555455395011400",
+                "footer": "Posted in #general"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "326f5299-998b-4fb1-bfee-94d98e570bcd",
+        "type": "message",
+        "text": "Do you guys say roof like roofalin or roof like woof",
+        "user": "U15HRTAHL",
+        "ts": "1555455441.012900"
+    },
+    {
+        "client_msg_id": "49ADFD04-FA98-4E60-A56C-AC823221D00B",
+        "type": "message",
+        "text": "Damn, slack inception stops at 3 levels",
+        "user": "U15HY5TG8",
+        "ts": "1555455445.013200"
+    },
+    {
+        "client_msg_id": "4944F5AA-D2D1-4662-9914-9FFF5D55B267",
+        "type": "message",
+        "text": "Roofalin",
+        "user": "U15HY5TG8",
+        "ts": "1555455464.013400"
+    },
+    {
+        "client_msg_id": "151A2D9E-C90A-4AE6-81C0-10AF010D6739",
+        "type": "message",
+        "text": "Same thing?",
+        "user": "U15J5H60P",
+        "ts": "1555455511.013600"
+    },
+    {
+        "client_msg_id": "02F7CF2B-E3D4-4DD6-8C62-24AFE807928A",
+        "type": "message",
+        "text": "Lol i thought the same thing at first ",
+        "user": "U15HY5TG8",
+        "ts": "1555455542.014300"
+    },
+    {
+        "client_msg_id": "48E5D2A3-D8B9-4588-865F-67610857BAC9",
+        "type": "message",
+        "text": "But do you say woof like roof or like rough",
+        "user": "U15HY5TG8",
+        "ts": "1555455556.014900"
+    },
+    {
+        "client_msg_id": "ED3E8158-D8D0-416A-B815-1FAAE7406640",
+        "type": "message",
+        "text": "Ohhh",
+        "user": "U15J5H60P",
+        "ts": "1555455565.015200"
+    },
+    {
+        "client_msg_id": "99EA1FE5-CCB7-4FB6-A9DA-BB8B3F8A86E5",
+        "type": "message",
+        "text": "Roofalin",
+        "user": "U15J5H60P",
+        "ts": "1555455623.015800",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1555455726.000000"
+        }
+    },
+    {
+        "client_msg_id": "3340e126-4d91-41e4-8e80-b1e04e5c726a",
+        "type": "message",
+        "text": "<@U15J5H60P> howd you get free Tix? Can you swap them for Saturday",
+        "user": "U15HRTAHL",
+        "ts": "1555455779.016600"
+    },
+    {
+        "client_msg_id": "15E00B8A-59A9-44B9-9FBC-681E2AF7CCE8",
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1555455787.016800"
+    },
+    {
+        "client_msg_id": "EAD727F5-AEC0-4B7A-9DAB-35E820BBF0BA",
+        "type": "message",
+        "text": "Karl G",
+        "user": "U15J5H60P",
+        "ts": "1555455792.017000"
+    },
+    {
+        "client_msg_id": "579f21a0-934d-4124-8020-7f5fdff36935",
+        "type": "message",
+        "text": "ers",
+        "user": "U15HRTAHL",
+        "ts": "1555461344.017100"
+    },
+    {
+        "client_msg_id": "095ab9f2-b905-403f-bfc8-1a02f40ed146",
+        "type": "message",
+        "text": "ers",
+        "user": "U15J5H60P",
+        "ts": "1555461353.017400"
+    },
+    {
+        "client_msg_id": "778cb487-478f-4378-bed4-f778f13e16f0",
+        "type": "message",
+        "text": "Lol that's funny",
+        "user": "U15HRTAHL",
+        "ts": "1555461777.017900"
+    },
+    {
+        "client_msg_id": "d8de94fa-c2d6-48b8-8fd6-e46eb29c3672",
+        "type": "message",
+        "text": "Was typing in Spotify careers on Google and slack popped open before I finished typing",
+        "user": "U15HRTAHL",
+        "ts": "1555461806.018800"
+    },
+    {
+        "client_msg_id": "5d54c9b4-0421-402d-8b06-f540850dc952",
+        "type": "message",
+        "text": "mmm",
+        "user": "U15J5H60P",
+        "ts": "1555462093.019000"
+    },
+    {
+        "client_msg_id": "38120ca0-db47-4724-b47f-e854021dd5a0",
+        "type": "message",
+        "text": "Mmmmm",
+        "user": "U15HRTAHL",
+        "ts": "1555468375.019200"
+    },
+    {
+        "client_msg_id": "56461887-d560-44d1-a644-7ded7444819c",
+        "type": "message",
+        "text": "Too many posts on Facebook about \"God saving the cross\"",
+        "user": "U15HRTAHL",
+        "ts": "1555468394.019900"
+    },
+    {
+        "client_msg_id": "115b4961-337a-4089-8eee-36407b866cf3",
+        "type": "message",
+        "text": "Where the hell was he when the building lit on fire ffs",
+        "user": "U15HRTAHL",
+        "ts": "1555468413.020500"
+    },
+    {
+        "client_msg_id": "FEC6686E-F481-4A3D-8A56-2AB84D9AC235",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1555468435.020700"
+    },
+    {
+        "client_msg_id": "faa43cd6-f5ed-4ef5-99b9-53f1422c6533",
+        "type": "message",
+        "text": "Masturbating",
+        "user": "U15J5H60P",
+        "ts": "1555469999.020900"
+    },
+    {
+        "client_msg_id": "9e247ad1-bf0a-499c-88a2-3a8c40a2448b",
+        "type": "message",
+        "text": "to gay porn",
+        "user": "U15J5H60P",
+        "ts": "1555470003.021100"
+    },
+    {
+        "client_msg_id": "510AFBBA-B9DA-4FBB-BFD0-DFA5EF4B38BA",
+        "type": "message",
+        "text": "I guess I’m going to go see Us at 11",
+        "user": "U15HSHSS2",
+        "ts": "1555470763.021400"
+    },
+    {
+        "client_msg_id": "e898a5bc-a2a5-4758-9ee2-f2b85d0b0e68",
+        "type": "message",
+        "text": "Sweet",
+        "user": "U15HRTAHL",
+        "ts": "1555470891.021600"
+    },
+    {
+        "client_msg_id": "63c663bd-39b4-4cd3-9e3e-6d9790c4b345",
+        "type": "message",
+        "text": "Let us know what you think",
+        "user": "U15HRTAHL",
+        "ts": "1555470898.021900"
+    },
+    {
+        "client_msg_id": "8f2f0ebf-9b0d-41ac-8e40-cfa230c063d6",
+        "type": "message",
+        "text": "Also why so late?",
+        "user": "U15HRTAHL",
+        "ts": "1555470910.022300"
+    },
+    {
+        "client_msg_id": "4C5D8A97-AD8A-47C0-8F7D-5D297E8733EA",
+        "type": "message",
+        "text": "The very ok movie",
+        "user": "U15HZ01QX",
+        "ts": "1555471094.022600"
+    }
+]

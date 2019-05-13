@@ -1,0 +1,32 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/i\/events\/1099690382466531329>",
+        "user": "U15HZ01QX",
+        "ts": "1551026444.000100",
+        "attachments": [
+            {
+                "service_name": "Twitter",
+                "title": "Huawei unveils its foldable phone to rival Samsung",
+                "title_link": "https:\/\/twitter.com\/i\/events\/1099690382466531329",
+                "text": "The folding version of the Chinese firm's Mate X range folds outward, compared to Samsung's, which opens like a book.",
+                "fallback": "Twitter: Huawei unveils its foldable phone to rival Samsung",
+                "image_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1099672071087575040\/pu\/img\/Ykf5-sX2DutT_Vca.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/twitter.com\/i\/events\/1099690382466531329",
+                "image_bytes": 59193,
+                "service_icon": "https:\/\/abs.twimg.com\/icons\/apple-touch-icon-192x192.png",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/i\/events\/1099690382466531329"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9D3ABDBF-FE84-466A-B8F4-864FD1BA5E2C",
+        "type": "message",
+        "text": "Setting up a family account let’s you ping your family members stuff in find my iPhone",
+        "user": "U15HZ01QX",
+        "ts": "1551068777.000900"
+    }
+]

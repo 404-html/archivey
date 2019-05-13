@@ -1,0 +1,72 @@
+[
+    {
+        "client_msg_id": "625c0566-11aa-4eb4-ac6b-3943dcf051fa",
+        "type": "message",
+        "text": "<https:\/\/www.cnbc.com\/video\/2018\/11\/19\/strategist-the-market-is-in-trouble.html>",
+        "user": "U15HRTAHL",
+        "ts": "1542653072.000200",
+        "attachments": [
+            {
+                "service_name": "CNBC",
+                "title": "Strategist: The market is in trouble",
+                "title_link": "https:\/\/www.cnbc.com\/video\/2018\/11\/19\/strategist-the-market-is-in-trouble.html",
+                "text": "Alicia Levine, chief market strategist with BNY Mellon Investment, and Michael Arone, chief investment strategist with State Street Global Advisors, discuss where the market is heading as stocks extend losses on weak housing sentiment data.",
+                "fallback": "CNBC: Strategist: The market is in trouble",
+                "image_url": "https:\/\/fm.cnbc.com\/applications\/cnbc.com\/resources\/img\/editorial\/2018\/11\/19\/105582872-GettyImages-1060726192.600x400.jpg",
+                "from_url": "https:\/\/www.cnbc.com\/video\/2018\/11\/19\/strategist-the-market-is-in-trouble.html",
+                "image_width": 375,
+                "image_height": 250,
+                "image_bytes": 33887,
+                "service_icon": "https:\/\/www.cnbc.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnbc.com\/video\/2018\/11\/19\/strategist-the-market-is-in-trouble.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a8d6514-b9cc-45fd-b080-7f594445548b",
+        "type": "message",
+        "text": "ITS OVA",
+        "user": "U15HRTAHL",
+        "ts": "1542653074.000500"
+    },
+    {
+        "client_msg_id": "99726765-b500-441f-a7bc-8805663ec75c",
+        "type": "message",
+        "text": "<https:\/\/www.cnbc.com\/2018\/11\/19\/stock-market-dow-set-for-higher-open-amid-mixed-signals-over-global-trade.html>",
+        "user": "U15HRTAHL",
+        "ts": "1542653080.000700",
+        "attachments": [
+            {
+                "service_name": "CNBC",
+                "title": "Dow drops 400 points as Apple, Amazon and Facebook fall",
+                "title_link": "https:\/\/www.cnbc.com\/2018\/11\/19\/stock-market-dow-set-for-higher-open-amid-mixed-signals-over-global-trade.html",
+                "text": "Stocks dropped sharply on Monday as some of the largest technology shares pressured the broader market.",
+                "fallback": "CNBC: Dow drops 400 points as Apple, Amazon and Facebook fall",
+                "image_url": "https:\/\/fm.cnbc.com\/applications\/cnbc.com\/resources\/img\/editorial\/2017\/07\/25\/104608923-GettyImages_r-669889770.1910x1000.jpg",
+                "ts": 1542620792,
+                "from_url": "https:\/\/www.cnbc.com\/2018\/11\/19\/stock-market-dow-set-for-higher-open-amid-mixed-signals-over-global-trade.html",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 177454,
+                "service_icon": "https:\/\/www.cnbc.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.cnbc.com\/2018\/11\/19\/stock-market-dow-set-for-higher-open-amid-mixed-signals-over-global-trade.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5db58a07-7d71-4842-9ea3-b1d648917f08",
+        "type": "message",
+        "text": "RUN FOR THE HILLS",
+        "user": "U15HRTAHL",
+        "ts": "1542653083.001000"
+    },
+    {
+        "client_msg_id": "3ff7cd07-920a-448e-82fc-7b39d734fb7e",
+        "type": "message",
+        "text": "It's ova",
+        "user": "U15J5H60P",
+        "ts": "1542654276.001200"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505918371.000076",
+        "text": "<@U15HRTAHL> has joined the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "ts": "1505918446.000477",
+        "text": "<@U15HRTAHL> set the channel purpose: Talk about sports and injuries",
+        "purpose": "Talk about sports and injuries"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> <@U15J5H60P> <@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1505918452.000536"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505918455.000242",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505918455.000323",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1505918455.000373",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1505918466.000450"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1505918486.000445",
+        "text": "<@U15HZ01QX> archived the channel"
+    }
+]

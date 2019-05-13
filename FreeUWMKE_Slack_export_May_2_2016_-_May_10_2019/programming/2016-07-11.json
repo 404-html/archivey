@@ -1,0 +1,380 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: thats what i meant but either way they blowmy mind",
+        "user": "U15HY5TG8",
+        "ts": "1468260563.000002"
+    },
+    {
+        "type": "message",
+        "text": "usually it goes like `\/someCharachter` followed by `{howmanyCharachtersYouWant}` so a phone regex would look like this\n\n\n`\/[0-9]{3}\/s[0-9]{3}\/-[0-9]{4}`",
+        "user": "U15HRTAHL",
+        "ts": "1468260737.000003"
+    },
+    {
+        "type": "message",
+        "text": "[0-9] is a range",
+        "user": "U15HRTAHL",
+        "ts": "1468260748.000004"
+    },
+    {
+        "type": "message",
+        "text": "for numbers 0 - 9i inclusive",
+        "user": "U15HRTAHL",
+        "ts": "1468260756.000005"
+    },
+    {
+        "type": "message",
+        "text": "and I want 3 of them so {3}",
+        "user": "U15HRTAHL",
+        "ts": "1468260762.000006"
+    },
+    {
+        "type": "message",
+        "text": "\/s is a space charachter I think",
+        "user": "U15HRTAHL",
+        "ts": "1468260777.000007"
+    },
+    {
+        "type": "message",
+        "text": "What im trying to decipher",
+        "user": "U15HY5TG8",
+        "ts": "1468260777.000008"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F1QLGN6G0",
+                "created": 1468260771,
+                "timestamp": 1468260771,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 3612497,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1QLGN6G0\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F1QLGN6G0\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F1QLGN6G0-498ac4b1c2\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3264,
+                "original_h": 2448,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F1QLGN6G0\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F1QLGN6G0-d28e4feb82",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1468260777.000009"
+    },
+    {
+        "type": "message",
+        "text": "im sure theres a resource somewhere that will spit out things that match that regex",
+        "user": "U15HRTAHL",
+        "ts": "1468260819.000010"
+    },
+    {
+        "type": "message",
+        "text": "Yea i understand the numbers but this expression has to have ( as its 3rd to last and ) as its last",
+        "user": "U15HY5TG8",
+        "ts": "1468260838.000011"
+    },
+    {
+        "type": "message",
+        "text": "Joe write a regex to be greater than 99999999 but less than 116777215",
+        "user": "U15HY5TG8",
+        "ts": "1468265050.000012"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: ",
+        "user": "U15HY5TG8",
+        "ts": "1468265062.000013"
+    },
+    {
+        "type": "message",
+        "text": "that makes 0 sense",
+        "user": "U15HRTAHL",
+        "ts": "1468265726.000014"
+    },
+    {
+        "type": "message",
+        "text": "do you mean greater than 116777215 and less than 99999999?",
+        "user": "U15HRTAHL",
+        "ts": "1468265754.000015"
+    },
+    {
+        "type": "message",
+        "text": "No theres eight 9's and nine digits in the other one",
+        "user": "U15HY5TG8",
+        "ts": "1468265800.000016"
+    },
+    {
+        "type": "message",
+        "text": "ahhhhhh",
+        "user": "U15HRTAHL",
+        "ts": "1468265810.000017"
+    },
+    {
+        "type": "message",
+        "text": "Are you actually doing this or just quizzing?",
+        "user": "U15HRTAHL",
+        "ts": "1468265838.000018"
+    },
+    {
+        "type": "message",
+        "text": "Actually doing it",
+        "user": "U15HY5TG8",
+        "ts": "1468265849.000019"
+    },
+    {
+        "type": "message",
+        "text": "lol ok",
+        "user": "U15HRTAHL",
+        "ts": "1468265856.000020"
+    },
+    {
+        "type": "message",
+        "text": "Mine is below the green",
+        "user": "U15HY5TG8",
+        "ts": "1468265890.000022"
+    },
+    {
+        "type": "message",
+        "text": "yeah I’ll do that when I have time",
+        "user": "U15HRTAHL",
+        "ts": "1468265898.000023",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1468265900.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "and not at work",
+        "user": "U15HRTAHL",
+        "ts": "1468265903.000025"
+    },
+    {
+        "type": "message",
+        "text": "I have all the extra parentheses in there because i need parentheses",
+        "user": "U15HY5TG8",
+        "ts": "1468265908.000026"
+    },
+    {
+        "type": "message",
+        "text": "Lol fair enough",
+        "user": "U15HY5TG8",
+        "ts": "1468265916.000027"
+    },
+    {
+        "type": "message",
+        "text": "why are you doing regex for that?",
+        "user": "U15HRTAHL",
+        "ts": "1468266033.000028"
+    },
+    {
+        "type": "message",
+        "text": "why not just javacsript",
+        "user": "U15HRTAHL",
+        "ts": "1468266042.000029"
+    },
+    {
+        "type": "message",
+        "text": "min and max on the input",
+        "user": "U15HRTAHL",
+        "ts": "1468266054.000030"
+    },
+    {
+        "type": "message",
+        "text": "Cause the last 3 chars have to be \"(n)\"",
+        "user": "U15HY5TG8",
+        "ts": "1468266134.000031"
+    },
+    {
+        "type": "message",
+        "text": "Otherwise yes this would be so much easier",
+        "user": "U15HY5TG8",
+        "ts": "1468266156.000032"
+    },
+    {
+        "type": "message",
+        "text": "And they have a directive built for validating which is annoying too",
+        "user": "U15HY5TG8",
+        "ts": "1468266198.000033"
+    },
+    {
+        "type": "message",
+        "text": "I had directives",
+        "user": "U15HY5TG8",
+        "ts": "1468266207.000034"
+    },
+    {
+        "type": "message",
+        "text": "Hate*",
+        "user": "U15HY5TG8",
+        "ts": "1468266222.000035"
+    },
+    {
+        "type": "message",
+        "text": "Im working on a directive right now too",
+        "user": "U15HRTAHL",
+        "ts": "1468266239.000036"
+    },
+    {
+        "type": "message",
+        "text": "So annoying",
+        "user": "U15HY5TG8",
+        "ts": "1468266250.000037"
+    },
+    {
+        "type": "message",
+        "text": "Making one or changing it?",
+        "user": "U15HY5TG8",
+        "ts": "1468266265.000038"
+    },
+    {
+        "type": "message",
+        "text": "implementing an existing one, but some shit just doesn’t want to work",
+        "user": "U15HRTAHL",
+        "ts": "1468266288.000039"
+    },
+    {
+        "type": "message",
+        "text": "uploading attachments and saving them to the server",
+        "user": "U15HRTAHL",
+        "ts": "1468266298.000040"
+    },
+    {
+        "type": "message",
+        "text": "Like i said....directives suck dick to deal with",
+        "user": "U15HY5TG8",
+        "ts": "1468266327.000041"
+    },
+    {
+        "type": "message",
+        "text": "And regexs",
+        "user": "U15HY5TG8",
+        "ts": "1468266479.000042"
+    },
+    {
+        "type": "message",
+        "text": "This shouldve been a 2 minute fix if it were just a number but has turned into fucking 3 hours",
+        "user": "U15HY5TG8",
+        "ts": "1468266547.000043"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: ",
+        "user": "U15HY5TG8",
+        "ts": "1468266573.000044"
+    },
+    {
+        "type": "message",
+        "text": "evan just use this",
+        "user": "U15HRTAHL",
+        "ts": "1468266583.000045"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/regexr.com|regexr.com>",
+        "user": "U15HRTAHL",
+        "ts": "1468266587.000046"
+    },
+    {
+        "type": "message",
+        "text": "Tried",
+        "user": "U15HY5TG8",
+        "ts": "1468266592.000047"
+    },
+    {
+        "type": "message",
+        "text": "This is gonna be one hell of an expression",
+        "user": "U15HY5TG8",
+        "ts": "1468267182.000048"
+    },
+    {
+        "type": "message",
+        "text": "Just created the ugliest expression ever lol",
+        "user": "U15HY5TG8",
+        "ts": "1468269512.000049"
+    },
+    {
+        "type": "message",
+        "text": "does it work?",
+        "user": "U15HRTAHL",
+        "ts": "1468269612.000050"
+    },
+    {
+        "type": "message",
+        "text": "Look how fucking long it is lol",
+        "user": "U15HY5TG8",
+        "ts": "1468269619.000052"
+    },
+    {
+        "type": "message",
+        "text": "yeah thats not right",
+        "user": "U15HRTAHL",
+        "ts": "1468269625.000053"
+    },
+    {
+        "type": "message",
+        "text": "And it works on a tester but im trying it on the software now",
+        "user": "U15HY5TG8",
+        "ts": "1468269636.000054"
+    },
+    {
+        "type": "message",
+        "text": "im sure this is a pretty common regex",
+        "user": "U15HRTAHL",
+        "ts": "1468269636.000055"
+    },
+    {
+        "type": "message",
+        "text": "With small numbers",
+        "user": "U15HY5TG8",
+        "ts": "1468269650.000056"
+    },
+    {
+        "type": "message",
+        "text": "This one is for 0-255",
+        "user": "U15HY5TG8",
+        "ts": "1468269684.000058"
+    },
+    {
+        "type": "message",
+        "text": "Im sure i can use \\d{n} but that cite didnt like it",
+        "user": "U15HY5TG8",
+        "ts": "1468269830.000059"
+    }
+]

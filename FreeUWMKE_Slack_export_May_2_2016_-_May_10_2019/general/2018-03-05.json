@@ -1,0 +1,1636 @@
+[
+    {
+        "client_msg_id": "8B0E6C3A-300A-4B8C-BE26-73C0F5CBE35F",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15HY5TG8",
+        "ts": "1520251207.000492"
+    },
+    {
+        "type": "message",
+        "text": "Damn I still haven't seen the latest season of HoC",
+        "user": "U15HSHSS2",
+        "ts": "1520262688.000760"
+    },
+    {
+        "client_msg_id": "E4CA7A50-7EFD-46DB-8EE6-B840BE8B3811",
+        "type": "message",
+        "text": "It was better than the previous one",
+        "user": "U15HZ01QX",
+        "ts": "1520262731.000092"
+    },
+    {
+        "type": "message",
+        "text": "I'll probably start it this week",
+        "user": "U15HSHSS2",
+        "ts": "1520262750.000517"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/u7MS6u0.gifv>",
+        "user": "U15HSHSS2",
+        "ts": "1520263154.000623",
+        "attachments": [
+            {
+                "service_name": "Imgur",
+                "title": "Still figuring out how lebron pulled this off",
+                "title_link": "https:\/\/i.imgur.com\/u7MS6u0.gifv",
+                "fallback": "Imgur: Still figuring out how lebron pulled this off",
+                "thumb_url": "https:\/\/i.imgur.com\/u7MS6u0h.jpg",
+                "video_html_width": "720",
+                "video_html_height": "720",
+                "video_url": "https:\/\/i.imgur.com\/u7MS6u0.mp4",
+                "video_html": "<video poster=\"https:\/\/i.imgur.com\/u7MS6u0h.jpg\" src=\"https:\/\/i.imgur.com\/u7MS6u0.mp4\" width=\"720\" height=\"720\" autoplay=\"autoplay\" preload=\"auto\" muted=\"muted\" loop=\"loop\" webkit-playsinline><\/video>",
+                "from_url": "https:\/\/i.imgur.com\/u7MS6u0.gifv",
+                "thumb_width": 720,
+                "thumb_height": 720,
+                "service_icon": "https:\/\/i.imgur.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBD47E8A-B3A5-4BAF-8CCF-01081A37DD8E",
+        "type": "message",
+        "text": "Devs are doing a readout to the product owners. I’m pretty sure they stole slides from a presentation I did.",
+        "user": "U15HZ01QX",
+        "ts": "1520264555.000236"
+    },
+    {
+        "client_msg_id": "499CB720-18C7-48EA-A98F-3C4351B2965A",
+        "type": "message",
+        "text": "Shoulda put a trademark on it",
+        "user": "U15HY5TG8",
+        "ts": "1520275448.000648"
+    },
+    {
+        "client_msg_id": "16E7C410-BE3A-4272-B911-185B1B1B29D4",
+        "type": "message",
+        "text": ":brain:",
+        "user": "U15HZ01QX",
+        "ts": "1520275471.000321"
+    },
+    {
+        "type": "message",
+        "text": "I have a programming question",
+        "user": "U15HZ01QX",
+        "ts": "1520282778.000501"
+    },
+    {
+        "type": "message",
+        "text": "That's nice.",
+        "user": "U15J5H60P",
+        "ts": "1520282794.000672"
+    },
+    {
+        "client_msg_id": "5B5CF796-7C72-43D2-9277-EE08FF71AE55",
+        "type": "message",
+        "text": "<#C1B6JA124|programming> ",
+        "user": "U15HY5TG8",
+        "ts": "1520282806.000625"
+    },
+    {
+        "type": "message",
+        "text": "We can answer it here",
+        "user": "U15J5H60P",
+        "ts": "1520282817.000375"
+    },
+    {
+        "client_msg_id": "FB7FC014-46C0-481E-B995-A021A58C6B91",
+        "type": "message",
+        "text": "Lil",
+        "user": "U15HY5TG8",
+        "ts": "1520282821.000622"
+    },
+    {
+        "type": "message",
+        "text": "uh huh",
+        "user": "U15HZ01QX",
+        "ts": "1520282825.000099"
+    },
+    {
+        "client_msg_id": "D4D36432-EDC2-4BAB-BEBE-3F9ADB3B6AC1",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1520282825.000301"
+    },
+    {
+        "type": "message",
+        "text": "So I have an array in typescript(?),",
+        "user": "U15HZ01QX",
+        "ts": "1520282868.000294"
+    },
+    {
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1520282875.000126"
+    },
+    {
+        "type": "message",
+        "text": "```\n multiCapabilities: [\n   \/\/{browserName : ''},\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n    \/\/{ 'browserName': 'chrome', 'browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' }\n  ],\n```",
+        "user": "U15HZ01QX",
+        "ts": "1520282887.000152",
+        "edited": {
+            "user": "U15HZ01QX",
+            "ts": "1520282922.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1520282890.000245"
+    },
+    {
+        "type": "message",
+        "text": "looks like this",
+        "user": "U15HZ01QX",
+        "ts": "1520282896.000067"
+    },
+    {
+        "type": "message",
+        "text": "Triple ticks",
+        "user": "U15J5H60P",
+        "ts": "1520282905.000228"
+    },
+    {
+        "type": "message",
+        "text": "the last object is commented out, so the one prior doesn't need the trailing `,`",
+        "user": "U15HRTAHL",
+        "ts": "1520282953.000603"
+    },
+    {
+        "type": "message",
+        "text": "fixed it",
+        "user": "U15HRTAHL",
+        "ts": "1520282955.000285"
+    },
+    {
+        "type": "message",
+        "text": "done",
+        "user": "U15HRTAHL",
+        "ts": "1520282956.000239"
+    },
+    {
+        "type": "message",
+        "text": "next question",
+        "user": "U15HRTAHL",
+        "ts": "1520282958.000390"
+    },
+    {
+        "type": "message",
+        "text": "Quit commenting shit out",
+        "user": "U15J5H60P",
+        "ts": "1520282980.000550"
+    },
+    {
+        "type": "message",
+        "text": "Delete it",
+        "user": "U15J5H60P",
+        "ts": "1520282992.000474"
+    },
+    {
+        "type": "message",
+        "text": "so i thought if i have ` --multiCapabilities[0].browserName=\"chrome\"  ` on the command line it would change the first browsername to chrome",
+        "user": "U15HZ01QX",
+        "ts": "1520282994.000646"
+    },
+    {
+        "client_msg_id": "59498F73-8A9A-45AF-A820-45E21E5C3BCE",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1520282995.000602"
+    },
+    {
+        "type": "message",
+        "text": "but it doesnt",
+        "user": "U15HZ01QX",
+        "ts": "1520282998.000428"
+    },
+    {
+        "type": "message",
+        "text": "also some props are enclosed in `''` while otheres aren't",
+        "user": "U15HRTAHL",
+        "ts": "1520282998.000494"
+    },
+    {
+        "type": "message",
+        "text": "None of those are causing my issue",
+        "user": "U15HZ01QX",
+        "ts": "1520283009.000620"
+    },
+    {
+        "type": "message",
+        "text": "its messy right now i apologize",
+        "user": "U15HZ01QX",
+        "ts": "1520283018.000040"
+    },
+    {
+        "type": "message",
+        "text": "Batch is for the 90s",
+        "user": "U15J5H60P",
+        "ts": "1520283030.000087"
+    },
+    {
+        "type": "message",
+        "text": "im not in a batch",
+        "user": "U15HZ01QX",
+        "ts": "1520283036.000352"
+    },
+    {
+        "type": "message",
+        "text": "do `multiCapabilities[0]['browserName']`",
+        "user": "U15HRTAHL",
+        "ts": "1520283050.000397"
+    },
+    {
+        "type": "message",
+        "text": "no luck",
+        "user": "U15HZ01QX",
+        "ts": "1520283150.000684"
+    },
+    {
+        "type": "message",
+        "text": "well james ya broke the type script",
+        "user": "U15HRTAHL",
+        "ts": "1520283178.000596"
+    },
+    {
+        "type": "message",
+        "text": "what does the `--` do in the beginning?",
+        "user": "U15HRTAHL",
+        "ts": "1520283192.000194"
+    },
+    {
+        "type": "message",
+        "text": "what you have should work",
+        "files": [
+            {
+                "id": "F9K1FJ77X",
+                "created": 1520283229,
+                "timestamp": 1520283229,
+                "name": "Pasted image at 2018_03_05 02_53 PM.png",
+                "title": "Pasted image at 2018-03-05, 2:53 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 22379,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9K1FJ77X\/pasted_image_at_2018_03_05_02_53_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9K1FJ77X\/download\/pasted_image_at_2018_03_05_02_53_pm.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K1FJ77X-de6453e252\/pasted_image_at_2018_03_05_02_53_pm_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K1FJ77X-de6453e252\/pasted_image_at_2018_03_05_02_53_pm_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K1FJ77X-de6453e252\/pasted_image_at_2018_03_05_02_53_pm_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 139,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K1FJ77X-de6453e252\/pasted_image_at_2018_03_05_02_53_pm_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 480,
+                "original_h": 185,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F9K1FJ77X\/pasted_image_at_2018_03_05_02_53_pm.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9K1FJ77X-82f7a9dc41",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1520283230.000515"
+    },
+    {
+        "type": "message",
+        "text": "oh wait one second",
+        "user": "U15HZ01QX",
+        "ts": "1520283266.000225"
+    },
+    {
+        "client_msg_id": "99934009-B3A7-442C-B5B2-062A12746421",
+        "type": "message",
+        "text": "Youre only commenting out one line of the last object",
+        "user": "U15HY5TG8",
+        "ts": "1520283275.000551"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HZ01QX",
+        "ts": "1520283294.000247"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> this ` --multiCapabilities[0]['browserName']=\"chrome\" `",
+        "user": "U15HZ01QX",
+        "ts": "1520283318.000510"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "user": "U15HZ01QX",
+        "ts": "1520283320.000423"
+    },
+    {
+        "type": "message",
+        "text": "yeah, whats that -- for?",
+        "user": "U15HRTAHL",
+        "ts": "1520283336.000727"
+    },
+    {
+        "type": "message",
+        "text": "or is that your variable name?",
+        "user": "U15HRTAHL",
+        "ts": "1520283345.000629"
+    },
+    {
+        "type": "message",
+        "text": "devs told me to put it in front of everything anytime im changing or putting in a variable from the command line",
+        "user": "U15HZ01QX",
+        "ts": "1520283365.000082"
+    },
+    {
+        "type": "message",
+        "text": "oooooh ok that makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1520283380.000058"
+    },
+    {
+        "type": "message",
+        "text": "so the reason im confused is \n```\ncapabilities:\n { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n\n```",
+        "user": "U15HZ01QX",
+        "ts": "1520283412.000072"
+    },
+    {
+        "type": "message",
+        "text": "that will let me edit it fine",
+        "user": "U15HZ01QX",
+        "ts": "1520283419.000664"
+    },
+    {
+        "type": "message",
+        "text": "I think you need to replace the whole object",
+        "user": "U15HRTAHL",
+        "ts": "1520283423.000234"
+    },
+    {
+        "type": "message",
+        "text": "but the array one i cant figure out",
+        "user": "U15HZ01QX",
+        "ts": "1520283430.000082"
+    },
+    {
+        "type": "message",
+        "text": "not just the attribute of the object",
+        "user": "U15HRTAHL",
+        "ts": "1520283431.000340"
+    },
+    {
+        "type": "message",
+        "text": "ohhh",
+        "user": "U15HZ01QX",
+        "ts": "1520283436.000281"
+    },
+    {
+        "type": "message",
+        "text": "**replace the whole array**",
+        "user": "U15HRTAHL",
+        "ts": "1520283463.000460"
+    },
+    {
+        "type": "message",
+        "text": "the whole item?",
+        "user": "U15HZ01QX",
+        "ts": "1520283478.000328"
+    },
+    {
+        "type": "message",
+        "text": "or array?",
+        "user": "U15HZ01QX",
+        "ts": "1520283480.000605"
+    },
+    {
+        "type": "message",
+        "text": "array with the modified items",
+        "user": "U15HRTAHL",
+        "ts": "1520283487.000215"
+    },
+    {
+        "type": "message",
+        "text": "```\nnpm run test:remote --  --multiCapabilities[0]=('browserName':'chrome','browserstack.local':true,'os':'Windows',os_version:'10',resolution:'1920x1080',selenium_version:'3.5.2') --params.env=dev --params.login.username=pannapureddy@solstice.com --params.login.password=Solstice123 --cucumberOpts.tags=\"@login\"\n```",
+        "user": "U15HZ01QX",
+        "ts": "1520283522.000456"
+    },
+    {
+        "type": "message",
+        "text": "That?",
+        "user": "U15HZ01QX",
+        "ts": "1520283527.000725"
+    },
+    {
+        "type": "message",
+        "text": "if i just wanted one thing i mean",
+        "user": "U15HZ01QX",
+        "ts": "1520283548.000064"
+    },
+    {
+        "type": "message",
+        "text": "Yeah I think you need to set everything if you're overwriting it",
+        "user": "U15HRTAHL",
+        "ts": "1520283598.000279"
+    },
+    {
+        "type": "message",
+        "text": "```--multiCapabilities [{browserName : 'chrome'}, ..., {...}]```",
+        "user": "U15HRTAHL",
+        "ts": "1520283636.000594"
+    },
+    {
+        "type": "message",
+        "text": "ok ill try that",
+        "user": "U15HZ01QX",
+        "ts": "1520283652.000384"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.npmjs.com\/misc\/config>",
+        "user": "U15HRTAHL",
+        "ts": "1520283657.000030",
+        "attachments": [
+            {
+                "title": "config | npm Documentation",
+                "title_link": "https:\/\/docs.npmjs.com\/misc\/config",
+                "text": "The place where all things npm are documented",
+                "fallback": "config | npm Documentation",
+                "from_url": "https:\/\/docs.npmjs.com\/misc\/config",
+                "service_icon": "https:\/\/docs.npmjs.com\/images\/favicon.ico",
+                "service_name": "docs.npmjs.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "look at command line flags",
+        "user": "U15HRTAHL",
+        "ts": "1520283664.000519"
+    },
+    {
+        "type": "message",
+        "text": "So i shouldnt be doing that?",
+        "user": "U15HZ01QX",
+        "ts": "1520283820.000066"
+    },
+    {
+        "type": "message",
+        "text": "you should be `--` sets it, not modifies whats already there",
+        "user": "U15HRTAHL",
+        "ts": "1520283837.000505"
+    },
+    {
+        "type": "message",
+        "text": "so why does it modify the regular capabilities one?",
+        "user": "U15HZ01QX",
+        "ts": "1520283856.000279"
+    },
+    {
+        "type": "message",
+        "text": "show me the command you're using for that",
+        "user": "U15HRTAHL",
+        "ts": "1520283882.000139"
+    },
+    {
+        "type": "message",
+        "text": "` npm run test:remote -- --params.env=dev --params.login.username=pannapureddy@solstice.com --params.login.password=Solstice123 --cucumberOpts.tags=\"@login\" --capabilities.browserName=\"chrome\" `",
+        "user": "U15HZ01QX",
+        "ts": "1520284005.000017"
+    },
+    {
+        "type": "message",
+        "text": "that works on \n```\n\n capabilities:\n { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n```",
+        "user": "U15HZ01QX",
+        "ts": "1520284035.000112"
+    },
+    {
+        "type": "message",
+        "text": "does that retain the rest of the attributes as well? So you don't have an object thats just ```capabilities : {browserName: 'chrome'}```?",
+        "user": "U15HRTAHL",
+        "ts": "1520284082.000192"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HZ01QX",
+        "ts": "1520284140.000091"
+    },
+    {
+        "type": "message",
+        "text": "cuz when i change the os to 8 it still works",
+        "user": "U15HZ01QX",
+        "ts": "1520284152.000298"
+    },
+    {
+        "type": "message",
+        "text": "and runs on 8",
+        "user": "U15HZ01QX",
+        "ts": "1520284155.000187"
+    },
+    {
+        "type": "message",
+        "text": "_fascinating_",
+        "user": "U15HRTAHL",
+        "ts": "1520284163.000228"
+    },
+    {
+        "type": "message",
+        "text": "idk then",
+        "user": "U15HRTAHL",
+        "ts": "1520284171.000232"
+    },
+    {
+        "type": "message",
+        "text": "darn",
+        "user": "U15HZ01QX",
+        "ts": "1520284258.000170"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/stackoverflow.com|stackoverflow.com>",
+        "user": "U15HRTAHL",
+        "ts": "1520284261.000531"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1520284264.000545"
+    },
+    {
+        "type": "message",
+        "text": "90% of my job right there",
+        "user": "U15HRTAHL",
+        "ts": "1520284269.000271"
+    },
+    {
+        "type": "message",
+        "text": "yeah i guess so",
+        "user": "U15HZ01QX",
+        "ts": "1520284276.000221"
+    },
+    {
+        "type": "message",
+        "text": "Are you getting any error?",
+        "user": "U15HSHSS2",
+        "ts": "1520284345.000026"
+    },
+    {
+        "type": "message",
+        "text": "or is it just not doing anything?",
+        "user": "U15HSHSS2",
+        "ts": "1520284351.000447"
+    },
+    {
+        "type": "message",
+        "text": "no, so like up there i have an array of two tests that will run in IE",
+        "user": "U15HZ01QX",
+        "ts": "1520284369.000742"
+    },
+    {
+        "type": "message",
+        "text": "Im trying to change one to chrome from the command line before they run",
+        "user": "U15HZ01QX",
+        "ts": "1520284385.000294"
+    },
+    {
+        "type": "message",
+        "text": "but it essentially just runs the two IE tests",
+        "user": "U15HZ01QX",
+        "ts": "1520284397.000149"
+    },
+    {
+        "type": "message",
+        "text": "When you have 1 test ```capabilities.browserName=\"chrome\"``` changes it? but when you have multiple tests ```capabilities[0].browserName=\"chrome\"``` doesn't change it?",
+        "user": "U15HSHSS2",
+        "ts": "1520284537.000075"
+    },
+    {
+        "type": "message",
+        "text": "so multiCapabilities is a seperate function that if its configured itll ignore capabilities. but yeah thats whats happening",
+        "user": "U15HZ01QX",
+        "ts": "1520284600.000271"
+    },
+    {
+        "type": "message",
+        "text": "I'm curious to know what the solution is to this if you figure it out",
+        "user": "U15HSHSS2",
+        "ts": "1520285734.000318"
+    },
+    {
+        "client_msg_id": "2E33968D-D08F-4D1E-A38D-DDAAF27157CA",
+        "type": "message",
+        "text": "Why don't you just ask one of your devs?",
+        "user": "U15J5H60P",
+        "ts": "1520285826.000607"
+    },
+    {
+        "client_msg_id": "90EDA8B4-15A2-407F-8D4C-9FA3E0B7F33D",
+        "type": "message",
+        "text": "Yeah, I’m gonna take a break but I’ll let you know <@U15HSHSS2> ",
+        "user": "U15HZ01QX",
+        "ts": "1520285872.000042"
+    },
+    {
+        "client_msg_id": "135C1AF0-4EC4-4750-903A-368FE32B2ADB",
+        "type": "message",
+        "text": "<@U15J5H60P> haven’t figured it out yet. I really want them focused on other stuff",
+        "user": "U15HZ01QX",
+        "ts": "1520285927.000101"
+    },
+    {
+        "type": "message",
+        "text": "Do you have the actual code where multipleCapabilities is being defined?",
+        "user": "U15HSHSS2",
+        "ts": "1520285931.000313"
+    },
+    {
+        "client_msg_id": "8DD1224C-A374-45FD-99DA-71341030FC4F",
+        "type": "message",
+        "text": "Think it’s built in with selenium. I’ll have to look",
+        "user": "U15HZ01QX",
+        "ts": "1520285988.000390"
+    },
+    {
+        "type": "message",
+        "text": "Where did you get this code from? ``` multiCapabilities: [\n   \/\/{browserName : ''},\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n    \/\/{ 'browserName': 'chrome', 'browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' }\n  ],```",
+        "user": "U15HSHSS2",
+        "ts": "1520286040.000128"
+    },
+    {
+        "client_msg_id": "5A313694-78B0-4C79-A273-A59DE61D7F86",
+        "type": "message",
+        "text": "The constructor was there",
+        "user": "U15HZ01QX",
+        "ts": "1520286078.000516"
+    },
+    {
+        "client_msg_id": "E7F18532-46DF-4B9D-8B45-8785B1D00357",
+        "type": "message",
+        "text": "All the inner stuff was me just messing around",
+        "user": "U15HZ01QX",
+        "ts": "1520286092.000121"
+    },
+    {
+        "client_msg_id": "B884364F-C64B-4999-8EC6-1239943C1710",
+        "type": "message",
+        "text": "So it works ",
+        "user": "U15HZ01QX",
+        "ts": "1520286098.000226"
+    },
+    {
+        "client_msg_id": "3168293A-2101-4480-921A-040E41E71281",
+        "type": "message",
+        "text": "Just not editable",
+        "user": "U15HZ01QX",
+        "ts": "1520286107.000302"
+    },
+    {
+        "client_msg_id": "1D9C4F2C-805F-429B-8350-24BB3B9D81FD",
+        "type": "message",
+        "text": "Like I could hard code in all the browser types but that’s not what I wanted ",
+        "user": "U15HZ01QX",
+        "ts": "1520286142.000300"
+    },
+    {
+        "client_msg_id": "968CF63A-60E7-4CA0-8101-2BFC142BD302",
+        "type": "message",
+        "text": "Our selenium config hard codes all the browser types but then the test determines what it is",
+        "user": "U15HY5TG8",
+        "ts": "1520286219.000399"
+    },
+    {
+        "client_msg_id": "66A75020-AB68-4755-AC5D-449A1A93D50D",
+        "type": "message",
+        "text": "Hmm I’m curious how that looks",
+        "user": "U15HZ01QX",
+        "ts": "1520286274.000294"
+    },
+    {
+        "type": "message",
+        "text": "What's this do? ``` npm run test:remote -- --params.env=dev --params.login.username=pannapureddy@solstice.com --params.login.password=Solstice123 --cucumberOpts.tags=\"@login\" --multiCapabilities.pop() ```",
+        "user": "U15HSHSS2",
+        "ts": "1520286569.000643"
+    },
+    {
+        "client_msg_id": "F00E5A9B-2CB0-4BA7-B92A-0682D99A5496",
+        "type": "message",
+        "text": "It would just pop something off the multicap array I assume",
+        "user": "U15HZ01QX",
+        "ts": "1520286626.000040"
+    },
+    {
+        "client_msg_id": "802328C3-8CAE-4A1C-AD7D-B36EB3EF82F3",
+        "type": "message",
+        "text": "I can try it when I get back tho",
+        "user": "U15HZ01QX",
+        "ts": "1520286642.000244"
+    },
+    {
+        "type": "message",
+        "text": "I know what it _should_ do, but ```--multiCapabilities[0].browserName = \"chrome\"``` _should_ change the first item's browserName to 'chrome' but it doesn't. So I'm curious if this will do anything",
+        "user": "U15HSHSS2",
+        "ts": "1520286716.000574"
+    },
+    {
+        "client_msg_id": "89A568F9-FFE2-47A8-A354-2B72B177C63D",
+        "type": "message",
+        "text": "Fair point.",
+        "user": "U15HZ01QX",
+        "ts": "1520286744.000344"
+    },
+    {
+        "type": "message",
+        "text": "If it doesn't do anything, then you can argue that maybe you aren't accessing multiCapabilities correctly or something",
+        "user": "U15HSHSS2",
+        "ts": "1520286806.000524"
+    },
+    {
+        "client_msg_id": "A7DF737B-EBDB-426B-A4A0-736A066DAB7F",
+        "type": "message",
+        "text": "Unless I need to do \n```\nmultiCapabilities[0].capabilities.browserName = \"chrome\"\n```",
+        "user": "U15HZ01QX",
+        "ts": "1520286835.000129"
+    },
+    {
+        "client_msg_id": "97EE34D7-8D41-4506-BC9A-F5FCC403DB4B",
+        "type": "message",
+        "text": "But idk",
+        "user": "U15HZ01QX",
+        "ts": "1520286842.000125"
+    },
+    {
+        "client_msg_id": "2CF33D8C-C377-45CA-8D88-0EBAE8D2A101",
+        "type": "message",
+        "text": "I need to read more on multicap I guess",
+        "user": "U15HZ01QX",
+        "ts": "1520286859.000605"
+    },
+    {
+        "type": "message",
+        "text": "well if multiCapabilities has this structure ``` multiCapabilities: [\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n  ]``` then I don't think you'd need ```multiCapabilities[0].capabilities.browserName = \"chrome\"``` but it's worth a try I guess",
+        "user": "U15HSHSS2",
+        "ts": "1520286932.000309"
+    },
+    {
+        "client_msg_id": "B7FC20FC-F533-476A-BDC4-4BC6891ECB37",
+        "type": "message",
+        "text": "See that’s the thing tho. If I stripped out all the other features besides the browsername it still works",
+        "user": "U15HZ01QX",
+        "ts": "1520286988.000165"
+    },
+    {
+        "client_msg_id": "ED00D910-A059-42D7-8296-58FA41DD0558",
+        "type": "message",
+        "text": "So it’s grabbing default settings somewhere ",
+        "user": "U15HZ01QX",
+        "ts": "1520287004.000594"
+    },
+    {
+        "type": "message",
+        "text": "So when it looks like this ``` multiCapabilities: [\n    { 'browserName': 'IE' },\n    { 'browserName': 'IE'}\n  ]```",
+        "user": "U15HSHSS2",
+        "ts": "1520287074.000189"
+    },
+    {
+        "client_msg_id": "4EDEDF73-B320-45D5-A7FA-04B9FE16EBFC",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HZ01QX",
+        "ts": "1520287083.000540"
+    },
+    {
+        "type": "message",
+        "text": "```multiCapabilities[0].browserName = \"chrome\"``` works?",
+        "user": "U15HSHSS2",
+        "ts": "1520287087.000241",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1520287104.000000"
+        }
+    },
+    {
+        "client_msg_id": "934241B6-625A-4946-AD5E-547E27DF5841",
+        "type": "message",
+        "text": "No",
+        "user": "U15HZ01QX",
+        "ts": "1520287105.000093"
+    },
+    {
+        "client_msg_id": "78826A84-3B61-4B0E-AFBD-34A9803EEC90",
+        "type": "message",
+        "text": "But the actual tests run",
+        "user": "U15HZ01QX",
+        "ts": "1520287117.000416"
+    },
+    {
+        "type": "message",
+        "text": "ah, so nothing works when its set up like this? ``` multiCapabilities: [\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n    { 'browserName': 'IE','browserstack.local': true, 'os': 'Windows', os_version: '10', resolution: '1920x1080', selenium_version: '3.5.2' },\n  ]```",
+        "user": "U15HSHSS2",
+        "ts": "1520287143.000098",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1520287151.000000"
+        }
+    },
+    {
+        "client_msg_id": "CEE32A7F-103C-45CB-8B84-A0A3F48CB8FB",
+        "type": "message",
+        "text": "That works too. My issue is that in both cases I can’t use cmd to change browsername",
+        "user": "U15HZ01QX",
+        "ts": "1520287188.000543"
+    },
+    {
+        "type": "message",
+        "text": "alright, well like i said. Try ``` npm run test:remote -- --params.env=dev --params.login.username=pannapureddy@solstice.com --params.login.password=Solstice123 --cucumberOpts.tags=\"@login\" --multiCapabilities.pop() ``` and just see what happens",
+        "user": "U15HSHSS2",
+        "ts": "1520287247.000205"
+    },
+    {
+        "client_msg_id": "806B3567-0F1F-4F82-AB53-D313CCCE4020",
+        "type": "message",
+        "text": "Okay",
+        "user": "U15HZ01QX",
+        "ts": "1520287265.000178"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2> It ignored all the multicapability items",
+        "user": "U15HZ01QX",
+        "ts": "1520287843.000396"
+    },
+    {
+        "type": "message",
+        "text": "so the list didn't change?",
+        "user": "U15HSHSS2",
+        "ts": "1520287868.000079"
+    },
+    {
+        "type": "message",
+        "text": "actually i mistyped",
+        "user": "U15HZ01QX",
+        "ts": "1520287876.000523"
+    },
+    {
+        "type": "message",
+        "text": "oh nvm, yeah doing that made it ignore all the items and instead run the capability line",
+        "user": "U15HZ01QX",
+        "ts": "1520287925.000560"
+    },
+    {
+        "type": "message",
+        "text": "how many items were in multicapability?",
+        "user": "U15HSHSS2",
+        "ts": "1520287951.000119"
+    },
+    {
+        "type": "message",
+        "text": "2",
+        "user": "U15HZ01QX",
+        "ts": "1520287958.000607"
+    },
+    {
+        "type": "message",
+        "text": "is the first item in multicapability and the capability object different?",
+        "user": "U15HSHSS2",
+        "ts": "1520287992.000116"
+    },
+    {
+        "type": "message",
+        "text": "no, but when it runs multicap it alerts you its ignoring cap",
+        "user": "U15HZ01QX",
+        "ts": "1520288024.000241"
+    },
+    {
+        "type": "message",
+        "text": "ill change the multicap to firefox and try again",
+        "user": "U15HZ01QX",
+        "ts": "1520288068.000265"
+    },
+    {
+        "type": "message",
+        "text": "What happens when multicapability only has 1 item in it?",
+        "user": "U15HSHSS2",
+        "ts": "1520288069.000331"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9K2W25U5",
+                "created": 1520288154,
+                "timestamp": 1520288154,
+                "name": "image.png",
+                "title": "this",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 45800,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9K2W25U5\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9K2W25U5\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 58,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 78,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 117,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 130,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 156,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K2W25U5-ad2d204ceb\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 166,
+                "image_exif_rotation": 1,
+                "original_w": 1283,
+                "original_h": 208,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F9K2W25U5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9K2W25U5-61896dd218",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1520288157.000396"
+    },
+    {
+        "type": "message",
+        "text": "What happens when multicapability has 3 items in it and you do multicapablity.pop()?",
+        "user": "U15HSHSS2",
+        "ts": "1520288268.000502"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9KQBL32A",
+                "created": 1520288380,
+                "timestamp": 1520288380,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 36602,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9KQBL32A\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9KQBL32A\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 47,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 63,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 95,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 105,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 126,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KQBL32A-8baa619f45\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 135,
+                "image_exif_rotation": 1,
+                "original_w": 1284,
+                "original_h": 169,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F9KQBL32A\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9KQBL32A-2f7917a5d4",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1520288383.000291"
+    },
+    {
+        "type": "message",
+        "text": "its skipping all of them",
+        "user": "U15HZ01QX",
+        "ts": "1520288391.000112"
+    },
+    {
+        "type": "message",
+        "text": "how are you setting multicapability?",
+        "user": "U15HSHSS2",
+        "ts": "1520288484.000152"
+    },
+    {
+        "type": "message",
+        "text": "what do you mean?",
+        "user": "U15HZ01QX",
+        "ts": "1520288503.000484"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9JUVFLAE",
+                "created": 1520288542,
+                "timestamp": 1520288542,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 96638,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9JUVFLAE\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9JUVFLAE\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 163,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 218,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 327,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 363,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 436,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9JUVFLAE-496a28fbec\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 465,
+                "image_exif_rotation": 1,
+                "original_w": 1132,
+                "original_h": 514,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F9JUVFLAE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9JUVFLAE-02d0ed6edb",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1520288546.000582"
+    },
+    {
+        "type": "message",
+        "text": "like how did you make it so multicapability has 3 items in it?",
+        "user": "U15HSHSS2",
+        "ts": "1520288548.000088"
+    },
+    {
+        "type": "message",
+        "text": "^^",
+        "user": "U15HZ01QX",
+        "ts": "1520288553.000378"
+    },
+    {
+        "type": "message",
+        "text": "`const`",
+        "user": "U15HRTAHL",
+        "ts": "1520288628.000416"
+    },
+    {
+        "type": "message",
+        "text": "constant is made not to be changed",
+        "user": "U15HRTAHL",
+        "ts": "1520288636.000466"
+    },
+    {
+        "type": "message",
+        "text": "I dont think i have much of a choice",
+        "user": "U15HZ01QX",
+        "ts": "1520288652.000107"
+    },
+    {
+        "type": "message",
+        "text": "if capabilities can be changed",
+        "user": "U15HZ01QX",
+        "ts": "1520288671.000144"
+    },
+    {
+        "type": "message",
+        "text": "then multi should be able to as well",
+        "user": "U15HZ01QX",
+        "ts": "1520288678.000372"
+    },
+    {
+        "type": "message",
+        "text": "yeah... the fact that you can change capabilities is what's throwing me off",
+        "user": "U15HSHSS2",
+        "ts": "1520288761.000346"
+    },
+    {
+        "type": "message",
+        "text": "Have you tried changing something other than browserName for multiCapabilities?",
+        "user": "U15HSHSS2",
+        "ts": "1520289028.000589"
+    },
+    {
+        "type": "message",
+        "text": "like os_version?",
+        "user": "U15HSHSS2",
+        "ts": "1520289038.000494"
+    },
+    {
+        "type": "message",
+        "text": "no i can try that next",
+        "user": "U15HZ01QX",
+        "ts": "1520289058.000447"
+    },
+    {
+        "type": "message",
+        "text": "no luck",
+        "user": "U15HZ01QX",
+        "ts": "1520289226.000040"
+    },
+    {
+        "type": "message",
+        "text": "just ran all three as they are hard coded?",
+        "user": "U15HSHSS2",
+        "ts": "1520289239.000387"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HZ01QX",
+        "ts": "1520289248.000235"
+    },
+    {
+        "type": "message",
+        "text": "not expecting this to work but try ```--multiCapabilities.browserName=\"chrome\" ```",
+        "user": "U15HSHSS2",
+        "ts": "1520289322.000355"
+    },
+    {
+        "type": "message",
+        "text": "no but i did just realized i was using getmulticapabilities for your push and pop stuff so lemme try that again",
+        "user": "U15HZ01QX",
+        "ts": "1520289481.000342"
+    },
+    {
+        "type": "message",
+        "text": "same result",
+        "user": "U15HZ01QX",
+        "ts": "1520289590.000305"
+    },
+    {
+        "type": "message",
+        "text": "Oh well",
+        "user": "U15HZ01QX",
+        "ts": "1520289672.000525"
+    },
+    {
+        "client_msg_id": "77c9c6f2-0637-4788-89d4-5c18aa664ddd",
+        "type": "message",
+        "text": "I made some whiskey rocks",
+        "user": "U15HRTAHL",
+        "ts": "1520291378.000444"
+    },
+    {
+        "client_msg_id": "2DCC7B06-9110-4309-955D-DC12FE341876",
+        "type": "message",
+        "text": "Whiskey rocks or whiskey on the rocks",
+        "user": "U15HY5TG8",
+        "ts": "1520291428.000041"
+    },
+    {
+        "client_msg_id": "B756A2E6-641C-446D-B255-6F471BE399C8",
+        "type": "message",
+        "text": "Gravel doesn't count",
+        "user": "U15J5H60P",
+        "ts": "1520291477.000085"
+    },
+    {
+        "client_msg_id": "6d19e6e0-f87f-4240-9084-34312ce2fa69",
+        "type": "message",
+        "text": "Whiskey rocks",
+        "user": "U15HRTAHL",
+        "ts": "1520291486.000190"
+    },
+    {
+        "client_msg_id": "7D9BCD5F-99DF-4BAD-8EC9-5AC56BED72BE",
+        "type": "message",
+        "text": "What even is that. Alcohol cant be frozen or solidified",
+        "user": "U15HY5TG8",
+        "ts": "1520291508.000478"
+    },
+    {
+        "client_msg_id": "FC6456DE-D824-499A-9396-680785A1FE77",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1520291515.000413"
+    },
+    {
+        "type": "message",
+        "text": "They're Crystal clear",
+        "files": [
+            {
+                "id": "F9K3PHWJH",
+                "created": 1520291511,
+                "timestamp": 1520291511,
+                "name": "IMG_20180305_171137.jpg",
+                "title": "IMG_20180305_171137.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 2656324,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9K3PHWJH\/img_20180305_171137.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9K3PHWJH\/download\/img_20180305_171137.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9K3PHWJH-dfbd6455aa\/img_20180305_171137_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3036,
+                "original_h": 4048,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F9K3PHWJH\/img_20180305_171137.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9K3PHWJH-4fa5cb110e",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1520291516.000314"
+    },
+    {
+        "client_msg_id": "4AC58983-2E55-4BB4-8042-E306A004DA5F",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1520291525.000373"
+    },
+    {
+        "client_msg_id": "5D3A7675-E223-4506-A8D2-3C0FF2E7F12F",
+        "type": "message",
+        "text": "Clear Ice",
+        "user": "U15J5H60P",
+        "ts": "1520291532.000455",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1520291541.000000"
+        }
+    },
+    {
+        "client_msg_id": "A368FFC9-4483-445F-BE8F-09DE0B64802C",
+        "type": "message",
+        "text": "Whiskey cannot be solidified",
+        "user": "U15HY5TG8",
+        "ts": "1520291544.000168"
+    },
+    {
+        "client_msg_id": "759AF537-7478-4F77-8771-1965A44DD1E5",
+        "type": "message",
+        "text": "Never heard that called that",
+        "user": "U15J5H60P",
+        "ts": "1520291550.000065"
+    },
+    {
+        "client_msg_id": "219F974E-0E1B-4D9A-8DF4-CCD30AFA911D",
+        "type": "message",
+        "text": "Im lost",
+        "user": "U15HY5TG8",
+        "ts": "1520291561.000013"
+    },
+    {
+        "client_msg_id": "C0A540C5-27BF-49CE-B582-98EE56F3379B",
+        "type": "message",
+        "text": "He made ice",
+        "user": "U15J5H60P",
+        "ts": "1520291571.000356"
+    },
+    {
+        "client_msg_id": "49E6A0C1-B39F-4E99-A5B3-8C77872BD7C8",
+        "type": "message",
+        "text": "With whiskey in it?",
+        "user": "U15HY5TG8",
+        "ts": "1520291587.000417"
+    },
+    {
+        "client_msg_id": "80BDF9BB-A243-40B0-A774-03B3508C862C",
+        "type": "message",
+        "text": "No. It's clear.",
+        "user": "U15J5H60P",
+        "ts": "1520291607.000396"
+    },
+    {
+        "client_msg_id": "10BB38D6-CB50-407E-9C92-3AA59F9C1BC6",
+        "type": "message",
+        "text": "Yup i dont get it",
+        "user": "U15HY5TG8",
+        "ts": "1520291627.000249"
+    },
+    {
+        "client_msg_id": "88F2D99F-A792-4931-97D6-D9BB3FBFA9F0",
+        "type": "message",
+        "text": "This is a big moment for him.",
+        "user": "U15J5H60P",
+        "ts": "1520291632.000130"
+    },
+    {
+        "client_msg_id": "E49CD244-3AAD-4E80-8567-3B9DEF660B10",
+        "type": "message",
+        "text": "Let him have this",
+        "user": "U15J5H60P",
+        "ts": "1520291636.000335"
+    },
+    {
+        "client_msg_id": "e19f0d32-af8d-4bdc-87b8-c169e9cb9923",
+        "type": "message",
+        "text": "Clear ice is hard to make",
+        "user": "U15HRTAHL",
+        "ts": "1520291642.000301"
+    },
+    {
+        "client_msg_id": "01F78EA9-B6D4-4862-B78E-04D96E6D7DCB",
+        "type": "message",
+        "text": "Good job, Joey.",
+        "user": "U15J5H60P",
+        "ts": "1520291649.000011"
+    },
+    {
+        "client_msg_id": "AB001F0C-CB75-432F-BF11-9BB67B6FDD4E",
+        "type": "message",
+        "text": "Big boy!",
+        "user": "U15J5H60P",
+        "ts": "1520291658.000157"
+    },
+    {
+        "client_msg_id": "877d64ed-e8e2-48ea-8aa4-04b53beb92d6",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1520291662.000384"
+    },
+    {
+        "client_msg_id": "6353261C-A6C6-44F1-94AB-E4877350036F",
+        "type": "message",
+        "text": "Next we can try cereal",
+        "user": "U15J5H60P",
+        "ts": "1520291669.000261"
+    },
+    {
+        "client_msg_id": "412041ee-0c8a-4bb2-ac93-f7f0ab1bb4d6",
+        "type": "message",
+        "text": "Have you ever made clear ice before lol?",
+        "user": "U15HRTAHL",
+        "ts": "1520291683.000256"
+    },
+    {
+        "client_msg_id": "52990DB3-4561-4B09-A04E-9B53C02494C3",
+        "type": "message",
+        "text": "Jk I still haven't perfected clear ice",
+        "user": "U15J5H60P",
+        "ts": "1520291683.000381"
+    },
+    {
+        "client_msg_id": "DD462B28-8C16-4842-9B06-225399BEA116",
+        "type": "message",
+        "text": "Ahh i see",
+        "user": "U15HY5TG8",
+        "ts": "1520291689.000148"
+    },
+    {
+        "client_msg_id": "0EAC354F-FEE7-4B95-90D6-69B1D30C2D78",
+        "type": "message",
+        "text": "Why did you make it?",
+        "user": "U15J5H60P",
+        "ts": "1520291707.000254"
+    },
+    {
+        "client_msg_id": "264ea288-c304-4637-965e-2db24489a4bf",
+        "type": "message",
+        "text": "It's pretty complex",
+        "user": "U15HRTAHL",
+        "ts": "1520291765.000344"
+    },
+    {
+        "client_msg_id": "4d731fb0-e0f6-47a6-aa3d-bc56b0265d9f",
+        "type": "message",
+        "text": "Salt water",
+        "user": "U15HRTAHL",
+        "ts": "1520291780.000415"
+    },
+    {
+        "client_msg_id": "b614ee01-a6a4-4713-9a6b-56b1e69a7d1e",
+        "type": "message",
+        "text": "Then you boil the water and cokkect the steam and let it come back to water",
+        "user": "U15HRTAHL",
+        "ts": "1520291803.000358"
+    },
+    {
+        "client_msg_id": "c6a3883c-4199-42fa-b2ec-7cae5457e096",
+        "type": "message",
+        "text": "Then you carefully put that water in ice cube trays without shaking it too much",
+        "user": "U15HRTAHL",
+        "ts": "1520291839.000077"
+    },
+    {
+        "client_msg_id": "31ca6907-fb07-45af-adc2-4ea10d2fdf2c",
+        "type": "message",
+        "text": "Then you freeze it",
+        "user": "U15HRTAHL",
+        "ts": "1520291843.000075"
+    },
+    {
+        "client_msg_id": "be68fddc-cfd5-4eaf-8408-def433b24948",
+        "type": "message",
+        "text": "Oh why",
+        "user": "U15HRTAHL",
+        "ts": "1520291874.000129"
+    },
+    {
+        "client_msg_id": "f1c56e34-4410-460c-a675-53f86ce53539",
+        "type": "message",
+        "text": "Not how",
+        "user": "U15HRTAHL",
+        "ts": "1520291876.000379"
+    },
+    {
+        "client_msg_id": "b7994033-ed50-4844-bc37-aacfd85b20da",
+        "type": "message",
+        "text": "Because a clear ice device is like $50",
+        "user": "U15HRTAHL",
+        "ts": "1520291918.000314"
+    },
+    {
+        "client_msg_id": "14895238-7111-45e7-a6d9-70109e535eb9",
+        "type": "message",
+        "text": "And I wanted clear ice",
+        "user": "U15HRTAHL",
+        "ts": "1520291926.000359"
+    },
+    {
+        "client_msg_id": "9A1F86DC-43BA-4295-A39A-75FA4B38E87D",
+        "type": "message",
+        "text": "Foh lol",
+        "user": "U15HZ01QX",
+        "ts": "1520292835.000022"
+    },
+    {
+        "client_msg_id": "749B3583-97F6-4C5B-B0BE-E9A8835ED4C6",
+        "type": "message",
+        "text": "You use this for actual whiskey?",
+        "user": "U15HZ01QX",
+        "ts": "1520292853.000014"
+    },
+    {
+        "client_msg_id": "ACE3CE53-F660-43D9-A6DA-B4425304C4CF",
+        "type": "message",
+        "text": "Why is salt water important?",
+        "user": "U15HY5TG8",
+        "ts": "1520292991.000151"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F9KRFEMFY",
+                "created": 1520293353,
+                "timestamp": 1520293353,
+                "name": ".png",
+                "title": "BET",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 40533,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9KRFEMFY\/.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F9KRFEMFY\/download\/.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 82,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 110,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 164,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 183,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 219,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F9KRFEMFY-839fce53c4\/_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 234,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 257,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/F9KRFEMFY\/.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F9KRFEMFY-2898cdc6bc",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1520293357.000262"
+    },
+    {
+        "client_msg_id": "75F910AB-FE7D-4872-94EA-49C5346569DE",
+        "type": "message",
+        "text": "Ayyy",
+        "user": "U15HY5TG8",
+        "ts": "1520293683.000275"
+    }
+]

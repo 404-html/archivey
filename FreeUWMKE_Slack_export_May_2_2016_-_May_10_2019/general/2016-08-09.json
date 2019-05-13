@@ -1,0 +1,112 @@
+[
+    {
+        "type": "message",
+        "text": "Gonna be doin a lot of \"Andrewing\" today",
+        "user": "U15HY5TG8",
+        "ts": "1470748282.000002"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: ",
+        "user": "U15HY5TG8",
+        "ts": "1470751153.000002"
+    },
+    {
+        "type": "message",
+        "text": "whats that",
+        "user": "U15HRTAHL",
+        "ts": "1470751206.000003"
+    },
+    {
+        "type": "message",
+        "text": "I have a page that hates checkboxes. Theres a checkbox that if clicked, will display a list. Then if we click an edit button the list stays there as expected. After clicking a save button, the list disappears but the checkbox stays clicked. Clicking and unclicking the button does not make the list reappear. The checkbox just becomes dormant",
+        "user": "U15HY5TG8",
+        "ts": "1470751296.000004"
+    },
+    {
+        "type": "message",
+        "text": "However the checkbox is monitored by a separate controller than the page itself",
+        "user": "U15HY5TG8",
+        "ts": "1470751329.000005"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy javascript debugging",
+        "user": "U15HRTAHL",
+        "ts": "1470751478.000006",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/pyhzil2FDtGwM>",
+                "image_url": "https:\/\/media.giphy.com\/media\/pyhzil2FDtGwM\/giphy-tumblr.gif",
+                "image_width": 177,
+                "image_height": 250,
+                "image_bytes": 1258307,
+                "is_animated": true,
+                "title": "javascript debugging",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/pyhzil2FDtGwM"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yeaaaaa",
+        "user": "U15HY5TG8",
+        "ts": "1470751491.000007"
+    },
+    {
+        "type": "message",
+        "text": "So no ideas? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1470751515.000008"
+    },
+    {
+        "type": "message",
+        "text": "I have an idea that its in the javscript",
+        "user": "U15HRTAHL",
+        "ts": "1470751545.000009"
+    },
+    {
+        "type": "message",
+        "text": "and you can set breakpoints to see whats going on",
+        "user": "U15HRTAHL",
+        "ts": "1470751555.000010"
+    },
+    {
+        "type": "message",
+        "text": "Lol hey thanks",
+        "user": "U15HY5TG8",
+        "ts": "1470751616.000011"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy true friend",
+        "user": "U15HY5TG8",
+        "ts": "1470751701.000012",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/friends-live-laugh-6sQsVS29pjHZS>",
+                "image_url": "https:\/\/media1.giphy.com\/media\/6sQsVS29pjHZS\/giphy.gif",
+                "image_width": 245,
+                "image_height": 220,
+                "image_bytes": 671021,
+                "is_animated": true,
+                "title": "true friend",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/friends-live-laugh-6sQsVS29pjHZS"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Slept through my workout , shower, and class start",
+        "user": "U15HZ01QX",
+        "ts": "1470789375.000002"
+    },
+    {
+        "type": "message",
+        "text": "Lulz",
+        "user": "U15HY5TG8",
+        "ts": "1470789475.000003"
+    }
+]

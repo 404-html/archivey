@@ -1,0 +1,16 @@
+[
+    {
+        "client_msg_id": "efc5296f-4e89-4252-b2dc-356ade3131ff",
+        "type": "message",
+        "text": "Archive this?",
+        "user": "U15J5H60P",
+        "ts": "1548430049.185900"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1548430069.186000",
+        "text": "<@U15HRTAHL> archived the channel"
+    }
+]

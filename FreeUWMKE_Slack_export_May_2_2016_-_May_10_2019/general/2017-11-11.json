@@ -1,0 +1,75 @@
+[
+    {
+        "type": "message",
+        "text": "It feels like 10 but it’s like 6",
+        "user": "U15HZ01QX",
+        "ts": "1510447588.000052"
+    },
+    {
+        "type": "message",
+        "text": "Darkness",
+        "user": "U15HY5TG8",
+        "ts": "1510447618.000028"
+    },
+    {
+        "type": "message",
+        "text": ":new_moon_with_face:",
+        "user": "U15HZ01QX",
+        "ts": "1510447648.000024"
+    },
+    {
+        "type": "message",
+        "text": "Hello darkness my old friend ",
+        "user": "U15HRTAHL",
+        "ts": "1510448818.000012"
+    },
+    {
+        "type": "message",
+        "text": "I should rewatch arrested development now that you mention it",
+        "user": "U15HZ01QX",
+        "ts": "1510448839.000007"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1510448839.000030",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/ifc-ifc-NN2gSUVHr7spG",
+                "image_url": "https:\/\/media0.giphy.com\/media\/NN2gSUVHr7spG\/giphy.gif",
+                "image_width": 245,
+                "image_height": 126,
+                "image_bytes": 675971,
+                "is_animated": true,
+                "title": "hello darkness my old friend",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/ifc-ifc-NN2gSUVHr7spG"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1::skin-tone-5",
+                "users": [
+                    "U15HZ01QX",
+                    "U15J5H60P"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HRTAHL",
+        "ts": "1510448844.000028"
+    },
+    {
+        "type": "message",
+        "text": "James, who is your best man?",
+        "user": "U15J5H60P",
+        "ts": "1510465026.000010"
+    }
+]

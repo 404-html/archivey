@@ -1,0 +1,30 @@
+[
+    {
+        "type": "message",
+        "text": "Free app of the week",
+        "user": "U15J5H60P",
+        "ts": "1487307423.000002"
+    },
+    {
+        "type": "message",
+        "text": "Green Riding Hood by Bobaka LLC\n<https:\/\/appsto.re\/us\/xR4p6.i>",
+        "user": "U15J5H60P",
+        "ts": "1487307426.000003",
+        "attachments": [
+            {
+                "service_name": "App Store",
+                "title": "Green Riding Hood on the App Store",
+                "title_link": "https:\/\/appsto.re\/us\/xR4p6.i",
+                "text": "Read reviews, compare customer ratings, see screenshots, and learn more about Green Riding Hood. Download Green Riding Hood and enjoy it on your iPhone, iPad, and iPod touch.",
+                "fallback": "App Store: Green Riding Hood on the App Store",
+                "image_url": "http:\/\/is3.mzstatic.com\/image\/thumb\/Purple122\/v4\/92\/f9\/2d\/92f92d3b-3796-19ae-9ab1-e846c2715639\/source\/1200x630bb.jpg",
+                "image_width": 250,
+                "image_height": 250,
+                "from_url": "https:\/\/appsto.re\/us\/xR4p6.i",
+                "image_bytes": 42396,
+                "service_icon": "https:\/\/itunes.apple.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    }
+]

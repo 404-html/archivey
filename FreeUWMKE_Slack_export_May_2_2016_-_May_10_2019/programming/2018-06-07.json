@@ -1,0 +1,353 @@
+[
+    {
+        "type": "message",
+        "text": "Is there a way to say in the parameters of a C# function if one of the parameters is null default it to some value?",
+        "user": "U15HSHSS2",
+        "ts": "1528386550.000584"
+    },
+    {
+        "type": "message",
+        "text": "I know you can do default values for optional parameters",
+        "user": "U15HSHSS2",
+        "ts": "1528386590.000419"
+    },
+    {
+        "type": "message",
+        "text": "no idea, why can’t you treat that parameter as an optional parameter?",
+        "user": "U15HRTAHL",
+        "ts": "1528386793.000730"
+    },
+    {
+        "type": "message",
+        "text": "What I'm trying to do is a little more complicated than just giving a value to a null parameter, I thought I'd start out with that question to see what's all even possible",
+        "user": "U15HSHSS2",
+        "ts": "1528387007.000860"
+    },
+    {
+        "type": "message",
+        "text": "I don't think you can give a null parameter a default value anyways",
+        "user": "U15HSHSS2",
+        "ts": "1528387031.000523"
+    },
+    {
+        "type": "message",
+        "text": "probably not, why not just check if it’s null and then assign it a value?",
+        "user": "U15HRTAHL",
+        "ts": "1528387123.000745"
+    },
+    {
+        "type": "message",
+        "text": "That's what I'm doing currently, but our tech adviser left a comment on a code review that said \"this can be defaulted in the object itself, rather than adding a null check in every function it's used in.\"",
+        "user": "U15HSHSS2",
+        "ts": "1528387201.000848"
+    },
+    {
+        "type": "message",
+        "text": "However, the class I made in completely generic, and the thing im defaulting it to is a specific type",
+        "user": "U15HSHSS2",
+        "ts": "1528387240.000099"
+    },
+    {
+        "type": "message",
+        "text": "so I don't think I can default it in the class becuase there is no way of knowing the type until an actual value gets passed in",
+        "user": "U15HSHSS2",
+        "ts": "1528387269.000867"
+    },
+    {
+        "type": "message",
+        "text": "meh, semantics",
+        "user": "U15HRTAHL",
+        "ts": "1528387274.000400"
+    },
+    {
+        "type": "message",
+        "text": "tell him to eff off",
+        "user": "U15HRTAHL",
+        "ts": "1528387279.000924"
+    },
+    {
+        "type": "message",
+        "text": "so I thought maybe he meant in the parameter where the local object gets created",
+        "user": "U15HSHSS2",
+        "ts": "1528387295.000604"
+    },
+    {
+        "type": "message",
+        "text": "but I don't think he realized the class was generic",
+        "user": "U15HSHSS2",
+        "ts": "1528387312.000064"
+    },
+    {
+        "client_msg_id": "B5C61226-F67A-4465-84D5-D984C380C2E0",
+        "type": "message",
+        "text": "Yeah you can do DoSomething(int i=0)",
+        "user": "U15HY5TG8",
+        "ts": "1528387970.000217"
+    },
+    {
+        "type": "message",
+        "text": "Does that work for null values? I know that's how it works for optional values",
+        "user": "U15HSHSS2",
+        "ts": "1528388005.000605"
+    },
+    {
+        "client_msg_id": "B76C7A91-92B6-4C58-8341-C7BC9957952F",
+        "type": "message",
+        "text": "Oooo yeah not sure",
+        "user": "U15HY5TG8",
+        "ts": "1528388032.000084"
+    },
+    {
+        "client_msg_id": "43228182-D00E-4535-AEC4-37AA9737272A",
+        "type": "message",
+        "text": "Maybe int?=null",
+        "user": "U15HY5TG8",
+        "ts": "1528388042.000750"
+    },
+    {
+        "client_msg_id": "3B7F6DE4-49D5-477E-A7BF-98FA850FFAE7",
+        "type": "message",
+        "text": "Or maybe you can do an inline conditional lol",
+        "user": "U15HY5TG8",
+        "ts": "1528388054.000434"
+    },
+    {
+        "type": "message",
+        "text": "if they’re passing in null it seems pretty optional",
+        "user": "U15HRTAHL",
+        "ts": "1528388087.000181"
+    },
+    {
+        "type": "message",
+        "text": "I don't think you can do logic in the parameters of a function lol",
+        "user": "U15HSHSS2",
+        "ts": "1528388114.000583"
+    },
+    {
+        "type": "message",
+        "text": "althoug I've never tried",
+        "user": "U15HSHSS2",
+        "ts": "1528388120.000315"
+    },
+    {
+        "client_msg_id": "4F21D81B-FDB7-44E9-8483-6EA8A2770F3E",
+        "type": "message",
+        "text": "You could do it in the function as its being called. So maybe he wants you to do it when its being implemented?",
+        "user": "U15HY5TG8",
+        "ts": "1528388161.000236"
+    },
+    {
+        "type": "message",
+        "text": "it's being called from java script and can't exactly be set correctly from there because goes through a serialize to get set to the actual passed in value in C#",
+        "user": "U15HSHSS2",
+        "ts": "1528388324.000547"
+    },
+    {
+        "client_msg_id": "01476668-544C-44EB-A2EF-F2D8AA525BFE",
+        "type": "message",
+        "text": "Ahhh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1528388371.000034"
+    },
+    {
+        "client_msg_id": "4BD211DA-DB89-477B-B902-D9696046989D",
+        "type": "message",
+        "text": "Yeah tell him to fuck off",
+        "user": "U15HY5TG8",
+        "ts": "1528388376.000635"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1528388380.000343"
+    },
+    {
+        "type": "message",
+        "text": "I think he just didn't realize the class and all it's fields are generic and can't be defaulted for what I'm using it for",
+        "user": "U15HSHSS2",
+        "ts": "1528388415.000745"
+    },
+    {
+        "type": "message",
+        "text": "Man... just got the thing working. We were on a wild goose chase for awhile",
+        "user": "U15HSHSS2",
+        "ts": "1528403386.000568"
+    },
+    {
+        "client_msg_id": "78DA5409-4404-469D-B285-6D57EB54F77C",
+        "type": "message",
+        "text": "Whatd you have to do?",
+        "user": "U15HY5TG8",
+        "ts": "1528403419.000291"
+    },
+    {
+        "type": "message",
+        "text": "Change the way we serialize our js -&gt; json -&gt; cs",
+        "user": "U15HSHSS2",
+        "ts": "1528403443.000701"
+    },
+    {
+        "type": "message",
+        "text": "slight change",
+        "user": "U15HSHSS2",
+        "ts": "1528403448.000562"
+    },
+    {
+        "type": "message",
+        "text": "but impactful lol",
+        "user": "U15HSHSS2",
+        "ts": "1528403462.000108"
+    },
+    {
+        "client_msg_id": "07C296D7-73E1-466F-830B-AE0A618CC690",
+        "type": "message",
+        "text": "Ahhh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1528403485.000517"
+    },
+    {
+        "type": "message",
+        "text": "it use to be if a value was null in js it got passed into c# as null",
+        "user": "U15HSHSS2",
+        "ts": "1528403496.000114"
+    },
+    {
+        "type": "message",
+        "text": "but now if a value is null in js no object gets passed into c# which allows default values to be used",
+        "user": "U15HSHSS2",
+        "ts": "1528403562.000164"
+    },
+    {
+        "client_msg_id": "1EE8727D-9C1D-4F24-9E01-1372AA0CBEC8",
+        "type": "message",
+        "text": "Ahhh i see",
+        "user": "U15HY5TG8",
+        "ts": "1528403609.000763"
+    },
+    {
+        "client_msg_id": "E2910484-1AAE-4092-A148-65C277B0C2ED",
+        "type": "message",
+        "text": "Idk how that works though actually",
+        "user": "U15HY5TG8",
+        "ts": "1528403630.000217"
+    },
+    {
+        "type": "message",
+        "text": "lol me either but it does",
+        "user": "U15HSHSS2",
+        "ts": "1528403776.000144"
+    },
+    {
+        "client_msg_id": "6AA3C313-8241-431A-A681-1BACDD3E6E3C",
+        "type": "message",
+        "text": "Cause arent you doing mvc?",
+        "user": "U15HY5TG8",
+        "ts": "1528404714.000288"
+    },
+    {
+        "client_msg_id": "D7EC88BC-1F85-44B1-B1F3-54E2DFC13EFB",
+        "type": "message",
+        "text": "So the parameters have to match right?",
+        "user": "U15HY5TG8",
+        "ts": "1528404740.000024"
+    },
+    {
+        "type": "message",
+        "text": "twitch has an opening for a salesforce engineer",
+        "user": "U15HRTAHL",
+        "ts": "1528406445.000509"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15HRTAHL",
+        "ts": "1528406447.000507"
+    },
+    {
+        "type": "message",
+        "text": "damnnn",
+        "user": "U15HSHSS2",
+        "ts": "1528406457.000043"
+    },
+    {
+        "type": "message",
+        "text": "I can’t interview at an amazon affiliate for 6 months",
+        "user": "U15HRTAHL",
+        "ts": "1528406472.000214"
+    },
+    {
+        "client_msg_id": "253D842F-8189-42A9-8295-90E9D631E7B3",
+        "type": "message",
+        "text": "What why",
+        "user": "U15HY5TG8",
+        "ts": "1528406483.000063"
+    },
+    {
+        "client_msg_id": "96452042-EFC6-4AAD-8E40-42705153A096",
+        "type": "message",
+        "text": "Thats stupid",
+        "user": "U15HY5TG8",
+        "ts": "1528406486.000352"
+    },
+    {
+        "type": "message",
+        "text": "It’s pretty common",
+        "user": "U15HRTAHL",
+        "ts": "1528406490.000465"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.quora.com\/How-long-should-I-wait-to-re-apply-to-Amazon-after-failing-the-interview>",
+        "user": "U15HRTAHL",
+        "ts": "1528406524.000588"
+    },
+    {
+        "client_msg_id": "7F2152A3-2A41-41A3-9C1D-F406EF1E888E",
+        "type": "message",
+        "text": "Twitch is in SF",
+        "user": "U15J5H60P",
+        "ts": "1528408922.000494"
+    },
+    {
+        "client_msg_id": "40B2F21B-0EB7-48B0-8F79-16463FBE1025",
+        "type": "message",
+        "text": "Still a stupid rule",
+        "user": "U15HY5TG8",
+        "ts": "1528408937.000240"
+    },
+    {
+        "client_msg_id": "DC2B0324-7A55-4CCC-B5AB-8A95543BD4E5",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1528408955.000576"
+    },
+    {
+        "client_msg_id": "B2621501-273A-4137-A4C1-D301CF0C1346",
+        "type": "message",
+        "text": "Ooo its not a rule",
+        "user": "U15HY5TG8",
+        "ts": "1528408975.000121"
+    },
+    {
+        "client_msg_id": "2C360BD6-56AE-4750-871B-128FCD3FD913",
+        "type": "message",
+        "text": "Its a suggestion",
+        "user": "U15HY5TG8",
+        "ts": "1528408983.000047"
+    },
+    {
+        "type": "message",
+        "text": "nah it’s a rule",
+        "user": "U15HRTAHL",
+        "ts": "1528409017.000312"
+    },
+    {
+        "client_msg_id": "03E154AB-A2C7-44B1-A5BC-DC111B64F242",
+        "type": "message",
+        "text": "Ok refer to previous message then",
+        "user": "U15HY5TG8",
+        "ts": "1528409035.000067"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "692a076a-74e9-4227-a8d0-f1ccfc1f42ea",
+        "type": "message",
+        "text": "<https:\/\/media.giphy.com\/media\/rl0FOxdz7CcxO\/giphy.gif>",
+        "user": "U15HRTAHL",
+        "ts": "1542736881.000200",
+        "attachments": [
+            {
+                "fallback": "312x213px image",
+                "image_url": "https:\/\/media.giphy.com\/media\/rl0FOxdz7CcxO\/giphy.gif",
+                "image_width": 312,
+                "image_height": 213,
+                "image_bytes": 996270,
+                "is_animated": true,
+                "from_url": "https:\/\/media.giphy.com\/media\/rl0FOxdz7CcxO\/giphy.gif",
+                "id": 1,
+                "original_url": "https:\/\/media.giphy.com\/media\/rl0FOxdz7CcxO\/giphy.gif"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6F83B3ED-02A9-4B01-8D5E-8744E2983578",
+        "type": "message",
+        "text": "The tech bubble has burst!",
+        "user": "U15J5H60P",
+        "ts": "1542737185.000700"
+    },
+    {
+        "client_msg_id": "006F37D7-82B4-4DB6-9493-2E72FE1E2FFA",
+        "type": "message",
+        "text": "What's the actual name for this crisis?",
+        "user": "U15J5H60P",
+        "ts": "1542737239.001100"
+    },
+    {
+        "client_msg_id": "6C6B1C17-760A-4469-9B2B-A893BFFCF285",
+        "type": "message",
+        "text": "Is it a crisis",
+        "user": "U15J5H60P",
+        "ts": "1542737247.001400"
+    },
+    {
+        "client_msg_id": "B07C33F5-93CA-40BB-A413-9A5EA47B4D40",
+        "type": "message",
+        "text": "Also",
+        "user": "U15J5H60P",
+        "ts": "1542737249.001500"
+    },
+    {
+        "client_msg_id": "095E0172-9DA9-4FCF-BE5F-D296204FCB90",
+        "type": "message",
+        "text": "Why the fuck did I buy mu",
+        "user": "U15J5H60P",
+        "ts": "1542737257.001900"
+    },
+    {
+        "client_msg_id": "1ec3aa0f-9400-40da-b7ac-6fb2384167db",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1542737266.002100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus spy",
+        "user": "U15HRTAHL",
+        "ts": "1542737329.002200"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n        SPY              265.28               -3.82               -1.420 \n       Avg.                 ---                 ---              -1.420% \n```\n<http:\/\/finviz.com\/chart.ashx?t=SPY&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1542737329.002300",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=SPY&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 36493,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=SPY&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=SPY&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    }
+]

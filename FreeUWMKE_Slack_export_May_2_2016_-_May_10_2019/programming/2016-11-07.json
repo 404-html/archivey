@@ -1,0 +1,198 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1478540119.000002"
+    },
+    {
+        "type": "message",
+        "text": "Here’s my output",
+        "user": "U15J5H60P",
+        "ts": "1478540124.000003"
+    },
+    {
+        "type": "message",
+        "text": "Problem 1: 233168 (0.000587892s)\nProblem 2: 4613732 (8.255e-06s)\nProblem 3: 6857 (0.041649682s)\nProblem 4: 906609 (8.318927182s)\nProblem 5: 232792560 (14.70012698s)\nProblem 6: 25164150 (1.9094e-05s)\nProblem 7: 104743 (0.015426213s)\nProblem 8: 23514624000 (0.276956689s)\nProblem 9: 31875000 (0.020524375s)\nProblem 10: 142913828922 (0.915968975s)\nProblem 11: 70600674 (0.002464553s)\nProblem 12: 76576500 (0.681981169s)\nProblem 13: DONE IN PYTHON. SEE Problem13.py\nProblem 14: 837799 (6.673954616s)",
+        "user": "U15J5H60P",
+        "ts": "1478540125.000004"
+    },
+    {
+        "type": "message",
+        "text": "For the first 14 problems",
+        "user": "U15J5H60P",
+        "ts": "1478540129.000005"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> Don’t cheat.",
+        "user": "U15J5H60P",
+        "ts": "1478540135.000006"
+    },
+    {
+        "type": "message",
+        "text": "With the time it took to run each problem in parentheses",
+        "user": "U15J5H60P",
+        "ts": "1478540150.000007"
+    },
+    {
+        "type": "message",
+        "text": "How long does 5 take you to run?",
+        "user": "U15J5H60P",
+        "ts": "1478540159.000008"
+    },
+    {
+        "type": "message",
+        "text": "15 seconds seems like a lot...",
+        "user": "U15J5H60P",
+        "ts": "1478540170.000009"
+    },
+    {
+        "type": "message",
+        "text": "The answers dont do anything for me except to double check lol",
+        "user": "U15HY5TG8",
+        "ts": "1478540211.000010"
+    },
+    {
+        "type": "message",
+        "text": "Even Problem 4 @ 8 seconds seems like a lot.",
+        "user": "U15J5H60P",
+        "ts": "1478540214.000011"
+    },
+    {
+        "type": "message",
+        "text": "I suppose.",
+        "user": "U15J5H60P",
+        "ts": "1478540228.000012"
+    },
+    {
+        "type": "message",
+        "text": "Did you get past the second one evan?",
+        "user": "U15J5H60P",
+        "ts": "1478540252.000013"
+    },
+    {
+        "type": "message",
+        "text": "mine takes 11 seconds",
+        "user": "U15HSHSS2",
+        "ts": "1478540450.000014"
+    },
+    {
+        "type": "message",
+        "text": "Ah. Okie dokie.",
+        "user": "U15J5H60P",
+        "ts": "1478540460.000015"
+    },
+    {
+        "type": "message",
+        "text": "I just used brute force",
+        "user": "U15HSHSS2",
+        "ts": "1478540469.000016"
+    },
+    {
+        "type": "message",
+        "text": "Yea i got to the prime numbers but thats it lol",
+        "user": "U15HY5TG8",
+        "ts": "1478540469.000017"
+    },
+    {
+        "type": "message",
+        "text": "I think I did to.",
+        "user": "U15J5H60P",
+        "ts": "1478540474.000018"
+    },
+    {
+        "type": "message",
+        "text": "I had to do #13 in Python because swift can’t handle that big of integers. :joy:",
+        "user": "U15J5H60P",
+        "ts": "1478540511.000019"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1478540519.000020"
+    },
+    {
+        "type": "message",
+        "text": "What’s the #1 thing you took away from this so far?",
+        "user": "U15J5H60P",
+        "ts": "1478540588.000021"
+    },
+    {
+        "type": "message",
+        "text": "Is there anything that you found to be really cool?",
+        "user": "U15J5H60P",
+        "ts": "1478540606.000022"
+    },
+    {
+        "type": "message",
+        "text": "I think something it's gotten me to do is look at a problem in a bunch of different ways. Like i'll start a problem and do it an easy way right off the bat, and realize that I'm not gunna be able to just brute force it, so I have to try and come up with another unique way to solve it, and then in doing so you think of a few other ways you could solve it. Then you start to realize that for some of the problems your initial way to solve it isn't just the easy brute force way anymore, but rather you're starting to immediately go towards the more complex\/efficient way of solving it.",
+        "user": "U15HSHSS2",
+        "ts": "1478540888.000023"
+    },
+    {
+        "type": "message",
+        "text": "That is actually really good insight! I completely agree.",
+        "user": "U15J5H60P",
+        "ts": "1478540942.000024"
+    },
+    {
+        "type": "message",
+        "text": "I was going to say the checking if a large number is prime trick is really cool. But our thoughts go hand in hand in a way. Because I learned that new trick, I won’t ever think of brute forcing checking prime numbers ever again.",
+        "user": "U15J5H60P",
+        "ts": "1478540994.000025"
+    },
+    {
+        "type": "message",
+        "text": "Whenever I see “Prime Number” I always start by writing out the neat function that checks primes efficiently.",
+        "user": "U15J5H60P",
+        "ts": "1478541035.000026"
+    },
+    {
+        "type": "message",
+        "text": "yup, same here",
+        "user": "U15HSHSS2",
+        "ts": "1478541046.000027",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1478541057.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "lol and some of these questions are just so obscure, like who the hell thinks of this <https:\/\/projecteuler.net\/problem=42>",
+        "user": "U15HSHSS2",
+        "ts": "1478541085.000029",
+        "attachments": [
+            {
+                "title": "Problem 42 - Project Euler",
+                "title_link": "https:\/\/projecteuler.net\/problem=42",
+                "text": "A website dedicated to the fascinating world of mathematics and programming",
+                "fallback": "Problem 42 - Project Euler",
+                "from_url": "https:\/\/projecteuler.net\/problem=42",
+                "service_icon": "https:\/\/projecteuler.net\/favicon.ico",
+                "service_name": "projecteuler.net",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lolol Wtf",
+        "user": "U15J5H60P",
+        "ts": "1478541121.000031"
+    },
+    {
+        "type": "message",
+        "text": "That’s going to be a fun one.",
+        "user": "U15J5H60P",
+        "ts": "1478541134.000032"
+    },
+    {
+        "type": "message",
+        "text": "haha yeah i just did it",
+        "user": "U15HSHSS2",
+        "ts": "1478541167.000033"
+    }
+]

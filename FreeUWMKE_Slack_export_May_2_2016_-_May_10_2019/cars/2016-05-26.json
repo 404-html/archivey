@@ -1,0 +1,84 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: <https:\/\/youtu.be\/ib-02b2ooLY>",
+        "user": "U15J5H60P",
+        "ts": "1464276362.731812",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "2017 Bentley Bentayga vs. 2016 Tesla Model X P90D Ludicrous - Head 2 Head Ep. 76",
+                "title_link": "https:\/\/youtu.be\/ib-02b2ooLY",
+                "author_name": "Motor Trend Channel",
+                "author_link": "https:\/\/www.youtube.com\/user\/MotorTrend",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ib-02b2ooLY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 2017 Bentley Bentayga vs. 2016 Tesla Model X P90D Ludicrous - Head 2 Head Ep. 76",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ib-02b2ooLY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/ib-02b2ooLY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: <https:\/\/youtu.be\/ib-02b2ooLY>",
+        "user": "U15J5H60P",
+        "ts": "1464276365.000002"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1464276387.000003",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "Seriously an awesome video. 30 minutes long of comparing a Tesla to a Bentley ",
+        "user": "U15J5H60P",
+        "ts": "1464277490.000002"
+    },
+    {
+        "type": "message",
+        "text": "The Model X is pretty awesome.",
+        "user": "U15J5H60P",
+        "ts": "1464277523.000003"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: how much do you pay for insurance",
+        "user": "U15J5H60P",
+        "ts": "1464278032.000004"
+    },
+    {
+        "type": "message",
+        "text": "Mines like nothing since my car is so old and also because theres a lot of cars on my family's insurance",
+        "user": "U15HY5TG8",
+        "ts": "1464279205.000002"
+    },
+    {
+        "type": "message",
+        "text": "Oh.",
+        "user": "U15J5H60P",
+        "ts": "1464279513.000003"
+    },
+    {
+        "type": "message",
+        "text": "Yea i think my dad has 3 cars under his name so insurance sees it as he is rotating all three throughout the year so theres less of a chance of crashing each one",
+        "user": "U15HY5TG8",
+        "ts": "1464279756.000004"
+    },
+    {
+        "type": "message",
+        "text": "Maybe even 4 under his name",
+        "user": "U15HY5TG8",
+        "ts": "1464279766.000005"
+    }
+]

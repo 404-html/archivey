@@ -1,0 +1,460 @@
+[
+    {
+        "client_msg_id": "aa4505ed-882c-4103-a204-f0f49e8c1310",
+        "type": "message",
+        "text": "So I got my Fill It game working",
+        "user": "U15HSHSS2",
+        "ts": "1536849835.000100"
+    },
+    {
+        "client_msg_id": "9d2f4997-395c-48a0-8f97-118ec92255f4",
+        "type": "message",
+        "text": "\"working\"",
+        "user": "U15HSHSS2",
+        "ts": "1536849839.000100"
+    },
+    {
+        "client_msg_id": "388785c6-5b82-4f41-a864-669b8030ca66",
+        "type": "message",
+        "text": "BAD ASS",
+        "user": "U15J5H60P",
+        "ts": "1536849846.000100"
+    },
+    {
+        "client_msg_id": "e3566cb2-72b9-4b75-8310-1c2f5ee8fca1",
+        "type": "message",
+        "text": "What did you program it in?",
+        "user": "U15J5H60P",
+        "ts": "1536849853.000200"
+    },
+    {
+        "client_msg_id": "25571875-fa42-4b1a-98e2-34682404006f",
+        "type": "message",
+        "text": "I'm kinda screwed cuz my algorithm doesn't run quite fast enough lol",
+        "user": "U15HSHSS2",
+        "ts": "1536849862.000100"
+    },
+    {
+        "client_msg_id": "fe546a18-a7f6-41cd-82a3-e5394aeb2840",
+        "type": "message",
+        "text": "GML (GameMaker Language)",
+        "user": "U15HSHSS2",
+        "ts": "1536849870.000100"
+    },
+    {
+        "client_msg_id": "793729ec-8808-4829-a14f-55705b7b3ee9",
+        "type": "message",
+        "text": "Ah gotcha",
+        "user": "U15J5H60P",
+        "ts": "1536849884.000100"
+    },
+    {
+        "client_msg_id": "489ea00b-0b05-427a-bbe1-319ab4d2ddb7",
+        "type": "message",
+        "text": "Gotta make a web app!",
+        "user": "U15J5H60P",
+        "ts": "1536849888.000200"
+    },
+    {
+        "client_msg_id": "300a64a2-e284-4e14-9e0d-1ac419f21e7c",
+        "type": "message",
+        "text": "GameMaker is so easy to use. Every time I try using Unity i just end up going back to game maker lol",
+        "user": "U15HSHSS2",
+        "ts": "1536849897.000100"
+    },
+    {
+        "client_msg_id": "ff5344bc-ba75-4c51-9e57-c336377dcde6",
+        "type": "message",
+        "text": "I looked up the algorithm Microsoft Paint uses for their fill functionality, and I'm using that, but it still takes my game like 1 - 2 seconds to process it...",
+        "user": "U15HSHSS2",
+        "ts": "1536849974.000100"
+    },
+    {
+        "client_msg_id": "6f0e8f84-fea9-454b-a4f3-687bdf820f9a",
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1536850731.000100"
+    },
+    {
+        "client_msg_id": "a792c2fd-db4b-423a-8cc3-febe43b2de36",
+        "type": "message",
+        "text": "Do it in JS",
+        "user": "U15J5H60P",
+        "ts": "1536850740.000100"
+    },
+    {
+        "client_msg_id": "77002e8e-064f-408d-8991-c7e0a3d6e7a8",
+        "type": "message",
+        "text": "Think I might know how to fix it :smirk:",
+        "user": "U15HSHSS2",
+        "ts": "1536850743.000100"
+    },
+    {
+        "client_msg_id": "05628aff-1a1e-4a97-acfe-9bf3da4e935e",
+        "type": "message",
+        "text": "not gettin any work done today",
+        "user": "U15HSHSS2",
+        "ts": "1536850752.000100"
+    },
+    {
+        "client_msg_id": "f461033d-f8a4-48bc-baf8-42ff94c1bebc",
+        "type": "message",
+        "text": "Take a video",
+        "user": "U15J5H60P",
+        "ts": "1536850767.000100"
+    },
+    {
+        "client_msg_id": "f42a8002-9854-4367-b8a7-a8da693fc689",
+        "type": "message",
+        "text": "notice how when I close a section off the game stutters for a second while it fills that section up",
+        "user": "U15HSHSS2",
+        "ts": "1536852456.000100"
+    },
+    {
+        "client_msg_id": "87342688-1049-4db4-b834-09aa06643e05",
+        "type": "message",
+        "text": "Can you make that asynchronous?",
+        "user": "U15J5H60P",
+        "ts": "1536859605.000100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1536859610.000000"
+        }
+    },
+    {
+        "client_msg_id": "586233e0-ac8b-49cf-92ef-80399fb56215",
+        "type": "message",
+        "text": "So it's filling parallel to the game running?",
+        "user": "U15J5H60P",
+        "ts": "1536859617.000100"
+    },
+    {
+        "client_msg_id": "63065cd7-7bfe-4047-82c3-4616d6c6005a",
+        "type": "message",
+        "text": "<https:\/\/docs.yoyogames.com\/source\/dadiospice\/000_using%20gamemaker\/events\/async%20event.html>",
+        "user": "U15J5H60P",
+        "ts": "1536859685.000200",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1536859700.000000"
+        }
+    },
+    {
+        "client_msg_id": "84f4b104-25a2-444f-bb44-86f1cba068d8",
+        "type": "message",
+        "text": "Changed link",
+        "user": "U15J5H60P",
+        "ts": "1536859705.000100"
+    },
+    {
+        "client_msg_id": "8c6fb991-74db-471a-91a0-ac7bd9bcff0e",
+        "type": "message",
+        "text": "<https:\/\/docs2.yoyogames.com\/source\/_build\/2_interface\/1_editors\/events\/async_events.html> maybe this?",
+        "user": "U15J5H60P",
+        "ts": "1536859733.000100"
+    },
+    {
+        "client_msg_id": "671a79ab-9ad7-44b3-b51e-9f69c1140988",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1536861536.000100"
+    },
+    {
+        "client_msg_id": "ddb34621-3f81-48cc-932c-c611c318e0d6",
+        "type": "message",
+        "text": "Do you have the logic for fill it?",
+        "user": "U15J5H60P",
+        "ts": "1536861540.000100"
+    },
+    {
+        "client_msg_id": "de9c5e32-5f1e-4b62-99e9-24ce58ce993c",
+        "type": "message",
+        "text": "I went to update our development database from a copy of production. when I restored the dev database it said the production database was being restored as well",
+        "user": "U15HRTAHL",
+        "ts": "1536865760.000100"
+    },
+    {
+        "client_msg_id": "eba696f4-d8b4-46c6-ab8e-d3c5388a0fcd",
+        "type": "message",
+        "text": "I’ve never shat so many bricks in my life",
+        "user": "U15HRTAHL",
+        "ts": "1536865767.000100"
+    },
+    {
+        "client_msg_id": "0a3d9cba-a03f-4936-bcbc-a593054c7a76",
+        "type": "message",
+        "text": "Apparently it’s a very common issue",
+        "user": "U15HRTAHL",
+        "ts": "1536865794.000100"
+    },
+    {
+        "client_msg_id": "5d775314-97b2-4c60-82f6-1aa900e3fae1",
+        "type": "message",
+        "text": "<https:\/\/sqlundercover.com\/2017\/08\/14\/ssms-source-database-restoring-after-performing-a-restore-to-a-new-destination\/>",
+        "user": "U15HRTAHL",
+        "ts": "1536865795.000100",
+        "attachments": [
+            {
+                "service_name": "SQL Undercover",
+                "service_url": "http:\/\/sqlundercover.com",
+                "title": "SSMS- Source Database ‘Restoring’ After Performing a Restore To a New Destination",
+                "title_link": "https:\/\/sqlundercover.com\/2017\/08\/14\/ssms-source-database-restoring-after-performing-a-restore-to-a-new-destination\/",
+                "author_name": "David Fowler",
+                "author_link": "https:\/\/sqlundercover.com\/author\/dbadavidfowler\/",
+                "thumb_url": "https:\/\/sqlundercover.files.wordpress.com\/2017\/08\/recovery4.png?fit=200%2C150",
+                "thumb_width": 200,
+                "thumb_height": 101,
+                "text": "&ldquo;I just tried restoring a copy of my database but now the original&rsquo;s in recovery&rdquo;\n\nThat was the panicked question that I was asked earlier today and as it&rsquo;s something that I&rsquo;ve seen come up more than a couple of times, I thought I&rsquo;d write up a lunchtime quickie to explain the issue.\nIf you ever restore a backup to a new database, there&rsquo;s something that you should probably be aware of otherwise you could easily find yourself in this situation.\nLet&rsquo;s have a look at what happens when we try to restore a copy of the SQLUndercover database using SSMS. &nbsp;We&rsquo;re going to kick this off by right clicking on &lsquo;SQLUndercover&rsquo; and selecting restore database.\n\nWe&rsquo;ll change the destination database and destination files so we restore a new copy of that database.\n\nExcellent, the restore finished and as we can see in SSMS, we&rsquo;ve now got a copy of sqlundercover. &nbsp;But hang on a minute, why is our original database now showing restoring????\n\nDid we somehow restore the backup against our original database?\nNo we didn&rsquo;t, what we&rsquo;re seeing here is the effect of one of the default options that is always set when you right click a database and choose restore. &nbsp;Let&rsquo;s have a look at the options screen when we do the restore.\n\nSee that option right there, the one that says &lsquo;Leave source database in the restoring state&rsquo;? &nbsp;That there&rsquo;s your problem and will always be selected by default when you right click a database and choose &lsquo;restore database&rsquo;. &nbsp;Simply make sure that you uncheck that option and you&rsquo;ll never have the problem again.\nBut what if you&rsquo;ve come here because you&rsquo;ve already got your database in the restoring state, how do you get it back up and running again?\nYou can simply run the following code and you&rsquo;ll be back up and running.\n\n\nRESTORE DATABASE SQLUndercover WITH RECOVERY",
+                "fallback": "SQL Undercover Link: SSMS- Source Database &#8216;Restoring&#8217; After Performing a Restore To a New&nbsp;Destination",
+                "from_url": "https:\/\/sqlundercover.com\/2017\/08\/14\/ssms-source-database-restoring-after-performing-a-restore-to-a-new-destination\/",
+                "service_icon": "https:\/\/sqlundercover.files.wordpress.com\/2017\/10\/cropped-cropped-cropped-logo_white_transparent.png?w=180",
+                "id": 1,
+                "original_url": "https:\/\/sqlundercover.com\/2017\/08\/14\/ssms-source-database-restoring-after-performing-a-restore-to-a-new-destination\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a201bc62-1fbc-41e5-ac9f-254d95ef13d2",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HSHSS2",
+        "ts": "1536866171.000100"
+    },
+    {
+        "client_msg_id": "a856c3c9-cdb4-421b-a442-ed8d69982914",
+        "type": "message",
+        "text": "<@U15J5H60P> I don't think gamemaker can naively do any sort of multi threading or running code in parallel with acync",
+        "user": "U15HSHSS2",
+        "ts": "1536866240.000100"
+    },
+    {
+        "client_msg_id": "f7f9d16e-3821-43ad-a5ea-71d4edec58b8",
+        "type": "message",
+        "text": "The stuff you referenced is if I need to wait for some sort of external thing to be done like an http request or loading an image or audio or input, then I can keep running my game in the background until I receive that data, and use call a callback function to run code the relies on the data I was requesting",
+        "user": "U15HSHSS2",
+        "ts": "1536866322.000100"
+    },
+    {
+        "client_msg_id": "49a236b9-43a6-4ac7-a98e-44d8fd2e64b7",
+        "type": "message",
+        "text": "ah gotcha",
+        "user": "U15J5H60P",
+        "ts": "1536866363.000100"
+    },
+    {
+        "client_msg_id": "e476c13f-ee85-42e3-8829-5f1f9c8d5e76",
+        "type": "message",
+        "text": "are you doing actual programming?",
+        "user": "U15J5H60P",
+        "ts": "1536866389.000100"
+    },
+    {
+        "client_msg_id": "5ca3129b-600f-46cf-931b-feca5ca2ac8f",
+        "type": "message",
+        "text": "Or is it drag and drop?",
+        "user": "U15J5H60P",
+        "ts": "1536866395.000100"
+    },
+    {
+        "client_msg_id": "c705e6ca-8ec6-475e-98ca-d9698a281eb8",
+        "type": "message",
+        "text": "More or less",
+        "user": "U15J5H60P",
+        "ts": "1536866398.000100"
+    },
+    {
+        "client_msg_id": "a6842951-e6f6-4978-bfed-ae9fe3335bc8",
+        "type": "message",
+        "text": "programming, you can't do shit with drag and drop lol",
+        "user": "U15HSHSS2",
+        "ts": "1536866416.000100"
+    },
+    {
+        "client_msg_id": "88e2e9e6-4cfe-4d0e-be4c-76149ac07988",
+        "type": "message",
+        "text": "So is your map just a big array?",
+        "user": "U15J5H60P",
+        "ts": "1536866477.000100"
+    },
+    {
+        "client_msg_id": "59486632-9a7a-4c32-91cd-ff77bd4f40d9",
+        "type": "message",
+        "text": "25\/25 array or something?",
+        "user": "U15J5H60P",
+        "ts": "1536866484.000100"
+    },
+    {
+        "client_msg_id": "b2579d42-2a27-428b-b3d5-577ea87fccfa",
+        "type": "message",
+        "text": "what do you mean by map?",
+        "user": "U15HSHSS2",
+        "ts": "1536866505.000100"
+    },
+    {
+        "client_msg_id": "a87e4f57-e885-4a59-bc26-cf6fb2550c5d",
+        "type": "message",
+        "text": "the game board",
+        "user": "U15J5H60P",
+        "ts": "1536866519.000100"
+    },
+    {
+        "client_msg_id": "ec2cc7f6-99bb-4bed-80a3-ea5d0830bcdf",
+        "type": "message",
+        "text": "like the level it self?",
+        "user": "U15HSHSS2",
+        "ts": "1536866521.000100"
+    },
+    {
+        "client_msg_id": "515bc474-20df-4a30-9d2c-2216fd9c972f",
+        "type": "message",
+        "text": "yes",
+        "user": "U15J5H60P",
+        "ts": "1536866523.000300"
+    },
+    {
+        "client_msg_id": "70afab00-0f2d-47a8-8cae-7bc2a5926c6d",
+        "type": "message",
+        "text": "ah",
+        "user": "U15HSHSS2",
+        "ts": "1536866523.000400"
+    },
+    {
+        "client_msg_id": "b24e75fd-f9f6-4a62-9a63-039473e7faba",
+        "type": "message",
+        "text": "yeah you can pretty much think of it like that",
+        "user": "U15HSHSS2",
+        "ts": "1536866534.000100"
+    },
+    {
+        "client_msg_id": "2bbbc982-3921-4fb8-9c3b-3ec78eff715b",
+        "type": "message",
+        "text": "Is it actually an array?",
+        "user": "U15J5H60P",
+        "ts": "1536866549.000100"
+    },
+    {
+        "client_msg_id": "047da3ba-7ebb-4495-b45a-7715799631f7",
+        "type": "message",
+        "text": "How do you structure it?",
+        "user": "U15J5H60P",
+        "ts": "1536866554.000100"
+    },
+    {
+        "client_msg_id": "04e03235-b43f-42ce-8329-4715c53baf03",
+        "type": "message",
+        "text": "I'm not sure how to structure it",
+        "user": "U15J5H60P",
+        "ts": "1536866558.000100"
+    },
+    {
+        "client_msg_id": "4d47712f-e528-4b4e-8050-96a8a011b45d",
+        "type": "message",
+        "text": "so far I have an enemy ball and a player",
+        "user": "U15J5H60P",
+        "ts": "1536866565.000100"
+    },
+    {
+        "client_msg_id": "b2f1e446-fa02-42f6-b3e2-41fd83d5169e",
+        "type": "message",
+        "text": "Not sure how to go about the game 'tiles'",
+        "user": "U15J5H60P",
+        "ts": "1536866570.000200"
+    },
+    {
+        "client_msg_id": "1198aa55-b895-4975-bc7f-6808c76c7d36",
+        "type": "message",
+        "text": "are you using game maker right now?",
+        "user": "U15HSHSS2",
+        "ts": "1536866578.000100"
+    },
+    {
+        "client_msg_id": "15242dc9-ac7c-43cc-8e22-c0b691d2da87",
+        "type": "message",
+        "text": "Javascript",
+        "user": "U15J5H60P",
+        "ts": "1536866581.000100"
+    },
+    {
+        "client_msg_id": "93e95eb7-ab9d-4d1b-9f3a-8c708dd99797",
+        "type": "message",
+        "text": "It's kinda hard to explain... the map itself is its own datastructure in gamemaker called a room",
+        "user": "U15HSHSS2",
+        "ts": "1536866761.000100"
+    },
+    {
+        "client_msg_id": "121947da-ca7c-4d41-a2e2-0f466a629281",
+        "type": "message",
+        "text": "its not just an array, its got a bunch of other built in properties",
+        "user": "U15HSHSS2",
+        "ts": "1536866782.000100"
+    },
+    {
+        "client_msg_id": "6d770503-1cea-4adf-9701-5f39d58b443c",
+        "type": "message",
+        "text": "you basically think of it as a grid cuz it has an x and a y value",
+        "user": "U15HSHSS2",
+        "ts": "1536866802.000100"
+    },
+    {
+        "client_msg_id": "e6b1d564-e89f-480a-92e4-c976df1387f0",
+        "type": "message",
+        "text": "top left is (0,0) bottom right is (room_width, room_height)",
+        "user": "U15HSHSS2",
+        "ts": "1536866838.000200"
+    },
+    {
+        "client_msg_id": "80d5ae1b-78b4-4404-abd4-aea6fa24612b",
+        "type": "message",
+        "text": "and if you want things to move around your room you tell them which x and y values to go to",
+        "user": "U15HSHSS2",
+        "ts": "1536866865.000100"
+    },
+    {
+        "client_msg_id": "5c17a1c4-7d2a-438b-a932-a064dbf04fad",
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15J5H60P",
+        "ts": "1536866939.000100"
+    },
+    {
+        "client_msg_id": "6c2dd323-b6ea-4db0-8ed9-a472ffbabf3c",
+        "type": "message",
+        "text": "And just like that she's worrrkkingg",
+        "user": "U15HSHSS2",
+        "ts": "1536869363.000100"
+    },
+    {
+        "client_msg_id": "911d270a-939c-48f5-a32a-a216e4de24c5",
+        "type": "message",
+        "text": "no delay anymore :sunglasses:",
+        "user": "U15HSHSS2",
+        "ts": "1536869374.000200"
+    },
+    {
+        "client_msg_id": "9bd5976f-71cd-4725-95c1-2923a46cf52f",
+        "type": "message",
+        "text": "Noice",
+        "user": "U15J5H60P",
+        "ts": "1536870166.000100"
+    },
+    {
+        "client_msg_id": "19909070-eeb5-4776-834d-a0e0c6db522a",
+        "type": "message",
+        "text": "What'd you have to do?",
+        "user": "U15J5H60P",
+        "ts": "1536870171.000100"
+    },
+    {
+        "client_msg_id": "603e802d-d8df-4576-a26f-bfda3d09f6aa",
+        "type": "message",
+        "text": "I knew the algorithm wasn't the issue cuz I was using the standard flood fill algorithm. but the data I was using in the algorithm was real data from my game. like I said before you can think of the map as a grid. so my code was doing the bounds check and the \"is this point empty or filled?\" check by manually checking each spot on the actual map. That's generally how things work in game maker. if you need to see if an object is located at a point on the map you manually check every object on the map and see if its X and Y values match the spot your looking at.\n\nmanipulating and checking all that data is what was causing the shit to get bogged down. so instead of checking the real data, I created a 2D array that mimics the map. if there is a block on the map, i put a 1 in that index for the 2D array, if its empty i put a 0, and if theres an enemy i put a 2.\n\nThen instead of using the real data and checking all the spots on the map's grid to see if its empty or not and should be filled. I just iterate over the array and do the same check just instead of checking positions of objects on the map, i just check if the index of the array is a 0, 1, or 2",
+        "user": "U15HSHSS2",
+        "ts": "1536870717.000100",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1536871481.000000"
+        }
+    }
+]

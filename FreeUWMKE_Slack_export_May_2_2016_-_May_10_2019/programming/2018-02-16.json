@@ -1,0 +1,236 @@
+[
+    {
+        "type": "message",
+        "text": "What is taht?",
+        "user": "U15J5H60P",
+        "ts": "1518789227.000195"
+    },
+    {
+        "type": "message",
+        "text": "Its a text file that has the computed USD and payout amount from payouts found in my crypto wallet. It runs every four hours so that i get the most accurate USD worth at the time of payment so that i can do my taxes correctly",
+        "user": "U15HY5TG8",
+        "ts": "1518790124.000285"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> does your miner just mine bitcoin or do you have it setup to switch to the most profitable coin?",
+        "user": "U15HRTAHL",
+        "ts": "1518794168.000471"
+    },
+    {
+        "type": "message",
+        "text": "I only mine a coin called verge. I actively check which one is most profitable but i usually just stick with this coin because i have faith in it",
+        "user": "U15HY5TG8",
+        "ts": "1518796591.000155"
+    },
+    {
+        "type": "message",
+        "text": "Once i get up to 2000 coins, i may switch",
+        "user": "U15HY5TG8",
+        "ts": "1518796614.000722"
+    },
+    {
+        "type": "message",
+        "text": "there's a program I saw that automatically switches to mine the most profitable coin",
+        "user": "U15HRTAHL",
+        "ts": "1518796654.000249"
+    },
+    {
+        "type": "message",
+        "text": "Yeah ik theyre out there but it seems too hard to manage. Id prob need a wallet for whatever coin it decides to mine",
+        "user": "U15HY5TG8",
+        "ts": "1518796705.000215"
+    },
+    {
+        "type": "message",
+        "text": "maps are by far my most favorite data structure",
+        "user": "U15HRTAHL",
+        "ts": "1518812079.000147"
+    },
+    {
+        "type": "message",
+        "text": "alright who wants to put on their thinking caps?",
+        "user": "U15HRTAHL",
+        "ts": "1518813907.000496"
+    },
+    {
+        "type": "message",
+        "text": ":man-gesturing-no::skin-tone-3:",
+        "user": "U15HSHSS2",
+        "ts": "1518816706.000398"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1518816929.000432"
+    },
+    {
+        "type": "message",
+        "text": "whats the question?",
+        "user": "U15HY5TG8",
+        "ts": "1518823912.000233"
+    },
+    {
+        "client_msg_id": "363c0e72-ef7e-4204-80e2-a77679643dfe",
+        "type": "message",
+        "text": "I figured it out. It was a code fight. ",
+        "user": "U15HRTAHL",
+        "ts": "1518826707.000049"
+    },
+    {
+        "client_msg_id": "439109df-873a-4a53-bbbb-4eb1f09c6e36",
+        "type": "message",
+        "text": "Given a base you had to see if the number was valid in that base ",
+        "user": "U15HRTAHL",
+        "ts": "1518826723.000076"
+    },
+    {
+        "client_msg_id": "251325d1-57e8-41a0-af25-3cfd53ec8ce8",
+        "type": "message",
+        "text": "They gave me a base of 17 and a number of ac ",
+        "user": "U15HRTAHL",
+        "ts": "1518826735.000178"
+    },
+    {
+        "client_msg_id": "06e1a879-2e2b-41b0-89d2-a9e3104b7904",
+        "type": "message",
+        "text": "My code said it was valid but they said it's invalid ",
+        "user": "U15HRTAHL",
+        "ts": "1518826746.000045"
+    },
+    {
+        "client_msg_id": "dc079fba-071a-4115-b3c0-66572512b0d7",
+        "type": "message",
+        "text": "I didn't rtdp ",
+        "user": "U15HRTAHL",
+        "ts": "1518826756.000100"
+    },
+    {
+        "client_msg_id": "ab1acd34-c1da-4374-b385-189f54053dd2",
+        "type": "message",
+        "text": "Valid bases were between 2 and 16",
+        "user": "U15HRTAHL",
+        "ts": "1518826768.000046"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1518827221.000280"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1518828115.000044"
+    },
+    {
+        "type": "message",
+        "text": "I do really enjoy how programming is coming easier to me as the days go on",
+        "user": "U15HY5TG8",
+        "ts": "1518831278.000126"
+    },
+    {
+        "type": "message",
+        "text": "just wait",
+        "user": "U15HRTAHL",
+        "ts": "1518835652.000031"
+    },
+    {
+        "type": "message",
+        "text": "theres always a curve ball",
+        "user": "U15HRTAHL",
+        "ts": "1518835659.000063"
+    },
+    {
+        "type": "message",
+        "text": "lol yea ik",
+        "user": "U15HY5TG8",
+        "ts": "1518835682.000111"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> can i do something like \n```ng-show=\"!Catalog.TERMINATION_DATE || Catalog.TERMINATION_DATE &lt; new Date()\" or whats the closest thing?",
+        "user": "U15HY5TG8",
+        "ts": "1518836379.000035"
+    },
+    {
+        "type": "message",
+        "text": "assign new Date to a controller variable",
+        "user": "U15HRTAHL",
+        "ts": "1518836575.000051"
+    },
+    {
+        "type": "message",
+        "text": "then yeah",
+        "user": "U15HRTAHL",
+        "ts": "1518836577.000051"
+    },
+    {
+        "type": "message",
+        "text": "ahh ok nice!",
+        "user": "U15HY5TG8",
+        "ts": "1518836586.000125"
+    },
+    {
+        "type": "message",
+        "text": "also set a time zone on your date",
+        "user": "U15HRTAHL",
+        "ts": "1518836639.000064"
+    },
+    {
+        "type": "message",
+        "text": "or else you'll get one off issues",
+        "user": "U15HRTAHL",
+        "ts": "1518836644.000107"
+    },
+    {
+        "type": "message",
+        "text": "Weird",
+        "user": "U15HY5TG8",
+        "ts": "1518836786.000092"
+    },
+    {
+        "type": "message",
+        "text": "Can i do that based on the users browser?",
+        "user": "U15HY5TG8",
+        "ts": "1518836800.000074"
+    },
+    {
+        "type": "message",
+        "text": "so my question worked for the first scenario but did not work for the second half of the ng-show",
+        "user": "U15HY5TG8",
+        "ts": "1518837327.000104"
+    },
+    {
+        "type": "message",
+        "text": "is Termination date a date?",
+        "user": "U15HRTAHL",
+        "ts": "1518838005.000051"
+    },
+    {
+        "type": "message",
+        "text": "or is it a string?",
+        "user": "U15HRTAHL",
+        "ts": "1518838008.000071"
+    },
+    {
+        "type": "message",
+        "text": "it should be a date. Its being passed in based on a model",
+        "user": "U15HY5TG8",
+        "ts": "1518838039.000074"
+    },
+    {
+        "type": "message",
+        "text": "tried doing something like this ```\"vm.CompareDate(Catalog.TERMINATION_DATE)\"```",
+        "user": "U15HY5TG8",
+        "ts": "1518838332.000022"
+    },
+    {
+        "type": "message",
+        "text": "but it didnt even enter the method",
+        "user": "U15HY5TG8",
+        "ts": "1518838339.000078"
+    }
+]

@@ -1,0 +1,1092 @@
+[
+    {
+        "client_msg_id": "525ff478-eb25-4d79-946e-e8dbd1d6dac2",
+        "type": "message",
+        "text": "<@U15J5H60P> did you ever look more into salesforce?",
+        "user": "U15HRTAHL",
+        "ts": "1554818156.000300"
+    },
+    {
+        "client_msg_id": "22f12905-8712-4785-bc0e-12f8988204be",
+        "type": "message",
+        "text": "Not yet.",
+        "user": "U15J5H60P",
+        "ts": "1554818485.000500"
+    },
+    {
+        "client_msg_id": "c4611b79-d798-46ee-a583-e24c9a4c3202",
+        "type": "message",
+        "text": "I have been looking at companies around MKE and jesus",
+        "user": "U15J5H60P",
+        "ts": "1554818497.000900"
+    },
+    {
+        "client_msg_id": "bacb3010-ee02-43df-84d7-3b0cde8a101a",
+        "type": "message",
+        "text": "PTO sucks",
+        "user": "U15J5H60P",
+        "ts": "1554818500.001100"
+    },
+    {
+        "client_msg_id": "19e2a7f0-9d98-4cf9-a07b-e4cc096fe771",
+        "type": "message",
+        "text": "10 days?",
+        "user": "U15J5H60P",
+        "ts": "1554818503.001300"
+    },
+    {
+        "client_msg_id": "942b1d92-e34e-4d7c-985e-5a6cd4c0a791",
+        "type": "message",
+        "text": "I'd be really sad all the time",
+        "user": "U15J5H60P",
+        "ts": "1554818508.001500",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1554818517.000000"
+        }
+    },
+    {
+        "client_msg_id": "00bb87f5-66e5-4ee8-a3e5-e61274848be8",
+        "type": "message",
+        "text": "just gotta take advantage of the wfh policy",
+        "user": "U15HRTAHL",
+        "ts": "1554818568.001900"
+    },
+    {
+        "client_msg_id": "5379a9b9-6b8c-49f4-b85a-e085caba56b1",
+        "type": "message",
+        "text": "WFH in Honolulu",
+        "user": "U15J5H60P",
+        "ts": "1554818588.002100"
+    },
+    {
+        "client_msg_id": "00037768-F76C-4730-8213-3A220EAA4ADD",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1554819265.002300"
+    },
+    {
+        "client_msg_id": "cc4ed09d-2c11-4920-97e4-e93f816e442b",
+        "type": "message",
+        "text": "<https:\/\/insights.stackoverflow.com\/survey\/2019>",
+        "user": "U15J5H60P",
+        "ts": "1554819908.002500",
+        "attachments": [
+            {
+                "service_name": "Stack Overflow",
+                "title": "Stack Overflow Developer Survey 2019",
+                "title_link": "https:\/\/insights.stackoverflow.com\/survey\/2019",
+                "text": "Nearly 90,000 took this comprehensive, annual survey of people who code. Demographics. Most loved, dreaded and wanted technologies. Salary and careers.",
+                "fallback": "Stack Overflow: Stack Overflow Developer Survey 2019",
+                "image_url": "https:\/\/cdn.sstatic.net\/insights\/Img\/Survey\/2019\/TwitterCard.png?v=87e2a0f1b247",
+                "from_url": "https:\/\/insights.stackoverflow.com\/survey\/2019",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 143789,
+                "service_icon": "https:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "id": 1,
+                "original_url": "https:\/\/insights.stackoverflow.com\/survey\/2019"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d28ebe65-b0eb-4679-af05-a28591016eac",
+        "type": "message",
+        "text": "&gt;Python, the fastest-growing major programming language, has risen in the ranks of programming languages in our survey yet again, edging out Java this year and standing as the second most loved language (behind Rust).",
+        "user": "U15HSHSS2",
+        "ts": "1554819980.002900"
+    },
+    {
+        "client_msg_id": "C92BECA1-83D3-45E7-90BA-0FE9EA7F9AD3",
+        "type": "message",
+        "text": "Joes triggered",
+        "user": "U15HY5TG8",
+        "ts": "1554820026.003200"
+    },
+    {
+        "client_msg_id": "30637f58-aa5e-48fe-9c27-08ad9731b3be",
+        "type": "message",
+        "text": "WOOOHOOOO",
+        "user": "U15HRTAHL",
+        "ts": "1554820031.003400"
+    },
+    {
+        "client_msg_id": "149cdbd0-3e12-4055-b5d1-d256f3866e75",
+        "type": "message",
+        "text": "&gt;Python, the fastest-growing major programming language",
+        "user": "U15HRTAHL",
+        "ts": "1554820051.003600"
+    },
+    {
+        "client_msg_id": "cc64207d-2300-4129-a3fb-7860ede30aa5",
+        "type": "message",
+        "text": "Americans are also the fastest growing(fattest) nationality in the world",
+        "user": "U15HRTAHL",
+        "ts": "1554820068.004000",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1554820096.000000"
+        }
+    },
+    {
+        "client_msg_id": "36ff7c3c-8c51-41f0-a04c-d903cdc418bc",
+        "type": "message",
+        "text": "bloated isn’t always good!",
+        "user": "U15HRTAHL",
+        "ts": "1554820073.004200"
+    },
+    {
+        "client_msg_id": "9143b8e1-ac78-4b55-b231-faad7b733d69",
+        "type": "message",
+        "text": "America is the greatest nation on the planet, and python is the greatest programming language on the planet.",
+        "user": "U15HSHSS2",
+        "ts": "1554820122.004900"
+    },
+    {
+        "client_msg_id": "65f388fd-36a2-4daa-809d-4eb9dbb8e955",
+        "type": "message",
+        "text": "makes perfect sense",
+        "user": "U15HSHSS2",
+        "ts": "1554820129.005200"
+    },
+    {
+        "client_msg_id": "72c7f91c-f31c-4d4f-b7d4-e7df9f74fddb",
+        "type": "message",
+        "text": "If you hate python you are un-american",
+        "user": "U15HSHSS2",
+        "ts": "1554820156.005700"
+    },
+    {
+        "client_msg_id": "d3b79fa2-ba99-43de-9db8-214d073a8b58",
+        "type": "message",
+        "text": "fucking commie",
+        "user": "U15HSHSS2",
+        "ts": "1554820164.006000"
+    },
+    {
+        "client_msg_id": "cb6d38b7-4282-485d-bb90-2b9e6382ffb5",
+        "type": "message",
+        "text": "I don't see like any python jobs around mke",
+        "user": "U15J5H60P",
+        "ts": "1554820172.006200"
+    },
+    {
+        "client_msg_id": "fb8bd949-e6ac-4ee6-b4e7-d31f4d672048",
+        "type": "message",
+        "text": "lol yeah I don't think ive ever seen a job application that had python on it",
+        "user": "U15HSHSS2",
+        "ts": "1554820191.006600"
+    },
+    {
+        "client_msg_id": "2356ce7c-eaeb-4107-994d-b9eeaa91bc5d",
+        "type": "message",
+        "text": "Fuckk 16 year olds are writting code",
+        "user": "U15HSHSS2",
+        "ts": "1554820215.007300"
+    },
+    {
+        "client_msg_id": "b690c30d-bc00-42c1-84d7-dce0dd63149c",
+        "type": "message",
+        "text": "html tommy",
+        "user": "U15HRTAHL",
+        "ts": "1554820220.007700"
+    },
+    {
+        "client_msg_id": "d2427052-7452-4863-b59b-f9fd922ace8c",
+        "type": "message",
+        "text": "Yeah, we need to stop that in its tracks",
+        "user": "U15J5H60P",
+        "ts": "1554820226.008000"
+    },
+    {
+        "client_msg_id": "7D179F5C-8B27-4C95-8FA9-DF1D71539E3C",
+        "type": "message",
+        "text": "I feel like python jobs are for DBAs",
+        "user": "U15HY5TG8",
+        "ts": "1554820229.008200"
+    },
+    {
+        "client_msg_id": "616D2B87-50AE-4167-8162-F3FA01E6F4E9",
+        "type": "message",
+        "text": "Or IT",
+        "user": "U15HY5TG8",
+        "ts": "1554820244.008400"
+    },
+    {
+        "client_msg_id": "2A491669-F500-489A-8475-5A7BB0CF07FC",
+        "type": "message",
+        "text": "Definitely IT",
+        "user": "U15HY5TG8",
+        "ts": "1554820248.008600"
+    },
+    {
+        "client_msg_id": "dcb263eb-9e4a-487f-9a34-b4a803b7a316",
+        "type": "message",
+        "text": "We gotta push teens to aspire to be a manager of a retail store or something",
+        "user": "U15HSHSS2",
+        "ts": "1554820270.009100"
+    },
+    {
+        "client_msg_id": "5d3e3cfd-2059-4e35-bf52-89dcf3630857",
+        "type": "message",
+        "text": "&gt;We asked respondents to think about the last time they solved coding problems with and without our site. The data indicates that Stack Overflow saves a developer 30 to 90 minutes of time per week!",
+        "user": "U15HRTAHL",
+        "ts": "1554820303.009300"
+    },
+    {
+        "client_msg_id": "6c383696-25eb-4f54-b0b6-c3c2382c3761",
+        "type": "message",
+        "text": "more like 40 hours a week for me",
+        "user": "U15HRTAHL",
+        "ts": "1554820307.009500"
+    },
+    {
+        "client_msg_id": "7322334d-1a9a-4369-a0ed-167588dc7140",
+        "type": "message",
+        "text": "cmd - c, cmd - v",
+        "user": "U15HRTAHL",
+        "ts": "1554820319.009800"
+    },
+    {
+        "client_msg_id": "a149b77b-7d12-4ded-a4c2-181659408557",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1554820320.010000"
+    },
+    {
+        "client_msg_id": "3b57388c-06ec-4bf0-a446-3f562a4e43fd",
+        "type": "message",
+        "text": "man when did stack overflow start",
+        "user": "U15HSHSS2",
+        "ts": "1554820362.010400"
+    },
+    {
+        "client_msg_id": "3E006E93-CE55-4296-BDE9-7CABDA8DFE28",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1554820363.010600"
+    },
+    {
+        "client_msg_id": "6c848b29-862d-442b-a160-1b734368f25c",
+        "type": "message",
+        "text": "what did people do before?",
+        "user": "U15HSHSS2",
+        "ts": "1554820372.010900"
+    },
+    {
+        "client_msg_id": "e7b13882-c7d6-4ac6-b761-c8e6c9449737",
+        "type": "message",
+        "text": "quit software engineering?",
+        "user": "U15HSHSS2",
+        "ts": "1554820383.011300"
+    },
+    {
+        "client_msg_id": "a1066b21-eeaa-4c1e-9f6a-047238bedf5a",
+        "type": "message",
+        "text": "go become a manager of a retail store",
+        "user": "U15HSHSS2",
+        "ts": "1554820393.011800"
+    },
+    {
+        "client_msg_id": "0C1C718F-3C74-4BA6-950F-8A000AE136D6",
+        "type": "message",
+        "text": "Stack overflow is how 16 yearolds are coding",
+        "user": "U15HY5TG8",
+        "ts": "1554820396.012000"
+    },
+    {
+        "client_msg_id": "A56DB49D-106D-4495-8017-2D250E9043CE",
+        "type": "message",
+        "text": "We need to shut down stack overflow to save our jobs",
+        "user": "U15HY5TG8",
+        "ts": "1554820413.012600"
+    },
+    {
+        "client_msg_id": "a6036568-330d-4805-9285-2258c7f10a2c",
+        "type": "message",
+        "text": "That'd be an instant job loss for me lol",
+        "user": "U15HSHSS2",
+        "ts": "1554820474.013400"
+    },
+    {
+        "client_msg_id": "CB2B9078-4125-4DFB-91A0-BEB88F96591A",
+        "type": "message",
+        "text": "For all of us, realistically",
+        "user": "U15HY5TG8",
+        "ts": "1554820517.013800"
+    },
+    {
+        "client_msg_id": "DA1CACBB-28C5-47E4-8AF4-C4081DC18B84",
+        "type": "message",
+        "text": "\"Why were you fired?\"\n\"Uhhh i had to ask my coworker how to define an empty string array in C#\"",
+        "user": "U15HY5TG8",
+        "ts": "1554820565.015200"
+    },
+    {
+        "client_msg_id": "a396c9ee-3b28-4743-b6a7-1b95a685a293",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1554820575.015400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHCTKL66N",
+                "created": 1554820936,
+                "timestamp": 1554820936,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-09, 9:42 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 82535,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHCTKL66N\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHCTKL66N\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 255,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 340,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 509,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 566,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 679,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHCTKL66N-d02ec6b706\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 724,
+                "image_exif_rotation": 1,
+                "original_w": 1066,
+                "original_h": 754,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHCTKL66N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHCTKL66N-cf2cbcb26b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1554820939.015600",
+        "client_msg_id": "4b79408a-379e-4636-a9a2-c91f1e105ce8"
+    },
+    {
+        "client_msg_id": "88725d6e-508d-4c99-862f-427df57ee0a5",
+        "type": "message",
+        "text": "I would have expected that &lt; 5 years to be larger",
+        "user": "U15HRTAHL",
+        "ts": "1554820946.016100"
+    },
+    {
+        "client_msg_id": "24a2a8c5-68d9-4c9d-b864-5703b126225e",
+        "type": "message",
+        "text": "&gt; Developers who work with languages such as VBA, F#, and Clojure have the most years of professional coding experience, while developers who work with languages like Python, PHP, and Kotlin have the fewest.",
+        "user": "U15HRTAHL",
+        "ts": "1554820997.016400"
+    },
+    {
+        "client_msg_id": "b636f18e-3b06-4533-a2ac-77adf878f9b0",
+        "type": "message",
+        "text": "Python is for the inexperienced",
+        "user": "U15HRTAHL",
+        "ts": "1554821002.016700"
+    },
+    {
+        "client_msg_id": "7146273A-4265-4379-A43D-333B14C53427",
+        "type": "message",
+        "text": "Is that for experience or what",
+        "user": "U15HY5TG8",
+        "ts": "1554821004.017000"
+    },
+    {
+        "client_msg_id": "d847c594-0bc4-4930-89b0-368335eb84b6",
+        "type": "message",
+        "text": "VBA, F#, and Clojure is for people like Brandon Bleumner",
+        "user": "U15J5H60P",
+        "ts": "1554821191.017300",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1554821221.000000"
+        }
+    },
+    {
+        "client_msg_id": "07eab290-6201-48bd-9d43-e5ca600e2ce3",
+        "type": "message",
+        "text": "and python is for people who lick windows",
+        "user": "U15HRTAHL",
+        "ts": "1554821268.017900"
+    },
+    {
+        "client_msg_id": "3F9CA85A-6286-44DF-AB50-256BA1D9E17B",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1554821307.018100"
+    },
+    {
+        "client_msg_id": "8062c50d-0b03-43b3-81f4-9a4250a20cfc",
+        "type": "message",
+        "text": "&gt;We asked respondents to evaluate their own competence, for the specific work they do and years of experience they have, and almost 70% of respondents say they are above average while less than 10% think they are below average. This is statistically unlikely with a sample of over 70,000 developers who answered this question, to put it mildly.",
+        "user": "U15HRTAHL",
+        "ts": "1554821391.018300"
+    },
+    {
+        "client_msg_id": "897D95D1-B9D3-4F68-9723-1E2825A1DBF9",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1554821510.018500"
+    },
+    {
+        "client_msg_id": "DA745780-C1A3-4299-BC17-A936F74151D3",
+        "type": "message",
+        "text": "Id definitely be a part of the 10%",
+        "user": "U15HY5TG8",
+        "ts": "1554821523.019000"
+    },
+    {
+        "client_msg_id": "a442a988-4765-41e9-9a0f-b3ecc05168f9",
+        "type": "message",
+        "text": "HA yeah",
+        "user": "U15HSHSS2",
+        "ts": "1554821577.019500"
+    },
+    {
+        "client_msg_id": "841d9048-da0a-4316-b823-f1e097365722",
+        "type": "message",
+        "text": "Same",
+        "user": "U15J5H60P",
+        "ts": "1554821585.019900"
+    },
+    {
+        "client_msg_id": "0c04a141-dfbb-4e1b-98c7-feae315bca85",
+        "type": "message",
+        "text": "i'd put myself at the bottom of that 10%",
+        "user": "U15HSHSS2",
+        "ts": "1554821590.020100"
+    },
+    {
+        "client_msg_id": "D357C640-2CC7-4BE2-A799-3B882628C0FA",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1554821595.020400"
+    },
+    {
+        "client_msg_id": "667a8c4d-03a0-4d7e-bf54-40ee547a6512",
+        "type": "message",
+        "text": "wayy at the bottom where the scum builds up",
+        "user": "U15HSHSS2",
+        "ts": "1554821605.020700"
+    },
+    {
+        "client_msg_id": "e40b6f49-b26e-452a-bff9-66c1230c03c6",
+        "type": "message",
+        "text": "once you pass the scum, you'll find me",
+        "user": "U15HSHSS2",
+        "ts": "1554821620.021000"
+    },
+    {
+        "client_msg_id": "6e97be05-0fbb-4a72-98fa-cb161a8d946a",
+        "type": "message",
+        "text": "lmao at all the Brandons of the software engineering world who say they are above average in skill and experience",
+        "user": "U15HSHSS2",
+        "ts": "1554821673.021800"
+    },
+    {
+        "client_msg_id": "0627cc93-bc09-4338-a9ba-b76ca1319f2a",
+        "type": "message",
+        "text": "70%... not surprised by that at all. Fucking uptight snobby Software Engineers...",
+        "user": "U15HSHSS2",
+        "ts": "1554821749.022500"
+    },
+    {
+        "client_msg_id": "49c74afd-429a-404f-a31f-12b6fd4afd9e",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1554821758.022700"
+    },
+    {
+        "client_msg_id": "b17ebd7f-5f45-44d1-89ef-c98dbc4099bd",
+        "type": "message",
+        "text": "All the same people who try and correct the professor during lectures I'm sure",
+        "user": "U15HSHSS2",
+        "ts": "1554821796.023200"
+    },
+    {
+        "client_msg_id": "08c07ccc-bd62-4764-92df-11366e5a56ea",
+        "type": "message",
+        "text": "Or help the profs clean the board",
+        "user": "U15J5H60P",
+        "ts": "1554822019.023400"
+    },
+    {
+        "client_msg_id": "72544507-864a-482a-8d64-05bade65e3b3",
+        "type": "message",
+        "text": "Fucking losers",
+        "user": "U15J5H60P",
+        "ts": "1554822023.023600"
+    },
+    {
+        "client_msg_id": "396d6d26-e1c5-4fd7-bf10-ea782b4774c5",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15HSHSS2",
+        "ts": "1554822154.023800"
+    },
+    {
+        "client_msg_id": "e87587e6-5b5a-4709-bfb0-b65e74b5fa0c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1554822418.024000"
+    },
+    {
+        "client_msg_id": "28f05b2a-cdd4-4736-96cc-bbdc8e150e43",
+        "type": "message",
+        "text": "<https:\/\/en.m.wikipedia.org\/wiki\/Dunning%E2%80%93Kruger_effect>",
+        "user": "U15HRTAHL",
+        "ts": "1554822430.024200",
+        "attachments": [
+            {
+                "title": "Dunning–Kruger effect",
+                "title_link": "https:\/\/en.m.wikipedia.org\/wiki\/Dunning%E2%80%93Kruger_effect",
+                "from_url": "https:\/\/en.m.wikipedia.org\/wiki\/Dunning%E2%80%93Kruger_effect",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/en.wikipedia.org\/",
+                "text": "In the field of psychology, the Dunning–Kruger effect is a cognitive bias in which people of low ability have illusory superiority and mistakenly assess their cognitive ability as greater than it is. The cognitive bias of illusory superiority comes from the inability of low-ability people to recognize their lack of ability. Without the self-awareness of metacognition, low-ability people cannot objectively evaluate their competence or <http:\/\/incompetence.As|incompetence.As> described by social psychologists David Dunning and Justin Kruger, the cognitive bias of illusory superiority results from an internal illusion in people of low ability and from an external misperception in people of high ability; that is, \"the miscalibration of the incompetent stems from an error about the self, whereas the miscalibration of the highly competent stems from an error about others.\"",
+                "fallback": "wikipedia: Dunning–Kruger effect",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/en.m.wikipedia.org\/wiki\/Dunning%E2%80%93Kruger_effect"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93E74B1D-1E62-4564-BEB7-B1547431049C",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1554822544.024500"
+    },
+    {
+        "client_msg_id": "b79e4364-9175-48fd-bad9-01bae0ba7038",
+        "type": "message",
+        "text": "I wish I was better at sql",
+        "user": "U15HRTAHL",
+        "ts": "1554825384.025000"
+    },
+    {
+        "client_msg_id": "C97A2018-459B-4575-90AC-8F173EBB5F29",
+        "type": "message",
+        "text": "Get to it!",
+        "user": "U15HY5TG8",
+        "ts": "1554827545.025600"
+    },
+    {
+        "client_msg_id": "C4AF25FD-9E72-4F55-AA70-4E295BD8DAA4",
+        "type": "message",
+        "text": "Anyone wanna hang out tonight?",
+        "user": "U15J5H60P",
+        "ts": "1554830980.025900"
+    },
+    {
+        "client_msg_id": "efea3212-1587-460b-803e-65b2b177e0d7",
+        "type": "message",
+        "text": "lol did you mean to exclude james from this?",
+        "user": "U15HSHSS2",
+        "ts": "1554831006.026200"
+    },
+    {
+        "client_msg_id": "ae375550-5934-4fd9-88a0-e61bea6acf24",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1554831027.026400"
+    },
+    {
+        "client_msg_id": "90ab7607-e0af-4c6d-b86b-edd298115ac2",
+        "type": "message",
+        "text": "He never includes me in anything lol",
+        "user": "U15J5H60P",
+        "ts": "1554831043.026700"
+    },
+    {
+        "client_msg_id": "AD476BA1-BEF8-4127-AA4C-00B96CA03E16",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1554831055.026900"
+    },
+    {
+        "client_msg_id": "64A8B504-0924-4780-8FDD-2DCEEDD7B845",
+        "type": "message",
+        "text": "Maybe later. I gotta go to my parents again and figure out my car",
+        "user": "U15HY5TG8",
+        "ts": "1554831078.027600"
+    },
+    {
+        "client_msg_id": "eb8a7170-ca41-473e-961c-281e1ad857ee",
+        "type": "message",
+        "text": "Who is all going to Immersion day this Friday?",
+        "user": "U15J5H60P",
+        "ts": "1554838302.027900"
+    },
+    {
+        "client_msg_id": "2e7a4d41-954a-4619-adbd-ddec99cb4731",
+        "type": "message",
+        "text": "no one",
+        "user": "U15HRTAHL",
+        "ts": "1554838327.028300"
+    },
+    {
+        "client_msg_id": "09324ea9-9769-47dc-b758-d7f31631df7f",
+        "type": "message",
+        "text": "because it’s saturday",
+        "user": "U15HRTAHL",
+        "ts": "1554838332.028500"
+    },
+    {
+        "client_msg_id": "2ebcf716-e564-4237-a795-a93b6edf99b4",
+        "type": "message",
+        "text": "No it's not",
+        "user": "U15J5H60P",
+        "ts": "1554838350.028700"
+    },
+    {
+        "client_msg_id": "4e83f19a-30c9-41a5-9e95-913a06d99a9d",
+        "type": "message",
+        "text": "FUCK",
+        "user": "U15J5H60P",
+        "ts": "1554838357.029100"
+    },
+    {
+        "client_msg_id": "76d28bf3-fa9b-4ec4-987c-4c0e5d30d257",
+        "type": "message",
+        "text": "IT'S APRIL 12th",
+        "user": "U15J5H60P",
+        "ts": "1554838361.029300"
+    },
+    {
+        "client_msg_id": "a34abd08-5678-4928-b7dd-fa05e5016aa8",
+        "type": "message",
+        "text": "Oh it is April",
+        "user": "U15J5H60P",
+        "ts": "1554838367.029600"
+    },
+    {
+        "client_msg_id": "45ea724d-b496-4521-a407-48c208f01404",
+        "type": "message",
+        "text": "Yeah, It's on friday",
+        "user": "U15J5H60P",
+        "ts": "1554838370.029800"
+    },
+    {
+        "client_msg_id": "66095741-3433-45bf-be49-7e93d513b3b8",
+        "type": "message",
+        "text": "April 12th",
+        "user": "U15J5H60P",
+        "ts": "1554838373.030100"
+    },
+    {
+        "client_msg_id": "643f80be-0817-4887-988a-c6d697980aa8",
+        "type": "message",
+        "text": "damn",
+        "user": "U15HRTAHL",
+        "ts": "1554838388.030300"
+    },
+    {
+        "client_msg_id": "1d885dde-5efa-49db-8925-515f18ddd808",
+        "type": "message",
+        "text": "then 0% for me",
+        "user": "U15HRTAHL",
+        "ts": "1554838391.030500"
+    },
+    {
+        "client_msg_id": "a21f67e5-faf4-4652-b90c-c6c150178df2",
+        "type": "message",
+        "text": "What's Immersion day?",
+        "user": "U15HSHSS2",
+        "ts": "1554838527.030800"
+    },
+    {
+        "client_msg_id": "4c53004d-898a-4a2c-905c-652e09a2e800",
+        "type": "message",
+        "text": "Wtf, Joe.",
+        "user": "U15J5H60P",
+        "ts": "1554838547.031100"
+    },
+    {
+        "client_msg_id": "7e7249db-00ab-4ead-b2bc-7b5101450929",
+        "type": "message",
+        "text": "You told us to sign up",
+        "user": "U15J5H60P",
+        "ts": "1554838554.031300"
+    },
+    {
+        "client_msg_id": "d06098d2-810a-4f3a-914a-7dcb3410fdfe",
+        "type": "message",
+        "text": "No you didn't. You mentioned it.",
+        "user": "U15J5H60P",
+        "ts": "1554838583.031600"
+    },
+    {
+        "client_msg_id": "e686c900-44e6-4ddb-bd5e-8d96a09d1ee6",
+        "type": "message",
+        "text": "Whatever.",
+        "user": "U15J5H60P",
+        "ts": "1554838585.031800"
+    },
+    {
+        "client_msg_id": "f4caef4f-78ef-49ae-8cb9-a023e60c8e2f",
+        "type": "message",
+        "text": "I assumed incorrectly that that meant you were going.",
+        "user": "U15J5H60P",
+        "ts": "1554838592.032100"
+    },
+    {
+        "client_msg_id": "e9296d6c-55be-4d1c-b7bb-33e381f8ae77",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1553627835019100>",
+        "user": "U15J5H60P",
+        "ts": "1554838604.032300",
+        "attachments": [
+            {
+                "title": "Immersion Day - Milwaukee",
+                "title_link": "https:\/\/immersiondaymilwaukee.splashthat.com\/",
+                "text": "This one-day private-invitation technical workshop is designed to provide hands-on training for core AWS services including compute, storage, and networking. In this introductory session, through a mix of classroom training and hands-on labs led by AWS Solutions Architects, you will learn about AWS foundational services as well as key concepts for AWS security measures and architecture best practices. Space is limited. Register today.Why Attend?Learn how to leverage AWS services to enable cloud transformation within your organizationGet hands-on experience with core AWS services like EC2, S3, and VPCs Understand AWS architecture best practices for building highly scalable web applicationsNote: This is a hands-on workshop, so please bring your laptop to participate in the lab exercises.",
+                "fallback": "Immersion Day - Milwaukee",
+                "thumb_url": "https:\/\/s3.amazonaws.com\/s3.clients.splashthat.com\/img\/events\/splash\/splashthat.com\/sites\/view\/immersiondaymilwaukee.splashthat.com%3Fpartial%3D499615%26showWorkspace%3D1%26t%3D1552977965368%26screenshotHash%3D14a502b87e110fef%26isTakingScreenshot%3D147.png",
+                "from_url": "https:\/\/immersiondaymilwaukee.splashthat.com\/",
+                "thumb_width": 750,
+                "thumb_height": 1050,
+                "service_icon": "https:\/\/d24wuq6o951i2g.cloudfront.net\/img\/events\/id\/317\/3174272\/assets\/ba0.d40.favicon.png",
+                "service_name": "immersiondaymilwaukee.splashthat.com",
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1553627835019100"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "83876cd9-f374-4dd2-b233-91bb5c7d6b72",
+        "type": "message",
+        "text": "I thought it was a saturday",
+        "user": "U15HRTAHL",
+        "ts": "1554838643.032700"
+    },
+    {
+        "client_msg_id": "857afc4c-bc0e-4460-8cd9-7f6faa201962",
+        "type": "message",
+        "text": "thought I might go to this",
+        "user": "U15HRTAHL",
+        "ts": "1554838648.032900"
+    },
+    {
+        "client_msg_id": "1a4491b5-e5c8-4c02-8361-29b73b111f0c",
+        "type": "message",
+        "text": "Gotcha.",
+        "user": "U15J5H60P",
+        "ts": "1554838655.033100"
+    },
+    {
+        "client_msg_id": "bc87acba-209b-428a-9491-5690035d2977",
+        "type": "message",
+        "text": "<https:\/\/www.eventbrite.com\/e\/code-brews-mke-april-2019-tickets-58907907136>",
+        "user": "U15HRTAHL",
+        "ts": "1554838679.033300",
+        "attachments": [
+            {
+                "service_name": "Eventbrite",
+                "title": "Code + Brews MKE: April 2019",
+                "title_link": "https:\/\/www.eventbrite.com\/e\/code-brews-mke-april-2019-tickets-58907907136",
+                "text": "CODE + BREWS is an inclusive, informal, co-working session for Milwaukee's developer community. People of all skill levels are invited. The concept is simple, bring a laptop and ideas, we'll provide the coffee and tea (in the morning) or beer for future gatherings in the evenings. Here's how it works: 1. At 9:15 everyone introduces themselves and briefly describes what brought them to CODE + BREWS today (projects, homework, networking, etc).  2. For the rest of the day, folks work in the communal space on their projects providing one another help and conversation as needed. Oh and they usually drink coffee and tea too! Where is the event? Located right by the beautiful Milwaukee River, SPACES is a 40,000 square foot coworking facility. The modern design set in a historic building provides an innovative place with a unique aesthetic, will make for a great venue for our 2nd CODE + BREWS gathering.  How often will we gather?Once a month to start. We'll start with the 2nd Saturday of every month but as interest grows we'lll look to have 2 events each month.  Who can attend? If you want to code (anything) and are at any skill level CODE + BREWS is for you. We are an inclusive group, focused on sharing skills and building Milwaukee's developer community.  Who is helping promote this event? We are not a meetup or user group so we have partnered with local groups to help us promote and build CODE + BREWS community. Those groups include Cream City Code, Girl Develop It Milwaukee, Greater Milwaukee Java Meetup, Milwaukee Azure, Milwaukee JS, Wisconsin .NET User Group. Who is sponsoring this event? TEALS will provide coffee + breakfast. TEALS – Microsoft Philanthropies is on a mission to bring Computer Science to every high school. They are looking for over 125 local technology professionals to volunteer to help teach CS in 30 local schools in the Milwaukee area for the 2019-20 school year, find out how you can volunteer! The priority deadline is April 30th. SPACES North Water Street offers a creative working environment in the vibrant city core. The modern design set in a historic building provides an innovative place with a unique aesthetic, ideal for growing your business. Take a relaxing break on the stunning rooftop terrace, perfect for connecting with like-minded entrepreneurs and laying a solid foundation for new collaborations. Enjoy the ease of access to parks, restaurants and entertainment, all within minutes of your office. Who is hosting this event? CODE + BREWS is hosted by Joe Murphy, Lead Frontend Developer @ Wantable and Matt Cordio founder of Startup Milwaukee and Skills Pipeline. We're always looking for local companies to host future gatherings in the mornings over coffee or evenings over beer.",
+                "fallback": "Eventbrite: Code + Brews MKE: April 2019",
+                "image_url": "https:\/\/img.evbuc.com\/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F58600874%2F21819102010%2F1%2Foriginal.20190206-195757?w=1000&auto=compress&rect=0%2C0%2C2160%2C1080&s=d0a3613adf584785b52566d4d4b27467",
+                "fields": [
+                    {
+                        "title": "Where",
+                        "value": "1433 North Water Street, Milwaukee, WI 53202",
+                        "short": true
+                    },
+                    {
+                        "title": "When",
+                        "value": "Sat, Apr 13, 2019 at 9:00 AM",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.eventbrite.com\/e\/code-brews-mke-april-2019-tickets-58907907136",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 19491,
+                "service_icon": "https:\/\/cdn.evbstatic.com\/s3-build\/perm_001\/eba891\/django\/images\/touch_icons\/apple-touch-icon-180x180.png",
+                "id": 1,
+                "original_url": "https:\/\/www.eventbrite.com\/e\/code-brews-mke-april-2019-tickets-58907907136"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0c387e4-e7e0-4e0b-a975-3fef283ccd83",
+        "type": "message",
+        "text": "keyword *might*",
+        "user": "U15HRTAHL",
+        "ts": "1554838690.033700"
+    },
+    {
+        "client_msg_id": "0f466ede-056c-46be-bb5f-d2f87be4db33",
+        "type": "message",
+        "text": "Yup.",
+        "user": "U15J5H60P",
+        "ts": "1554838700.033900"
+    },
+    {
+        "client_msg_id": "452aba62-db14-4c49-a12c-b65a738f2b53",
+        "type": "message",
+        "text": "Got it.",
+        "user": "U15J5H60P",
+        "ts": "1554838704.034100"
+    },
+    {
+        "client_msg_id": "13927c76-5173-4e51-9890-43af58fc18bb",
+        "type": "message",
+        "text": "Can't commit to anything.",
+        "user": "U15J5H60P",
+        "ts": "1554838707.034300"
+    },
+    {
+        "client_msg_id": "e72f6432-6b91-4ae3-91e9-f58653842fb6",
+        "type": "message",
+        "text": "Got it.",
+        "user": "U15J5H60P",
+        "ts": "1554838708.034500"
+    },
+    {
+        "client_msg_id": "41024388-05a2-470f-9c60-433ebd74530a",
+        "type": "message",
+        "text": "\/s",
+        "user": "U15J5H60P",
+        "ts": "1554838715.034700"
+    },
+    {
+        "client_msg_id": "6d78bef9-e884-41e9-9eb0-e3966ac2d21e",
+        "type": "message",
+        "text": "no you’re absolutely correct",
+        "user": "U15HRTAHL",
+        "ts": "1554838720.035000"
+    },
+    {
+        "client_msg_id": "d217819a-c724-4edd-be57-9665d21ef6fb",
+        "type": "message",
+        "text": "depends on how I’m feeling that day",
+        "user": "U15HRTAHL",
+        "ts": "1554838727.035400"
+    },
+    {
+        "client_msg_id": "6b6f6b0a-0ce8-4540-8341-f74fcd44d92d",
+        "type": "message",
+        "text": "I can't either",
+        "user": "U15J5H60P",
+        "ts": "1554838727.035500"
+    },
+    {
+        "client_msg_id": "5cd0fa5c-986d-4d8e-a804-161918ebd69e",
+        "type": "message",
+        "text": "Dude let's go out!",
+        "user": "U15J5H60P",
+        "ts": "1554838741.035800"
+    },
+    {
+        "client_msg_id": "b7918478-e268-4147-a2bc-53c17bce0fd4",
+        "type": "message",
+        "text": "-Tommy: \"Meet me at punchbowl social now!\"",
+        "user": "U15J5H60P",
+        "ts": "1554838743.036000",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1554838753.000000"
+        }
+    },
+    {
+        "client_msg_id": "bee001c6-5d9d-4342-87ee-5e5247d134ba",
+        "type": "message",
+        "text": "Me: \"Nah\"",
+        "user": "U15J5H60P",
+        "ts": "1554838758.036400"
+    },
+    {
+        "client_msg_id": "a860f553-3d94-450b-9216-dc312bf01888",
+        "type": "message",
+        "text": "Tommy: :pikachu:",
+        "user": "U15J5H60P",
+        "ts": "1554838764.036600"
+    },
+    {
+        "client_msg_id": "fcf46f69-38ac-46e6-8041-b1ae864908d3",
+        "type": "message",
+        "text": "Tommy: :sleeping:",
+        "user": "U15HSHSS2",
+        "ts": "1554838789.037000"
+    },
+    {
+        "client_msg_id": "981a5747-42fb-491a-9717-da5aeaa9c474",
+        "type": "message",
+        "text": "I don't get the code+brews thing",
+        "user": "U15HSHSS2",
+        "ts": "1554838821.037400"
+    },
+    {
+        "client_msg_id": "33204a84-bdc0-4cf1-9b19-e1937b26b3d9",
+        "type": "message",
+        "text": "is it just a time for people to hangout and talk about projects?",
+        "user": "U15HSHSS2",
+        "ts": "1554838846.038000"
+    },
+    {
+        "client_msg_id": "5b895168-392a-4024-88a7-be53a96d980c",
+        "type": "message",
+        "text": "It sounds like it",
+        "user": "U15J5H60P",
+        "ts": "1554838855.038200"
+    },
+    {
+        "client_msg_id": "c6ab5251-5882-401a-a838-3ceefc733fc4",
+        "type": "message",
+        "text": "So a shittier version of DevFest",
+        "user": "U15HSHSS2",
+        "ts": "1554838881.038700"
+    },
+    {
+        "client_msg_id": "64112044-f1f6-43ec-a6c5-f8e202412a88",
+        "type": "message",
+        "text": "Pretty much.",
+        "user": "U15J5H60P",
+        "ts": "1554838889.038900"
+    },
+    {
+        "client_msg_id": "bb002219-cbde-41f3-aef2-d01cf6dac38c",
+        "type": "message",
+        "text": "I might go.",
+        "user": "U15J5H60P",
+        "ts": "1554838892.039100"
+    },
+    {
+        "client_msg_id": "65779d5c-6861-4c10-bdde-9afe59225098",
+        "type": "message",
+        "text": "I need to get out and be more social",
+        "user": "U15J5H60P",
+        "ts": "1554838897.039300"
+    },
+    {
+        "client_msg_id": "18649cc5-cd9b-4600-be7a-e0877f5c1fbd",
+        "type": "message",
+        "text": "Learning to be social is fucking hard",
+        "user": "U15J5H60P",
+        "ts": "1554839054.041200"
+    },
+    {
+        "client_msg_id": "2a35540f-d4d5-45f5-a7fc-78cd599580a8",
+        "type": "message",
+        "text": "Last thing I need is some pretensions asshat coming up to me and saying \"What's the most recent .Net React framework you've implemented with Angular and Bootstrap using a Cordova and Xamarin backend along with AWS, as well as TDP using EYS and LGODA\"",
+        "user": "U15HSHSS2",
+        "ts": "1554839094.041900"
+    },
+    {
+        "client_msg_id": "e76d07a9-a471-4afd-ad56-c43fa982e392",
+        "type": "message",
+        "text": ":pikachu:",
+        "user": "U15HSHSS2",
+        "ts": "1554839126.042500"
+    },
+    {
+        "client_msg_id": "7659eac1-1ca3-4734-8c73-3332173ff22b",
+        "type": "message",
+        "text": "lol Every meetup that I've gone to so far everyone was pretty nice",
+        "user": "U15J5H60P",
+        "ts": "1554839128.042600"
+    },
+    {
+        "client_msg_id": "accf4f82-a055-49cc-9554-517fa92007fe",
+        "type": "message",
+        "text": "I think DevFest is the douciest",
+        "user": "U15J5H60P",
+        "ts": "1554839145.042900"
+    },
+    {
+        "client_msg_id": "a697d58b-db04-444a-8b87-902e8b82bee1",
+        "type": "message",
+        "text": "lol yeah with Kyle guy doing coke and banging strippers before he came",
+        "user": "U15HSHSS2",
+        "ts": "1554839172.043400"
+    },
+    {
+        "client_msg_id": "d97c6b9e-99d0-4665-ac93-dca62fe97461",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1554839180.043700"
+    },
+    {
+        "client_msg_id": "1c2c5907-33bc-4d88-b7bd-3453eb2edd96",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HRTAHL",
+        "ts": "1554839193.043900"
+    },
+    {
+        "client_msg_id": "fd510065-dd07-40db-886c-b8d238884c15",
+        "type": "message",
+        "text": "<@U15J5H60P> so you are going to that thing?",
+        "user": "U15HRTAHL",
+        "ts": "1554841622.044100"
+    },
+    {
+        "client_msg_id": "e6e9497f-1b34-4a65-b36a-3ff368e85fd6",
+        "type": "message",
+        "text": "code\/brews thing",
+        "user": "U15HRTAHL",
+        "ts": "1554841630.044300"
+    },
+    {
+        "client_msg_id": "669AEE40-C7F8-429F-AF1D-52AEA1298A10",
+        "type": "message",
+        "text": "I might",
+        "user": "U15J5H60P",
+        "ts": "1554841824.044500"
+    },
+    {
+        "client_msg_id": "3F98F388-2CD6-4EED-B833-EB768868A5C4",
+        "type": "message",
+        "text": "Depends how I'm feeling that day",
+        "user": "U15J5H60P",
+        "ts": "1554841833.044800"
+    },
+    {
+        "client_msg_id": "365d300f-7066-4550-8556-4da2ba9c2afa",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1554841849.045000"
+    }
+]

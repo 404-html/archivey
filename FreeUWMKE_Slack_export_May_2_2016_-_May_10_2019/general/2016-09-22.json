@@ -1,0 +1,874 @@
+[
+    {
+        "type": "message",
+        "text": "If you haven't heard about CRISPR yet, it's super interesting. Here's a video that explains an application to mosquitoes with malaria - <https:\/\/youtu.be\/TnzcwTyr6cE>",
+        "user": "U15J5H60P",
+        "ts": "1474554618.000002",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "How To Eradicate One Of Our Deadliest Enemies",
+                "title_link": "https:\/\/youtu.be\/TnzcwTyr6cE",
+                "author_name": "Kurzgesagt – In a Nutshell",
+                "author_link": "https:\/\/www.youtube.com\/user\/Kurzgesagt",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/TnzcwTyr6cE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: How To Eradicate One Of Our Deadliest Enemies",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/TnzcwTyr6cE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/TnzcwTyr6cE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Nova is going out of business",
+        "user": "U15HRTAHL",
+        "ts": "1474554658.000004"
+    },
+    {
+        "type": "message",
+        "text": "If you know of any companies that use CRISPR, yesterday was the time to invest",
+        "user": "U15J5H60P",
+        "ts": "1474554665.000005"
+    },
+    {
+        "type": "message",
+        "text": "What's Nova?",
+        "user": "U15J5H60P",
+        "ts": "1474554673.000006"
+    },
+    {
+        "type": "message",
+        "text": "the bar\/club on state and water",
+        "user": "U15HRTAHL",
+        "ts": "1474554684.000007"
+    },
+    {
+        "type": "message",
+        "text": "Novo?",
+        "user": "U15J5H60P",
+        "ts": "1474554696.000008"
+    },
+    {
+        "type": "message",
+        "text": "yeah sorry",
+        "user": "U15HRTAHL",
+        "ts": "1474554701.000009"
+    },
+    {
+        "type": "message",
+        "text": "Lol I saw that coming from a mile away",
+        "user": "U15J5H60P",
+        "ts": "1474554716.000010"
+    },
+    {
+        "type": "message",
+        "text": "Place sucks ",
+        "user": "U15J5H60P",
+        "ts": "1474554720.000011"
+    },
+    {
+        "type": "message",
+        "text": "Have you been to The Brass Alley?",
+        "user": "U15J5H60P",
+        "ts": "1474554746.000012"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1474554775.000013"
+    },
+    {
+        "type": "message",
+        "text": "It's on old world 3rd",
+        "user": "U15J5H60P",
+        "ts": "1474554778.000014"
+    },
+    {
+        "type": "message",
+        "text": "Where is novo? Lol",
+        "user": "U15HY5TG8",
+        "ts": "1474554785.000015"
+    },
+    {
+        "type": "message",
+        "text": "Went there for Evans birthday",
+        "user": "U15J5H60P",
+        "ts": "1474554787.000016"
+    },
+    {
+        "type": "message",
+        "text": "It was nice",
+        "user": "U15J5H60P",
+        "ts": "1474554790.000017"
+    },
+    {
+        "type": "message",
+        "text": "Ping pong for daysss",
+        "user": "U15HY5TG8",
+        "ts": "1474554802.000018"
+    },
+    {
+        "type": "message",
+        "text": "There's ping pong and a rooftop lounge area. We should go sometime.",
+        "user": "U15J5H60P",
+        "ts": "1474554812.000019"
+    },
+    {
+        "type": "message",
+        "text": "Novo is next to McGillicuddy's ",
+        "user": "U15J5H60P",
+        "ts": "1474554820.000020"
+    },
+    {
+        "type": "message",
+        "text": "Oooo the club place that we stopped in for half a second",
+        "user": "U15HY5TG8",
+        "ts": "1474554846.000021"
+    },
+    {
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1474554851.000022"
+    },
+    {
+        "type": "message",
+        "text": "It had the potential but the layout was weird and the music was wayyyy too loud",
+        "user": "U15HY5TG8",
+        "ts": "1474554932.000023"
+    },
+    {
+        "type": "message",
+        "text": "man evans birthday was so fun",
+        "user": "U15HRTAHL",
+        "ts": "1474554938.000024"
+    },
+    {
+        "type": "message",
+        "text": "Twas",
+        "user": "U15HY5TG8",
+        "ts": "1474554944.000025"
+    },
+    {
+        "type": "message",
+        "text": "im so glad he invited me out when I invited him out earlier that night",
+        "user": "U15HRTAHL",
+        "ts": "1474554956.000026"
+    },
+    {
+        "type": "message",
+        "text": "You stayed with your work friends motherfucker",
+        "user": "U15HY5TG8",
+        "ts": "1474554986.000027"
+    },
+    {
+        "type": "message",
+        "text": "you never told me you were coming out",
+        "user": "U15HRTAHL",
+        "ts": "1474554996.000028"
+    },
+    {
+        "type": "message",
+        "text": "you said “ehhh too far\"",
+        "user": "U15HRTAHL",
+        "ts": "1474555001.000029"
+    },
+    {
+        "type": "message",
+        "text": "Heeeeeeere we gooooo",
+        "user": "U15HY5TG8",
+        "ts": "1474555006.000030"
+    },
+    {
+        "type": "message",
+        "text": "not to be heard form again!",
+        "user": "U15HRTAHL",
+        "ts": "1474555012.000031"
+    },
+    {
+        "type": "message",
+        "text": "Thats was last weekend i said that",
+        "user": "U15HY5TG8",
+        "ts": "1474555027.000032"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "types, deletes, types, deletes",
+        "user": "U15HY5TG8",
+        "ts": "1474555189.000033"
+    },
+    {
+        "type": "message",
+        "text": "I was going to say You even had the audacity to text me at 12:20 for not calling you! Thanks for the invite bud!!",
+        "user": "U15HRTAHL",
+        "ts": "1474555230.000034"
+    },
+    {
+        "type": "message",
+        "text": "Wat",
+        "user": "U15HY5TG8",
+        "ts": "1474555252.000035"
+    },
+    {
+        "type": "message",
+        "text": "You guys are gay. Shut up.",
+        "user": "U15J5H60P",
+        "ts": "1474555272.000036"
+    },
+    {
+        "type": "message",
+        "text": "Weren't you with your friends?",
+        "user": "U15HZ01QX",
+        "ts": "1474555277.000037"
+    },
+    {
+        "type": "message",
+        "text": "Exactly!",
+        "user": "U15HY5TG8",
+        "ts": "1474555284.000038"
+    },
+    {
+        "type": "message",
+        "text": "Me? Yeah but evan didn’t invite me to where he was going. I would have left",
+        "user": "U15HRTAHL",
+        "ts": "1474555297.000039"
+    },
+    {
+        "type": "message",
+        "text": "Joe you werent leaving. You were getting free drinks",
+        "user": "U15HY5TG8",
+        "ts": "1474555314.000040"
+    },
+    {
+        "type": "message",
+        "text": "He asked me where I was then said “Ehhh too far\"",
+        "user": "U15HRTAHL",
+        "ts": "1474555319.000041"
+    },
+    {
+        "type": "message",
+        "text": "not to be heard from again",
+        "user": "U15HRTAHL",
+        "ts": "1474555325.000042"
+    },
+    {
+        "type": "message",
+        "text": "That was last weekend",
+        "user": "U15HY5TG8",
+        "ts": "1474555333.000043"
+    },
+    {
+        "type": "message",
+        "text": "Sept 10th wasn’t last weekend",
+        "user": "U15HRTAHL",
+        "ts": "1474555421.000044"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2ENKFTFB",
+                "created": 1474555432,
+                "timestamp": 1474555432,
+                "name": "Screenshot_20160922-094255.png",
+                "title": "Slack for Android Upload",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 173767,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2ENKFTFB\/screenshot_20160922-094255.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2ENKFTFB\/download\/screenshot_20160922-094255.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 203,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ENKFTFB-68ed60b672\/screenshot_20160922-094255_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1440,
+                "original_h": 2560,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/F2ENKFTFB\/screenshot_20160922-094255.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F2ENKFTFB-861f616600",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1474555437.000045"
+    },
+    {
+        "type": "message",
+        "text": "Seeee i didnt even say it was too far. You implied it and i rolled with it",
+        "user": "U15HY5TG8",
+        "ts": "1474555488.000046"
+    },
+    {
+        "type": "message",
+        "text": "well you did agree to it",
+        "user": "U15HRTAHL",
+        "ts": "1474555502.000047"
+    },
+    {
+        "type": "message",
+        "text": "Quite honestly i dont like charlies",
+        "user": "U15HY5TG8",
+        "ts": "1474555520.000048"
+    },
+    {
+        "type": "message",
+        "text": "You both are shitty friends. Joe, you should've asked Evan if he wanted to go somewhere else for his birthday. Evan, when you found out you were going out, you should've let Joe know as an FYI. You both suck.",
+        "user": "U15J5H60P",
+        "ts": "1474555528.000049"
+    },
+    {
+        "type": "message",
+        "text": "^agreed",
+        "user": "U15HRTAHL",
+        "ts": "1474555538.000050",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U15J5H60P"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Im not claiming to not suck though",
+        "user": "U15HY5TG8",
+        "ts": "1474555562.000051"
+    },
+    {
+        "type": "message",
+        "text": "Then stop y'all bitching",
+        "user": "U15J5H60P",
+        "ts": "1474555573.000052"
+    },
+    {
+        "type": "message",
+        "text": "i mean I was just agreeing how awesome his birthday was",
+        "user": "U15HRTAHL",
+        "ts": "1474555593.000053"
+    },
+    {
+        "type": "message",
+        "text": ":unamused:",
+        "user": "U15J5H60P",
+        "ts": "1474555603.000054"
+    },
+    {
+        "type": "message",
+        "text": "Maybe i was being polite and didnt want to disturb his time with his friends",
+        "user": "U15HY5TG8",
+        "ts": "1474555622.000055"
+    },
+    {
+        "type": "message",
+        "text": "Plot twist",
+        "user": "U15HY5TG8",
+        "ts": "1474555640.000056"
+    },
+    {
+        "type": "message",
+        "text": "No. You could've just said \"Yo, I'm going to blah blah if you get done with your friends\"",
+        "user": "U15J5H60P",
+        "ts": "1474555659.000057"
+    },
+    {
+        "type": "message",
+        "text": "Smh",
+        "user": "U15HY5TG8",
+        "ts": "1474555685.000058"
+    },
+    {
+        "type": "message",
+        "text": "That way, you give him space to hang out with his friends and the option to meet you",
+        "user": "U15J5H60P",
+        "ts": "1474555709.000059"
+    },
+    {
+        "type": "message",
+        "text": "W\/e",
+        "user": "U15HY5TG8",
+        "ts": "1474555758.000060"
+    },
+    {
+        "type": "message",
+        "text": "My left ass cheek is falling asleep in lecture",
+        "user": "U15HY5TG8",
+        "ts": "1474555826.000061"
+    },
+    {
+        "type": "message",
+        "text": "Z",
+        "user": "U15HZ01QX",
+        "ts": "1474557030.000062"
+    },
+    {
+        "type": "message",
+        "text": "Wat",
+        "user": "U15HY5TG8",
+        "ts": "1474557076.000063"
+    },
+    {
+        "type": "message",
+        "text": "Zed",
+        "user": "U15J5H60P",
+        "ts": "1474557310.000064"
+    },
+    {
+        "type": "message",
+        "text": "Lmaoooooooooooooooooooo ",
+        "user": "U15J5H60P",
+        "ts": "1474557495.000065"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HZ01QX>: ",
+        "user": "U15J5H60P",
+        "ts": "1474557502.000066"
+    },
+    {
+        "type": "message",
+        "text": "Do you know of ThirdPartyTrust?",
+        "user": "U15J5H60P",
+        "ts": "1474557515.000067"
+    },
+    {
+        "type": "message",
+        "text": "Yea",
+        "user": "U15HZ01QX",
+        "ts": "1474557756.000068"
+    },
+    {
+        "type": "message",
+        "text": "Any thoughts?",
+        "user": "U15J5H60P",
+        "ts": "1474557770.000069"
+    },
+    {
+        "type": "message",
+        "text": "Nothing in pa",
+        "user": "U15HZ01QX",
+        "ts": "1474557824.000070"
+    },
+    {
+        "type": "message",
+        "text": " Particular ",
+        "user": "U15HZ01QX",
+        "ts": "1474557848.000071"
+    },
+    {
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1474557852.000072"
+    },
+    {
+        "type": "message",
+        "text": "Every year party on the plaza gets more elaborate ",
+        "user": "U15HZ01QX",
+        "ts": "1474558619.000073"
+    },
+    {
+        "type": "message",
+        "text": "Lol wipeout ",
+        "user": "U15HY5TG8",
+        "ts": "1474558708.000074"
+    },
+    {
+        "type": "message",
+        "text": "Someone might die",
+        "user": "U15HZ01QX",
+        "ts": "1474558770.000075"
+    },
+    {
+        "type": "message",
+        "text": "Right haha",
+        "user": "U15HY5TG8",
+        "ts": "1474558791.000076"
+    },
+    {
+        "type": "message",
+        "text": "I wish i wasnt leaving for work ",
+        "user": "U15HY5TG8",
+        "ts": "1474558805.000077"
+    },
+    {
+        "type": "message",
+        "text": "I haven't been to party on the plaza for years because of work or class",
+        "user": "U15J5H60P",
+        "ts": "1474559073.000078"
+    },
+    {
+        "type": "message",
+        "text": "I went freshman year and last year",
+        "user": "U15HY5TG8",
+        "ts": "1474559123.000079"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/t.co\/JJL9Fv95em?ssr=true>",
+        "user": "U15HZ01QX",
+        "ts": "1474571152.000080",
+        "attachments": [
+            {
+                "service_name": "TIME",
+                "service_url": "http:\/\/time.com",
+                "title": "Yahoo Confirms Massive Data Breach Affecting At Least 500 Million Accounts",
+                "title_link": "http:\/\/time.com\/4504830\/yahoo-confirms-massive-data-breach\/?xid=time_socialflow_twitter",
+                "author_name": "Reuters",
+                "author_link": "https:\/\/time.com\/author\/samjcooney\/",
+                "thumb_url": "https:\/\/i1.wp.com\/timedotcom.files.wordpress.com\/2016\/09\/yahoo-data-breach-500-million.jpg?fit=200%2C150&quality=85&strip&ssl=1",
+                "thumb_width": 199,
+                "thumb_height": 137,
+                "text": "By what the company believes was a \"state-sponsored\" actor",
+                "fallback": "TIME Link: Yahoo Confirms Massive Data Breach Affecting At Least 500 Million Accounts",
+                "from_url": "http:\/\/time.com\/4504830\/yahoo-confirms-massive-data-breach\/?xid=time_socialflow_twitter",
+                "service_icon": "https:\/\/s0.wp.com\/wp-content\/themes\/vip\/time2014\/img\/time-touch_icon_76.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1474571182.000082"
+    },
+    {
+        "type": "message",
+        "text": "Yahoo sucks",
+        "user": "U15J5H60P",
+        "ts": "1474571187.000083"
+    },
+    {
+        "type": "message",
+        "text": "Ha nice",
+        "user": "U15HY5TG8",
+        "ts": "1474571351.000084"
+    },
+    {
+        "type": "message",
+        "text": "Jesus",
+        "user": "U15HY5TG8",
+        "ts": "1474572652.000085"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2ERDUA75",
+                "created": 1474572656,
+                "timestamp": 1474572656,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HY5TG8",
+                "editable": false,
+                "size": 153291,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2ERDUA75\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2ERDUA75\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ERDUA75-dfd5786156\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 1280,
+                "original_h": 960,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HY5TG8\/F2ERDUA75\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F2ERDUA75-392f9ae40d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HY5TG8",
+        "display_as_bot": false,
+        "ts": "1474572661.000086"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1474572774.000087"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1474572912.000088"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "F2ETN9N1Y",
+                "created": 1474573855,
+                "timestamp": 1474573855,
+                "name": "Slack for iOS Upload.jpg",
+                "title": "Slack for iOS Upload",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 231224,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2ETN9N1Y\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-F2ETN9N1Y\/download\/slack_for_ios_upload.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 202,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 270,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 405,
+                "thumb_720_h": 720,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 540,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-F2ETN9N1Y-911af5ae10\/slack_for_ios_upload_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 576,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 750,
+                "original_h": 1334,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/F2ETN9N1Y\/slack_for_ios_upload.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-F2ETN9N1Y-58324b878f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1474573860.000089"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1474573895.000090"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1474574278.000091"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=zqcd7KHFQzI>",
+        "user": "U15J5H60P",
+        "ts": "1474574594.000092",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Louis CK - White People Problems (Hilarious)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=zqcd7KHFQzI",
+                "author_name": "Browse Comedy",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCxYrr81tSJ3BbK9AfnjTI8A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zqcd7KHFQzI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Louis CK - White People Problems (Hilarious)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zqcd7KHFQzI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=zqcd7KHFQzI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Sounds like Joe ",
+        "user": "U15J5H60P",
+        "ts": "1474574670.000094"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: any idea why theyre redoing the corner for the Mitchell interchange?",
+        "user": "U15HY5TG8",
+        "ts": "1474579534.000095"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1474581020.000002"
+    },
+    {
+        "type": "message",
+        "text": "Hmmm maybe that corner is too slippery or something",
+        "user": "U15HY5TG8",
+        "ts": "1474581854.000002"
+    },
+    {
+        "type": "message",
+        "text": "How much coffee do you have to drink to permanently smell like coffee",
+        "user": "U15HZ01QX",
+        "ts": "1474583145.000002"
+    },
+    {
+        "type": "message",
+        "text": "You have to be hooked up to a black coffee drip 24\/7 for 4 days to START smelling like coffee ",
+        "user": "U15J5H60P",
+        "ts": "1474583188.000003"
+    },
+    {
+        "type": "message",
+        "text": "Anyone going to the bars?!",
+        "user": "U15J5H60P",
+        "ts": "1474592103.000002"
+    },
+    {
+        "type": "message",
+        "text": "Nah",
+        "user": "U15HY5TG8",
+        "ts": "1474592132.000003"
+    },
+    {
+        "type": "message",
+        "text": "Okie doke",
+        "user": "U15J5H60P",
+        "ts": "1474592143.000004"
+    },
+    {
+        "type": "message",
+        "text": "Its an early night for me",
+        "user": "U15HY5TG8",
+        "ts": "1474592158.000005"
+    },
+    {
+        "type": "message",
+        "text": "Okay",
+        "user": "U15J5H60P",
+        "ts": "1474592197.000006"
+    },
+    {
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HRTAHL",
+        "ts": "1474593127.000007"
+    },
+    {
+        "type": "message",
+        "text": "I swear this andrew guy always contains sex in his posts",
+        "user": "U15HRTAHL",
+        "ts": "1474593146.000008"
+    },
+    {
+        "type": "message",
+        "text": "Andrew Huelsman",
+        "user": "U15HRTAHL",
+        "ts": "1474593156.000009"
+    },
+    {
+        "type": "message",
+        "text": "posts for what?",
+        "user": "U15HY5TG8",
+        "ts": "1474593171.000010"
+    },
+    {
+        "type": "message",
+        "text": "english",
+        "user": "U15HRTAHL",
+        "ts": "1474593188.000011"
+    },
+    {
+        "type": "message",
+        "text": "oooooo lol",
+        "user": "U15HY5TG8",
+        "ts": "1474593200.000012"
+    },
+    {
+        "type": "message",
+        "text": "Bojack Horseman sucks",
+        "user": "U15J5H60P",
+        "ts": "1474602885.000002"
+    },
+    {
+        "type": "message",
+        "text": "I thought it would catch on by episode 11",
+        "user": "U15J5H60P",
+        "ts": "1474602926.000003"
+    },
+    {
+        "type": "message",
+        "text": "I was wrong",
+        "user": "U15J5H60P",
+        "ts": "1474602931.000004"
+    }
+]

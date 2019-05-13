@@ -1,0 +1,59 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462378493.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: ",
+        "user": "U15J5H60P",
+        "ts": "1462378500.000003"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1462378503.000004",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "There we go",
+        "user": "U15J5H60P",
+        "ts": "1462378508.000005"
+    },
+    {
+        "type": "message",
+        "text": "Have you ever installed a new headlight kit?",
+        "user": "U15J5H60P",
+        "ts": "1462378562.000006"
+    },
+    {
+        "type": "message",
+        "text": "Nah theres not a whole lot of options for my car without totally changing the look of the front end",
+        "user": "U15HY5TG8",
+        "ts": "1462378832.000007"
+    },
+    {
+        "type": "message",
+        "text": "My only real option is retrofitting",
+        "user": "U15HY5TG8",
+        "ts": "1462378847.000008"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1462383958.000009"
+    },
+    {
+        "type": "message",
+        "text": "but it would be a cool mod for you to do",
+        "user": "U15HY5TG8",
+        "ts": "1462384138.000010"
+    }
+]

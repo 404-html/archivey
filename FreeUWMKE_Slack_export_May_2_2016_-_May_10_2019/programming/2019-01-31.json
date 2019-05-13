@@ -1,0 +1,321 @@
+[
+    {
+        "client_msg_id": "c5af7cdc-d43a-4c81-a6de-a6c08b4808f3",
+        "type": "message",
+        "text": "how can I default an enum to null?",
+        "user": "U15HSHSS2",
+        "ts": "1548966634.009600"
+    },
+    {
+        "client_msg_id": "29EA91A7-B435-4753-9FE3-1E9EF89B4E71",
+        "type": "message",
+        "text": "Not sure what ya mean",
+        "user": "U15HY5TG8",
+        "ts": "1548966847.009900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFUA8K90R",
+                "created": 1548966853,
+                "timestamp": 1548966853,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-31, 2:34 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 33973,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFUA8K90R\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFUA8K90R\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFUA8K90R-593e780462\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFUA8K90R-593e780462\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFUA8K90R-593e780462\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 89,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFUA8K90R-593e780462\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 119,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFUA8K90R-593e780462\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFUA8K90R-593e780462\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 178,
+                "image_exif_rotation": 1,
+                "original_w": 763,
+                "original_h": 189,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FFUA8K90R\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFUA8K90R-a7e863a00f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1548966856.010000"
+    },
+    {
+        "client_msg_id": "596d4b4d-326a-406a-99a3-c0c11ab462cd",
+        "type": "message",
+        "text": "That allows the value to be null, but doesn't default it to null",
+        "user": "U15HSHSS2",
+        "ts": "1548966899.010600"
+    },
+    {
+        "client_msg_id": "fc7b941d-5253-4167-82b2-6d12161ebea2",
+        "type": "message",
+        "text": "then put None as the first value and treat that as null",
+        "user": "U15HRTAHL",
+        "ts": "1548966956.011000"
+    },
+    {
+        "client_msg_id": "08a2c50f-678f-4cf6-b376-1c0620c58128",
+        "type": "message",
+        "text": "not an option",
+        "user": "U15HSHSS2",
+        "ts": "1548966979.011200"
+    },
+    {
+        "client_msg_id": "af66941f-d1d1-4fb4-a8ec-937320369cd2",
+        "type": "message",
+        "text": "then you can’t do what you want",
+        "user": "U15HRTAHL",
+        "ts": "1548966985.011400"
+    },
+    {
+        "client_msg_id": "E7F95876-C850-462D-BB10-2E1052C15779",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1548966989.011600"
+    },
+    {
+        "client_msg_id": "63d19434-c777-4037-a1ee-169a0d7b17b4",
+        "type": "message",
+        "text": "That's what I thought",
+        "user": "U15HSHSS2",
+        "ts": "1548967007.012100"
+    },
+    {
+        "client_msg_id": "1B38355E-2E4A-4FB2-9DBC-21120D60A654",
+        "type": "message",
+        "text": "Im confused what you want to do",
+        "user": "U15HY5TG8",
+        "ts": "1548967010.012300"
+    },
+    {
+        "client_msg_id": "cb78ccaf-65d0-4e95-ac73-68a05337e71a",
+        "type": "message",
+        "text": "Account object has a field enum e. When I do new Account(), I want enum e to be null, not the default value",
+        "user": "U15HSHSS2",
+        "ts": "1548967059.013200"
+    },
+    {
+        "client_msg_id": "2B0E2229-0759-412B-93B9-A3A7051A7BB0",
+        "type": "message",
+        "text": "Why cant you set that in the constructor then?",
+        "user": "U15HY5TG8",
+        "ts": "1548967093.013700"
+    },
+    {
+        "client_msg_id": "5e2c310d-b965-4c0f-bc4d-147f8b4ed75a",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1548967097.013900"
+    },
+    {
+        "client_msg_id": "651e6bcf-82e8-43dc-8ace-29b8c0ace105",
+        "type": "message",
+        "text": "It's a weird object thing that doesn't exactly use the constructor",
+        "user": "U15HSHSS2",
+        "ts": "1548967129.014300"
+    },
+    {
+        "client_msg_id": "d35a3350-8770-45ac-b498-c09884ab166f",
+        "type": "message",
+        "text": "I might be able to revist that though...",
+        "user": "U15HSHSS2",
+        "ts": "1548967136.014600"
+    },
+    {
+        "client_msg_id": "0F36C0EF-F9E7-49CA-9EC5-6193E843CD1E",
+        "type": "message",
+        "text": "Thats weird",
+        "user": "U15HY5TG8",
+        "ts": "1548967167.014800"
+    },
+    {
+        "client_msg_id": "33a76e1e-33fd-4394-bafa-1787517d28a4",
+        "type": "message",
+        "text": "if class A inherets class B and you have a constructor in B, and do new A() does B's constructor run?",
+        "user": "U15HSHSS2",
+        "ts": "1548967566.015800"
+    },
+    {
+        "client_msg_id": "136E42FC-7CA5-47E9-B146-0CE9AE8C0757",
+        "type": "message",
+        "text": "I dont think so",
+        "user": "U15HY5TG8",
+        "ts": "1548967607.016000"
+    },
+    {
+        "client_msg_id": "163c18d3-c854-4d7d-b983-56c9dbe7bd51",
+        "type": "message",
+        "text": "can you put a constructor in A that looks at and changes fields from B?",
+        "user": "U15HSHSS2",
+        "ts": "1548967654.017100"
+    },
+    {
+        "client_msg_id": "01BE795F-4780-4A6A-80A0-834A435C1A53",
+        "type": "message",
+        "text": "Maybe it depends abstract or inherits, but i think A can just use Bs methods",
+        "user": "U15HY5TG8",
+        "ts": "1548967661.017400"
+    },
+    {
+        "client_msg_id": "E0317AA8-3410-41CA-9DD4-A4197141302A",
+        "type": "message",
+        "text": "Ummmm",
+        "user": "U15HY5TG8",
+        "ts": "1548967672.017700"
+    },
+    {
+        "client_msg_id": "D8F93642-1769-4B48-A6F4-467C0A6D1D85",
+        "type": "message",
+        "text": "So B can have all the fields you need, and then when you call new A, it can set all of those fields I believe",
+        "user": "U15HY5TG8",
+        "ts": "1548967714.018900"
+    },
+    {
+        "client_msg_id": "4DF640CE-0EDD-4788-BD29-C67A978B122A",
+        "type": "message",
+        "text": "But it acts as A.field instead of B.field",
+        "user": "U15HY5TG8",
+        "ts": "1548967731.019200"
+    },
+    {
+        "client_msg_id": "d0f143cf-4c05-4aa9-97fb-3d218c43f67c",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1548967879.019700"
+    },
+    {
+        "client_msg_id": "AA673953-7915-4397-9755-211FF207EA2C",
+        "type": "message",
+        "text": "So is Account =A?",
+        "user": "U15HY5TG8",
+        "ts": "1548968032.020100"
+    },
+    {
+        "client_msg_id": "1adc9e2b-770c-472a-9960-7da474539e13",
+        "type": "message",
+        "text": "Yeah, but nevermind, realize that won't even solve this issue",
+        "user": "U15HSHSS2",
+        "ts": "1548968123.020500"
+    },
+    {
+        "client_msg_id": "5d2261a2-d610-42b8-8a26-2f1156670293",
+        "type": "message",
+        "text": "sounds like you need fiddler",
+        "user": "U15HRTAHL",
+        "ts": "1548968325.020700"
+    },
+    {
+        "client_msg_id": "2319D9FF-B833-4D11-BB34-9B11FB8D42EB",
+        "type": "message",
+        "text": "Yup",
+        "user": "U15HY5TG8",
+        "ts": "1548968341.020900"
+    },
+    {
+        "client_msg_id": "ab4dd274-4d38-4689-9dfe-cc3d8ae53e2c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1548968416.021100"
+    },
+    {
+        "client_msg_id": "2d3fa15f-acbc-4dd4-8a3e-4a41425f1f12",
+        "type": "message",
+        "text": "<@U15J5H60P> whats the difference between swagger and open api?",
+        "user": "U15HRTAHL",
+        "ts": "1548986824.000500"
+    },
+    {
+        "client_msg_id": "14b40cfa-62f9-4c38-a333-6408e2fd748c",
+        "type": "message",
+        "text": "nvm got it",
+        "user": "U15HRTAHL",
+        "ts": "1548987253.000700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFW8FH3V5",
+                "created": 1548987324,
+                "timestamp": 1548987324,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-31, 8:15 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 43772,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFW8FH3V5\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFW8FH3V5\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 115,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 153,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 230,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 255,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 307,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFW8FH3V5-c58b086bbd\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 327,
+                "image_exif_rotation": 1,
+                "original_w": 1096,
+                "original_h": 350,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FFW8FH3V5\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFW8FH3V5-69f6db8142",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1548987328.000800"
+    }
+]

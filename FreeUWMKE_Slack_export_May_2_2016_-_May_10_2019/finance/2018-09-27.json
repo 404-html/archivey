@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1538064923.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              225.32                 4.9                2.223 \n       Avg.                 ---                 ---               2.223% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1538064923.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 30819,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FC06C287-E07C-45F7-84DB-118BC8610018",
+        "type": "message",
+        "text": "Aaaaaaaaaaaaaaaahhhhhhhhh yissssssssssssssssssssssssssss",
+        "user": "U15J5H60P",
+        "ts": "1538064944.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus crsp",
+        "user": "U15HRTAHL",
+        "ts": "1538065085.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       CRSP              46.575               0.815                1.781 \n       Avg.                 ---                 ---               1.781% \n```\n<http:\/\/finviz.com\/chart.ashx?t=CRSP&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1538065085.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=CRSP&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29503,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=CRSP&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=CRSP&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "jeez im danger",
+        "user": "U15HRTAHL",
+        "ts": "1538065100.000100"
+    }
+]

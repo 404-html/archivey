@@ -1,0 +1,851 @@
+[
+    {
+        "client_msg_id": "62263BA1-D167-48E7-8C1A-AB55720A561D",
+        "type": "message",
+        "text": "Evan when’s your birthday? Today?",
+        "user": "U15HZ01QX",
+        "ts": "1536322212.000100"
+    },
+    {
+        "client_msg_id": "06C94CD5-5C1C-43ED-8BA8-2CE92A83199B",
+        "type": "message",
+        "text": "Monday",
+        "user": "U15J5H60P",
+        "ts": "1536322640.000100"
+    },
+    {
+        "client_msg_id": "286FB3C6-2253-454B-9A10-F769E222DF28",
+        "type": "message",
+        "text": "Unnn",
+        "user": "U15HY5TG8",
+        "ts": "1536322865.000100"
+    },
+    {
+        "client_msg_id": "28EFCE3A-D397-4E42-B7C8-629486B859A2",
+        "type": "message",
+        "text": "B",
+        "user": "U15HY5TG8",
+        "ts": "1536322868.000100"
+    },
+    {
+        "client_msg_id": "6D702DED-E03C-4F3B-A6C1-2203F492C8D4",
+        "type": "message",
+        "text": "Yeah its monday",
+        "user": "U15HY5TG8",
+        "ts": "1536322876.000100"
+    },
+    {
+        "client_msg_id": "cde1b968-dec1-4ad2-9fcb-7f6f40a48b74",
+        "type": "message",
+        "text": "The Verge: Elon Musk teases electric plane design and smokes weed on Joe Rogan podcast.\n<https:\/\/www.theverge.com\/2018\/9\/7\/17830810\/elon-musk-smokes-weed-electric-plane-design-joe-rogan-podcast>",
+        "user": "U15HRTAHL",
+        "ts": "1536323110.000100",
+        "attachments": [
+            {
+                "service_name": "The Verge",
+                "title": "Elon Musk teases electric plane design and smokes weed on Joe Rogan podcast",
+                "title_link": "https:\/\/www.theverge.com\/2018\/9\/7\/17830810\/elon-musk-smokes-weed-electric-plane-design-joe-rogan-podcast",
+                "text": "Oh, Elon",
+                "fallback": "The Verge: Elon Musk teases electric plane design and smokes weed on Joe Rogan podcast",
+                "image_url": "https:\/\/cdn.vox-cdn.com\/thumbor\/Ry4lYJWsV_blG9dmpL8Sv770K8c=\/0x38:1842x1002\/fit-in\/1200x630\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/12864665\/image__1_.png",
+                "image_width": 478,
+                "image_height": 250,
+                "ts": 1536309415,
+                "from_url": "https:\/\/www.theverge.com\/2018\/9\/7\/17830810\/elon-musk-smokes-weed-electric-plane-design-joe-rogan-podcast",
+                "image_bytes": 109780,
+                "service_icon": "https:\/\/cdn.vox-cdn.com\/uploads\/chorus_asset\/file\/7395359\/ios-icon.0.png",
+                "id": 1,
+                "original_url": "https:\/\/www.theverge.com\/2018\/9\/7\/17830810\/elon-musk-smokes-weed-electric-plane-design-joe-rogan-podcast"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5f8af1b6-cba0-4c10-8a94-bd74d6814fc1",
+        "type": "message",
+        "text": "He might be going through a midlife crisis",
+        "user": "U15HRTAHL",
+        "ts": "1536323300.000100"
+    },
+    {
+        "client_msg_id": "e6a2203d-c5e0-4f2b-8cd1-e0bc4fbd131f",
+        "type": "message",
+        "text": "Might be?",
+        "user": "U15J5H60P",
+        "ts": "1536327449.000100"
+    },
+    {
+        "client_msg_id": "7c18c204-4649-461c-80d0-a4c615509bc8",
+        "type": "message",
+        "text": "currently watching the podcast. Elon is awkward as shit",
+        "user": "U15HSHSS2",
+        "ts": "1536331768.000100"
+    },
+    {
+        "client_msg_id": "59a61dbe-3c28-4036-99dd-623d483ee9a9",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1536331903.000100"
+    },
+    {
+        "client_msg_id": "a25b08f2-fb4e-49ba-93a7-57bc6adb949d",
+        "type": "message",
+        "text": "how so?",
+        "user": "U15HRTAHL",
+        "ts": "1536331904.000100"
+    },
+    {
+        "client_msg_id": "0e8614ac-4985-4451-81d1-2c9af993dc0f",
+        "type": "message",
+        "text": "Just the way he talks, and how he decides to respond to shit, and the random pauses and tangents he goes on lol",
+        "user": "U15HSHSS2",
+        "ts": "1536331950.000100"
+    },
+    {
+        "client_msg_id": "1e01c2ea-f339-4942-b38a-e3d44f8ed9eb",
+        "type": "message",
+        "text": "Joe will ask him a question, and Elon will say shit that doesn't answer the question at all and then stop talking lol",
+        "user": "U15HSHSS2",
+        "ts": "1536332222.000100"
+    },
+    {
+        "client_msg_id": "e0cad80b-7f3d-4ea1-bf83-b44cc1f5203a",
+        "type": "message",
+        "text": "Joe asks \"Who do you talk to about permission for drilling holes under LA?\"",
+        "user": "U15HSHSS2",
+        "ts": "1536332283.000100"
+    },
+    {
+        "client_msg_id": "55d7e4f9-6837-4728-a402-4653135adb6c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=ycPr5-27vSI&amp;feature=youtu.be&amp;t=257>",
+        "user": "U15HSHSS2",
+        "ts": "1536332287.000100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Joe Rogan Experience #1169 - Elon Musk",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=ycPr5-27vSI&amp;feature=youtu.be&amp;t=257",
+                "author_name": "PowerfulJRE",
+                "author_link": "https:\/\/www.youtube.com\/user\/PowerfulJRE",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/ycPr5-27vSI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Joe Rogan Experience #1169 - Elon Musk",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/ycPr5-27vSI?feature=oembed&start=257&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=ycPr5-27vSI&amp;feature=youtu.be&amp;t=257",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=ycPr5-27vSI&amp;feature=youtu.be&amp;t=257"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2ecc3dbe-c9ad-4459-90d8-b422deccb84c",
+        "type": "message",
+        "text": "Is this before or after smoking?",
+        "user": "U15HRTAHL",
+        "ts": "1536332587.000100"
+    },
+    {
+        "client_msg_id": "978e6a52-a1c0-46c6-8bcc-eb8880325501",
+        "type": "message",
+        "text": "If it’s after maybe he’s just too stoned to respond lol",
+        "user": "U15HRTAHL",
+        "ts": "1536332600.000100"
+    },
+    {
+        "client_msg_id": "f300c0d5-d436-4ef8-8b7a-671e45a4c8a6",
+        "type": "message",
+        "text": "lol before",
+        "user": "U15HSHSS2",
+        "ts": "1536332868.000100"
+    },
+    {
+        "client_msg_id": "32c62256-11aa-4b60-84b5-126af18002c1",
+        "type": "message",
+        "text": "<https:\/\/ytcropper.com\/cropped\/yc5b9294253bd6e>",
+        "user": "U15HSHSS2",
+        "ts": "1536332875.000100",
+        "attachments": [
+            {
+                "service_name": "ytCropper",
+                "title": "ytCropper | Joe Rogan Experience #1169 - Elon Musk",
+                "title_link": "https:\/\/ytcropper.com\/cropped\/yc5b9294253bd6e",
+                "text": "ytCropper cropped video inside!",
+                "fallback": "ytCropper: ytCropper | Joe Rogan Experience #1169 - Elon Musk",
+                "image_url": "http:\/\/i1.ytimg.com\/vi\/ycPr5-27vSI\/hqdefault.jpg",
+                "from_url": "https:\/\/ytcropper.com\/cropped\/yc5b9294253bd6e",
+                "image_width": 333,
+                "image_height": 250,
+                "image_bytes": 46094,
+                "id": 1,
+                "original_url": "https:\/\/ytcropper.com\/cropped\/yc5b9294253bd6e"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "889c8110-d513-4ace-b4a7-60239d3f4d1b",
+        "type": "message",
+        "text": "found a nifty youtube cropper online",
+        "user": "U15HSHSS2",
+        "ts": "1536332888.000100"
+    },
+    {
+        "client_msg_id": "5947fafd-743e-4bad-af04-edf069321991",
+        "type": "message",
+        "text": "Where does he do the devils lettuce",
+        "user": "U15HRTAHL",
+        "ts": "1536332890.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1536332895.000000"
+        }
+    },
+    {
+        "client_msg_id": "621ab5f1-264a-4934-9ba5-2263a686ffda",
+        "type": "message",
+        "text": "haven't gotten there yet",
+        "user": "U15HSHSS2",
+        "ts": "1536332901.000100"
+    },
+    {
+        "client_msg_id": "f3ab87c1-4da7-41ce-b154-c3dc0eaf0cbd",
+        "type": "message",
+        "text": "the second link I posted he goes on about AI and how nobody listened to him and humanity is fucked",
+        "user": "U15HSHSS2",
+        "ts": "1536332936.000100"
+    },
+    {
+        "client_msg_id": "8addae49-2c72-48ce-aebf-953a2f60474f",
+        "type": "message",
+        "text": "and another example of his awkwardness lol",
+        "user": "U15HSHSS2",
+        "ts": "1536332989.000100"
+    },
+    {
+        "client_msg_id": "98645f58-d59c-4b3f-af20-dcf1ff651adc",
+        "type": "message",
+        "text": "found the part",
+        "user": "U15HRTAHL",
+        "ts": "1536333169.000100"
+    },
+    {
+        "client_msg_id": "c73ed3a1-e930-47f6-94ca-e71ab11b277f",
+        "type": "message",
+        "text": "he didn’t inhale",
+        "user": "U15HRTAHL",
+        "ts": "1536333183.000100"
+    },
+    {
+        "client_msg_id": "a9e53098-d4da-416e-a110-5a8155f38b9c",
+        "type": "message",
+        "text": "puss",
+        "user": "U15HSHSS2",
+        "ts": "1536333189.000100"
+    },
+    {
+        "client_msg_id": "3a0a2aaf-22a9-409f-8c14-003cf5c4d608",
+        "type": "message",
+        "text": "someone should have told him “You won’t!”",
+        "user": "U15HRTAHL",
+        "ts": "1536333224.000100"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/horroraddictx\/status\/1037388885708423170?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1536334202.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/HorrorAddictX|@HorrorAddictX>: A new ‘Halloween’ trailer has been released <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1037388526600388608\/pu\/img\/Xvc-o1Lg0HGstNZo.jpg>",
+                "ts": 1536167758,
+                "author_name": "Slasher boy🥀",
+                "author_link": "https:\/\/twitter.com\/HorrorAddictX\/status\/1037388885708423170",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1020657053566734336\/6QFVsJdX_normal.jpg",
+                "author_subname": "@HorrorAddictX",
+                "text": "A new ‘Halloween’ trailer has been released",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/horroraddictx\/status\/1037388885708423170?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1037388526600388608\/pu\/img\/Xvc-o1Lg0HGstNZo.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1037388526600388608\/pu\/img\/Xvc-o1Lg0HGstNZo.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1037388526600388608\/pu\/vid\/1280x720\/WUWogi4pkfFnzAhJ.mp4?tag=5\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/horroraddictx\/status\/1037388885708423170?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBEC5DD2-696F-4A74-8346-E12CCCAFA9E3",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1536334232.000100"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/313doe\/status\/1037684648535580675?s=1>\n\nGod I miss this show",
+        "user": "U15HZ01QX",
+        "ts": "1536334461.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/313doe|@313doe>: I swear this has had me dead for like 3 hours straight <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1037684514888318978\/pu\/img\/PTPmvziIjaV9w_Zw.jpg>",
+                "ts": 1536238274,
+                "author_name": "Man²",
+                "author_link": "https:\/\/twitter.com\/313doe\/status\/1037684648535580675",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1032738824114196481\/iP34e5mG_normal.jpg",
+                "author_subname": "@313doe",
+                "text": "I swear this has had me dead for like 3 hours straight",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/313doe\/status\/1037684648535580675?s=1",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1037684514888318978\/pu\/img\/PTPmvziIjaV9w_Zw.jpg",
+                "thumb_width": 640,
+                "thumb_height": 360,
+                "video_html_width": 640,
+                "video_html_height": 360,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1037684514888318978\/pu\/img\/PTPmvziIjaV9w_Zw.jpg\" width=\"640\" height=\"360\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1037684514888318978\/pu\/vid\/640x360\/NMp24kxxDG2qtKDj.mp4?tag=5\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/313doe\/status\/1037684648535580675?s=1",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3EA7A22F-F5B1-4DA2-BCC8-A5B7A3F342C9",
+        "type": "message",
+        "text": "Omg wtf",
+        "user": "U15J5H60P",
+        "ts": "1536340802.000100"
+    },
+    {
+        "client_msg_id": "2E086725-03A4-4C0C-8611-A224B5DAA9D2",
+        "type": "message",
+        "text": "NSFW",
+        "user": "U15J5H60P",
+        "ts": "1536340809.000200"
+    },
+    {
+        "client_msg_id": "56490B9E-D61C-4A0F-8B92-E9EE4CBB17FD",
+        "type": "message",
+        "text": "And this is how I got fired",
+        "user": "U15J5H60P",
+        "ts": "1536340819.000100"
+    },
+    {
+        "client_msg_id": "e1a64a32-8fe9-4b4b-a97f-1ae3b33d3cf6",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1536340825.000100"
+    },
+    {
+        "client_msg_id": "8E1E5D5A-E980-44E9-AFAD-747A0323A024",
+        "type": "message",
+        "text": "Literally just blasted 'nigger'",
+        "user": "U15J5H60P",
+        "ts": "1536340852.000100"
+    },
+    {
+        "client_msg_id": "b6789be1-7fd5-4e12-aba9-85b68c82ead3",
+        "type": "message",
+        "text": "lol I don't think your work monitors what comes out of your headphones",
+        "user": "U15HSHSS2",
+        "ts": "1536340855.000100"
+    },
+    {
+        "client_msg_id": "9A91FCC6-D71A-4212-BD64-6873B3CF208B",
+        "type": "message",
+        "text": "Unbelievable",
+        "user": "U15J5H60P",
+        "ts": "1536340860.000100"
+    },
+    {
+        "client_msg_id": "2471c4a5-619c-48b3-9957-27930b63a487",
+        "type": "message",
+        "text": "unleass you blasted it through the speakers",
+        "user": "U15HSHSS2",
+        "ts": "1536340863.000200",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1536340869.000000"
+        }
+    },
+    {
+        "client_msg_id": "836FE53A-A320-47AB-956D-4B172D7D7553",
+        "type": "message",
+        "text": "What show is that",
+        "user": "U15J5H60P",
+        "ts": "1536340865.000200"
+    },
+    {
+        "client_msg_id": "3FD06166-A53A-4434-A6E3-392C5CFBB999",
+        "type": "message",
+        "text": "Headass",
+        "user": "U15HZ01QX",
+        "ts": "1536340868.000100"
+    },
+    {
+        "client_msg_id": "4F01F8CD-356C-4DD4-ACF5-42AFA66D44D3",
+        "type": "message",
+        "text": "Out of my phone",
+        "user": "U15J5H60P",
+        "ts": "1536340875.000100"
+    },
+    {
+        "client_msg_id": "ad02d76b-d279-45ee-8f20-4506231cdffb",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1536340878.000200"
+    },
+    {
+        "client_msg_id": "1E0D8AC6-4F52-4E1C-BCDF-D9F4A737FBE4",
+        "type": "message",
+        "text": "Hahahahah",
+        "user": "U15HZ01QX",
+        "ts": "1536340879.000200"
+    },
+    {
+        "client_msg_id": "08fc5e99-78e4-4216-baf9-f61a8e7c817a",
+        "type": "message",
+        "text": "where’s dipen?",
+        "user": "U15HRTAHL",
+        "ts": "1536340884.000200"
+    },
+    {
+        "client_msg_id": "e61e5c6e-3066-4664-976b-cf602fb32fe3",
+        "type": "message",
+        "text": "and his manager",
+        "user": "U15HRTAHL",
+        "ts": "1536340887.000100"
+    },
+    {
+        "client_msg_id": "45177081-F258-4A59-9D82-DF4741BC6C2E",
+        "type": "message",
+        "text": "You watch videos out loud?",
+        "user": "U15HZ01QX",
+        "ts": "1536340888.000100"
+    },
+    {
+        "client_msg_id": "96E381B6-3FD6-48DC-9510-8FBEEA140E0C",
+        "type": "message",
+        "text": "I'm so embarrassed",
+        "user": "U15J5H60P",
+        "ts": "1536340890.000100"
+    },
+    {
+        "client_msg_id": "8DBA5460-6BE2-4E0D-895D-884DE3385865",
+        "type": "message",
+        "text": "You should be. You’re the office racist now",
+        "user": "U15HZ01QX",
+        "ts": "1536340906.000100"
+    },
+    {
+        "client_msg_id": "EB34AB7B-5167-4354-AFB7-6574BAD11EE2",
+        "type": "message",
+        "text": "The one time I do",
+        "user": "U15J5H60P",
+        "ts": "1536340917.000100"
+    },
+    {
+        "client_msg_id": "26118fd7-ea18-4df7-8cc8-fe3419f6f840",
+        "type": "message",
+        "text": "I would never play any audio at work that wasn't through headphones directly into my ears lol",
+        "user": "U15HSHSS2",
+        "ts": "1536340917.000200",
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U15HRTAHL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30F004BD-31E4-4E77-AAA0-C595C85ECBF4",
+        "type": "message",
+        "text": "Unbelievable",
+        "user": "U15J5H60P",
+        "ts": "1536340920.000100"
+    },
+    {
+        "client_msg_id": "F1F17C32-CBA1-4581-90F6-10BCC20F29F0",
+        "type": "message",
+        "text": "It’s boondocks by the way",
+        "user": "U15HZ01QX",
+        "ts": "1536340921.000200"
+    },
+    {
+        "client_msg_id": "B5D4289E-5BF7-460B-9D51-B02482AC9745",
+        "type": "message",
+        "text": "I even check my AirPods batteries before watching videos ",
+        "user": "U15HZ01QX",
+        "ts": "1536340945.000100"
+    },
+    {
+        "client_msg_id": "B8227E88-FB9F-4987-9FF2-A2BB3FCAC47C",
+        "type": "message",
+        "text": "It was a mistake of judgement",
+        "user": "U15J5H60P",
+        "ts": "1536340966.000200"
+    },
+    {
+        "client_msg_id": "0071FEFE-DB6B-409E-9E4A-F0554D99CAD3",
+        "type": "message",
+        "text": "Just watched the rest of the video",
+        "user": "U15J5H60P",
+        "ts": "1536341044.000100"
+    },
+    {
+        "client_msg_id": "B03C1074-3F2E-4BEB-95D4-07344F1994EB",
+        "type": "message",
+        "text": "I hope I don't sing that when I'm drunk",
+        "user": "U15J5H60P",
+        "ts": "1536341051.000100"
+    },
+    {
+        "client_msg_id": "1088455E-9FA6-4F4F-B1FA-5637B5BE3378",
+        "type": "message",
+        "text": "It's catchy",
+        "user": "U15J5H60P",
+        "ts": "1536341055.000100"
+    },
+    {
+        "client_msg_id": "45A10DA5-BBB9-4DBE-B0F3-A912C621845F",
+        "type": "message",
+        "text": "This Is the hardest I’ve worked on a Friday in awhile",
+        "user": "U15HZ01QX",
+        "ts": "1536349275.000100"
+    },
+    {
+        "client_msg_id": "1255c3a5-e1c8-453f-abd6-95642cd81ab5",
+        "type": "message",
+        "text": "What are you working on?",
+        "user": "U15HRTAHL",
+        "ts": "1536349323.000100"
+    },
+    {
+        "client_msg_id": "8CBE1B1A-5212-4766-B7BA-916DA09FCAAA",
+        "type": "message",
+        "text": "A little bit of everything. Dynamics is really messing with me right now. And I also committed to lead our United way campaign and develop a new service catalog",
+        "user": "U15HZ01QX",
+        "ts": "1536349438.000100"
+    },
+    {
+        "client_msg_id": "C77BFABB-64F1-4952-AC02-CC02ABD161B4",
+        "type": "message",
+        "text": "Figured if I was at home I’d just be goofing off on spider man",
+        "user": "U15HZ01QX",
+        "ts": "1536349451.000100"
+    },
+    {
+        "client_msg_id": "03C6C2BE-F532-480F-8976-048B66C7DCC5",
+        "type": "message",
+        "text": "Dynamics is doodoo",
+        "user": "U15J5H60P",
+        "ts": "1536352664.000100"
+    },
+    {
+        "client_msg_id": "03F80B04-E870-4F7E-BAC6-8AA44E1F55DF",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1536352694.000100"
+    },
+    {
+        "client_msg_id": "f785b06d-f1d8-4a1a-a28d-5a53fd65e4e3",
+        "type": "message",
+        "text": "not going to lie",
+        "user": "U15HRTAHL",
+        "ts": "1536352964.000100"
+    },
+    {
+        "client_msg_id": "5451b82a-5157-45d2-ac1a-b348c55672cd",
+        "type": "message",
+        "text": "Salesforce has really grown on me",
+        "user": "U15HRTAHL",
+        "ts": "1536352971.000100"
+    },
+    {
+        "client_msg_id": "2adb2537-ecfe-4213-a802-04971783e26d",
+        "type": "message",
+        "text": "their new javascript library is amazing",
+        "user": "U15HRTAHL",
+        "ts": "1536352979.000100"
+    },
+    {
+        "client_msg_id": "5aa255ea-95aa-4440-953a-a7b6abf33638",
+        "type": "message",
+        "text": "dynamics sucks",
+        "user": "U15HRTAHL",
+        "ts": "1536352993.000100"
+    },
+    {
+        "client_msg_id": "5be8dc9f-bbdd-4fc7-b0ef-81c115c7c76c",
+        "type": "message",
+        "text": "mac miller died",
+        "user": "U15HRTAHL",
+        "ts": "1536353603.000100"
+    },
+    {
+        "client_msg_id": "06543033-529F-4C67-98BA-7BE479C0F292",
+        "type": "message",
+        "text": "Damn, he only needed to make it 1 more year to be famous",
+        "user": "U15HY5TG8",
+        "ts": "1536353735.000100"
+    },
+    {
+        "client_msg_id": "7d07fa1f-f988-4e19-8844-fb948790090b",
+        "type": "message",
+        "text": "Dang",
+        "user": "U15J5H60P",
+        "ts": "1536353772.000100"
+    },
+    {
+        "client_msg_id": "ff0117d1-8865-4d56-850b-bc1d7bec64a5",
+        "type": "message",
+        "text": "He was trash",
+        "user": "U15J5H60P",
+        "ts": "1536353778.000200"
+    },
+    {
+        "client_msg_id": "83c89b3b-41f9-4938-b1a3-e9ba020896b9",
+        "type": "message",
+        "text": "So whatever",
+        "user": "U15J5H60P",
+        "ts": "1536353779.000100"
+    },
+    {
+        "client_msg_id": "46cb9206-85e4-445a-bd3f-23d0c278a086",
+        "type": "message",
+        "text": "Sorry",
+        "user": "U15J5H60P",
+        "ts": "1536353781.000100"
+    },
+    {
+        "client_msg_id": "af0f86c4-d3b9-44c4-8331-eba52913ca61",
+        "type": "message",
+        "text": "Not whatever",
+        "user": "U15J5H60P",
+        "ts": "1536353784.000100"
+    },
+    {
+        "client_msg_id": "e33b0bbf-408c-4d3a-b301-90c14a734abd",
+        "type": "message",
+        "text": "his next event was in milwaukee :thinking_face:",
+        "user": "U15HRTAHL",
+        "ts": "1536353834.000100"
+    },
+    {
+        "client_msg_id": "234998ee-b193-49fb-bf15-c2d415b03c07",
+        "type": "message",
+        "text": "The only song I knew was Party of Fifth Ave I think",
+        "user": "U15J5H60P",
+        "ts": "1536353868.000200"
+    },
+    {
+        "client_msg_id": "76581A76-F0B8-4AA5-8C18-D7F8935BB78C",
+        "type": "message",
+        "text": "At least andrew didnt get those tickets. Woulda had 4 tickets to light on fire",
+        "user": "U15HY5TG8",
+        "ts": "1536353875.000100"
+    },
+    {
+        "client_msg_id": "553526fc-0fcb-412a-8a81-af5f3882038a",
+        "type": "message",
+        "text": "you knew donald trump",
+        "user": "U15HRTAHL",
+        "ts": "1536353879.000100"
+    },
+    {
+        "client_msg_id": "ae26a12b-6ac4-4401-abcb-9cf1fd020328",
+        "type": "message",
+        "text": "Ah you're right",
+        "user": "U15J5H60P",
+        "ts": "1536353892.000100"
+    },
+    {
+        "client_msg_id": "7c31b174-2d08-4628-934d-3839617dcbf8",
+        "type": "message",
+        "text": "People gotta stop with the drugs, man",
+        "user": "U15J5H60P",
+        "ts": "1536353934.000100"
+    },
+    {
+        "client_msg_id": "3B3F9AF0-3CA6-471E-8A37-2854A4F86A87",
+        "type": "message",
+        "text": "That dudes got a line in a song that’s like “don’t lace my drugs, I wanna make it to see 27” or something",
+        "user": "U15HSHSS2",
+        "ts": "1536359665.000100"
+    },
+    {
+        "client_msg_id": "F724B917-E332-4D2A-B730-80CB635A168C",
+        "type": "message",
+        "text": "Dead at 26 lol",
+        "user": "U15HSHSS2",
+        "ts": "1536359672.000100"
+    },
+    {
+        "client_msg_id": "b9863963-e847-4797-a902-9082f2f64869",
+        "type": "message",
+        "text": "Hella ass",
+        "user": "U15J5H60P",
+        "ts": "1536360750.000100"
+    },
+    {
+        "client_msg_id": "30c89b33-f488-4703-9761-66936617795d",
+        "type": "message",
+        "text": "I hate when that happens",
+        "user": "U15J5H60P",
+        "ts": "1536360762.000100"
+    },
+    {
+        "client_msg_id": "ea70b5d0-a5e9-4fb2-9627-eb2394cc1cee",
+        "type": "message",
+        "text": "So sad",
+        "user": "U15J5H60P",
+        "ts": "1536360763.000100"
+    },
+    {
+        "client_msg_id": "e63932d1-856a-4b75-9c00-19a79a1976ca",
+        "type": "message",
+        "text": "But fuck em, he was doing drugs",
+        "user": "U15J5H60P",
+        "ts": "1536360768.000100"
+    },
+    {
+        "client_msg_id": "3fc9f0db-ef51-4334-b555-58fe81b3ad80",
+        "type": "message",
+        "text": "He done messed up",
+        "user": "U15J5H60P",
+        "ts": "1536360774.000100"
+    },
+    {
+        "client_msg_id": "bf986628-bb6c-4d14-9a5a-5976a6bed031",
+        "type": "message",
+        "text": "<@U15HY5TG8>",
+        "user": "U15J5H60P",
+        "ts": "1536363276.000100"
+    },
+    {
+        "client_msg_id": "544756f8-f50a-4cdd-86f6-6a2722182327",
+        "type": "message",
+        "text": "Water u up 2",
+        "user": "U15J5H60P",
+        "ts": "1536363280.000100"
+    },
+    {
+        "client_msg_id": "d6a187f2-2cef-4d79-b813-85f5f100bb90",
+        "type": "message",
+        "text": "just got back from lakefront",
+        "user": "U15HY5TG8",
+        "ts": "1536363408.000100"
+    },
+    {
+        "client_msg_id": "3252fe27-4de9-40a1-b186-176cc4e1a0f7",
+        "type": "message",
+        "text": "why",
+        "user": "U15HY5TG8",
+        "ts": "1536363412.000100"
+    },
+    {
+        "client_msg_id": "830256a4-c3ff-4326-a644-0e2dc21fea8b",
+        "type": "message",
+        "text": "jw",
+        "user": "U15J5H60P",
+        "ts": "1536363545.000100"
+    },
+    {
+        "client_msg_id": "d507ff36-8b32-41cc-9c1f-9e624cf8844c",
+        "type": "message",
+        "text": "playing 2nite",
+        "user": "U15J5H60P",
+        "ts": "1536363550.000100"
+    },
+    {
+        "client_msg_id": "e013edb1-03fc-43a6-8bf5-06e0b46070c3",
+        "type": "message",
+        "text": "yeah in about a half hour prob",
+        "user": "U15HY5TG8",
+        "ts": "1536363568.000100"
+    },
+    {
+        "client_msg_id": "01779920-2960-48C5-8419-94DAC3A17D6F",
+        "type": "message",
+        "text": "Are you guys going out tomorrow night?",
+        "user": "U15HSHSS2",
+        "ts": "1536363601.000100"
+    },
+    {
+        "client_msg_id": "63507f35-531e-4834-bdf1-23f8f9bd477b",
+        "type": "message",
+        "text": "yeah for my bday!",
+        "user": "U15HY5TG8",
+        "ts": "1536363644.000100"
+    },
+    {
+        "client_msg_id": "C5B96954-4EC5-4759-BBDE-4835D9E73D04",
+        "type": "message",
+        "text": "Nice, thought it was tonight, but I’m busy tonight. Might be able to make it out tomorrow",
+        "user": "U15HSHSS2",
+        "ts": "1536363709.000100"
+    },
+    {
+        "client_msg_id": "1AE8D6B6-BD00-4548-9ED4-14AF5857A662",
+        "type": "message",
+        "text": "Depending on how fucked up I get tonight",
+        "user": "U15HSHSS2",
+        "ts": "1536363716.000100"
+    },
+    {
+        "client_msg_id": "49504985-f673-4d38-8917-96aa3216c14d",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1536363790.000100"
+    },
+    {
+        "client_msg_id": "4acf2316-4327-4f7b-b2f2-d68630bdc3b1",
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/classiclib3ral\/status\/1038003807068860416?s=20>",
+        "user": "U15HRTAHL",
+        "ts": "1536377484.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/classiclib3ral|@classiclib3ral>: having a normal one <https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1038003415845154816\/pu\/img\/fRNwxcgIc2AlrxU4.jpg>",
+                "ts": 1536314367,
+                "author_name": "PeterNorway",
+                "author_link": "https:\/\/twitter.com\/classiclib3ral\/status\/1038003807068860416",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/916032228597092353\/nMANJI2B_normal.jpg",
+                "author_subname": "@classiclib3ral",
+                "text": "having a normal one",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/classiclib3ral\/status\/1038003807068860416?s=20",
+                "thumb_url": "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1038003415845154816\/pu\/img\/fRNwxcgIc2AlrxU4.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 675,
+                "video_html_width": 1200,
+                "video_html_height": 675,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/1038003415845154816\/pu\/img\/fRNwxcgIc2AlrxU4.jpg\" width=\"1200\" height=\"675\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/ext_tw_video\/1038003415845154816\/pu\/vid\/1280x720\/SWkECBWkpt3gRrkL.mp4?tag=5\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/classiclib3ral\/status\/1038003807068860416?s=20",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    }
+]

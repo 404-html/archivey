@@ -1,0 +1,48 @@
+[
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548715014.000200",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548715364.000500",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "client_msg_id": "31b51905-031a-4d56-92f8-7b22f49b91ed",
+        "type": "message",
+        "text": "Butts",
+        "user": "U15J5H60P",
+        "ts": "1548715369.000700"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1548716457.000800",
+        "text": "<@U15HY5TG8> has renamed the channel from \"politics2020\" to \"randomstuff\"",
+        "old_name": "politics2020",
+        "name": "randomstuff"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1548716463.000900",
+        "text": "<@U15HY5TG8> has renamed the channel from \"randomstuff\" to \"random2\"",
+        "old_name": "randomstuff",
+        "name": "random2"
+    },
+    {
+        "client_msg_id": "C355BEF8-675C-470B-9ECF-141575D86915",
+        "type": "message",
+        "text": "Yeeee",
+        "user": "U15HY5TG8",
+        "ts": "1548716485.001100"
+    }
+]

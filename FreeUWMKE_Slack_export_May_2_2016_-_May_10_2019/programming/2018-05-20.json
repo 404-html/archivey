@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "text": "What does it mean again when you get a response from and endpoint with \"&lt;!doctype html........\"?",
+        "user": "U15HY5TG8",
+        "ts": "1526833774.000056"
+    },
+    {
+        "client_msg_id": "0b6c536f-b3c3-4296-9754-7e3507d99e22",
+        "type": "message",
+        "text": "That means the response it's giving you as an HTML doc",
+        "user": "U15HRTAHL",
+        "ts": "1526855467.000076"
+    },
+    {
+        "client_msg_id": "9d3616ff-ef03-4e50-bc56-685ecd002076",
+        "type": "message",
+        "text": "Which could mean a number of things",
+        "user": "U15HRTAHL",
+        "ts": "1526855489.000076"
+    },
+    {
+        "type": "message",
+        "text": "Yeah it's giving me the index",
+        "user": "U15HY5TG8",
+        "ts": "1526855877.000028"
+    },
+    {
+        "type": "message",
+        "text": "do you want to see what I'm doing?",
+        "user": "U15HY5TG8",
+        "ts": "1526855887.000074"
+    },
+    {
+        "client_msg_id": "BFC8FC7D-8C5D-4ECA-9780-AC918D4D2266",
+        "type": "message",
+        "text": "Figured out why",
+        "user": "U15HY5TG8",
+        "ts": "1526857903.000048"
+    },
+    {
+        "client_msg_id": "CE31EF3A-7C0D-4E62-8260-E14CF3D037E7",
+        "type": "message",
+        "text": "Was returning an array without encoding it",
+        "user": "U15HY5TG8",
+        "ts": "1526857914.000056"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1526871085.000102"
+    }
+]

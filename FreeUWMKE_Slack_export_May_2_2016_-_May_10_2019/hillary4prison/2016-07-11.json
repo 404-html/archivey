@@ -1,0 +1,23 @@
+[
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1468262113.000002",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1468262126.000003",
+        "text": "<@U15HY5TG8> has left the channel"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1468262290.000004",
+        "text": "<@U15HRTAHL> archived the channel"
+    }
+]

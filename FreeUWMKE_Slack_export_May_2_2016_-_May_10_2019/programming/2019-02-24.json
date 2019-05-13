@@ -1,0 +1,214 @@
+[
+    {
+        "client_msg_id": "11d6a3f1-bb56-472a-83ab-7ea091debe22",
+        "type": "message",
+        "text": "<@U15J5H60P> are you using cognito",
+        "user": "U15HRTAHL",
+        "ts": "1551027553.000200"
+    },
+    {
+        "client_msg_id": "9CA6E095-BE97-46F5-BBFB-EAE37DBD83D4",
+        "type": "message",
+        "text": "Not yet",
+        "user": "U15J5H60P",
+        "ts": "1551027563.000400"
+    },
+    {
+        "client_msg_id": "AEEE05A0-88B8-4C4E-A26F-D5E36A75D244",
+        "type": "message",
+        "text": "Are you?",
+        "user": "U15J5H60P",
+        "ts": "1551027583.000600"
+    },
+    {
+        "client_msg_id": "48d69ca2-2952-4df1-9db0-786cfd2709c0",
+        "type": "message",
+        "text": "yessir",
+        "user": "U15HRTAHL",
+        "ts": "1551027872.000800"
+    },
+    {
+        "client_msg_id": "d7cbfeaa-05df-407c-a5e6-a94802e4a878",
+        "type": "message",
+        "text": "so do you have any auth in place?",
+        "user": "U15HRTAHL",
+        "ts": "1551027880.001100"
+    },
+    {
+        "client_msg_id": "cb37d8a3-5192-442f-8440-716fe0b079fc",
+        "type": "message",
+        "text": "No. I’m just getting core functionality down first.",
+        "user": "U15J5H60P",
+        "ts": "1551027924.001600"
+    },
+    {
+        "client_msg_id": "7e0a508d-cb97-4d85-89f6-fdfacdae5d2b",
+        "type": "message",
+        "text": "I’d bore myself out of the project if I started on Auth right now",
+        "user": "U15J5H60P",
+        "ts": "1551027941.002100"
+    },
+    {
+        "client_msg_id": "6718b511-2de5-49b7-9356-83747457e8ae",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1551030354.002300"
+    },
+    {
+        "client_msg_id": "0de47204-fe94-40fb-9793-34d92ddeac6b",
+        "type": "message",
+        "text": "so it probably took me a month to figure out cognito",
+        "user": "U15HRTAHL",
+        "ts": "1551038481.002600"
+    },
+    {
+        "client_msg_id": "28b1b936-4a32-43d7-ad0e-a415557eb8c3",
+        "type": "message",
+        "text": "but it's pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1551038484.002800"
+    },
+    {
+        "client_msg_id": "F63F19EA-C126-45AF-9D7C-F0AF8DD0923D",
+        "type": "message",
+        "text": "Nice. What makes it cool?",
+        "user": "U15J5H60P",
+        "ts": "1551038506.003300"
+    },
+    {
+        "client_msg_id": "7d178edf-1a47-4581-a8cb-f3d358506869",
+        "type": "message",
+        "text": "just the simplicity and how it integrates with api gateway naturally",
+        "user": "U15HRTAHL",
+        "ts": "1551038545.003800"
+    },
+    {
+        "client_msg_id": "660a7d4a-0971-4a27-a7bc-862b0084667e",
+        "type": "message",
+        "text": "All I have to do is call the sign in function and maintain some keys on the client side that I pass up with every request",
+        "user": "U15HRTAHL",
+        "ts": "1551038566.004300"
+    },
+    {
+        "client_msg_id": "ad1dee34-69cc-440c-8dc1-97d996727fd8",
+        "type": "message",
+        "text": "and cognito automatically validates the request based on the tokens",
+        "user": "U15HRTAHL",
+        "ts": "1551038580.004700"
+    },
+    {
+        "client_msg_id": "f2f338ab-8018-46ab-842d-5e3f86aba976",
+        "type": "message",
+        "text": "I do have to periodically refresh the tokens though so they don't get expired",
+        "user": "U15HRTAHL",
+        "ts": "1551038592.005100"
+    },
+    {
+        "client_msg_id": "60ea01e4-4abc-42e7-b7de-aabc8dfaa144",
+        "type": "message",
+        "text": "but it's easy",
+        "user": "U15HRTAHL",
+        "ts": "1551038596.005300"
+    },
+    {
+        "client_msg_id": "75EE6CEB-0FBD-469D-83E0-8B324F7F7F51",
+        "type": "message",
+        "text": "Nice. What was the biggest challenge?",
+        "user": "U15J5H60P",
+        "ts": "1551038629.006100"
+    },
+    {
+        "client_msg_id": "5aa98bd5-0126-4332-af7c-6f862b808917",
+        "type": "message",
+        "text": "did you look into auth0?",
+        "user": "U15HY5TG8",
+        "ts": "1551038629.006200"
+    },
+    {
+        "client_msg_id": "ff5e4b77-2350-4527-9516-628b1ff0e189",
+        "type": "message",
+        "text": "```\nconst AmazonCognitoIdentity = require('amazon-cognito-identity-js');\nconst CognitoRefreshToken = require('amazon-cognito-identity-js').CognitoRefreshToken;\nconst pool = {\n    UserPoolId : cognito.userPoolId,\n    ClientId : cognito.clientId\n};\nconst userPool = new AmazonCognitoIdentity.CognitoUserPool(pool);\n\n...\n\nvar cognitoSignIn = (body) =&gt; new Promise((acc, rej) =&gt; {\n    var authData = {\n        Username: body.email,\n        Password: body.password\n    }\n    var authenticationDetails = new AmazonCognitoIdentity.AuthenticationDetails(authData);\n    var userData = {\n        Username: body.email,\n        Pool: userPool\n    };\n    var cognitoUser = new AmazonCognitoIdentity.CognitoUser(userData);\n    cognitoUser.authenticateUser(authenticationDetails, {\n        onSuccess: function(res) {\n            acc(res);\n        }, \n        onFailure: function(err) {\n            rej(err);\n        }\n    });\n});\n\nvar cognitoRefresh = (body) =&gt; new Promise((acc, rej) =&gt; {\n    var userData = {\n        Username: body.email,\n        Pool: userPool\n    };\n    var cognitoUser = new AmazonCognitoIdentity.CognitoUser(userData);\n    var refreshToken = new CognitoRefreshToken({RefreshToken : body.refreshToken});\n    cognitoUser.refreshSession(refreshToken, (err, session) =&gt; {\n        if (err) {\n            rej(err);\n        } else {\n            acc(session);\n        }\n    });\n});\n```",
+        "user": "U15HRTAHL",
+        "ts": "1551038646.006500"
+    },
+    {
+        "client_msg_id": "408fec1b-cdea-40f1-a4cb-beabf549c061",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1551038629006100>\nthe library I'm using only has documentation for using it client side. It was difficult warping this to work on the server but it can be done\nAlso setting up api gateway to automatically authenticate the request led me into a rabbtit hole but I eventually got it",
+        "user": "U15HRTAHL",
+        "ts": "1551038723.007800",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1551038629006100",
+                "fallback": "[February 24th, 2019 12:03 PM] andrew: Nice. What was the biggest challenge?",
+                "ts": "1551038629.006100",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "Nice. What was the biggest challenge?",
+                "author_name": "Andrew",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/476971610272_c7b7e69ed939f91c37dd_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1551038629006100",
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "DD69FC2B-12A1-439F-A73A-C88D36FAF72E",
+        "type": "message",
+        "text": "Gotcha. Well done!",
+        "user": "U15J5H60P",
+        "ts": "1551038787.008200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGFBYJMNY",
+                "created": 1551039178,
+                "timestamp": 1551039178,
+                "name": "Auth.js",
+                "title": "Auth.js",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "U15HRTAHL",
+                "editable": true,
+                "size": 5604,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGFBYJMNY\/auth.js?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FGFBYJMNY\/download\/auth.js?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGFBYJMNY\/auth.js",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FGFBYJMNY-beb5479b9b",
+                "edit_link": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FGFBYJMNY\/auth.js\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1551039178.008600"
+    },
+    {
+        "client_msg_id": "beef24a6-c700-48c8-aea2-7ee901860b84",
+        "type": "message",
+        "text": "This is my whole auth controller. I have a few methods left to implement but they won't take long. All the `exports` are the api gateway lambda functions",
+        "user": "U15HRTAHL",
+        "ts": "1551039223.009600"
+    }
+]

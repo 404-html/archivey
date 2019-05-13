@@ -1,0 +1,604 @@
+[
+    {
+        "client_msg_id": "F81B5887-E6EE-4923-A16F-7C9277B6F872",
+        "type": "message",
+        "text": "Is it easy to do pagination?",
+        "user": "U15HY5TG8",
+        "ts": "1540303430.000100"
+    },
+    {
+        "client_msg_id": "401f0942-eebb-4b97-83f2-babbb0079bf3",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1540303448.000100"
+    },
+    {
+        "client_msg_id": "589C1C1F-05F8-4F73-961A-2CC21C1D333B",
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1540303456.000100"
+    },
+    {
+        "client_msg_id": "7d5873f5-5264-46dd-82f1-17a1771bb63b",
+        "type": "message",
+        "text": "Joe",
+        "user": "U15J5H60P",
+        "ts": "1540308079.000100"
+    },
+    {
+        "client_msg_id": "1d333671-bfe4-4338-80b6-c76bd7fbd52f",
+        "type": "message",
+        "text": "Did you ever figure that stuff out?",
+        "user": "U15J5H60P",
+        "ts": "1540308084.000100"
+    },
+    {
+        "client_msg_id": "31e4b3d2-0baf-49a0-a362-e58aa5b8a029",
+        "type": "message",
+        "text": "Nah I haven’t looked at it since last night",
+        "user": "U15HRTAHL",
+        "ts": "1540308111.000100"
+    },
+    {
+        "client_msg_id": "5e6d49da-2ea2-4d9a-a47f-538f1691d5d8",
+        "type": "message",
+        "text": "I think I know why serialize wasnt being called",
+        "user": "U15HRTAHL",
+        "ts": "1540308121.000100"
+    },
+    {
+        "client_msg_id": "e0a94749-5b77-45ee-8226-9f2bbe4512a2",
+        "type": "message",
+        "text": "it was being called before we hopped on the call and right around then is when I was terminating the server process which started the pending network requests",
+        "user": "U15HRTAHL",
+        "ts": "1540308156.000100"
+    },
+    {
+        "client_msg_id": "7d176554-7a5c-4b60-9df0-57867aee4334",
+        "type": "message",
+        "text": "I think tonight I’ll get it",
+        "user": "U15HRTAHL",
+        "ts": "1540308162.000100"
+    },
+    {
+        "client_msg_id": "d6be556e-536d-4b1f-a369-b1759be0221b",
+        "type": "message",
+        "text": "I think I was getting the initial 404 I was talking about because I wasn’t using the req\/res at first to redirect",
+        "user": "U15HRTAHL",
+        "ts": "1540308191.000100"
+    },
+    {
+        "client_msg_id": "be783488-65a5-4878-b12e-78f563ddcce2",
+        "type": "message",
+        "text": "I probably had a queue of 100 pending network requests in chrome lol",
+        "user": "U15HRTAHL",
+        "ts": "1540308208.000100"
+    },
+    {
+        "client_msg_id": "0fe54da1-82c9-457e-a1da-d877387ac1b8",
+        "type": "message",
+        "text": "I think I finally reached the stage of a “competent programmer”",
+        "user": "U15HRTAHL",
+        "ts": "1540322799.000100"
+    },
+    {
+        "client_msg_id": "370a40e3-f34d-414e-89f7-4103748ef785",
+        "type": "message",
+        "text": "I don’t see programming as a challenge, more of a chore",
+        "user": "U15HRTAHL",
+        "ts": "1540322809.000100"
+    },
+    {
+        "client_msg_id": "9bce2ac9-08e0-4ca9-9805-f191b0c31a4a",
+        "type": "message",
+        "text": "It’s not like 351 where I’m like how the fuck do I do this",
+        "user": "U15HRTAHL",
+        "ts": "1540322826.000100"
+    },
+    {
+        "client_msg_id": "e47e18db-bffa-4056-b6b7-cbf31d13916a",
+        "type": "message",
+        "text": "It’s like “Fuck I have to do this now and I don’t want to”",
+        "user": "U15HRTAHL",
+        "ts": "1540322840.000100"
+    },
+    {
+        "client_msg_id": "84dde642-d803-439f-bc04-c300b554cc26",
+        "type": "message",
+        "text": "knowwhatimsaying?",
+        "user": "U15HRTAHL",
+        "ts": "1540322849.000100"
+    },
+    {
+        "client_msg_id": "21f5b987-9032-451a-8108-ec74735dad6d",
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1540322878.000100"
+    },
+    {
+        "client_msg_id": "5e95d64a-a2a9-4dde-9dc7-e9adcee4683e",
+        "type": "message",
+        "text": "Have you ever had to do infrastructure work?",
+        "user": "U15J5H60P",
+        "ts": "1540322897.000100"
+    },
+    {
+        "client_msg_id": "657be874-da44-485d-bfc1-26b08d87384d",
+        "type": "message",
+        "text": "lol nah",
+        "user": "U15HRTAHL",
+        "ts": "1540322912.000100"
+    },
+    {
+        "client_msg_id": "821fa597-73d8-4395-92c4-9c91bc6a888b",
+        "type": "message",
+        "text": "everything is in the cloud meow",
+        "user": "U15HRTAHL",
+        "ts": "1540322919.000100"
+    },
+    {
+        "client_msg_id": "79001658-06d2-435f-a2e1-a17ecee105a7",
+        "type": "message",
+        "text": "It's bullshit",
+        "user": "U15J5H60P",
+        "ts": "1540322919.000200"
+    },
+    {
+        "client_msg_id": "305c567d-3810-4736-859e-466d44a3a57f",
+        "type": "message",
+        "text": "let them do it",
+        "user": "U15HRTAHL",
+        "ts": "1540322922.000100"
+    },
+    {
+        "client_msg_id": "c31de052-7d52-4d13-8520-9cada3398375",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1540322925.000100"
+    },
+    {
+        "client_msg_id": "5aa8b7bd-223a-441f-903d-246593e3c2be",
+        "type": "message",
+        "text": "Have you ever spun up infrastructure in the cloud?",
+        "user": "U15J5H60P",
+        "ts": "1540322934.000100"
+    },
+    {
+        "client_msg_id": "e9e72162-1fc0-4159-af15-b9dc5109287e",
+        "type": "message",
+        "text": "Setting up kubernetes?",
+        "user": "U15J5H60P",
+        "ts": "1540322943.000100"
+    },
+    {
+        "client_msg_id": "0dd01e04-f238-4b71-873b-fb69b5f78e46",
+        "type": "message",
+        "text": "like ec2?",
+        "user": "U15HRTAHL",
+        "ts": "1540322944.000100"
+    },
+    {
+        "client_msg_id": "fbf61f5c-64c0-4144-be69-072de7b673fb",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1540322950.000200"
+    },
+    {
+        "client_msg_id": "6b74e9f9-8e37-429f-8d88-4ed4ab85712d",
+        "type": "message",
+        "text": "And then hooking it up",
+        "user": "U15J5H60P",
+        "ts": "1540322954.000100"
+    },
+    {
+        "client_msg_id": "b51ffb0c-2de1-4938-817b-c29898f21494",
+        "type": "message",
+        "text": "to DBs",
+        "user": "U15J5H60P",
+        "ts": "1540322957.000100"
+    },
+    {
+        "client_msg_id": "67a52c1c-3cb6-4a3f-9944-56ac31743e54",
+        "type": "message",
+        "text": "I was looking into docker",
+        "user": "U15HRTAHL",
+        "ts": "1540322958.000100"
+    },
+    {
+        "client_msg_id": "843662d6-88a6-4d1c-b027-3e7645d50495",
+        "type": "message",
+        "text": "containerizing the shit",
+        "user": "U15J5H60P",
+        "ts": "1540322963.000100"
+    },
+    {
+        "client_msg_id": "8611d459-018b-4c21-9592-3a220e672231",
+        "type": "message",
+        "text": "fucking nightmare",
+        "user": "U15J5H60P",
+        "ts": "1540322976.000100"
+    },
+    {
+        "client_msg_id": "b87af8bb-4e7e-4e70-8192-50c18e2eac20",
+        "type": "message",
+        "text": "Creating secrets",
+        "user": "U15J5H60P",
+        "ts": "1540322985.000100"
+    },
+    {
+        "client_msg_id": "2b4a489a-c219-4c59-844c-fc8105aef26c",
+        "type": "message",
+        "text": "storing secrets",
+        "user": "U15J5H60P",
+        "ts": "1540322987.000100"
+    },
+    {
+        "client_msg_id": "cce15fae-b2e8-456e-a16a-120462e2dee8",
+        "type": "message",
+        "text": "I was gonna worry about that when I get there",
+        "user": "U15HRTAHL",
+        "ts": "1540322989.000100"
+    },
+    {
+        "client_msg_id": "a4dff32b-0113-4388-bc41-7f164f975d1a",
+        "type": "message",
+        "text": "I've been doing cloud for the past month",
+        "user": "U15J5H60P",
+        "ts": "1540323003.000100"
+    },
+    {
+        "client_msg_id": "0db6ffb6-183b-4c7d-ab29-ba359a816a0e",
+        "type": "message",
+        "text": "I could never be an infrastructure person full time",
+        "user": "U15J5H60P",
+        "ts": "1540323013.000100"
+    },
+    {
+        "client_msg_id": "19861ceb-b1b6-45c1-8f1e-f39a32656321",
+        "type": "message",
+        "text": "yeah you could",
+        "user": "U15HRTAHL",
+        "ts": "1540323018.000100"
+    },
+    {
+        "client_msg_id": "6b3211a6-78b4-4d11-9a6e-13fdb4100086",
+        "type": "message",
+        "text": "if you’re paid well",
+        "user": "U15HRTAHL",
+        "ts": "1540323023.000100"
+    },
+    {
+        "client_msg_id": "e75bea40-24ca-412e-9deb-b958931e4d8e",
+        "type": "message",
+        "text": "0 satisfaction",
+        "user": "U15J5H60P",
+        "ts": "1540323029.000100"
+    },
+    {
+        "client_msg_id": "ff041ce5-e985-469b-bf59-7739ad60da82",
+        "type": "message",
+        "text": "0",
+        "user": "U15J5H60P",
+        "ts": "1540323031.000200"
+    },
+    {
+        "client_msg_id": "60461f9f-f6f0-4e31-8608-578ce641763f",
+        "type": "message",
+        "text": "salesforce has 0 satisfaction",
+        "user": "U15HRTAHL",
+        "ts": "1540323041.000200"
+    },
+    {
+        "client_msg_id": "850d7eea-0b88-44a7-bbb7-0b9a9d4cf964",
+        "type": "message",
+        "text": "but it pays well",
+        "user": "U15HRTAHL",
+        "ts": "1540323043.000100"
+    },
+    {
+        "client_msg_id": "ca411da3-eb62-414d-b156-869726aa0fb3",
+        "type": "message",
+        "text": "I guess satisfaction&gt;$$$ to me",
+        "user": "U15J5H60P",
+        "ts": "1540323053.000100"
+    },
+    {
+        "client_msg_id": "359fa238-7f99-4435-bc66-a640e1b352f7",
+        "type": "message",
+        "text": "that's why I left salesforce de",
+        "user": "U15J5H60P",
+        "ts": "1540323059.000100"
+    },
+    {
+        "client_msg_id": "4675aee0-4ad4-453e-bb3a-d9a012c82f3b",
+        "type": "message",
+        "text": "v",
+        "user": "U15J5H60P",
+        "ts": "1540323060.000200"
+    },
+    {
+        "client_msg_id": "f18f780e-1bd7-4723-8f19-13ef29723b77",
+        "type": "message",
+        "text": "meh, that’s what side projects are for",
+        "user": "U15HRTAHL",
+        "ts": "1540323069.000100"
+    },
+    {
+        "client_msg_id": "ff1010e0-ee2f-43d8-8778-ba714cc32a87",
+        "type": "message",
+        "text": "My side project is CoD",
+        "user": "U15J5H60P",
+        "ts": "1540323076.000100"
+    },
+    {
+        "client_msg_id": "06931f02-3e54-4b8d-b282-2d7676c045d7",
+        "type": "message",
+        "text": "day jobs are working for other people’s dreams",
+        "user": "U15HRTAHL",
+        "ts": "1540323080.000200"
+    },
+    {
+        "client_msg_id": "2ec97261-0b0b-45f2-9534-7e46fa87c4fa",
+        "type": "message",
+        "text": "I'm not going home to work on more chores",
+        "user": "U15J5H60P",
+        "ts": "1540323087.000100"
+    },
+    {
+        "client_msg_id": "068a4bf9-5e1c-4d5d-a8ca-372d2ce844c2",
+        "type": "message",
+        "text": "see it as self improvement",
+        "user": "U15HRTAHL",
+        "ts": "1540323100.000100"
+    },
+    {
+        "client_msg_id": "24fdfc00-a457-4754-8689-e1d64a60976c",
+        "type": "message",
+        "text": "Positive KD is self improvement",
+        "user": "U15J5H60P",
+        "ts": "1540323115.000100"
+    },
+    {
+        "client_msg_id": "b6f9c0e8-2dcc-4626-8fbf-200137afc4e5",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1540323118.000100"
+    },
+    {
+        "client_msg_id": "28D08085-B753-499B-829F-2838E5A56232",
+        "type": "message",
+        "text": "Dude i actually love my sidejob",
+        "user": "U15HY5TG8",
+        "ts": "1540323185.000100"
+    },
+    {
+        "client_msg_id": "9268B652-D50A-40AA-B9BB-3BE61EDA228A",
+        "type": "message",
+        "text": "Thats some real satusfaction",
+        "user": "U15HY5TG8",
+        "ts": "1540323192.000100"
+    },
+    {
+        "client_msg_id": "9FE7C0F8-1160-4A74-8153-4B2B2CF4EC64",
+        "type": "message",
+        "text": "Satisfaction*",
+        "user": "U15HY5TG8",
+        "ts": "1540323200.000200"
+    },
+    {
+        "client_msg_id": "1a35c144-247a-455b-8570-d87f69df5285",
+        "type": "message",
+        "text": "that's because they pay you",
+        "user": "U15J5H60P",
+        "ts": "1540323206.000100"
+    },
+    {
+        "client_msg_id": "64dc67de-a45f-42cf-b160-6e5ca32fa221",
+        "type": "message",
+        "text": "I'd do it if I was paid as well",
+        "user": "U15J5H60P",
+        "ts": "1540323212.000200"
+    },
+    {
+        "client_msg_id": "6CDBB8E8-3473-4280-A052-44CA4A92FE46",
+        "type": "message",
+        "text": "Find someone to pay you",
+        "user": "U15HY5TG8",
+        "ts": "1540323228.000100"
+    },
+    {
+        "client_msg_id": "394BDDE6-D468-456B-8AF2-37AC8F9BD3CE",
+        "type": "message",
+        "text": "Maybe I can hire you if things ever need a ton of work",
+        "user": "U15HY5TG8",
+        "ts": "1540323241.000100"
+    },
+    {
+        "client_msg_id": "df8c6e01-f83e-4431-8cdb-4acc2ed86f8b",
+        "type": "message",
+        "text": "Yee",
+        "user": "U15J5H60P",
+        "ts": "1540323250.000200"
+    },
+    {
+        "client_msg_id": "45cdffc6-0733-4d86-a5cd-9be85c0e8e6f",
+        "type": "message",
+        "text": "Andrew mows lawns",
+        "user": "U15HRTAHL",
+        "ts": "1540323261.000100"
+    },
+    {
+        "client_msg_id": "e77c293a-08e0-4a6e-9f4f-f027b5886f6c",
+        "type": "message",
+        "text": "that’s his side job",
+        "user": "U15HRTAHL",
+        "ts": "1540323264.000100"
+    },
+    {
+        "client_msg_id": "d47c279a-cf8e-470b-962e-36a78b5736f6",
+        "type": "message",
+        "text": "and he’s damn well satisfied with it",
+        "user": "U15HRTAHL",
+        "ts": "1540323271.000100"
+    },
+    {
+        "client_msg_id": "fba44d22-ee51-4203-932b-68a0f9d52119",
+        "type": "message",
+        "text": "lmaooo",
+        "user": "U15J5H60P",
+        "ts": "1540323277.000100"
+    },
+    {
+        "client_msg_id": "a7c72d3f-294c-47ac-89f8-dd7e6aa0ddd4",
+        "type": "message",
+        "text": "Fuck that",
+        "user": "U15J5H60P",
+        "ts": "1540323278.000100"
+    },
+    {
+        "client_msg_id": "b5d663fc-a310-42b2-87d0-82e6bb5f4a64",
+        "type": "message",
+        "text": "I'm so done",
+        "user": "U15J5H60P",
+        "ts": "1540323279.000200"
+    },
+    {
+        "client_msg_id": "b39a2c6d-315c-43d9-b877-75fafe32c443",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1540323280.000100"
+    },
+    {
+        "client_msg_id": "25da4aca-0c00-4252-b660-68560d397b9b",
+        "type": "message",
+        "text": "I hate that shit so much",
+        "user": "U15J5H60P",
+        "ts": "1540323285.000100"
+    },
+    {
+        "client_msg_id": "593a1a36-0193-4e04-8ad3-cdc06d6804ef",
+        "type": "message",
+        "text": "pays for the chicken nuggers",
+        "user": "U15HRTAHL",
+        "ts": "1540323286.000100"
+    },
+    {
+        "client_msg_id": "25C148AE-F7A4-474E-81B6-F50773B42D0D",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1540323305.000100"
+    },
+    {
+        "client_msg_id": "BD0F9BFA-EAE1-4B94-BCEC-96D92487896D",
+        "type": "message",
+        "text": "Who do you mow for?",
+        "user": "U15HY5TG8",
+        "ts": "1540323311.000100"
+    },
+    {
+        "client_msg_id": "90281C92-7C43-4F44-917F-B6AFCA2866D5",
+        "type": "message",
+        "text": "Fucking lawnmowers",
+        "user": "U15HY5TG8",
+        "ts": "1540323321.000100"
+    },
+    {
+        "client_msg_id": "3C59F572-954E-47CC-9822-CDEBD07D7435",
+        "type": "message",
+        "text": "Reminds me of briggs and stratton project",
+        "user": "U15HY5TG8",
+        "ts": "1540323331.000100"
+    },
+    {
+        "client_msg_id": "03BCC17E-F47E-488B-93C3-DBB45B6C79CB",
+        "type": "message",
+        "text": "Tried to interview a lawn shop and got told to fuck off",
+        "user": "U15HY5TG8",
+        "ts": "1540323347.000200"
+    },
+    {
+        "client_msg_id": "d2ba8890-d3d5-477b-b56f-6681df458333",
+        "type": "message",
+        "text": "that was actually fun",
+        "user": "U15HRTAHL",
+        "ts": "1540323347.000300"
+    },
+    {
+        "client_msg_id": "ddbfd7bf-b3fd-411e-a032-7265bc87890c",
+        "type": "message",
+        "text": "we destroyed that class",
+        "user": "U15HRTAHL",
+        "ts": "1540323364.000100"
+    },
+    {
+        "client_msg_id": "d993287e-2824-4e65-94ff-d822a7fe8f4d",
+        "type": "message",
+        "text": "nobody had a functional prototype",
+        "user": "U15HRTAHL",
+        "ts": "1540323372.000100"
+    },
+    {
+        "client_msg_id": "8dbed6ef-98a1-40cb-a8ff-8eafd8b802ac",
+        "type": "message",
+        "text": "we had one in 3 weeks",
+        "user": "U15HRTAHL",
+        "ts": "1540323375.000100"
+    },
+    {
+        "client_msg_id": "972af376-39fe-4587-9994-54c4bfb1d6c2",
+        "type": "message",
+        "text": "then that fucking bitch",
+        "user": "U15HRTAHL",
+        "ts": "1540323385.000100"
+    },
+    {
+        "client_msg_id": "86ca7c8e-75cb-4c2b-9062-31fcf2dbe4ee",
+        "type": "message",
+        "text": "“How do you make your app non sexist?”",
+        "user": "U15HRTAHL",
+        "ts": "1540323396.000200"
+    },
+    {
+        "client_msg_id": "f0959e0d-0cf8-4db6-9b25-dbf6dfe7f959",
+        "type": "message",
+        "text": "wut.",
+        "user": "U15HRTAHL",
+        "ts": "1540323398.000100"
+    },
+    {
+        "client_msg_id": "d233e10d-c6da-4608-8373-79bc6ae89429",
+        "type": "message",
+        "text": "it’s a fucking lawn mower app",
+        "user": "U15HRTAHL",
+        "ts": "1540323404.000100"
+    },
+    {
+        "client_msg_id": "FAC60399-4BFA-4D66-B578-ABF58F3ABB87",
+        "type": "message",
+        "text": "Lmaooo",
+        "user": "U15HY5TG8",
+        "ts": "1540324101.000100"
+    },
+    {
+        "client_msg_id": "BEDD0A98-B042-49D1-9C8B-D2A3F569B535",
+        "type": "message",
+        "text": "I need to stop leaving my fucking laptop at work",
+        "user": "U15HY5TG8",
+        "ts": "1540334985.000100"
+    },
+    {
+        "client_msg_id": "4e581a0b-17e6-44b7-9cb6-7ab8dd468405",
+        "type": "message",
+        "text": "working on the main menu",
+        "user": "U15HSHSS2",
+        "ts": "1540358511.000100"
+    }
+]

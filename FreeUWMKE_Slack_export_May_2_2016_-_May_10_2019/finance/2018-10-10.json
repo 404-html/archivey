@@ -1,0 +1,80 @@
+[
+    {
+        "client_msg_id": "D9D61E08-560D-4EB8-83F2-CF97F510DD58",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1539207143.000100"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus nflx",
+        "user": "U15J5H60P",
+        "ts": "1539207156.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       NFLX              325.89              -29.82               -8.383 \n       Avg.                 ---                 ---              -8.383% \n```\n<http:\/\/finviz.com\/chart.ashx?t=NFLX&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1539207156.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=NFLX&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 28604,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=NFLX&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=NFLX&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus aapl",
+        "user": "U15J5H60P",
+        "ts": "1539207169.000100"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       AAPL              216.36              -10.51               -4.633 \n       Avg.                 ---                 ---              -4.633% \n```\n<http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1539207169.000200",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 31872,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=AAPL&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "017338EE-C898-4445-9CB3-017BD1EB792E",
+        "type": "message",
+        "text": "Sad sad sad day",
+        "user": "U15J5H60P",
+        "ts": "1539207176.000100"
+    },
+    {
+        "client_msg_id": "5EF8C726-BEE9-4F06-8FC5-2C1530F35A4C",
+        "type": "message",
+        "text": "Bitcoin is up $42 tho. So that's nice",
+        "user": "U15J5H60P",
+        "ts": "1539207212.000100"
+    },
+    {
+        "client_msg_id": "C68FBBFA-ADC0-4BB4-84A9-F997C6944D87",
+        "type": "message",
+        "text": "Everything in my stocks app is red except Bitcoin",
+        "user": "U15J5H60P",
+        "ts": "1539207227.000100"
+    }
+]

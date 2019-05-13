@@ -1,0 +1,31 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/fossbytes.com\/mit-anonymity-network-riffle-more-secure-tor\/>",
+        "user": "U15HY5TG8",
+        "ts": "1474253422.000002",
+        "attachments": [
+            {
+                "service_name": "fossBytes",
+                "title": "Riffle: MIT Creates New Anonymity Network Which Is More Secure Than TOR",
+                "title_link": "https:\/\/fossbytes.com\/mit-anonymity-network-riffle-more-secure-tor\/",
+                "text": "Researchers at MIT and EPFL have come up with a new anonymity network that is said to be more secure than Tor. The network is a mix network which implements methods like verifiable shuffle and Authentication encryption.",
+                "fallback": "fossBytes: Riffle: MIT Creates New Anonymity Network Which Is More Secure Than TOR",
+                "image_url": "https:\/\/fossbytes.com\/wp-content\/uploads\/2016\/07\/tor-riffle.jpg",
+                "image_width": 446,
+                "image_height": 250,
+                "ts": 1468336029,
+                "from_url": "https:\/\/fossbytes.com\/mit-anonymity-network-riffle-more-secure-tor\/",
+                "image_bytes": 47182,
+                "service_icon": "https:\/\/fossbytes.com\/wp-content\/uploads\/2016\/07\/fossbyte-logo-4.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1474256128.000004"
+    }
+]

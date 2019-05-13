@@ -1,0 +1,135 @@
+[
+    {
+        "client_msg_id": "C0D765B9-22A1-4D87-9178-3FA65798298A",
+        "type": "message",
+        "text": "Wait a second, <@U15HZ01QX> shouldn’t you have been having bachelor party 1.5 this weekend while Ciera was gone?",
+        "user": "U15HSHSS2",
+        "ts": "1533494240.000033"
+    },
+    {
+        "client_msg_id": "66DE73DA-FA6C-46A0-A439-7F0C0CE98F66",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1533496953.000034"
+    },
+    {
+        "client_msg_id": "d706da30-0df8-4dfd-8ae5-db6ba264a01c",
+        "type": "message",
+        "text": "<https:\/\/www.bestbuy.com\/site\/wd-easystore-8tb-external-usb-3-0-hard-drive-black\/5792401.p?skuId=5792401>",
+        "user": "U15HSHSS2",
+        "ts": "1533497498.000036",
+        "attachments": [
+            {
+                "service_name": "Best Buy",
+                "title": "WD - easystore® 8TB External USB 3.0 Hard Drive - Black",
+                "title_link": "https:\/\/www.bestbuy.com\/site\/wd-easystore-8tb-external-usb-3-0-hard-drive-black\/5792401.p?skuId=5792401",
+                "text": "WD easystore 8TB External USB 3.0 Hard Drive: USB 3.0 interface; plug-and-play USB connectivity; data transfer rates up to 5 Gbps with USB 3.0",
+                "fallback": "Best Buy: WD - easystore® 8TB External USB 3.0 Hard Drive - Black",
+                "image_url": "https:\/\/pisces.bbystatic.com\/\/image2\/BestBuy_US\/images\/products\/5792\/5792401_sa.jpg;maxHeight=210;maxWidth=210",
+                "from_url": "https:\/\/www.bestbuy.com\/site\/wd-easystore-8tb-external-usb-3-0-hard-drive-black\/5792401.p?skuId=5792401",
+                "image_width": 59,
+                "image_height": 210,
+                "image_bytes": 3136,
+                "service_icon": "https:\/\/assets.bbystatic.com\/header-footer\/images\/favicon-152.png",
+                "id": 1,
+                "original_url": "https:\/\/www.bestbuy.com\/site\/wd-easystore-8tb-external-usb-3-0-hard-drive-black\/5792401.p?skuId=5792401"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "064fb2e8-4016-430c-8bcd-90eb24c00f80",
+        "type": "message",
+        "text": "FUCK",
+        "user": "U15HSHSS2",
+        "ts": "1533497501.000019"
+    },
+    {
+        "type": "message",
+        "text": "I have a problem",
+        "files": [
+            {
+                "id": "FC453KC8P",
+                "created": 1533508593,
+                "timestamp": 1533508593,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HSHSS2",
+                "editable": false,
+                "size": 8922568,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FC453KC8P\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FC453KC8P\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FC453KC8P-9fcf2c6ab1\/image_from_ios_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3024,
+                "original_h": 4032,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HSHSS2\/FC453KC8P\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FC453KC8P-c4c697175a",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HSHSS2",
+        "display_as_bot": false,
+        "upload_reply_to": "7671D983-85A9-4F09-980F-774711DBAA3B",
+        "ts": "1533508593.000008"
+    },
+    {
+        "client_msg_id": "2A4EB2CA-4C1A-48A7-A86E-4D9523CE436E",
+        "type": "message",
+        "text": "Omg",
+        "user": "U15J5H60P",
+        "ts": "1533508619.000007"
+    },
+    {
+        "client_msg_id": "067DEEBB-2BD5-48A2-A8D4-497488D22BD1",
+        "type": "message",
+        "text": "You're gonna go bankrupt",
+        "user": "U15J5H60P",
+        "ts": "1533508632.000040"
+    },
+    {
+        "client_msg_id": "76D542C3-56E0-4EC3-A47D-4F94DB249BD4",
+        "type": "message",
+        "text": "I was this :ok_hand::skin-tone-3: close to buying 2",
+        "user": "U15HSHSS2",
+        "ts": "1533508884.000035"
+    },
+    {
+        "client_msg_id": "7329C0BD-0D82-453B-9A2A-D76F95366083",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1533510774.000034"
+    }
+]

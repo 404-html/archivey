@@ -1,0 +1,146 @@
+[
+    {
+        "type": "message",
+        "text": "I’m working on this pretty cool project",
+        "user": "U15HRTAHL",
+        "ts": "1468597305.000002"
+    },
+    {
+        "type": "message",
+        "text": "I have to create a system that allows people to create GoToWebinars when they click on a date on a calender",
+        "user": "U15HRTAHL",
+        "ts": "1468597334.000003"
+    },
+    {
+        "type": "message",
+        "text": "and other people can see this calendar and they can register to it",
+        "user": "U15HRTAHL",
+        "ts": "1468597345.000004"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/developer.citrixonline.com\/content\/gotowebinar-api-reference>",
+        "user": "U15HRTAHL",
+        "ts": "1468597352.000005"
+    },
+    {
+        "type": "message",
+        "text": "Noice",
+        "user": "U15HY5TG8",
+        "ts": "1468597738.000006"
+    },
+    {
+        "type": "message",
+        "text": "Do you guys use build servers?",
+        "user": "U15HY5TG8",
+        "ts": "1468599693.000007"
+    },
+    {
+        "type": "message",
+        "text": "no whats that",
+        "user": "U15HRTAHL",
+        "ts": "1468599854.000008"
+    },
+    {
+        "type": "message",
+        "text": "Well after code reviews we check in our code and then i think the build server continuously integrates the changes into the current version",
+        "user": "U15HY5TG8",
+        "ts": "1468600068.000009"
+    },
+    {
+        "type": "message",
+        "text": "ohhhh yeah",
+        "user": "U15HRTAHL",
+        "ts": "1468600443.000010"
+    },
+    {
+        "type": "message",
+        "text": "we use those",
+        "user": "U15HRTAHL",
+        "ts": "1468600446.000011"
+    },
+    {
+        "type": "message",
+        "text": "We have this thing called bamboo",
+        "user": "U15HRTAHL",
+        "ts": "1468600455.000012"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.atlassian.com\/software\/bamboo>",
+        "user": "U15HRTAHL",
+        "ts": "1468600471.000013",
+        "attachments": [
+            {
+                "service_name": "Atlassian",
+                "title": "Bamboo - Continuous integration, deployment &amp; release management | Atlassian",
+                "title_link": "https:\/\/www.atlassian.com\/software\/bamboo",
+                "text": "Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.",
+                "fallback": "Atlassian: Bamboo - Continuous integration, deployment &amp; release management | Atlassian",
+                "from_url": "https:\/\/www.atlassian.com\/software\/bamboo",
+                "service_icon": "https:\/\/wac-cdn.atlassian.com\/assets\/img\/favicons\/atlassian\/apple-touch-icon-57x57.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Gotcha gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1468604668.000015"
+    },
+    {
+        "type": "message",
+        "text": "what do toy guys use",
+        "user": "U15HRTAHL",
+        "ts": "1468604778.000016"
+    },
+    {
+        "type": "message",
+        "text": "you*",
+        "user": "U15HRTAHL",
+        "ts": "1468604834.000017"
+    },
+    {
+        "type": "message",
+        "text": "I think i guy here created and manages it",
+        "user": "U15HY5TG8",
+        "ts": "1468604846.000018"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1468605071.000019"
+    },
+    {
+        "type": "message",
+        "text": "But idk if since i updated the schema and the EF model if it would fuck everything up since the build server is down",
+        "user": "U15HY5TG8",
+        "ts": "1468605143.000020"
+    },
+    {
+        "type": "message",
+        "text": "evan breaking shit",
+        "user": "U15HRTAHL",
+        "ts": "1468605278.000021"
+    },
+    {
+        "type": "message",
+        "text": "working straight out of production",
+        "user": "U15HRTAHL",
+        "ts": "1468605291.000022"
+    },
+    {
+        "type": "message",
+        "text": "Havent committed the changes yet",
+        "user": "U15HY5TG8",
+        "ts": "1468605293.000023"
+    },
+    {
+        "type": "message",
+        "text": "Thats why im wondering",
+        "user": "U15HY5TG8",
+        "ts": "1468605303.000024"
+    }
+]

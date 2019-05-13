@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=g6iDZspbRMg>",
+        "user": "U15HSHSS2",
+        "ts": "1521039359.000849",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Cryptocurrencies: Last Week Tonight with John Oliver (HBO)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=g6iDZspbRMg",
+                "author_name": "LastWeekTonight",
+                "author_link": "https:\/\/www.youtube.com\/user\/LastWeekTonight",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/g6iDZspbRMg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Cryptocurrencies: Last Week Tonight with John Oliver (HBO)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/g6iDZspbRMg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=g6iDZspbRMg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=cv_1OR_oRHY>",
+        "user": "U15J5H60P",
+        "ts": "1476682598.000002",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Samsung Galaxy Note 7 unboxing",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=cv_1OR_oRHY",
+                "author_name": "xTernal7",
+                "author_link": "https:\/\/www.youtube.com\/user\/xTernal7",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/cv_1OR_oRHY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Samsung Galaxy Note 7 unboxing",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/cv_1OR_oRHY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=cv_1OR_oRHY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    }
+]

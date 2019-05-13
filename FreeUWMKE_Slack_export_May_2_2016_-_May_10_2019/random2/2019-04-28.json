@@ -1,0 +1,263 @@
+[
+    {
+        "type": "message",
+        "text": "me_irl",
+        "files": [
+            {
+                "id": "FJAFRP1BR",
+                "created": 1556462509,
+                "timestamp": 1556462509,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 10304,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJAFRP1BR\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJAFRP1BR\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJAFRP1BR-6822c65f2f\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJAFRP1BR-6822c65f2f\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJAFRP1BR-6822c65f2f\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 224,
+                "thumb_360_h": 228,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJAFRP1BR-6822c65f2f\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 224,
+                "original_h": 228,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FJAFRP1BR\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FJAFRP1BR-621f9835ac",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1556462509.000100",
+        "client_msg_id": "40038304-D66B-4929-9660-492B55F79F7F"
+    },
+    {
+        "client_msg_id": "648C8919-D625-43BE-B6E0-CA2E6AE7368A",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/apnz8lsivxu21.gif>",
+        "user": "U15J5H60P",
+        "ts": "1556462703.000500",
+        "attachments": [
+            {
+                "fallback": "671x376px image",
+                "image_url": "https:\/\/i.redd.it\/apnz8lsivxu21.gif",
+                "image_width": 671,
+                "image_height": 376,
+                "image_bytes": 36687981,
+                "is_animated": true,
+                "from_url": "https:\/\/i.redd.it\/apnz8lsivxu21.gif",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/apnz8lsivxu21.gif"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "73A8FAE3-D728-4D2C-B7EE-848DF6E75334",
+        "type": "message",
+        "text": "<@U15HZ01QX> ",
+        "user": "U15J5H60P",
+        "ts": "1556462709.000800"
+    },
+    {
+        "client_msg_id": "77C49CA9-9917-40F6-B26C-B0D663EB1225",
+        "type": "message",
+        "text": "<https:\/\/v.redd.it\/fez7n8expzu21>",
+        "user": "U15J5H60P",
+        "ts": "1556462890.001000",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/TIHI - Thanks, I hate taking trash out",
+                "title_link": "https:\/\/v.redd.it\/fez7n8expzu21",
+                "text": "799 votes and 23 comments so far on Reddit",
+                "fallback": "reddit: r\/TIHI - Thanks, I hate taking trash out",
+                "thumb_url": "https:\/\/external-preview.redd.it\/-CV1yoLDumz5_KfghgU4EqqPXqjsKZTmsR1BdQJWoJM.png?format=pjpg&auto=webp&s=2a72458294ed26a84c99dd4a1df9b25ef86c62af",
+                "from_url": "https:\/\/v.redd.it\/fez7n8expzu21",
+                "thumb_width": 640,
+                "thumb_height": 640,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/v.redd.it\/fez7n8expzu21"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D8A784F0-A58E-43FE-A9FC-C2E38BEF3B3F",
+        "type": "message",
+        "text": "Wtf",
+        "user": "U15J5H60P",
+        "ts": "1556462892.001300"
+    },
+    {
+        "client_msg_id": "948A6791-5A8B-4AF1-A369-2BAE286F42FE",
+        "type": "message",
+        "text": "So many good memes today ",
+        "user": "U15J5H60P",
+        "ts": "1556462897.001500"
+    },
+    {
+        "client_msg_id": "F43382C5-F7BA-44E5-8437-45A3E4E02B6C",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1556466982.001700"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/twitter.com\/brightburn\/status\/1121708752418131968?s=12>",
+        "user": "U15HZ01QX",
+        "ts": "1556474493.000100",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/Brightburn|@Brightburn>: He’s not here to save the world. #Brightburn in theaters Memorial Day Weekend. <https:\/\/pbs.twimg.com\/media\/D5EdmfEU0AAc-9X.jpg>",
+                "ts": 1556271181,
+                "author_name": "Brightburn",
+                "author_link": "https:\/\/twitter.com\/Brightburn\/status\/1121708752418131968",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1111798124274565120\/7ap3kXbV_normal.png",
+                "author_subname": "@Brightburn",
+                "text": "He’s not here to save the world. #Brightburn in theaters Memorial Day Weekend.",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/brightburn\/status\/1121708752418131968?s=12",
+                "thumb_url": "https:\/\/pbs.twimg.com\/media\/D5EdmfEU0AAc-9X.jpg",
+                "thumb_width": 1200,
+                "thumb_height": 1200,
+                "video_html_width": 1200,
+                "video_html_height": 1200,
+                "video_html": "<video controls poster=\"https:\/\/pbs.twimg.com\/media\/D5EdmfEU0AAc-9X.jpg\" width=\"1200\" height=\"1200\"><source type=\"video\/mp4\" src=\"https:\/\/video.twimg.com\/amplify_video\/1121706180869382144\/vid\/720x720\/Y2qU_RKmD5awxctv.mp4?tag=11\"><\/video>",
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/brightburn\/status\/1121708752418131968?s=12",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63d513cb-ff3b-434c-8d30-de043f9c863d",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/7w64xmow81v21.jpg>",
+        "user": "U15HSHSS2",
+        "ts": "1556496381.000200",
+        "attachments": [
+            {
+                "fallback": "750x503px image",
+                "image_url": "https:\/\/i.redd.it\/7w64xmow81v21.jpg",
+                "image_width": 750,
+                "image_height": 503,
+                "image_bytes": 36416,
+                "from_url": "https:\/\/i.redd.it\/7w64xmow81v21.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.redd.it\/7w64xmow81v21.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C5F102E8-AD46-4C6F-AA21-7BD19AFCADE9",
+        "type": "message",
+        "text": "Wtf lmao",
+        "user": "U15J5H60P",
+        "ts": "1556496412.000500"
+    },
+    {
+        "client_msg_id": "85b476d6-320a-45da-9646-e90e3fb65b5a",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15HSHSS2",
+        "ts": "1556496442.000700"
+    },
+    {
+        "client_msg_id": "6ACD3B3D-3D9B-43BB-B166-F5782DA4CDAF",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1556496572.000900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHXBQGCV9",
+                "created": 1556501228,
+                "timestamp": 1556501228,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-28, 8:27 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 789793,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHXBQGCV9\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHXBQGCV9\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHXBQGCV9-9d6b547170\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 945,
+                "original_h": 945,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FHXBQGCV9\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHXBQGCV9-4d647c0c3c",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1556501231.001000",
+        "client_msg_id": "b74a85ce-8bf1-4ace-a116-6cc161cbcb9b"
+    },
+    {
+        "client_msg_id": "B1D678F2-11E0-49EC-8E16-67615D0B5676",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1556502083.001400"
+    },
+    {
+        "client_msg_id": "7608BFC3-1BC0-45C2-BF69-63F77DBFC9D1",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HSHSS2",
+        "ts": "1556502128.001600"
+    },
+    {
+        "client_msg_id": "de8f4578-a0d3-492c-8b9c-c52e11fc548c",
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HRTAHL",
+        "ts": "1556504395.001800"
+    }
+]

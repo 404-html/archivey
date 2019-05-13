@@ -1,0 +1,580 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> I think I've decided on the route I'm going to go with my data storage",
+        "user": "U15HSHSS2",
+        "ts": "1522090521.000245"
+    },
+    {
+        "type": "message",
+        "text": "Let's hear it",
+        "user": "U15J5H60P",
+        "ts": "1522090532.000089"
+    },
+    {
+        "type": "message",
+        "text": "And it's pretty damn expensive lol",
+        "user": "U15HSHSS2",
+        "ts": "1522090533.000425"
+    },
+    {
+        "type": "message",
+        "text": "but there really is no cheap option",
+        "user": "U15HSHSS2",
+        "ts": "1522090539.000186",
+        "edited": {
+            "user": "U15HSHSS2",
+            "ts": "1522090544.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "I'm thinking very long term here, so long that I might not ever even meet the storage threshold, but i'd rather have too much space than not enough",
+        "user": "U15HSHSS2",
+        "ts": "1522090597.000537"
+    },
+    {
+        "type": "message",
+        "text": "Right now I have a 2 bay synology with 2 3TB drives in it",
+        "user": "U15HSHSS2",
+        "ts": "1522090618.000170"
+    },
+    {
+        "type": "message",
+        "text": "I have a little less than 1TB left of space, and a lot that I have on the back burner to download",
+        "user": "U15HSHSS2",
+        "ts": "1522090662.000071"
+    },
+    {
+        "type": "message",
+        "text": "Christ",
+        "user": "U15J5H60P",
+        "ts": "1522090721.000084"
+    },
+    {
+        "type": "message",
+        "text": "All on plex?",
+        "user": "U15J5H60P",
+        "ts": "1522090744.000307"
+    },
+    {
+        "type": "message",
+        "text": "You guys are essentially doomsday preppers, just for midlevel comedy movies",
+        "user": "U15HZ01QX",
+        "ts": "1522090834.000038"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1522090848.000595"
+    },
+    {
+        "type": "message",
+        "text": "Yeah all on plex",
+        "user": "U15HSHSS2",
+        "ts": "1522090852.000538"
+    },
+    {
+        "type": "message",
+        "text": "And my current back up is on 4 external hard drives of various sizes lol",
+        "user": "U15HSHSS2",
+        "ts": "1522090874.000055"
+    },
+    {
+        "type": "message",
+        "text": "Dude, get us accounts!",
+        "user": "U15J5H60P",
+        "ts": "1522090914.000123"
+    },
+    {
+        "type": "message",
+        "text": "So what I want to do is buy another synology, same kind I have right now. And buy a 12TB hard drive",
+        "user": "U15HSHSS2",
+        "ts": "1522090917.000226"
+    },
+    {
+        "type": "message",
+        "text": "You need to build a PC",
+        "user": "U15J5H60P",
+        "ts": "1522090926.000547"
+    },
+    {
+        "type": "message",
+        "text": "That is a server",
+        "user": "U15J5H60P",
+        "ts": "1522090929.000145"
+    },
+    {
+        "type": "message",
+        "text": "Then fill it with HDDs",
+        "user": "U15J5H60P",
+        "ts": "1522090933.000715"
+    },
+    {
+        "type": "message",
+        "text": "No more synologies",
+        "user": "U15J5H60P",
+        "ts": "1522090944.000056"
+    },
+    {
+        "type": "message",
+        "text": "Those are for beginners",
+        "user": "U15J5H60P",
+        "ts": "1522090948.000613"
+    },
+    {
+        "type": "message",
+        "text": "You're full out pro now",
+        "user": "U15J5H60P",
+        "ts": "1522090953.000388"
+    },
+    {
+        "type": "message",
+        "text": ":thinking_face:",
+        "user": "U15HSHSS2",
+        "ts": "1522091007.000354"
+    },
+    {
+        "client_msg_id": "69899DF3-D53B-4F79-A785-15C76E7238BE",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1522091017.000662"
+    },
+    {
+        "type": "message",
+        "text": "Depends if I could get reasonable priced cloud storage...",
+        "user": "U15HSHSS2",
+        "ts": "1522091059.000386"
+    },
+    {
+        "type": "message",
+        "text": "because NAS cloud storage is just a joke",
+        "user": "U15HSHSS2",
+        "ts": "1522091080.000302"
+    },
+    {
+        "type": "message",
+        "text": "`petabyte`",
+        "user": "U15HZ01QX",
+        "ts": "1522091268.000046"
+    },
+    {
+        "type": "message",
+        "text": "lol i just imagined you buying a rack of HDDs and putting it in your basement",
+        "user": "U15HZ01QX",
+        "ts": "1522091306.000136"
+    },
+    {
+        "type": "message",
+        "text": "Nahh... cloud storage is too expensive",
+        "user": "U15HSHSS2",
+        "ts": "1522092169.000361"
+    },
+    {
+        "type": "message",
+        "text": "And I don't really want to build a server",
+        "user": "U15HSHSS2",
+        "ts": "1522092187.000539"
+    },
+    {
+        "type": "message",
+        "text": "Seems like everything advertised as \"Unlimited\" does have some cap to it eventually",
+        "user": "U15HSHSS2",
+        "ts": "1522092278.000698"
+    },
+    {
+        "type": "message",
+        "text": "and they charge you for retrieving the backup from them",
+        "user": "U15HSHSS2",
+        "ts": "1522092292.000221"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1522090914000123>",
+        "user": "U15HSHSS2",
+        "ts": "1522092573.000435",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1522090914000123",
+                "fallback": "[March 26th, 2018 12:01 PM] andrew: Dude, get us accounts!",
+                "ts": "1522090914.000123",
+                "author_id": "U15J5H60P",
+                "author_subname": "Andrew Budziszek",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "Dude, get us accounts!",
+                "author_name": "Andrew Budziszek",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15J5H60P",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2017-02-25\/147241124999_64ed7d4306f4ab4d2780_48.png",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "footer": "Posted in #tech"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I would but I've given it out to a few people already, and if anyone is on I basically can't do anything on the internet lol",
+        "user": "U15HSHSS2",
+        "ts": "1522092599.000367"
+    },
+    {
+        "type": "message",
+        "text": "So I just end up turning it off if someone goes on while I'm doing something",
+        "user": "U15HSHSS2",
+        "ts": "1522092615.000677"
+    },
+    {
+        "type": "message",
+        "text": "I think I'm just going to remove everyones access to it cuz it's annoying to deal with",
+        "user": "U15HSHSS2",
+        "ts": "1522092636.000241"
+    },
+    {
+        "type": "message",
+        "text": "That's why you have to get a server",
+        "user": "U15J5H60P",
+        "ts": "1522092673.000587"
+    },
+    {
+        "type": "message",
+        "text": "So it can handle all dem loads",
+        "user": "U15J5H60P",
+        "ts": "1522092687.000157"
+    },
+    {
+        "type": "message",
+        "text": "But I hear ya.",
+        "user": "U15J5H60P",
+        "ts": "1522092701.000356"
+    },
+    {
+        "type": "message",
+        "text": "I still think you should make a server though so it's more expandable. Synologies are limited by the bays",
+        "user": "U15J5H60P",
+        "ts": "1522092719.000059"
+    },
+    {
+        "type": "message",
+        "text": "Get something that's limited by the number of SATA ports so you can expand it as you find 24TB isn't enough",
+        "user": "U15J5H60P",
+        "ts": "1522092744.000302"
+    },
+    {
+        "type": "message",
+        "text": "Well either way I need a way to back up what's on the server that's its own separate thing",
+        "user": "U15HSHSS2",
+        "ts": "1522092807.000184"
+    },
+    {
+        "type": "message",
+        "text": "So either I get a NAS for that, or create a whole nother server just for backup",
+        "user": "U15HSHSS2",
+        "ts": "1522092843.000565"
+    },
+    {
+        "type": "message",
+        "text": "Use your existing Synology to backup critical files",
+        "user": "U15J5H60P",
+        "ts": "1522092867.000133"
+    },
+    {
+        "type": "message",
+        "text": "I want to back up everything I have on plex",
+        "user": "U15HSHSS2",
+        "ts": "1522092890.000421"
+    },
+    {
+        "type": "message",
+        "text": "I know I can just redownload it all over again",
+        "user": "U15HSHSS2",
+        "ts": "1522092899.000407"
+    },
+    {
+        "type": "message",
+        "text": "That's all replacable though.",
+        "user": "U15J5H60P",
+        "ts": "1522092900.000247"
+    },
+    {
+        "type": "message",
+        "text": "but I'd prefer not to",
+        "user": "U15HSHSS2",
+        "ts": "1522092907.000121"
+    },
+    {
+        "type": "message",
+        "text": "Downloading it all again will probably be just as fast as migrating data between HDDs lol",
+        "user": "U15J5H60P",
+        "ts": "1522092921.000316"
+    },
+    {
+        "type": "message",
+        "text": "That's not true",
+        "user": "U15J5H60P",
+        "ts": "1522092926.000149"
+    },
+    {
+        "type": "message",
+        "text": "But still",
+        "user": "U15J5H60P",
+        "ts": "1522092927.000308"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1522092928.000044"
+    },
+    {
+        "type": "message",
+        "text": "It's a bitch finding it all lol",
+        "user": "U15HSHSS2",
+        "ts": "1522092934.000331"
+    },
+    {
+        "type": "message",
+        "text": "You should just create a file full of trackers",
+        "user": "U15J5H60P",
+        "ts": "1522092940.000056"
+    },
+    {
+        "type": "message",
+        "text": "Then if something fails",
+        "user": "U15J5H60P",
+        "ts": "1522092942.000710"
+    },
+    {
+        "type": "message",
+        "text": "Automate the download",
+        "user": "U15J5H60P",
+        "ts": "1522092946.000488"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, I was looking into sonarr and radarr earlier",
+        "user": "U15HSHSS2",
+        "ts": "1522092962.000567"
+    },
+    {
+        "type": "message",
+        "text": "And some of the stuff i've downloaded isn't the best quality, cuz I downloaded it years ago, and ive tried to find better quality, and I can't even find the original anymore",
+        "user": "U15HSHSS2",
+        "ts": "1522093016.000362"
+    },
+    {
+        "type": "message",
+        "text": "It would just suck having like 20TB of shit gone and have to get it all back",
+        "user": "U15HSHSS2",
+        "ts": "1522093077.000121"
+    },
+    {
+        "type": "message",
+        "text": "I hear ya",
+        "user": "U15J5H60P",
+        "ts": "1522093616.000088"
+    },
+    {
+        "type": "message",
+        "text": "it would also suck having to spend $1000 to back up something that will probably never fail and is retrievable online even if it does...",
+        "user": "U15HSHSS2",
+        "ts": "1522093660.000506"
+    },
+    {
+        "type": "message",
+        "text": "New idea",
+        "user": "U15J5H60P",
+        "ts": "1522108005.000216"
+    },
+    {
+        "type": "message",
+        "text": "You have extra machines around right?",
+        "user": "U15J5H60P",
+        "ts": "1522108012.000237"
+    },
+    {
+        "client_msg_id": "0B944A13-8C58-4910-AA82-4260BC8CD3D6",
+        "type": "message",
+        "text": "A few yeah",
+        "user": "U15HSHSS2",
+        "ts": "1522108036.000271"
+    },
+    {
+        "type": "message",
+        "text": "Grab a few external harddrive enclousures for $20",
+        "user": "U15J5H60P",
+        "ts": "1522108050.000331"
+    },
+    {
+        "type": "message",
+        "text": "Hook those up to the spare machines",
+        "user": "U15J5H60P",
+        "ts": "1522108059.000340"
+    },
+    {
+        "type": "message",
+        "text": "Image the machines with FreeNAS",
+        "user": "U15J5H60P",
+        "ts": "1522108065.000325"
+    },
+    {
+        "type": "message",
+        "text": "Got your own custom NAS solution",
+        "user": "U15J5H60P",
+        "ts": "1522108112.000012"
+    },
+    {
+        "type": "message",
+        "text": "And it’ll probably be a better server than your Synology",
+        "user": "U15J5H60P",
+        "ts": "1522108124.000009"
+    },
+    {
+        "type": "message",
+        "text": "Ooooh",
+        "user": "U15J5H60P",
+        "ts": "1522108225.000334"
+    },
+    {
+        "type": "message",
+        "text": "You should start hoarding PC games next",
+        "user": "U15J5H60P",
+        "ts": "1522108231.000031"
+    },
+    {
+        "type": "message",
+        "text": "Or ROMs",
+        "user": "U15J5H60P",
+        "ts": "1522108237.000071"
+    },
+    {
+        "client_msg_id": "F93F2F36-9EA0-4590-A76F-F82A60D24734",
+        "type": "message",
+        "text": "Honestly I’d rather just buy an actual NAS and use that instead. All the machines I have laying around are kinda old, and I don’t actually use my current NAS as a server. I have a laptop I use as a Plex server and it gets the libraries from the NAS storage",
+        "user": "U15HSHSS2",
+        "ts": "1522108318.000254"
+    },
+    {
+        "type": "message",
+        "text": "Fair enough.",
+        "user": "U15J5H60P",
+        "ts": "1522108347.000295"
+    },
+    {
+        "client_msg_id": "4934FBE8-F834-4ED7-A615-6299779174D4",
+        "type": "message",
+        "text": "The $150 for another NAS isnt too bad. The price hit comes from the price of the damn hard drives...",
+        "user": "U15HSHSS2",
+        "ts": "1522108371.000234"
+    },
+    {
+        "type": "message",
+        "text": "HDDs are redic",
+        "user": "U15J5H60P",
+        "ts": "1522108382.000233"
+    },
+    {
+        "client_msg_id": "344429B1-5649-4531-855E-31153DCD5EC9",
+        "type": "message",
+        "text": "12TB is $500",
+        "user": "U15HSHSS2",
+        "ts": "1522108384.000130"
+    },
+    {
+        "type": "message",
+        "text": "Christ",
+        "user": "U15J5H60P",
+        "ts": "1522108387.000145"
+    },
+    {
+        "type": "message",
+        "text": "It’ll be $60 in 5 years. :joy:",
+        "user": "U15J5H60P",
+        "ts": "1522108395.000254"
+    },
+    {
+        "client_msg_id": "6693E9CE-4DD4-440C-98B3-00C369F84757",
+        "type": "message",
+        "text": "lol I know right",
+        "user": "U15HSHSS2",
+        "ts": "1522108408.000240"
+    },
+    {
+        "type": "message",
+        "text": "What’s your workflow when downloading things? Do you download it to your computer then move it over to your NAS? Or are you saving directly to your NAS?",
+        "user": "U15J5H60P",
+        "ts": "1522108609.000066"
+    },
+    {
+        "client_msg_id": "AB56DA33-B319-446A-A037-F228A798B6A9",
+        "type": "message",
+        "text": "I think I’m just gunna stick with my original plan... buy another 2bay synology and a 12TB hard drive. Use my current synology set up and my externals to back that 12TB up. Eventually (hopefully years and years from now) buy 3 more 12TBs, and have both synologys with 24TBs",
+        "user": "U15HSHSS2",
+        "ts": "1522108627.000200"
+    },
+    {
+        "client_msg_id": "313D6AC3-6C09-4C9E-8EF3-D0FADA6B250F",
+        "type": "message",
+        "text": "Computer then NAS",
+        "user": "U15HSHSS2",
+        "ts": "1522108646.000092"
+    },
+    {
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1522108670.000258"
+    },
+    {
+        "client_msg_id": "4DC36EA3-C9F7-49BB-8132-614ECC027DB3",
+        "type": "message",
+        "text": "I could just go straight to NAS but I usually need to change the file name, and then put it into the correct directory on the NAS if it’s a movie or an episode for a specific show",
+        "user": "U15HSHSS2",
+        "ts": "1522108699.000156"
+    },
+    {
+        "client_msg_id": "C676A1AB-DBBE-4783-BF03-E371D0EF7CA7",
+        "type": "message",
+        "text": "I wanna look into how Sonarr works",
+        "user": "U15HSHSS2",
+        "ts": "1522108721.000308"
+    },
+    {
+        "client_msg_id": "717A8855-DDC3-4150-9729-A6EB362422F3",
+        "type": "message",
+        "text": "It would be nice to automate everything",
+        "user": "U15HSHSS2",
+        "ts": "1522108729.000321"
+    },
+    {
+        "client_msg_id": "60E501BB-2BE8-4CDC-9050-0E0177A381A8",
+        "type": "message",
+        "text": "then in the long long run, if I fill up the 24 I’ll buy a 4 bay server and stick 4 12TBs in there and use the two 2bays as a backup for the 4bay",
+        "user": "U15HSHSS2",
+        "ts": "1522108822.000384"
+    },
+    {
+        "type": "message",
+        "text": "Yeah, if you get Sonarr up and running let me know. I don’t get it.",
+        "user": "U15J5H60P",
+        "ts": "1522108970.000247"
+    },
+    {
+        "client_msg_id": "777E3FF2-4B28-4321-8B6C-95153828DBE7",
+        "type": "message",
+        "text": "For 48TB of storage, and 48TB of backup lol 96TB total",
+        "user": "U15HSHSS2",
+        "ts": "1522108973.000035"
+    },
+    {
+        "type": "message",
+        "text": "lol That’s nuts",
+        "user": "U15J5H60P",
+        "ts": "1522108980.000074"
+    }
+]

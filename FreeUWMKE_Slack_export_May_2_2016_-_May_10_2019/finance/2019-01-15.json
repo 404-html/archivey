@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "text": "I love it when they raise subscription prices",
+        "files": [
+            {
+                "id": "FFF6M5BNK",
+                "created": 1547567830,
+                "timestamp": 1547567830,
+                "name": "File.jpg",
+                "title": "File from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 62920,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFF6M5BNK\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFF6M5BNK\/download\/file.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 252,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 336,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 504,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1142,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 672,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFF6M5BNK-81a6763b7e\/file_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 717,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1242,
+                "original_h": 1773,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FFF6M5BNK\/file.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFF6M5BNK-077d236977",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "ts": "1547567842.000100"
+    },
+    {
+        "client_msg_id": "3fa990fb-2a1f-48f2-ba30-7c61829a2840",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1547567851.000500"
+    },
+    {
+        "type": "message",
+        "text": "\/stocktopus APRN",
+        "user": "U15HRTAHL",
+        "ts": "1547567911.000600"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "```    Company       Current Price       Todays Change       Percent Change \n------------  ------------------  ------------------  -------------------\n       APRN                1.32                0.28               26.923 \n       Avg.                 ---                 ---              26.923% \n```\n<http:\/\/finviz.com\/chart.ashx?t=APRN&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l>",
+        "ts": "1547567911.000700",
+        "bot_id": "B6ZRQ5HL2",
+        "attachments": [
+            {
+                "fallback": "700x340px image",
+                "image_url": "http:\/\/finviz.com\/chart.ashx?t=APRN&ty=c&ta=1&p=d&s=l",
+                "image_width": 700,
+                "image_height": 340,
+                "image_bytes": 29789,
+                "from_url": "http:\/\/finviz.com\/chart.ashx?t=APRN&ty=c&ta=1&p=d&s=l",
+                "id": 1,
+                "original_url": "http:\/\/finviz.com\/chart.ashx?t=APRN&amp;ty=c&amp;ta=1&amp;p=d&amp;s=l"
+            }
+        ]
+    }
+]

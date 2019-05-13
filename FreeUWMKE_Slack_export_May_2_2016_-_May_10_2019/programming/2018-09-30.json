@@ -1,0 +1,465 @@
+[
+    {
+        "client_msg_id": "fa298c39-f872-44de-9e8e-4b538515f22f",
+        "type": "message",
+        "text": "<@U15HRTAHL> I need some help",
+        "user": "U15HY5TG8",
+        "ts": "1538344909.000100"
+    },
+    {
+        "client_msg_id": "89fab1d4-b35a-484b-90b3-4dacdc8b8a5d",
+        "type": "message",
+        "text": "What's up ",
+        "user": "U15HRTAHL",
+        "ts": "1538346672.000100"
+    },
+    {
+        "client_msg_id": "513c2997-35e7-4e7f-a47f-96b4cebfd45a",
+        "type": "message",
+        "text": "Angular?",
+        "user": "U15HRTAHL",
+        "ts": "1538346675.000100"
+    },
+    {
+        "client_msg_id": "601fe85f-2710-4a81-8d46-1373f2a7c98c",
+        "type": "message",
+        "text": "git",
+        "user": "U15HY5TG8",
+        "ts": "1538346727.000200"
+    },
+    {
+        "client_msg_id": "4fe42df6-4005-492d-a299-0cc6c61cbf88",
+        "type": "message",
+        "text": "i've got like a few files that have already been changed, and I added them to gitignore, but when committing, it still recognizes them as changed. However, I don't want to undo the changes to them",
+        "user": "U15HY5TG8",
+        "ts": "1538346832.000100"
+    },
+    {
+        "client_msg_id": "23F6AB16-2526-4B9E-86A9-8E5CC596E259",
+        "type": "message",
+        "text": "Is it recognizing the files as an update or a delete?",
+        "user": "U15J5H60P",
+        "ts": "1538346933.000100",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1538346949.000000"
+        }
+    },
+    {
+        "client_msg_id": "6971d515-1177-46fa-8e11-36c1f44590a9",
+        "type": "message",
+        "text": "update",
+        "user": "U15HY5TG8",
+        "ts": "1538346971.000100"
+    },
+    {
+        "client_msg_id": "F1067452-AF8D-4F63-9C96-BB613DBB6D16",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1538347031.000100"
+    },
+    {
+        "client_msg_id": "76B8440D-F8E2-413D-B965-D96133331B14",
+        "type": "message",
+        "text": "git rm filename",
+        "user": "U15J5H60P",
+        "ts": "1538347043.000100"
+    },
+    {
+        "client_msg_id": "24A8D25D-4A3F-4F1D-BBC6-D58A4D07DBBA",
+        "type": "message",
+        "text": "Removes it from git. Copy the file somewhere else real quick and try that",
+        "user": "U15J5H60P",
+        "ts": "1538347062.000100"
+    },
+    {
+        "client_msg_id": "47ab0ddf-e73c-42e3-bca5-f7a8bde118f1",
+        "type": "message",
+        "text": "I'm scared that'll remove it from prod though lol",
+        "user": "U15HY5TG8",
+        "ts": "1538347090.000100"
+    },
+    {
+        "client_msg_id": "64957B00-DE4C-4149-95A8-36FF31B1E0F0",
+        "type": "message",
+        "text": "It might lol",
+        "user": "U15J5H60P",
+        "ts": "1538347108.000100"
+    },
+    {
+        "client_msg_id": "4c96fba3-7a39-42e7-be96-f2813abe8b7f",
+        "type": "message",
+        "text": "Yeahhh so I'm not going to do that lol",
+        "user": "U15HY5TG8",
+        "ts": "1538347121.000100"
+    },
+    {
+        "client_msg_id": "096C2E02-40C3-4035-A98B-38FDF8386B95",
+        "type": "message",
+        "text": "Well push to a separate branch first",
+        "user": "U15J5H60P",
+        "ts": "1538347628.000200"
+    },
+    {
+        "client_msg_id": "4587E877-8693-4BA6-B83D-757AC85E041B",
+        "type": "message",
+        "text": "Take the file out of your gitignore as well, that's not what that's for",
+        "user": "U15J5H60P",
+        "ts": "1538347647.000100"
+    },
+    {
+        "client_msg_id": "9f290418-0e3b-4e98-bff9-48d122e94643",
+        "type": "message",
+        "text": "what do you mean that's not what that's for",
+        "user": "U15HY5TG8",
+        "ts": "1538347716.000100"
+    },
+    {
+        "client_msg_id": "E76EFE40-9F93-4A92-9E74-1E0FDDF3B18D",
+        "type": "message",
+        "text": "gitignore should be used for files you NEVER want to push. Not just files you're holding off on for now.",
+        "user": "U15J5H60P",
+        "ts": "1538347854.000100"
+    },
+    {
+        "client_msg_id": "168848eb-122b-4cf2-87ed-fbe35a5cd504",
+        "type": "message",
+        "text": "that's what I'm trying to set",
+        "user": "U15HY5TG8",
+        "ts": "1538347871.000100"
+    },
+    {
+        "client_msg_id": "17b26beb-7985-4a16-9680-d398f0eb2c8e",
+        "type": "message",
+        "text": "I don't want to push any of these files that I'm talking about",
+        "user": "U15HY5TG8",
+        "ts": "1538347895.000100"
+    },
+    {
+        "client_msg_id": "5E29FD49-CC91-4CAE-8185-2EE7F46474BC",
+        "type": "message",
+        "text": "But they're already in prod?",
+        "user": "U15J5H60P",
+        "ts": "1538347911.000100"
+    },
+    {
+        "client_msg_id": "94886004-d109-4746-b684-6aacd8a7539f",
+        "type": "message",
+        "text": "they're files that are generated locally when changes are made, and generated on prod when changes are pulled, so I don't want them committed but don't want them undone either",
+        "user": "U15HY5TG8",
+        "ts": "1538348014.000100"
+    },
+    {
+        "client_msg_id": "17211139-bf56-4b88-b47a-9c519c0173e2",
+        "type": "message",
+        "text": "and I don't want them accidentally committed",
+        "user": "U15HY5TG8",
+        "ts": "1538348022.000100"
+    },
+    {
+        "client_msg_id": "6726DA91-17EB-478D-9700-273F106FD671",
+        "type": "message",
+        "text": "Oh yeah, then just rm them from your project",
+        "user": "U15J5H60P",
+        "ts": "1538348054.000200"
+    },
+    {
+        "client_msg_id": "cc8c1e85-dc12-4f57-9a6b-6b20190254f6",
+        "type": "message",
+        "text": "Yes ",
+        "user": "U15HRTAHL",
+        "ts": "1538348060.000100"
+    },
+    {
+        "client_msg_id": "03EB6BD8-C268-409F-8F2F-B8AFBEC260FB",
+        "type": "message",
+        "text": "They'll be regenerated in prod",
+        "user": "U15J5H60P",
+        "ts": "1538348062.000200"
+    },
+    {
+        "client_msg_id": "FB455279-804B-4E2A-A470-7FEA58C36D8A",
+        "type": "message",
+        "text": "You just answered your own question. You must be thinking too hard lol",
+        "user": "U15J5H60P",
+        "ts": "1538348079.000100"
+    },
+    {
+        "client_msg_id": "e95c8dc5-f8fc-4962-a975-1c173676788e",
+        "type": "message",
+        "text": "I'm scared",
+        "user": "U15HY5TG8",
+        "ts": "1538348154.000100"
+    },
+    {
+        "client_msg_id": "B73D7405-4740-4F0C-BD85-8F20C11C3329",
+        "type": "message",
+        "text": "Unless I'm wrong. If I am let me know though. I'd like to understand your scenario better if I'm wrong.",
+        "user": "U15J5H60P",
+        "ts": "1538348165.000100"
+    },
+    {
+        "client_msg_id": "B71A13AB-7261-4556-91C1-36D0C9BF2F6B",
+        "type": "message",
+        "text": "Lol you'll be fine buddy",
+        "user": "U15J5H60P",
+        "ts": "1538348171.000100"
+    },
+    {
+        "client_msg_id": "3c7e10bd-f0ba-42a2-b819-25c726fd8458",
+        "type": "message",
+        "text": "I won't",
+        "user": "U15HY5TG8",
+        "ts": "1538348175.000100"
+    },
+    {
+        "client_msg_id": "3BED9303-3F44-46C5-AA72-5DA8D3335903",
+        "type": "message",
+        "text": "Just get ready to revert",
+        "user": "U15J5H60P",
+        "ts": "1538348175.000200"
+    },
+    {
+        "client_msg_id": "03a01f51-031f-46da-a598-445b0720f86d",
+        "type": "message",
+        "text": "It'll be over",
+        "user": "U15HY5TG8",
+        "ts": "1538348178.000100"
+    },
+    {
+        "client_msg_id": "c438ee53-3e1d-4934-8ac3-bf65d0013fc1",
+        "type": "message",
+        "text": "there is no revert",
+        "user": "U15HY5TG8",
+        "ts": "1538348181.000100"
+    },
+    {
+        "client_msg_id": "CD2A6CC7-59F4-4D51-8882-658E6FA027D0",
+        "type": "message",
+        "text": "YOLO Prod commit",
+        "user": "U15J5H60P",
+        "ts": "1538348185.000100"
+    },
+    {
+        "client_msg_id": "29415AD2-C53A-4C65-8A43-65EB954D5D5B",
+        "type": "message",
+        "text": "Push an old commit === revert",
+        "user": "U15J5H60P",
+        "ts": "1538348205.000100"
+    },
+    {
+        "client_msg_id": "781c1e94-874a-46c1-ab6f-1876d43d454e",
+        "type": "message",
+        "text": "ehhhh",
+        "user": "U15HY5TG8",
+        "ts": "1538348213.000100"
+    },
+    {
+        "client_msg_id": "0DC58D51-85F9-4F6A-8FF4-749D6A2099D5",
+        "type": "message",
+        "text": "Do y'all have a ci pipeline?",
+        "user": "U15J5H60P",
+        "ts": "1538348225.000100"
+    },
+    {
+        "client_msg_id": "9eecce69-4580-43b4-9cff-be346e6c3727",
+        "type": "message",
+        "text": "doubtful",
+        "user": "U15HY5TG8",
+        "ts": "1538348237.000100"
+    },
+    {
+        "client_msg_id": "f30964b5-050e-48f3-a069-50f998842d6b",
+        "type": "message",
+        "text": "idk what that even means really",
+        "user": "U15HY5TG8",
+        "ts": "1538348247.000100"
+    },
+    {
+        "client_msg_id": "490C50D9-2D20-427D-8E94-0DC15A41FBF0",
+        "type": "message",
+        "text": "Okie dokie. CI\/CD is amazing",
+        "user": "U15J5H60P",
+        "ts": "1538349553.000100"
+    },
+    {
+        "client_msg_id": "05384D0D-1C29-491B-9861-1B886F30FEB3",
+        "type": "message",
+        "text": "Ever heard of Travis CI?",
+        "user": "U15J5H60P",
+        "ts": "1538349566.000100"
+    },
+    {
+        "client_msg_id": "FBE1A712-3BC8-43AF-A394-2171B5C631DD",
+        "type": "message",
+        "text": "Or Jenkins?",
+        "user": "U15J5H60P",
+        "ts": "1538349572.000100"
+    },
+    {
+        "client_msg_id": "24612f0d-908a-42e4-a1d9-da2926fd0c93",
+        "type": "message",
+        "text": "I mean I know what it is, I just have no idea how to tell if it's setup or how it looks",
+        "user": "U15HY5TG8",
+        "ts": "1538349604.000100"
+    },
+    {
+        "client_msg_id": "EEA9F1F3-A0DB-46BA-BCC3-3061C7F8CE2D",
+        "type": "message",
+        "text": "Do you have any CI files in the root of your project?",
+        "user": "U15J5H60P",
+        "ts": "1538349636.000100"
+    },
+    {
+        "client_msg_id": "de5f96a4-842a-4922-ae70-8135eeacc2f5",
+        "type": "message",
+        "text": "ahh",
+        "user": "U15HY5TG8",
+        "ts": "1538349706.000100"
+    },
+    {
+        "client_msg_id": "7c292238-db1a-4d5f-89ab-2ec899c866bc",
+        "type": "message",
+        "text": "Yeah I have never seen any",
+        "user": "U15HY5TG8",
+        "ts": "1538349711.000100"
+    },
+    {
+        "client_msg_id": "1BFA590F-A5B7-4488-98FB-1694887E17D5",
+        "type": "message",
+        "text": "Dang",
+        "user": "U15J5H60P",
+        "ts": "1538349725.000100"
+    },
+    {
+        "client_msg_id": "92C0A1DA-9421-4476-8B7E-4A05179C3713",
+        "type": "message",
+        "text": "Yeah my coworker said this was never supposed to blow up like this",
+        "user": "U15HY5TG8",
+        "ts": "1538349918.000100"
+    },
+    {
+        "client_msg_id": "7b8f84a6-5598-4679-bd0f-947b4df4d9d4",
+        "type": "message",
+        "text": "programming pisses me off",
+        "user": "U15HY5TG8",
+        "ts": "1538350273.000100"
+    },
+    {
+        "client_msg_id": "e3d26c99-c1b1-4c1e-b646-5b20d3df76ad",
+        "type": "message",
+        "text": "why the fuck does this not format",
+        "user": "U15HY5TG8",
+        "ts": "1538350471.000100"
+    },
+    {
+        "client_msg_id": "ddec132c-0310-4634-9982-bc8d01059113",
+        "type": "message",
+        "text": "```&lt;th width=\"15%\"&gt;{{p.created_at | date: \"M\/d\/y\" }}&lt;\/th&gt;```",
+        "user": "U15HY5TG8",
+        "ts": "1538350480.000100",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1538350493.000000"
+        }
+    },
+    {
+        "client_msg_id": "AADB9C61-FA2B-457D-A5F4-49F1EB1CE9E8",
+        "type": "message",
+        "text": "What library are you using?",
+        "user": "U15J5H60P",
+        "ts": "1538350522.000100"
+    },
+    {
+        "client_msg_id": "6a48d2eb-b2bd-4cb1-b56f-e55d6fdd80f2",
+        "type": "message",
+        "text": "```created_at\n:\n\"2018-09-24 18:49:55\"```",
+        "user": "U15HY5TG8",
+        "ts": "1538350523.000100"
+    },
+    {
+        "client_msg_id": "4cf4b507-c4dc-468a-98ce-8952623eb601",
+        "type": "message",
+        "text": "it's just angular",
+        "user": "U15HY5TG8",
+        "ts": "1538350537.000100"
+    },
+    {
+        "client_msg_id": "7C85764F-86FC-42E0-A0F3-D042A6E7F3BE",
+        "type": "message",
+        "text": "MM\/dd\/yyyy",
+        "user": "U15J5H60P",
+        "ts": "1538350538.000100"
+    },
+    {
+        "client_msg_id": "2f14e738-7484-43aa-9797-3c3da7d29783",
+        "type": "message",
+        "text": "yeah you don't need to do that format",
+        "user": "U15HY5TG8",
+        "ts": "1538350552.000100"
+    },
+    {
+        "client_msg_id": "CB1398CB-B37E-4BDC-AA0C-BE23E8E5D6C8",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1538350565.000100"
+    },
+    {
+        "client_msg_id": "68f5e318-1163-4d69-a5e3-76d134d06537",
+        "type": "message",
+        "text": "The timestamp must be fucked up or something",
+        "user": "U15HY5TG8",
+        "ts": "1538350623.000100"
+    },
+    {
+        "client_msg_id": "A1CBCC0B-9C1E-4ADF-BC13-83E5CB506DD1",
+        "type": "message",
+        "text": "Did you try debugging yet",
+        "user": "U15J5H60P",
+        "ts": "1538350801.000100"
+    },
+    {
+        "client_msg_id": "9FEB927F-9613-4C56-B80A-83147DFE4914",
+        "type": "message",
+        "text": "Let's go to up down to figure it out",
+        "user": "U15J5H60P",
+        "ts": "1538350808.000100"
+    },
+    {
+        "client_msg_id": "94be3bd0-8de0-4e5a-a20e-f55ae2e02372",
+        "type": "message",
+        "text": "it's gotta be the timestamp. It's missing the T and the timezone offset",
+        "user": "U15HY5TG8",
+        "ts": "1538350849.000200"
+    },
+    {
+        "client_msg_id": "70FA18E5-6F9D-4F58-B340-12E0F0FFB2F4",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1538350863.000100"
+    },
+    {
+        "client_msg_id": "77102a41-766c-47fc-90fc-f1e926cab337",
+        "type": "message",
+        "text": "and it's shit out, not feeling updown",
+        "user": "U15HY5TG8",
+        "ts": "1538350914.000100"
+    },
+    {
+        "client_msg_id": "BDA1B34D-66F3-4DB9-8B8E-6A9B14296A51",
+        "type": "message",
+        "text": "I was joking. Lol",
+        "user": "U15J5H60P",
+        "ts": "1538350941.000100"
+    },
+    {
+        "client_msg_id": "22b58404-dd35-4534-b14e-9e4b496ebdaf",
+        "type": "message",
+        "text": "I could use their pizza though",
+        "user": "U15HY5TG8",
+        "ts": "1538350949.000200"
+    }
+]

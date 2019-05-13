@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "091f1bef-754a-4f3e-add0-6ed38d41a4d1",
+        "type": "message",
+        "text": "<@U15J5H60P> <https:\/\/www.youtube.com\/watch?v=RTZdzFCmIgs>",
+        "user": "U15HRTAHL",
+        "ts": "1552314456.000300",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Tesla and Elon Musk - the future of electric cars | DW Documentary",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=RTZdzFCmIgs",
+                "author_name": "DW Documentary",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCW39zufHfsuGgpLviKh297Q",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/RTZdzFCmIgs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Tesla and Elon Musk - the future of electric cars | DW Documentary",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/RTZdzFCmIgs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=RTZdzFCmIgs",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=RTZdzFCmIgs"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d1b099c-12bb-4762-916d-7b1f36264e84",
+        "type": "message",
+        "text": "you might like that",
+        "user": "U15HRTAHL",
+        "ts": "1552314463.000600"
+    }
+]

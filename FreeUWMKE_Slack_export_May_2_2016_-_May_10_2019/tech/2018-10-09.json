@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "07dd5197-5662-47a8-90e2-b38728bd1d22",
+        "type": "message",
+        "text": "that pixel 3 event was lame as shit",
+        "user": "U15HRTAHL",
+        "ts": "1539102604.000100"
+    },
+    {
+        "client_msg_id": "d5988e10-b3a6-40be-8cee-6b8bf7fbcb65",
+        "type": "message",
+        "text": "“You guys already know everything”",
+        "user": "U15HRTAHL",
+        "ts": "1539102615.000100"
+    },
+    {
+        "client_msg_id": "d36f5e90-cf11-4a2a-9c47-fb8c9d4db6fc",
+        "type": "message",
+        "text": "is essentially what it was",
+        "user": "U15HRTAHL",
+        "ts": "1539102620.000100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HZ01QX",
+        "ts": "1539102659.000100",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/NyrOYfZlUSLCw",
+                "image_url": "https:\/\/media0.giphy.com\/media\/NyrOYfZlUSLCw\/giphy-downsized.gif?cid=6104955e5bbcd7bc6d50527849db79b2",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 827271,
+                "is_animated": true,
+                "title": "fax",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/NyrOYfZlUSLCw"
+            }
+        ]
+    }
+]

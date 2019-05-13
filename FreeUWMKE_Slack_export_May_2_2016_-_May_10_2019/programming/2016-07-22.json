@@ -1,0 +1,143 @@
+[
+    {
+        "type": "message",
+        "text": "How the fuck do you compare a nullable&lt;int&gt; to an int....ive tried every possible way and get an error each time",
+        "user": "U15HY5TG8",
+        "ts": "1469210914.000002"
+    },
+    {
+        "type": "message",
+        "text": "get the value",
+        "user": "U15HRTAHL",
+        "ts": "1469211100.000003"
+    },
+    {
+        "type": "message",
+        "text": "then compare the values",
+        "user": "U15HRTAHL",
+        "ts": "1469211104.000004"
+    },
+    {
+        "type": "message",
+        "text": "num.getValueOrDefault",
+        "user": "U15HRTAHL",
+        "ts": "1469211115.000005"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/msdn.microsoft.com\/en-us\/library\/1t3y8s4s.aspx>",
+        "user": "U15HRTAHL",
+        "ts": "1469211135.000006"
+    },
+    {
+        "type": "message",
+        "text": "Yesssss getvalueordefault. I was on the using nullable types page before and wasnt seeing this method",
+        "user": "U15HY5TG8",
+        "ts": "1469211350.000007"
+    },
+    {
+        "type": "message",
+        "text": "Thanks ",
+        "user": "U15HY5TG8",
+        "ts": "1469211352.000008"
+    },
+    {
+        "type": "message",
+        "text": "How do you guys connect your backend and front end?",
+        "user": "U15HRTAHL",
+        "ts": "1469217208.000009"
+    },
+    {
+        "type": "message",
+        "text": "Working on unit tests for that right now actually.",
+        "user": "U15HY5TG8",
+        "ts": "1469217241.000010"
+    },
+    {
+        "type": "message",
+        "text": "We have the database-&gt; EFModel--&gt;Automapper-&gt;Model",
+        "user": "U15HY5TG8",
+        "ts": "1469217291.000011"
+    },
+    {
+        "type": "message",
+        "text": "so in your javascript what would you do to call a method in some c# class?",
+        "user": "U15HRTAHL",
+        "ts": "1469217325.000012"
+    },
+    {
+        "type": "message",
+        "text": "I dont even see any calls to the c# classes lol",
+        "user": "U15HY5TG8",
+        "ts": "1469217524.000013"
+    },
+    {
+        "type": "message",
+        "text": "What queries your database then?",
+        "user": "U15HRTAHL",
+        "ts": "1469217577.000014"
+    },
+    {
+        "type": "message",
+        "text": "Idk what to look for when answering that",
+        "user": "U15HY5TG8",
+        "ts": "1469217692.000015"
+    },
+    {
+        "type": "message",
+        "text": "usually you have a  javascript callout to some c# class that manipulates the database",
+        "user": "U15HRTAHL",
+        "ts": "1469217737.000016"
+    },
+    {
+        "type": "message",
+        "text": "thats the basics of MVC",
+        "user": "U15HRTAHL",
+        "ts": "1469217879.000017"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HSHSS2>: How do you guys connect backend and front end stuff?",
+        "user": "U15HRTAHL",
+        "ts": "1469217894.000018"
+    },
+    {
+        "type": "message",
+        "text": "Ik but i dont see how they do it",
+        "user": "U15HY5TG8",
+        "ts": "1469217914.000019"
+    },
+    {
+        "type": "message",
+        "text": "<!channel>: This is fucking cool",
+        "user": "U15HRTAHL",
+        "ts": "1469218905.000020"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/stackoverflow.com\/documentation>",
+        "user": "U15HRTAHL",
+        "ts": "1469218906.000021",
+        "attachments": [
+            {
+                "title": "Documentation",
+                "title_link": "http:\/\/stackoverflow.com\/documentation",
+                "text": "Q&amp;A for professional and enthusiast programmers",
+                "fallback": "Documentation",
+                "thumb_url": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/apple-touch-icon@2.png?v=73d79a89bded&a",
+                "from_url": "http:\/\/stackoverflow.com\/documentation",
+                "thumb_width": 316,
+                "thumb_height": 316,
+                "service_icon": "http:\/\/cdn.sstatic.net\/Sites\/stackoverflow\/img\/favicon.ico?v=4f32ecc8f43d",
+                "service_name": "stackoverflow.com",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Noice",
+        "user": "U15HY5TG8",
+        "ts": "1469218949.000023"
+    }
+]

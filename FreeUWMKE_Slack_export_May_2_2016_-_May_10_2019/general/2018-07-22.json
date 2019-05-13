@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "463E4053-F18A-4DA0-A07E-DFA78739C71A",
+        "type": "message",
+        "text": "Whaaaaaat",
+        "user": "U15HY5TG8",
+        "ts": "1532262182.000035"
+    },
+    {
+        "client_msg_id": "BC96869E-D04C-4BA5-AAC7-4D27EAD92084",
+        "type": "message",
+        "text": "My washer literally tore my bathroom rug to shreds",
+        "user": "U15HY5TG8",
+        "ts": "1532277618.000030"
+    },
+    {
+        "client_msg_id": "B7658027-35E2-40CE-A86B-E8132BF33AF9",
+        "type": "message",
+        "text": "Noooooo",
+        "user": "U15J5H60P",
+        "ts": "1532277627.000043"
+    },
+    {
+        "client_msg_id": "4B161FF8-2BD1-43E9-8D5F-7F295C3D53C5",
+        "type": "message",
+        "text": "Now i will continue looking like a pleb without a rug and shower curtain",
+        "user": "U15HY5TG8",
+        "ts": "1532277652.000042"
+    },
+    {
+        "client_msg_id": "b6afb173-2609-4b5b-972e-fb34aaec9a86",
+        "type": "message",
+        "text": "<https:\/\/youtu.be\/dNF6sVurAuI>",
+        "user": "U15HRTAHL",
+        "ts": "1532288099.000043",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Break with Michelle Wolf | ICE IS | Netflix",
+                "title_link": "https:\/\/youtu.be\/dNF6sVurAuI",
+                "author_name": "Netflix",
+                "author_link": "https:\/\/www.youtube.com\/user\/NewOnNetflix",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dNF6sVurAuI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Break with Michelle Wolf | ICE IS | Netflix",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/dNF6sVurAuI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/dNF6sVurAuI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/dNF6sVurAuI"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e468ebb8-399e-453a-9d4a-73c54ff99e44",
+        "type": "message",
+        "text": "This is hilarious",
+        "user": "U15HRTAHL",
+        "ts": "1532288104.000057"
+    },
+    {
+        "client_msg_id": "D6FAEAD0-C5EB-42B2-8A83-287C0FE8768D",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1532288290.000044"
+    },
+    {
+        "client_msg_id": "2ccf6a89-bc42-4068-87c4-aed5e7a78d70",
+        "type": "message",
+        "text": "<@U15HY5TG8> were there less planes today than yesterday?",
+        "user": "U15HRTAHL",
+        "ts": "1532292956.000041"
+    },
+    {
+        "client_msg_id": "1B6035A1-C225-4139-BAB8-05726DE1438C",
+        "type": "message",
+        "text": "I didnt end up going to watch unfortunately",
+        "user": "U15HY5TG8",
+        "ts": "1532293350.000005"
+    },
+    {
+        "client_msg_id": "A202F7CA-78CF-45E3-A73D-5628DC497BD5",
+        "type": "message",
+        "text": "Andrew",
+        "user": "U15HZ01QX",
+        "ts": "1532305097.000037"
+    }
+]

@@ -1,0 +1,338 @@
+[
+    {
+        "type": "message",
+        "text": "Do you guys ever have days where you have nothing to do?",
+        "user": "U15HRTAHL",
+        "ts": "1518713829.000304"
+    },
+    {
+        "type": "message",
+        "text": "Yupp",
+        "user": "U15HSHSS2",
+        "ts": "1518714012.001036"
+    },
+    {
+        "type": "message",
+        "text": "We just did our push to staging too so the last few days I’ve had nothing",
+        "user": "U15HSHSS2",
+        "ts": "1518714043.000143"
+    },
+    {
+        "type": "message",
+        "text": "Yeah and then i have days like today where im learning mvc all in one day",
+        "user": "U15HY5TG8",
+        "ts": "1518714058.000124"
+    },
+    {
+        "type": "message",
+        "text": "What do you guys do with nothing to do?",
+        "user": "U15HRTAHL",
+        "ts": "1518714096.000538",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1518714107.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Pluralsight",
+        "user": "U15HY5TG8",
+        "ts": "1518714109.000842"
+    },
+    {
+        "type": "message",
+        "text": "Reddit, YouTube, Twitch",
+        "user": "U15HSHSS2",
+        "ts": "1518714134.000070"
+    },
+    {
+        "type": "message",
+        "text": "im gonna download visual studio and make an entity app so I can put that on my resume",
+        "user": "U15HRTAHL",
+        "ts": "1518714255.000520"
+    },
+    {
+        "type": "message",
+        "text": "What’s an entity app?",
+        "user": "U15HSHSS2",
+        "ts": "1518714322.000878"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/msdn.microsoft.com\/en-us\/library\/aa937723(v=vs.113).aspx>",
+        "user": "U15HRTAHL",
+        "ts": "1518714376.000693"
+    },
+    {
+        "type": "message",
+        "text": "idk if I can do programming for the rest of my life lol",
+        "user": "U15HRTAHL",
+        "ts": "1518718808.000631"
+    },
+    {
+        "type": "message",
+        "text": "Im doing some codefights",
+        "user": "U15HRTAHL",
+        "ts": "1518719360.000816"
+    },
+    {
+        "type": "message",
+        "text": "Lol why?",
+        "user": "U15HY5TG8",
+        "ts": "1518720779.000669"
+    },
+    {
+        "type": "message",
+        "text": "To me the reason I was attracted to it was because it was mysterious. Like how does software work? Now that I do it for a living it's lost its mysticism",
+        "user": "U15HRTAHL",
+        "ts": "1518721125.000728"
+    },
+    {
+        "type": "message",
+        "text": "I got into it because you can always make something and because its something that blows other peoples minds",
+        "user": "U15HY5TG8",
+        "ts": "1518721168.000449"
+    },
+    {
+        "type": "message",
+        "text": "I broke code fights",
+        "user": "U15HRTAHL",
+        "ts": "1518724061.000396"
+    },
+    {
+        "type": "message",
+        "text": "The hell did ya do that for?",
+        "user": "U15HY5TG8",
+        "ts": "1518725568.000185"
+    },
+    {
+        "type": "message",
+        "text": "Didn't you want to be a history teacher?",
+        "user": "U15J5H60P",
+        "ts": "1518729332.000217"
+    },
+    {
+        "type": "message",
+        "text": "hell no",
+        "user": "U15HRTAHL",
+        "ts": "1518731051.000125",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1518731053.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Not a teacher",
+        "user": "U15HRTAHL",
+        "ts": "1518731063.000051"
+    },
+    {
+        "type": "message",
+        "text": "study history but not a teacher",
+        "user": "U15HRTAHL",
+        "ts": "1518731068.000390"
+    },
+    {
+        "type": "message",
+        "text": "how do i make text italics based on if a property is true or not",
+        "user": "U15HY5TG8",
+        "ts": "1518731764.000026"
+    },
+    {
+        "type": "message",
+        "text": "ex: i have the attribute Catalog.SPecialFlag. I only want to display it in italics if its not true",
+        "user": "U15HY5TG8",
+        "ts": "1518731842.000277"
+    },
+    {
+        "type": "message",
+        "text": "ng-class",
+        "user": "U15HRTAHL",
+        "ts": "1518733119.000071"
+    },
+    {
+        "type": "message",
+        "text": "so can i do something like ng-class=\"{{!Catalog.SpecialFlag}} : cssClass\"?",
+        "user": "U15HY5TG8",
+        "ts": "1518733162.000532",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1518733179.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "this is an example of where I'm using it",
+        "user": "U15HRTAHL",
+        "ts": "1518733179.000075"
+    },
+    {
+        "type": "message",
+        "text": "```\nng-class=\"{'future-radio': selectedEligibility.background == 'blue', 'disabled-radio': selectedEligibility.background != 'blue'}\"\n```",
+        "user": "U15HRTAHL",
+        "ts": "1518733182.000392"
+    },
+    {
+        "type": "message",
+        "text": "so i dont need the brackets in this case",
+        "user": "U15HY5TG8",
+        "ts": "1518733199.000458"
+    },
+    {
+        "type": "message",
+        "text": "future-radio, disabled-radio are css classes",
+        "user": "U15HRTAHL",
+        "ts": "1518733207.000521"
+    },
+    {
+        "type": "message",
+        "text": "class : condition",
+        "user": "U15HRTAHL",
+        "ts": "1518733215.000529"
+    },
+    {
+        "type": "message",
+        "text": "i totally meant to put it in that order",
+        "user": "U15HY5TG8",
+        "ts": "1518733245.000537"
+    },
+    {
+        "type": "message",
+        "text": "but gotcha, thanks!",
+        "user": "U15HY5TG8",
+        "ts": "1518733259.000073"
+    },
+    {
+        "type": "message",
+        "text": "i love angular",
+        "user": "U15HRTAHL",
+        "ts": "1518733261.000423"
+    },
+    {
+        "type": "message",
+        "text": "it's so easy and doesn't get in the way",
+        "user": "U15HRTAHL",
+        "ts": "1518733270.000073"
+    },
+    {
+        "type": "message",
+        "text": "react is cool, but I feel like you're kind of stuck in their framework",
+        "user": "U15HRTAHL",
+        "ts": "1518733283.000266"
+    },
+    {
+        "type": "message",
+        "text": "cause of components?",
+        "user": "U15HY5TG8",
+        "ts": "1518733304.000220"
+    },
+    {
+        "type": "message",
+        "text": "yeah and the state system",
+        "user": "U15HRTAHL",
+        "ts": "1518733382.000355"
+    },
+    {
+        "type": "message",
+        "text": "State?",
+        "user": "U15HY5TG8",
+        "ts": "1518733398.000301"
+    },
+    {
+        "type": "message",
+        "text": "As in like state.loading, for example?",
+        "user": "U15HY5TG8",
+        "ts": "1518733426.000216"
+    },
+    {
+        "type": "message",
+        "text": "Yeah there's states and props",
+        "user": "U15HRTAHL",
+        "ts": "1518733463.000007"
+    },
+    {
+        "type": "message",
+        "text": "State is internal for the component and can't be seen by other components",
+        "user": "U15HRTAHL",
+        "ts": "1518733511.000542"
+    },
+    {
+        "type": "message",
+        "text": "a lot of people don't like that",
+        "user": "U15HRTAHL",
+        "ts": "1518733517.000372"
+    },
+    {
+        "type": "message",
+        "text": "so there's a 3rd party add on people used called redux which  makes state global",
+        "user": "U15HRTAHL",
+        "ts": "1518733534.000597"
+    },
+    {
+        "type": "message",
+        "text": "ahhh ok gotcha",
+        "user": "U15HY5TG8",
+        "ts": "1518733947.000494"
+    },
+    {
+        "type": "message",
+        "text": "so im trying out that Most_recent thing yesterday and it seems to not work",
+        "user": "U15HY5TG8",
+        "ts": "1518734462.000330"
+    },
+    {
+        "type": "message",
+        "text": "I thought it did work",
+        "user": "U15HRTAHL",
+        "ts": "1518734698.000027"
+    },
+    {
+        "type": "message",
+        "text": "seems i lied",
+        "user": "U15HY5TG8",
+        "ts": "1518734806.000108"
+    },
+    {
+        "type": "message",
+        "text": "it",
+        "user": "U15HRTAHL",
+        "ts": "1518734839.000247"
+    },
+    {
+        "type": "message",
+        "text": "it's probably the logic thats wrong",
+        "user": "U15HRTAHL",
+        "ts": "1518734849.000064"
+    },
+    {
+        "type": "message",
+        "text": "just gotta fiddle with it",
+        "user": "U15HRTAHL",
+        "ts": "1518734854.000237"
+    },
+    {
+        "type": "message",
+        "text": "Yea its really weird. Ill return the array descending and then it goes through that foreach and reverses the order and then shows the icon on the wrong one lol",
+        "user": "U15HY5TG8",
+        "ts": "1518736997.000302"
+    },
+    {
+        "type": "message",
+        "text": "Fuck yeaaaaa i got it",
+        "user": "U15HY5TG8",
+        "ts": "1518740684.000061"
+    },
+    {
+        "type": "message",
+        "text": "my python script and crontab are doin work!",
+        "user": "U15HY5TG8",
+        "ts": "1518749613.000205"
+    },
+    {
+        "type": "message",
+        "text": "noiceeee",
+        "user": "U15HRTAHL",
+        "ts": "1518751652.000162"
+    }
+]

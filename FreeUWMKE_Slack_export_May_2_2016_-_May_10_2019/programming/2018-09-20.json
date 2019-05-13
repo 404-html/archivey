@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "7af82614-2c2c-4de4-8699-7e5f3e58a36d",
+        "type": "message",
+        "text": "that’s funny but I still don’t see how var is the issue",
+        "user": "U15HRTAHL",
+        "ts": "1537454038.000100"
+    },
+    {
+        "client_msg_id": "22920473-3d77-4406-9e93-e83d38a597aa",
+        "type": "message",
+        "text": "yes you can assign it to a last for the compile check",
+        "user": "U15HRTAHL",
+        "ts": "1537454050.000200"
+    },
+    {
+        "client_msg_id": "aa5570c3-1040-425a-8b10-8bb6b8304e93",
+        "type": "message",
+        "text": "but the bigger issue is people are idiots",
+        "user": "U15HRTAHL",
+        "ts": "1537454058.000100"
+    },
+    {
+        "client_msg_id": "7A7A838D-771B-4D8A-9AAA-3424E664C68D",
+        "type": "message",
+        "text": "Its because using var is just irresponsible. Make it a list&lt;object&gt; so you at least know that its going to return an entity",
+        "user": "U15HY5TG8",
+        "ts": "1537454127.000100"
+    },
+    {
+        "client_msg_id": "4f231b65-f056-480d-bdd7-eba055809e24",
+        "type": "message",
+        "text": "You should tell the person that there's a better way to do it. Sounds like a good learning experience.",
+        "user": "U15J5H60P",
+        "ts": "1537454167.000100"
+    },
+    {
+        "client_msg_id": "5DDB06D4-51ED-4357-947A-2303E08EFB34",
+        "type": "message",
+        "text": "Pointless now. Theyre working on performance in a different team",
+        "user": "U15HY5TG8",
+        "ts": "1537454219.000100"
+    },
+    {
+        "client_msg_id": "b0077f46-6ebf-430a-9aac-8ec87d57abc3",
+        "type": "message",
+        "text": "Gotcha",
+        "user": "U15J5H60P",
+        "ts": "1537454226.000100"
+    },
+    {
+        "client_msg_id": "eb652640-1c3b-4ce3-bef2-9ebd3b178317",
+        "type": "message",
+        "text": "<https:\/\/i.imgur.com\/P2Eooz6.jpg>",
+        "user": "U15HSHSS2",
+        "ts": "1537458320.000100",
+        "attachments": [
+            {
+                "fallback": "640x1136px image",
+                "image_url": "https:\/\/i.imgur.com\/P2Eooz6.jpg",
+                "image_width": 640,
+                "image_height": 1136,
+                "image_bytes": 54542,
+                "from_url": "https:\/\/i.imgur.com\/P2Eooz6.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.imgur.com\/P2Eooz6.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "99ffdb26-582c-4eb8-8de0-f6b622df462e",
+        "type": "message",
+        "text": "lmaoooo",
+        "user": "U15J5H60P",
+        "ts": "1537458330.000100"
+    },
+    {
+        "client_msg_id": "50806bdf-f3d9-4f4c-9c0b-ba9990831dcb",
+        "type": "message",
+        "text": "sending test notifications on the wrong environment lol",
+        "user": "U15HSHSS2",
+        "ts": "1537458331.000100"
+    },
+    {
+        "client_msg_id": "4601f2ed-a93b-4d23-9205-dd3c3a1b98dd",
+        "type": "message",
+        "text": "At least it wasn't something vulgar",
+        "user": "U15J5H60P",
+        "ts": "1537458348.000200"
+    },
+    {
+        "client_msg_id": "4524ab4c-efe3-46c7-a043-3d502bf9106f",
+        "type": "message",
+        "text": "\"Is this shit ass working?\"",
+        "user": "U15J5H60P",
+        "ts": "1537458364.000100"
+    },
+    {
+        "client_msg_id": "22ce0f70-27d0-4d5e-aafc-29202d614bd4",
+        "type": "message",
+        "text": "<https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/9hdm5k\/weird_bug\/>",
+        "user": "U15HSHSS2",
+        "ts": "1537458375.000100",
+        "attachments": [
+            {
+                "service_name": "reddit",
+                "title": "r\/ProgrammerHumor - Weird bug",
+                "title_link": "https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/9hdm5k\/weird_bug\/",
+                "text": "3,318 votes and 118 comments so far on Reddit",
+                "fallback": "reddit: r\/ProgrammerHumor - Weird bug",
+                "thumb_url": "https:\/\/i.redditmedia.com\/Bpzk882wz_6RsajXKnu1AH5K3xrl8MWcI0z-j_GTZU8.jpg?s=72614de6edd9a6c963ba35098977a716",
+                "from_url": "https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/9hdm5k\/weird_bug\/",
+                "thumb_width": 640,
+                "thumb_height": 1136,
+                "service_icon": "https:\/\/www.redditstatic.com\/desktop2x\/img\/favicon\/apple-icon-57x57.png",
+                "id": 1,
+                "original_url": "https:\/\/www.reddit.com\/r\/ProgrammerHumor\/comments\/9hdm5k\/weird_bug\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aa9a4d4d-4375-42dc-9300-8396b1615ba8",
+        "type": "message",
+        "text": "&gt; better than \"fucking test message 14\"",
+        "user": "U15J5H60P",
+        "ts": "1537458391.000100"
+    },
+    {
+        "client_msg_id": "3f718cad-cd36-46cb-be6f-ea7414a0dd0c",
+        "type": "message",
+        "text": ":joy:",
+        "user": "U15J5H60P",
+        "ts": "1537458393.000100"
+    },
+    {
+        "client_msg_id": "2d212db9-121e-4735-80ba-f0dd1981f572",
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HSHSS2",
+        "ts": "1537458406.000100"
+    },
+    {
+        "client_msg_id": "3B3BBDFA-FB9E-45CA-9F3C-495F4AEA8A4E",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1537461200.000100"
+    }
+]

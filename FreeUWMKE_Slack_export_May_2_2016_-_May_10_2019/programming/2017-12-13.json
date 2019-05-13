@@ -1,0 +1,114 @@
+[
+    {
+        "type": "message",
+        "text": "the book or clean code?",
+        "user": "U15HRTAHL",
+        "ts": "1513177783.000386"
+    },
+    {
+        "type": "message",
+        "text": "The book",
+        "user": "U15J5H60P",
+        "ts": "1513177787.000015"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1513177789.000615"
+    },
+    {
+        "type": "message",
+        "text": "why?",
+        "user": "U15HRTAHL",
+        "ts": "1513177790.000590"
+    },
+    {
+        "type": "message",
+        "text": "It's one of the most popular dev books out there apparently. Sold 130,000 copies.",
+        "user": "U15J5H60P",
+        "ts": "1513177809.000520"
+    },
+    {
+        "type": "message",
+        "text": "I didn't realize it, but for the past 2 weeks we've been in a workshop. With one of the authors of it.",
+        "user": "U15J5H60P",
+        "ts": "1513177839.000521"
+    },
+    {
+        "type": "message",
+        "text": "He didn't mention it.",
+        "user": "U15J5H60P",
+        "ts": "1513177849.000007"
+    },
+    {
+        "type": "message",
+        "text": "We were talking about books and I mentioned it.",
+        "user": "U15J5H60P",
+        "ts": "1513177856.000246"
+    },
+    {
+        "type": "message",
+        "text": "Then he's like, \"Oh yeah. I wrote a few chapters in that book.\"",
+        "user": "U15J5H60P",
+        "ts": "1513177872.000278"
+    },
+    {
+        "type": "message",
+        "text": "ha thats awesome",
+        "user": "U15HRTAHL",
+        "ts": "1513178386.000898"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/imagery.pragprog.com\/products\/59\/tpp.jpg?1339433898>",
+        "user": "U15HRTAHL",
+        "ts": "1513178428.000254",
+        "attachments": [
+            {
+                "fallback": "2200x2800px image",
+                "image_url": "https:\/\/imagery.pragprog.com\/products\/59\/tpp.jpg?1339433898",
+                "image_width": 2200,
+                "image_height": 2800,
+                "image_bytes": 872864,
+                "from_url": "https:\/\/imagery.pragprog.com\/products\/59\/tpp.jpg?1339433898",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I have that book",
+        "user": "U15HRTAHL",
+        "ts": "1513178433.000488"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.learnbymarketing.com\/wp-content\/uploads\/2016\/09\/clean-code-pragmatic-programmer.png>",
+        "user": "U15HRTAHL",
+        "ts": "1513178449.000991",
+        "attachments": [
+            {
+                "fallback": "500x367px image",
+                "image_url": "http:\/\/www.learnbymarketing.com\/wp-content\/uploads\/2016\/09\/clean-code-pragmatic-programmer.png",
+                "image_width": 500,
+                "image_height": 367,
+                "image_bytes": 333558,
+                "from_url": "http:\/\/www.learnbymarketing.com\/wp-content\/uploads\/2016\/09\/clean-code-pragmatic-programmer.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1513179023.000572"
+    },
+    {
+        "type": "message",
+        "text": "Niiice",
+        "user": "U15HY5TG8",
+        "ts": "1513196092.000302"
+    }
+]

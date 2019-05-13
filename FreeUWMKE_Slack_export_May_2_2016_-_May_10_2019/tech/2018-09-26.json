@@ -1,0 +1,89 @@
+[
+    {
+        "client_msg_id": "c183cccc-47e1-449a-a158-2d8904fdfd2d",
+        "type": "message",
+        "text": "Anyone see the new Oculus?",
+        "user": "U15J5H60P",
+        "ts": "1538004837.000100"
+    },
+    {
+        "client_msg_id": "7bac4e84-33bf-4a83-83ae-a9e392bc493f",
+        "type": "message",
+        "text": "“Oculus Quest”",
+        "user": "U15J5H60P",
+        "ts": "1538004845.000100"
+    },
+    {
+        "client_msg_id": "260959a5-97f7-40d2-a995-2917c692f2ab",
+        "type": "message",
+        "text": "looks pretty sweet",
+        "user": "U15J5H60P",
+        "ts": "1538004849.000100"
+    },
+    {
+        "client_msg_id": "b9f3561a-d8ea-44ec-b979-6908a757c81b",
+        "type": "message",
+        "text": "<https:\/\/www.oculus.com\/quest\/?gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSlwAljxCMTDHbZRhli1lOgDQUwbgxEG4MW_g16WeK8aHwM1_D-ASgaAkGPEALw_wcB>",
+        "user": "U15J5H60P",
+        "ts": "1538004857.000200",
+        "attachments": [
+            {
+                "title": "Oculus Quest | Oculus",
+                "title_link": "https:\/\/www.oculus.com\/quest\/?gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSlwAljxCMTDHbZRhli1lOgDQUwbgxEG4MW_g16WeK8aHwM1_D-ASgaAkGPEALw_wcB",
+                "text": "Oculus Quest is the first all-in-one gaming system for virtual reality. Now you can play almost anywhere with just a VR headset and controllers.",
+                "fallback": "Oculus Quest | Oculus",
+                "image_url": "https:\/\/scontent-iad3-1.xx.fbcdn.net\/v\/t39.2365-6\/42446102_282193532616196_6738282978473934848_n.jpg?_nc_cat=1&oh=763b39731066faf6cd987b4058cc59a2&oe=5C25A072",
+                "from_url": "https:\/\/www.oculus.com\/quest\/?gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSlwAljxCMTDHbZRhli1lOgDQUwbgxEG4MW_g16WeK8aHwM1_D-ASgaAkGPEALw_wcB",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 78058,
+                "service_icon": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v3\/yL\/r\/BLkhXH1YUvV.png",
+                "service_name": "oculus.com",
+                "id": 1,
+                "original_url": "https:\/\/www.oculus.com\/quest\/?gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSlwAljxCMTDHbZRhli1lOgDQUwbgxEG4MW_g16WeK8aHwM1_D-ASgaAkGPEALw_wcB"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0dda257f-c975-4f9a-b279-2af99962f33a",
+        "type": "message",
+        "text": "I hope I can play Beat Saber on it",
+        "user": "U15J5H60P",
+        "ts": "1538004953.000100"
+    },
+    {
+        "client_msg_id": "9ae4c66d-c674-49f1-9007-a5061d88c36c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?time_continue=53&amp;v=3gqbubA6oqY>",
+        "user": "U15J5H60P",
+        "ts": "1538005036.000200",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Vader Immortal: A Star Wars VR Series - Episode I - Official Teaser",
+                "title_link": "https:\/\/www.youtube.com\/watch?time_continue=53&amp;v=3gqbubA6oqY",
+                "author_name": "ILMxLAB",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCB6O3Ak-3Y14B8N4s8YCFaQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3gqbubA6oqY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Vader Immortal: A Star Wars VR Series - Episode I - Official Teaser",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3gqbubA6oqY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?time_continue=53&amp;v=3gqbubA6oqY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?time_continue=53&amp;v=3gqbubA6oqY"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "982d7813-75b2-40c2-9b36-84f57c44d675",
+        "type": "message",
+        "text": "Bad Ass",
+        "user": "U15J5H60P",
+        "ts": "1538005038.000100"
+    }
+]

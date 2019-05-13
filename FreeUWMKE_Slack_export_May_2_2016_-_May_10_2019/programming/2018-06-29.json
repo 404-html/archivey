@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "37706c3c-183c-4394-b917-06cb4c5bc537",
+        "type": "message",
+        "text": "do you guys ever get anxious writing update statements in sql?",
+        "user": "U15HRTAHL",
+        "ts": "1530285678.000175"
+    },
+    {
+        "client_msg_id": "FBDD6B5C-5C53-4B54-8205-E5279E7FA5A0",
+        "type": "message",
+        "text": "I do when i realize the catastrophe i almost caused when i almost run it without a where clause",
+        "user": "U15HY5TG8",
+        "ts": "1530285783.000499"
+    },
+    {
+        "client_msg_id": "a213d918-b4f7-44f7-91bb-2c287364cb66",
+        "type": "message",
+        "text": "lulz",
+        "user": "U15HRTAHL",
+        "ts": "1530285798.000144"
+    },
+    {
+        "client_msg_id": "939cf84f-5db7-4138-8162-592e8a772c2a",
+        "type": "message",
+        "text": "I wish there was a cmd-z for database operations",
+        "user": "U15HRTAHL",
+        "ts": "1530285814.000076"
+    },
+    {
+        "client_msg_id": "AB8F3B42-E442-4061-B25E-76E0B28ABFC0",
+        "type": "message",
+        "text": "You could wrap it in a transaction ",
+        "user": "U15HY5TG8",
+        "ts": "1530285841.000436"
+    },
+    {
+        "client_msg_id": "75c1fd88-a6b2-49fb-a967-8fc08e0f27b0",
+        "type": "message",
+        "text": "makes me paranoid anytime I have to do it",
+        "user": "U15HRTAHL",
+        "ts": "1530285844.000366"
+    },
+    {
+        "client_msg_id": "6171BC0F-4300-4933-AC01-81D50912E5A9",
+        "type": "message",
+        "text": "Wrap the update in a transaction and roll it back after running it. Then put a select statement inside of it too to see what it would have been before rolling back the changes",
+        "user": "U15HY5TG8",
+        "ts": "1530285897.000404"
+    },
+    {
+        "client_msg_id": "4d0af1c1-acbb-46f8-9141-9eb404c12e16",
+        "type": "message",
+        "text": "nice",
+        "user": "U15HRTAHL",
+        "ts": "1530285948.000223"
+    },
+    {
+        "client_msg_id": "b3ba9480-3568-44fd-a5b6-68f7b28ea153",
+        "type": "message",
+        "text": "smart",
+        "user": "U15HRTAHL",
+        "ts": "1530285949.000482"
+    },
+    {
+        "client_msg_id": "A471DF95-B714-406A-A2D7-AC9964C60F28",
+        "type": "message",
+        "text": "Yeee",
+        "user": "U15HY5TG8",
+        "ts": "1530286102.000640"
+    },
+    {
+        "client_msg_id": "AB0D2379-52FB-4FDC-95A0-607D8C3ACB20",
+        "type": "message",
+        "text": "Except i never do",
+        "user": "U15HY5TG8",
+        "ts": "1530286122.000135"
+    },
+    {
+        "client_msg_id": "0CE741D8-D049-47AE-8BA3-FEB17EE49C53",
+        "type": "message",
+        "text": "One of these days ill learn",
+        "user": "U15HY5TG8",
+        "ts": "1530286129.000342"
+    },
+    {
+        "client_msg_id": "aed44d39-a6fa-4af8-ba57-9ec346f7136d",
+        "type": "message",
+        "text": "Stop being babies",
+        "user": "U15J5H60P",
+        "ts": "1530286709.000280"
+    },
+    {
+        "client_msg_id": "aa6c2087-8fa1-491e-b936-00602e199175",
+        "type": "message",
+        "text": "DROP *",
+        "user": "U15J5H60P",
+        "ts": "1530286713.000101"
+    },
+    {
+        "client_msg_id": "01D5EAE3-81C3-4970-AD18-8ADF847D51AC",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1530286786.000129"
+    }
+]

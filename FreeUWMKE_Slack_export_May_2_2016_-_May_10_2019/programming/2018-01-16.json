@@ -1,0 +1,495 @@
+[
+    {
+        "type": "message",
+        "text": "I've got this really weird bug happening",
+        "user": "U15HRTAHL",
+        "ts": "1516127212.000338"
+    },
+    {
+        "type": "message",
+        "text": "I made a reoccuring appointment generator",
+        "user": "U15HRTAHL",
+        "ts": "1516127273.000151"
+    },
+    {
+        "type": "message",
+        "text": "March 11 is Daylight Saving time",
+        "user": "U15HRTAHL",
+        "ts": "1516127293.000506"
+    },
+    {
+        "type": "message",
+        "text": "that one day fucks everything",
+        "user": "U15HRTAHL",
+        "ts": "1516127301.000679"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1516127603.000701"
+    },
+    {
+        "type": "message",
+        "text": "Told Scott and we were trying things",
+        "user": "U15HRTAHL",
+        "ts": "1516127813.000483"
+    },
+    {
+        "type": "message",
+        "text": "he says \"Don't tell anyone we'll see if they notice\"",
+        "user": "U15HRTAHL",
+        "ts": "1516127826.000254"
+    },
+    {
+        "type": "message",
+        "text": "then",
+        "user": "U15HRTAHL",
+        "ts": "1516127827.000977"
+    },
+    {
+        "type": "message",
+        "text": "\"Well they have the next ten years on the web for DST we can just hardcode the next 10 years\"",
+        "user": "U15HRTAHL",
+        "ts": "1516127863.000527"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1516128058.000211"
+    },
+    {
+        "type": "message",
+        "text": "Wait so daylight savings affects only the one day? Shouldnt it affect all the days after that until the next daylight savings?",
+        "user": "U15HY5TG8",
+        "ts": "1516128119.000744"
+    },
+    {
+        "type": "message",
+        "text": "you'd think",
+        "user": "U15HRTAHL",
+        "ts": "1516128141.000560"
+    },
+    {
+        "type": "message",
+        "text": "I have no idea why its doing that",
+        "user": "U15HRTAHL",
+        "ts": "1516128147.000855"
+    },
+    {
+        "type": "message",
+        "text": "Can you look into next year to see if its doing the same?",
+        "user": "U15HY5TG8",
+        "ts": "1516128420.000511"
+    },
+    {
+        "type": "message",
+        "text": "That is weird",
+        "user": "U15HY5TG8",
+        "ts": "1516128423.000227"
+    },
+    {
+        "type": "message",
+        "text": "I'm honestly just thinking about saying fuck it",
+        "user": "U15HRTAHL",
+        "ts": "1516129199.000915"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1516130606.000247"
+    },
+    {
+        "type": "message",
+        "text": "Lol have you guys ever knowingly pushed a bug?",
+        "user": "U15HRTAHL",
+        "ts": "1516130833.001029"
+    },
+    {
+        "type": "message",
+        "text": "There are two developers on our team, me and another guy. we were working on this new piece of functionality together that was kind of obscure and required a lot of convoluted validation because of all the combinations of scenarios you could get in. We came up with a method for validation, and the other dev implemented it. I realized there was a very specific scenario in our validation method that would cause a deadlock for the user and they wouldn't be able to progress. I told the other dev about it cuz he wrote the whole thing and it was a lot of code, and he was like \"hmm... okay\" and never fixed it cuz I think he thought I was just bringing it up and gunna fix it myself, but I wasn't about to dig through all the code and fix the very specific scenario that a user would probably never find themself in. So we pushed it and the bug is live as we speak lol",
+        "user": "U15HSHSS2",
+        "ts": "1516131185.000591"
+    },
+    {
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HRTAHL",
+        "ts": "1516131239.000242"
+    },
+    {
+        "type": "message",
+        "text": "QA never found it so it's good enough for me lol",
+        "user": "U15HSHSS2",
+        "ts": "1516131250.000180"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15HY5TG8",
+        "ts": "1516132264.000161"
+    },
+    {
+        "type": "message",
+        "text": "We pushed that bug that was Chrome specific",
+        "user": "U15HY5TG8",
+        "ts": "1516132299.000113"
+    },
+    {
+        "type": "message",
+        "text": "Which bug was that?",
+        "user": "U15HRTAHL",
+        "ts": "1516132325.000357"
+    },
+    {
+        "type": "message",
+        "text": "It was one where dropdowns and stuff wouldnt populate on the right side of modals for specific pages nad would messa bunch of things up",
+        "user": "U15HY5TG8",
+        "ts": "1516132413.000693"
+    },
+    {
+        "type": "message",
+        "text": "well I'm glad I'm not the only developer pushing out shit code lol",
+        "user": "U15HRTAHL",
+        "ts": "1516132473.000639"
+    },
+    {
+        "type": "message",
+        "text": "Lol well it wasnt me but yea youre not alone",
+        "user": "U15HY5TG8",
+        "ts": "1516132506.000174"
+    },
+    {
+        "type": "message",
+        "text": "Imagine how many known bugs are out there",
+        "user": "U15HRTAHL",
+        "ts": "1516132609.000523"
+    },
+    {
+        "type": "message",
+        "text": "just waiting to be found",
+        "user": "U15HRTAHL",
+        "ts": "1516132613.000215"
+    },
+    {
+        "type": "message",
+        "text": "i absolutely hate dates",
+        "user": "U15HRTAHL",
+        "ts": "1516132838.000598"
+    },
+    {
+        "type": "message",
+        "text": "Dates are lovely lol",
+        "user": "U15HY5TG8",
+        "ts": "1516132891.000272"
+    },
+    {
+        "type": "message",
+        "text": "Timezones",
+        "user": "U15HRTAHL",
+        "ts": "1516132988.000125"
+    },
+    {
+        "type": "message",
+        "text": "daylight savings time",
+        "user": "U15HRTAHL",
+        "ts": "1516132992.000108"
+    },
+    {
+        "type": "message",
+        "text": "GMT",
+        "user": "U15HRTAHL",
+        "ts": "1516132993.000710"
+    },
+    {
+        "type": "message",
+        "text": "they can all go to hell",
+        "user": "U15HRTAHL",
+        "ts": "1516132998.000287"
+    },
+    {
+        "type": "message",
+        "text": "they're going to have to revamp it when we colonize mars",
+        "user": "U15HRTAHL",
+        "ts": "1516133009.000183"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1516133021.000067"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=-5wpm-gesOY>",
+        "user": "U15HSHSS2",
+        "ts": "1516133163.000033",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Problem with Time &amp; Timezones - Computerphile",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=-5wpm-gesOY",
+                "author_name": "Computerphile",
+                "author_link": "https:\/\/www.youtube.com\/user\/Computerphile",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/-5wpm-gesOY\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Problem with Time & Timezones - Computerphile",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/-5wpm-gesOY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=-5wpm-gesOY",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1516135433.000584"
+    },
+    {
+        "type": "message",
+        "text": "I fixed that bug",
+        "user": "U15HRTAHL",
+        "ts": "1516139347.000132"
+    },
+    {
+        "type": "message",
+        "text": "originally I was doing",
+        "user": "U15HRTAHL",
+        "ts": "1516139362.000396"
+    },
+    {
+        "type": "message",
+        "text": "```\nDateTime start = DateTime.newInstance(year, month, day).addHours(hours).addMinutes(minutes);\n```",
+        "user": "U15HRTAHL",
+        "ts": "1516139421.000470"
+    },
+    {
+        "type": "message",
+        "text": "had to do",
+        "user": "U15HRTAHL",
+        "ts": "1516139434.000505"
+    },
+    {
+        "type": "message",
+        "text": "```\nDateTime start = DateTime.newInstance(year, month, day, hours, minutes, 0);\n```",
+        "user": "U15HRTAHL",
+        "ts": "1516139449.000432"
+    },
+    {
+        "type": "message",
+        "text": "I didn't know there were two constructors",
+        "user": "U15HRTAHL",
+        "ts": "1516139455.000598"
+    },
+    {
+        "type": "message",
+        "text": "Smgdmfh",
+        "user": "U15HY5TG8",
+        "ts": "1516139486.000034"
+    },
+    {
+        "type": "message",
+        "text": "So this is what it feels like to know a subject in programming that you dont lol feels nice",
+        "user": "U15HY5TG8",
+        "ts": "1516139535.000553"
+    },
+    {
+        "type": "message",
+        "text": "they should make the same thing imo",
+        "user": "U15HRTAHL",
+        "ts": "1516139555.000829"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1516139557.000009"
+    },
+    {
+        "type": "message",
+        "text": "Well add hours adds on to the base time whereas the constructor just initiates at the specified time",
+        "user": "U15HY5TG8",
+        "ts": "1516139737.000295"
+    },
+    {
+        "type": "message",
+        "text": "yeah but base time should be 0",
+        "user": "U15HRTAHL",
+        "ts": "1516139756.000175"
+    },
+    {
+        "type": "message",
+        "text": "but I guess it makes sense DST will add an extra hour",
+        "user": "U15HRTAHL",
+        "ts": "1516139768.000307"
+    },
+    {
+        "type": "message",
+        "text": "all I know is that I fucking hate dates",
+        "user": "U15HRTAHL",
+        "ts": "1516139778.000712"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1516139790.000098"
+    },
+    {
+        "type": "message",
+        "text": "i didn't figure that out btw",
+        "user": "U15HRTAHL",
+        "ts": "1516139869.000154"
+    },
+    {
+        "type": "message",
+        "text": "it was my coworker brett",
+        "user": "U15HRTAHL",
+        "ts": "1516139876.000462"
+    },
+    {
+        "type": "message",
+        "text": "he's a genious",
+        "user": "U15HRTAHL",
+        "ts": "1516139879.000516"
+    },
+    {
+        "type": "message",
+        "text": "Ev you've met him and Tommy took his job at tommy's last place",
+        "user": "U15HRTAHL",
+        "ts": "1516139898.000204"
+    },
+    {
+        "type": "message",
+        "text": "Lol niiice",
+        "user": "U15HY5TG8",
+        "ts": "1516140225.000551"
+    },
+    {
+        "type": "message",
+        "text": "worked a whole 8 hours today and all I have to show for it is \n`8 files changed, 101 insertions(+), 56 deletions(-)`",
+        "user": "U15HRTAHL",
+        "ts": "1516144075.000053"
+    },
+    {
+        "type": "message",
+        "text": "lol have you guys seen these Hawaii missile gifs on r\/programmerHumor?",
+        "user": "U15HSHSS2",
+        "ts": "1516144128.000079"
+    },
+    {
+        "type": "message",
+        "text": "yeah lol",
+        "user": "U15HRTAHL",
+        "ts": "1516144134.000501"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/gfycat.com\/ChubbyDeafeningAfricanelephant>",
+        "user": "U15HSHSS2",
+        "ts": "1516144152.000304"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/gfycat.com\/DevotedUnfortunateBongo>",
+        "user": "U15HSHSS2",
+        "ts": "1516144182.000455",
+        "attachments": [
+            {
+                "service_name": "Gfycat",
+                "title": "The Hawaiian Missile Warning System used simple HTML - Create, Discover and Share GIFs on Gfycat",
+                "title_link": "https:\/\/gfycat.com\/DevotedUnfortunateBongo",
+                "text": "Watch The Hawaiian Missile Warning System used simple HTML GIF by dynoglory on Gfycat. Discover more Missile Warning GIFs, UI GIFs on Gfycat.",
+                "fallback": "Gfycat: The Hawaiian Missile Warning System used simple HTML - Create, Discover and Share GIFs on Gfycat",
+                "thumb_url": "https:\/\/thumbs.gfycat.com\/DevotedUnfortunateBongo-size_restricted.gif",
+                "from_url": "https:\/\/gfycat.com\/DevotedUnfortunateBongo",
+                "thumb_width": 294,
+                "thumb_height": 194,
+                "service_icon": "https:\/\/assets.gfycat.com\/static\/apple-touch-icon\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/gfycat.com\/QueasyGrandIriomotecat>",
+        "user": "U15HSHSS2",
+        "ts": "1516144198.000326",
+        "attachments": [
+            {
+                "service_name": "Gfycat",
+                "title": "missilememe.mov - Create, Discover and Share GIFs on Gfycat",
+                "title_link": "https:\/\/gfycat.com\/QueasyGrandIriomotecat",
+                "text": "Watch missilememe.mov GIF on Gfycat. Discover more GIFS online at Gfycat.",
+                "fallback": "Gfycat: missilememe.mov - Create, Discover and Share GIFs on Gfycat",
+                "thumb_url": "https:\/\/thumbs.gfycat.com\/QueasyGrandIriomotecat-size_restricted.gif",
+                "from_url": "https:\/\/gfycat.com\/QueasyGrandIriomotecat",
+                "thumb_width": 500,
+                "thumb_height": 284,
+                "service_icon": "https:\/\/assets.gfycat.com\/static\/apple-touch-icon\/apple-touch-icon.png",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "they're all too damn good",
+        "user": "U15HRTAHL",
+        "ts": "1516144216.000552"
+    },
+    {
+        "type": "message",
+        "text": "haha",
+        "user": "U15HSHSS2",
+        "ts": "1516144221.000160"
+    },
+    {
+        "type": "message",
+        "text": "its like the sound bar all over again",
+        "user": "U15HRTAHL",
+        "ts": "1516144222.000521"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1516144227.000057"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/6tfz9yudhea01.jpg>",
+        "user": "U15HSHSS2",
+        "ts": "1516144267.000259",
+        "attachments": [
+            {
+                "fallback": "1080x1512px image",
+                "image_url": "https:\/\/i.redd.it\/6tfz9yudhea01.jpg",
+                "image_width": 1080,
+                "image_height": 1512,
+                "image_bytes": 501129,
+                "from_url": "https:\/\/i.redd.it\/6tfz9yudhea01.jpg",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "that's awful",
+        "user": "U15HRTAHL",
+        "ts": "1516144349.000109"
+    },
+    {
+        "type": "message",
+        "text": "lmao",
+        "user": "U15HY5TG8",
+        "ts": "1516144619.000341"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "client_msg_id": "FBD2B0B0-4C80-478A-AC1B-343C7DBBEED8",
+        "type": "message",
+        "text": "Humidity 6%",
+        "user": "U15J5H60P",
+        "ts": "1530243765.000011"
+    },
+    {
+        "client_msg_id": "6D32A85B-C352-4D2C-ADBA-05215A33087D",
+        "type": "message",
+        "text": "You'll be fine",
+        "user": "U15J5H60P",
+        "ts": "1530243768.000052"
+    },
+    {
+        "client_msg_id": "71EC53C6-87E3-43F4-871F-4B2A02D9B0DF",
+        "type": "message",
+        "text": "Uv index of 10\/10 lmao",
+        "user": "U15HY5TG8",
+        "ts": "1530243852.000097"
+    },
+    {
+        "client_msg_id": "0C86E4ED-E840-49A6-8D3A-3A3900309F47",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15J5H60P",
+        "ts": "1530243886.000052"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "bet",
+        "user": "USLACKBOT",
+        "ts": "1530243886.000068"
+    },
+    {
+        "client_msg_id": "2A84EC1B-EC92-4E00-A814-07D76929CE81",
+        "type": "message",
+        "text": "Bet ",
+        "user": "U15HY5TG8",
+        "ts": "1530243891.000040"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "bet",
+        "user": "USLACKBOT",
+        "ts": "1530243891.000060"
+    },
+    {
+        "client_msg_id": "54BB8D29-279C-48D8-B4B2-F90CFF12E425",
+        "type": "message",
+        "text": "Bet bet bet",
+        "user": "U15HY5TG8",
+        "ts": "1530243900.000099"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "bet",
+        "user": "USLACKBOT",
+        "ts": "1530243900.000123"
+    },
+    {
+        "client_msg_id": "4DF892B8-3BEB-4610-AB14-8DCBCC40FDE7",
+        "type": "message",
+        "text": "Bet",
+        "user": "U15HY5TG8",
+        "ts": "1530243904.000052"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "bet",
+        "user": "USLACKBOT",
+        "ts": "1530243904.000075"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1530243913.000068",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/lobster-bangs-fan-bxIAYZGzgsGU8",
+                "image_url": "https:\/\/media1.giphy.com\/media\/bxIAYZGzgsGU8\/giphy-downsized.gif",
+                "image_width": 300,
+                "image_height": 225,
+                "image_bytes": 774130,
+                "is_animated": true,
+                "title": "lobster",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/lobster-bangs-fan-bxIAYZGzgsGU8"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9EBD0D61-CA43-4D27-AD87-FAF0C0ED6BB7",
+        "type": "message",
+        "text": "Brrrrrret bet",
+        "user": "U15HY5TG8",
+        "ts": "1530243919.000163"
+    },
+    {
+        "type": "message",
+        "subtype": "slackbot_response",
+        "text": "bet",
+        "user": "USLACKBOT",
+        "ts": "1530243919.000186"
+    },
+    {
+        "client_msg_id": "4FE6F23B-B64E-4AA5-9EBC-B5224726B503",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1530243933.000093"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1530243949.000147",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/blunttalk-season-1-starz-blunt-talk-l3Ucjd2CxLydBTjjy",
+                "image_url": "https:\/\/media3.giphy.com\/media\/l3Ucjd2CxLydBTjjy\/giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 779664,
+                "is_animated": true,
+                "title": "hot weather",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/blunttalk\/|Blunt Talk>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/blunttalk-season-1-starz-blunt-talk-l3Ucjd2CxLydBTjjy"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "75D0631E-E385-432E-BD93-EDCD2B6FA913",
+        "type": "message",
+        "text": "Holy shit",
+        "user": "U15HZ01QX",
+        "ts": "1530244024.000050"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1530244068.000006",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/titty-iT9Ou25fzE6Q",
+                "image_url": "https:\/\/media3.giphy.com\/media\/iT9Ou25fzE6Q\/giphy-downsized.gif",
+                "image_width": 499,
+                "image_height": 281,
+                "image_bytes": 784033,
+                "is_animated": true,
+                "title": "titty bar",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/titty-iT9Ou25fzE6Q"
+            }
+        ]
+    }
+]

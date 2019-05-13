@@ -1,0 +1,24 @@
+[
+    {
+        "type": "message",
+        "text": "<http:\/\/abcnews.go.com\/Entertainment\/wireStory\/lawsuit-alleges-fox-news-made-part-seth-rich-48967314>",
+        "user": "U15HY5TG8",
+        "ts": "1501611115.347656",
+        "attachments": [
+            {
+                "service_name": "ABC News",
+                "title": "Lawsuit: Fox coordinated with White House on false story",
+                "title_link": "http:\/\/abcnews.go.com\/Entertainment\/wireStory\/lawsuit-alleges-fox-news-made-part-seth-rich-48967314",
+                "text": "An investigator who worked on the Seth Rich case claims Fox News fabricated quotes implicating the murdered Democratic National Committee staffer in the WikiLeaks scandal and coordinated with the Trump administration as it worked on the story. The investigator, Rod Wheeler, sued Fox for...",
+                "fallback": "ABC News: Lawsuit: Fox coordinated with White House on false story",
+                "image_url": "http:\/\/a.abcnews.com\/images\/Politics\/HT_seth_rich_jef_160711_3_16x9_992.jpg",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "http:\/\/abcnews.go.com\/Entertainment\/wireStory\/lawsuit-alleges-fox-news-made-part-seth-rich-48967314",
+                "image_bytes": 38723,
+                "service_icon": "http:\/\/abcnews.go.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    }
+]

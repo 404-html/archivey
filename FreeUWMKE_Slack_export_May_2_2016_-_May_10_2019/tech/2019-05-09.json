@@ -1,0 +1,375 @@
+[
+    {
+        "client_msg_id": "7e08bf09-b717-4107-9afd-ca5065333dbc",
+        "type": "message",
+        "text": "<@U15HSHSS2>",
+        "user": "U15J5H60P",
+        "ts": "1557410964.000200"
+    },
+    {
+        "client_msg_id": "a0fc3a30-0c16-4e59-bd23-ed2ba0b81f48",
+        "type": "message",
+        "text": "Did you get your Power Beats Pro yet?",
+        "user": "U15J5H60P",
+        "ts": "1557410970.000500"
+    },
+    {
+        "client_msg_id": "15f93467-5528-4170-ab7d-df0b21bd198f",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=t1_kV1CmMe8>",
+        "user": "U15J5H60P",
+        "ts": "1557411106.000700",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "NEW PowerBeats Pro Unboxing - Better than AirPods?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=t1_kV1CmMe8",
+                "author_name": "UrAvgConsumer",
+                "author_link": "https:\/\/www.youtube.com\/user\/UrAvgConsumer",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/t1_kV1CmMe8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: NEW PowerBeats Pro Unboxing - Better than AirPods?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/t1_kV1CmMe8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=t1_kV1CmMe8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=t1_kV1CmMe8"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FJJS24RSR",
+                "created": 1557411741,
+                "timestamp": 1557411741,
+                "name": "Image from iOS.png",
+                "title": "Image from iOS",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 2641450,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJJS24RSR\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FJJS24RSR\/download\/image_from_ios.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 166,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 222,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 333,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1732,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 443,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FJJS24RSR-443df07d19\/image_from_ios_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 473,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1125,
+                "original_h": 2436,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FJJS24RSR\/image_from_ios.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FJJS24RSR-21e2ea9a8f",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1557411747.001000",
+        "client_msg_id": "0AEC3CC1-3E3F-4800-B7C0-B10CDFE4A9E3"
+    },
+    {
+        "client_msg_id": "AF69859E-0FEE-410A-98C8-F4CFB769E5CA",
+        "type": "message",
+        "text": "My AirPods are done for",
+        "user": "U15J5H60P",
+        "ts": "1557411752.001500",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1557411755.000000"
+        }
+    },
+    {
+        "client_msg_id": "0AAB3470-FB46-4C3F-AD4F-EDE25105008A",
+        "type": "message",
+        "text": "They come in a week",
+        "user": "U15HSHSS2",
+        "ts": "1557411774.002200"
+    },
+    {
+        "client_msg_id": "55D91039-8D80-405F-9950-728013DE9ADD",
+        "type": "message",
+        "text": "Noice",
+        "user": "U15J5H60P",
+        "ts": "1557411780.002500"
+    },
+    {
+        "client_msg_id": "2c2b17e2-35a5-42c6-b7c7-fab9683c94a6",
+        "type": "message",
+        "text": "whatcha mean",
+        "user": "U15HY5TG8",
+        "ts": "1557411780.002600"
+    },
+    {
+        "client_msg_id": "A9D77307-F870-4A9C-913B-45CC6C79A353",
+        "type": "message",
+        "text": "Look at my left and right buds",
+        "user": "U15J5H60P",
+        "ts": "1557411789.002900"
+    },
+    {
+        "client_msg_id": "B01BF0EC-27AE-4B7A-A001-9FA4B489C4C3",
+        "type": "message",
+        "text": "Nyx",
+        "user": "U15J5H60P",
+        "ts": "1557411798.003100"
+    },
+    {
+        "client_msg_id": "D0C1B8BC-86E1-42FF-A158-C8DBE9CC4B38",
+        "type": "message",
+        "text": "Battery is drastically different",
+        "user": "U15J5H60P",
+        "ts": "1557411808.003400"
+    },
+    {
+        "client_msg_id": "8abcbcd1-25c6-4824-83b7-92304cc430c3",
+        "type": "message",
+        "text": "mmm",
+        "user": "U15HY5TG8",
+        "ts": "1557412347.003600"
+    },
+    {
+        "client_msg_id": "26708cfd-0e26-49b9-8e58-24cfddf33eb5",
+        "type": "message",
+        "text": "starting to think I didn't order the Power Beats Pro...",
+        "user": "U15HSHSS2",
+        "ts": "1557417523.004100"
+    },
+    {
+        "client_msg_id": "a38a0226-a41e-45a4-90a6-f1dae0de158c",
+        "type": "message",
+        "text": "Can't find a single shred of evidence that says I did lol",
+        "user": "U15HSHSS2",
+        "ts": "1557417538.004400"
+    },
+    {
+        "client_msg_id": "14eb88ef-ac21-4157-9560-8b0490e83bba",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15J5H60P",
+        "ts": "1557417540.004600"
+    },
+    {
+        "client_msg_id": "e3ac28d6-758f-4cae-aea0-0e87ed1cc5b5",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1557417558.004800"
+    },
+    {
+        "client_msg_id": "e9edad97-9293-4d5a-a5aa-c3bb86c901f1",
+        "type": "message",
+        "text": "were you drunk?",
+        "user": "U15HY5TG8",
+        "ts": "1557417563.005000"
+    },
+    {
+        "client_msg_id": "ef50f5d2-8d97-457b-bf8f-757a954c0d74",
+        "type": "message",
+        "text": "did you check all your cards?",
+        "user": "U15HRTAHL",
+        "ts": "1557417664.005700"
+    },
+    {
+        "client_msg_id": "4476b246-a1b6-49d9-9d17-06d71990672b",
+        "type": "message",
+        "text": "I was sitting at my desk at work, refreshing the page, until the buy button became available, then I went through the process of purchasing  them... or so i thought",
+        "user": "U15HSHSS2",
+        "ts": "1557417687.006200"
+    },
+    {
+        "client_msg_id": "b7bc2a38-48a9-48ac-8e7e-b4d05fa14000",
+        "type": "message",
+        "text": "Yeah I checked my cards. Imma check again quick",
+        "user": "U15HSHSS2",
+        "ts": "1557417699.006600"
+    },
+    {
+        "client_msg_id": "4a5a869a-1b24-49e2-a981-e7c2ff43fea4",
+        "type": "message",
+        "text": "lolol",
+        "user": "U15HY5TG8",
+        "ts": "1557417788.006900"
+    },
+    {
+        "client_msg_id": "25e7221f-7cad-4124-a241-25f0a5ccbf4b",
+        "type": "message",
+        "text": "I guess I just never clicked the final confirm button...?",
+        "user": "U15HSHSS2",
+        "ts": "1557417882.007400"
+    },
+    {
+        "client_msg_id": "36d7080a-e4b1-41b4-b793-be1c9ecaaed5",
+        "type": "message",
+        "text": "its like what I do in battlefield",
+        "user": "U15HRTAHL",
+        "ts": "1557417906.007600"
+    },
+    {
+        "client_msg_id": "987485d4-8a1f-4001-aef9-dad32319b23a",
+        "type": "message",
+        "text": "click the game mode",
+        "user": "U15HRTAHL",
+        "ts": "1557417911.007800"
+    },
+    {
+        "client_msg_id": "21f1cda5-5b57-410d-8699-5c0a41028e2a",
+        "type": "message",
+        "text": "wait for 5 minutues wondering why i haven’t joined a game",
+        "user": "U15HRTAHL",
+        "ts": "1557417923.008200"
+    },
+    {
+        "client_msg_id": "2fe56664-0795-4fea-b014-1cd8a4c8a47e",
+        "type": "message",
+        "text": "realize I haven’t hit Join",
+        "user": "U15HRTAHL",
+        "ts": "1557417930.008400"
+    },
+    {
+        "client_msg_id": "366bf465-9727-456c-afb3-bed50c2e6408",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1557417935.008600"
+    },
+    {
+        "client_msg_id": "9525237c-5cb0-49ad-82cd-c523531b897e",
+        "type": "message",
+        "text": "found it",
+        "user": "U15HSHSS2",
+        "ts": "1557418018.008800"
+    },
+    {
+        "client_msg_id": "c85faf71-9831-45ef-8400-02743a6b657c",
+        "type": "message",
+        "text": "the order is still being processed I guess...",
+        "user": "U15HSHSS2",
+        "ts": "1557418027.009100"
+    },
+    {
+        "client_msg_id": "36D99E6C-565C-424D-AF6D-E05C6B7A923F",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1557418055.009300"
+    },
+    {
+        "client_msg_id": "e3b0ede4-7200-4c4f-a3bd-cd0ab28f1336",
+        "type": "message",
+        "text": "confirmation email woulda been nice lol",
+        "user": "U15HSHSS2",
+        "ts": "1557418079.009600"
+    },
+    {
+        "client_msg_id": "a88874ee-d9b3-430a-b547-9a3787ec6aa5",
+        "type": "message",
+        "text": "weird",
+        "user": "U15HRTAHL",
+        "ts": "1557418236.009900"
+    },
+    {
+        "client_msg_id": "71da6054-3095-467b-a513-f0d07274e612",
+        "type": "message",
+        "text": "it’s a glitch",
+        "user": "U15HRTAHL",
+        "ts": "1557418240.010100"
+    },
+    {
+        "client_msg_id": "494fc953-8512-4698-82ee-871788003c7a",
+        "type": "message",
+        "text": "you’re process is going to sit in pending forever",
+        "user": "U15HRTAHL",
+        "ts": "1557418248.010400"
+    },
+    {
+        "client_msg_id": "b8c48996-a7b6-4411-8b26-39ba0b25c0e0",
+        "type": "message",
+        "text": "Your*",
+        "user": "U15J5H60P",
+        "ts": "1557428482.010600"
+    },
+    {
+        "client_msg_id": "c0bc7585-4047-45b6-8248-26799f4d4081",
+        "type": "message",
+        "text": "damnit",
+        "user": "U15HRTAHL",
+        "ts": "1557428496.010800"
+    },
+    {
+        "client_msg_id": "751258fb-a67c-43e7-9a39-386eba33ca48",
+        "type": "message",
+        "text": "And you call yourself a Nazi. smh",
+        "user": "U15J5H60P",
+        "ts": "1557428514.011000"
+    },
+    {
+        "client_msg_id": "2eed3f4d-2564-41e4-9a6e-b043343550cb",
+        "type": "message",
+        "text": "I don’t call myself a nazi, it’s been bestowed on me",
+        "user": "U15HRTAHL",
+        "ts": "1557428695.011600"
+    },
+    {
+        "client_msg_id": "4B640F0E-6CA2-4642-A942-8FEECADF2DFE",
+        "type": "message",
+        "text": "Mmmmm <https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1557428695011600>",
+        "user": "U15HZ01QX",
+        "ts": "1557428717.011900",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1557428695011600",
+                "fallback": "[May 9th, 2019 12:04 PM] joeythomaschaske: I don’t call myself a nazi, it’s been bestowed on me",
+                "ts": "1557428695.011600",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C15RSP7BM",
+                "channel_name": "tech",
+                "is_msg_unfurl": true,
+                "text": "I don’t call myself a nazi, it’s been bestowed on me",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C15RSP7BM\/p1557428695011600",
+                "footer": "Posted in #tech"
+            }
+        ]
+    }
+]

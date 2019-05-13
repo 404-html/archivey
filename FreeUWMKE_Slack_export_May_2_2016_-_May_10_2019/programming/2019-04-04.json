@@ -1,0 +1,1241 @@
+[
+    {
+        "client_msg_id": "fc2b4895-69f7-485a-9875-225f7eabf2b0",
+        "type": "message",
+        "text": "Dude, signing in\/out on client side (iOS) is super easy",
+        "user": "U15J5H60P",
+        "ts": "1554388643.000300"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHDMNPMPT",
+                "created": 1554388696,
+                "timestamp": 1554388696,
+                "name": "File from iOS.MP4",
+                "title": "File from iOS",
+                "mimetype": "video\/mp4",
+                "filetype": "mp4",
+                "pretty_type": "MPEG 4 Video",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 2475492,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHDMNPMPT\/file_from_ios.mp4?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHDMNPMPT\/download\/file_from_ios.mp4?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FHDMNPMPT\/file_from_ios.mp4",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHDMNPMPT-5ba068cbfb",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1554388697.000400"
+    },
+    {
+        "client_msg_id": "431757d4-47ab-47e7-99f9-3a0fe81a0577",
+        "type": "message",
+        "text": "Is that cognito?",
+        "user": "U15HRTAHL",
+        "ts": "1554388727.000900"
+    },
+    {
+        "client_msg_id": "9c788fd5-abcb-4fab-9b4b-d9bcf4606d24",
+        "type": "message",
+        "text": "Login\/logout button is top left",
+        "user": "U15J5H60P",
+        "ts": "1554388730.001100"
+    },
+    {
+        "client_msg_id": "e40f89b8-97bd-4920-bf6a-a9a9604903d1",
+        "type": "message",
+        "text": "Yup!",
+        "user": "U15J5H60P",
+        "ts": "1554388731.001300"
+    },
+    {
+        "client_msg_id": "ba50da35-96f3-4755-b36f-3ed086ceeb97",
+        "type": "message",
+        "text": "with the out of the box auth flow page?",
+        "user": "U15HRTAHL",
+        "ts": "1554388751.001600"
+    },
+    {
+        "client_msg_id": "10b21d2a-dd6b-4064-a6c9-90c56a07374a",
+        "type": "message",
+        "text": "Yeah.",
+        "user": "U15J5H60P",
+        "ts": "1554388760.001900"
+    },
+    {
+        "client_msg_id": "f02bc709-0991-4e92-bdc2-ddbe6aab02cd",
+        "type": "message",
+        "text": "I'm making my own though",
+        "user": "U15J5H60P",
+        "ts": "1554388763.002100"
+    },
+    {
+        "client_msg_id": "05bc4836-b3c8-4fa4-b6e0-20a5fa8070b3",
+        "type": "message",
+        "text": "Which also appears to be very easy",
+        "user": "U15J5H60P",
+        "ts": "1554388769.002400"
+    },
+    {
+        "client_msg_id": "c3db6517-1379-4e22-bf11-49b8fd466089",
+        "type": "message",
+        "text": "A single method",
+        "user": "U15J5H60P",
+        "ts": "1554388771.002600"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHNTW2A05",
+                "created": 1554388820,
+                "timestamp": 1554388820,
+                "name": "Screenshot_20190404-093947.png",
+                "title": "Screenshot_20190404-093947.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 155579,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHNTW2A05\/screenshot_20190404-093947.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHNTW2A05\/download\/screenshot_20190404-093947.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHNTW2A05-f307e69b07\/screenshot_20190404-093947_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2160,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHNTW2A05\/screenshot_20190404-093947.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHNTW2A05-86c4a9edc6",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1554388823.002700",
+        "client_msg_id": "31b90698-bfb7-4ffb-9dca-8329e55543a6"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHPGXH2HM",
+                "created": 1554388818,
+                "timestamp": 1554388818,
+                "name": "Screenshot_20190404-093924.png",
+                "title": "Screenshot_20190404-093924.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 168294,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHPGXH2HM\/screenshot_20190404-093924.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHPGXH2HM\/download\/screenshot_20190404-093924.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXH2HM-24146f52ea\/screenshot_20190404-093924_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2160,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHPGXH2HM\/screenshot_20190404-093924.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHPGXH2HM-bc3034e787",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1554388826.003000",
+        "client_msg_id": "4dd60322-7c85-4d0d-badc-090fbc9128fe"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHPGXM8MV",
+                "created": 1554388822,
+                "timestamp": 1554388822,
+                "name": "Screenshot_20190404-093954.png",
+                "title": "Screenshot_20190404-093954.png",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 120574,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHPGXM8MV\/screenshot_20190404-093954.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FHPGXM8MV\/download\/screenshot_20190404-093954.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 180,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 240,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 360,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_960.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 480,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FHPGXM8MV-5305d8aacd\/screenshot_20190404-093954_1024.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 512,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 1080,
+                "original_h": 2160,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FHPGXM8MV\/screenshot_20190404-093954.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FHPGXM8MV-c732cf591d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1554388828.003300",
+        "client_msg_id": "aeba0663-0448-4a97-babd-2e72a7ba6c03"
+    },
+    {
+        "client_msg_id": "8fb46d42-80c1-4ee2-957e-aa379085d592",
+        "type": "message",
+        "text": "Take a video",
+        "user": "U15J5H60P",
+        "ts": "1554388838.003900"
+    },
+    {
+        "client_msg_id": "61a01ccc-3f81-446a-8979-42ca442afeaa",
+        "type": "message",
+        "text": "that’s literally all I have",
+        "user": "U15HRTAHL",
+        "ts": "1554388838.004000"
+    },
+    {
+        "client_msg_id": "2e034b1a-731b-4d5c-a831-cb631828dd5e",
+        "type": "message",
+        "text": "can’t with android",
+        "user": "U15HRTAHL",
+        "ts": "1554388842.004300"
+    },
+    {
+        "client_msg_id": "ebffea4e-6e3f-41c6-9d11-9689fb9cce16",
+        "type": "message",
+        "text": "Unreal",
+        "user": "U15J5H60P",
+        "ts": "1554388845.004500"
+    },
+    {
+        "client_msg_id": "4ddd0582-ad1b-4a95-b60f-bef40a871528",
+        "type": "message",
+        "text": "Piece of shit OS",
+        "user": "U15J5H60P",
+        "ts": "1554388849.004700"
+    },
+    {
+        "client_msg_id": "aba1ce48-2640-4850-b367-8297d877e2e5",
+        "type": "message",
+        "text": "jk",
+        "user": "U15J5H60P",
+        "ts": "1554388852.004900"
+    },
+    {
+        "client_msg_id": "a6bbb1d9-c622-4963-9849-3fb5e243afe7",
+        "type": "message",
+        "text": "It looks very cute!",
+        "user": "U15J5H60P",
+        "ts": "1554388857.005100"
+    },
+    {
+        "client_msg_id": "6a082e96-8f14-4332-b56b-bb5286db1178",
+        "type": "message",
+        "text": "sweeeet",
+        "user": "U15HSHSS2",
+        "ts": "1554388874.005300"
+    },
+    {
+        "client_msg_id": "b02b6423-99c7-4095-b3f0-f2a0b4be9db8",
+        "type": "message",
+        "text": "Here, let me send you Tom and I's capstone project",
+        "user": "U15J5H60P",
+        "ts": "1554388914.005600"
+    },
+    {
+        "client_msg_id": "8248fcee-c708-4b11-a4a5-3cc164b683a8",
+        "type": "message",
+        "text": "lol god does that still exist somewheree?",
+        "user": "U15HSHSS2",
+        "ts": "1554388935.005900"
+    },
+    {
+        "client_msg_id": "4c45871d-ce26-4bc1-86ff-60a5de47473c",
+        "type": "message",
+        "text": "I hope not lol",
+        "user": "U15J5H60P",
+        "ts": "1554388945.006100"
+    },
+    {
+        "client_msg_id": "f864498f-2c81-4113-af0f-4764e6e51c2f",
+        "type": "message",
+        "text": "Some random person probably found it on github, downloaded the source code, and re-released it and made millions",
+        "user": "U15HSHSS2",
+        "ts": "1554388999.006700"
+    },
+    {
+        "client_msg_id": "142b8333-9090-412c-8c8e-d0122e885787",
+        "type": "message",
+        "text": "<http:\/\/supercook.com|supercook.com>",
+        "user": "U15HRTAHL",
+        "ts": "1554389007.006900"
+    },
+    {
+        "client_msg_id": "1b118915-661c-4576-b26b-95d3ce6a342e",
+        "type": "message",
+        "text": "Who made that?",
+        "user": "U15J5H60P",
+        "ts": "1554389083.007200"
+    },
+    {
+        "client_msg_id": "7a7c64d7-b729-40aa-9072-fd5d623f6cd6",
+        "type": "message",
+        "text": "That's a super simple app lol",
+        "user": "U15J5H60P",
+        "ts": "1554389092.007400"
+    },
+    {
+        "client_msg_id": "c4f13eee-b52e-43c9-bfe5-a56847e224ba",
+        "type": "message",
+        "text": "no idea",
+        "user": "U15HRTAHL",
+        "ts": "1554389098.007600"
+    },
+    {
+        "client_msg_id": "eeabb5c1-f2d6-41a1-ba11-358e1e71cb9b",
+        "type": "message",
+        "text": "Man it's awful",
+        "user": "U15J5H60P",
+        "ts": "1554389108.007800"
+    },
+    {
+        "client_msg_id": "a0562b31-ba49-45b4-a9a8-6548e9d5ad4d",
+        "type": "message",
+        "text": "How does it have all of those \"featured in\"",
+        "user": "U15J5H60P",
+        "ts": "1554389119.008100"
+    },
+    {
+        "client_msg_id": "3bdf306b-0e5b-4193-9794-1b92f472c0fe",
+        "type": "message",
+        "text": "I don't bulief it",
+        "user": "U15J5H60P",
+        "ts": "1554389127.008400"
+    },
+    {
+        "client_msg_id": "57ca4153-7362-43a8-a6bb-1e83ad4b438e",
+        "type": "message",
+        "text": "there’s an app too",
+        "user": "U15HRTAHL",
+        "ts": "1554389191.008600"
+    },
+    {
+        "client_msg_id": "d3c97947-7eb0-47de-8bbe-978e44238b6e",
+        "type": "message",
+        "text": "Is it essentially the same thing?",
+        "user": "U15J5H60P",
+        "ts": "1554389214.008800"
+    },
+    {
+        "client_msg_id": "5bd3db90-f58d-4a1e-8083-c874ef389857",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1554389266.009000"
+    },
+    {
+        "client_msg_id": "282502ad-c3ff-47cc-8660-781c238b484c",
+        "type": "message",
+        "text": "I didn’t download it",
+        "user": "U15HRTAHL",
+        "ts": "1554389271.009200"
+    },
+    {
+        "client_msg_id": "c2eed0c7-4b58-41a4-81f4-b13a43fb460f",
+        "type": "message",
+        "text": "but I looked at it",
+        "user": "U15HRTAHL",
+        "ts": "1554389274.009500"
+    },
+    {
+        "client_msg_id": "bd5bbaf1-2041-433b-a096-d5f8cf7fc2c4",
+        "type": "message",
+        "text": "Dumb. Well when yours is done, I'm sure it can get all those featured in accolades as well",
+        "user": "U15J5H60P",
+        "ts": "1554389290.009800"
+    },
+    {
+        "client_msg_id": "5a238e6c-ca6e-4f6f-9480-b22fc47fa04f",
+        "type": "message",
+        "text": "It's like a IRL Battlefield mission",
+        "user": "U15J5H60P",
+        "ts": "1554389303.010200"
+    },
+    {
+        "client_msg_id": "170ba385-3dbf-47f5-bef8-57425deeb19f",
+        "type": "message",
+        "text": "I also fucking *_hate_* design",
+        "user": "U15HRTAHL",
+        "ts": "1554389412.010500"
+    },
+    {
+        "client_msg_id": "8c364a5d-33fb-4574-a785-430d4da2772a",
+        "type": "message",
+        "text": "I’m so bad at it",
+        "user": "U15HRTAHL",
+        "ts": "1554389421.010800"
+    },
+    {
+        "client_msg_id": "7d0b2312-cebe-4c7f-a2ce-e9a3759e55f2",
+        "type": "message",
+        "text": "I have 0 creativity skills",
+        "user": "U15HRTAHL",
+        "ts": "1554389431.011100"
+    },
+    {
+        "client_msg_id": "59199670-14ee-4814-8c71-15fd741ea85d",
+        "type": "message",
+        "text": "same",
+        "user": "U15HSHSS2",
+        "ts": "1554389442.011300"
+    },
+    {
+        "client_msg_id": "4ffb739b-0393-496f-bed6-81e93968bc6f",
+        "type": "message",
+        "text": "templates all dayy",
+        "user": "U15HSHSS2",
+        "ts": "1554389448.011500"
+    },
+    {
+        "client_msg_id": "4d9aab9f-6dd5-4f13-bc25-98ccc1b13227",
+        "type": "message",
+        "text": "Well let me know if you need help",
+        "user": "U15J5H60P",
+        "ts": "1554389460.011800"
+    },
+    {
+        "client_msg_id": "2aca22cb-3343-4007-88f9-06bd8d034deb",
+        "type": "message",
+        "text": "From my app you can see that I'm an expert at design and intuition",
+        "user": "U15J5H60P",
+        "ts": "1554389469.012100"
+    },
+    {
+        "client_msg_id": "c1355fac-d6d9-4d97-8e26-dd1db4913b14",
+        "type": "message",
+        "text": "\/s",
+        "user": "U15J5H60P",
+        "ts": "1554389473.012300"
+    },
+    {
+        "client_msg_id": "bedcbbf2-3279-4249-9153-4520ffbdbd37",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1554389478.012500"
+    },
+    {
+        "client_msg_id": "b8791f77-5121-4d5a-93e8-2d04a30b69a3",
+        "type": "message",
+        "text": "Honestly, I want to take a course on UX\/UI",
+        "user": "U15J5H60P",
+        "ts": "1554389500.013100"
+    },
+    {
+        "client_msg_id": "0e6ab6eb-da32-4ccf-9fed-fd3cd66559d1",
+        "type": "message",
+        "text": "Can I download that 5 circle face design template somewhere? lol",
+        "user": "U15HSHSS2",
+        "ts": "1554389509.013500"
+    },
+    {
+        "client_msg_id": "15dea082-1a0e-452f-a491-76b4a9b5a235",
+        "type": "message",
+        "text": "It's super important and I have 0 to go on",
+        "user": "U15J5H60P",
+        "ts": "1554389511.013700"
+    },
+    {
+        "client_msg_id": "88b207fe-22a7-485d-97f2-09c442d54a8e",
+        "type": "message",
+        "text": "I gotchu, fam.",
+        "user": "U15J5H60P",
+        "ts": "1554389519.013900"
+    },
+    {
+        "client_msg_id": "85fb4773-4913-49f2-aa71-f0959c5c1e67",
+        "type": "message",
+        "text": "idk that it's that important...",
+        "user": "U15HSHSS2",
+        "ts": "1554389546.014200"
+    },
+    {
+        "client_msg_id": "a69bfdda-1bcf-4c74-8f24-9b9276d922ff",
+        "type": "message",
+        "text": "oh",
+        "user": "U15HSHSS2",
+        "ts": "1554389549.014400"
+    },
+    {
+        "client_msg_id": "abca698c-186f-48a2-92b7-a5dd00caee79",
+        "type": "message",
+        "text": "ux and ui",
+        "user": "U15HSHSS2",
+        "ts": "1554389551.014600"
+    },
+    {
+        "client_msg_id": "c6341bf2-27f8-43f6-b0b5-5164cb30816d",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HSHSS2",
+        "ts": "1554389552.014800"
+    },
+    {
+        "client_msg_id": "0b3dfee4-548b-4945-8532-23003d0472c5",
+        "type": "message",
+        "text": "but actual act of design it, meh just tell the front end engineer what to do",
+        "user": "U15HSHSS2",
+        "ts": "1554389586.015500"
+    },
+    {
+        "client_msg_id": "5278e969-bdf2-4cc2-8b26-23684877ad55",
+        "type": "message",
+        "text": "but knowing what a good UI should look like and how it should act is important",
+        "user": "U15HSHSS2",
+        "ts": "1554389600.015900"
+    },
+    {
+        "client_msg_id": "15505bc4-080f-41ad-9d66-ab22dc05fe97",
+        "type": "message",
+        "text": "don’t even get me started on animations",
+        "user": "U15HRTAHL",
+        "ts": "1554389617.016200"
+    },
+    {
+        "client_msg_id": "7609b141-27d7-48dc-9d2e-e21f8a391cbe",
+        "type": "message",
+        "text": "I can’t even get a widget to “hover” on top of other widgets",
+        "user": "U15HRTAHL",
+        "ts": "1554389633.016600"
+    },
+    {
+        "client_msg_id": "fbac1e74-0ab3-45de-b320-fe70e96991f0",
+        "type": "message",
+        "text": "lol",
+        "user": "U15HSHSS2",
+        "ts": "1554389638.016800"
+    },
+    {
+        "client_msg_id": "ee7fb503-d25b-4610-9c6f-e3827b81e5a0",
+        "type": "message",
+        "text": "mother cuckers are out here spinning shit and adding physics",
+        "user": "U15HRTAHL",
+        "ts": "1554389651.017400"
+    },
+    {
+        "client_msg_id": "ea99b71c-960f-44e7-9836-3273c8a86b06",
+        "type": "message",
+        "text": "lets create our own design language",
+        "user": "U15HSHSS2",
+        "ts": "1554389654.017600"
+    },
+    {
+        "client_msg_id": "ce1baa8d-9b25-4b8e-a6fc-6e579947ae0f",
+        "type": "message",
+        "text": "I'm a full stack engineer, I'm both the front end and back end engineer lol",
+        "user": "U15J5H60P",
+        "ts": "1554389666.017900"
+    },
+    {
+        "client_msg_id": "df97875b-ca0d-4a6d-bfd8-70c5873abbeb",
+        "type": "message",
+        "text": "DDL",
+        "user": "U15J5H60P",
+        "ts": "1554389678.018400"
+    },
+    {
+        "client_msg_id": "dfe99b79-044d-4c0f-8596-74dd5d4dc9c3",
+        "type": "message",
+        "text": "DLL?",
+        "user": "U15J5H60P",
+        "ts": "1554389679.018600"
+    },
+    {
+        "client_msg_id": "772fd38e-5e46-4268-9e36-c10018464015",
+        "type": "message",
+        "text": "Thankfully we have front end engineers at Zywave",
+        "user": "U15HSHSS2",
+        "ts": "1554389685.018800"
+    },
+    {
+        "client_msg_id": "d2de3b0b-2b73-4d23-a6b2-9ae8ae872874",
+        "type": "message",
+        "text": "I hate CSS",
+        "user": "U15HSHSS2",
+        "ts": "1554389700.019300"
+    },
+    {
+        "client_msg_id": "70ffe8cf-9927-4a65-ae70-066ab84f33b1",
+        "type": "message",
+        "text": "What language do you work in primarily?",
+        "user": "U15J5H60P",
+        "ts": "1554389703.019400"
+    },
+    {
+        "client_msg_id": "89bfcfc6-d510-4cb0-9f46-f5704b468f97",
+        "type": "message",
+        "text": "<https:\/\/itsallwidgets.com\/>",
+        "user": "U15HRTAHL",
+        "ts": "1554389708.019700",
+        "attachments": [
+            {
+                "service_name": "It's All Widgets!",
+                "title": "Flutter Apps | It's All Widgets!",
+                "title_link": "https:\/\/itsallwidgets.com\/",
+                "text": "An open list of example apps made with Flutter include many open source samples.",
+                "fallback": "It's All Widgets!: Flutter Apps | It's All Widgets!",
+                "image_url": "https:\/\/itsallwidgets.com\/images\/background.jpg?clear_cache=1",
+                "from_url": "https:\/\/itsallwidgets.com\/",
+                "image_width": 750,
+                "image_height": 250,
+                "image_bytes": 491652,
+                "service_icon": "https:\/\/itsallwidgets.com\/images\/favicon.png",
+                "id": 1,
+                "original_url": "https:\/\/itsallwidgets.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fef04930-c31b-4148-b722-86563d9ebcf0",
+        "type": "message",
+        "text": "C#",
+        "user": "U15HSHSS2",
+        "ts": "1554389712.020000"
+    },
+    {
+        "client_msg_id": "064c3fe9-ee74-4f5b-acb1-bad014a932f7",
+        "type": "message",
+        "text": "Is it hard?",
+        "user": "U15J5H60P",
+        "ts": "1554389719.020300"
+    },
+    {
+        "client_msg_id": "2266156a-9e6e-4790-ad3d-421ab84aa084",
+        "type": "message",
+        "text": "there’s some cool stuff in there",
+        "user": "U15HRTAHL",
+        "ts": "1554389720.020500"
+    },
+    {
+        "client_msg_id": "0a469666-a0bf-473b-a162-9f4847540a67",
+        "type": "message",
+        "text": "Do you think I could pick it up easily?",
+        "user": "U15J5H60P",
+        "ts": "1554389726.020800"
+    },
+    {
+        "client_msg_id": "5481a79a-3fbe-4f6b-9df4-4e9d5fefeaf8",
+        "type": "message",
+        "text": "c#?",
+        "user": "U15HRTAHL",
+        "ts": "1554389742.021000"
+    },
+    {
+        "client_msg_id": "937ba03f-f790-4452-b12b-f5da01a8edd8",
+        "type": "message",
+        "text": "Yeah",
+        "user": "U15J5H60P",
+        "ts": "1554389747.021400"
+    },
+    {
+        "client_msg_id": "2cdb4dab-ef34-4082-aa10-6cfbf368fa31",
+        "type": "message",
+        "text": "lol you asking me or joe",
+        "user": "U15HSHSS2",
+        "ts": "1554389748.021500"
+    },
+    {
+        "client_msg_id": "7e4f74ae-673d-4692-8829-b25ef4497de6",
+        "type": "message",
+        "text": "youve never worked with c#?",
+        "user": "U15HSHSS2",
+        "ts": "1554389755.022000"
+    },
+    {
+        "client_msg_id": "3c253d14-6370-4f54-af5d-01e53c9bb3ea",
+        "type": "message",
+        "text": "yeah it’s pretty easy",
+        "user": "U15HRTAHL",
+        "ts": "1554389755.022100"
+    },
+    {
+        "client_msg_id": "5be577ea-792f-4b05-9ca6-8d9149d6abc6",
+        "type": "message",
+        "text": "All of these jobs ask for C#",
+        "user": "U15J5H60P",
+        "ts": "1554389756.022200"
+    },
+    {
+        "client_msg_id": "8f5b23b3-fa23-4316-bf09-04a65d289773",
+        "type": "message",
+        "text": "I have briefly",
+        "user": "U15J5H60P",
+        "ts": "1554389763.022400"
+    },
+    {
+        "client_msg_id": "ef4b0c43-b32b-4f87-acce-03571c8a5c35",
+        "type": "message",
+        "text": "what do you use for backend?",
+        "user": "U15HSHSS2",
+        "ts": "1554389769.022900"
+    },
+    {
+        "client_msg_id": "c288f957-40fe-45f3-b8b8-b36220ee63ca",
+        "type": "message",
+        "text": "Node",
+        "user": "U15J5H60P",
+        "ts": "1554389771.023100"
+    },
+    {
+        "client_msg_id": "c71fea74-7a92-4731-b52b-ed9294edd543",
+        "type": "message",
+        "text": "I wish I used node professionally",
+        "user": "U15HRTAHL",
+        "ts": "1554389782.023500"
+    },
+    {
+        "client_msg_id": "68341bfd-efd7-4126-86c1-57f25846a865",
+        "type": "message",
+        "text": "1 language to rule them all",
+        "user": "U15HRTAHL",
+        "ts": "1554389788.024000"
+    },
+    {
+        "client_msg_id": "5bf54d4a-cdde-46d5-b327-e8fa8600a5e5",
+        "type": "message",
+        "text": "JS?",
+        "user": "U15HSHSS2",
+        "ts": "1554389790.024100"
+    },
+    {
+        "client_msg_id": "0d17ac37-ef7a-48da-960f-f4f92e604617",
+        "type": "message",
+        "text": "I wish Job postings didn't ask for specific languages",
+        "user": "U15J5H60P",
+        "ts": "1554389792.024300"
+    },
+    {
+        "client_msg_id": "09d721b8-5828-4821-b92b-daac7f719104",
+        "type": "message",
+        "text": "Is Node just JavaScript?",
+        "user": "U15HSHSS2",
+        "ts": "1554389859.024800"
+    },
+    {
+        "client_msg_id": "C0DBDF75-5371-493D-825E-05AF33720395",
+        "type": "message",
+        "text": "C# is suuuuper easy",
+        "user": "U15HY5TG8",
+        "ts": "1554389877.025200"
+    },
+    {
+        "client_msg_id": "9d60229f-bcef-412a-8e41-200aae5d59a7",
+        "type": "message",
+        "text": "yes tommy",
+        "user": "U15HRTAHL",
+        "ts": "1554389882.025400"
+    },
+    {
+        "client_msg_id": "efe89941-34b9-4ed8-9256-79679e137c9b",
+        "type": "message",
+        "text": "So what talks to the database?",
+        "user": "U15HSHSS2",
+        "ts": "1554389896.025900"
+    },
+    {
+        "client_msg_id": "aae847c2-3418-47a3-8ede-25d8fd2c961d",
+        "type": "message",
+        "text": "Sequelize",
+        "user": "U15HRTAHL",
+        "ts": "1554389901.026300"
+    },
+    {
+        "client_msg_id": "425b66d3-85c5-4cc7-87bb-b8f45cbb26cf",
+        "type": "message",
+        "text": "js -&gt; database?",
+        "user": "U15HSHSS2",
+        "ts": "1554389902.026400"
+    },
+    {
+        "client_msg_id": "b4f648d6-e06a-4633-acf1-1fbbb00e6525",
+        "type": "message",
+        "text": "They have middleware",
+        "user": "U15J5H60P",
+        "ts": "1554389903.026500"
+    },
+    {
+        "client_msg_id": "b5172569-c02b-422f-ad84-d439e8623cc4",
+        "type": "message",
+        "text": "JS uses a package called sequelize to make the connection to the db",
+        "user": "U15J5H60P",
+        "ts": "1554389918.027000"
+    },
+    {
+        "client_msg_id": "1d9ec4d0-705f-495c-b3cf-22cbcde2bc6a",
+        "type": "message",
+        "text": "huh",
+        "user": "U15HSHSS2",
+        "ts": "1554389923.027300"
+    },
+    {
+        "client_msg_id": "b7cd33ed-dbe6-4a06-8965-85e381d2d19b",
+        "type": "message",
+        "text": "which is written in JS",
+        "user": "U15HRTAHL",
+        "ts": "1554389928.027500"
+    },
+    {
+        "client_msg_id": "369b6b53-56ee-43a0-9e6c-1153ac4141e3",
+        "type": "message",
+        "text": "yeah we just use .Net",
+        "user": "U15HSHSS2",
+        "ts": "1554389942.027700"
+    },
+    {
+        "client_msg_id": "2421fe8c-1b7a-4e5c-ae79-2470a214acc6",
+        "type": "message",
+        "text": "<http:\/\/docs.sequelizejs.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1554389944.027900",
+        "attachments": [
+            {
+                "title": "Sequelize",
+                "title_link": "http:\/\/docs.sequelizejs.com\/",
+                "text": "Node.js ORM for PostgreSQL, MySQL, SQLite and MSSQL",
+                "fallback": "Sequelize",
+                "from_url": "http:\/\/docs.sequelizejs.com\/",
+                "service_icon": "http:\/\/docs.sequelizejs.com\/favicon.ico",
+                "service_name": "docs.sequelizejs.com",
+                "id": 1,
+                "original_url": "http:\/\/docs.sequelizejs.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "eaa61900-2e83-4e0b-bf3d-ad2f78a5360b",
+        "type": "message",
+        "text": "I write the JS for the page, then the C# backend, then the SQL",
+        "user": "U15HSHSS2",
+        "ts": "1554389960.028400"
+    },
+    {
+        "client_msg_id": "33b3c929-9abb-4a33-be08-a3282200afcb",
+        "type": "message",
+        "text": "then send it off to the front end engineer if needed",
+        "user": "U15HSHSS2",
+        "ts": "1554389970.028700"
+    },
+    {
+        "client_msg_id": "1ce94404-0b5d-48b2-945b-0949ae75d749",
+        "type": "message",
+        "text": "niceee",
+        "user": "U15HRTAHL",
+        "ts": "1554389976.028900"
+    },
+    {
+        "client_msg_id": "02971adb-aa96-46e2-95ed-bee292fc3951",
+        "type": "message",
+        "text": "I honestly have no idea how people become good at this shit",
+        "user": "U15HRTAHL",
+        "ts": "1554390031.029300"
+    },
+    {
+        "client_msg_id": "F80BE09D-9C82-45DA-8860-DEDD11C7F410",
+        "type": "message",
+        "text": "Both have its perks",
+        "user": "U15HY5TG8",
+        "ts": "1554390039.029700"
+    },
+    {
+        "client_msg_id": "3CBB349F-FE44-4E52-B872-9D50AEA9D8CF",
+        "type": "message",
+        "text": "At what? .net?",
+        "user": "U15HY5TG8",
+        "ts": "1554390051.030000"
+    },
+    {
+        "client_msg_id": "ddaefa77-b713-4304-bb2b-b53be21c46cf",
+        "type": "message",
+        "text": "all of it",
+        "user": "U15HRTAHL",
+        "ts": "1554390058.030200"
+    },
+    {
+        "client_msg_id": "77799f9c-3b11-4bf9-9d90-6f3f36f260a2",
+        "type": "message",
+        "text": "visually appealing UI",
+        "user": "U15HRTAHL",
+        "ts": "1554390066.030400"
+    },
+    {
+        "client_msg_id": "00c50923-71ce-48e5-85a9-e192bdb6bf4f",
+        "type": "message",
+        "text": "scalable back end",
+        "user": "U15HRTAHL",
+        "ts": "1554390069.030600"
+    },
+    {
+        "client_msg_id": "7D0CB120-26AA-4B4B-AF04-090A468A8B62",
+        "type": "message",
+        "text": "Youll get there",
+        "user": "U15HY5TG8",
+        "ts": "1554390101.030900"
+    },
+    {
+        "client_msg_id": "2b9225f0-1904-4444-be14-f62800a7d066",
+        "type": "message",
+        "text": "these kids in elementary school are gonna be coming out of high school with skills that we have now",
+        "user": "U15HRTAHL",
+        "ts": "1554390126.031500"
+    },
+    {
+        "client_msg_id": "1B2671ED-FB6A-43B0-A894-D0F359D8D3BD",
+        "type": "message",
+        "text": "Yeahhhh",
+        "user": "U15HY5TG8",
+        "ts": "1554390138.031700"
+    },
+    {
+        "client_msg_id": "facbaffd-4877-4778-b137-72cbfeee2d83",
+        "type": "message",
+        "text": "Doubt it",
+        "user": "U15J5H60P",
+        "ts": "1554390209.031900"
+    },
+    {
+        "client_msg_id": "eeb1748b-0622-4f77-a0fd-a4463693f5b9",
+        "type": "message",
+        "text": "College is a game changer",
+        "user": "U15J5H60P",
+        "ts": "1554390212.032100"
+    },
+    {
+        "client_msg_id": "46979852-1eee-4464-84eb-141d2133bd9c",
+        "type": "message",
+        "text": "It's 100% obvious in the workplace who has an education and who is self taught",
+        "user": "U15J5H60P",
+        "ts": "1554390225.032500"
+    },
+    {
+        "client_msg_id": "4a7c471b-7f90-4be3-be1a-06cf0562617a",
+        "type": "message",
+        "text": "Except in Tom's case",
+        "user": "U15J5H60P",
+        "ts": "1554390240.032900"
+    },
+    {
+        "client_msg_id": "512DBE00-6D10-4F9D-885E-0CBA1D903010",
+        "type": "message",
+        "text": "Thats fair",
+        "user": "U15HY5TG8",
+        "ts": "1554390244.033300"
+    },
+    {
+        "client_msg_id": "128eaa0d-d24c-486b-a612-cbe4b185cea6",
+        "type": "message",
+        "text": "College couldn't help him",
+        "user": "U15J5H60P",
+        "ts": "1554390245.033400"
+    },
+    {
+        "client_msg_id": "43228719-4CCB-469F-BEDE-74AE9737CECD",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1554390249.033600"
+    },
+    {
+        "client_msg_id": "A39612D4-95C6-4086-81B7-879F30FB0954",
+        "type": "message",
+        "text": "Hanging on by a thread ",
+        "user": "U15HY5TG8",
+        "ts": "1554390267.034400"
+    },
+    {
+        "client_msg_id": "2ebd58ff-e7fb-4667-84d5-764f2083532c",
+        "type": "message",
+        "text": "College couldn't help me cuz I was so far above that shit already :sunglasses:",
+        "user": "U15HSHSS2",
+        "ts": "1554390269.034500"
+    },
+    {
+        "client_msg_id": "95C8AFB8-5AA4-47A1-A365-B27F7BA66FBA",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1554390280.034800"
+    },
+    {
+        "client_msg_id": "8f5cecfd-e824-43c0-896f-e539be63d745",
+        "type": "message",
+        "text": "`while(true) { doHack(); }`",
+        "user": "U15J5H60P",
+        "ts": "1554390293.035300"
+    },
+    {
+        "client_msg_id": "83fe6e0a-bb1c-4acf-9b67-354b485e1a93",
+        "type": "message",
+        "text": "I was making asteroids in 8th grade",
+        "user": "U15HSHSS2",
+        "ts": "1554390293.035400"
+    },
+    {
+        "client_msg_id": "ef77a5b0-f043-4fec-b893-7d3cc6086b66",
+        "type": "message",
+        "text": "Yeah, but were you doing it with a binary search tree?",
+        "user": "U15J5H60P",
+        "ts": "1554390303.035800"
+    },
+    {
+        "client_msg_id": "2010745E-6123-467A-AFCF-6F53138603F9",
+        "type": "message",
+        "text": "And adddddding yourself back in?",
+        "user": "U15HY5TG8",
+        "ts": "1554390326.036500"
+    },
+    {
+        "client_msg_id": "84f8d623-a318-4f05-90db-9e61ca330610",
+        "type": "message",
+        "text": "nah I was making fires in the woods and smoking cigs i found on the side of the road in 8th grade lol",
+        "user": "U15HSHSS2",
+        "ts": "1554390345.037000"
+    },
+    {
+        "client_msg_id": "0cb09923-7694-4625-a201-ce935b33af14",
+        "type": "message",
+        "text": "didn't even know what a comptuer was",
+        "user": "U15HSHSS2",
+        "ts": "1554390353.037300"
+    },
+    {
+        "client_msg_id": "991cfc7a-06a6-436c-8a7b-5934e709f8f0",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1554390360.037500"
+    },
+    {
+        "client_msg_id": "aac0732e-a89d-4240-b868-a0c3e009154e",
+        "type": "message",
+        "text": "You smoked cigs?",
+        "user": "U15J5H60P",
+        "ts": "1554390365.037800"
+    },
+    {
+        "client_msg_id": "5c75faf9-0fe4-40de-a192-cdf34b495d58",
+        "type": "message",
+        "text": "looonnggg time ago",
+        "user": "U15HSHSS2",
+        "ts": "1554390372.038000"
+    },
+    {
+        "client_msg_id": "57c928a7-b7db-46cd-b338-135b79f0da6c",
+        "type": "message",
+        "text": "I grew up with some bad people",
+        "user": "U15HSHSS2",
+        "ts": "1554390379.038300"
+    },
+    {
+        "client_msg_id": "2306fde7-1a7b-4e93-88ac-da94e8e37f24",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1554390382.038600"
+    },
+    {
+        "client_msg_id": "631eec95-5480-4cb2-a23a-64e0ba5b8d18",
+        "type": "message",
+        "text": "they were all 4-5 years older than me and complete fuck ups",
+        "user": "U15HSHSS2",
+        "ts": "1554390388.039000"
+    },
+    {
+        "client_msg_id": "5a1b4fc4-06db-48f1-9d9a-cbcd6a833058",
+        "type": "message",
+        "text": "Setting bombs off in McDonald's parking lots",
+        "user": "U15J5H60P",
+        "ts": "1554390389.039100"
+    },
+    {
+        "client_msg_id": "f6d400d2-97d4-4662-a911-b572fe7ca990",
+        "type": "message",
+        "text": "1 is dead, 1 is a huge druggy and 1 is in prison",
+        "user": "U15HSHSS2",
+        "ts": "1554390408.039500"
+    },
+    {
+        "client_msg_id": "3382d1a8-8e3b-4d31-b31c-8e3356ce69f8",
+        "type": "message",
+        "text": "And 1 went to college to lead a successful life",
+        "user": "U15J5H60P",
+        "ts": "1554390424.039800"
+    },
+    {
+        "client_msg_id": "53324be0-8d75-43c5-825b-410f3dabb527",
+        "type": "message",
+        "text": "What a dynamic!",
+        "user": "U15J5H60P",
+        "ts": "1554390429.040000"
+    },
+    {
+        "client_msg_id": "0df56007-f1d2-42cc-ab95-00c9c6da9a0c",
+        "type": "message",
+        "text": "defying the oddsss",
+        "user": "U15HSHSS2",
+        "ts": "1554390441.040300"
+    },
+    {
+        "client_msg_id": "6D42FD25-FBB3-4C01-A706-F3197C9876D8",
+        "type": "message",
+        "text": "Lolol",
+        "user": "U15HY5TG8",
+        "ts": "1554390529.040600"
+    },
+    {
+        "client_msg_id": "58cdd2d9-dd4a-4949-8982-0c8ec4eb4de4",
+        "type": "message",
+        "text": "TEK Systems keeps calling me and I keep hitting them with the Google Call screen",
+        "user": "U15HRTAHL",
+        "ts": "1554390666.041100"
+    },
+    {
+        "client_msg_id": "e244fbf2-3458-460f-bfd4-c26facd3ef8c",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1554390673.041500"
+    },
+    {
+        "client_msg_id": "a29fd784-825a-4711-b70d-3823e7f82181",
+        "type": "message",
+        "text": "I can’t wait until all phones have this",
+        "user": "U15HRTAHL",
+        "ts": "1554390674.041600"
+    },
+    {
+        "client_msg_id": "5031ad13-cbce-4117-8cef-e7054aba3641",
+        "type": "message",
+        "text": "Same",
+        "user": "U15J5H60P",
+        "ts": "1554390681.041800"
+    },
+    {
+        "client_msg_id": "3ffca862-0bd2-4a2f-89bd-b1a7237ea1d8",
+        "type": "message",
+        "text": "Anyone want to write a python etl script for me?",
+        "user": "U15J5H60P",
+        "ts": "1554393055.042100"
+    },
+    {
+        "client_msg_id": "0ae6a9a5-ad22-4a5d-94ac-d56fea208f51",
+        "type": "message",
+        "text": "sure",
+        "user": "U15HRTAHL",
+        "ts": "1554393068.042300"
+    },
+    {
+        "client_msg_id": "5322c5ce-2b93-417a-893b-89db4166bef0",
+        "type": "message",
+        "text": "you can do it yourself. all you have to do is type to us what you want it to do, and then rename it as .py",
+        "user": "U15HY5TG8",
+        "ts": "1554393169.043000"
+    }
+]

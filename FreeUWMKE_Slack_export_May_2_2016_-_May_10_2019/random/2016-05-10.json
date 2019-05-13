@@ -1,0 +1,165 @@
+[
+    {
+        "type": "message",
+        "text": "Java 8 has a new way of doing loops",
+        "user": "U15HRTAHL",
+        "ts": "1462906373.000002"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/www.deadcoderising.com\/java-8-no-more-loops\/>",
+        "user": "U15HRTAHL",
+        "ts": "1462906375.000003",
+        "attachments": [
+            {
+                "service_name": "Dead Code Rising",
+                "title": "Java 8: No more loops",
+                "title_link": "http:\/\/www.deadcoderising.com\/java-8-no-more-loops\/",
+                "text": "As I've written before, the new functional features in Java 8 is a game changer. It’s a new world for the Java developer and it's time to adjust to it. In this post we’ll look at some alternative...",
+                "fallback": "Dead Code Rising: Java 8: No more loops",
+                "ts": 1421047348,
+                "from_url": "http:\/\/www.deadcoderising.com\/java-8-no-more-loops\/",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I see -&gt;",
+        "user": "U15J5H60P",
+        "ts": "1462933502.000005"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1462933503.000006"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15J5H60P",
+        "ts": "1462933505.000007"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1462933505.000008"
+    },
+    {
+        "type": "message",
+        "text": "Flatmap?",
+        "user": "U15J5H60P",
+        "ts": "1462933528.000009"
+    },
+    {
+        "type": "message",
+        "text": "Nope",
+        "user": "U15J5H60P",
+        "ts": "1462933529.000010"
+    },
+    {
+        "type": "message",
+        "text": "They’re trying to push functional programming on me",
+        "user": "U15J5H60P",
+        "ts": "1462933537.000011"
+    },
+    {
+        "type": "message",
+        "text": "Not going to happen",
+        "user": "U15J5H60P",
+        "ts": "1462933540.000012"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15J5H60P",
+        "ts": "1462933541.000013"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15J5H60P",
+        "ts": "1462933541.000014"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15J5H60P",
+        "ts": "1462933542.000015"
+    },
+    {
+        "type": "message",
+        "text": "lol yea i see that. it bothers me that there is *.filter(al;skdfa;lsdfj)* with nothing before the *.filter*",
+        "user": "U15HY5TG8",
+        "ts": "1462933747.000016"
+    },
+    {
+        "type": "message",
+        "subtype": "me_message",
+        "text": "facepalm",
+        "user": "U15J5H60P",
+        "ts": "1462933802.000017"
+    },
+    {
+        "type": "message",
+        "text": "so i guess this leaves no choice but to forget java and go to c++ huh?",
+        "user": "U15HY5TG8",
+        "ts": "1462933840.000019"
+    },
+    {
+        "type": "message",
+        "text": "`return articles.stream().filter(article -&gt; article.getTags().contains(\"Java\")).findFirst();`",
+        "user": "U15J5H60P",
+        "ts": "1462933851.000021"
+    },
+    {
+        "type": "message",
+        "text": "Is that better, ev?",
+        "user": "U15J5H60P",
+        "ts": "1462933863.000022"
+    },
+    {
+        "type": "message",
+        "text": "I will never let traditional loops die lol",
+        "user": "U15J5H60P",
+        "ts": "1462933883.000023"
+    },
+    {
+        "type": "message",
+        "text": "All of those are all one line. Just separated onto different lines because of space.",
+        "user": "U15J5H60P",
+        "ts": "1462933901.000024"
+    },
+    {
+        "type": "message",
+        "text": "slightly but still annoying to look at",
+        "user": "U15HY5TG8",
+        "ts": "1462934026.000025"
+    },
+    {
+        "type": "message",
+        "text": "It is annoying to look at. But I wonder how it would feel if that’s how we learned to do things.",
+        "user": "U15J5H60P",
+        "ts": "1462934176.000026"
+    },
+    {
+        "type": "message",
+        "text": "Oh well",
+        "user": "U15J5H60P",
+        "ts": "1462934189.000027"
+    },
+    {
+        "type": "message",
+        "text": "Maybe next life",
+        "user": "U15J5H60P",
+        "ts": "1462934190.000028"
+    },
+    {
+        "type": "message",
+        "text": "got that right ha",
+        "user": "U15HY5TG8",
+        "ts": "1462934204.000029"
+    }
+]

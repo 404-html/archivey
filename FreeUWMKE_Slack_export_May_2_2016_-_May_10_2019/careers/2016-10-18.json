@@ -1,0 +1,137 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476838705.000002",
+        "text": "<@U15J5H60P> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476838705.000003",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476838705.000004",
+        "text": "<@U15HY5TG8> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476838705.000005",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1476838705.000006",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15J5H60P"
+    },
+    {
+        "type": "message",
+        "text": "Yo,",
+        "user": "U15J5H60P",
+        "ts": "1476838709.000007"
+    },
+    {
+        "type": "message",
+        "text": "do you guys know the difference between the following:",
+        "user": "U15J5H60P",
+        "ts": "1476838717.000008"
+    },
+    {
+        "type": "message",
+        "text": "Web Developer, Front End Developer, Back End Developer, Full Stack Developer",
+        "user": "U15J5H60P",
+        "ts": "1476838728.000009"
+    },
+    {
+        "type": "message",
+        "text": "Id like to think i do",
+        "user": "U15HY5TG8",
+        "ts": "1476838750.000010"
+    },
+    {
+        "type": "message",
+        "text": "Actually not really between front end and web",
+        "user": "U15HY5TG8",
+        "ts": "1476838774.000011"
+    },
+    {
+        "type": "message",
+        "text": "Web means js only?",
+        "user": "U15HY5TG8",
+        "ts": "1476838788.000012"
+    },
+    {
+        "type": "message",
+        "text": "Thanks, Ev. Anyone else have thoughts?",
+        "user": "U15J5H60P",
+        "ts": "1476839428.000013"
+    },
+    {
+        "type": "message",
+        "text": "Ooo you were actually asking not just testing",
+        "user": "U15HY5TG8",
+        "ts": "1476840217.000014"
+    },
+    {
+        "type": "message",
+        "text": "I was actually asking.",
+        "user": "U15J5H60P",
+        "ts": "1476840232.000015"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh ok. \n1.backend = server side-java\/c\/sql, as a package \n2.front end = html, js,etc as a package\n3.web = js and other similar non markups\n4.full stack = everything.\n",
+        "user": "U15HY5TG8",
+        "ts": "1476840407.000016"
+    },
+    {
+        "type": "message",
+        "text": "Thats how i interpret them",
+        "user": "U15HY5TG8",
+        "ts": "1476840415.000017"
+    },
+    {
+        "type": "message",
+        "text": "Evan is pretty much correct ",
+        "user": "U15HRTAHL",
+        "ts": "1476841229.000018"
+    },
+    {
+        "type": "message",
+        "text": "For once in my life",
+        "user": "U15HY5TG8",
+        "ts": "1476841294.000019"
+    },
+    {
+        "type": "message",
+        "text": "Joseph",
+        "user": "U15J5H60P",
+        "ts": "1476849291.000020"
+    },
+    {
+        "type": "message",
+        "text": "What is the difference between web and front end?",
+        "user": "U15J5H60P",
+        "ts": "1476849303.000021"
+    },
+    {
+        "type": "message",
+        "text": "In your words",
+        "user": "U15J5H60P",
+        "ts": "1476849314.000022"
+    }
+]

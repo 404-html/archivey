@@ -1,0 +1,618 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> jesus google app engine is so much easier than heroku",
+        "user": "U15HRTAHL",
+        "ts": "1476059946.000002"
+    },
+    {
+        "type": "message",
+        "text": "Yea i dont follow heroku",
+        "user": "U15HY5TG8",
+        "ts": "1476059985.000003"
+    },
+    {
+        "type": "message",
+        "text": "me either",
+        "user": "U15HRTAHL",
+        "ts": "1476059998.000004"
+    },
+    {
+        "type": "message",
+        "text": "Well should we switch? The only logical reason then to stay with heroku is to gain the experience",
+        "user": "U15HY5TG8",
+        "ts": "1476060047.000005"
+    },
+    {
+        "type": "message",
+        "text": "I just don't like the way app engine handles bindings between front end and back end",
+        "user": "U15HRTAHL",
+        "ts": "1476060061.000006"
+    },
+    {
+        "type": "message",
+        "text": "We could do aws",
+        "user": "U15HY5TG8",
+        "ts": "1476060085.000007"
+    },
+    {
+        "type": "message",
+        "text": "i'll have to look into it",
+        "user": "U15HRTAHL",
+        "ts": "1476060094.000008"
+    },
+    {
+        "type": "message",
+        "text": "have you",
+        "user": "U15HRTAHL",
+        "ts": "1476060095.000009"
+    },
+    {
+        "type": "message",
+        "text": "No i havent. Only reason why i mention it is because it must be good enough is because master lock uses it",
+        "user": "U15HY5TG8",
+        "ts": "1476060152.000010"
+    },
+    {
+        "type": "message",
+        "text": "Aws isn't free ",
+        "user": "U15J5H60P",
+        "ts": "1476060241.000011"
+    },
+    {
+        "type": "message",
+        "text": "They prob have a trial or something though right?",
+        "user": "U15HY5TG8",
+        "ts": "1476060269.000012"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8> what version of OSX are you using",
+        "user": "U15HRTAHL",
+        "ts": "1476060351.000013"
+    },
+    {
+        "type": "message",
+        "text": "Snow Leppard",
+        "user": "U15J5H60P",
+        "ts": "1476060386.000014"
+    },
+    {
+        "type": "message",
+        "text": "Leopard*",
+        "user": "U15J5H60P",
+        "ts": "1476060393.000015"
+    },
+    {
+        "type": "message",
+        "text": "El capitan",
+        "user": "U15HY5TG8",
+        "ts": "1476060399.000016"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> do you have issues with your top bar disappearing and squishing your screen",
+        "user": "U15HRTAHL",
+        "ts": "1476060453.000017"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15J5H60P",
+        "ts": "1476060474.000018"
+    },
+    {
+        "type": "message",
+        "text": "I'm on Sierra",
+        "user": "U15J5H60P",
+        "ts": "1476060481.000019"
+    },
+    {
+        "type": "message",
+        "text": "me too",
+        "user": "U15HRTAHL",
+        "ts": "1476060485.000020"
+    },
+    {
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1476060545.000022"
+    },
+    {
+        "type": "message",
+        "text": "When did sierra come out?",
+        "user": "U15HY5TG8",
+        "ts": "1476060565.000023"
+    },
+    {
+        "type": "message",
+        "text": "this only happens when I have apps in full screen",
+        "user": "U15HRTAHL",
+        "ts": "1476060582.000025"
+    },
+    {
+        "type": "message",
+        "text": "Damn",
+        "user": "U15J5H60P",
+        "ts": "1476061728.000026"
+    },
+    {
+        "type": "message",
+        "text": "That's crazy",
+        "user": "U15J5H60P",
+        "ts": "1476061731.000027"
+    },
+    {
+        "type": "message",
+        "text": "What",
+        "user": "U15HY5TG8",
+        "ts": "1476061742.000028"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1476062048.000029"
+    },
+    {
+        "type": "message",
+        "text": "do you know why my bootstrap grids are stacking vertically and not side by side?",
+        "user": "U15HRTAHL",
+        "ts": "1476062073.000030"
+    },
+    {
+        "type": "message",
+        "text": "```\n&lt;div class=\"container\"&gt;\n        &lt;div class=\"row\"&gt;\n            &lt;div class=\"col-sm-6\"&gt;\n                hello\n            &lt;\/div&gt;\n            &lt;div class=\"col-sm-6\"&gt;\n                hello\n            &lt;\/div&gt;\n        &lt;\/div&gt;\n    &lt;\/div&gt;\n```",
+        "user": "U15HRTAHL",
+        "ts": "1476062085.000031"
+    },
+    {
+        "type": "message",
+        "text": "both in the same row",
+        "user": "U15HRTAHL",
+        "ts": "1476062095.000032"
+    },
+    {
+        "type": "message",
+        "text": "and both are 6 wide",
+        "user": "U15HRTAHL",
+        "ts": "1476062102.000033"
+    },
+    {
+        "type": "message",
+        "text": "Do col lg instead",
+        "user": "U15J5H60P",
+        "ts": "1476062134.000034"
+    },
+    {
+        "type": "message",
+        "text": "Or add col md, lg, and xl",
+        "user": "U15J5H60P",
+        "ts": "1476062182.000035"
+    },
+    {
+        "type": "message",
+        "text": "i've tried every combination",
+        "user": "U15HRTAHL",
+        "ts": "1476062201.000036",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1476062206.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "Hmmm. Not sure then",
+        "user": "U15J5H60P",
+        "ts": "1476062208.000038"
+    },
+    {
+        "type": "message",
+        "text": "hs",
+        "user": "U15HRTAHL",
+        "ts": "1476062232.000039"
+    },
+    {
+        "type": "message",
+        "text": "ha",
+        "user": "U15HRTAHL",
+        "ts": "1476062233.000040"
+    },
+    {
+        "type": "message",
+        "text": "ik why",
+        "user": "U15HRTAHL",
+        "ts": "1476062236.000041"
+    },
+    {
+        "type": "message",
+        "text": "The sm tells bootstrap the screen size",
+        "user": "U15J5H60P",
+        "ts": "1476062242.000042"
+    },
+    {
+        "type": "message",
+        "text": "What did you do?",
+        "user": "U15J5H60P",
+        "ts": "1476062245.000043"
+    },
+    {
+        "type": "message",
+        "text": "`Uncaught Error: Bootstrap's JavaScript requires jQuery`",
+        "user": "U15HRTAHL",
+        "ts": "1476062270.000044"
+    },
+    {
+        "type": "message",
+        "text": "Derp",
+        "user": "U15J5H60P",
+        "ts": "1476062288.000045"
+    },
+    {
+        "type": "message",
+        "text": "The size is 12...6+6",
+        "user": "U15HY5TG8",
+        "ts": "1476062291.000046"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1476062298.000047"
+    },
+    {
+        "type": "message",
+        "text": "Evan",
+        "user": "U15J5H60P",
+        "ts": "1476062312.000048"
+    },
+    {
+        "type": "message",
+        "text": "Shhhhh",
+        "user": "U15J5H60P",
+        "ts": "1476062314.000049"
+    },
+    {
+        "type": "message",
+        "text": ":hearts:",
+        "user": "U15J5H60P",
+        "ts": "1476062321.000050"
+    },
+    {
+        "type": "message",
+        "text": "O whoops i misread",
+        "user": "U15HY5TG8",
+        "ts": "1476062336.000051"
+    },
+    {
+        "type": "message",
+        "text": "I thought i saw horizontal",
+        "user": "U15HY5TG8",
+        "ts": "1476062348.000052"
+    },
+    {
+        "type": "message",
+        "text": "Big boys are talking shhhh",
+        "user": "U15J5H60P",
+        "ts": "1476062351.000053"
+    },
+    {
+        "type": "message",
+        "text": "Shut up",
+        "user": "U15HY5TG8",
+        "ts": "1476062359.000054"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1476062362.000055"
+    },
+    {
+        "type": "message",
+        "text": "Joe, when are you going to be single?",
+        "user": "U15J5H60P",
+        "ts": "1476062376.000056"
+    },
+    {
+        "type": "message",
+        "text": "never",
+        "user": "U15HRTAHL",
+        "ts": "1476062381.000057"
+    },
+    {
+        "type": "message",
+        "text": "im tied to the jew",
+        "user": "U15HRTAHL",
+        "ts": "1476062385.000058"
+    },
+    {
+        "type": "message",
+        "text": "also",
+        "user": "U15HRTAHL",
+        "ts": "1476062386.000059"
+    },
+    {
+        "type": "message",
+        "text": "she's right next to me",
+        "user": "U15HRTAHL",
+        "ts": "1476062390.000060"
+    },
+    {
+        "type": "message",
+        "text": "I coulda told you sm meant screen size you cuck",
+        "user": "U15HY5TG8",
+        "ts": "1476062390.000061"
+    },
+    {
+        "type": "message",
+        "text": "so don't tell her about the mexican I slept with",
+        "user": "U15HRTAHL",
+        "ts": "1476062398.000062"
+    },
+    {
+        "type": "message",
+        "text": "that burrito was so good",
+        "user": "U15HRTAHL",
+        "ts": "1476062404.000063"
+    },
+    {
+        "type": "message",
+        "text": "I had to stick my dick in it",
+        "user": "U15HRTAHL",
+        "ts": "1476062410.000064"
+    },
+    {
+        "type": "message",
+        "text": "Just dump her instead of going behind her back",
+        "user": "U15J5H60P",
+        "ts": "1476062448.000065"
+    },
+    {
+        "type": "message",
+        "text": "Are you ever not with her?",
+        "user": "U15J5H60P",
+        "ts": "1476062453.000066"
+    },
+    {
+        "type": "message",
+        "text": "Besides work",
+        "user": "U15J5H60P",
+        "ts": "1476062459.000067"
+    },
+    {
+        "type": "message",
+        "text": "And school",
+        "user": "U15J5H60P",
+        "ts": "1476062462.000068"
+    },
+    {
+        "type": "message",
+        "text": "No",
+        "user": "U15HY5TG8",
+        "ts": "1476062465.000069"
+    },
+    {
+        "type": "message",
+        "text": "fuck man they still wont go side by side",
+        "user": "U15HRTAHL",
+        "ts": "1476062663.000070"
+    },
+    {
+        "type": "message",
+        "text": "Try getting rid of the div row",
+        "user": "U15HY5TG8",
+        "ts": "1476062729.000071"
+    },
+    {
+        "type": "message",
+        "text": "Maybe try applying the div to your relationship",
+        "user": "U15J5H60P",
+        "ts": "1476062747.000072"
+    },
+    {
+        "type": "message",
+        "text": "i dont get it",
+        "user": "U15HRTAHL",
+        "ts": "1476062792.000073"
+    },
+    {
+        "type": "message",
+        "text": "Col = md",
+        "user": "U15HY5TG8",
+        "ts": "1476062800.000074"
+    },
+    {
+        "type": "message",
+        "text": "Div class= span6",
+        "user": "U15HY5TG8",
+        "ts": "1476062879.000075"
+    },
+    {
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1476062993.000076"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15J5H60P",
+        "ts": "1476063003.000077"
+    },
+    {
+        "type": "message",
+        "text": "Container-fluid",
+        "user": "U15HY5TG8",
+        "ts": "1476063009.000078"
+    },
+    {
+        "type": "message",
+        "text": "Row-fluid",
+        "user": "U15HY5TG8",
+        "ts": "1476063017.000079"
+    },
+    {
+        "type": "message",
+        "text": "Get that span shit out of here",
+        "user": "U15J5H60P",
+        "ts": "1476063017.000080"
+    },
+    {
+        "type": "message",
+        "text": "Try writing a button",
+        "user": "U15J5H60P",
+        "ts": "1476063027.000081"
+    },
+    {
+        "type": "message",
+        "text": "Is it bootstrap ",
+        "user": "U15J5H60P",
+        "ts": "1476063035.000082"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1476063040.000083"
+    },
+    {
+        "type": "message",
+        "text": "Maybe bootstrap isn't working ",
+        "user": "U15J5H60P",
+        "ts": "1476063040.000084"
+    },
+    {
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1476063051.000085"
+    },
+    {
+        "type": "message",
+        "text": "Go to SonnyBrooksStudios ",
+        "user": "U15J5H60P",
+        "ts": "1476063065.000086"
+    },
+    {
+        "type": "message",
+        "text": "Check out the layout on my features",
+        "user": "U15J5H60P",
+        "ts": "1476063076.000087"
+    },
+    {
+        "type": "message",
+        "text": "Did you try smaller numbers?",
+        "user": "U15HY5TG8",
+        "ts": "1476063080.000088"
+    },
+    {
+        "type": "message",
+        "text": "Evan",
+        "user": "U15J5H60P",
+        "ts": "1476063087.000089"
+    },
+    {
+        "type": "message",
+        "text": "I like your hair",
+        "user": "U15J5H60P",
+        "ts": "1476063093.000090"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1476063111.000091"
+    },
+    {
+        "type": "message",
+        "text": "Caption was \"you know youre a hardcore programmer when this is your keyboard\"",
+        "user": "U15HY5TG8",
+        "ts": "1476065866.000093"
+    },
+    {
+        "type": "message",
+        "text": "lol wtf did you tag me in",
+        "user": "U15HRTAHL",
+        "ts": "1476066013.000094"
+    },
+    {
+        "type": "message",
+        "text": "Did you watch?",
+        "user": "U15HY5TG8",
+        "ts": "1476066064.000095"
+    },
+    {
+        "type": "message",
+        "text": "That's not even funny",
+        "user": "U15J5H60P",
+        "ts": "1476066216.000096"
+    },
+    {
+        "type": "message",
+        "text": "The keyboard thing",
+        "user": "U15J5H60P",
+        "ts": "1476066220.000097"
+    },
+    {
+        "type": "message",
+        "text": "The Facebook thing was grossly funny",
+        "user": "U15J5H60P",
+        "ts": "1476066232.000098"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯ and yeeee",
+        "user": "U15HY5TG8",
+        "ts": "1476066343.000099"
+    },
+    {
+        "type": "message",
+        "text": "what is r\/ooer?",
+        "user": "U15HY5TG8",
+        "ts": "1476066886.000100"
+    },
+    {
+        "type": "message",
+        "text": "<@U15J5H60P> take that shit to general",
+        "user": "U15HY5TG8",
+        "ts": "1476066926.000102"
+    },
+    {
+        "type": "message",
+        "text": "@evan",
+        "user": "U15J5H60P",
+        "ts": "1476067135.000104"
+    },
+    {
+        "type": "message",
+        "text": "Get fucked",
+        "user": "U15J5H60P",
+        "ts": "1476067138.000105"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HY5TG8",
+        "ts": "1476067147.000106"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1476067188.000107"
+    },
+    {
+        "type": "message",
+        "text": "actually...i wish i could get fucked...its been about 3 months",
+        "user": "U15HY5TG8",
+        "ts": "1476067210.000108"
+    },
+    {
+        "type": "message",
+        "text": "Fgt",
+        "user": "U15J5H60P",
+        "ts": "1476067957.000109"
+    }
+]

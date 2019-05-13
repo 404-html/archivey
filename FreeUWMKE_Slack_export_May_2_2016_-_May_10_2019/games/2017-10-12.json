@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1507823355.000102",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1507823584.000483",
+        "text": "<@U15HSHSS2> archived the channel"
+    }
+]

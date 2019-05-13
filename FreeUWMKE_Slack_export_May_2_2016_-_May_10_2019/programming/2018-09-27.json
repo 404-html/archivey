@@ -1,0 +1,179 @@
+[
+    {
+        "client_msg_id": "555742c1-c4ea-4934-9179-8165c63585e7",
+        "type": "message",
+        "text": "Anyone here interested in contributing to VS Code?",
+        "user": "U15J5H60P",
+        "ts": "1538074488.000100"
+    },
+    {
+        "client_msg_id": "2cc0800f-bbd3-4a3e-bb45-e7ea12220168",
+        "type": "message",
+        "text": "I have a feature request, but am too lazy to put in the 1-2 hours it would take to program.",
+        "user": "U15J5H60P",
+        "ts": "1538074503.000100"
+    },
+    {
+        "client_msg_id": "2682efb5-1b89-4767-a5fc-16258fabefba",
+        "type": "message",
+        "text": "I wouldn’t even know where to begin",
+        "user": "U15HRTAHL",
+        "ts": "1538074701.000200"
+    },
+    {
+        "client_msg_id": "c3e3b171-20b7-4d4b-9283-bea962ff3cba",
+        "type": "message",
+        "text": "<https:\/\/github.com\/Microsoft\/vscode\/issues\/22439>",
+        "user": "U15J5H60P",
+        "ts": "1538074715.000200",
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "Feature request: add opacity\/transparency setting for intellisense suggestions popup · Issue #22439 · Microsoft\/vscode",
+                "title_link": "https:\/\/github.com\/Microsoft\/vscode\/issues\/22439",
+                "text": "I could not find any settings relating to it, and no extension adding ability to tweak it, so a built in ability to tweak the pop-up window&amp;#39;s opacity will be much appreciated. if you ask &amp;quot;...",
+                "fallback": "GitHub: Feature request: add opacity\/transparency setting for intellisense suggestions popup · Issue #22439 · Microsoft\/vscode",
+                "from_url": "https:\/\/github.com\/Microsoft\/vscode\/issues\/22439",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/16275140?s=400&v=4",
+                "thumb_width": 250,
+                "thumb_height": 250,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/Microsoft\/vscode\/issues\/22439"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5ffeba95-2fd4-4738-bf11-780817c1ac7c",
+        "type": "message",
+        "text": "Already got it laid out for ya!",
+        "user": "U15J5H60P",
+        "ts": "1538074722.000100"
+    },
+    {
+        "client_msg_id": "19945ccd-dd18-46e4-a8bb-7b114baca586",
+        "type": "message",
+        "text": "Just need to add a few field",
+        "user": "U15J5H60P",
+        "ts": "1538074726.000200"
+    },
+    {
+        "client_msg_id": "248e431a-98dc-4a2e-8f3b-de2c8fc6dc0e",
+        "type": "message",
+        "text": "s",
+        "user": "U15J5H60P",
+        "ts": "1538074727.000100"
+    },
+    {
+        "client_msg_id": "f3496c9d-caba-40a3-a7ee-71863a7c06bd",
+        "type": "message",
+        "text": "I want VS Code's intellisense window to have some sort of opacity setting",
+        "user": "U15J5H60P",
+        "ts": "1538074742.000100"
+    },
+    {
+        "client_msg_id": "ce685045-a845-4499-95ed-5cd3a9e3396d",
+        "type": "message",
+        "text": "So I can see code that the intellisense blocks",
+        "user": "U15J5H60P",
+        "ts": "1538074748.000200"
+    },
+    {
+        "client_msg_id": "96167680-cdfa-4632-acda-46c4feed60b4",
+        "type": "message",
+        "text": "&gt; Before we can accept a pull request from you, you’ll need to sign a Contributor License Agreement (CLA). It is an automated process and you only need to do it once.\n\nTo enable us to quickly review and accept your pull requests, always create one pull request per issue and link the issue in the pull request. Never merge multiple requests in one unless they have the same root cause. Be sure to follow our Coding Guidelines and keep code changes as small as possible. Avoid pure formatting changes to code that has not been modified otherwise. Pull requests should contain tests whenever possible.",
+        "user": "U15HRTAHL",
+        "ts": "1538074806.000100"
+    },
+    {
+        "client_msg_id": "a3cb5153-4fc1-45dc-9030-9ed6065206ec",
+        "type": "message",
+        "text": "too much work",
+        "user": "U15HRTAHL",
+        "ts": "1538074810.000100",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1538074819.000000"
+        }
+    },
+    {
+        "client_msg_id": "7b79ca53-740c-4176-96ac-b3cba916a5e6",
+        "type": "message",
+        "text": "yeahhhhhhh",
+        "user": "U15J5H60P",
+        "ts": "1538074847.000100"
+    },
+    {
+        "client_msg_id": "9f82d6b1-f5aa-49b7-b9a8-be9e1c9fe522",
+        "type": "message",
+        "text": "Your contributions might be eligible for this <https:\/\/hacktoberfest.digitalocean.com\/>",
+        "user": "U15HSHSS2",
+        "ts": "1538074850.000100",
+        "attachments": [
+            {
+                "service_name": "DigitalOcean",
+                "title": "Hacktoberfest 2018 - DigitalOcean",
+                "title_link": "https:\/\/hacktoberfest.digitalocean.com\/",
+                "text": "Hacktoberfest is a month-long celebration of open source software.",
+                "fallback": "DigitalOcean: Hacktoberfest 2018 - DigitalOcean",
+                "image_url": "https:\/\/hacktoberfest.digitalocean.com\/assets\/hacktoberfest-2018-social-card-c8d2e1489f647f2e0a26e6f598adeb760872818905b34cd437afc7ac2857ceab.png",
+                "from_url": "https:\/\/hacktoberfest.digitalocean.com\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 103575,
+                "service_icon": "https:\/\/hacktoberfest.digitalocean.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/hacktoberfest.digitalocean.com\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e6df1c7b-f26f-4388-a6ea-95f05bd92b7e",
+        "type": "message",
+        "text": "That'd be pretty cool",
+        "user": "U15J5H60P",
+        "ts": "1538074868.000200"
+    },
+    {
+        "client_msg_id": "3ffbe404-7f51-4546-a187-e76d75c72cbb",
+        "type": "message",
+        "text": "luckily that feature wouldn't need tests",
+        "user": "U15J5H60P",
+        "ts": "1538074908.000100"
+    },
+    {
+        "client_msg_id": "a2c34fca-9693-4267-82c4-5e07d2c3feb5",
+        "type": "message",
+        "text": "Sounds like you’re all set and prepared to start contributing andrew!",
+        "user": "U15HRTAHL",
+        "ts": "1538074995.000100"
+    },
+    {
+        "client_msg_id": "24d7f27d-595d-4820-81f8-3303f8536302",
+        "type": "message",
+        "text": "I am! I tried but I keep getting lazy about it",
+        "user": "U15J5H60P",
+        "ts": "1538075017.000100"
+    },
+    {
+        "client_msg_id": "6aafa9e7-78fa-41c7-ab0b-3d589ab102f5",
+        "type": "message",
+        "text": "Maybe I'll do it one of these days",
+        "user": "U15J5H60P",
+        "ts": "1538075031.000100"
+    },
+    {
+        "client_msg_id": "90dbe071-2aad-48bf-a57f-701572de778e",
+        "type": "message",
+        "text": "little busy right now... but tomorrow for sure!",
+        "user": "U15HSHSS2",
+        "ts": "1538075206.000100"
+    },
+    {
+        "client_msg_id": "75a14ce3-cada-4f7b-86d8-5c5019be3426",
+        "type": "message",
+        "text": "lol Pretty much",
+        "user": "U15J5H60P",
+        "ts": "1538075214.000100"
+    }
+]

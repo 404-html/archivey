@@ -1,0 +1,441 @@
+[
+    {
+        "client_msg_id": "99CA5F43-B634-405B-80D6-3EAC49EE275C",
+        "type": "message",
+        "text": "<@U15HZ01QX> <@U15HRTAHL> <@U15HSHSS2>  heres your channel to post crude things such as shitting while running off a pier naked",
+        "user": "U15HY5TG8",
+        "ts": "1548787026.001100"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548787032.001300",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548787032.001500",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548787032.001700",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548787225.001900",
+        "text": "<@U15HZ01QX> has left the channel"
+    },
+    {
+        "client_msg_id": "18a03f70-ee55-4a8a-9bad-2e9f4bdb4298",
+        "type": "message",
+        "text": "James joined and left",
+        "user": "U15HRTAHL",
+        "ts": "1548787569.002100"
+    },
+    {
+        "client_msg_id": "bdb73a4d-8e01-4729-b846-c9a0d3ecc7a6",
+        "type": "message",
+        "text": "I kicked him lol",
+        "user": "U15J5H60P",
+        "ts": "1548787580.002700"
+    },
+    {
+        "client_msg_id": "375065d2-581a-4121-8c75-9a056a43be00",
+        "type": "message",
+        "text": "nvm",
+        "user": "U15HRTAHL",
+        "ts": "1548787584.003200"
+    },
+    {
+        "client_msg_id": "70E24C52-E0E9-4DF5-84E0-C66F79C206A8",
+        "type": "message",
+        "text": "What the hell",
+        "user": "U15HY5TG8",
+        "ts": "1548787590.003600"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1548787601.003900",
+        "text": "<@U15J5H60P> has left the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548787610.004300",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "client_msg_id": "b124baeb-c7a1-4934-bfd2-7cffaaa5cab1",
+        "type": "message",
+        "text": "<@U15J5H60P>",
+        "user": "U15HRTAHL",
+        "ts": "1548787622.004600"
+    },
+    {
+        "user": "U15J5H60P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548787623.004800",
+        "text": "<@U15J5H60P> has joined the channel",
+        "inviter": "U15HRTAHL"
+    },
+    {
+        "client_msg_id": "bfb692ea-3292-4329-bcc6-a44d3d312639",
+        "type": "message",
+        "text": "Thx",
+        "user": "U15J5H60P",
+        "ts": "1548787772.005000"
+    },
+    {
+        "client_msg_id": "5791593a-bd05-4834-a1f3-fcbdab6ffd2a",
+        "type": "message",
+        "text": "<@U15HZ01QX>",
+        "user": "U15HRTAHL",
+        "ts": "1548789378.005200"
+    },
+    {
+        "client_msg_id": "8973fb78-c5e1-4a03-92f2-6d81e7718c5d",
+        "type": "message",
+        "text": "this is that channel ffs",
+        "user": "U15HRTAHL",
+        "ts": "1548789385.005500"
+    },
+    {
+        "client_msg_id": "3AAC4DA6-4B12-4C53-80A8-06701E5D86AE",
+        "type": "message",
+        "text": "<@U15HSHSS2> <https:\/\/twitter.com\/lizziedetrudee\/status\/1089924899857141760?s=21>",
+        "user": "U15HZ01QX",
+        "ts": "1548790020.005900",
+        "attachments": [
+            {
+                "fallback": "<https:\/\/twitter.com\/lizziedetrudee|@lizziedetrudee>: This is my friend Maddy. Her boyfriend, Christian Montgomery did this to her out side of Brothers on Friday night. They have not been able to locate him. If you know this man or have seen him, please contact IMPD. Please RT <https:\/\/pbs.twimg.com\/media\/DyAw6nKWkAA_N00.jpg>",
+                "ts": 1548693320,
+                "author_name": "lizzie",
+                "author_link": "https:\/\/twitter.com\/lizziedetrudee\/status\/1089924899857141760",
+                "author_icon": "https:\/\/pbs.twimg.com\/profile_images\/1090112218883112960\/L45PcBbZ_normal.jpg",
+                "author_subname": "@lizziedetrudee",
+                "text": "This is my friend Maddy. Her boyfriend, Christian Montgomery did this to her out side of Brothers on Friday night. They have not been able to locate him. If you know this man or have seen him, please contact IMPD. Please RT <https:\/\/pbs.twimg.com\/media\/DyAw6nKWkAA_N00.jpg>",
+                "service_name": "twitter",
+                "service_url": "https:\/\/twitter.com\/",
+                "from_url": "https:\/\/twitter.com\/lizziedetrudee\/status\/1089924899857141760?s=21",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DyAw6nKWkAA_N00.jpg",
+                "image_width": 963,
+                "image_height": 1200,
+                "image_bytes": 115457,
+                "id": 1,
+                "original_url": "https:\/\/twitter.com\/lizziedetrudee\/status\/1089924899857141760?s=21",
+                "footer": "Twitter",
+                "footer_icon": "https:\/\/a.slack-edge.com\/6e067\/img\/services\/twitter_pixel_snapped_32.png"
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/DyAw6nGW0AAVNF6.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DyAw6nGW0AAVNF6.jpg",
+                "image_width": 958,
+                "image_height": 1200,
+                "image_bytes": 167016,
+                "id": 2
+            },
+            {
+                "text": "<https:\/\/pbs.twimg.com\/media\/DyAw6nHX0AAL5cU.jpg>",
+                "image_url": "https:\/\/pbs.twimg.com\/media\/DyAw6nHX0AAL5cU.jpg",
+                "image_width": 982,
+                "image_height": 1200,
+                "image_bytes": 110799,
+                "id": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3f509b76-2956-4ca2-9002-e132b18e2ef2",
+        "type": "message",
+        "text": "jesus",
+        "user": "U15HRTAHL",
+        "ts": "1548790068.006300"
+    },
+    {
+        "client_msg_id": "910747D9-0B29-4F4A-B7D9-F019DB48DCB2",
+        "type": "message",
+        "text": "Where is this?",
+        "user": "U15HY5TG8",
+        "ts": "1548790082.006600"
+    },
+    {
+        "client_msg_id": "a8d2f788-f09c-438e-a999-ee490ab7d9af",
+        "type": "message",
+        "text": "How'd he do that much damage?",
+        "user": "U15J5H60P",
+        "ts": "1548790098.006800"
+    },
+    {
+        "client_msg_id": "e71083b6-e11b-4b81-b6fb-9d1044a4df3b",
+        "type": "message",
+        "text": "Was there no one else around?",
+        "user": "U15J5H60P",
+        "ts": "1548790117.007300"
+    },
+    {
+        "client_msg_id": "FFD34F51-F9B9-4C15-93DE-5716CCB20A70",
+        "type": "message",
+        "text": "Probably punching id assume",
+        "user": "U15HY5TG8",
+        "ts": "1548790118.007600"
+    },
+    {
+        "client_msg_id": "a7391abf-af67-4394-ad1e-ef16c7e1094a",
+        "type": "message",
+        "text": "wtf",
+        "user": "U15J5H60P",
+        "ts": "1548790119.007800"
+    },
+    {
+        "client_msg_id": "58005BD5-C3D5-4A55-A6C7-FB05CB93CD86",
+        "type": "message",
+        "text": "Indiana ",
+        "user": "U15HZ01QX",
+        "ts": "1548790202.008000"
+    },
+    {
+        "client_msg_id": "ee9b413c-f2ad-4f92-be14-4a809ae7ba9a",
+        "type": "message",
+        "text": "indiana?",
+        "user": "U15HRTAHL",
+        "ts": "1548790258.008200"
+    },
+    {
+        "client_msg_id": "8cb108b7-b8b8-46b6-8204-c75cc4db4856",
+        "type": "message",
+        "text": "&gt;Brothers on Friday night.",
+        "user": "U15HRTAHL",
+        "ts": "1548790273.008600"
+    },
+    {
+        "client_msg_id": "340f41e4-4cb0-4825-bb3f-8cbca8724e02",
+        "type": "message",
+        "text": "different brothers",
+        "user": "U15HRTAHL",
+        "ts": "1548790279.008900"
+    },
+    {
+        "client_msg_id": "bad68473-9b33-45ff-98e4-dc943ea18f1b",
+        "type": "message",
+        "text": "??",
+        "user": "U15HRTAHL",
+        "ts": "1548790281.009100"
+    },
+    {
+        "client_msg_id": "DF2A88BB-6EBD-4501-8E64-989A863C3E55",
+        "type": "message",
+        "text": "What?",
+        "user": "U15HZ01QX",
+        "ts": "1548790286.009300"
+    },
+    {
+        "client_msg_id": "72105E84-A5ED-4F5B-9E03-9122E5E301F0",
+        "type": "message",
+        "text": "Evan asked where it was",
+        "user": "U15HZ01QX",
+        "ts": "1548790292.009600"
+    },
+    {
+        "client_msg_id": "ce8208e4-af05-4086-8e1e-f75783a7ee2c",
+        "type": "message",
+        "text": "you said indiana",
+        "user": "U15HRTAHL",
+        "ts": "1548790296.009900"
+    },
+    {
+        "client_msg_id": "929eb05b-49d5-4605-8723-562d5e5a7015",
+        "type": "message",
+        "text": "the tweet says brothers",
+        "user": "U15HRTAHL",
+        "ts": "1548790301.010300"
+    },
+    {
+        "client_msg_id": "a7806a4e-dd79-4b0f-b8bc-f4def118107a",
+        "type": "message",
+        "text": "not the one in milwaukee?",
+        "user": "U15HRTAHL",
+        "ts": "1548790305.010700"
+    },
+    {
+        "client_msg_id": "A57E224F-5D84-4387-9508-F31FE7FFBEF4",
+        "type": "message",
+        "text": "Brothers is national....",
+        "user": "U15HZ01QX",
+        "ts": "1548790307.010900"
+    },
+    {
+        "client_msg_id": "3f722a5f-15b7-4587-bfee-8b5cd9f120ae",
+        "type": "message",
+        "text": "I thought this was brothers on water this whole time",
+        "user": "U15HSHSS2",
+        "ts": "1548790307.011000"
+    },
+    {
+        "client_msg_id": "764cfa21-ba53-4564-b651-220e1b63c24b",
+        "type": "message",
+        "text": "didn’t know that",
+        "user": "U15HRTAHL",
+        "ts": "1548790311.011300"
+    },
+    {
+        "client_msg_id": "c86dcffc-9625-432d-8729-723fe5f60e33",
+        "type": "message",
+        "text": "me too",
+        "user": "U15HRTAHL",
+        "ts": "1548790312.011500"
+    },
+    {
+        "client_msg_id": "fe415fb0-d525-4257-9e48-553841624a98",
+        "type": "message",
+        "text": "christ",
+        "user": "U15HSHSS2",
+        "ts": "1548790313.011700"
+    },
+    {
+        "client_msg_id": "767d3d92-f58f-47f9-8804-e7599e1633df",
+        "type": "message",
+        "text": "<http:\/\/bfy.tw\/M28X>",
+        "user": "U15J5H60P",
+        "ts": "1548790313.011800",
+        "attachments": [
+            {
+                "title": "LMGTFY",
+                "title_link": "http:\/\/bfy.tw\/M28X",
+                "text": "LMGTFY",
+                "fallback": "LMGTFY",
+                "from_url": "http:\/\/bfy.tw\/M28X",
+                "service_icon": "http:\/\/lmgtfy.com\/favicon.ico",
+                "service_name": "lmgtfy.com",
+                "id": 1,
+                "original_url": "http:\/\/bfy.tw\/M28X"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab2f5fb7-0946-497e-b88b-b9aa9381a726",
+        "type": "message",
+        "text": "3 hour ban for James",
+        "user": "U15HSHSS2",
+        "ts": "1548790326.012300"
+    },
+    {
+        "client_msg_id": "91529816-D640-4EEC-B87B-6F29583CE5F7",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1548790327.012500"
+    },
+    {
+        "client_msg_id": "EFF6D87C-9890-41DE-B923-B55CD630B004",
+        "type": "message",
+        "text": "I’m in random. Lol",
+        "user": "U15HZ01QX",
+        "ts": "1548790337.012800"
+    },
+    {
+        "client_msg_id": "65a7fade-5709-4f3d-a1ce-fcdaaa87d2fa",
+        "type": "message",
+        "text": "6 hour ban for myself",
+        "user": "U15J5H60P",
+        "ts": "1548790342.013000"
+    },
+    {
+        "client_msg_id": "de6e30ad-95af-49f8-831c-b5a616d25739",
+        "type": "message",
+        "text": "if you say so",
+        "user": "U15HY5TG8",
+        "ts": "1548790349.013300"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1548790350.013400",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/monday-the-it-crowd-workplace-c6DIpCp1922KQ",
+                "image_url": "https:\/\/media0.giphy.com\/media\/c6DIpCp1922KQ\/giphy-downsized.gif?cid=6104955e5c50aa4b2f58595345dc5d7a",
+                "image_width": 427,
+                "image_height": 240,
+                "image_bytes": 1755132,
+                "is_animated": true,
+                "title": "suicide",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/monday-the-it-crowd-workplace-c6DIpCp1922KQ"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FFSAB3YSX",
+                "created": 1548790361,
+                "timestamp": 1548790361,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U15HZ01QX",
+                "editable": false,
+                "size": 69378,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFSAB3YSX\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FFSAB3YSX\/download\/image_from_ios.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_64.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_80.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_360.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 287,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_480.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 383,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_160.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_720.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 575,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FFSAB3YSX-6d80724f45\/image_from_ios_800.jpg?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 639,
+                "image_exif_rotation": 1,
+                "original_w": 933,
+                "original_h": 745,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HZ01QX\/FFSAB3YSX\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FFSAB3YSX-5b11b511c7",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HZ01QX",
+        "display_as_bot": false,
+        "upload_reply_to": "0AB14D0D-5B95-44B2-8073-78865390FE4B",
+        "ts": "1548790363.013500"
+    }
+]

@@ -1,0 +1,637 @@
+[
+    {
+        "type": "message",
+        "text": "So ive got an html file with a tag that says ng-model=lock.sa4lockingunit.sa4lockprofilemodel.externalpower",
+        "user": "U15HY5TG8",
+        "ts": "1466781618.000002"
+    },
+    {
+        "type": "message",
+        "text": "How do i go about tracking where that model is defined",
+        "user": "U15HY5TG8",
+        "ts": "1466781632.000003"
+    },
+    {
+        "type": "message",
+        "text": "the controller",
+        "user": "U15HRTAHL",
+        "ts": "1466781739.000004"
+    },
+    {
+        "type": "message",
+        "text": "there will be a variable \n`$scope.lock.sa4lockingunit.sa4lockprofilemodel.externalpower`",
+        "user": "U15HRTAHL",
+        "ts": "1466781771.000005"
+    },
+    {
+        "type": "message",
+        "text": "err sorry there will be an object called `$scope.lock`",
+        "user": "U15HRTAHL",
+        "ts": "1466781886.000006",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1466781889.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "with those attributes",
+        "user": "U15HRTAHL",
+        "ts": "1466781895.000008"
+    },
+    {
+        "type": "message",
+        "text": "Which ones are attributes and which ones are a \"path\"",
+        "user": "U15HY5TG8",
+        "ts": "1466782172.000009"
+    },
+    {
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1466782181.000010"
+    },
+    {
+        "type": "message",
+        "text": "think of lock as object",
+        "user": "U15HRTAHL",
+        "ts": "1466782193.000011"
+    },
+    {
+        "type": "message",
+        "text": "lock has a sa4lockingunit object attached to it",
+        "user": "U15HRTAHL",
+        "ts": "1466782214.000012"
+    },
+    {
+        "type": "message",
+        "text": "and sa4lockingunit has a sa4lockprofilemodel object",
+        "user": "U15HRTAHL",
+        "ts": "1466782233.000013"
+    },
+    {
+        "type": "message",
+        "text": "think about 351 objects",
+        "user": "U15HRTAHL",
+        "ts": "1466782243.000014"
+    },
+    {
+        "type": "message",
+        "text": "node.parent.parent.parent.val",
+        "user": "U15HRTAHL",
+        "ts": "1466782252.000015"
+    },
+    {
+        "type": "message",
+        "text": "its just a bunch of joined objects",
+        "user": "U15HRTAHL",
+        "ts": "1466782260.000016"
+    },
+    {
+        "type": "message",
+        "text": "Except i cant find the fucking val initiation lol",
+        "user": "U15HY5TG8",
+        "ts": "1466782391.000017"
+    },
+    {
+        "type": "message",
+        "text": "just find the controller",
+        "user": "U15HRTAHL",
+        "ts": "1466783000.000018"
+    },
+    {
+        "type": "message",
+        "text": "its somewhere in there",
+        "user": "U15HRTAHL",
+        "ts": "1466783004.000019"
+    },
+    {
+        "type": "message",
+        "text": "I have the controller open",
+        "user": "U15HY5TG8",
+        "ts": "1466783027.000020"
+    },
+    {
+        "type": "message",
+        "text": "Ok im now looking for locks.legacycontroller.dhcp",
+        "user": "U15HY5TG8",
+        "ts": "1466783064.000021"
+    },
+    {
+        "type": "message",
+        "text": "The other one was just an example",
+        "user": "U15HY5TG8",
+        "ts": "1466783082.000022"
+    },
+    {
+        "type": "message",
+        "text": "just look for locks",
+        "user": "U15HRTAHL",
+        "ts": "1466783119.000023"
+    },
+    {
+        "type": "message",
+        "text": "everthing else probably wont be defined",
+        "user": "U15HRTAHL",
+        "ts": "1466783135.000024"
+    },
+    {
+        "type": "message",
+        "text": "when you find locks then do this `console.log(JSON.stringify(locks))`",
+        "user": "U15HRTAHL",
+        "ts": "1466783172.000025"
+    },
+    {
+        "type": "message",
+        "text": "Ok i found scope.locks = {legacycontroller: {}, active: true}",
+        "user": "U15HY5TG8",
+        "ts": "1466783181.000026"
+    },
+    {
+        "type": "message",
+        "text": "then you cans see all the data that comes with it",
+        "user": "U15HRTAHL",
+        "ts": "1466783181.000027"
+    },
+    {
+        "type": "message",
+        "text": "Fuck yes i got it to work",
+        "user": "U15HY5TG8",
+        "ts": "1466783309.000028"
+    },
+    {
+        "type": "message",
+        "text": "Im becoming a programmer lol",
+        "user": "U15HY5TG8",
+        "ts": "1466783319.000029"
+    },
+    {
+        "type": "message",
+        "text": "did that help?",
+        "user": "U15HRTAHL",
+        "ts": "1466783448.000030"
+    },
+    {
+        "type": "message",
+        "text": "Well i had a 90% sure feeling thats where i had to look deeper into but you confirmed it completely so yes it did help",
+        "user": "U15HY5TG8",
+        "ts": "1466783644.000031"
+    },
+    {
+        "type": "message",
+        "text": "But it feels good knowing i was on the right track",
+        "user": "U15HY5TG8",
+        "ts": "1466783661.000032"
+    },
+    {
+        "type": "message",
+        "text": "Evan, Joe will collect 10% of your next paycheck ",
+        "user": "U15J5H60P",
+        "ts": "1466783663.000033"
+    },
+    {
+        "type": "message",
+        "text": "He prefers cash",
+        "user": "U15J5H60P",
+        "ts": "1466783681.000034"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1466783686.000035"
+    },
+    {
+        "type": "message",
+        "text": "Easier to hide from the feds",
+        "user": "U15J5H60P",
+        "ts": "1466783697.000036"
+    },
+    {
+        "type": "message",
+        "text": "Im aware of the concept lol",
+        "user": "U15HY5TG8",
+        "ts": "1466783718.000037"
+    },
+    {
+        "type": "message",
+        "text": "LOL",
+        "user": "U15HRTAHL",
+        "ts": "1466783732.000038"
+    },
+    {
+        "type": "message",
+        "text": "Because bartending",
+        "user": "U15HY5TG8",
+        "ts": "1466783758.000039"
+    },
+    {
+        "type": "message",
+        "text": "What IDE do you guys use for javascript\/html",
+        "user": "U15HRTAHL",
+        "ts": "1466783892.000040"
+    },
+    {
+        "type": "message",
+        "text": "Visual studio",
+        "user": "U15HY5TG8",
+        "ts": "1466784669.000041"
+    },
+    {
+        "type": "message",
+        "text": "2015",
+        "user": "U15HY5TG8",
+        "ts": "1466784672.000042"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1466784695.000043"
+    },
+    {
+        "type": "message",
+        "text": "Lmao",
+        "user": "U15J5H60P",
+        "ts": "1466785445.000044"
+    },
+    {
+        "type": "message",
+        "text": "I use WebStorm",
+        "user": "U15J5H60P",
+        "ts": "1466785454.000045"
+    },
+    {
+        "type": "message",
+        "text": "WebStorm can edit JS",
+        "user": "U15J5H60P",
+        "ts": "1466785470.000046"
+    },
+    {
+        "type": "message",
+        "text": "With intelligent features ",
+        "user": "U15J5H60P",
+        "ts": "1466785481.000047"
+    },
+    {
+        "type": "message",
+        "text": "Such as code suggestions\/completions and stuff",
+        "user": "U15J5H60P",
+        "ts": "1466785512.000048"
+    },
+    {
+        "type": "message",
+        "text": "Vs 2015 is drunk",
+        "user": "U15HY5TG8",
+        "ts": "1466785514.000049"
+    },
+    {
+        "type": "message",
+        "text": "its proprietary though",
+        "user": "U15HRTAHL",
+        "ts": "1466785518.000050"
+    },
+    {
+        "type": "message",
+        "text": "You're drunk Evan",
+        "user": "U15J5H60P",
+        "ts": "1466785522.000051"
+    },
+    {
+        "type": "message",
+        "text": "So?",
+        "user": "U15J5H60P",
+        "ts": "1466785524.000052"
+    },
+    {
+        "type": "message",
+        "text": "K",
+        "user": "U15HY5TG8",
+        "ts": "1466785529.000053"
+    },
+    {
+        "type": "message",
+        "text": "i doubt corporate america will buy a license for it",
+        "user": "U15HRTAHL",
+        "ts": "1466785531.000054"
+    },
+    {
+        "type": "message",
+        "text": "What're you talking about?",
+        "user": "U15J5H60P",
+        "ts": "1466785547.000055"
+    },
+    {
+        "type": "message",
+        "text": "and if you use the student account the business can get fined",
+        "user": "U15HRTAHL",
+        "ts": "1466785551.000056"
+    },
+    {
+        "type": "message",
+        "text": "Ohhhhh",
+        "user": "U15J5H60P",
+        "ts": "1466785554.000057"
+    },
+    {
+        "type": "message",
+        "text": "I see. Actually, I think Zywave uses TeamCode",
+        "user": "U15J5H60P",
+        "ts": "1466785574.000058"
+    },
+    {
+        "type": "message",
+        "text": "Imtelling in you",
+        "user": "U15HY5TG8",
+        "ts": "1466785579.000059"
+    },
+    {
+        "type": "message",
+        "text": "Which is a Jetbrains platform ",
+        "user": "U15J5H60P",
+        "ts": "1466785583.000060"
+    },
+    {
+        "type": "message",
+        "text": "Otherwise I'd use Atom",
+        "user": "U15J5H60P",
+        "ts": "1466785590.000061"
+    },
+    {
+        "type": "message",
+        "text": "Atom is great",
+        "user": "U15J5H60P",
+        "ts": "1466785600.000062"
+    },
+    {
+        "type": "message",
+        "text": "Why atom?",
+        "user": "U15HY5TG8",
+        "ts": "1466785603.000063"
+    },
+    {
+        "type": "message",
+        "text": "It's clean, simple, and supports a ton of plugins ",
+        "user": "U15J5H60P",
+        "ts": "1466785656.000066"
+    },
+    {
+        "type": "message",
+        "text": "There's even a swift plugin for it",
+        "user": "U15J5H60P",
+        "ts": "1466785666.000067"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh",
+        "user": "U15HY5TG8",
+        "ts": "1466785671.000068"
+    },
+    {
+        "type": "message",
+        "text": "But still just a text editor right?",
+        "user": "U15HY5TG8",
+        "ts": "1466785693.000069"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy K",
+        "user": "U15J5H60P",
+        "ts": "1466785700.000070",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/reaction-90s-fpzYhFGJZ9xPW>",
+                "image_url": "https:\/\/media2.giphy.com\/media\/fpzYhFGJZ9xPW\/giphy.gif",
+                "image_width": 400,
+                "image_height": 275,
+                "image_bytes": 509761,
+                "is_animated": true,
+                "title": "K",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/reaction-90s-fpzYhFGJZ9xPW"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yes ",
+        "user": "U15J5H60P",
+        "ts": "1466785702.000071"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL>: in chrome developer tools, how do i track input fields to see if it captured a password that i typed?",
+        "user": "U15HY5TG8",
+        "ts": "1466793270.000072"
+    },
+    {
+        "type": "message",
+        "text": "what do you mean track input fields?",
+        "user": "U15HRTAHL",
+        "ts": "1466793295.000073"
+    },
+    {
+        "type": "message",
+        "text": "the input field should have an ng-model",
+        "user": "U15HRTAHL",
+        "ts": "1466793306.000074"
+    },
+    {
+        "type": "message",
+        "text": "the variable in the ng-model is the text\/value in the input field",
+        "user": "U15HRTAHL",
+        "ts": "1466793318.000075"
+    },
+    {
+        "type": "message",
+        "text": "make sense?",
+        "user": "U15HRTAHL",
+        "ts": "1466793355.000076"
+    },
+    {
+        "type": "message",
+        "text": "The model is \"model[field()]\"",
+        "user": "U15HY5TG8",
+        "ts": "1466793389.000077"
+    },
+    {
+        "type": "message",
+        "text": "show me the input html",
+        "user": "U15HRTAHL",
+        "ts": "1466793402.000078"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1466793458.000080"
+    },
+    {
+        "type": "message",
+        "text": "does your work block slack?",
+        "user": "U15HRTAHL",
+        "ts": "1466793463.000081"
+    },
+    {
+        "type": "message",
+        "text": "Yes lol",
+        "user": "U15HY5TG8",
+        "ts": "1466793482.000082"
+    },
+    {
+        "type": "message",
+        "text": "thats a weird ng-model",
+        "user": "U15HRTAHL",
+        "ts": "1466793541.000083"
+    },
+    {
+        "type": "message",
+        "text": "Exactly lol nested model?",
+        "user": "U15HY5TG8",
+        "ts": "1466793558.000084"
+    },
+    {
+        "type": "message",
+        "text": "idk mane",
+        "user": "U15HRTAHL",
+        "ts": "1466793620.000085"
+    },
+    {
+        "type": "message",
+        "text": "Is that the only way to track my input after hitting enter for that field?",
+        "user": "U15HY5TG8",
+        "ts": "1466793653.000086"
+    },
+    {
+        "type": "message",
+        "text": "yup",
+        "user": "U15HRTAHL",
+        "ts": "1466793691.000087"
+    },
+    {
+        "type": "message",
+        "text": "Ok so im guessing that if i could track the model then it would lead me to the controller with scope attached to something and then add it to the watch list?",
+        "user": "U15HY5TG8",
+        "ts": "1466793744.000088"
+    },
+    {
+        "type": "message",
+        "text": "does the controller have a model scope variable?",
+        "user": "U15HRTAHL",
+        "ts": "1466793752.000089"
+    },
+    {
+        "type": "message",
+        "text": "cause its adding that field to the array I believe",
+        "user": "U15HRTAHL",
+        "ts": "1466793772.000090"
+    },
+    {
+        "type": "message",
+        "text": "well it is a modal",
+        "user": "U15HRTAHL",
+        "ts": "1466793783.000091"
+    },
+    {
+        "type": "message",
+        "text": "so that kind of makes sense",
+        "user": "U15HRTAHL",
+        "ts": "1466793788.000092"
+    },
+    {
+        "type": "message",
+        "text": "model[] is probably the parent of the modal",
+        "user": "U15HRTAHL",
+        "ts": "1466793806.000093"
+    },
+    {
+        "type": "message",
+        "text": "Well in our directive called validated input there is a field() attribute",
+        "user": "U15HY5TG8",
+        "ts": "1466793829.000094"
+    },
+    {
+        "type": "message",
+        "text": "So what does the array do?",
+        "user": "U15HY5TG8",
+        "ts": "1466794137.000095"
+    },
+    {
+        "type": "message",
+        "text": "its probably passing that data to its parent",
+        "user": "U15HRTAHL",
+        "ts": "1466794196.000096"
+    },
+    {
+        "type": "message",
+        "text": "[some webapge(parent) [modal] some webpage(parent)]",
+        "user": "U15HRTAHL",
+        "ts": "1466794231.000097"
+    },
+    {
+        "type": "message",
+        "text": "you know what a modal is right?",
+        "user": "U15HRTAHL",
+        "ts": "1466794244.000098"
+    },
+    {
+        "type": "message",
+        "text": "That screen",
+        "user": "U15HY5TG8",
+        "ts": "1466794256.000099"
+    },
+    {
+        "type": "message",
+        "text": "Otherwise no",
+        "user": "U15HY5TG8",
+        "ts": "1466794261.000100"
+    },
+    {
+        "type": "message",
+        "text": "its a pop up",
+        "user": "U15HRTAHL",
+        "ts": "1466794270.000101"
+    },
+    {
+        "type": "message",
+        "text": "So yes",
+        "user": "U15HY5TG8",
+        "ts": "1466794275.000102"
+    },
+    {
+        "type": "message",
+        "text": "All i wanna see is if the password is reading correctly :sob::sob:",
+        "user": "U15HY5TG8",
+        "ts": "1466794351.000104"
+    },
+    {
+        "type": "message",
+        "text": "What would cause a header to display like shit in chrome and fine in IE?",
+        "user": "U15HY5TG8",
+        "ts": "1466800614.000106"
+    },
+    {
+        "type": "message",
+        "text": "css",
+        "user": "U15HRTAHL",
+        "ts": "1466800753.000107"
+    },
+    {
+        "type": "message",
+        "text": "<http:\/\/caniuse.com\/>",
+        "user": "U15HRTAHL",
+        "ts": "1466800778.000108"
+    },
+    {
+        "type": "message",
+        "text": "Its displayed the same way on different pages though",
+        "user": "U15HY5TG8",
+        "ts": "1466800805.000109"
+    },
+    {
+        "type": "message",
+        "text": "So if i adjust the padding for the header, it fixes that page but fucks up every other page",
+        "user": "U15HY5TG8",
+        "ts": "1466801693.000110"
+    }
+]

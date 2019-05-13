@@ -1,0 +1,16 @@
+[
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1507076135.000011",
+        "text": "<@U15HZ01QX> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_archive",
+        "ts": "1507076140.000260",
+        "text": "<@U15HZ01QX> archived the channel"
+    }
+]

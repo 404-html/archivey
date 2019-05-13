@@ -1,0 +1,40 @@
+[
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463430082.000002",
+        "text": "<@U15HY5TG8> has joined the channel"
+    },
+    {
+        "user": "U15HZ01QX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463430090.000003",
+        "text": "<@U15HZ01QX> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HRTAHL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463430094.000004",
+        "text": "<@U15HRTAHL> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HSHSS2",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1463430100.000005",
+        "text": "<@U15HSHSS2> has joined the channel",
+        "inviter": "U15HY5TG8"
+    },
+    {
+        "user": "U15HY5TG8",
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1463430105.000006",
+        "text": "<@U15HY5TG8> has left the channel"
+    }
+]

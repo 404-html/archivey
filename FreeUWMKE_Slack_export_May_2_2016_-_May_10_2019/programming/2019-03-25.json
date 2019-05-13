@@ -1,0 +1,159 @@
+[
+    {
+        "client_msg_id": "15fc8ba6-0a9b-4d9a-b6e5-5371e7721460",
+        "type": "message",
+        "text": "<https:\/\/jonasdoubleyou.github.io>",
+        "user": "U15HRTAHL",
+        "ts": "1553551651.000200"
+    },
+    {
+        "client_msg_id": "cd0d49de-ec33-4379-a4f4-383e4d1ec6a2",
+        "type": "message",
+        "text": "Came across this profile on stackoverflow with 63k points",
+        "user": "U15HRTAHL",
+        "ts": "1553551670.000800",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1553551698.000000"
+        }
+    },
+    {
+        "client_msg_id": "cec54cdc-f6b4-4454-b3b1-5045335ff92e",
+        "type": "message",
+        "text": "18 ",
+        "user": "U15HRTAHL",
+        "ts": "1553551673.001000"
+    },
+    {
+        "client_msg_id": "f914e7e6-1d6f-4abb-b092-b9b11d2a299a",
+        "type": "message",
+        "text": "postgres is weird",
+        "user": "U15HRTAHL",
+        "ts": "1553561747.001400"
+    },
+    {
+        "client_msg_id": "79b04e38-11d0-4b3a-ae1b-42aed0ea33cd",
+        "type": "message",
+        "text": "I was updating some models with sequelize and I kept getting an error",
+        "user": "U15HRTAHL",
+        "ts": "1553561760.001800"
+    },
+    {
+        "client_msg_id": "494f0ddf-b1a3-41ed-be68-429661ec59fb",
+        "type": "message",
+        "text": "I logged out of my postgres viewer and then reran the script and everything worked fine",
+        "user": "U15HRTAHL",
+        "ts": "1553561778.002300"
+    },
+    {
+        "client_msg_id": "4f065e58-e866-4b8d-bc85-df6daf0f7e80",
+        "type": "message",
+        "text": "I just couldn't have 2 connections running?",
+        "user": "U15HRTAHL",
+        "ts": "1553561786.002600"
+    },
+    {
+        "client_msg_id": "b9fac3f1-1ded-4469-b605-672c257756d4",
+        "type": "message",
+        "text": "idk it's weird",
+        "user": "U15HRTAHL",
+        "ts": "1553561789.002800"
+    },
+    {
+        "client_msg_id": "04802186-9FBF-4354-8663-21E7387C3AEB",
+        "type": "message",
+        "text": "Seems reasonable to me",
+        "user": "U15HY5TG8",
+        "ts": "1553561955.003100"
+    },
+    {
+        "client_msg_id": "ffc9f7e0-8acc-4872-bf13-8563c229c25e",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1553565095.003500"
+    },
+    {
+        "client_msg_id": "682a4546-a04b-4bb1-92b5-bc9906223733",
+        "type": "message",
+        "text": "<@U15HRTAHL>",
+        "user": "U15J5H60P",
+        "ts": "1553569919.003800"
+    },
+    {
+        "client_msg_id": "936046d9-ff77-40d7-9d99-732498d7ae2f",
+        "type": "message",
+        "text": "What is the identity ID?",
+        "user": "U15J5H60P",
+        "ts": "1553569923.004000"
+    },
+    {
+        "client_msg_id": "4f995a78-baac-494d-a476-f71b1031623e",
+        "type": "message",
+        "text": "Is that the ID of the user or the ID of the user pool?",
+        "user": "U15J5H60P",
+        "ts": "1553569933.004300"
+    },
+    {
+        "client_msg_id": "b01a7119-94e0-4af8-9706-3e9ea6c55dd2",
+        "type": "message",
+        "text": "This is what an identity ID looks like - `us-east-1:89064368-2b53-4180-94b2-b075d68f37d0`",
+        "user": "U15J5H60P",
+        "ts": "1553569946.004600",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1553569952.000000"
+        }
+    },
+    {
+        "client_msg_id": "9bbda676-1d7a-404f-8c3b-fc1ba83dfc3f",
+        "type": "message",
+        "text": "Can you show me what you're referring to?",
+        "user": "U15HRTAHL",
+        "ts": "1553570881.005200"
+    },
+    {
+        "client_msg_id": "67b60e10-193c-4f70-b2f4-6e1760feb4f1",
+        "type": "message",
+        "text": "Oh identity Id is a cognito token it gives you when you auth in ",
+        "user": "U15HRTAHL",
+        "ts": "1553570912.005800"
+    },
+    {
+        "client_msg_id": "dd3195a2-ee19-4e28-8923-3f17aeca2688",
+        "type": "message",
+        "text": "Is that user specific?",
+        "user": "U15J5H60P",
+        "ts": "1553571304.006100"
+    },
+    {
+        "client_msg_id": "513afc8a-94db-4f1a-8445-db996adb4eb9",
+        "type": "message",
+        "text": "Does it change every time you sign in?",
+        "user": "U15J5H60P",
+        "ts": "1553571308.006300"
+    },
+    {
+        "client_msg_id": "3FF2FB95-B26C-43F9-A42F-4FC4FDFF3911",
+        "type": "message",
+        "text": "<https:\/\/willmytweetsgetmefired.com\/>",
+        "user": "U15J5H60P",
+        "ts": "1553575946.000200",
+        "attachments": [
+            {
+                "title": "Will my tweets get me fired? Scan your twitter profile now.",
+                "title_link": "https:\/\/willmytweetsgetmefired.com\/",
+                "text": "Scan all your old tweets for offensive or controversial stuff that could get you in trouble.",
+                "fallback": "Will my tweets get me fired? Scan your twitter profile now.",
+                "image_url": "https:\/\/willmytweetsgetmefired.com\/scannerbanner-02.png",
+                "image_width": 487,
+                "image_height": 250,
+                "from_url": "https:\/\/willmytweetsgetmefired.com\/",
+                "image_bytes": 68199,
+                "service_name": "willmytweetsgetmefired.com",
+                "id": 1,
+                "original_url": "https:\/\/willmytweetsgetmefired.com\/"
+            }
+        ]
+    }
+]

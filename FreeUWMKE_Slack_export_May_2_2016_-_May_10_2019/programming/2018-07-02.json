@@ -1,0 +1,410 @@
+[
+    {
+        "client_msg_id": "90cdfebe-d735-43e6-a4c3-bb5efbfc7769",
+        "type": "message",
+        "text": "why the fuck does Double.TryParse(quantity, out quantityparsed) output 0 on failure?",
+        "user": "U15HY5TG8",
+        "ts": "1530556109.000019"
+    },
+    {
+        "client_msg_id": "006ec5c0-488d-4528-bd2b-c900652ace0c",
+        "type": "message",
+        "text": "stupidest fucking thing I've ever seen",
+        "user": "U15HY5TG8",
+        "ts": "1530556117.000085"
+    },
+    {
+        "client_msg_id": "251d3681-c3eb-4630-b969-e85924ee6fa3",
+        "type": "message",
+        "text": "```\nConverts the string representation of a number to its double-precision floating-point number equivalent. A return value indicates whether the conversion succeeded or failed.\n```",
+        "user": "U15HRTAHL",
+        "ts": "1530556554.000202"
+    },
+    {
+        "client_msg_id": "cd81a771-188d-4217-a953-39fb8673bf9f",
+        "type": "message",
+        "text": "`A return value indicates whether the conversion succeeded or failed.`",
+        "user": "U15HRTAHL",
+        "ts": "1530556562.000435"
+    },
+    {
+        "client_msg_id": "2972306b-0df1-40dc-ad61-8b12fabf32ff",
+        "type": "message",
+        "text": "check the return value",
+        "user": "U15HRTAHL",
+        "ts": "1530556567.000146"
+    },
+    {
+        "client_msg_id": "3f215fe6-0233-4b8e-a833-d7d145b2163f",
+        "type": "message",
+        "text": "stupidest fucking developer I’ve ever seen",
+        "user": "U15HRTAHL",
+        "ts": "1530556575.000232"
+    },
+    {
+        "client_msg_id": "4e9ed2c8-fae1-4dc3-8c6e-6bafe16ad2a1",
+        "type": "message",
+        "text": "\/s",
+        "user": "U15HRTAHL",
+        "ts": "1530556582.000506"
+    },
+    {
+        "client_msg_id": "d23026ac-c9b4-4466-a464-2286202bddbd",
+        "type": "message",
+        "text": "The return value is 0 lol",
+        "user": "U15HY5TG8",
+        "ts": "1530556594.000216"
+    },
+    {
+        "client_msg_id": "cfd2c923-6d69-4cb2-96b4-9649839b453b",
+        "type": "message",
+        "text": "```\npublic static bool TryParse(\n\tstring s,\n\tout double result\n)\n```",
+        "user": "U15HRTAHL",
+        "ts": "1530556617.000460"
+    },
+    {
+        "client_msg_id": "01330a3b-dbb0-403c-995f-3d03996489c9",
+        "type": "message",
+        "text": "`out double result`",
+        "user": "U15HRTAHL",
+        "ts": "1530556625.000016"
+    },
+    {
+        "client_msg_id": "7d53fca7-b020-4ee4-b8e0-b4b036ab9943",
+        "type": "message",
+        "text": "0 is not an acceptable return value",
+        "user": "U15HY5TG8",
+        "ts": "1530556627.000199"
+    },
+    {
+        "client_msg_id": "f980e1d1-2e56-47f9-8450-9e61f65f7354",
+        "type": "message",
+        "text": "look at what the method returns",
+        "user": "U15HRTAHL",
+        "ts": "1530556637.000134"
+    },
+    {
+        "client_msg_id": "82c2b07b-d448-4843-9ed0-27783774464d",
+        "type": "message",
+        "text": "`bool`",
+        "user": "U15HRTAHL",
+        "ts": "1530556640.000006"
+    },
+    {
+        "client_msg_id": "5dc9d3fe-c66b-459f-a4aa-7e16df81db16",
+        "type": "message",
+        "text": "so it should return a true\/false",
+        "user": "U15HRTAHL",
+        "ts": "1530556656.000427"
+    },
+    {
+        "client_msg_id": "1fb010ca-4d8a-4807-b63b-f6ecfeb94684",
+        "type": "message",
+        "text": "What language is that?",
+        "user": "U15J5H60P",
+        "ts": "1530556678.000431"
+    },
+    {
+        "client_msg_id": "459a1852-fed6-4d6f-b036-d1f02f554140",
+        "type": "message",
+        "text": "god damnit",
+        "user": "U15HY5TG8",
+        "ts": "1530556689.000139"
+    },
+    {
+        "client_msg_id": "358c1b3f-a53c-4923-b477-d0ca56350725",
+        "type": "message",
+        "text": "it's because I just did it as void, I didnt think about it returning boolean",
+        "user": "U15HY5TG8",
+        "ts": "1530556720.000076"
+    },
+    {
+        "client_msg_id": "cb2be1a3-4d5c-4813-a84f-cebc3d825293",
+        "type": "message",
+        "text": "c#",
+        "user": "U15HY5TG8",
+        "ts": "1530556722.000471"
+    },
+    {
+        "client_msg_id": "7e73d57e-88ce-492e-bdad-ef91a5c1d7cf",
+        "type": "message",
+        "text": "Hmm I didn't know C# had that",
+        "user": "U15J5H60P",
+        "ts": "1530556740.000150"
+    },
+    {
+        "client_msg_id": "9bb90849-20a8-4feb-9323-c2c7d0f036d7",
+        "type": "message",
+        "text": "`out double result`",
+        "user": "U15J5H60P",
+        "ts": "1530556744.000408"
+    },
+    {
+        "client_msg_id": "b87f5216-ef76-40a4-a1f0-aa8afee243b3",
+        "type": "message",
+        "text": "What is that called?",
+        "user": "U15J5H60P",
+        "ts": "1530556747.000493"
+    },
+    {
+        "client_msg_id": "17e25dcd-3c7d-423b-b241-23b39355ace3",
+        "type": "message",
+        "text": "Named parameter?",
+        "user": "U15J5H60P",
+        "ts": "1530556750.000102"
+    },
+    {
+        "client_msg_id": "fc7e5f95-602a-439b-a78c-cf0124b5d6a9",
+        "type": "message",
+        "text": "I think it’s an async function",
+        "user": "U15HRTAHL",
+        "ts": "1530556755.000163"
+    },
+    {
+        "client_msg_id": "dcb18308-63c0-4514-a1c0-dee060b49fe6",
+        "type": "message",
+        "text": "I didn’t know either",
+        "user": "U15HRTAHL",
+        "ts": "1530556759.000061"
+    },
+    {
+        "client_msg_id": "ac08b671-2598-4c24-93a2-03cb2214dd63",
+        "type": "message",
+        "text": "is out the parameter name?",
+        "user": "U15J5H60P",
+        "ts": "1530556762.000225"
+    },
+    {
+        "client_msg_id": "3670514a-6c91-4d43-bf65-1a5dbc680e51",
+        "type": "message",
+        "text": "it just says that if it's true, then assign it to result",
+        "user": "U15HY5TG8",
+        "ts": "1530556763.000377"
+    },
+    {
+        "client_msg_id": "3709d009-d203-4a97-93ee-4fefa834601a",
+        "type": "message",
+        "text": "Or is out a keyword?",
+        "user": "U15J5H60P",
+        "ts": "1530556766.000012"
+    },
+    {
+        "client_msg_id": "f3bf2a86-0dff-4fe3-a339-a37e1d83fe72",
+        "type": "message",
+        "text": "ahhh",
+        "user": "U15HRTAHL",
+        "ts": "1530556769.000168"
+    },
+    {
+        "client_msg_id": "ef351364-b73c-4014-9bcf-a9a9dd175a9c",
+        "type": "message",
+        "text": "out is a keyword",
+        "user": "U15HY5TG8",
+        "ts": "1530556771.000198"
+    },
+    {
+        "client_msg_id": "3903106a-7d42-44d0-a4b5-12f1827d4693",
+        "type": "message",
+        "text": "Oh",
+        "user": "U15J5H60P",
+        "ts": "1530556775.000091"
+    },
+    {
+        "client_msg_id": "6a1696f0-d4ff-4c9e-bf60-fbdc7eb33171",
+        "type": "message",
+        "text": "Swift has this thing that goes like `functionName(numberOne: 1, numberTwo: 2)`",
+        "user": "U15J5H60P",
+        "ts": "1530556804.000534"
+    },
+    {
+        "client_msg_id": "febc009b-9e37-4af8-a83d-6de1c5f890b5",
+        "type": "message",
+        "text": "And the signature is `functionName(numberOne: int, numberTwo: int)`",
+        "user": "U15J5H60P",
+        "ts": "1530556822.000452"
+    },
+    {
+        "client_msg_id": "336a8efc-be7b-4f71-997d-f9b71006c899",
+        "type": "message",
+        "text": "huh isn't that just normal parameters?",
+        "user": "U15HY5TG8",
+        "ts": "1530556894.000441"
+    },
+    {
+        "client_msg_id": "2ef83054-5657-4b49-86f8-69a46c941f03",
+        "type": "message",
+        "text": "I expect this in javascript: `functionName(1, 2)`",
+        "user": "U15J5H60P",
+        "ts": "1530556924.000113"
+    },
+    {
+        "client_msg_id": "f6c3c9e9-e625-4c4c-8b98-63b132517ded",
+        "type": "message",
+        "text": "and it's signature to be `functionName(a, b)`",
+        "user": "U15J5H60P",
+        "ts": "1530556936.000385"
+    },
+    {
+        "client_msg_id": "a4ff2690-1e42-4395-9495-c9b0b29126a8",
+        "type": "message",
+        "text": "ahhh interesting",
+        "user": "U15HY5TG8",
+        "ts": "1530557060.000376"
+    },
+    {
+        "client_msg_id": "f4900f53-a511-462c-afcb-ae94b74a669f",
+        "type": "message",
+        "text": "so you have to put numberOne: 1, numberTwo: 2 when you're using the method?",
+        "user": "U15HY5TG8",
+        "ts": "1530557078.000234",
+        "thread_ts": "1530557078.000234",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1530557806.000095",
+        "reply_users": [
+            "U15J5H60P",
+            "U15HY5TG8"
+        ],
+        "replies": [
+            {
+                "user": "U15J5H60P",
+                "ts": "1530557266.000006"
+            },
+            {
+                "user": "U15HY5TG8",
+                "ts": "1530557806.000095"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ab1a572-d3be-4edf-8c2c-efbad666953d",
+        "type": "message",
+        "text": "<https:\/\/www.jetbrains.com\/rider\/>",
+        "user": "U15HRTAHL",
+        "ts": "1530557148.000136",
+        "attachments": [
+            {
+                "service_name": "JetBrains",
+                "title": "Rider: Cross-platform .NET IDE by JetBrains",
+                "title_link": "https:\/\/www.jetbrains.com\/rider\/",
+                "text": "Develop .NET, <http:\/\/ASP.NET|ASP.NET>, .NET Core, Xamarin or Unity applications on Windows, Mac, Linux",
+                "fallback": "JetBrains: Rider: Cross-platform .NET IDE by JetBrains",
+                "image_url": "http:\/\/resources.jetbrains.com\/storage\/products\/rider\/img\/meta\/rider_1280x800.png",
+                "fields": [
+                    {
+                        "title": "Platforms:",
+                        "value": "Windows, macOS, Linux",
+                        "short": true
+                    },
+                    {
+                        "title": "Rating:",
+                        "value": ":star::star::star::star::star: (awesome)",
+                        "short": true
+                    }
+                ],
+                "from_url": "https:\/\/www.jetbrains.com\/rider\/",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 1375120,
+                "service_icon": "https:\/\/www.jetbrains.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/www.jetbrains.com\/rider\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40e3d980-f1b3-4003-9119-9fcbfb367ba7",
+        "type": "message",
+        "text": "this is new",
+        "user": "U15HRTAHL",
+        "ts": "1530557151.000033"
+    },
+    {
+        "client_msg_id": "d789493c-602b-4cd7-8739-005ee94d3576",
+        "type": "message",
+        "text": "yes",
+        "user": "U15J5H60P",
+        "ts": "1530557266.000006",
+        "thread_ts": "1530557078.000234",
+        "parent_user_id": "U15HY5TG8"
+    },
+    {
+        "client_msg_id": "d67125ae-3484-490e-bf7e-2920ec8a7c50",
+        "type": "message",
+        "text": "Neat!",
+        "user": "U15J5H60P",
+        "ts": "1530557272.000281"
+    },
+    {
+        "client_msg_id": "1e6f28b4-d921-4dc1-b3b0-8685468d37ae",
+        "type": "message",
+        "text": "I wish something ran flat out .NET",
+        "user": "U15J5H60P",
+        "ts": "1530557306.000239"
+    },
+    {
+        "client_msg_id": "3aef192c-7afc-4c4f-ac05-c1365cf4cd66",
+        "type": "message",
+        "text": "not .NET Core",
+        "user": "U15J5H60P",
+        "ts": "1530557308.000449"
+    },
+    {
+        "client_msg_id": "68dc654e-4158-4190-ac26-8229ec8d50aa",
+        "type": "message",
+        "text": "microsoft would have to unfuck themselves for that to happen",
+        "user": "U15HRTAHL",
+        "ts": "1530557327.000068"
+    },
+    {
+        "client_msg_id": "89C0322C-DED4-45AB-9404-11CADCF62CA6",
+        "type": "message",
+        "text": "Stupid",
+        "user": "U15HY5TG8",
+        "ts": "1530557806.000095",
+        "thread_ts": "1530557078.000234",
+        "parent_user_id": "U15HY5TG8"
+    },
+    {
+        "client_msg_id": "3DBBB781-D554-49BE-8851-F9D8737396AD",
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1530557824.000151"
+    },
+    {
+        "client_msg_id": "129B5A7B-E035-4692-ADC4-182F60DE47B5",
+        "type": "message",
+        "text": "Just use vscode",
+        "user": "U15HY5TG8",
+        "ts": "1530557829.000502"
+    },
+    {
+        "client_msg_id": "a787da38-7a24-471d-a9d4-1e34ea32a4c8",
+        "type": "message",
+        "text": "Joe, is that Google Machine Learning thing worth it? Did you complete it? How long did it take?",
+        "user": "U15J5H60P",
+        "ts": "1530558746.000302"
+    },
+    {
+        "client_msg_id": "c92a379f-6019-4576-91d7-c06525cf4aee",
+        "type": "message",
+        "text": "I did a few",
+        "user": "U15HRTAHL",
+        "ts": "1530558930.000205"
+    },
+    {
+        "client_msg_id": "f996f58a-aff3-4bcd-807e-18fd2a1e3515",
+        "type": "message",
+        "text": "I stopped right at the coding part",
+        "user": "U15HRTAHL",
+        "ts": "1530558941.000178"
+    },
+    {
+        "client_msg_id": "9ea7ab97-3efd-4969-80f1-49c099da51bc",
+        "type": "message",
+        "text": "but yeah I think it’s pretty cool",
+        "user": "U15HRTAHL",
+        "ts": "1530558949.000114"
+    }
+]

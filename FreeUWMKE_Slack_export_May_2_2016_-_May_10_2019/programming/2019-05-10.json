@@ -1,0 +1,142 @@
+[
+    {
+        "client_msg_id": "be4a1dcd-1681-4f05-9528-68a09130e34a",
+        "type": "message",
+        "text": "i hate programming",
+        "user": "U15HY5TG8",
+        "ts": "1557495935.000200"
+    },
+    {
+        "client_msg_id": "fe706299-56a0-44bf-9a67-f7b50bf8ddbf",
+        "type": "message",
+        "text": "so i did this",
+        "user": "U15HY5TG8",
+        "ts": "1557495948.000400"
+    },
+    {
+        "client_msg_id": "2586196d-e6d3-45fb-8bb9-2fbfcaf032d2",
+        "type": "message",
+        "text": "```var items = []\nitems.push(element)```",
+        "user": "U15HY5TG8",
+        "ts": "1557495977.001000"
+    },
+    {
+        "client_msg_id": "ba3b0ea7-bd32-4e7b-82e6-f2dc17155e34",
+        "type": "message",
+        "text": "except now to get to that element it's index 0 and then there's another array inside of index 0 somehow",
+        "user": "U15HY5TG8",
+        "ts": "1557496006.001600"
+    },
+    {
+        "client_msg_id": "6a142e28-4b73-4e8f-8875-f1b21be921a1",
+        "type": "message",
+        "text": "whats element",
+        "user": "U15HRTAHL",
+        "ts": "1557496129.001800"
+    },
+    {
+        "client_msg_id": "3f5c7e51-0c7d-492f-ad75-18ae48519d4f",
+        "type": "message",
+        "text": "an element on the page",
+        "user": "U15HY5TG8",
+        "ts": "1557496149.002000"
+    },
+    {
+        "client_msg_id": "58fde4a2-f091-47c6-b68b-2d3a79554461",
+        "type": "message",
+        "text": "actually i mightve just figured it out",
+        "user": "U15HY5TG8",
+        "ts": "1557496173.002300"
+    },
+    {
+        "client_msg_id": "6c19de8f-7697-4a52-a6a9-d1a66937dc94",
+        "type": "message",
+        "text": "yup I did",
+        "user": "U15HY5TG8",
+        "ts": "1557496209.002500"
+    },
+    {
+        "client_msg_id": "07325af8-baf1-4eff-81a5-9ccb93289ef3",
+        "type": "message",
+        "text": "so i was doing this",
+        "user": "U15HY5TG8",
+        "ts": "1557496232.002800"
+    },
+    {
+        "client_msg_id": "b08c2b51-bac1-49a6-bb73-6c9b3b38f3a7",
+        "type": "message",
+        "text": "```$itemsNotAdded.find('.item-data').each(function (a, val) {\n            if (val.dataset.category.length &gt; 0) {\n                itemsAdded.push(val);```",
+        "user": "U15HY5TG8",
+        "ts": "1557496236.003000"
+    },
+    {
+        "client_msg_id": "9d34283e-3350-4740-b22b-a33bc78dc92c",
+        "type": "message",
+        "text": "but where \"val\" was, i was using \"$(this)\" and it was treating it as a single index array",
+        "user": "U15HY5TG8",
+        "ts": "1557496262.003600"
+    },
+    {
+        "client_msg_id": "165195e3-bb0e-4c74-950d-597cb27d0383",
+        "type": "message",
+        "text": "I’m glad you figured it out",
+        "user": "U15HRTAHL",
+        "ts": "1557496335.003800"
+    },
+    {
+        "client_msg_id": "d53964d7-d6b0-47cf-aa5a-5a7af564c15b",
+        "type": "message",
+        "text": "thanks",
+        "user": "U15HY5TG8",
+        "ts": "1557496349.004000"
+    },
+    {
+        "client_msg_id": "53560785-383a-4584-aa34-99477ee4b2cb",
+        "type": "message",
+        "text": "I still hate programming though",
+        "user": "U15HY5TG8",
+        "ts": "1557496370.004300"
+    },
+    {
+        "client_msg_id": "681130f6-82c1-48b7-9f36-cb8bd3e4c78f",
+        "type": "message",
+        "text": "and I hate jquery more",
+        "user": "U15HY5TG8",
+        "ts": "1557496388.004500"
+    },
+    {
+        "client_msg_id": "c3062cdb-9678-4d9b-987f-670ee7111fdb",
+        "type": "message",
+        "text": "<@U15HSHSS2> do you know gl?",
+        "user": "U15HRTAHL",
+        "ts": "1557499415.004700"
+    },
+    {
+        "client_msg_id": "a81437c0-ef34-4a81-a673-922e2a4930f2",
+        "type": "message",
+        "text": "opengl\/webgl",
+        "user": "U15HRTAHL",
+        "ts": "1557499447.004900"
+    },
+    {
+        "client_msg_id": "f5025a10-b46e-49b3-8f93-668f2d06032e",
+        "type": "message",
+        "text": "no sir",
+        "user": "U15HSHSS2",
+        "ts": "1557499451.005100"
+    },
+    {
+        "client_msg_id": "8d202704-18e8-477e-a555-def3212789f2",
+        "type": "message",
+        "text": "i know what it is",
+        "user": "U15HSHSS2",
+        "ts": "1557499460.005400"
+    },
+    {
+        "client_msg_id": "c11bd6c1-12e7-4989-8a7e-c94628741564",
+        "type": "message",
+        "text": "but don't know anything about using it",
+        "user": "U15HSHSS2",
+        "ts": "1557499475.005800"
+    }
+]

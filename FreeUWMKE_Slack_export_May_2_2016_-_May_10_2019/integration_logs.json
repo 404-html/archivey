@@ -1,0 +1,1230 @@
+[
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1552922260",
+        "change_type": "removed",
+        "reason": "user_uninstalled_app",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1552922259",
+        "change_type": "removed",
+        "reason": "user_uninstalled_app",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1550073172",
+        "change_type": "added",
+        "app_type": "ClosingBell",
+        "app_id": "A0KK1CHUN",
+        "scope": "identify,commands,incoming-webhook,team:read"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1550073150",
+        "change_type": "removed",
+        "reason": "user_uninstalled_app",
+        "app_type": "Disco",
+        "app_id": "A0DV3EEN4",
+        "scope": "identify,bot,commands,channels:read,channels:write"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1545106851",
+        "change_type": "added",
+        "app_type": "Slack Deletron",
+        "app_id": "AA3DR7V1S",
+        "scope": "identify,channels:read,files:read,groups:read,users:read,files:write:user"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1545058619",
+        "change_type": "added",
+        "app_type": "Slack Deletron",
+        "app_id": "AA3DR7V1S",
+        "scope": "identify,channels:read,files:read,groups:read,users:read,files:write:user"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1545058096",
+        "change_type": "added",
+        "app_type": "Slack Deletron",
+        "app_id": "AA3DR7V1S",
+        "scope": "identify,channels:read,files:read,groups:read,users:read,files:write:user"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1544634345",
+        "change_type": "removed",
+        "app_type": "Backupery for Slack",
+        "app_id": "A1R9DMFS7",
+        "scope": "identify,channels:history,groups:history,im:history,channels:read,files:read,groups:read,im:read,users:read,users:read.email"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1544633979",
+        "change_type": "added",
+        "app_type": "Backupery for Slack",
+        "app_id": "A1R9DMFS7",
+        "scope": "identify,channels:history,groups:history,im:history,channels:read,files:read,groups:read,im:read,users:read,users:read.email"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1544633856",
+        "change_type": "removed",
+        "app_type": "Spoiler",
+        "app_id": "A2M2PF734",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1544633856",
+        "change_type": "removed",
+        "app_type": "Spoiler",
+        "app_id": "A2M2PF734",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1530541496",
+        "change_type": "added",
+        "app_type": "Google Drive",
+        "app_id": "A6NL8MJ6Q",
+        "scope": "identify,bot,channels:read,files:read,team:read,users:read,users:read.email,chat:write:bot,links:read"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1529597561",
+        "change_type": "added",
+        "app_type": "Spoiler",
+        "app_id": "A2M2PF734",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1529597552",
+        "change_type": "removed",
+        "app_type": "Decision Bot",
+        "app_id": "A4SHSLEVA",
+        "scope": "identify,bot,commands,chat:write:bot"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1523369960",
+        "change_type": "added",
+        "app_type": "Decision Bot",
+        "app_id": "A4SHSLEVA",
+        "scope": "identify,bot,commands,chat:write:bot"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1520284975",
+        "change_type": "updated",
+        "service_id": "213225382160",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1515690836",
+        "change_type": "removed",
+        "app_type": "Koyfin",
+        "app_id": "A1F2VTC67",
+        "scope": "identify,bot,commands,incoming-webhook,users:read,users:read.email"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1515690683",
+        "change_type": "added",
+        "app_type": "Koyfin",
+        "app_id": "A1F2VTC67",
+        "scope": "identify,bot,commands,incoming-webhook,users:read,users:read.email"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1515690607",
+        "change_type": "removed",
+        "app_type": "D.AT",
+        "app_id": "A5MKNBT9N",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1515690607",
+        "change_type": "removed",
+        "app_type": "D.AT",
+        "app_id": "A5MKNBT9N",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1515690396",
+        "change_type": "added",
+        "app_type": "D.AT",
+        "app_id": "A5MKNBT9N",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1515690389",
+        "change_type": "removed",
+        "app_type": "Open Agora Polls",
+        "app_id": "A0ECJM3PG",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1515690389",
+        "change_type": "removed",
+        "app_type": "Open Agora Polls",
+        "app_id": "A0ECJM3PG",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1508445601",
+        "change_type": "expanded",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1508445249",
+        "change_type": "expanded",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HSHSS2",
+        "user_name": "tommy",
+        "date": "1508439973",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1507040366",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1507040309",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1507040309",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506349860",
+        "change_type": "expanded",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1506349495",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506295084",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1506294893",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1506294733",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1506294708",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1506294708",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1506134004",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506133865",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506133850",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506133850",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506133850",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1506133850",
+        "change_type": "removed",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1506004417",
+        "change_type": "updated",
+        "service_id": "213225382160",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1505943515",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1505498847",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1505487527",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1505429101",
+        "change_type": "expanded",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1505428974",
+        "change_type": "added",
+        "app_type": "PlusPlus",
+        "app_id": "A4P95916J",
+        "scope": "identify,bot,commands,incoming-webhook,channels:history,identity.basic,identity.team"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1505428952",
+        "change_type": "removed",
+        "app_type": "Karmabot",
+        "app_id": "A22354MPX",
+        "scope": "identify,bot,commands,users:read,users:read.email"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1505428145",
+        "change_type": "added",
+        "app_type": "Karmabot",
+        "app_id": "A22354MPX",
+        "scope": "identify,bot,commands,users:read,users:read.email"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1505428128",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1504817126",
+        "change_type": "added",
+        "app_type": "stocktopus",
+        "app_id": "A3KF7Q04A",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1504817107",
+        "change_type": "removed",
+        "app_type": "\/coinflip",
+        "app_id": "A0PH8QSNA",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1504817107",
+        "change_type": "removed",
+        "app_type": "\/coinflip",
+        "app_id": "A0PH8QSNA",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1500314523",
+        "change_type": "updated",
+        "service_id": "213225382160",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1500314519",
+        "change_type": "added",
+        "service_id": "213225382160",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1500314514",
+        "change_type": "removed",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1498595221",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1498595196",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498054646",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498054561",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498054507",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498054402",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498054202",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498054001",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498053081",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498053077",
+        "change_type": "added",
+        "app_type": "Disco",
+        "app_id": "A0DV3EEN4",
+        "scope": "identify,bot,commands,channels:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498053047",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498052978",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052880",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052879",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1498052856",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052835",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052800",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052719",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052703",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1498052702",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1498052483",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1497564975",
+        "change_type": "whitelist_disabled"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1497563386",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1497563370",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1497563024",
+        "change_type": "app_whitelist_added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1497562856",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A2BSDLNS0",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1489442418",
+        "change_type": "enabled",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1482561280",
+        "change_type": "added",
+        "app_type": "Slash",
+        "app_id": "A37MH2YLD",
+        "scope": "read,client,identify,post"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1477716319",
+        "change_type": "disabled",
+        "reason": "admin",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1468458386",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1468457318",
+        "change_type": "removed",
+        "app_type": "Polly",
+        "app_id": "A04E6JX41",
+        "scope": "identify,bot,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1467074791",
+        "change_type": "added",
+        "app_type": "IFTTT",
+        "app_id": "A028LGAFF",
+        "scope": "identify,ifttt"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1464101303",
+        "change_type": "added",
+        "app_type": "Urban",
+        "app_id": "A0RTJ65MH",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463618641",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463618639",
+        "change_type": "enabled",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1463600976",
+        "change_type": "disabled",
+        "reason": "user",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463600869",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463600862",
+        "change_type": "enabled",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1463600848",
+        "change_type": "disabled",
+        "reason": "user",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1463600787",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463598093",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463598089",
+        "change_type": "enabled",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463598086",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463598085",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463598083",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463598079",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1463597997",
+        "change_type": "disabled",
+        "reason": "user",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463509011",
+        "change_type": "added",
+        "app_type": "Polly",
+        "app_id": "A04E6JX41",
+        "scope": "identify,bot,commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1463452324",
+        "change_type": "removed",
+        "service_id": "43320367379",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463432068",
+        "change_type": "updated",
+        "service_id": "43320367379",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463432036",
+        "change_type": "added",
+        "service_id": "43320367379",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1463432012",
+        "change_type": "removed",
+        "service_id": "39903300487",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462899179",
+        "change_type": "updated",
+        "service_id": "41706899686",
+        "service_type": "Twitter",
+        "scope": "incoming-webhook",
+        "channel": "C15HP1TGC"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462899149",
+        "change_type": "added",
+        "service_id": "41706899686",
+        "service_type": "Twitter",
+        "scope": "incoming-webhook"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462480001",
+        "change_type": "added",
+        "app_type": "\/coinflip",
+        "app_id": "A0PH8QSNA",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462391996",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A0DPMQCE9",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462382824",
+        "change_type": "added",
+        "app_type": "Open Agora Polls",
+        "app_id": "A0ECJM3PG",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462382789",
+        "change_type": "removed",
+        "app_type": "Simple Poll",
+        "app_id": "A0HFW7MR6",
+        "scope": "identify,commands,chat:write:bot,reactions:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462380092",
+        "change_type": "removed",
+        "app_type": "\/coinflip",
+        "app_id": "A0PH8QSNA",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462380092",
+        "change_type": "removed",
+        "app_type": "Urban",
+        "app_id": "A0RTJ65MH",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462380091",
+        "change_type": "removed",
+        "app_type": "Dicebot",
+        "app_id": "A0K7BALJ1",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462333267",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462332752",
+        "change_type": "added",
+        "app_type": "Dicebot",
+        "app_id": "A0K7BALJ1",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462332598",
+        "change_type": "added",
+        "app_type": "Urban",
+        "app_id": "A0RTJ65MH",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462332519",
+        "change_type": "added",
+        "app_type": "\/coinflip",
+        "app_id": "A0PH8QSNA",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462332343",
+        "change_type": "removed",
+        "app_type": "Ideabot",
+        "app_id": "A0A6LHSPK",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462332160",
+        "change_type": "added",
+        "app_type": "Ideabot",
+        "app_id": "A0A6LHSPK",
+        "scope": "identify,commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462308404",
+        "change_type": "added",
+        "service_id": "39903300487",
+        "service_type": "Bots",
+        "scope": "bot"
+    },
+    {
+        "user_id": "U15HZ01QX",
+        "user_name": "james",
+        "date": "1462243022",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A0DPMQCE9",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462242802",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A0DPMQCE9",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15J5H60P",
+        "user_name": "andrew",
+        "date": "1462242802",
+        "change_type": "removed",
+        "app_type": "PlusPlus++",
+        "app_id": "A0DPMQCE9",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HY5TG8",
+        "user_name": "ev",
+        "date": "1462238059",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A0DPMQCE9",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462237458",
+        "change_type": "added",
+        "app_type": "Simple Poll",
+        "app_id": "A0HFW7MR6",
+        "scope": "identify,commands,chat:write:bot,reactions:write"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462236536",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462236535",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462236532",
+        "change_type": "updated",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462236524",
+        "change_type": "added",
+        "service_id": "39564794707",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "U15HRTAHL",
+        "user_name": "joeythomaschaske",
+        "date": "1462235775",
+        "change_type": "added",
+        "app_type": "PlusPlus++",
+        "app_id": "A0DPMQCE9",
+        "scope": "identify,bot,team:read,channels:write"
+    },
+    {
+        "user_id": 0,
+        "user_name": "slack",
+        "date": "1462235293",
+        "change_type": "added",
+        "service_id": "39616032929",
+        "service_type": "Google Drive",
+        "scope": "files:write:user"
+    }
+]

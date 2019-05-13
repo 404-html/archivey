@@ -1,0 +1,217 @@
+[
+    {
+        "type": "message",
+        "text": "<@U15J5H60P>: i cant challenge you until at least tonight",
+        "user": "U15HY5TG8",
+        "ts": "1464101565.000002"
+    },
+    {
+        "type": "message",
+        "text": "Ok",
+        "user": "U15J5H60P",
+        "ts": "1464101655.000003"
+    },
+    {
+        "type": "message",
+        "text": "I got 500 points",
+        "user": "U15J5H60P",
+        "ts": "1464102046.000004"
+    },
+    {
+        "type": "message",
+        "text": "Whoop",
+        "user": "U15J5H60P",
+        "ts": "1464102048.000005"
+    },
+    {
+        "type": "message",
+        "text": "It expires in 2 days",
+        "user": "U15J5H60P",
+        "ts": "1464102069.000006"
+    },
+    {
+        "type": "message",
+        "text": "So you can get to it tonight",
+        "user": "U15J5H60P",
+        "ts": "1464102078.000007"
+    },
+    {
+        "type": "message",
+        "text": "The first one took me way too long lol",
+        "user": "U15J5H60P",
+        "ts": "1464102089.000008"
+    },
+    {
+        "type": "message",
+        "text": "Noice. I got 2000 points yesterday for that one. I need to check the solution though",
+        "user": "U15HY5TG8",
+        "ts": "1464102250.000009"
+    },
+    {
+        "type": "message",
+        "text": "Which one?",
+        "user": "U15J5H60P",
+        "ts": "1464102305.000010"
+    },
+    {
+        "type": "message",
+        "text": "The Gamma one?",
+        "user": "U15J5H60P",
+        "ts": "1464102314.000011"
+    },
+    {
+        "type": "message",
+        "text": "I got 2k coins for that, too.",
+        "user": "U15J5H60P",
+        "ts": "1464102325.000012"
+    },
+    {
+        "type": "message",
+        "text": "Yea ik ",
+        "user": "U15HY5TG8",
+        "ts": "1464102337.000013"
+    },
+    {
+        "type": "message",
+        "text": "Shit the challenge isnt done yet",
+        "user": "U15HY5TG8",
+        "ts": "1464102454.000014"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HY5TG8>: You home?",
+        "user": "U15J5H60P",
+        "ts": "1464131319.000002"
+    },
+    {
+        "type": "message",
+        "text": "The challenge is done.",
+        "user": "U15J5H60P",
+        "ts": "1464131323.000003"
+    },
+    {
+        "type": "message",
+        "text": "No im not i wont be until about 830",
+        "user": "U15HY5TG8",
+        "ts": "1464131411.000004"
+    },
+    {
+        "type": "message",
+        "text": "fuck",
+        "user": "U15J5H60P",
+        "ts": "1464131451.000005"
+    },
+    {
+        "type": "message",
+        "text": "Here’s the solution",
+        "user": "U15J5H60P",
+        "ts": "1464131459.000006"
+    },
+    {
+        "type": "message",
+        "text": "`return --n &lt; 2 ? 1 : n * gamma(n);`",
+        "user": "U15J5H60P",
+        "ts": "1464131463.000007"
+    },
+    {
+        "type": "message",
+        "text": "Here’s the python solution...",
+        "user": "U15J5H60P",
+        "ts": "1464131539.000008"
+    },
+    {
+        "type": "message",
+        "text": "`from math import *`",
+        "user": "U15J5H60P",
+        "ts": "1464131545.000009"
+    },
+    {
+        "type": "message",
+        "text": "\/giphy hella ass",
+        "user": "U15J5H60P",
+        "ts": "1464131551.000010",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/deadliest-catch-T3sd3PpOyoKPe>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/T3sd3PpOyoKPe\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1025854,
+                "is_animated": true,
+                "title": "hella ass",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/deadliest-catch-T3sd3PpOyoKPe"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "What should I have the assistant I’m making do?",
+        "user": "U15J5H60P",
+        "ts": "1464134302.000011"
+    },
+    {
+        "type": "message",
+        "text": "So far it can tell you the time and tell you the current temperature",
+        "user": "U15J5H60P",
+        "ts": "1464134318.000012",
+        "edited": {
+            "user": "U15J5H60P",
+            "ts": "1464134520.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "How the hell didnt we figure that out lol fuuuck",
+        "user": "U15HY5TG8",
+        "ts": "1464136034.000015"
+    },
+    {
+        "type": "message",
+        "text": "Assistant?",
+        "user": "U15HY5TG8",
+        "ts": "1464136060.000016"
+    },
+    {
+        "type": "message",
+        "text": "Yeah. I type in “What’s the weather?” and it will reply “It’s 70 degrees out.\"",
+        "user": "U15J5H60P",
+        "ts": "1464136425.000017"
+    },
+    {
+        "type": "message",
+        "text": "Is it only weather related?",
+        "user": "U15HY5TG8",
+        "ts": "1464136679.000018"
+    },
+    {
+        "type": "message",
+        "text": "No. I can also ask it the time.",
+        "user": "U15J5H60P",
+        "ts": "1464136688.000019"
+    },
+    {
+        "type": "message",
+        "text": "Ok are you trying to make it do more than that though?",
+        "user": "U15HY5TG8",
+        "ts": "1464136760.000020"
+    },
+    {
+        "type": "message",
+        "text": "Yes. I'm asking you what I should have it be able to do. ",
+        "user": "U15J5H60P",
+        "ts": "1464136918.000021"
+    },
+    {
+        "type": "message",
+        "text": "Hmmm",
+        "user": "U15HY5TG8",
+        "ts": "1464136978.000022"
+    },
+    {
+        "type": "message",
+        "text": "Maybe something map related. Like distance from current location to requested ",
+        "user": "U15HY5TG8",
+        "ts": "1464137032.000023"
+    }
+]

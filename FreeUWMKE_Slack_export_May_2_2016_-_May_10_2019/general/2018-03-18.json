@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "72CAB4C6-769D-41B4-BA9F-CB0DB7822559",
+        "type": "message",
+        "text": "Had plans in Pewaukee",
+        "user": "U15HSHSS2",
+        "ts": "1521394662.000084"
+    },
+    {
+        "client_msg_id": "AAB06786-C2C9-41D5-804C-EF696E0F75BC",
+        "type": "message",
+        "text": "Sounded like a fun night though",
+        "user": "U15HSHSS2",
+        "ts": "1521394671.000071"
+    },
+    {
+        "client_msg_id": "71e3e2bc-0111-44b4-9d7d-0604956144f4",
+        "type": "message",
+        "text": "<https:\/\/i.redd.it\/ro1odhbnsjm01.png>",
+        "user": "U15HRTAHL",
+        "ts": "1521431995.000218",
+        "attachments": [
+            {
+                "fallback": "1007x835px image",
+                "image_url": "https:\/\/i.redd.it\/ro1odhbnsjm01.png",
+                "image_width": 1007,
+                "image_height": 835,
+                "image_bytes": 856029,
+                "from_url": "https:\/\/i.redd.it\/ro1odhbnsjm01.png",
+                "id": 1
+            }
+        ]
+    }
+]

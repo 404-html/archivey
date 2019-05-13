@@ -1,0 +1,93 @@
+[
+    {
+        "client_msg_id": "926f2623-1929-4bc5-aa40-fbbb7aeb827d",
+        "type": "message",
+        "text": "<@U15HRTAHL> Did you see the Pixel 4 leaks?",
+        "user": "U15J5H60P",
+        "ts": "1554161063.000200"
+    },
+    {
+        "client_msg_id": "23ea1eae-6789-4bc8-8e1c-b39123b9d98c",
+        "type": "message",
+        "text": "Looks dumb af",
+        "user": "U15J5H60P",
+        "ts": "1554161093.000400"
+    },
+    {
+        "client_msg_id": "be624220-00ca-44a6-869d-83ba35d9be60",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=VL9rd4NLXCo>",
+        "user": "U15J5H60P",
+        "ts": "1554161102.000600",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "This is Google Pixel 4 Ultra!",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=VL9rd4NLXCo",
+                "author_name": "Marques Brownlee",
+                "author_link": "https:\/\/www.youtube.com\/user\/marquesbrownlee",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/VL9rd4NLXCo\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: This is Google Pixel 4 Ultra!",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/VL9rd4NLXCo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=VL9rd4NLXCo",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=VL9rd4NLXCo"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e954aca6-fb08-4df6-828f-99dc46023f45",
+        "type": "message",
+        "text": "Idc about design",
+        "user": "U15HRTAHL",
+        "ts": "1554161193.000900"
+    },
+    {
+        "client_msg_id": "7edf63fa-bed6-46bc-b926-e737c0a10feb",
+        "type": "message",
+        "text": "It's going in a case",
+        "user": "U15HRTAHL",
+        "ts": "1554161201.001200"
+    },
+    {
+        "client_msg_id": "1c6c1ae8-70c3-4420-9d92-cf717e3467ba",
+        "type": "message",
+        "text": "I'm never going to see it",
+        "user": "U15HRTAHL",
+        "ts": "1554161208.001600"
+    },
+    {
+        "client_msg_id": "7948db19-73ae-4070-95c4-8f4f7e3a0d49",
+        "type": "message",
+        "text": "There’s a popout selfie cam",
+        "user": "U15J5H60P",
+        "ts": "1554161212.001700"
+    },
+    {
+        "client_msg_id": "f6dccd86-3d2b-47c6-8eb2-f9975f8f2336",
+        "type": "message",
+        "text": "The ultra is going to have two chins",
+        "user": "U15J5H60P",
+        "ts": "1554161226.002000"
+    },
+    {
+        "client_msg_id": "670299de-ca61-41bf-8f62-664bd29c100b",
+        "type": "message",
+        "text": "_Case makers hate this phone_",
+        "user": "U15HRTAHL",
+        "ts": "1554161419.002500"
+    },
+    {
+        "client_msg_id": "73462a47-eed5-4309-b053-c76f453788a6",
+        "type": "message",
+        "text": "Or just don’t protect that part",
+        "user": "U15J5H60P",
+        "ts": "1554161527.002700"
+    }
+]

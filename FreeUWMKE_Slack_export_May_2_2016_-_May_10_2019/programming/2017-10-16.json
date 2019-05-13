@@ -1,0 +1,302 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> you guys have seen this right?",
+        "user": "U15HRTAHL",
+        "ts": "1508170680.000087"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/docs.google.com\/spreadsheets\/d\/1ZOiwFmF0r0TMzCLPv1P9KcnQXovEtmj4_Huf7D-vGq4\/edit#gid=330413207>",
+        "user": "U15HRTAHL",
+        "ts": "1508170680.000772"
+    },
+    {
+        "type": "message",
+        "text": "nooope",
+        "user": "U15HY5TG8",
+        "ts": "1508170729.000193"
+    },
+    {
+        "type": "message",
+        "text": "well...based on that, i wouldnt say im out of scope",
+        "user": "U15HY5TG8",
+        "ts": "1508170814.000372"
+    },
+    {
+        "type": "message",
+        "text": "how many years paid experience do you have? 1 or 2?",
+        "user": "U15HRTAHL",
+        "ts": "1508170869.000213"
+    },
+    {
+        "type": "message",
+        "text": "not even 1 yet",
+        "user": "U15HY5TG8",
+        "ts": "1508170904.000176"
+    },
+    {
+        "type": "message",
+        "text": "we graduated in December",
+        "user": "U15HY5TG8",
+        "ts": "1508170910.000488"
+    },
+    {
+        "type": "message",
+        "text": "Ahhh you're internships were unpaid? gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1508170926.000201"
+    },
+    {
+        "type": "message",
+        "text": "it was paid but i only did about 2-1\/2 months of actual development there, so that puts me at like 11-1\/2 months paid experience",
+        "user": "U15HY5TG8",
+        "ts": "1508170971.000502"
+    },
+    {
+        "type": "message",
+        "text": "gotcha",
+        "user": "U15HRTAHL",
+        "ts": "1508170979.000373"
+    },
+    {
+        "type": "message",
+        "text": "Lol suddenly I have no problem with my salary",
+        "user": "U15J5H60P",
+        "ts": "1508171191.000030"
+    },
+    {
+        "type": "message",
+        "text": "<@U15HRTAHL> so they actually did can the guy i was talking about last week",
+        "user": "U15HY5TG8",
+        "ts": "1508173190.000426"
+    },
+    {
+        "type": "message",
+        "text": "so you assumed he was fired before?",
+        "user": "U15HRTAHL",
+        "ts": "1508173259.000248"
+    },
+    {
+        "type": "message",
+        "text": "yea",
+        "user": "U15HY5TG8",
+        "ts": "1508173266.000526"
+    },
+    {
+        "type": "message",
+        "text": "tisk tisk",
+        "user": "U15HRTAHL",
+        "ts": "1508173270.000291"
+    },
+    {
+        "type": "message",
+        "text": "i was right wasnt i?",
+        "user": "U15HY5TG8",
+        "ts": "1508173283.000015"
+    },
+    {
+        "type": "message",
+        "text": "Dude, i thought i was super awkward. There are some awkward people here lol",
+        "user": "U15HY5TG8",
+        "ts": "1508175213.000230"
+    },
+    {
+        "type": "message",
+        "text": "oh yeah I believe that",
+        "user": "U15HRTAHL",
+        "ts": "1508176945.000281"
+    },
+    {
+        "type": "message",
+        "text": "like they don't know what to say or do after i say thank you and start to walk away",
+        "user": "U15HY5TG8",
+        "ts": "1508177165.000587"
+    },
+    {
+        "type": "message",
+        "text": "its possible they don't care",
+        "user": "U15HRTAHL",
+        "ts": "1508177208.000288"
+    },
+    {
+        "type": "message",
+        "text": "No, thats not it lol its like a huge pause before they say \"Youre welcome\" and acknowledge that im walking away lol",
+        "user": "U15HY5TG8",
+        "ts": "1508177297.000230"
+    },
+    {
+        "type": "message",
+        "text": "Some of these \"bugs\" piss me right off",
+        "user": "U15HRTAHL",
+        "ts": "1508179293.000525"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1508181045.000010"
+    },
+    {
+        "type": "message",
+        "text": "i was just handed two folders with my fired coworkers old notes and source code",
+        "user": "U15HY5TG8",
+        "ts": "1508181065.000438"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1508181243.000038"
+    },
+    {
+        "type": "message",
+        "text": "whatre the \"bugs\"?",
+        "user": "U15HY5TG8",
+        "ts": "1508181278.000116"
+    },
+    {
+        "type": "message",
+        "text": "```\nThe network picklist in the Member Responsibility section is defaulting to Out-of-Network\n1. Create a new case for Member ID 1539301\nActual Result: picklist defaults to Out-of-Network\nExpected Result: picklist defaults to In-network\n```",
+        "user": "U15HRTAHL",
+        "ts": "1508181436.000251"
+    },
+    {
+        "type": "message",
+        "text": "defaulting a drop down with a specific value",
+        "user": "U15HRTAHL",
+        "ts": "1508181451.000197"
+    },
+    {
+        "type": "message",
+        "text": "its possible that value won't exist either",
+        "user": "U15HRTAHL",
+        "ts": "1508181462.000054"
+    },
+    {
+        "type": "message",
+        "text": "and it was never a requirement to begin with",
+        "user": "U15HRTAHL",
+        "ts": "1508181469.000087"
+    },
+    {
+        "type": "message",
+        "text": "¯\\_(ツ)_\/¯ idk mannn lol",
+        "user": "U15HY5TG8",
+        "ts": "1508181482.000337"
+    },
+    {
+        "type": "message",
+        "text": "its just petty",
+        "user": "U15HRTAHL",
+        "ts": "1508181487.000346"
+    },
+    {
+        "type": "message",
+        "text": "just click the god damn one you want",
+        "user": "U15HRTAHL",
+        "ts": "1508181495.000166"
+    },
+    {
+        "type": "message",
+        "text": "but its about time you start looking for a new job",
+        "user": "U15HRTAHL",
+        "ts": "1508181524.000627"
+    },
+    {
+        "type": "message",
+        "text": "nahhh",
+        "user": "U15HY5TG8",
+        "ts": "1508181556.000576"
+    },
+    {
+        "type": "message",
+        "text": "sql is awesome",
+        "user": "U15HRTAHL",
+        "ts": "1508198827.000222"
+    },
+    {
+        "type": "message",
+        "text": "How dare you",
+        "user": "U15HSHSS2",
+        "ts": "1508198861.000014"
+    },
+    {
+        "type": "message",
+        "text": "Take it back",
+        "user": "U15HSHSS2",
+        "ts": "1508198866.000018"
+    },
+    {
+        "type": "message",
+        "text": "but why?",
+        "user": "U15HRTAHL",
+        "ts": "1508198873.000153"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1508198881.000155"
+    },
+    {
+        "type": "message",
+        "text": "Think of it this way. Chocolate is great, everybody loves it. But imagine you got raped everyday for a semester while being force fed chocolate. Chocolate didn't change, but it will never be the same for you, and you will always despise it because of what it reminds you of.",
+        "user": "U15HSHSS2",
+        "ts": "1508199061.000049"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HRTAHL",
+        "ts": "1508199074.000031"
+    },
+    {
+        "type": "message",
+        "text": "no",
+        "user": "U15HRTAHL",
+        "ts": "1508199079.000052"
+    },
+    {
+        "type": "message",
+        "text": "lol",
+        "user": "U15HY5TG8",
+        "ts": "1508199080.000285"
+    },
+    {
+        "type": "message",
+        "text": "you were force fed the idea of chocolate",
+        "user": "U15HRTAHL",
+        "ts": "1508199087.000023"
+    },
+    {
+        "type": "message",
+        "text": "you were force fed cocoa leaves",
+        "user": "U15HRTAHL",
+        "ts": "1508199096.000088"
+    },
+    {
+        "type": "message",
+        "text": "Joe, he's right. Its cool what sql can do, but when you have to write queries that are 20 lines long, on cascading joins...not so fun",
+        "user": "U15HY5TG8",
+        "ts": "1508199129.000048"
+    },
+    {
+        "type": "message",
+        "text": "he's talking about dees class",
+        "user": "U15HRTAHL",
+        "ts": "1508199159.000118"
+    },
+    {
+        "type": "message",
+        "text": "I didn't write 20 line queries in dees class",
+        "user": "U15HRTAHL",
+        "ts": "1508199172.000279"
+    },
+    {
+        "type": "message",
+        "text": "neither did i, but i did at work lol",
+        "user": "U15HY5TG8",
+        "ts": "1508199198.000236"
+    }
+]

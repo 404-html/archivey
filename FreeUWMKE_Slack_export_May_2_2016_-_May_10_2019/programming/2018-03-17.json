@@ -1,0 +1,103 @@
+[
+    {
+        "type": "message",
+        "text": "in this...",
+        "user": "U15HY5TG8",
+        "ts": "1521334064.000048"
+    },
+    {
+        "type": "message",
+        "text": "```{{someModel.value | 'N\/A'}}```",
+        "user": "U15HY5TG8",
+        "ts": "1521334090.000068"
+    },
+    {
+        "type": "message",
+        "text": "what is the | 'N\/A' referred to as?",
+        "user": "U15HY5TG8",
+        "ts": "1521334103.000045"
+    },
+    {
+        "client_msg_id": "452989E8-2989-472D-AD74-4EC74047ACBC",
+        "type": "message",
+        "text": "Default",
+        "user": "U15J5H60P",
+        "ts": "1521334121.000012"
+    },
+    {
+        "client_msg_id": "F709DDF3-F582-41A7-9A32-3D30CE1F7CBE",
+        "type": "message",
+        "text": "If someValue.value is null then it'll equate to the default which is 'N\/A'",
+        "user": "U15J5H60P",
+        "ts": "1521334154.000018"
+    },
+    {
+        "type": "message",
+        "text": "right right. im moreso asking what you would type in google to see how its done in php",
+        "user": "U15HY5TG8",
+        "ts": "1521334205.000073"
+    },
+    {
+        "type": "message",
+        "text": "ahhh i guess for php you have to do this",
+        "user": "U15HY5TG8",
+        "ts": "1521334629.000080"
+    },
+    {
+        "type": "message",
+        "text": "```{{someMode.value || 'N\/A'}}```",
+        "user": "U15HY5TG8",
+        "ts": "1521334641.000043",
+        "edited": {
+            "user": "U15HY5TG8",
+            "ts": "1521334661.000000"
+        }
+    },
+    {
+        "client_msg_id": "7c2ba5a0-cd8b-46cb-a1d7-e4aa3d7197da",
+        "type": "message",
+        "text": "`|` is a filter",
+        "user": "U15HRTAHL",
+        "ts": "1521335100.000120"
+    },
+    {
+        "client_msg_id": "108e62e8-b230-4c44-9d3e-4af214e2cf3b",
+        "type": "message",
+        "text": "In angular",
+        "user": "U15HRTAHL",
+        "ts": "1521335108.000064"
+    },
+    {
+        "client_msg_id": "B774A5CE-2148-480B-BFF3-29441A13A3E2",
+        "type": "message",
+        "text": "Ah",
+        "user": "U15J5H60P",
+        "ts": "1521335112.000030"
+    },
+    {
+        "client_msg_id": "58e8c725-2247-471f-b73c-3c6eb630d273",
+        "type": "message",
+        "text": "Anything before the filter is the value you pass to the filter. The filter pretty much just makes data pretty",
+        "user": "U15HRTAHL",
+        "ts": "1521335158.000043"
+    },
+    {
+        "client_msg_id": "e58c0fbe-4c3a-4ded-bc85-7adccb6bf9f1",
+        "type": "message",
+        "text": "Like formatting dates\/currency",
+        "user": "U15HRTAHL",
+        "ts": "1521335168.000027"
+    },
+    {
+        "type": "message",
+        "text": "right right. i just couldnt figure out what it was called so that i could find out how to put a default value in the case that the data was null",
+        "user": "U15HY5TG8",
+        "ts": "1521335217.000020"
+    },
+    {
+        "type": "message",
+        "text": "but thank you sir!",
+        "user": "U15HY5TG8",
+        "ts": "1521335237.000061"
+    }
+]

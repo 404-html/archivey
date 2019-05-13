@@ -1,0 +1,176 @@
+[
+    {
+        "type": "message",
+        "text": "Looks like this side project is about to get started",
+        "user": "U15HY5TG8",
+        "ts": "1518529595.000107"
+    },
+    {
+        "type": "message",
+        "text": "Nice!",
+        "user": "U15J5H60P",
+        "ts": "1518529630.000236"
+    },
+    {
+        "type": "message",
+        "text": "Yeee im pretty excited",
+        "user": "U15HY5TG8",
+        "ts": "1518529649.000510"
+    },
+    {
+        "type": "message",
+        "text": "Ill learn a lot really quick i think",
+        "user": "U15HY5TG8",
+        "ts": "1518529658.000145"
+    },
+    {
+        "type": "message",
+        "text": "I picked up a ticket that a dev did 75% of the work on. The one piece he didn't do isn't possible with the way he wrote it :neutral_face:",
+        "user": "U15HRTAHL",
+        "ts": "1518536772.000542"
+    },
+    {
+        "type": "message",
+        "text": "which explains why he dropped it",
+        "user": "U15HRTAHL",
+        "ts": "1518536779.000834"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1518537096.000330"
+    },
+    {
+        "type": "message",
+        "text": "A dev inside your company?",
+        "user": "U15HY5TG8",
+        "ts": "1518537107.000358"
+    },
+    {
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1518537122.000735"
+    },
+    {
+        "type": "message",
+        "text": "He wrote a database trigger on before create which means the records aren't assigned Id's yet",
+        "user": "U15HRTAHL",
+        "ts": "1518537149.000666"
+    },
+    {
+        "type": "message",
+        "text": "the piece of the ticket he didn't do is linking to another record",
+        "user": "U15HRTAHL",
+        "ts": "1518537182.000095"
+    },
+    {
+        "type": "message",
+        "text": "well if you don't have an Id you can't link them",
+        "user": "U15HRTAHL",
+        "ts": "1518537188.000726"
+    },
+    {
+        "type": "message",
+        "text": "Lol",
+        "user": "U15HY5TG8",
+        "ts": "1518540506.000488"
+    },
+    {
+        "type": "message",
+        "text": "Are any of you familiar with python enough to answer a question?",
+        "user": "U15HY5TG8",
+        "ts": "1518577086.000123"
+    },
+    {
+        "type": "message",
+        "text": "Yes",
+        "user": "U15J5H60P",
+        "ts": "1518577096.000194"
+    },
+    {
+        "type": "message",
+        "text": "why the fuck wont truncate work",
+        "user": "U15HY5TG8",
+        "ts": "1518577128.000280"
+    },
+    {
+        "type": "message",
+        "text": "```import urllib2\nimport json\nimport os.path\n\n \nresponse = urllib2.urlopen(\"<https:\/\/verge-blockchain.info\/ext\/getbalance\/DLMHGfLPdpaJarFBiynqnmwRRAcooG1AmH>\")\ndata = json.load(response)\n\nnewBalance = data\n\t\n\nf = open(\"existingBalance.txt\",\"rw\") \nbalance = float(f.readline())\nf.truncate()\nf.close()\n\nif newBalance == balance:\n    print(newBalance-balance)```",
+        "user": "U15HY5TG8",
+        "ts": "1518577132.000231"
+    },
+    {
+        "type": "message",
+        "text": "i also tried to do f.truncate(0) to put the \"cursor\" at the beginning of the txt file",
+        "user": "U15HY5TG8",
+        "ts": "1518577231.000233"
+    },
+    {
+        "type": "message",
+        "text": "What do you think truncate does?",
+        "user": "U15J5H60P",
+        "ts": "1518577388.000157"
+    },
+    {
+        "type": "message",
+        "text": "truncates text in the file based on where the cursor is",
+        "user": "U15HY5TG8",
+        "ts": "1518577417.000223"
+    },
+    {
+        "type": "message",
+        "text": "The cursor is at the end in your case",
+        "user": "U15J5H60P",
+        "ts": "1518577545.000102"
+    },
+    {
+        "type": "message",
+        "text": "ik but i also tried f.truncate(0)",
+        "user": "U15HY5TG8",
+        "ts": "1518577568.000092"
+    },
+    {
+        "type": "message",
+        "text": "<https:\/\/www.tutorialspoint.com\/python\/file_truncate.htm>",
+        "user": "U15J5H60P",
+        "ts": "1518577658.000112",
+        "attachments": [
+            {
+                "service_name": "www.tutorialspoint.com",
+                "title": "Python File truncate() Method",
+                "title_link": "https:\/\/www.tutorialspoint.com\/python\/file_truncate.htm",
+                "text": "Python File truncate() Method - Learn Python in simple and easy steps starting from basic to advanced concepts with examples including Python Syntax Object Oriented Language, Methods, Tuples, Tools\/Utilities, Exceptions Handling, Sockets, GUI, Extentions, XML Programming.",
+                "fallback": "www.tutorialspoint.com: Python File truncate() Method",
+                "from_url": "https:\/\/www.tutorialspoint.com\/python\/file_truncate.htm",
+                "service_icon": "https:\/\/www.tutorialspoint.com\/favicon.ico",
+                "id": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "That’s saying truncate nothing",
+        "user": "U15J5H60P",
+        "ts": "1518577665.000212"
+    },
+    {
+        "type": "message",
+        "text": "i was just on there. trying running that lol",
+        "user": "U15HY5TG8",
+        "ts": "1518577707.000001"
+    },
+    {
+        "type": "message",
+        "text": "guess i gotta make it ugly like this",
+        "user": "U15HY5TG8",
+        "ts": "1518578383.000138"
+    },
+    {
+        "type": "message",
+        "text": "```f = open(\"existingBalance.txt\",\"r+\") \nbalance = float(f.readline())\nf.close()\nopen(\"existingBalance.txt\",\"w\").close()```",
+        "user": "U15HY5TG8",
+        "ts": "1518578386.000254"
+    }
+]

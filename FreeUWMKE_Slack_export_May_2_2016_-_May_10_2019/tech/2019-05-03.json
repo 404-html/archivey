@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "90f8f468-c937-41e4-ba45-f29df83be48a",
+        "type": "message",
+        "text": "ya boi has Beats on the wayy",
+        "user": "U15HSHSS2",
+        "ts": "1556893009.000300"
+    },
+    {
+        "client_msg_id": "fb55697c-d331-4bc1-85e1-9240444a6476",
+        "type": "message",
+        "text": "Wooooo!",
+        "user": "U15J5H60P",
+        "ts": "1556893115.000500"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15J5H60P",
+        "ts": "1556893121.000700",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/beats-dr-dre-3IcX9Y4n6wRnq",
+                "image_url": "https:\/\/media3.giphy.com\/media\/3IcX9Y4n6wRnq\/giphy-downsized.gif?cid=6104955e5ccc4dc039475a4e2e9e9a52&rid=giphy-downsized.gif",
+                "image_width": 250,
+                "image_height": 156,
+                "image_bytes": 791009,
+                "is_animated": true,
+                "title": "dr dre",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/beats-dr-dre-3IcX9Y4n6wRnq"
+            }
+        ]
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HSHSS2",
+        "ts": "1556893136.000900",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/usopen-9MIwzbUz11clQMmpwV",
+                "image_url": "https:\/\/media2.giphy.com\/media\/9MIwzbUz11clQMmpwV\/giphy-downsized.gif?cid=6104955e5ccc4dcd696e6578457c93fc&rid=giphy-downsized.gif",
+                "image_width": 468,
+                "image_height": 264,
+                "image_bytes": 1322782,
+                "is_animated": true,
+                "title": "lets go",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/usopen\/|US Open>",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/usopen-9MIwzbUz11clQMmpwV"
+            }
+        ]
+    }
+]

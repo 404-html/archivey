@@ -1,0 +1,499 @@
+[
+    {
+        "client_msg_id": "5b2cfb45-acba-4977-897a-52895ee82b06",
+        "type": "message",
+        "text": "I wish google cloud platform was more popular",
+        "user": "U15HRTAHL",
+        "ts": "1550159196.000300"
+    },
+    {
+        "client_msg_id": "be39878f-2e26-4392-9f8c-8a7bb36519ea",
+        "type": "message",
+        "text": "Why is that?",
+        "user": "U15J5H60P",
+        "ts": "1550159205.000600"
+    },
+    {
+        "client_msg_id": "556a3cbe-ea1d-46e5-84eb-7b3c0b7bbd4d",
+        "type": "message",
+        "text": "their pricing is better for people wanting to learn",
+        "user": "U15HRTAHL",
+        "ts": "1550159311.000900"
+    },
+    {
+        "client_msg_id": "d6a973c5-2ab6-4815-90b2-441bc2246b0f",
+        "type": "message",
+        "text": "As opposed to free from AWS?",
+        "user": "U15J5H60P",
+        "ts": "1550159398.001200"
+    },
+    {
+        "client_msg_id": "631bc872-7e15-45c1-8648-98f9b3945bac",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1550159440.001400"
+    },
+    {
+        "client_msg_id": "c6064a06-8d96-409c-970d-df38fc388246",
+        "type": "message",
+        "text": "aws up in here charging me a penny for an rds instance I don’t have",
+        "user": "U15HRTAHL",
+        "ts": "1550159453.001800"
+    },
+    {
+        "client_msg_id": "b62ea0d7-c229-4158-b9a4-63c1e752eb65",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1550159476.002000"
+    },
+    {
+        "client_msg_id": "aee93e5f-0b1c-4645-82b3-2b96758de3f6",
+        "type": "message",
+        "text": "Did you set up cloudwatch?",
+        "user": "U15J5H60P",
+        "ts": "1550159479.002300"
+    },
+    {
+        "client_msg_id": "60943493-82a5-424b-bd33-d9ac3f9f7de7",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1550159484.002600"
+    },
+    {
+        "client_msg_id": "96616abc-90c5-426e-9797-9862e4ff798a",
+        "type": "message",
+        "text": "You might have a S3 bucket sitting there",
+        "user": "U15J5H60P",
+        "ts": "1550159486.002900"
+    },
+    {
+        "client_msg_id": "0da603e2-eeb8-4a0a-b12b-6ca3d04d4d4e",
+        "type": "message",
+        "text": "that’s how I got notified",
+        "user": "U15HRTAHL",
+        "ts": "1550159489.003000"
+    },
+    {
+        "client_msg_id": "63de8af5-8242-48af-8986-9ca597d68482",
+        "type": "message",
+        "text": "nope",
+        "user": "U15HRTAHL",
+        "ts": "1550159492.003200"
+    },
+    {
+        "client_msg_id": "a593ec22-bc0c-4496-9cae-1a5f18d510a6",
+        "type": "message",
+        "text": "I deleted my entire stack",
+        "user": "U15HRTAHL",
+        "ts": "1550159497.003400",
+        "edited": {
+            "user": "U15HRTAHL",
+            "ts": "1550159501.000000"
+        }
+    },
+    {
+        "client_msg_id": "71a54623-c725-4398-8b4d-ece57331171f",
+        "type": "message",
+        "text": "Hmm",
+        "user": "U15J5H60P",
+        "ts": "1550159501.003600"
+    },
+    {
+        "client_msg_id": "277db3bb-4d61-4ceb-af2e-7ec6ed503be9",
+        "type": "message",
+        "text": "So it says it's coming from an RDS instance?",
+        "user": "U15J5H60P",
+        "ts": "1550159526.004100"
+    },
+    {
+        "client_msg_id": "321d81e7-b982-4f08-b987-cd6a227c5d4d",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1550159534.004500"
+    },
+    {
+        "client_msg_id": "ae1951c5-99bc-4ff0-a777-62e3e56e793f",
+        "type": "message",
+        "text": "You should reach out to Amazon and see exactly what's going on. That's interesting.",
+        "user": "U15J5H60P",
+        "ts": "1550159536.004600"
+    },
+    {
+        "client_msg_id": "64b38ffc-21b7-4b5f-9181-eb51ce65f92d",
+        "type": "message",
+        "text": "it’s literally just a penny",
+        "user": "U15HRTAHL",
+        "ts": "1550159556.004800"
+    },
+    {
+        "client_msg_id": "0714dd6c-ee9a-4092-8c9e-41912c0a511e",
+        "type": "message",
+        "text": "Right",
+        "user": "U15J5H60P",
+        "ts": "1550159578.005000"
+    },
+    {
+        "client_msg_id": "43860cc5-d67e-476a-a779-a83c9fe25083",
+        "type": "message",
+        "text": "That's odd",
+        "user": "U15J5H60P",
+        "ts": "1550159579.005200"
+    },
+    {
+        "client_msg_id": "e398456f-4ca0-4430-8faa-6ed50b61a3c1",
+        "type": "message",
+        "text": "I'm not saying go yell at them",
+        "user": "U15J5H60P",
+        "ts": "1550159583.005400"
+    },
+    {
+        "type": "message",
+        "text": "when im within free usage limits",
+        "files": [
+            {
+                "id": "FG6DTKEHW",
+                "created": 1550159594,
+                "timestamp": 1550159594,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-14, 9:53 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15HRTAHL",
+                "editable": false,
+                "size": 44527,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG6DTKEHW\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG6DTKEHW\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 52,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 70,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_720.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_720_w": 720,
+                "thumb_720_h": 104,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_800.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_800_w": 800,
+                "thumb_800_h": 116,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_960.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_960_w": 960,
+                "thumb_960_h": 139,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG6DTKEHW-6974cd092a\/image_1024.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 148,
+                "image_exif_rotation": 1,
+                "original_w": 1366,
+                "original_h": 198,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15HRTAHL\/FG6DTKEHW\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FG6DTKEHW-1b7a66f539",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15HRTAHL",
+        "display_as_bot": false,
+        "ts": "1550159600.005900"
+    },
+    {
+        "client_msg_id": "728641f6-6a04-4131-b00f-b6832c756f94",
+        "type": "message",
+        "text": "But you said you have no RDS instances",
+        "user": "U15J5H60P",
+        "ts": "1550159623.006600"
+    },
+    {
+        "client_msg_id": "a5f40da7-c840-4653-a40f-4a4a6ce82745",
+        "type": "message",
+        "text": "yes",
+        "user": "U15HRTAHL",
+        "ts": "1550159628.006800"
+    },
+    {
+        "client_msg_id": "10d72e7c-6d57-4a44-97d6-f7e496bb5528",
+        "type": "message",
+        "text": "I got charged today when I deleted it 2 days ago",
+        "user": "U15HRTAHL",
+        "ts": "1550159638.007300"
+    },
+    {
+        "client_msg_id": "228e8292-3148-49f6-b10c-03b294615de4",
+        "type": "message",
+        "text": "Oh gotcha",
+        "user": "U15J5H60P",
+        "ts": "1550159643.007500"
+    },
+    {
+        "client_msg_id": "4004cf97-43b0-4c3f-b2d8-5c9721ffa5f2",
+        "type": "message",
+        "text": "They'll probably waive it when the bill comes",
+        "user": "U15J5H60P",
+        "ts": "1550159660.007900"
+    },
+    {
+        "client_msg_id": "140c9f9a-91e6-4945-b603-5b916e466312",
+        "type": "message",
+        "text": "aws is too expensive to host a db, I’m gonna use heroku",
+        "user": "U15HRTAHL",
+        "ts": "1550159670.008200"
+    },
+    {
+        "client_msg_id": "6bb67d84-0e41-4b24-bd78-6bd4096d23a0",
+        "type": "message",
+        "text": "which uses aws anyways",
+        "user": "U15HRTAHL",
+        "ts": "1550159675.008500"
+    },
+    {
+        "client_msg_id": "85bac3bd-ca79-4dc6-8662-1878c810fa44",
+        "type": "message",
+        "text": "Good plan.",
+        "user": "U15J5H60P",
+        "ts": "1550159676.008700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG72TMH3M",
+                "created": 1550159742,
+                "timestamp": 1550159742,
+                "name": "image.png",
+                "title": "Pasted image at 2019-02-14, 9:55 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U15J5H60P",
+                "editable": false,
+                "size": 89512,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG72TMH3M\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T15HR7G14-FG72TMH3M\/download\/image.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG72TMH3M-617caecaf7\/image_64.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG72TMH3M-617caecaf7\/image_80.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG72TMH3M-617caecaf7\/image_360.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_360_w": 360,
+                "thumb_360_h": 169,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG72TMH3M-617caecaf7\/image_480.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "thumb_480_w": 480,
+                "thumb_480_h": 225,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T15HR7G14-FG72TMH3M-617caecaf7\/image_160.png?t=xoxe-39603254038-632282913120-620827978611-790c09c056a65e291519f1f9c44516dc",
+                "image_exif_rotation": 1,
+                "original_w": 685,
+                "original_h": 321,
+                "permalink": "https:\/\/freeuwmke.slack.com\/files\/U15J5H60P\/FG72TMH3M\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/T15HR7G14-FG72TMH3M-cad5743f92",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": false,
+        "ts": "1550159745.009000"
+    },
+    {
+        "client_msg_id": "b6175c32-743a-4a4d-b94c-f1efad2939ca",
+        "type": "message",
+        "text": "This is my usage so far",
+        "user": "U15J5H60P",
+        "ts": "1550159748.009400"
+    },
+    {
+        "client_msg_id": "0e328266-883b-4515-9561-891b75e1eb50",
+        "type": "message",
+        "text": "what are you using dynamo for?",
+        "user": "U15HRTAHL",
+        "ts": "1550159799.009700"
+    },
+    {
+        "client_msg_id": "2fef2fd2-b131-46ed-b950-a97dbe8ae51d",
+        "type": "message",
+        "text": "oh nvm that’s s3",
+        "user": "U15HRTAHL",
+        "ts": "1550159834.009900"
+    },
+    {
+        "client_msg_id": "fa293d8d-4fa4-4e1d-98c4-6cdcc4e3c67d",
+        "type": "message",
+        "text": "What blogs do y'all read",
+        "user": "U15J5H60P",
+        "ts": "1550171834.010100"
+    },
+    {
+        "client_msg_id": "f3920f96-f294-47a3-b8e9-11b64e14d813",
+        "type": "message",
+        "text": "evan doesn’t read any apparently",
+        "user": "U15HRTAHL",
+        "ts": "1550172055.010300"
+    },
+    {
+        "client_msg_id": "f60b93e1-a9b3-4b76-b692-8879c07a09fa",
+        "type": "message",
+        "text": "and idk this is why I said stackoverflow needs a blog area",
+        "user": "U15HRTAHL",
+        "ts": "1550172070.010700"
+    },
+    {
+        "client_msg_id": "9dc3e0b1-cbfb-4ba3-9437-d87a857ae454",
+        "type": "message",
+        "text": "I don't have a specific one I read either",
+        "user": "U15J5H60P",
+        "ts": "1550172189.011000"
+    },
+    {
+        "client_msg_id": "e3205bca-2104-448f-8559-142ae4dd1946",
+        "type": "message",
+        "text": "I'm trying to find new ones",
+        "user": "U15J5H60P",
+        "ts": "1550172192.011200"
+    },
+    {
+        "client_msg_id": "86a4ccb3-9d68-43e5-9538-3afc949af07a",
+        "type": "message",
+        "text": "if you find any let me know",
+        "user": "U15HRTAHL",
+        "ts": "1550172952.011400"
+    },
+    {
+        "client_msg_id": "07dfc45d-c2db-414e-af64-76004fa998ab",
+        "type": "message",
+        "text": "Do you read any?",
+        "user": "U15J5H60P",
+        "ts": "1550173351.011700"
+    },
+    {
+        "client_msg_id": "042ac04b-a420-4b91-a43d-398da655b152",
+        "type": "message",
+        "text": "not any regularly",
+        "user": "U15HRTAHL",
+        "ts": "1550173486.011900"
+    },
+    {
+        "client_msg_id": "13f97cf4-5499-4f6a-b82b-755dc21ad8d7",
+        "type": "message",
+        "text": "mainly when im learning something new I’ll read something based on a google search",
+        "user": "U15HRTAHL",
+        "ts": "1550173501.012300"
+    },
+    {
+        "client_msg_id": "99d05ff6-0cfe-4d20-baa7-8cd9e25cf4ec",
+        "type": "message",
+        "text": "or if I’m pissed about something I’ll search for what I’m having a problem with and include “sucks” at the end",
+        "user": "U15HRTAHL",
+        "ts": "1550173527.013000"
+    },
+    {
+        "client_msg_id": "3347a2e7-6e48-4663-87d1-bcbcb6f92561",
+        "type": "message",
+        "text": "lol",
+        "user": "U15J5H60P",
+        "ts": "1550173535.013200"
+    },
+    {
+        "client_msg_id": "679fa481-073f-4f13-a668-e0b192bf2bc9",
+        "type": "message",
+        "text": "<@U15HRTAHL> I assumed you meant for the fun of it, but based on what you just said, obviously I read them to figure out wtf i'm doing",
+        "user": "U15HY5TG8",
+        "ts": "1550183589.014400"
+    },
+    {
+        "client_msg_id": "01a96cdb-8d1a-4160-9652-e210e7180521",
+        "type": "message",
+        "text": "ehhhh",
+        "user": "U15HRTAHL",
+        "ts": "1550183678.014600"
+    },
+    {
+        "client_msg_id": "f3a817cd-f5b6-4b8e-ba5b-0d6f89b4ddd4",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1549937365001600>",
+        "user": "U15HRTAHL",
+        "ts": "1550183706.015000",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1549937365001600",
+                "fallback": "[February 11th, 2019 6:09 PM] joeythomaschaske: Where do you go currently to read up on stacks?",
+                "ts": "1549937365.001600",
+                "author_id": "U15HRTAHL",
+                "author_subname": "Joe",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "Where do you go currently to read up on stacks?",
+                "author_name": "Joe",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HRTAHL",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-12\/477697878530_f12fe70c33e91b1d3eda_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1549937365001600",
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58051299-8855-46ed-9d81-1839cb4f2803",
+        "type": "message",
+        "text": "<https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1549937384001800>",
+        "user": "U15HRTAHL",
+        "ts": "1550183709.015300",
+        "attachments": [
+            {
+                "from_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1549937384001800",
+                "fallback": "[February 11th, 2019 6:09 PM] ev: I dont",
+                "ts": "1549937384.001800",
+                "author_id": "U15HY5TG8",
+                "author_subname": "Ev",
+                "channel_id": "C1B6JA124",
+                "channel_name": "programming",
+                "is_msg_unfurl": true,
+                "text": "I dont",
+                "author_name": "Ev",
+                "author_link": "https:\/\/freeuwmke.slack.com\/team\/U15HY5TG8",
+                "author_icon": "https:\/\/avatars.slack-edge.com\/2018-11-15\/480422119888_92da814beef2c4f02db6_48.jpg",
+                "mrkdwn_in": [
+                    "text"
+                ],
+                "id": 1,
+                "original_url": "https:\/\/freeuwmke.slack.com\/archives\/C1B6JA124\/p1549937384001800",
+                "footer": "Posted in #programming"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1c74e19d-fbb5-483f-a6cd-4b7c72775b72",
+        "type": "message",
+        "text": "ehhhh what",
+        "user": "U15HY5TG8",
+        "ts": "1550183729.015600"
+    },
+    {
+        "client_msg_id": "c3b61e9e-d2c8-4ae6-8adf-bef224d028c3",
+        "type": "message",
+        "text": "nvm",
+        "user": "U15HRTAHL",
+        "ts": "1550183747.015900"
+    }
+]

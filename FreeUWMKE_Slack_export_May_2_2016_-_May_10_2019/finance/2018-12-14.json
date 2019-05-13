@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "6e0ac414-114f-4d44-8e88-e60d8217f206",
+        "type": "message",
+        "text": "I'm down $500 overall",
+        "user": "U15J5H60P",
+        "ts": "1544809574.009100"
+    },
+    {
+        "client_msg_id": "0dd21417-936f-41f2-8a64-e9ac9f516a8d",
+        "type": "message",
+        "text": "Neat",
+        "user": "U15J5H60P",
+        "ts": "1544809575.009400"
+    },
+    {
+        "client_msg_id": "5467c346-c916-483e-94cc-ee7fedad1466",
+        "type": "message",
+        "text": "Fucking Micron and Wyndham",
+        "user": "U15J5H60P",
+        "ts": "1544809584.009600"
+    },
+    {
+        "client_msg_id": "87a70940-ce9e-4341-8bb3-4c8d24b4e891",
+        "type": "message",
+        "text": "$407 for me",
+        "user": "U15HRTAHL",
+        "ts": "1544809602.009800"
+    },
+    {
+        "client_msg_id": "12714b59-14bf-40c2-b96d-218a59a4c3aa",
+        "type": "message",
+        "text": "Down?",
+        "user": "U15J5H60P",
+        "ts": "1544809606.010000"
+    },
+    {
+        "client_msg_id": "594014f8-37a0-47e0-b4f8-04cf5d971535",
+        "type": "message",
+        "text": "yeah",
+        "user": "U15HRTAHL",
+        "ts": "1544809608.010200"
+    },
+    {
+        "client_msg_id": "0bf6e418-fbb8-45ab-bf08-ff5660dbf651",
+        "type": "message",
+        "text": "Hopefully it's just temporary",
+        "user": "U15J5H60P",
+        "ts": "1544809620.010700"
+    },
+    {
+        "client_msg_id": "4199ea62-0ba3-47cb-9523-7cee05882d2b",
+        "type": "message",
+        "text": "lol My banks savings account interest rate is 0.06%",
+        "user": "U15J5H60P",
+        "ts": "1544812135.011000"
+    },
+    {
+        "type": "message",
+        "text": "Neat",
+        "files": [
+            {
+                "id": "FEULV7JUD",
+                "mode": "tombstone"
+            }
+        ],
+        "upload": true,
+        "user": "U15J5H60P",
+        "display_as_bot": null,
+        "upload_reply_to": "69905CC4-0E53-4FF2-9455-7706360EC2DC",
+        "ts": "1544817061.011100"
+    },
+    {
+        "bot_id": "B696MB84Q",
+        "type": "message",
+        "text": "",
+        "user": "U15HRTAHL",
+        "ts": "1544817960.011500",
+        "attachments": [
+            {
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/fvNdHgpZ571y8",
+                "image_url": "https:\/\/media2.giphy.com\/media\/fvNdHgpZ571y8\/giphy.gif?cid=6104955e5c140d246449546b73cfce03",
+                "image_width": 400,
+                "image_height": 225,
+                "image_bytes": 1036491,
+                "is_animated": true,
+                "title": "hehehehe",
+                "footer": "Posted using \/giphy",
+                "id": 1,
+                "title_link": "https:\/\/giphy.com\/gifs\/fvNdHgpZ571y8"
+            }
+        ]
+    }
+]
